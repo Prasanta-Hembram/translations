@@ -5,13 +5,13 @@
     "cards-auth-change-number": "Regresar al número",
     "cards-auth-code": "Code",
     "cards-auth-country": "Country",
-    "cards-auth-agree-to-policies": "Al proceder verifico de que tengo al menos 14 años de edad, y estoy de acuerdo de apegarme a los {termsOfUse}, las políticas {privacyPolicy} y las políticas {cookiePolicy}. Podré retirar este consentimiento en cualquier momento en Ajustes.",
+    "cards-auth-agree-to-policies": "Al proceder afirmo que tengo al menos 14 años de edad, y estoy de acuerdo de apegarme a los {termsOfUse}, las políticas {privacyPolicy} y las políticas {cookiePolicy}. Podré retirar este consentimiento en cualquier momento en la configuración de Ajustes.",
     "cards-auth-link-terms-of-use": "Normas y términos de uso",
     "cards-auth-link-privacy-policy": "Privacidad",
     "cards-auth-link-cookies-policy": "Cookies",
     "cards-auth-next-step": "Estoy de acuerdo, continuar",
     "cards-auth-number": "Número",
-    "cards-auth-type-phone-number-here": "Escribir número",
-    "cards-auth-type-sms-code-here": "Escribir mensaje de texto"
+    "cards-auth-type-phone-number-here": "Escriba el número",
+    "cards-auth-type-sms-code-here": "Escriba el código SMS"
   }
 }
