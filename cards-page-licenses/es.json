@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-licenses-error-no-internet-description": "No internet.",
-    "cards-page-licenses-error-no-internet-action": "Reload",
-    "cards-page-licenses-settings-main-title": "Settings",
+    "cards-page-licenses-error-no-internet-action": "Recargar",
+    "cards-page-licenses-error-no-internet-description": "No hay internet.",
+    "cards-page-licenses-settings-main-title": "Ajustes",
     "cards-page-licenses-title": "Licencias"
   }
 }

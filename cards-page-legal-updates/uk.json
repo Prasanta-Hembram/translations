@@ -3,7 +3,7 @@
     "cards-page-legal-updates-agree-action": "Погодитись",
     "cards-page-legal-updates-agree-title": "Зміна політики",
     "cards-page-legal-updates-disagree-action": "Відхилити",
-    "cards-page-legal-updates-error-no-internet-action": "Reload",
-    "cards-page-legal-updates-error-no-internet-description": "No internet."
+    "cards-page-legal-updates-error-no-internet-action": "Перезавантажити",
+    "cards-page-legal-updates-error-no-internet-description": "Перевірте з'єднання з інтернетом."
   }
 }

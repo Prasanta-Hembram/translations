@@ -1,14 +1,9 @@
 {
   "data": {
-    "cards-page-organization-card-validation-my-cards-edit-fields-shared-basic-information":
-      "Basic Information",
-    "cards-page-organization-card-validation-my-cards-edit-fields-shared-emails-information":
-      "Emails",
-    "cards-page-organization-card-validation-my-cards-edit-fields-shared-phone-numbers-information":
-      "Phone numbers",
-    "cards-page-organization-card-validation-organizations-card-validation-preview":
-      "Card Preview",
-    "cards-page-organization-card-validation-organizations-card-validation-title":
-      "Enter required data"
+    "cards-page-organization-card-validation-my-cards-edit-fields-shared-basic-information": "Basic Information",
+    "cards-page-organization-card-validation-my-cards-edit-fields-shared-emails-information": "Emails",
+    "cards-page-organization-card-validation-my-cards-edit-fields-shared-phone-numbers-information": "Phone numbers",
+    "cards-page-organization-card-validation-organizations-card-validation-preview": "Card Preview",
+    "cards-page-organization-card-validation-organizations-card-validation-title": "Enter required data"
   }
 }

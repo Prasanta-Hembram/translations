@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-terms-error-no-internet-description": "No internet.",
-    "cards-page-terms-error-no-internet-action": "Reload",
-    "cards-page-terms-settings-main-title": "Settings",
+    "cards-page-terms-error-no-internet-action": "Recargar",
+    "cards-page-terms-error-no-internet-description": "No hay internet.",
+    "cards-page-terms-settings-main-title": "Ajustes",
     "cards-page-terms-title": "Normas y Términos de Uso",
     "cards-page-terms-withdraw-consent": "Retirar Consentimiento"    
   }

@@ -1,9 +1,9 @@
 {
   "data": {
     "cards-page-privacy-policy-withdraw-consent": "Retirar Consentimiento",
-    "cards-page-privacy-policy-error-no-internet-description": "No internet.",
-    "cards-page-privacy-policy-error-no-internet-action": "Reload",
-    "cards-page-privacy-policy-settings-main-title": "Settings",
+    "cards-page-privacy-policy-error-no-internet-action": "Recargar",
+    "cards-page-privacy-policy-error-no-internet-description": "No hay internet.",
+    "cards-page-privacy-policy-settings-main-title": "Ajustes",
     "cards-page-privacy-policy-title": "Políticas de Privacidad"
   }
 }
