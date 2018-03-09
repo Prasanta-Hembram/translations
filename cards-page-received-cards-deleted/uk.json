@@ -2,7 +2,7 @@
   "data": {  
     "cards-page-received-cards-deleted-notice": "Видалені картки залишаються тут протягом 30 днів. Після цього вони видаляються назавжди.",
     "cards-page-received-cards-deleted-no-cards": "Немає видалених карток.",
-    "cards-page-received-cards-deleted-restore": "Відновити",    
+    "cards-page-received-cards-deleted-restore": "Відновити",
     "cards-page-received-cards-deleted-title": "Видалені картки"
   }
 }

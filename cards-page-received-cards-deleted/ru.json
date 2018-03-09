@@ -2,7 +2,7 @@
   "data": {    
     "cards-page-received-cards-deleted-notice": "Удаленные карточки остаются здесь на протяжении 30 дней. После этого они удаляются навсегда.",
     "cards-page-received-cards-deleted-no-cards": "Нет удаленных карточек.",
-    "cards-page-received-cards-deleted-restore": "Восстановить",    
+    "cards-page-received-cards-deleted-restore": "Восстановить",
     "cards-page-received-cards-deleted-title": "Удаленные карточки"
   }
 }

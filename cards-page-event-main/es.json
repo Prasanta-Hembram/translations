@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-event-main-card-more": "Más opciones",   
+    "cards-page-event-main-card-more": "Más opciones",
     "cards-page-event-main-event-registration-not-started": "El evento no ha empezado aún.",
     "cards-page-event-main-event-registration-ended": "El periodo de registro para el evento finalizó.",
     "cards-page-event-main-exchange-successful": "Live card exchange successful.",
     "cards-page-event-main-details-join-title": "Join event",
-    "cards-page-event-main-join-event-description": "No se ha unido a este evento aún ¡Empecemos!",  
+    "cards-page-event-main-join-event-description": "No se ha unido a este evento aún ¡Empecemos!",
     "cards-page-event-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
-    "cards-page-event-main-share-action-sheet":"Add to live cards",    
+    "cards-page-event-main-share-action-sheet":"Add to live cards",
     "cards-page-event-main-title": "Eventos y Redes"
   }
 }

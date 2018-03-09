@@ -1,9 +1,9 @@
 {
   "data": {    
     "cards-page-event-details-address": "Venue",
-    "cards-page-event-details-attendees": "Attendees",    
+    "cards-page-event-details-attendees": "Attendees",
     "cards-page-event-details-end-date": "End",
-    "cards-page-event-details-info-title": "Event information",   
+    "cards-page-event-details-info-title": "Event information",
     "cards-page-event-details-join-title": "Join event",
     "cards-page-event-details-leave-event": "Leave event",
     "cards-page-event-details-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",

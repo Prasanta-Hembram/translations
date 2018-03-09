@@ -3,10 +3,10 @@
     "cards-page-sessions-active-cannot-load": "No se pueden cargar los detalles de las sesiones activas. Por favor verifique su conexión a internet.",
     "cards-page-sessions-active-empty": "No hay sesiones activas.", 
     "cards-page-sessions-current": "Sesiones activas",
-    "cards-page-sessions-current-cannot-load": "No se pueden cargar los detalles actuales de la sesión. Por favor verifique su conexión a internet.",    
+    "cards-page-sessions-current-cannot-load": "No se pueden cargar los detalles actuales de la sesión. Por favor verifique su conexión a internet.",
     "cards-page-sessions-description": "Esta es la lista de dispositivos que han iniciado sesión en Cards. Si no reconoce alguna de las sesiones activas, presione ··· y eliminela.",
     "cards-page-sessions-info": "Sobre las sesiones",
-    "cards-page-sessions-remove": "Eliminar sesión",    
+    "cards-page-sessions-remove": "Eliminar sesión",
     "cards-page-sessions-settings-main-title": "Ajustes",
     "cards-page-sessions-title": "Sesiones activas"
   }

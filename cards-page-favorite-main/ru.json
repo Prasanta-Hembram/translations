@@ -1,13 +1,13 @@
 {
   "data": {
     "cards-page-favorite-main-add": "Добавить к избранным",
-    "cards-page-favorite-main-add-to-group": "Добавить в группу",    
+    "cards-page-favorite-main-add-to-group": "Добавить в группу",
     "cards-page-favorite-main-edit-card": "Редактировать",
     "cards-page-favorite-main-empty-facebook-button": "Добавить карточки",
-    "cards-page-favorite-main-empty-text-add": "Добавьте карточки для быстрого доступа.",    
+    "cards-page-favorite-main-empty-text-add": "Добавьте карточки для быстрого доступа.",
     "cards-page-favorite-main-delete-card": "Удалить",
     "cards-page-favorite-main-more": "Другие функции",
-    "cards-page-favorite-main-remove-from-favorites": "Убрать из избранных",  
+    "cards-page-favorite-main-remove-from-favorites": "Убрать из избранных",
     "cards-page-favorite-main-title": "Избранные"
   }
 }

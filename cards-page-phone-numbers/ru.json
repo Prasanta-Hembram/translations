@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-phone-numbers-added": "Сохраненные номера",   
-    "cards-page-phone-numbers-add-number": "Добавить номер",    
+    "cards-page-phone-numbers-added": "Сохраненные номера",
+    "cards-page-phone-numbers-add-number": "Добавить номер",
     "cards-page-phone-numbers-delete-account": "Удалить учетную запись",
     "cards-page-phone-numbers-important": "Важно",
     "cards-page-phone-numbers-info": "Добавьте несколько номеров телефона для синхронизации и доступа к andCards на всех устройствах. Альтернативного способу залогуватися не існує. Переконайтесь, що ви можете отримувати СМС з паролем на телефон.",
@@ -10,6 +10,6 @@
     "cards-page-phone-numbers-remove": "Удалить номер телефона",
     "cards-page-phone-numbers-no-data": "Нет номера телефона или интернета",
     "cards-page-phone-numbers-settings-main-title": "Настройки",
-    "cards-page-phone-numbers-title": "Номер телефона"   
+    "cards-page-phone-numbers-title": "Номер телефона"
   }
 }

@@ -1,14 +1,14 @@
 {
   "data": {
     "cards-page-organization-announcement-create-cancel": "Скасувати",
-    "cards-page-organization-announcement-create-contents": "Зміст",    
+    "cards-page-organization-announcement-create-contents": "Зміст",
     "cards-page-organization-announcement-create-date": "Дата",
     "cards-page-organization-announcement-create-notification-push": "Push Notification",
     "cards-page-organization-announcement-create-send": "Відправити",
     "cards-page-organization-announcement-create-stack-title": "Створити оголошення",
     "cards-page-organization-announcement-create-target-guilds": "Цільові гільдії",
-    "cards-page-organization-announcement-create-target-guilds-select-all": "Всі учасники",    
-    "cards-page-organization-announcement-create-text-placeholder": "Уведіть текст оголошення",    
-    "cards-page-organization-announcement-create-title": "Назва"  
+    "cards-page-organization-announcement-create-target-guilds-select-all": "Всі учасники",
+    "cards-page-organization-announcement-create-text-placeholder": "Уведіть текст оголошення",
+    "cards-page-organization-announcement-create-title": "Назва"
   }
 }

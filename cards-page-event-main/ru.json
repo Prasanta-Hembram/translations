@@ -1,13 +1,13 @@
 {
   "data": {    
-    "cards-page-event-main-card-more": "More options",    
+    "cards-page-event-main-card-more": "More options",
     "cards-page-event-main-event-registration-not-started": "Регистрация на событие еще не началась",
     "cards-page-event-main-event-registration-ended": "Регистрация на событие уже закончилось",
     "cards-page-event-main-exchange-successful": "Live card exchange successful.",
     "cards-page-event-main-details-join-title": "Join event",
-    "cards-page-event-main-join-event-description": "Вы еще не присоединились к этому событию. Поехали!",    
+    "cards-page-event-main-join-event-description": "Вы еще не присоединились к этому событию. Поехали!",
     "cards-page-event-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
     "cards-page-event-main-share-action-sheet":"Add to live cards",
-    "cards-page-event-main-title": "События и нетворкинг"  
+    "cards-page-event-main-title": "События и нетворкинг"
   }
 }
