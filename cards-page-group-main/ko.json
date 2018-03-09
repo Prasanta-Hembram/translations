@@ -9,6 +9,8 @@
     "cards-page-group-main-delete-group": "삭제하기",
     "cards-page-group-main-edit-card": "편집",
     "cards-page-group-main-empty-button": "카드를 추가하기",
+    "cards-page-group-main-group-does-not-exist": "Group does not exist",
+    "cards-page-group-main-group-does-not-exist-action": "Return to home page",
     "cards-page-group-main-more": "기타 기능", 
     "cards-page-group-main-rename-group": "그룹 이름 바꾸기"
   }
