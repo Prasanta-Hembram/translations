@@ -1,0 +1,23 @@
+{
+  "data": {
+    "marketing-features-title": "andCards: Цены — тарифные планы для пользователей, коворкингов, компаний",
+    "marketing-features-description": "Бесплатная загрузка для индивидуальных пользователей, низкая стоимость для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
+    "marketing-features-heading": "Сильное сообщество — это бесценно",
+    "marketing-features-paragraph": "Вам не показалось, andCards для сообществ стоит всего 50 копеек за участника в день!",
+    "marketing-features-personal-title": "Личный",
+    "marketing-features-personal-description": "Управляйте всегда актуальными контактами, присоединяйтесь к сообществам и посещайте мероприятия",
+    "marketing-features-personal-price": "0 ₴",
+    "marketing-features-personal-condition": "навсегда",
+    "marketing-features-personal-action": "Зарегистрироваться",
+    "marketing-features-community-title": "Сообщество",
+    "marketing-features-community-description": "Создавайте каталог сообщества, организовывайте и продвигайте события",
+    "marketing-features-community-price": "0.5 ₴",
+    "marketing-features-community-condition": "за участника в день",
+    "marketing-features-community-action": "Попробовать бесплатно",
+    "marketing-features-enterprise-title": "Компания",
+    "marketing-features-enterprise-description": "Мощное решение для больших компаний: интеграции, SSO, премиум поддержка",
+    "marketing-features-enterprise-price": "1 ₴",
+    "marketing-features-enterprise-condition": "за участника в день",
+    "marketing-features-enterprise-action": "Свяжитесь с нами"
+  }
+}
