@@ -8,8 +8,10 @@
     "cards-page-group-main-delete-card-from-group": "Sacar del grupo",
     "cards-page-group-main-delete-group": "Eliminar",
     "cards-page-group-main-edit-card": "Editar",
-    "cards-page-group-main-empty-button": "Añadir tarjetas",    
-    "cards-page-group-main-more": "Más opciones",    
+    "cards-page-group-main-empty-button": "Añadir tarjetas",
+    "cards-page-group-main-group-does-not-exist": "Group does not exist",
+    "cards-page-group-main-group-does-not-exist-action": "Return to home page",
+    "cards-page-group-main-more": "Más opciones",
     "cards-page-group-main-rename-group": "Cambiar nombre de grupo"
   }
 }

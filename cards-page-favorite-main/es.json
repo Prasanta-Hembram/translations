@@ -1,13 +1,13 @@
 {
   "data": {   
     "cards-page-favorite-main-add": "Añadir a favoritos",
-    "cards-page-favorite-main-add-to-group": "Añadir al grupo",   
+    "cards-page-favorite-main-add-to-group": "Añadir al grupo",
     "cards-page-favorite-main-edit-card": "Editar tarjeta",
     "cards-page-favorite-main-empty-facebook-button": "Añadir trajetas",
-    "cards-page-favorite-main-empty-text-add": "Añade algunas tarjetas a esta pila para un acceso rápido.",   
+    "cards-page-favorite-main-empty-text-add": "Añade algunas tarjetas a esta pila para un acceso rápido.",
     "cards-page-favorite-main-delete-card": "Eliminar tarjeta",
     "cards-page-favorite-main-more": "Más opciones",
-    "cards-page-favorite-main-remove-from-favorites": "Eliminar de favoritos",   
+    "cards-page-favorite-main-remove-from-favorites": "Eliminar de favoritos",
     "cards-page-favorite-main-title": "Favoritos"
   }
 }

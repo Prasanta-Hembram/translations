@@ -2,12 +2,12 @@
   "data": {
     "cards-page-received-cards-main-add-received-cards": "Add cards",
     "cards-page-received-cards-main-add-to-favorites": "즐겨찾기에 추가",
-    "cards-page-received-cards-main-add-to-group": "그룹에 추가...",   
+    "cards-page-received-cards-main-add-to-group": "그룹에 추가...",
     "cards-page-received-cards-main-card-delete": "삭제",
-    "cards-page-received-cards-main-card-edit":  "편집",   
-    "cards-page-received-cards-main-deleted-title": "Deleted cards",    
+    "cards-page-received-cards-main-card-edit":  "편집",
+    "cards-page-received-cards-main-deleted-title": "Deleted cards",
     "cards-page-received-cards-main-empty-button": "라이브 카드 받기",
-    "cards-page-received-cards-main-empty-text-add": "공유 코드를 입력하려면 아래 버튼을 누르십시오.",    
+    "cards-page-received-cards-main-empty-text-add": "공유 코드를 입력하려면 아래 버튼을 누르십시오.",
     "cards-page-received-cards-main-more": "기타 기능",
     "cards-page-received-cards-main-title": "연락처"
   }
