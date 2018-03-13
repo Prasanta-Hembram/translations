@@ -9,6 +9,7 @@
     "cards-page-settings-main-sign-out": "Log Out",
     "cards-page-settings-main-account": "Account",
     "cards-page-settings-main-sorting-first-last": "First, Last",
-    "cards-page-settings-main-sorting-last-first": "Last, First"
+    "cards-page-settings-main-sorting-last-first": "Last, First",
+    "cards-page-settings-main-version": "Version"
   }
 }
