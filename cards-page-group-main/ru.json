@@ -8,10 +8,10 @@
     "cards-page-group-main-delete-card-from-group": "Убрать из группы",
     "cards-page-group-main-delete-group": "Удалить",
     "cards-page-group-main-edit-card": "Редактировать",
+    "cards-page-group-main-edit-group": "Edit Group",
     "cards-page-group-main-empty-button": "Добавить карточки",
     "cards-page-group-main-group-does-not-exist": "Group does not exist",
     "cards-page-group-main-group-does-not-exist-action": "Return to home page",
-    "cards-page-group-main-more": "Другие функции",
-    "cards-page-group-main-rename-group": "Переименовать"
+    "cards-page-group-main-more": "Другие функции"
   }
 }
