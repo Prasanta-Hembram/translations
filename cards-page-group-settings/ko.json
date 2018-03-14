@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-group-settings-cancel": "취소",
+    "cards-page-group-settings-navbar-title": "Group Settings",
     "cards-page-group-settings-save": "저장하기",
     "cards-page-group-settings-title": "그룹 이름",
     "cards-page-group-settings-title-placeholder": "그룹 이름 입력"
