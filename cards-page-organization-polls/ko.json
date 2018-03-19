@@ -1,7 +1,8 @@
 {
   "data": {
-    "cards-page-organization-polls-title": "설문 조사",
     "cards-page-organization-polls-button": "문의하기",
-    "cards-page-organization-polls-no-polls": "설문 조사 없습니다."
+    "cards-page-organization-polls-no-polls": "설문 조사 없습니다.",
+    "cards-page-organization-polls-not-found-error": "No internet",
+    "cards-page-organization-polls-title": "설문 조사"
   }
 }

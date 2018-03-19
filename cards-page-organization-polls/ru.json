@@ -1,7 +1,8 @@
 {
   "data": {
-    "cards-page-organization-polls-title": "Вопросы и ответы",
     "cards-page-organization-polls-button": "Задать вопрос",
-    "cards-page-organization-polls-no-polls": "Нет вопросов и ответов."
+    "cards-page-organization-polls-not-found-error": "No internet",
+    "cards-page-organization-polls-no-polls": "Нет вопросов и ответов.",
+    "cards-page-organization-polls-title": "Вопросы и ответы"
   }
 }

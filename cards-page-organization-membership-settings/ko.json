@@ -4,6 +4,7 @@
     "cards-page-organization-membership-settings-leave-failure":"Failed to leave organization",
     "cards-page-organization-membership-settings-leave-organization": "이 조직 나가기",
     "cards-page-organization-membership-settings-leave-repeat": "Try again",
+    "cards-page-organization-membership-settings-not-found-error" : "No internet",
     "cards-page-organization-membership-settings-role": "역할",
     "cards-page-organization-membership-settings-role-admin": "관리자",
     "cards-page-organization-membership-settings-role-moderator": "의장",

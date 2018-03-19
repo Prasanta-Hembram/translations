@@ -4,6 +4,7 @@
     "cards-page-organization-membership-settings-leave-failure":"Failed to leave organization",
     "cards-page-organization-membership-settings-leave-organization": "Dejar la organización",
     "cards-page-organization-membership-settings-leave-repeat": "Try again",
+    "cards-page-organization-membership-settings-not-found-error" : "No internet",
     "cards-page-organization-membership-settings-role": "Rol",
     "cards-page-organization-membership-settings-role-admin": "Administrador",
     "cards-page-organization-membership-settings-role-moderator": "Moderador",

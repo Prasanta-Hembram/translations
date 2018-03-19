@@ -1,7 +1,8 @@
 {
   "data": {
-    "cards-page-organization-polls-title": "Polls",
     "cards-page-organization-polls-button": "Ask a question",
-    "cards-page-organization-polls-no-polls": "No polls."
+    "cards-page-organization-polls-not-found-error": "No internet",
+    "cards-page-organization-polls-no-polls": "No polls.",
+    "cards-page-organization-polls-title": "Polls"
   }
 }
