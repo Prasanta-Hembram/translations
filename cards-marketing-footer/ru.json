@@ -1,25 +1,23 @@
 {
   "data": {
-    "marketing-footer-highlight-directory-products": "Продукты",
-    "marketing-footer-highlight-directory-home": "Главная",
-    "marketing-footer-highlight-directory-features": "Features",
-    "marketing-footer-highlight-directory-pricing": "Цены",
-    "marketing-footer-highlight-directory-knowledge": "Информация",
-    "marketing-footer-highlight-directory-blogs": "Блоги и новости",
-    "marketing-footer-highlight-directory-help": "Справочный центр",
-    "marketing-footer-highlight-directory-cookies": "Куки-файлы",
-    "marketing-footer-highlight-directory-terms": "Условия использования",
-    "marketing-footer-highlight-directory-legal": "Политики",
-    "marketing-footer-highlight-directory-licenses": "Лицензии",
-    "marketing-footer-highlight-directory-privacy": "Конфиденциальность",
-    "marketing-footer-highlight-directory-about": "О компании",
-    "marketing-footer-highlight-directory-connect": "Сети",
-    "marketing-footer-highlight-directory-behance": "Behance",
+    "marketing-footer-highlight-directory-about": "About Company",
+    "marketing-footer-highlight-directory-behance": "Behance Blog",
+    "marketing-footer-highlight-directory-blogs": "Blogs & News",
+    "marketing-footer-highlight-directory-connect": "Connect",
+    "marketing-footer-highlight-directory-cookies": "Cookies Policy",
     "marketing-footer-highlight-directory-facebook": "Facebook",
+    "marketing-footer-highlight-directory-features": "Features",
+    "marketing-footer-highlight-directory-help": "Help Center",
+    "marketing-footer-highlight-directory-home": "Home",
     "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
-    "marketing-footer-highlight-directory-naver": "Naver Блог",
-    "marketing-footer-highlight-directory-medium": "Medium Блог",
-    "marketing-footer-copyright-all-rights-reserved":
-      "©2017-2018 Корпорация Cards"
+    "marketing-footer-highlight-directory-knowledge": "Knowledge",
+    "marketing-footer-highlight-directory-legal": "Legal",
+    "marketing-footer-highlight-directory-licenses": "Licenses",
+    "marketing-footer-highlight-directory-naver": "Naver Blog",
+    "marketing-footer-highlight-directory-medium": "Medium Blog",
+    "marketing-footer-highlight-directory-pricing": "Pricing",
+    "marketing-footer-highlight-directory-privacy": "Privacy Policy",
+    "marketing-footer-highlight-directory-products": "Products",
+    "marketing-footer-highlight-directory-terms": "Terms of Use"
   }
 }

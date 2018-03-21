@@ -1,25 +1,23 @@
 {
   "data": {
-    "marketing-footer-highlight-directory-products": "제품",
-    "marketing-footer-highlight-directory-home": "홈페이지",
+    "marketing-footer-highlight-directory-about": "About Company",
+    "marketing-footer-highlight-directory-behance": "Behance Blog",
+    "marketing-footer-highlight-directory-blogs": "Blogs & News",
+    "marketing-footer-highlight-directory-connect": "Connect",
+    "marketing-footer-highlight-directory-cookies": "Cookies Policy",
+    "marketing-footer-highlight-directory-facebook": "Facebook",
     "marketing-footer-highlight-directory-features": "Features",
-    "marketing-footer-highlight-directory-pricing": "가격 정책",
-    "marketing-footer-highlight-directory-knowledge": "지식",
-    "marketing-footer-highlight-directory-blogs": "블로그&뉴스",
-    "marketing-footer-highlight-directory-help": "고객센터",
-    "marketing-footer-highlight-directory-terms": "이용약관",
-    "marketing-footer-highlight-directory-legal": "정책",
-    "marketing-footer-highlight-directory-licenses": "라이선스",
-    "marketing-footer-highlight-directory-cookies": "쿠키 정책",
-    "marketing-footer-highlight-directory-privacy": "개인 정보 보호",
-    "marketing-footer-highlight-directory-about": "회사 정보",
-    "marketing-footer-highlight-directory-connect": "SNS",
-    "marketing-footer-highlight-directory-behance": "Behance",
-    "marketing-footer-highlight-directory-facebook": "페이스북",
-    "marketing-footer-highlight-directory-kakao": "카카오 플러스친구",
-    "marketing-footer-highlight-directory-naver": "네이버 블로그",
-    "marketing-footer-highlight-directory-medium": "Medium 블로그",
-    "marketing-footer-copyright-all-rights-reserved":
-      "©2017-2018 상호명 : 주식회사 카드스; 대표자 : 드제비안 이고르; 주소 : 서울특별시 용산구 청파로 109, 3층; 대표전화 : 02-707-3791; 사업자등록번호 : 830-86-00706; 통신판매업신고번호 : 2017-서울용산-0993"
+    "marketing-footer-highlight-directory-help": "Help Center",
+    "marketing-footer-highlight-directory-home": "Home",
+    "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
+    "marketing-footer-highlight-directory-knowledge": "Knowledge",
+    "marketing-footer-highlight-directory-legal": "Legal",
+    "marketing-footer-highlight-directory-licenses": "Licenses",
+    "marketing-footer-highlight-directory-naver": "Naver Blog",
+    "marketing-footer-highlight-directory-medium": "Medium Blog",
+    "marketing-footer-highlight-directory-pricing": "Pricing",
+    "marketing-footer-highlight-directory-privacy": "Privacy Policy",
+    "marketing-footer-highlight-directory-products": "Products",
+    "marketing-footer-highlight-directory-terms": "Terms of Use"
   }
 }
