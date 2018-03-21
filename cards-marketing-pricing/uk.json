@@ -1,23 +1,8 @@
 {
   "data": {
-    "marketing-pricing-title": "andCards: Ціни — тарифні плани для користувачів, коворкінгів, компаній",
-    "marketing-pricing-description": "Безкоштовне завантаження для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз з безкоштовною пробною версією!",
-    "marketing-pricing-heading": "Сильна спільнота — безцінно",
-    "marketing-pricing-paragraph": "Вам не примарилось, andCards для спільнот коштує всього 50 копійок за користувача в день!",
-    "marketing-pricing-personal-title": "Особистий",
-    "marketing-pricing-personal-description": "Отримайте завжди оновлені контакти, приєднуйтесь до спільнот та відвідуйте події",
-    "marketing-pricing-personal-price": "0 ₴",
-    "marketing-pricing-personal-condition": "назавжди",
-    "marketing-pricing-personal-action": "Зареєструватися",
-    "marketing-pricing-community-title": "Спільнота",
-    "marketing-pricing-community-description": "Все для вашої спільноти: каталог учасників, анонси, події, і багато іншого",
-    "marketing-pricing-community-price": "0.5 ₴",
-    "marketing-pricing-community-condition": "за учасника в день",
-    "marketing-pricing-community-action": "Спробувати безкоштовно",
-    "marketing-pricing-enterprise-title": "Компанія",
-    "marketing-pricing-enterprise-description": "Потужне рішення для великих компаній: інтеграції, SSO, преміум підтримка",
-    "marketing-pricing-enterprise-price": "1 ₴",
-    "marketing-pricing-enterprise-condition": "за учасника в день",
-    "marketing-pricing-enterprise-action": "Зв'яжіться з нами"
+    "marketing-pricing-advanced-features-affordable": "Advanced features — affordable. The time you save — priceless.",
+    "marketing-pricing-basic-features-free": "Basic features — free.",
+    "marketing-pricing-description": "Empower your community: people directory: events: notifications: polls and other features",
+    "marketing-pricing-title": "andCards Pricing"
   }
 }
