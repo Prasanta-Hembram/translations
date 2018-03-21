@@ -6,6 +6,7 @@
     "cards-page-organization-guild-main-delete": "Eliminar Gremio",
     "cards-page-organization-guild-main-delete-failure": "Error al eliminar el Gremio",
     "cards-page-organization-guild-main-delete-repeat": "Inténtalo de nuevo",
+    "cards-page-organization-guild-main-delete-user-action-sheet": "Remove user from organization",
     "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Live card exchange successful.",
     "cards-page-organization-guild-main-no-cards": "No hay tarjetas en este gremio",
     "cards-page-organization-guild-main-not-found-error": "No guild found",
