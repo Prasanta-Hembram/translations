@@ -1,23 +1,16 @@
 {
   "data": {
-    "marketing-features-title": "andCards: Ціни — тарифні плани для користувачів, коворкінгів, компаній",
-    "marketing-features-description": "Безкоштовне завантаження для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз з безкоштовною пробною версією!",
-    "marketing-features-heading": "Сильна спільнота — безцінно",
-    "marketing-features-paragraph": "Вам не примарилось, andCards для спільнот коштує всього 50 копійок за користувача в день!",
-    "marketing-features-personal-title": "Особистий",
-    "marketing-features-personal-description": "Отримайте завжди оновлені контакти, приєднуйтесь до спільнот та відвідуйте події",
-    "marketing-features-personal-price": "0 ₴",
-    "marketing-features-personal-condition": "назавжди",
-    "marketing-features-personal-action": "Зареєструватися",
-    "marketing-features-community-title": "Спільнота",
-    "marketing-features-community-description": "Все для вашої спільноти: каталог учасників, анонси, події, і багато іншого",
-    "marketing-features-community-price": "0.5 ₴",
-    "marketing-features-community-condition": "за учасника в день",
-    "marketing-features-community-action": "Спробувати безкоштовно",
-    "marketing-features-enterprise-title": "Компанія",
-    "marketing-features-enterprise-description": "Потужне рішення для великих компаній: інтеграції, SSO, преміум підтримка",
-    "marketing-features-enterprise-price": "1 ₴",
-    "marketing-features-enterprise-condition": "за учасника в день",
-    "marketing-features-enterprise-action": "Зв'яжіться з нами"
+    "marketing-features-announcements-title": "Announcements",
+    "marketing-features-booking-system-title": "Booking System",
+    "marketing-features-description": "Empower your community: people directory: events: notifications: polls and other features",
+    "marketing-features-directory-title": "Directory",
+    "marketing-features-events-title": "Events",
+    "marketing-features-everything-you-need": "Everything you need at your coworking space",
+    "marketing-features-in-development": "Coming Soon",
+    "marketing-features-request-demo": "Request demo",
+    "marketing-features-request-demo-link": "Get in touch",
+    "marketing-features-request-feature": "Need a feature?",
+    "marketing-features-statistics-title": "Statistics",
+    "marketing-features-title": "andCards Features"
   }
 }

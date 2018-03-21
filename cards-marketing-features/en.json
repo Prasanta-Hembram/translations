@@ -1,23 +1,16 @@
 {
   "data": {
-    "marketing-features-title": "andCards: Pricing — price plans for users, coworkings, enterprise",
-    "marketing-features-description": "Free download for individual users, low cost for coworkings and affordable subscription for companies. Start building your own community right now with a free trial!",
-    "marketing-features-heading": "Networking culture, delivered.",
-    "marketing-features-paragraph": "You've got it right, andCards Community costs only 5 cents per user per day!",
-    "marketing-features-personal-title": "Personal",
-    "marketing-features-personal-description": "Keep your contacts up-to-date, join communities and network at events",
-    "marketing-features-personal-price": "Free",
-    "marketing-features-personal-condition": "forever",
-    "marketing-features-personal-action": "Sign up now",
-    "marketing-features-community-title": "Community",
-    "marketing-features-community-description": "Everything your community needs to grow: directory, events, announcements, and more.",
-    "marketing-features-community-price": "5¢",
-    "marketing-features-community-condition": "per user per day",
-    "marketing-features-community-action": "Request free trial",
-    "marketing-features-enterprise-title": "Enterprise",
-    "marketing-features-enterprise-description": "Custom solution for large companies: integrations, SSO, priority support",
-    "marketing-features-enterprise-price": "10¢",
-    "marketing-features-enterprise-condition": "per user per day",
-    "marketing-features-enterprise-action": "Contact us"
+    "marketing-features-announcements-title": "Announcements",
+    "marketing-features-booking-system-title": "Booking System",
+    "marketing-features-description": "Empower your community: people directory: events: notifications: polls and other features",
+    "marketing-features-directory-title": "Directory",
+    "marketing-features-events-title": "Events",
+    "marketing-features-everything-you-need": "Everything you need at your coworking space",
+    "marketing-features-in-development": "Coming Soon",
+    "marketing-features-request-demo": "Request demo",
+    "marketing-features-request-demo-link": "Get in touch",
+    "marketing-features-request-feature": "Need a feature?",
+    "marketing-features-statistics-title": "Statistics",
+    "marketing-features-title": "andCards Features"
   }
 }
