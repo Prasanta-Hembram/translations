@@ -1,43 +1,14 @@
 {
   "data": {
-    "marketing-index-title":
-      "andCards: программное обеспечение для коворкинг-центров и событий",
-    "marketing-index-description":
-      "Организуйте коворкинг центр и события с ПО andCards. Каталог участников, мгновенный поиск, СМС и push уведомления, мероприятия, система бронировки комнат, интеграции, и многое другое.",
-
-    "marketing-index-highlight-main-heading":
-      "Программное обеспечение для коворкингов и событий",
-    "marketing-index-highlight-main-app-open": "Вход или регистрация",
-    "marketing-index-highlight-main-app-downloads": "Загрузки",
-
-    "marketing-index-feature-discovery-title": "ПО для коворкинга",
-    "marketing-index-feature-discovery-info":
-      "Каталог участников, система резервации переговорных, объявления, организация событий, интеграции и многое другое.",
-    "marketing-index-feature-discovery-action": "Функции и цены",
-    "marketing-index-feature-networking-title": "Управление событиями",
-    "marketing-index-feature-networking-info":
-      "Организация и продвижение событий. Посетители видят друг друга и планируют встречи заранее.",
-    "marketing-index-feature-networking-action": "События",
-    "marketing-index-feature-contacts-title": "Контакты",
-    "marketing-index-feature-contacts-info":
-      "Контактная информация знакомых и друзей всегда актуальна благодаря приложению контактов andCards.",
-    "marketing-index-feature-contacts-action": "Загрузки",
-
-    "marketing-index-highlight-networking-partners-title": "Наши партнеры",
-
-    "marketing-index-highlight-download-app": "Бесплатно для всех платформ",
-    "marketing-index-highlight-download-smartphone": "Смартфон",
-    "marketing-index-highlight-download-desktop": "Компьютер",
-    "marketing-index-highlight-download-all-platforms": "Все платформы",
-    "marketing-index-highlight-download-web-app": "Веб-приложение",
-    "marketing-index-highlight-download-open-web-app": "Открыть веб-приложение",
-    "marketing-index-highlight-download-ios": "Загрузить для iOS",
-    "marketing-index-highlight-download-android": "Загрузить для Android",
-    "marketing-index-highlight-download-windows-mobile":
-      "Загрузить для Windows Mobile",
-    "marketing-index-highlight-download-mac-os": "Загрузить для macOS",
-    "marketing-index-highlight-download-windows": "Загрузить для Windows",
-    "marketing-index-highlight-download-fedora": "Загрузить для Fedora",
-    "marketing-index-highlight-download-ubuntu": "Загрузить для Ubuntu"
+    "marketing-index-description": "Empower your community: people directory: events: notifications: polls and other features",
+    "marketing-index-feature-coworking-directory": "Coworking Space Directory",
+    "marketing-index-feature-coworking-directory-description": "Build a business network for your coworking space residents.",
+    "marketing-index-highlight-it-starts-with": "Automate your coworking space to save time and earn more",
+    "marketing-index-highlight-main-booking-system": "Booking System",
+    "marketing-index-highlight-main-events": "Events",
+    "marketing-index-highlight-main-directory": "Directory",
+    "marketing-index-highlight-networking-partners-title": "We work with:",
+    "marketing-index-highlight-main-subtitle-1": "andCards software will make people love your coworking space: stay longer and easily book facilities.",
+    "marketing-index-title": "andCards — Empower your community"
   }
 }
