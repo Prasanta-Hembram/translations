@@ -4,8 +4,10 @@
     "cards-page-organization-main-announcements-all": "Все объявления",
     "cards-page-organization-main-announcement-create": "Объявить",
     "cards-page-organization-main-approve-requests": "Утверждение запросов",
+    "cards-page-organization-main-card-share-action-sheet": "Add to live cards",
     "cards-page-organization-main-cards-nothing-found": "Ничего не найдено",
     "cards-page-organization-main-create-guild": "Создать гильдию",
+    "cards-page-organization-main-delete-user-action-sheet": "Remove user from organization",
     "cards-page-organization-main-event-missing": "There is no such event.",
     "cards-page-organization-main-event-not-started": "Event not started yet.",
     "cards-page-organization-main-event-registration-ended": "Event registration already closed.",
@@ -15,11 +17,13 @@
     "cards-page-organization-main-everyone-title": "Everyone",
     "cards-page-organization-main-invite": "Пригласить",
     "cards-page-organization-main-membership-settings": "Управление участием",
+    "cards-page-organization-main-my-cards-share-exchange-successful": "Live card exchange successful.",
     "cards-page-organization-main-card-more": "Другие функции",
     "cards-page-organization-main-polls": "Вопросы",
     "cards-page-organization-main-polls-create": "Задать вопрос",
     "cards-page-organization-main-polls-all": "Все вопросы",
     "cards-page-organization-main-properties-title": "Booking List",
+    
     "cards-page-organization-main-settings": "Настройки организации"
   }
 }
