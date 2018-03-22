@@ -1,17 +1,17 @@
 {
   "data": {
     "marketing-about-description": "Empower your community: people directory: events: notifications: polls and other features",
-    "marketing-about-locations": "Locations",
-    "marketing-about-locations-lviv": "Lviv",
-    "marketing-about-locations-lviv-address": "iHUB\n 9 Zamknena Str.\n Lviv 79000\n Ukraine",
-    "marketing-about-locations-seoul": "Seoul",
-    "marketing-about-locations-seoul-address": "3F: 109 Cheongpa-ro:\n Yongsan-gu:\n Seoul 04370:\n Republic of Korea",
-    "marketing-about-locations-pangyo": "Pangyo",
-    "marketing-about-locations-pangyo-address": "20: Pangyo-ro 289beon-gil:\n Bundang-gu: Seongnam-si:\n Gyeonggi-do 13488\n Republic of Korea",
+    "marketing-about-locations": "위치",
+    "marketing-about-locations-lviv": "르비브",
+    "marketing-about-locations-lviv-address": "iHUB 르비브\n 9 잠크네나 길\n 르비브 79000\n 우크라이나",
+    "marketing-about-locations-seoul": "서울",
+    "marketing-about-locations-seoul-address": "서울특별시\n 용산구 청파로 109\n 3층 (04370)\n 서울글로벌창업센터",
+    "marketing-about-locations-pangyo": "판교",
+    "marketing-about-locations-pangyo-address": "경기도 성남시\n 분당구 판교로289번길\n 20(삼평동) 13488\n 스타트업 캠퍼스",
     "marketing-about-news": "News",
     "marketing-about-title": "About Cards Corp.",
     "marketing-about-we-are-cards": "We are Cards Corp.",
     "marketing-about-us": "About us",
-    "marketing-about-us-text": "Cards Corp. is the developer of andCards app: the community software. The company was founded in Seoul: Republic of Korea: by two Ukrainians. Cards Corp. is one of the winners of K-Startup Grand Challenge 2017: Infinity Challenge at Startup Festival 2017: and Global Startup Expo in Seoul.",
+    "marketing-about-us-text": "주식회사 카드스는 커뮤니티 소프트웨어 andCards 앱의 개발자입니다. 회사는 두명의 우크라이나인에 의해 대한민국 서울에 설립되었습니다. 주식회사 카드스는 K-스타트업 그랜드 챌린지 2017, 스타트업 페스티벌 2017에서 개최된 인피니티 챌린지, 서울에서 열린 글로벌 스타트업 엑스포에서 수상을 차지하였습니다."
   }
 }

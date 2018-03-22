@@ -1,17 +1,16 @@
 {
   "data": {
     "marketing-about-description": "Empower your community: people directory: events: notifications: polls and other features",
-    "marketing-about-locations": "Locations",
-    "marketing-about-locations-lviv": "Lviv",
-    "marketing-about-locations-lviv-address": "iHUB\n 9 Zamknena Str.\n Lviv 79000\n Ukraine",
-    "marketing-about-locations-seoul": "Seoul",
-    "marketing-about-locations-seoul-address": "3F: 109 Cheongpa-ro:\n Yongsan-gu:\n Seoul 04370:\n Republic of Korea",
-    "marketing-about-locations-pangyo": "Pangyo",
-    "marketing-about-locations-pangyo-address": "20: Pangyo-ro 289beon-gil:\n Bundang-gu: Seongnam-si:\n Gyeonggi-do 13488\n Republic of Korea",
-    "marketing-about-news": "News",
-    "marketing-about-title": "About Cards Corp.",
-    "marketing-about-we-are-cards": "We are Cards Corp.",
-    "marketing-about-us": "About us",
-    "marketing-about-us-text": "Cards Corp. is the developer of andCards app: the community software. The company was founded in Seoul: Republic of Korea: by two Ukrainians. Cards Corp. is one of the winners of K-Startup Grand Challenge 2017: Infinity Challenge at Startup Festival 2017: and Global Startup Expo in Seoul.",
+    "marketing-about-locations": "Локації",
+    "marketing-about-locations-lviv": "Львів",
+    "marketing-about-locations-lviv-address": "iHUB Львів\n вул. Замкнена, 9\n Львів 79000\n Україна",
+    "marketing-about-locations-seoul": "Сеул",
+    "marketing-about-locations-seoul-address": "3 пов., 109 Чхонпа-ро,\n Йонсан-ку,\n Сеул 04370,\n Південна Корея",
+    "marketing-about-locations-pangyo": "Пангьо",
+    "marketing-about-locations-pangyo-address": "20, Пангьо-ро 289бон-гіл,\n Бундан-ку, Соннам-сі,\n Кьонгі-до 13488\n Південна Корея",
+    "marketing-about-news": "Новини",
+    "marketing-about-we-are-cards" : "Ми — Cards Corp.",
+    "marketing-about-us": "Про нас",
+    "marketing-about-us-text": "Cards Corp. — розробник сервісу andCards для побудови спільнот. Компанію засновано в Сеулі, Республіка Корея, двома громадянами України. Cards Corp. є переможцем різноманітних міжнародних конкурсів, таких як K-Startup Grand Challenge 2017, Infinity Challenge на Startup Festival 2017, а також Global Startup Expo в Сеулі."
   }
 }
