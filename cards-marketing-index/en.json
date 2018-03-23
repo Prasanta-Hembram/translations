@@ -1,43 +1,20 @@
 {
   "data": {
-    "marketing-index-title":
-      "andCards: Coworking and Event Management Software",
-    "marketing-index-description":
-      "Organize coworking and events on andCards software platform. Real time community directory, search, SMS and push notifications, events, room booking, app integrations, and more.",
-
-    "marketing-index-highlight-main-heading":
-      "Coworking and event management software",
-    "marketing-index-highlight-main-app-open": "Login or sign up",
-    "marketing-index-highlight-main-app-downloads": "All downloads",
-
-    "marketing-index-feature-discovery-title": "COWORKING SOFTWARE",
-    "marketing-index-feature-discovery-info":
-      "Member directory, room booking, announcements, event organization, integrations, and more.",
-    "marketing-index-feature-discovery-action": "Features & pricing",
-    "marketing-index-feature-networking-title": "EVENT MANAGEMENT",
-    "marketing-index-feature-networking-info":
-      "Organize and promote your event. Attendees see each other and plan their meetings beforehand.",
-    "marketing-index-feature-networking-action": "View events",
-    "marketing-index-feature-contacts-title": "CONTACTS APP",
-    "marketing-index-feature-contacts-info":
-      "Your personal connections stay up-to-date with andCards free contacts app and sync.",
-    "marketing-index-feature-contacts-action": "Get free apps",
-
+    "marketing-index-description": "Organize coworking and events on andCards software platform. Real time community directory, search, SMS and push notifications, events, room booking, app integrations, and more.",
+    "marketing-index-highlight-it-starts-with": "Automate your coworking space to save time and earn more",
+    "marketing-index-highlight-main-directory": "Directory",
+    "marketing-index-highlight-main-booking-system": "Booking System",
+    "marketing-index-highlight-main-events": "Events",
+    "marketing-index-highlight-main-subtitle": "andCards software will make people love your coworking space: stay longer and easily book facilities.",
     "marketing-index-highlight-networking-partners-title": "We work with:",
-
-    "marketing-index-highlight-download-app": "Get free apps",
-    "marketing-index-highlight-download-smartphone": "Smartphone",
-    "marketing-index-highlight-download-desktop": "Desktop",
-    "marketing-index-highlight-download-all-platforms": "All platforms",
-    "marketing-index-highlight-download-web-app": "Web app",
-    "marketing-index-highlight-download-open-web-app": "Open web app",
-    "marketing-index-highlight-download-ios": "Download for iOS",
-    "marketing-index-highlight-download-android": "Download for Android",
-    "marketing-index-highlight-download-windows-mobile":
-      "Download for Windows Mobile",
-    "marketing-index-highlight-download-mac-os": "Download for macOS",
-    "marketing-index-highlight-download-windows": "Download for Windows",
-    "marketing-index-highlight-download-fedora": "Download for Fedora",
-    "marketing-index-highlight-download-ubuntu": "Download for Ubuntu"
+    "marketing-index-feature-coworking-directory": "Coworking Space Directory",
+    "marketing-index-feature-coworking-directory-description": "Build a business network for your coworking space residents.",
+    "marketing-index-feature-effective-space": "Effective Booking System",
+    "marketing-index-feature-effective-space-description": "Focus on more important tasks: while andCards automates your coworking space.",
+    "marketing-index-feature-event-management": "Events & Networking",
+    "marketing-index-feature-event-management-description": "Create events to foster networking at your coworking space.",
+    "marketing-index-feature-learn-more": "Learn more",
+    "marketing-index-feature-request-demo": "Request demo",
+    "marketing-index-title": "andCards: Coworking and Event Management Software"
   }
 }

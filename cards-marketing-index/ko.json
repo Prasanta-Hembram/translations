@@ -1,42 +1,20 @@
 {
   "data": {
-    "marketing-index-title": "andCards: 코워킹 및 행사 관리 소프트웨어",
-    "marketing-index-description":
-      "앤카즈로 코워킹 스페이스 및 행사 관리를 쉽게 해보세요. 실시간 인맥 탐색기, 검색, 문자 및 푸시 공지 사항, 행사 및 네트워킹, 회의실 예약, 앱 통합 등",
-
-    "marketing-index-highlight-main-heading": "코워킹 및 행사 관리 소프트웨어",
-    "marketing-index-highlight-main-app-open": "로그인 또는 회원가입",
-    "marketing-index-highlight-main-app-downloads": "다운로드",
-
-    "marketing-index-feature-discovery-title": "코워킹 소프트웨어",
-    "marketing-index-feature-discovery-info":
-      "당신의 코워킹스페이스에서 커뮤니티를 구축해보세요. 입주자들이 서로를 발견하고, 룸을 예약하고, 행사에 참여할 수 있도록 하세요.",
-    "marketing-index-feature-discovery-action": "특징 및 가격",
-    "marketing-index-feature-networking-title": "행사 관리",
-    "marketing-index-feature-networking-info":
-      "행사를 생성하고 홍보하세요. 행사 전에 상대방의 참석여부를 확인하고 사전모임을 가질 수 있도록 하세요.",
-    "marketing-index-feature-networking-action": "행사 보기",
-    "marketing-index-feature-contacts-title": "연락처",
-    "marketing-index-feature-contacts-info":
-      "andCards 무료 앱으로 당신의 개인 연락처를 항상 실시간 업데이트 하세요.",
-    "marketing-index-feature-contacts-action": "무료 앱 이용하기",
-
-    "marketing-index-highlight-networking-partners-title":
-      "Cards의 파트너 기관 :",
-
-    "marketing-index-highlight-download-app": "무료로 사용하세요",
-    "marketing-index-highlight-download-smartphone": "스마트폰",
-    "marketing-index-highlight-download-desktop": "데스탑 PC",
-    "marketing-index-highlight-download-all-platforms": "모든 플렛폼",
-    "marketing-index-highlight-download-web-app": "웹앱",
-    "marketing-index-highlight-download-open-web-app": "웹앱 바로가기",
-    "marketing-index-highlight-download-ios": "iOS용 다운로드",
-    "marketing-index-highlight-download-android": "Android용 다운로드",
-    "marketing-index-highlight-download-windows-mobile":
-      "Windows Mobile용 다운로드",
-    "marketing-index-highlight-download-mac-os": "macOS용 다운로드",
-    "marketing-index-highlight-download-windows": "Windows용 다운로드",
-    "marketing-index-highlight-download-fedora": "Fedora용 다운로드",
-    "marketing-index-highlight-download-ubuntu": "Ubuntu용 다운로드"
+    "marketing-index-description": "앤카즈로 코워킹 스페이스 및 행사 관리를 쉽게 해보세요. 실시간 인맥 탐색기, 검색, 문자 및 푸시 공지 사항, 행사 및 네트워킹, 회의실 예약, 앱 통합 등",
+    "marketing-index-highlight-it-starts-with": "자동화 코워킹 스페이스 : 시간을 절약하고 더 많은 수익을 올리십시오.",
+    "marketing-index-highlight-main-directory": "인맥 찾기",
+    "marketing-index-highlight-main-booking-system": "시설 예약 시스템",
+    "marketing-index-highlight-main-events": "행사",
+    "marketing-index-highlight-main-subtitle": "andCards software will make people love your coworking space: stay longer and easily book facilities.",
+    "marketing-index-highlight-networking-partners-title": "파트너 기관",
+    "marketing-index-feature-coworking-directory": "코워킹 찾기",
+    "marketing-index-feature-coworking-directory-description": "Build a business network for your coworking space residents.",
+    "marketing-index-feature-effective-space": "유효 예약 시스템",
+    "marketing-index-feature-effective-space-description": "Focus on more important tasks: while andCards automates your coworking space.",
+    "marketing-index-feature-event-management": "행사 및 네트워킹",
+    "marketing-index-feature-event-management-description": "Create events to foster networking at your coworking space.",
+    "marketing-index-feature-learn-more": "더 알어보기",
+    "marketing-index-feature-request-demo": "데모 요청하기",
+    "marketing-index-title": "andCards: 코워킹 및 행사 관리 소프트웨어"
   }
 }

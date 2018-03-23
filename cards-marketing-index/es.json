@@ -1,43 +1,20 @@
 {
   "data": {
-    "marketing-index-title":
-      "andCards: Software Para Compañeros de Trabajo y Organización de Eventos",
-    "marketing-index-description":
-      "Organice sus relaciones de trabajo y eventos en la plataforma software de andCards. Directorio de la comunidad en tiempo real, búsqueda, mensajes SMS y notificaciones automáticas, eventos, reservaciones, integraciones del app y mucho más.",
-
-    "marketing-index-highlight-main-heading":
-      "Software para compañeros de trabajo y organización de eventos",
-    "marketing-index-highlight-main-app-open": "Inicie sesión o cree su cuenta",
-    "marketing-index-highlight-main-app-downloads": "Todas las descargas",
-
-    "marketing-index-feature-discovery-title": "SOFTWARE PARA COMPAÑEROS DE TRABAJO",
-    "marketing-index-feature-discovery-info":
-      "Directorio de miembros, reservaciones, anuncios, organización de eventos, integraciones y mucho más.",
-    "marketing-index-feature-discovery-action": "Características y Precios",
-    "marketing-index-feature-networking-title": "ORGANIZACIÓN DE EVENTOS",
-    "marketing-index-feature-networking-info":
-      "Organice y promueva su evento. Los asistentes se verán y planearán sus reuniones de antemano.",
-    "marketing-index-feature-networking-action": "Ver eventos",
-    "marketing-index-feature-contacts-title": "APLICACIÓN DE CONTACTOS",
-    "marketing-index-feature-contacts-info":
-      "Sus conexiones personales se mantienen al día y se sincronizan con la aplicación gratis de contactos andCards.",
-    "marketing-index-feature-contacts-action": "Obtenga las aplicaciones gratis",
-
+    "marketing-index-description": "Organice sus relaciones de trabajo y eventos en la plataforma software de andCards. Directorio de la comunidad en tiempo real, búsqueda, mensajes SMS y notificaciones automáticas, eventos, reservaciones, integraciones del app y mucho más.",
+    "marketing-index-highlight-it-starts-with": "Automatice su espacio de coworking para ahorrar tiempo y ganar más",
+    "marketing-index-highlight-main-directory": "Directorio",
+    "marketing-index-highlight-main-booking-system": "Sistema de reservas",
+    "marketing-index-highlight-main-events": "Eventos",
+    "marketing-index-highlight-main-subtitle": "El software andCards hará que la gente ame su espacio de coworking, se quede más tiempo y reserve fácilmente las instalaciones.",
     "marketing-index-highlight-networking-partners-title": "Trabajamos con:",
-
-    "marketing-index-highlight-download-app": "Obtenga aplicaciones gratis",
-    "marketing-index-highlight-download-smartphone": "Teléfono inteligente",
-    "marketing-index-highlight-download-desktop": "Ordenador",
-    "marketing-index-highlight-download-all-platforms": "Todas la plataformas",
-    "marketing-index-highlight-download-web-app": "Aplicación web",
-    "marketing-index-highlight-download-open-web-app": "Abrir aplicación web",
-    "marketing-index-highlight-download-ios": "Descarga para iOS",
-    "marketing-index-highlight-download-android": "Descarga para Android",
-    "marketing-index-highlight-download-windows-mobile":
-      "Descargua para Windows Mobile",
-    "marketing-index-highlight-download-mac-os": "Descarga para macOS",
-    "marketing-index-highlight-download-windows": "Descarga para Windows",
-    "marketing-index-highlight-download-fedora": "Descarga para Fedora",
-    "marketing-index-highlight-download-ubuntu": "Descarga para Ubuntu"
+    "marketing-index-feature-coworking-directory": "Directorio de espacio de coworking",
+    "marketing-index-feature-coworking-directory-description": "Construya una red de negocios para sus residentes de espacio de coworking.",
+    "marketing-index-feature-effective-space": "Sistema de reserva efectivo",
+    "marketing-index-feature-effective-space-description": "Concéntrese en las tareas más importantes: while andCards automatiza su espacio de coworking.",
+    "marketing-index-feature-event-management": "Eventos y redes",
+    "marketing-index-feature-event-management-description": "Cree eventos para fomentar la creación de redes en su espacio de coworking.",
+    "marketing-index-feature-learn-more": "Aprende más",
+    "marketing-index-feature-request-demo": "Solicitar demo",
+    "marketing-index-title": "andCards: Software Para Compañeros de Trabajo y Organización de Eventos"
   }
 }

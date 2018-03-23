@@ -1,43 +1,20 @@
 {
   "data": {
-    "marketing-index-title":
-      "andCards: програмне забезпечення для коворкінг-центрів та подій",
-    "marketing-index-description":
-      "Організовуйте коворкінг центр та події з ПЗ andCards. Каталог учасників, миттєвий пошук, сповіщення по СМС або push, події та нетворкінг, система резервації кімнат, інтеграції, тощо.",
-
-    "marketing-index-highlight-main-heading":
-      "Програмне забезпечення для коворкінгів та подій",
-    "marketing-index-highlight-main-app-open": "Вхід або реєстрація",
-    "marketing-index-highlight-main-app-downloads": "Завантаження",
-
-    "marketing-index-feature-discovery-title": "СОФТ ДЛЯ КОВОРКІНГІВ",
-    "marketing-index-feature-discovery-info":
-      "Каталог учасників, система резервації кімнат, оголошення, організація подій, інтеграції, та багато іншого.",
-    "marketing-index-feature-discovery-action": "Функції та ціни",
-    "marketing-index-feature-networking-title": "УПРАВЛІННЯ ПОДІЯМИ",
-    "marketing-index-feature-networking-info":
-      "Організація та просування подій. Відвідувачі бачать одне одного та планують зустрічі заздалегідь.",
-    "marketing-index-feature-networking-action": "Дивитися події",
-    "marketing-index-feature-contacts-title": "ЗАСТОСУНОК КОНТАКТІВ",
-    "marketing-index-feature-contacts-info":
-      "Контактна інформація знайомих та друзів завжди актуальна завдяки застосунку контактів andCards.",
-    "marketing-index-feature-contacts-action": "Завантажити",
-
-    "marketing-index-highlight-networking-partners-title": "Наші партнери",
-
-    "marketing-index-highlight-download-app": "Спробуйте безкоштовні додатки",
-    "marketing-index-highlight-download-smartphone": "Смартфон",
-    "marketing-index-highlight-download-desktop": "ПК",
-    "marketing-index-highlight-download-all-platforms": "Всі платформи",
-    "marketing-index-highlight-download-web-app": "Веб-додаток",
-    "marketing-index-highlight-download-open-web-app": "Відкрити веб-додаток",
-    "marketing-index-highlight-download-ios": "Завантажити для iOS",
-    "marketing-index-highlight-download-android": "Завантажити для Android",
-    "marketing-index-highlight-download-windows-mobile":
-      "Завантажити для Windows Mobile",
-    "marketing-index-highlight-download-mac-os": "Завантажити для macOS",
-    "marketing-index-highlight-download-windows": "Завантажити для Windows",
-    "marketing-index-highlight-download-fedora": "Завантажити для Fedora",
-    "marketing-index-highlight-download-ubuntu": "Завантажити для Ubuntu"
+    "marketing-index-description": "Організовуйте коворкінг центр та події з ПЗ andCards. Каталог учасників, миттєвий пошук, сповіщення по СМС або push, події та нетворкінг, система резервації кімнат, інтеграції, тощо.",
+    "marketing-index-highlight-it-starts-with": "Автоматизуйте ваш коворкінг, заощаджуючи час і гроші",
+    "marketing-index-highlight-main-directory": "Каталог учасників",
+    "marketing-index-highlight-main-booking-system": "Система резервації",
+    "marketing-index-highlight-main-events": "Події",
+    "marketing-index-highlight-main-subtitle": "Програмне забезпечення andCards ваші клієнти будуть залишатися з вами довше, а також частіше користуватися доступним простором.",
+    "marketing-index-highlight-networking-partners-title": "Наші партнери та клієнти",
+    "marketing-index-feature-coworking-directory": "Каталог учасників коворкінгу",
+    "marketing-index-feature-coworking-directory-description": "Створіть ділову мережу для мешканців вашого коворкінг-простору.",
+    "marketing-index-feature-effective-space": "Ефективна система бронювання",
+    "marketing-index-feature-effective-space-description": "Зосередьтеся на більш важливих завданнях у той час як andCards автоматизує ваш коворкінг-простір.",
+    "marketing-index-feature-event-management": "Події та нетворкінг",
+    "marketing-index-feature-event-management-description": "Створюйте події, щоб сприяти спілкуванню й новим знайомствам у вашому коворкінг-центрі.",
+    "marketing-index-feature-learn-more": "Дізнатися більше",
+    "marketing-index-feature-request-demo": "Запросити демо",
+    "marketing-index-title": "andCards: програмне забезпечення для коворкінг-центрів та подій"
   }
 }
