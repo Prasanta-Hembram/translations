@@ -1,25 +1,25 @@
 {
   "data": {
-    "marketing-footer-highlight-directory-products": "Продукти",
-    "marketing-footer-highlight-directory-home": "Головна",
-    "marketing-footer-highlight-directory-features": "Features",
-    "marketing-footer-highlight-directory-pricing": "Ціни",
-    "marketing-footer-highlight-directory-knowledge": "Інформація",
+    "marketing-footer-copyright-all-rights-reserved":
+-      "©2017-2018 Корпорація Cards",
+    "marketing-footer-highlight-directory-about": "Про компанію",
+    "marketing-footer-highlight-directory-behance": "Behance Блоґ",
     "marketing-footer-highlight-directory-blogs": "Блоґи та новини",
-    "marketing-footer-highlight-directory-help": "Довідковий центр",
+    "marketing-footer-highlight-directory-connect": "Зв'язок",
     "marketing-footer-highlight-directory-cookies": "Кукі-файли",
-    "marketing-footer-highlight-directory-terms": "Умови надання послуг",
+    "marketing-footer-highlight-directory-facebook": "Фейсбук",
+    "marketing-footer-highlight-directory-features": "Функції",
+    "marketing-footer-highlight-directory-help": "Довідковий центр",
+    "marketing-footer-highlight-directory-home": "Головна",
+    "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
+    "marketing-footer-highlight-directory-knowledge": "Інформація",
     "marketing-footer-highlight-directory-legal": "Політики",
     "marketing-footer-highlight-directory-licenses": "Ліцензії",
-    "marketing-footer-highlight-directory-privacy": "Приватність",
-    "marketing-footer-highlight-directory-about": "Про компанію",
-    "marketing-footer-highlight-directory-connect": "Зв'язок",
-    "marketing-footer-highlight-directory-behance": "Behance",
-    "marketing-footer-highlight-directory-facebook": "Фейсбук",
-    "marketing-footer-highlight-directory-kakao": "Kakao Plus Friend",
     "marketing-footer-highlight-directory-naver": "Naver Блоґ",
     "marketing-footer-highlight-directory-medium": "Medium Блоґ",
-    "marketing-footer-copyright-all-rights-reserved":
-      "©2017-2018 Корпорація Cards"
+    "marketing-footer-highlight-directory-pricing": "Ціни",
+    "marketing-footer-highlight-directory-privacy": "Приватність",
+    "marketing-footer-highlight-directory-products": "Продукти",
+    "marketing-footer-highlight-directory-terms": "Умови надання послуг"
   }
 }
