@@ -1,5 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-main-view": "Ver Anuncio"
+    "cards-page-organization-announcement-main-action-sheet-delete": "Delete Announcement",
+    "cards-page-organization-announcement-main-action-sheet-update": "Update Announcement",
+    "cards-page-organization-announcement-main-date": "{createDate, edited on {updateDate}",
+    "cards-page-organization-announcement-main-delete-failure": "Failed to delete announcement",
+    "cards-page-organization-announcement-main-delete-repeat": "Delete again",
+    "cards-page-organization-announcement-main-empty": "No announcement found",
+    "cards-page-organization-announcement-main-view": "View Announcement"
   }
 }
