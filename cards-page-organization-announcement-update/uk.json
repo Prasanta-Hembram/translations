@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-update-cancel": "Cancel",
-    "cards-page-organization-announcement-update-contents": "Contents",
-    "cards-page-organization-announcement-update-date": "Update Date",
-    "cards-page-organization-announcement-update-save": "Update",
-    "cards-page-organization-announcement-update-stack-title": "Update Announcement",
-    "cards-page-organization-announcement-update-text-placeholder": "Type your announcement here",
-    "cards-page-organization-announcement-update-title": "Title"
+    "cards-page-organization-announcement-update-cancel": "Скасувати",
+    "cards-page-organization-announcement-update-contents": "Зміст",
+    "cards-page-organization-announcement-update-date": "Дата зміни",
+    "cards-page-organization-announcement-update-save": "Зберегти",
+    "cards-page-organization-announcement-update-stack-title": "Редагування оголошення",
+    "cards-page-organization-announcement-update-text-placeholder": "Уведіть текст оголошення",
+    "cards-page-organization-announcement-update-title": "Назва"
   }
 }
