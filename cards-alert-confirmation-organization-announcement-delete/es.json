@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-confirmation-organization-announcement-delete-text": "¿Seguro que quieres eliminar este anuncio? Esta acción es irreversible.",
+    "cards-alert-confirmation-organization-announcement-delete-no": "Cancelar",
+    "cards-alert-confirmation-organization-announcement-delete-title": "Eliminar anuncio",
+    "cards-alert-confirmation-organization-announcement-delete-yes": "Sí, eliminar"
+  }
+}
