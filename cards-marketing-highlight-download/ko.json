@@ -1,12 +1,12 @@
 {
   "data": {
-    "marketing-index-highlight-create-community": "See andCards in action",
+    "marketing-index-highlight-create-community": "andCards 데모보기",
     "marketing-index-highlight-download-all-platforms": "모든 플렛폼",
-    "marketing-index-highlight-download-email": "Email",
-    "marketing-index-highlight-download-first-name": "First name",
-    "marketing-index-highlight-download-last-name": "Last name",
+    "marketing-index-highlight-download-email": "이메일",
+    "marketing-index-highlight-download-first-name": "이름",
+    "marketing-index-highlight-download-last-name": "성",
     "marketing-index-highlight-download-smartphone": "스마트폰",
     "marketing-index-highlight-download-web-app": "웹앱",
-    "marketing-index-highlight-join-community": "Join a community"
+    "marketing-index-highlight-join-community": "커뮤니티 가입"
   }
 }
