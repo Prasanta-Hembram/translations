@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-update-cancel": "Cancel",
-    "cards-page-organization-announcement-update-contents": "Contents",
-    "cards-page-organization-announcement-update-date": "Update Date",
-    "cards-page-organization-announcement-update-save": "Update",
-    "cards-page-organization-announcement-update-stack-title": "Update Announcement",
-    "cards-page-organization-announcement-update-text-placeholder": "Type your announcement here",
-    "cards-page-organization-announcement-update-title": "Title"
+    "cards-page-organization-announcement-update-cancel": "Cancelar",
+    "cards-page-organization-announcement-update-contents": "Contenidos",
+    "cards-page-organization-announcement-update-date": "Fecha de actualización",
+    "cards-page-organization-announcement-update-save": "Salvar",
+    "cards-page-organization-announcement-update-stack-title": "Edición de anuncio",
+    "cards-page-organization-announcement-update-text-placeholder": "Escriba su anuncio aquí",
+    "cards-page-organization-announcement-update-title": "Título"
   }
 }
