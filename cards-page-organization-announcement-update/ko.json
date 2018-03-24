@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-update-cancel": "Cancel",
-    "cards-page-organization-announcement-update-contents": "Contents",
-    "cards-page-organization-announcement-update-date": "Update Date",
-    "cards-page-organization-announcement-update-save": "Update",
-    "cards-page-organization-announcement-update-stack-title": "Update Announcement",
-    "cards-page-organization-announcement-update-text-placeholder": "Type your announcement here",
-    "cards-page-organization-announcement-update-title": "Title"
+    "cards-page-organization-announcement-update-cancel": "취소",
+    "cards-page-organization-announcement-update-contents": "내용",
+    "cards-page-organization-announcement-update-date": "변경일",
+    "cards-page-organization-announcement-update-save": "저장",
+    "cards-page-organization-announcement-update-stack-title": "공지 사항 편집",
+    "cards-page-organization-announcement-update-text-placeholder": "공지 사항 내용을 입력하세요",
+    "cards-page-organization-announcement-update-title": "제목"
   }
 }
