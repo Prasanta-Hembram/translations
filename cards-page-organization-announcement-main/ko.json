@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-main-action-sheet-delete": "Delete Announcement",
-    "cards-page-organization-announcement-main-action-sheet-update": "Update Announcement",
-    "cards-page-organization-announcement-main-date": "{createDate, edited on {updateDate}",
-    "cards-page-organization-announcement-main-delete-failure": "Failed to delete announcement",
-    "cards-page-organization-announcement-main-delete-repeat": "Delete again",
-    "cards-page-organization-announcement-main-empty": "No announcement found",
-    "cards-page-organization-announcement-main-view": "View Announcement"
+    "cards-page-organization-announcement-main-action-sheet-delete": "삭제",
+    "cards-page-organization-announcement-main-action-sheet-update": "편집",
+    "cards-page-organization-announcement-main-date": "{createDate, 변경일 : {updateDate}",
+    "cards-page-organization-announcement-main-delete-failure": "공지 사항을 삭제하지 못했습니다.",
+    "cards-page-organization-announcement-main-delete-repeat": "다시 시도",
+    "cards-page-organization-announcement-main-empty": "공지 사항 없음",
+    "cards-page-organization-announcement-main-view": "공지 사항 보기"
   }
 }
