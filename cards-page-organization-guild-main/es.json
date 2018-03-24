@@ -2,13 +2,14 @@
   "data": {
     "cards-page-organization-guild-main-add": "Añadir",
     "cards-page-organization-guild-main-card-more": "Más Opciones",
-    "cards-page-organization-guild-main-card-share-action-sheet": "Add to live cards",
+    "cards-page-organization-guild-main-card-share-action-sheet": "Añadir contactos",
     "cards-page-organization-guild-main-delete": "Eliminar Gremio",
     "cards-page-organization-guild-main-delete-failure": "Error al eliminar el Gremio",
     "cards-page-organization-guild-main-delete-repeat": "Inténtalo de nuevo",
-    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Live card exchange successful.",
+    "cards-page-organization-guild-main-delete-user-action-sheet": "Eliminar miembro",
+    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Intercambio de miembro exitoso.",
     "cards-page-organization-guild-main-no-cards": "No hay tarjetas en este gremio",
-    "cards-page-organization-guild-main-not-found-error": "No guild found",
-    "cards-page-organization-guild-main-settings": "Configuraciones de Gremio"
+    "cards-page-organization-guild-main-not-found-error": "No se encontró gremio",
+    "cards-page-organization-guild-main-settings": "Cambiar ajustes"
   }
 }
