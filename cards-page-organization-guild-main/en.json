@@ -1,15 +1,15 @@
 {
   "data": {
-    "cards-page-organization-guild-main-add": "Add",
+    "cards-page-organization-guild-main-add": "Add members",
     "cards-page-organization-guild-main-card-more": "More options",
-    "cards-page-organization-guild-main-card-share-action-sheet": "Add to live cards",
+    "cards-page-organization-guild-main-card-share-action-sheet": "Add to contacts",
     "cards-page-organization-guild-main-delete": "Delete guild",
     "cards-page-organization-guild-main-delete-failure": "Failed to delete guild",
-    "cards-page-organization-guild-main-delete-repeat": "Delete again",
-    "cards-page-organization-guild-main-delete-user-action-sheet": "Remove user",
-    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Live card exchange successful.",
-    "cards-page-organization-guild-main-no-cards": "No cards in this guild",
+    "cards-page-organization-guild-main-delete-repeat": "Retry deleting",
+    "cards-page-organization-guild-main-delete-user-action-sheet": "Remove member",
+    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Card exchange successful.",
+    "cards-page-organization-guild-main-no-cards": "No members in this guild",
     "cards-page-organization-guild-main-not-found-error": "No guild found",
-    "cards-page-organization-guild-main-settings": "Guild Settings"
+    "cards-page-organization-guild-main-settings": "Change settings"
   }
 }
