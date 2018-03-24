@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-group-create-cancel": "Cancel",
-    "cards-page-group-create-navbar-title": "New Group",
-    "cards-page-group-create-save": "Save",
-    "cards-page-group-create-title": "Title",
-    "cards-page-group-create-title-placeholder": "Type Here"
+    "cards-page-group-create-cancel": "Отменить",
+    "cards-page-group-create-navbar-title": "Новая группа",
+    "cards-page-group-create-save": "Сохранить",
+    "cards-page-group-create-title": "Название",
+    "cards-page-group-create-title-placeholder": "Ввод текста"
   }
 }

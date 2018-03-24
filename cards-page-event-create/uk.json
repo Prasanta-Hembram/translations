@@ -1,18 +1,18 @@
 {
   "data": {
-    "cards-page-event-create-address": "Address",
-    "cards-page-event-create-address-placeholder": "Type event address",
-    "cards-page-event-create-cover-image": "Cover Image",
-    "cards-page-event-create-end": "Ends on",
-    "cards-page-event-create-date-placeholder": "Type date and time",
-    "cards-page-event-create-description": "Description",
-    "cards-page-event-create-event-details": "Describe your event in more details",
-    "cards-page-event-create-event-name": "Event name",
-    "cards-page-event-create-event-name-placeholder": "Type event name",
-    "cards-page-event-create-instructions": "If you are event organizer: fill in the request form to add your event. Your contact info will be attached to this request.",
-    "cards-page-event-create-start": "Starts on",
-    "cards-page-event-create": "Add event",
-    "cards-page-event-create-submit": "Submit event",
-    "cards-page-event-create-title": "event & Networking"
+    "cards-page-event-create-address": "Адреса",
+    "cards-page-event-create-address-placeholder": "Уведіть адресу події",
+    "cards-page-event-create-cover-image": "Обгортка події",
+    "cards-page-event-create-end": "Кінець",
+    "cards-page-event-create-date-placeholder": "Уведіть дату й час",
+    "cards-page-event-create-description": "Опис",
+    "cards-page-event-create-event-details": "Опишіть свою подію в деталях",
+    "cards-page-event-create-event-name": "Назва",
+    "cards-page-event-create-event-name-placeholder": "Уведіть назву події",
+    "cards-page-event-create-instructions": "Якщо ви організатор події: заповніть форму запиту, щоб додати свою подію. Ваша контактна інформація буде додана до цього запиту.",
+    "cards-page-event-create-start": "Початок",
+    "cards-page-event-create": "Створити подію",
+    "cards-page-event-create-submit": "Запросити подію",
+    "cards-page-event-create-title": "Події та нетворкінг"
   }
 }

@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-group-create-cancel": "Cancel",
-    "cards-page-group-create-navbar-title": "New Group",
-    "cards-page-group-create-save": "Save",
-    "cards-page-group-create-title": "Title",
-    "cards-page-group-create-title-placeholder": "Type Here"
+    "cards-page-group-create-cancel": "취소",
+    "cards-page-group-create-navbar-title": "새 그룹",
+    "cards-page-group-create-save": "저장",
+    "cards-page-group-create-title": "그룹 이름",
+    "cards-page-group-create-title-placeholder": "내용 입력"
   }
 }

@@ -1,13 +1,13 @@
 {
   "data": {  
-    "cards-page-organization-event-main-card-more": "More options",
+    "cards-page-organization-event-main-card-more": "Другие функции",
     "cards-page-organization-event-main-event-registration-ended": "Event registration period is over.",
     "cards-page-organization-event-main-event-registration-not-started": "The event has not started yet.",
-    "cards-page-organization-event-main-exchange-successful": "Live card exchange successful.",
+    "cards-page-organization-event-main-exchange-successful": "Обмен карточками успешно состоялся.",
     "cards-page-organization-event-main-details-join-title": "Join event",
     "cards-page-organization-event-main-join-event-description": "Want to join the event?",
     "cards-page-organization-event-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
-    "cards-page-organization-event-main-share-action-sheet": "Add to live cards",
+    "cards-page-organization-event-main-share-action-sheet": "Добавить в контакты",
     "cards-page-organization-event-main-title": "Events & Networking"
   }
 }
