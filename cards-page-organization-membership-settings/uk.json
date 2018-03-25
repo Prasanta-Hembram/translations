@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-organization-membership-settings-title": "Налаштування участі",
-    "cards-page-organization-membership-settings-leave-failure":"Failed to leave organization",
+    "cards-page-organization-membership-settings-leave-failure":"Не вдалося покинути організацію",
     "cards-page-organization-membership-settings-leave-organization": "Покинути організацію",
-    "cards-page-organization-membership-settings-leave-repeat": "Try again",
-    "cards-page-organization-membership-settings-not-found-error" : "No internet",
+    "cards-page-organization-membership-settings-leave-repeat": "Спробувати знову",
+    "cards-page-organization-membership-settings-not-found-error" : "Відсутнє з'єднання з інтернетом",
     "cards-page-organization-membership-settings-role": "Роль",
     "cards-page-organization-membership-settings-role-admin": "Адміністратор",
     "cards-page-organization-membership-settings-role-moderator": "Модератор",

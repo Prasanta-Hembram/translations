@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-bookings-settings-cancel": "Cancel",
-    "cards-page-organization-bookings-settings-from": "From",
-    "cards-page-organization-bookings-settings-period": "Period",
-    "cards-page-organization-bookings-settings-period-one-month": "1 month",
-    "cards-page-organization-bookings-settings-period-one-week": "1 week",
-    "cards-page-organization-bookings-settings-period-two-weeks": "2 weeks",
-    "cards-page-organization-bookings-settings-save": "Save",
-    "cards-page-organization-bookings-settings-title": "Booking Settings",
-    "cards-page-organization-bookings-settings-until": "Until"
+    "cards-page-organization-bookings-settings-cancel": "Скасувати",
+    "cards-page-organization-bookings-settings-from": "Від",
+    "cards-page-organization-bookings-settings-period": "Період доступності",
+    "cards-page-organization-bookings-settings-period-one-month": "1 місяць",
+    "cards-page-organization-bookings-settings-period-one-week": "1 тиждень",
+    "cards-page-organization-bookings-settings-period-two-weeks": "2 тиждень",
+    "cards-page-organization-bookings-settings-save": "Зберегти",
+    "cards-page-organization-bookings-settings-title": "Налаштування системи резервації",
+    "cards-page-organization-bookings-settings-until": "До"
   }
 }

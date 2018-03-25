@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-booking-create-card": "Your card",
-    "cards-page-organization-booking-create-end-time": "Ending",
-    "cards-page-organization-booking-create-notice": "Your card will be attached to this booking. Make sure your information is up-to-date.",
-    "cards-page-organization-booking-create-not-found-error": "No internet connection",
-    "cards-page-organization-booking-create-purpose": "Purpose",
-    "cards-page-organization-booking-create-start-time": "Starting",
-    "cards-page-organization-booking-create-title": "New booking"
+    "cards-page-organization-booking-create-card": "Ваша карточка",
+    "cards-page-organization-booking-create-end-time": "Конец",
+    "cards-page-organization-booking-create-notice": "Ваша карточка будет прикреплена к бронированию. Убедитесь, что информация актуальна.",
+    "cards-page-organization-booking-create-not-found-error": "Нет подключения к интернету",
+    "cards-page-organization-booking-create-purpose": "Цель",
+    "cards-page-organization-booking-create-start-time": "Начало",
+    "cards-page-organization-booking-create-title": "Новое бронирование"
   }
 }

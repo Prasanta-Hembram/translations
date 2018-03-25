@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-empty-text":
-      "You are not in this organization. Tap button below to submit join request.",
-    "cards-page-organization-empty-action-button": "Join organization"
+      "귀하는이 조직의 회원이 아닙니다.",
+    "cards-page-organization-empty-action-button": "가입 요청"
   }
 }

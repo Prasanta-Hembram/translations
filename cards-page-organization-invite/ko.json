@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
-    "cards-page-organization-alert-invitation-success": "Invitation successfully sent",
+    "cards-page-organization-alert-invitation-failure": "초대장을 보내지 못했습니다.",
+    "cards-page-organization-alert-invitation-success": "초대장이 전송되었습니다.",
     "cards-page-organization-invite-cancel": "취소하기",
     "cards-page-organization-invite-by-phone-number": "전화번호 입력",
     "cards-page-organization-invite-design": "직원으로 초대하기",

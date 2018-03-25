@@ -1,13 +1,13 @@
 {
-  "data": {  
+  "data": {
     "cards-page-organization-event-main-card-more": "Más opciones",
-    "cards-page-organization-event-main-event-registration-ended": "Event registration period is over.",
-    "cards-page-organization-event-main-event-registration-not-started": "The event has not started yet.",
+    "cards-page-organization-event-main-event-registration-not-started": "El evento no ha empezado aún.",
+    "cards-page-organization-event-main-event-registration-ended": "El periodo de registro para el evento finalizó.",
     "cards-page-organization-event-main-exchange-successful": "Intercambio de tarjetas exitoso.",
-    "cards-page-organization-event-main-details-join-title": "Join event",
-    "cards-page-organization-event-main-join-event-description": "Want to join the event?",
-    "cards-page-organization-event-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
-    "cards-page-organization-event-main-share-action-sheet": "Añadir contactos",
-    "cards-page-organization-event-main-title": "Events & Networking"
+    "cards-page-organization-event-main-details-join-title": "Unirse al evento",
+    "cards-page-organization-event-main-join-event-description": "No se ha unido a este evento aún ¡Empecemos!",
+    "cards-page-organization-event-main-no-event-details": "No se pudieron obtener los detalles del evento. Verifique la conexión a Internet y vuelva a intentarlo.",
+    "cards-page-organization-event-main-share-action-sheet":"Añadir contactos",
+    "cards-page-organization-event-main-title": "Eventos y Redes"
   }
 }

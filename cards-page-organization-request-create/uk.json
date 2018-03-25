@@ -1,10 +1,10 @@
 {
   "data": {
-    "cards-page-organization-request-create-alert-submit-success": "Your request was sent",
-    "cards-page-organization-request-create-address": "Address",
-    "cards-page-organization-request-create-cards-section": "Select Card",
-    "cards-page-organization-request-create-title": "Submit join request",
-    "cards-page-organization-request-create-title-cancel": "Cancel",
-    "cards-page-organization-request-create-title-submit": "Submit"
+    "cards-page-organization-request-create-alert-submit-success": "Ваш запит відправлено",
+    "cards-page-organization-request-create-address": "Адреса",
+    "cards-page-organization-request-create-cards-section": "Вибрати картку",
+    "cards-page-organization-request-create-title": "Запит на приєднання",
+    "cards-page-organization-request-create-title-cancel": "Скасувати",
+    "cards-page-organization-request-create-title-submit": "Відправити"
   }
 }

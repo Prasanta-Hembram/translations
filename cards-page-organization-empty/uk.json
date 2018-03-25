@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-empty-text":
-      "You are not in this organization. Tap button below to submit join request.",
-    "cards-page-organization-empty-action-button": "Join organization"
+      "Ви не є учасником цієї організації.",
+    "cards-page-organization-empty-action-button": "Приєднатись"
   }
 }
