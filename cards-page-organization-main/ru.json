@@ -23,7 +23,7 @@
     "cards-page-organization-main-polls-create": "Задать вопрос",
     "cards-page-organization-main-polls-all": "Все вопросы",
     "cards-page-organization-main-properties-title": "Система бронирования",
-    "cards-page-organization-main-stack-search": "Search among {amount} people",
+    "cards-page-organization-main-stack-search": "Search among {numberOfPeople} people",
     "cards-page-organization-main-settings": "Настроить организацию"
   }
 }

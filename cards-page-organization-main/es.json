@@ -23,7 +23,7 @@
     "cards-page-organization-main-polls-create": "Hacer una pregunta",
     "cards-page-organization-main-polls-all": "Todas las preguntas",
     "cards-page-organization-main-properties-title": "Reserva",
-    "cards-page-organization-main-stack-search": "Search among {amount} people",
+    "cards-page-organization-main-stack-search": "Search among {numberOfPeople} people",
     "cards-page-organization-main-settings": "Cambiar ajustes"
   }
 }
