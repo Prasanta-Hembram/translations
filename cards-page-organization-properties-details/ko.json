@@ -1,14 +1,14 @@
 {
   "data": {
-    "cards-page-organization-property-details-book-button": "Book",
-    "cards-page-organization-property-details-date": "Date",
-    "cards-page-organization-property-details-delete-button": "Delete property",
-    "cards-page-organization-property-details-delete-failure": "Failed to delete property",
-    "cards-page-organization-property-details-delete-repeat": "Delete again",
-    "cards-page-organization-property-details-no-property": "No booking property.",
-    "cards-page-organization-property-details-no-property-bookings": "No property bookings.",
-    "cards-page-organization-property-details-schedule": "Schedule",
-    "cards-page-organization-property-details-title": "Property Details",
-    "cards-page-organization-property-edit-title": "Edit property"
+    "cards-page-organization-property-details-book-button": "예약",
+    "cards-page-organization-property-details-date": "날짜",
+    "cards-page-organization-property-details-delete-button": "시설 삭제",
+    "cards-page-organization-property-details-delete-failure": "시설 삭제 불가",
+    "cards-page-organization-property-details-delete-repeat": "다시 시도",
+    "cards-page-organization-property-details-no-property": "시설이 없습니다.",
+    "cards-page-organization-property-details-no-property-bookings": "예약이 없습니다.",
+    "cards-page-organization-property-details-schedule": "시간표",
+    "cards-page-organization-property-details-title": "시설 상세 정보",
+    "cards-page-organization-property-edit-title": "시설 편집"
   }
 }

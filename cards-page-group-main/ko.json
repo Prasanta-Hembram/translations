@@ -3,15 +3,15 @@
     "cards-page-group-main-add-cards": "추가",
     "cards-page-group-main-add-card-to-favorites": "즐겨찾기에 추가",
     "cards-page-group-main-add-card-to-group": "그룹에 추가...",
-    "cards-page-group-main-add-empty-text": "이 그룹에 라이브카드 또는 기본 카드를 추가 할 수 있습니다.",
+    "cards-page-group-main-add-empty-text": "이 그룹에 모든 카드를 추가 할 수 있습니다.",
     "cards-page-group-main-delete-card": "삭제",
     "cards-page-group-main-delete-card-from-group": "그룹에서 삭제",
-    "cards-page-group-main-delete-group": "삭제하기",
+    "cards-page-group-main-delete-group": "그룹 삭제",
     "cards-page-group-main-edit-card": "편집",
-    "cards-page-group-main-edit-group": "Edit Group",
+    "cards-page-group-main-edit-group": "그룹 이름 편집",
     "cards-page-group-main-empty-button": "카드를 추가하기",
-    "cards-page-group-main-group-does-not-exist": "Group does not exist",
-    "cards-page-group-main-group-does-not-exist-action": "Return to home page",
+    "cards-page-group-main-group-does-not-exist": "그룹이 없습니다.",
+    "cards-page-group-main-group-does-not-exist-action": "돌아가기",
     "cards-page-group-main-more": "기타 기능"
   }
 }

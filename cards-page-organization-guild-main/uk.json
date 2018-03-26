@@ -1,14 +1,15 @@
 {
   "data": {
-    "cards-page-organization-guild-main-add": "Додати",
+    "cards-page-organization-guild-main-add": "Додати учасників",
     "cards-page-organization-guild-main-card-more": "Інші функції",
-    "cards-page-organization-guild-main-card-share-action-sheet": "Add to live cards",
+    "cards-page-organization-guild-main-card-share-action-sheet": "Додати до контактів",
     "cards-page-organization-guild-main-delete": "Видалити гільдію",
     "cards-page-organization-guild-main-delete-failure": "Не вдалося видалити гільдію",
     "cards-page-organization-guild-main-delete-repeat": "Спробувати знову",
-    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Live card exchange successful.",
+    "cards-page-organization-guild-main-delete-user-action-sheet": "Видалити учасника",
+    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Обмін картками успішно здійснено.",
     "cards-page-organization-guild-main-no-cards": "Тут поки що нікого немає.",
-    "cards-page-organization-guild-main-not-found-error": "No guild found",
-    "cards-page-organization-guild-main-settings": "Налаштування гільдії"
+    "cards-page-organization-guild-main-not-found-error": "Гільдію не знайдено",
+    "cards-page-organization-guild-main-settings": "Налаштувати гільдію"
   }
 }

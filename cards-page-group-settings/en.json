@@ -1,9 +1,9 @@
 {
   "data": {
     "cards-page-group-settings-cancel": "Cancel",
-    "cards-page-group-settings-navbar-title": "Edit Group",
+    "cards-page-group-settings-navbar-title": "Renaming Group",
     "cards-page-group-settings-save": "Save",
-    "cards-page-group-settings-title": "Title",
+    "cards-page-group-settings-title": "Name",
     "cards-page-group-settings-title-placeholder": "Type here"
   }
 }

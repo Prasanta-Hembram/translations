@@ -1,13 +1,13 @@
 {
   "data": {    
-    "cards-page-event-details-address": "Venue",
+    "cards-page-event-details-address": "Address",
     "cards-page-event-details-attendees": "Attendees",
-    "cards-page-event-details-end-date": "End",
+    "cards-page-event-details-end-date": "End time",
     "cards-page-event-details-info-title": "Event information",
     "cards-page-event-details-join-title": "Join event",
     "cards-page-event-details-leave-event": "Leave event",
-    "cards-page-event-details-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
-    "cards-page-event-details-start-date": "Start",
+    "cards-page-event-details-main-no-event-details": "Couldn't get event details. Check internet connection and try again.",
+    "cards-page-event-details-start-date": "Start time",
     "cards-page-event-details-people-i-know": "People I know",
     "cards-page-event-details-title": "Select card to join"
   }

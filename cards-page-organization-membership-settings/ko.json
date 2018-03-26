@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-organization-membership-settings-title": "회원 설정",
-    "cards-page-organization-membership-settings-leave-failure":"Failed to leave organization",
+    "cards-page-organization-membership-settings-leave-failure":"조직을 떠나지 못했습니다.",
     "cards-page-organization-membership-settings-leave-organization": "이 조직 나가기",
-    "cards-page-organization-membership-settings-leave-repeat": "Try again",
-    "cards-page-organization-membership-settings-not-found-error" : "No internet",
+    "cards-page-organization-membership-settings-leave-repeat": "다시 시도",
+    "cards-page-organization-membership-settings-not-found-error" : "인터넷 없음",
     "cards-page-organization-membership-settings-role": "역할",
     "cards-page-organization-membership-settings-role-admin": "관리자",
     "cards-page-organization-membership-settings-role-moderator": "의장",

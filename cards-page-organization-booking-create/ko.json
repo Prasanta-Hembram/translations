@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-booking-create-card": "Your card",
-    "cards-page-organization-booking-create-end-time": "Ending",
-    "cards-page-organization-booking-create-notice": "Your card will be attached to this booking. Make sure your information is up-to-date.",
-    "cards-page-organization-booking-create-not-found-error": "No internet connection",
-    "cards-page-organization-booking-create-purpose": "Purpose",
-    "cards-page-organization-booking-create-start-time": "Starting",
-    "cards-page-organization-booking-create-title": "New booking"
+    "cards-page-organization-booking-create-card": "귀하의 카드",
+    "cards-page-organization-booking-create-end-time": "종료",
+    "cards-page-organization-booking-create-notice": "귀하의 카드가이 예약에 첨부됩니다. 정보가 최신인지 확인하십시오.",
+    "cards-page-organization-booking-create-not-found-error": "인터넷에 연결할 수 없음",
+    "cards-page-organization-booking-create-purpose": "목적",
+    "cards-page-organization-booking-create-start-time": "시작",
+    "cards-page-organization-booking-create-title": "새 예약"
   }
 }

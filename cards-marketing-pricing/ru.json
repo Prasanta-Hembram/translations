@@ -1,23 +1,8 @@
 {
   "data": {
-    "marketing-pricing-title": "andCards: Цены — тарифные планы для пользователей, коворкингов, компаний",
+    "marketing-pricing-advanced-features-affordable": "Дополнительные функции — по доступным ценам. Сэкономленное время — бесценно.",
+    "marketing-pricing-basic-features-free": "Базовый функционал — бесплатно.",
     "marketing-pricing-description": "Бесплатная загрузка для индивидуальных пользователей, низкая стоимость для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
-    "marketing-pricing-heading": "Сильное сообщество — это бесценно",
-    "marketing-pricing-paragraph": "Вам не показалось, andCards для сообществ стоит всего 50 копеек за участника в день!",
-    "marketing-pricing-personal-title": "Личный",
-    "marketing-pricing-personal-description": "Управляйте всегда актуальными контактами, присоединяйтесь к сообществам и посещайте мероприятия",
-    "marketing-pricing-personal-price": "0 ₴",
-    "marketing-pricing-personal-condition": "навсегда",
-    "marketing-pricing-personal-action": "Зарегистрироваться",
-    "marketing-pricing-community-title": "Сообщество",
-    "marketing-pricing-community-description": "Создавайте каталог сообщества, организовывайте и продвигайте события",
-    "marketing-pricing-community-price": "0.5 ₴",
-    "marketing-pricing-community-condition": "за участника в день",
-    "marketing-pricing-community-action": "Попробовать бесплатно",
-    "marketing-pricing-enterprise-title": "Компания",
-    "marketing-pricing-enterprise-description": "Мощное решение для больших компаний: интеграции, SSO, премиум поддержка",
-    "marketing-pricing-enterprise-price": "1 ₴",
-    "marketing-pricing-enterprise-condition": "за участника в день",
-    "marketing-pricing-enterprise-action": "Свяжитесь с нами"
+    "marketing-pricing-title": "andCards: Цены — тарифные планы для пользователей, коворкингов, компаний"
   }
 }

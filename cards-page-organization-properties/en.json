@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-properties-no-properties": "No booking properties.",
-    "cards-page-organization-properties-settings-title": "Booking Settings",
+    "cards-page-organization-properties-no-properties": "No facilities available.",
+    "cards-page-organization-properties-settings-title": "Configure Booking System",
     "cards-page-organization-properties-title": "Booking List"
   }
 }

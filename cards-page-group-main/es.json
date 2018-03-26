@@ -3,15 +3,15 @@
     "cards-page-group-main-add-cards": "Añadir tarjetas",
     "cards-page-group-main-add-card-to-favorites": "Añadir a favoritos",
     "cards-page-group-main-add-card-to-group": "Añadir al grupo...",
-    "cards-page-group-main-add-empty-text": "Puede añadir tarjetas live o tarjetas telefónicas a este grupo.",
+    "cards-page-group-main-add-empty-text": "Puedes cualquier tarjetas a este grupo.",
     "cards-page-group-main-delete-card": "Eliminar",
     "cards-page-group-main-delete-card-from-group": "Sacar del grupo",
-    "cards-page-group-main-delete-group": "Eliminar",
+    "cards-page-group-main-delete-group": "Eliminar del grupo",
     "cards-page-group-main-edit-card": "Editar",
-    "cards-page-group-main-edit-group": "Edit Group",
+    "cards-page-group-main-edit-group": "Rebautizar del grupo",
     "cards-page-group-main-empty-button": "Añadir tarjetas",
-    "cards-page-group-main-group-does-not-exist": "Group does not exist",
-    "cards-page-group-main-group-does-not-exist-action": "Return to home page",
-    "cards-page-group-main-more": "Más opciones",
+    "cards-page-group-main-group-does-not-exist": "El grupo no existe",
+    "cards-page-group-main-group-does-not-exist-action": "Devolver",
+    "cards-page-group-main-more": "Más opciones"
   }
 }
