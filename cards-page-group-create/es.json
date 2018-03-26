@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-group-create-cancel": "Cancel",
-    "cards-page-group-create-navbar-title": "New Group",
-    "cards-page-group-create-save": "Save",
-    "cards-page-group-create-title": "Title",
-    "cards-page-group-create-title-placeholder": "Type Here"
+    "cards-page-group-create-cancel": "Cancelar",
+    "cards-page-group-create-navbar-title": "Nuevo grupo",
+    "cards-page-group-create-save": "Salvar",
+    "cards-page-group-create-title": "Título",
+    "cards-page-group-create-title-placeholder": "Escriba aquí"
   }
 }

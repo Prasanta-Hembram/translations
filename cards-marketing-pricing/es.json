@@ -1,23 +1,8 @@
 {
   "data": {
-    "marketing-pricing-title": "andCards: Precios — paquetes de precios para los usuarios, compañeros de trabajo y empresas",
+    "marketing-pricing-advanced-features-affordable": "Funciones avanzadas — asequibles. El tiempo que ahorraste — no tiene precio.",
+    "marketing-pricing-basic-features-free": "Funciones básicas — gratis.",
     "marketing-pricing-description": "Descarga gratis para usuarios individuales, costos bajos para compañeros de trabajo y subscripciones asequibles para compañías ¡Empiece a construir su propia comunidad ahora mismo con una prueba gratis!",
-    "marketing-pricing-heading": "Cultura de redes",
-    "marketing-pricing-paragraph": "¡Diste justo en el clavo, la Comunidad andCards sólo cuesta 5 centavos diarios por usuario!",
-    "marketing-pricing-personal-title": "Personal",
-    "marketing-pricing-personal-description": "Mantenga sus contactos al día, únase a comunidades y redes en los eventos",
-    "marketing-pricing-personal-price": "Gratis",
-    "marketing-pricing-personal-condition": "siempre",
-    "marketing-pricing-personal-action": "Cree su cuenta ahora",
-    "marketing-pricing-community-title": "Comunidad",
-    "marketing-pricing-community-description": "Todo lo que su comunidad necesita para crecer: directorio, eventos, anuncios y mucho más.",
-    "marketing-pricing-community-price": "5¢",
-    "marketing-pricing-community-condition": "por usuario diariamente",
-    "marketing-pricing-community-action": "Pida su prueba gratis",
-    "marketing-pricing-enterprise-title": "Empresa",
-    "marketing-pricing-enterprise-description": "Solución personalizada para compañías grandes: integraciones, SSO, soporte prioritario",
-    "marketing-pricing-enterprise-price": "10¢",
-    "marketing-pricing-enterprise-condition": "por usuario diariamente",
-    "marketing-pricing-enterprise-action": "Contactenos"
+    "marketing-pricing-title": "andCards: Precios — paquetes de precios para los usuarios, compañeros de trabajo y empresas"
   }
 }

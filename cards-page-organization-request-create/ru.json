@@ -1,10 +1,10 @@
 {
   "data": {
-    "cards-page-organization-request-create-alert-submit-success": "Your request was sent",
-    "cards-page-organization-request-create-address": "Address",
-    "cards-page-organization-request-create-cards-section": "Select Card",
-    "cards-page-organization-request-create-title": "Submit join request",
-    "cards-page-organization-request-create-title-cancel": "Cancel",
-    "cards-page-organization-request-create-title-submit": "Submit"
+    "cards-page-organization-request-create-alert-submit-success": "Ваш запрос отправлен",
+    "cards-page-organization-request-create-address": "Адрес",
+    "cards-page-organization-request-create-cards-section": "Выберите карточку",
+    "cards-page-organization-request-create-title": "Запрос на присоединение",
+    "cards-page-organization-request-create-title-cancel": "Отменить",
+    "cards-page-organization-request-create-title-submit": "Отправить"
   }
 }

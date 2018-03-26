@@ -1,5 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-main-view": "Объявления"
+    "cards-page-organization-announcement-main-action-sheet-delete": "Удалить",
+    "cards-page-organization-announcement-main-action-sheet-update": "Редактировать",
+    "cards-page-organization-announcement-main-date": "{createDate}, ред. {updateDate}",
+    "cards-page-organization-announcement-main-delete-failure": "Не удалось удалить объявление.",
+    "cards-page-organization-announcement-main-delete-repeat": "Попробовать еще раз",
+    "cards-page-organization-announcement-main-empty": "Объявлений не найдено",
+    "cards-page-organization-announcement-main-view": "Просмотр объявления"
   }
 }

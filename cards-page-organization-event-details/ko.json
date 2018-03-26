@@ -1,14 +1,14 @@
 {
   "data": {
-    "cards-page-organization-event-details-address": "Venue",
-    "cards-page-organization-event-details-attendees": "Attendees",
-    "cards-page-organization-event-details-end-date": "End",
-    "cards-page-organization-event-details-info-title": "Event information",
-    "cards-page-organization-event-details-join-title": "Join event",
-    "cards-page-organization-event-details-leave-event": "Leave event",
-    "cards-page-organization-event-details-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
-    "cards-page-organization-event-details-people-i-know": "People I know",
-    "cards-page-organization-event-details-start-date": "Start",
-    "cards-page-organization-event-details-title": "My cards"
+    "cards-page-organization-event-details-address": "주소",
+    "cards-page-organization-event-details-attendees": "명이 참가",
+    "cards-page-organization-event-details-end-date": "마감 시간",
+    "cards-page-organization-event-details-info-title": "행사 정보",
+    "cards-page-organization-event-details-join-title": "행사 참석하기",
+    "cards-page-organization-event-details-leave-event": "이 행사 나가기",
+    "cards-page-organization-event-details-main-no-event-details": "행사 정보를 가져올 수 없습니다. 인터넷 연결을 확인하고 다시 시도하십시오.",
+    "cards-page-organization-event-details-people-i-know": "명이 내 친분",
+    "cards-page-organization-event-details-start-date": "시작 시간",
+    "cards-page-organization-event-details-title": "내 카드"
   }
 }

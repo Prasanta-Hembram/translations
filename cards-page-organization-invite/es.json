@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
-    "cards-page-organization-alert-invitation-success": "Invitation successfully sent",
+    "cards-page-organization-alert-invitation-failure": "Error al enviar invitaciones",
+    "cards-page-organization-alert-invitation-success": "Invitación enviada con éxito",
     "cards-page-organization-invite-cancel": "Cancelar",
     "cards-page-organization-invite-by-phone-number": "Invitar por mensaje de texto",
     "cards-page-organization-invite-design": "Invitar como empleado",

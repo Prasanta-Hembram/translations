@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-event-main-card-more": "More options",
+    "cards-page-event-main-card-more": "Інші функції",
     "cards-page-event-main-event-registration-not-started": "Реєстрація на подію ще не почалася",
     "cards-page-event-main-event-registration-ended": "Реєстрація на подію вже завершилася",
-    "cards-page-event-main-exchange-successful": "Live card exchange successful.",
-    "cards-page-event-main-details-join-title": "Join event",
-    "cards-page-event-main-join-event-description": "Ви поки що не приєдналися до цієї події. Розпочнімо!",
-    "cards-page-event-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
-    "cards-page-event-main-share-action-sheet":"Add to live cards",
+    "cards-page-event-main-exchange-successful": "Обмін картками успішно здійснено.",
+    "cards-page-event-main-details-join-title": "Долучитися до події",
+    "cards-page-event-main-join-event-description": "Ви поки що не долучилися до цієї події. Розпочнімо!",
+    "cards-page-event-main-no-event-details": "Не вдалося завантажити деталі події. Перевірте з'єднання з інтернетом та спробуйте ще раз.",
+    "cards-page-event-main-share-action-sheet":"Додати до контактів",
     "cards-page-event-main-title": "Події та нетворкінг"
   }
 }

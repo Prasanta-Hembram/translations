@@ -1,13 +1,18 @@
 {
   "data": {
-    "cards-page-organization-property-edit-cancel": "Cancel",
-    "cards-page-organization-property-edit-description": "Description",
-    "cards-page-organization-property-edit-description-placeholder": "Type description for your property (optional)",
-    "cards-page-organization-property-edit-min-time": "Min time",
-    "cards-page-organization-property-edit-name": "Name",
-    "cards-page-organization-property-edit-primary-property": "Primary property",
-    "cards-page-organization-property-edit-save": "Save",
-    "cards-page-organization-property-edit-secondary-property": "Secondary property",
-    "cards-page-organization-property-edit-title": "Edit property"
+    "cards-page-organization-property-edit-cancel": "Отменить",
+    "cards-page-organization-property-edit-description": "Описание",
+    "cards-page-organization-property-edit-description-placeholder": "Введите описание ресурса (не обязательно)",
+    "cards-page-organization-property-edit-min-time": "Мин. время",
+    "cards-page-organization-property-edit-min-time-15-min": "15 минут",
+    "cards-page-organization-property-edit-min-time-30-min": "30 минут",
+    "cards-page-organization-property-edit-min-time-1-hour": "1 час",
+    "cards-page-organization-property-edit-min-time-2-hour": "2 часа",
+    "cards-page-organization-property-edit-min-time-4-hour": "4 часа",
+    "cards-page-organization-property-edit-name": "Название",
+    "cards-page-organization-property-edit-primary-property": "Первичное св-во",
+    "cards-page-organization-property-edit-save": "Сохранить",
+    "cards-page-organization-property-edit-secondary-property": "Вторичное св-во",
+    "cards-page-organization-property-edit-title": "Редактирование ресурса"
   }
 }

@@ -1,13 +1,18 @@
 {
   "data": {
-    "cards-page-organization-property-edit-cancel": "Cancel",
-    "cards-page-organization-property-edit-description": "Description",
-    "cards-page-organization-property-edit-description-placeholder": "Type description for your property (optional)",
-    "cards-page-organization-property-edit-min-time": "Min time",
-    "cards-page-organization-property-edit-name": "Name",
-    "cards-page-organization-property-edit-primary-property": "Primary property",
-    "cards-page-organization-property-edit-save": "Save",
-    "cards-page-organization-property-edit-secondary-property": "Secondary property",
-    "cards-page-organization-property-edit-title": "Edit property"
+    "cards-page-organization-property-edit-cancel": "취소",
+    "cards-page-organization-property-edit-description": "설명",
+    "cards-page-organization-property-edit-description-placeholder": "시설에 설명 입력 (선택 사항)",
+    "cards-page-organization-property-edit-min-time": "최저 예약 기간",
+    "cards-page-organization-property-edit-min-time-15-min": "15분",
+    "cards-page-organization-property-edit-min-time-30-min": "30분",
+    "cards-page-organization-property-edit-min-time-1-hour": "1시간",
+    "cards-page-organization-property-edit-min-time-2-hour": "2시간",
+    "cards-page-organization-property-edit-min-time-4-hour": "4시간",
+    "cards-page-organization-property-edit-name": "이름",
+    "cards-page-organization-property-edit-primary-property": "기본 속성",
+    "cards-page-organization-property-edit-save": "저장",
+    "cards-page-organization-property-edit-secondary-property": "기타 속성",
+    "cards-page-organization-property-edit-title": "시설 편집"
   }
 }

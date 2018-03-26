@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-bookings-settings-cancel": "Cancel",
-    "cards-page-organization-bookings-settings-from": "From",
-    "cards-page-organization-bookings-settings-period": "Period",
-    "cards-page-organization-bookings-settings-period-one-month": "1 month",
-    "cards-page-organization-bookings-settings-period-one-week": "1 week",
-    "cards-page-organization-bookings-settings-period-two-weeks": "2 weeks",
-    "cards-page-organization-bookings-settings-save": "Save",
-    "cards-page-organization-bookings-settings-title": "Booking Settings",
-    "cards-page-organization-bookings-settings-until": "Until"
+    "cards-page-organization-bookings-settings-cancel": "Cancelar",
+    "cards-page-organization-bookings-settings-from": "A partir de",
+    "cards-page-organization-bookings-settings-period": "Período",
+    "cards-page-organization-bookings-settings-period-one-month": "1 mes",
+    "cards-page-organization-bookings-settings-period-one-week": "1 semana",
+    "cards-page-organization-bookings-settings-period-two-weeks": "2 semanas",
+    "cards-page-organization-bookings-settings-save": "Salvar",
+    "cards-page-organization-bookings-settings-title": "Configuración del sistema de reserva",
+    "cards-page-organization-bookings-settings-until": "Hasta"
   }
 }

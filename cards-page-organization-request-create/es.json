@@ -1,10 +1,10 @@
 {
   "data": {
-    "cards-page-organization-request-create-alert-submit-success": "Your request was sent",
-    "cards-page-organization-request-create-address": "Address",
-    "cards-page-organization-request-create-cards-section": "Select Card",
-    "cards-page-organization-request-create-title": "Submit join request",
-    "cards-page-organization-request-create-title-cancel": "Cancel",
-    "cards-page-organization-request-create-title-submit": "Submit"
+    "cards-page-organization-request-create-alert-submit-success": "Su solicitud fue enviada",
+    "cards-page-organization-request-create-address": "Dirección",
+    "cards-page-organization-request-create-cards-section": "Seleccione la tarjeta",
+    "cards-page-organization-request-create-title": "Enviar solicitud de unión",
+    "cards-page-organization-request-create-title-cancel": "Cancelar",
+    "cards-page-organization-request-create-title-submit": "Enviar"
   }
 }

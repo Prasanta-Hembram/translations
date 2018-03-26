@@ -1,23 +1,8 @@
 {
   "data": {
-    "marketing-pricing-title": "andCards: Pricing — price plans for users, coworkings, enterprise",
+    "marketing-pricing-advanced-features-affordable": "Advanced features — affordable. The time you save — priceless.",
+    "marketing-pricing-basic-features-free": "Basic features — free.",
     "marketing-pricing-description": "Free download for individual users, low cost for coworkings and affordable subscription for companies. Start building your own community right now with a free trial!",
-    "marketing-pricing-heading": "Networking culture, delivered.",
-    "marketing-pricing-paragraph": "You've got it right, andCards Community costs only 5 cents per user per day!",
-    "marketing-pricing-personal-title": "Personal",
-    "marketing-pricing-personal-description": "Keep your contacts up-to-date, join communities and network at events",
-    "marketing-pricing-personal-price": "Free",
-    "marketing-pricing-personal-condition": "forever",
-    "marketing-pricing-personal-action": "Sign up now",
-    "marketing-pricing-community-title": "Community",
-    "marketing-pricing-community-description": "Everything your community needs to grow: directory, events, announcements, and more.",
-    "marketing-pricing-community-price": "5¢",
-    "marketing-pricing-community-condition": "per user per day",
-    "marketing-pricing-community-action": "Request free trial",
-    "marketing-pricing-enterprise-title": "Enterprise",
-    "marketing-pricing-enterprise-description": "Custom solution for large companies: integrations, SSO, priority support",
-    "marketing-pricing-enterprise-price": "10¢",
-    "marketing-pricing-enterprise-condition": "per user per day",
-    "marketing-pricing-enterprise-action": "Contact us"
+    "marketing-pricing-title": "andCards: Pricing — price plans for users, coworkings, enterprise"
   }
 }

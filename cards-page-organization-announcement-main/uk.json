@@ -1,5 +1,11 @@
 {
   "data": {
-    "cards-page-organization-announcement-main-view": "Оголошення"
+    "cards-page-organization-announcement-main-action-sheet-delete": "Видалити",
+    "cards-page-organization-announcement-main-action-sheet-update": "Редагувати",
+    "cards-page-organization-announcement-main-date": "{createDate}, ред. {updateDate}",
+    "cards-page-organization-announcement-main-delete-failure": "Не вдалося видалити оголошення",
+    "cards-page-organization-announcement-main-delete-repeat": "Спробувати ще раз",
+    "cards-page-organization-announcement-main-empty": "Оголошень не знайшлося",
+    "cards-page-organization-announcement-main-view": "Перегляд оголошення"
   }
 }

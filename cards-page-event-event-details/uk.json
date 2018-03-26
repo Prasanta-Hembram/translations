@@ -6,7 +6,7 @@
     "cards-page-event-details-info-title": "Інформація про подію",
     "cards-page-event-details-join-title": "Приєднатися до події",
     "cards-page-event-details-leave-event": "Покинути подію",
-    "cards-page-event-details-main-no-event-details": "Couldn't get the event details. Are you sure there is an internet connection?",
+    "cards-page-event-details-main-no-event-details": "Не вдалося завантажити деталі події. Перевірте з'єднання з інтернетом та спробуйте ще раз.",
     "cards-page-event-details-start-date": "Початок",
     "cards-page-event-details-people-i-know": "знайомих",
     "cards-page-event-details-title": "Обрати картку"
