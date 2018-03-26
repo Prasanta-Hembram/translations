@@ -23,6 +23,7 @@
     "cards-page-organization-main-polls-create": "설문 조사하기",
     "cards-page-organization-main-polls-all": "모든 설문 조사",
     "cards-page-organization-main-properties-title": "시설 예약",
+    "cards-page-organization-main-stack-search": "Search among {amount} people",
     "cards-page-organization-main-settings": "조직 설정"
   }
 }
