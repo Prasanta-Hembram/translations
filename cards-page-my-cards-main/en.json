@@ -1,10 +1,11 @@
 {
-  "data": {    
+  "data": {
     "cards-page-my-cards-main-action-create": "Create card",
     "cards-page-my-cards-main-action-delete-card": "Delete",
     "cards-page-my-cards-main-action-edit-card": "Edit data",
     "cards-page-my-cards-main-action-edit-design": "Edit design", 
     "cards-page-my-cards-main-action-share": "Share",
+    "cards-page-my-cards-main-deleted-title": "Deleted cards",
     "cards-page-my-cards-main-heading-subtitle-afternoon": "Share your card in one touch ⚡",
     "cards-page-my-cards-main-heading-subtitle-evening": "See what's new with your people 💡",
     "cards-page-my-cards-main-heading-subtitle-morning": "Have a nice day 🌞",
