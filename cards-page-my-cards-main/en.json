@@ -4,6 +4,7 @@
     "cards-page-my-cards-main-action-delete-card": "Delete",
     "cards-page-my-cards-main-action-edit-card": "Edit data",
     "cards-page-my-cards-main-action-edit-design": "Edit design", 
+    "cards-page-my-cards-main-action-set-main-card": "Set as default",
     "cards-page-my-cards-main-action-share": "Share",
     "cards-page-my-cards-main-deleted-title": "Deleted cards",
     "cards-page-my-cards-main-heading-subtitle-afternoon": "Share your card in one touch ⚡",
@@ -19,3 +20,6 @@
     "cards-page-my-cards-main-title": "My andCards"
   }
 }
+
+
+  
