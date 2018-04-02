@@ -1,0 +1,18 @@
+{
+  "data": {
+    "cards-page-my-cards-create-fields-title": "카드 만들기",
+    "cards-page-my-cards-create-fields-autoconnect-notice": "이 카드는 이미 자신의 전화 번호가 이미 연락처에 있고, 전화 번호가 이미 연락처에 있던 카드 사용자와 자동으로 동기화됩니다.",
+    "cards-page-my-cards-create-fields-shared-basic-information": "기본 정보",
+    "cards-page-my-cards-create-fields-shared-phone-numbers-information": "연락처",
+    "cards-page-my-cards-create-fields-shared-emails-information": "이메일",
+    "cards-page-my-cards-create-fields-shared-social-information": "SNS",
+    "cards-page-my-cards-create-fields-shared-notes": "공공 메모",
+    "cards-page-my-cards-create-fields-private-notes": "사유 메모",
+    "cards-page-my-cards-create-fields-public": "공개 카드",
+    "cards-page-my-cards-create-fields-public-link": "공개 링크",
+    "cards-page-my-cards-create-fields-public-embed-code": "소스 코드",
+    "cards-page-my-cards-create-fields-privacy-settings": "정보 보호 설정",
+    "cards-page-my-cards-create-fields-autoconnect": "자동 연결",
+    "cards-page-my-cards-create-fields-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다."
+  }
+}
