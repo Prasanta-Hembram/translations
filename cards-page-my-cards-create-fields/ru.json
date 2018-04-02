@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-my-cards-create-fields-autoconnect-notice": "Эта карточка автоматически синхронизируется с пользователями andCards, у которых есть ваш номер телефона и чей номер есть в вашем списке контактов.",
+    "cards-page-my-cards-create-fields-shared-basic-information": "Основная информация",
+    "cards-page-my-cards-create-fields-shared-phone-numbers-information": "Номера телефонов",
+    "cards-page-my-cards-create-fields-shared-emails-information": "Электропочта",
+    "cards-page-my-cards-create-fields-shared-social-information": "Социальные сервисы",
+    "cards-page-my-cards-create-fields-shared-notes": "Публичные заметки",
+    "cards-page-my-cards-create-fields-private-notes": "Личные заметки",
+    "cards-page-my-cards-create-fields-public": "Публичная",
+    "cards-page-my-cards-create-fields-public-link": "Ссылка",
+    "cards-page-my-cards-create-fields-public-embed-code": "Код для сайта",
+    "cards-page-my-cards-create-fields-privacy-settings": "Приватность",
+    "cards-page-my-cards-create-fields-autoconnect": "Автоконнект",
+    "cards-page-my-cards-create-fields-copied-to-clipboard": "Скопировано в буфер обмена"
+  }
+}
