@@ -5,6 +5,7 @@
     "cards-page-organization-property-details-delete-button": "Видалити ресурс",
     "cards-page-organization-property-details-delete-failure": "Не вдалося видалити ресурс",
     "cards-page-organization-property-details-delete-repeat": "Спробувати знову",
+    "cards-page-organization-property-details-error-not-found": "Перевірте з'єднання з інтернетом.",
     "cards-page-organization-property-details-no-property": "Немає доступних ресурсів.",
     "cards-page-organization-property-details-no-property-bookings": "Немає резервацій.",
     "cards-page-organization-property-details-schedule": "Розклад",

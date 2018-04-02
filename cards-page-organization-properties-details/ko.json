@@ -5,6 +5,7 @@
     "cards-page-organization-property-details-delete-button": "시설 삭제",
     "cards-page-organization-property-details-delete-failure": "시설 삭제 불가",
     "cards-page-organization-property-details-delete-repeat": "다시 시도",
+    "cards-page-organization-property-details-error-not-found": "인터넷이 없습니다.",
     "cards-page-organization-property-details-no-property": "시설이 없습니다.",
     "cards-page-organization-property-details-no-property-bookings": "예약이 없습니다.",
     "cards-page-organization-property-details-schedule": "시간표",
