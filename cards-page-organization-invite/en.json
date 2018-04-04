@@ -3,10 +3,12 @@
     "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
     "cards-page-organization-alert-invitation-success": "Invitation successfully sent",
     "cards-page-organization-invite-cancel": "Cancel",
+    "cards-page-organization-invite-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-invite-by-phone-number": "Invite by SMS",
     "cards-page-organization-invite-design": "Invite as employee",
     "cards-page-organization-invite-done": "Invite",
     "cards-page-organization-invite-notice": "Invitees will receive an SMS with a registration link (190+ countries supported). Regular members can join with any of their existing cards. Employees will get a new card with your default organization design.",
+    "cards-page-organization-invite-share-link": "Share a link",
     "cards-page-organization-invite-title": "Invite to {organizationTitle}"
   }
 }

@@ -3,10 +3,12 @@
     "cards-page-organization-alert-invitation-failure": "Не вдалося відправити запрошення",
     "cards-page-organization-alert-invitation-success": "Запрошення успішно надіслано",
     "cards-page-organization-invite-cancel": "Скасувати",
+    "cards-page-organization-invite-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-invite-by-phone-number": "Запросити через СМС",
     "cards-page-organization-invite-design": "Запросити як працівника",
     "cards-page-organization-invite-done": "Запросити",
     "cards-page-organization-invite-notice": "Запрошення надійде як текстове повідомлення з посиланням для реєстрації (підтримується 190+ країн). Звичайні учасники приєднаються з однією з існуючих персональних карток. Працівники отримають нову картку з дизайном організації за замовчанням.",
+    "cards-page-organization-invite-share-link": "Поділитись посиланням",
     "cards-page-organization-invite-title": "Запросити до {organizationTitle}"
   }
 }
