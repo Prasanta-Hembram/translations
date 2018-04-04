@@ -8,7 +8,7 @@
     "cards-page-organization-invite-design": "Пригласить как работника",
     "cards-page-organization-invite-done": "Пригласить",
     "cards-page-organization-invite-notice": "Приглашенные получат СМС со ссылкой для регистрации (поддерживается 190+ стран). Обычные участники присоединятся с одной из имеющихся карточек. Работники получат новую карточку с дизайном организации по умолчанию.",
-    "cards-page-organization-invite-share-link": "Поділитися",
+    "cards-page-organization-invite-share-link": "Поделиться ссылкой",
     "cards-page-organization-invite-title": "Пригласить в {organizationTitle}"
   }
 }
