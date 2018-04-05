@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-my-cards-create-fields-title": "Створити картку",
     "cards-page-my-cards-create-fields-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами andCards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
     "cards-page-my-cards-create-fields-shared-basic-information": "Загальна інформація",
     "cards-page-my-cards-create-fields-shared-phone-numbers-information": "Номери телефонів",
