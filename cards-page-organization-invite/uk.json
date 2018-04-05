@@ -4,11 +4,13 @@
     "cards-page-organization-alert-invitation-success": "Запрошення успішно надіслано",
     "cards-page-organization-invite-cancel": "Скасувати",
     "cards-page-organization-invite-copied-to-clipboard": "Скопійовано в буфер обміну.",
-    "cards-page-organization-invite-by-phone-number": "Запросити через СМС",
     "cards-page-organization-invite-design": "Запросити як працівника",
     "cards-page-organization-invite-done": "Запросити",
-    "cards-page-organization-invite-notice": "Запрошення надійде як текстове повідомлення з посиланням для реєстрації (підтримується 190+ країн). Звичайні учасники приєднаються з однією з існуючих персональних карток. Працівники отримають нову картку з дизайном організації за замовчанням.",
-    "cards-page-organization-invite-share-link": "Поділитись посиланням",
+    "cards-page-organization-invite-employees-title": "Запросити співробітників",
+    "cards-page-organization-invite-employees-via-sms-description": "Уведіть номер телефону в міжнародному форматі. Запрошення надійде як текстове повідомлення з посиланням для реєстрації. Співробітники отримають нову картку з дизайном організації за замовчанням.",
+    "cards-page-organization-invite-members-via-link-description": "Поділіться публічним посиланням на організацію, щоб дозволити будь-кому подати заявку на участь.",
+    "cards-page-organization-invite-members-via-sms-description": "Надішлість індивідуальне запрошення по СМС. Звичайні учасники приєднаються з однією з існуючих персональних карток.",
+    "cards-page-organization-invite-members-title": "Запросити учасників",
     "cards-page-organization-invite-title": "Запросити до {organizationTitle}"
   }
 }

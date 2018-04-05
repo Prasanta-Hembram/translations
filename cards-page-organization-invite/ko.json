@@ -4,11 +4,13 @@
     "cards-page-organization-alert-invitation-success": "초대장이 전송되었습니다.",
     "cards-page-organization-invite-cancel": "취소하기",
     "cards-page-organization-invite-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
-    "cards-page-organization-invite-by-phone-number": "전화번호 입력",
     "cards-page-organization-invite-design": "직원으로 초대하기",
     "cards-page-organization-invite-done": "초대하기",
-    "cards-page-organization-invite-notice": "초대된 사람들은 가입 링크가 포함된 문자를 받음(190개국 이상 지원). 일반 회원은 기존 카드중 어떤 것으로도 참여 가능. 직원들은 기본 설정 디자인으로 새 카드를 받게 됨.",
-    "cards-page-organization-invite-share-link": "링크 공유",
+    "cards-page-organization-invite-employees-title": "직원 초대",
+    "cards-page-organization-invite-employees-via-sms-description": "국제 형식을 사용하세요 (예: +8210...). 초대된 사람들은 가입 링크가 포함된 문자를 받음. 직원들은 기본 설정 디자인으로 새 카드를 받게 됨.",
+    "cards-page-organization-invite-members-via-link-description": "누구나 회원 자격을 요청할 수 있도록 조직에 대한 공개 링크를 공유하세요.",
+    "cards-page-organization-invite-members-via-sms-description": "등록 링크가있는 SMS를 보내세요. 일반 회원은 기존 카드중 어떤 것으로도 참여 가능.",
+    "cards-page-organization-invite-members-title": "회원 초대",
     "cards-page-organization-invite-title": "{organizationTitle}에 초대하기"
   }
 }
