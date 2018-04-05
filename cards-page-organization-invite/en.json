@@ -7,8 +7,8 @@
     "cards-page-organization-invite-design": "Invite as employee",
     "cards-page-organization-invite-done": "Invite",
     "cards-page-organization-invite-employees-title": "Invite Employees",
-    "cards-page-organization-invite-employees-via-sms-description": "Invitees will receive an SMS with a registration link.Employees will get a new card with your default organization design",
-    "cards-page-organization-invite-members-via-link-description": "Share a public link to organization, so that anyone on request can request membership",
+    "cards-page-organization-invite-employees-via-sms-description": "Enter a phone number in international format. Invitees will receive an SMS with a registration link. Employees will get a new card with your default organization design.",
+    "cards-page-organization-invite-members-via-link-description": "Share a public link to organization, so that anyone can request membership.",
     "cards-page-organization-invite-members-via-sms-description": "Alternatively, send an SMS with registration link. Members will join with one of their existing cards.",
     "cards-page-organization-invite-members-title": "Invite members",
     "cards-page-organization-invite-title": "Invite to {organizationTitle}"
