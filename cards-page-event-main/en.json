@@ -1,6 +1,7 @@
 {
-  "data": {    
+  "data": {
     "cards-page-event-main-card-more": "More options",
+    "cards-page-event-main-card-share-action-sheet": "Add to contacts",
     "cards-page-event-main-event-registration-not-started": "The event has not started yet.",
     "cards-page-event-main-event-registration-ended": "Event registration period is over.",
     "cards-page-event-main-exchange-successful": "Card exchange successful.",
