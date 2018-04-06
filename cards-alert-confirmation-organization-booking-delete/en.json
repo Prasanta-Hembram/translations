@@ -1,6 +1,8 @@
 {
-  "cards-alert-confirmation-organization-booking-delete-text": "Are you sure you want to delete this booking? This action is irreversible.",
-  "cards-alert-confirmation-organization-booking-delete-no": "Cancel",
-  "cards-alert-confirmation-organization-booking-delete-title": "Delete Booking",
-  "cards-alert-confirmation-organization-booking-delete-yes": "Yes, delete"
+  "data": {
+    "cards-alert-confirmation-organization-booking-delete-text": "Are you sure you want to delete this booking? This action is irreversible.",
+    "cards-alert-confirmation-organization-booking-delete-no": "Cancel",
+    "cards-alert-confirmation-organization-booking-delete-title": "Delete Booking",
+    "cards-alert-confirmation-organization-booking-delete-yes": "Yes, delete"
+  }
 }

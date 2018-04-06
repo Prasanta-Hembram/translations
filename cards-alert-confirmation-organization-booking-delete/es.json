@@ -1,6 +1,8 @@
 {
-  "cards-alert-confirmation-organization-booking-delete-text": "¿Seguro que quieres eliminar esta reserva? Esta acción es irreversible.",
-  "cards-alert-confirmation-organization-booking-delete-no": "Cancelar",
-  "cards-alert-confirmation-organization-booking-delete-title": "Eliminar reserva",
-  "cards-alert-confirmation-organization-booking-delete-yes": "Sí, eliminar"
+  "data": {
+    "cards-alert-confirmation-organization-booking-delete-text": "¿Seguro que quieres eliminar esta reserva? Esta acción es irreversible.",
+    "cards-alert-confirmation-organization-booking-delete-no": "Cancelar",
+    "cards-alert-confirmation-organization-booking-delete-title": "Eliminar reserva",
+    "cards-alert-confirmation-organization-booking-delete-yes": "Sí, eliminar"
+  }
 }
