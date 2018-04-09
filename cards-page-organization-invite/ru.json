@@ -7,9 +7,9 @@
     "cards-page-organization-invite-design": "Пригласить как работника",
     "cards-page-organization-invite-done": "Пригласить",
     "cards-page-organization-invite-employees-title": "Пригласить работников",
-    "cards-page-organization-invite-employees-via-sms-description": "Введите номер телефона в международном формате. Приглашенные получат СМС со ссылкой для регистрации. Работники получат новую карточку с дизайном организации по умолчанию.",
+    "cards-page-organization-invite-employees-via-sms-description": "Отправьте персональное приглашение по СМС. Работники получат новую карточку с дизайном организации по умолчанию.",
     "cards-page-organization-invite-members-via-link-description": "Поделитесь публичной ссылкой на организацию, чтобы позволить любому человеку подать запрос на членство.",
-    "cards-page-organization-invite-members-via-sms-description": "Отправьте персональное приглашение по СМС. Обычные участники присоединятся с одной из имеющихся карточек.",
+    "cards-page-organization-invite-members-via-sms-description": "Отправьте персональное приглашение по СМС. Введите номер телефона в международном формате.",
     "cards-page-organization-invite-members-title": "Пригласить участников",
     "cards-page-organization-invite-title": "Пригласить в {organizationTitle}"
   }
