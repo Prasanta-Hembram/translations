@@ -7,6 +7,7 @@
     "cards-page-organization-event-main-details-join-title": "Долучитися до події",
     "cards-page-organization-event-main-join-event-description": "Ви поки що не долучилися до цієї події. Розпочнімо!",
     "cards-page-organization-event-main-no-event-details": "Не вдалося завантажити деталі події. Перевірте з'єднання з інтернетом та спробуйте ще раз.",
-    "cards-page-organization-event-main-share-action-sheet": "Додати до контактів"
+    "cards-page-organization-event-main-search": "Пошук за {numberOfPeople} учасниками",
+    "cards-page-organization-event-main-share-action-sheet": "Додати до контактів",
   }
 }
