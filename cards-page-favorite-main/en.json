@@ -1,13 +1,13 @@
 {
-  "data": {   
+  "data": {
     "cards-page-favorite-main-add": "Add to favorites",
-    "cards-page-favorite-main-add-to-group": "Add to group",
-    "cards-page-favorite-main-edit-card": "Edit card",
+    "cards-page-favorite-main-action-add-to-group": "Add to group...",
+    "cards-page-favorite-main-action-delete-card": "Delete",
+    "cards-page-favorite-main-action-edit-card": "Edit",
+    "cards-page-favorite-main-action-remove-from-favorites": "Remove from favorites", 
     "cards-page-favorite-main-empty-facebook-button": "Add cards",
     "cards-page-favorite-main-empty-text-add": "Add some cards to this stack for quick access.",
-    "cards-page-favorite-main-delete-card": "Delete card",
     "cards-page-favorite-main-more": "More options",
-    "cards-page-favorite-main-remove-from-favorites": "Remove from favorites", 
     "cards-page-favorite-main-title": "Favorites"
   }
 }
