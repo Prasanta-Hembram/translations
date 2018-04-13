@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-sessions-active-cannot-load": "세션 정보를 불러올 수 없습니다. 활성 세션 정보를 불러올 수 없습니다. 인터넷 연결을 확인해주세요.",
+    "cards-page-sessions-active-cannot-load": "세션 정보를 불러올 수 없습니다. 인터넷 연결을 확인해주세요.",
     "cards-page-sessions-active-empty": "활성 세션이 없습니다.",
     "cards-page-sessions-current": "활성 세션",
     "cards-page-sessions-current-cannot-load": "세션 정보를 불러올 수 없습니다. 인터넷 연결을 확인해주세요.",
