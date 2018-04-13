@@ -2,9 +2,9 @@
   "data": {
     "cards-page-organization-settings-address": "주소",
     "cards-page-organization-settings-cover-photo": "커버 사진",
-    "cards-page-organization-settings-default-design": "직원 카드 디자인",
+    "cards-page-organization-settings-default-design": "직원 카드",
     "cards-page-organization-settings-edit-my-cards-design-default": "기본",
-    "cards-page-organization-settings-edit-design-color-reset": "색상을 기본값으로 재설정",
+    "cards-page-organization-settings-edit-design-color-reset": "색상을 기본값으로 설정",
     "cards-page-organization-settings-edit-design-font-field": "필드 폰트",
     "cards-page-organization-settings-edit-design-font-name": "이름 폰트",
     "cards-page-organization-settings-error-no-internet-description": "인터넷이 없습니다.",
