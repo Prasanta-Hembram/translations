@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-report-problem-attach": "스크린샷",
-    "cards-page-report-problem-describe": "문제 상세",
+    "cards-page-report-problem-describe": "오류 내용",
     "cards-page-report-problem-settings-main-title": "설정",
     "cards-page-report-problem-submit": "보내기",
-    "cards-page-report-problem-placeholder": "자세한 설명을 입력하십시오.",
-    "cards-page-report-problem-title": "문제 전하기"
+    "cards-page-report-problem-placeholder": "자세한 오류 내용을 설명해주세요.",
+    "cards-page-report-problem-title": "오류 알리기"
   }
 }
