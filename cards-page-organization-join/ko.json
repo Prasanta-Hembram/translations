@@ -1,15 +1,15 @@
 {
   "data": {
-    "cards-page-organization-join-as-community-text": "{organizationTitle}는 본인을 회원으로 초대했습니다.",
-    "cards-page-organization-join-as-employee-text": "{organizationTitle}는 본인을 직원으로 초대했습니다.",
-    "cards-page-organization-join-card-preview": "내 카드 미리보기",
-    "cards-page-organization-join-card-select-to-join":  "카드를 선택하기",
-    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "기본 정보",
+    "cards-page-organization-join-as-community-text": "{organizationTitle}에서 회원으로 초대했습니다.",
+    "cards-page-organization-join-as-employee-text": "{organizationTitle}에서 직원으로 초대했습니다.",
+    "cards-page-organization-join-card-preview": "카드 미리보기",
+    "cards-page-organization-join-card-select-to-join":  "카드 선택하기",
+    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "기본정보",
     "cards-page-organization-join-cards-edit-fields-shared-emails-information": "이메일",
     "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "연락처",
-    "cards-page-organization-join-error-invitation-not-valid": "이 초대장은 유효하지 않습니다.",
-    "cards-page-organization-join-error-already-joined": "이미 조직에 가입했습니다.",
-    "cards-page-organization-join-required-information": "필수 정보",
-    "cards-page-organization-join-title": "{organizationTitle} 가입"
+    "cards-page-organization-join-error-invitation-not-valid": "유효하지 않은 초대장입니다.",
+    "cards-page-organization-join-error-already-joined": "이미 가입한 조직입니다.",
+    "cards-page-organization-join-required-information": "필수정보",
+    "cards-page-organization-join-title": "{organizationTitle} 가입하기"
   }
 }
