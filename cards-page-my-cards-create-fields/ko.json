@@ -1,18 +1,18 @@
 {
   "data": {
     "cards-page-my-cards-create-fields-title": "카드 만들기",
-    "cards-page-my-cards-create-fields-autoconnect-notice": "사용자의 전화번호를 갖고있는 다른 앤카즈 사용자와는 자동으로 카드가 교환됩니다.",
+    "cards-page-my-cards-create-fields-autoconnect-notice": "나의 전화번호를 갖고있는 다른 앤카즈 사용자와는 자동으로 카드가 공유됩니다.",
     "cards-page-my-cards-create-fields-shared-basic-information": "기본 정보",
     "cards-page-my-cards-create-fields-shared-phone-numbers-information": "연락처",
     "cards-page-my-cards-create-fields-shared-emails-information": "이메일",
     "cards-page-my-cards-create-fields-shared-social-information": "SNS",
     "cards-page-my-cards-create-fields-shared-notes": "공개 메모",
     "cards-page-my-cards-create-fields-private-notes": "비공개 메모",
-    "cards-page-my-cards-create-fields-public": "카드 공개",
-    "cards-page-my-cards-create-fields-public-link": "카드 링크",
-    "cards-page-my-cards-create-fields-public-embed-code": "소스 코드",
+    "cards-page-my-cards-create-fields-public": "공개카드",
+    "cards-page-my-cards-create-fields-public-link": "카드링크",
+    "cards-page-my-cards-create-fields-public-embed-code": "소스코드",
     "cards-page-my-cards-create-fields-privacy-settings": "카드 공개여부 설정",
-    "cards-page-my-cards-create-fields-autoconnect": "자동 연결",
+    "cards-page-my-cards-create-fields-autoconnect": "자동연결",
     "cards-page-my-cards-create-fields-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다."
   }
 }
