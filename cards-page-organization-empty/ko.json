@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-empty-text":
-      "귀하는이 조직의 회원이 아닙니다.",
+      "이 조직의 회원이 아니십니다. 조직의 관리자에게 문의하세요.",
     "cards-page-organization-empty-action-button": "가입 요청"
   }
 }
