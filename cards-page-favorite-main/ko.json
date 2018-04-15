@@ -1,12 +1,12 @@
 {
   "data": {
     "cards-page-favorite-main-add": "즐겨찾기에 추가",
-    "cards-page-favorite-main-action-add-to-group": "그룹에 추가...",
+    "cards-page-favorite-main-action-add-to-group": "그룹에 추가하기",
     "cards-page-favorite-main-action-delete-card": "삭제",
     "cards-page-favorite-main-action-edit-card": "편집",
     "cards-page-favorite-main-action-remove-from-favorites": "즐겨찾기에서 삭제하기",
-    "cards-page-favorite-main-empty-facebook-button": "카드를 추가",
-    "cards-page-favorite-main-empty-text-add": "빠른 연락하도록 카드를 즐겨찾기에 추가.",
+    "cards-page-favorite-main-empty-facebook-button": "카드 추가",
+    "cards-page-favorite-main-empty-text-add": "카드를 즐겨찾기에 추가하기.",
     "cards-page-favorite-main-more": "기타 기능",
     "cards-page-favorite-main-title":  "즐겨찾기"
   }
