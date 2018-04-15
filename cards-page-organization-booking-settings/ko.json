@@ -1,13 +1,13 @@
 {
   "data": {
     "cards-page-organization-bookings-settings-cancel": "취소",
-    "cards-page-organization-bookings-settings-from": "사용 시작 시간",
-    "cards-page-organization-bookings-settings-period": "예약 가능 기간",
+    "cards-page-organization-bookings-settings-from": "시작시간",
+    "cards-page-organization-bookings-settings-period": "기간예약",
     "cards-page-organization-bookings-settings-period-one-month": "1달",
     "cards-page-organization-bookings-settings-period-one-week": "1주",
     "cards-page-organization-bookings-settings-period-two-weeks": "2주",
     "cards-page-organization-bookings-settings-save": "저장",
-    "cards-page-organization-bookings-settings-title": "예약 시스템 설정",
-    "cards-page-organization-bookings-settings-until": "사용 종료 시간"
+    "cards-page-organization-bookings-settings-title": "예약설정",
+    "cards-page-organization-bookings-settings-until": "종료시간"
   }
 }
