@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-event-main-card-more": "기타 기능",
-    "cards-page-organization-event-main-event-registration-not-started": "행사 등록은 시작 안 됩니다", 
-    "cards-page-organization-event-main-event-registration-ended": "행사 등록 기간이 아닙니다",
+    "cards-page-organization-event-main-card-more": "기타기능",
+    "cards-page-organization-event-main-event-registration-not-started": "행사등록이 시작되지 않았습니다.", 
+    "cards-page-organization-event-main-event-registration-ended": "행사등록 기간이 아닙니다",
     "cards-page-organization-event-main-exchange-successful": "카드를 교환하였습니다.",
-    "cards-page-organization-event-main-details-join-title": "행사 참석",
-    "cards-page-organization-event-main-join-event-description": "이 행사가 아직 참석하지 않습니다. 참석합시다~",
-    "cards-page-organization-event-main-no-event-details": "행사 정보를 가져올 수 없습니다. 인터넷 연결을 확인하고 다시 시도하십시오.",
-    "cards-page-organization-event-main-search": "{numberOfPeople}명으로 검색",
+    "cards-page-organization-event-main-details-join-title": "행사참석",
+    "cards-page-organization-event-main-join-event-description": "이 행사에 아직 참석하지 않으셨습니다. 참석해서 네트워크를 형성해보세요!",
+    "cards-page-organization-event-main-no-event-details": "행사정보를 가져올 수 없습니다. 인터넷 연결을 확인하고 다시 시도하십시오.",
+    "cards-page-organization-event-main-search": "{numberOfPeople}명 중 검색",
     "cards-page-organization-event-main-share-action-sheet": "연락처에 추가",
   }
 }
