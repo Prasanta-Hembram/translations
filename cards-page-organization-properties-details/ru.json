@@ -1,13 +1,13 @@
 {
   "data": {
     "cards-page-organization-property-details-book-button": "Бронировать",
+    "cards-page-organization-property-details-booking-not-allowed": "You cannot book for this day",
     "cards-page-organization-property-details-date": "Дата",
     "cards-page-organization-property-details-delete-button": "Удалить ресурс",
     "cards-page-organization-property-details-delete-failure": "Не удалось удалить ресурс",
     "cards-page-organization-property-details-delete-repeat": "Попробовать снова",
     "cards-page-organization-property-details-error-not-found": "Проверьте соединение с интернетом.",
     "cards-page-organization-property-details-no-property": "Нет доступных ресурсов.",
-    "cards-page-organization-property-details-no-property-bookings": "Нет бронирований.",
     "cards-page-organization-property-details-schedule": "Расписание",
     "cards-page-organization-property-details-edit-title": "Настроить ресурс"
   }
