@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-property-details-book-button": "예약",
-    "cards-page-organization-property-details-booking-not-allowed": "You cannot book for this day",
+    "cards-page-organization-property-details-booking-not-allowed": "이 날짜에 예약 할 수 없습니다",
     "cards-page-organization-property-details-date": "날짜",
     "cards-page-organization-property-details-delete-button": "시설삭제",
     "cards-page-organization-property-details-delete-failure": "삭제불가",
