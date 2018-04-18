@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-property-details-book-button": "Book",
-    "cards-page-organization-property-details-booking-not-allowed": "You cannot book for this day",
+    "cards-page-organization-property-details-booking-not-allowed": "You cannot book on this date",
     "cards-page-organization-property-details-date": "Date",
     "cards-page-organization-property-details-delete-button": "Delete facility",
     "cards-page-organization-property-details-delete-failure": "Failed to delete facility",
