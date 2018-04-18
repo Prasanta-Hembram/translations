@@ -2,6 +2,7 @@
   "data": {
     "cards-page-received-cards-main-add-received-cards": "카드 추가",
     "cards-page-received-cards-main-add-to-favorites": "즐겨찾기에 추가",
+    "cards-page-received-cards-main-remove-from-favorites": "즐겨찾기에서 삭제하기",
     "cards-page-received-cards-main-card-delete": "삭제",
     "cards-page-received-cards-main-card-edit":  "편집",
     "cards-page-received-cards-main-deleted-title": "휴지통",
