@@ -1,9 +1,11 @@
 {
   "data": {
+    "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-create-card": "Your card",
     "cards-page-organization-booking-create-end-time": "Ending",
     "cards-page-organization-booking-create-notice": "Your card will be attached to this booking. Make sure your information is up-to-date.",
     "cards-page-organization-booking-create-not-found-error": "No internet connection",
+    "cards-page-organization-booking-create-price": "Total",
     "cards-page-organization-booking-create-purpose": "Purpose",
     "cards-page-organization-booking-create-start-time": "Starting",
     "cards-page-organization-booking-create-title": "New booking"

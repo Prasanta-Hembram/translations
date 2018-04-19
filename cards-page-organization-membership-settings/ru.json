@@ -1,16 +1,22 @@
 {
   "data": {
+    "cards-page-organization-membership-settings-balance-title": "Balance",
+    "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring after 30 days.",
+    "cards-page-organization-membership-settings-billing-day": "Bill day",
+    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day",
     "cards-page-organization-membership-settings-title": "Настройки участия",
     "cards-page-organization-membership-settings-leave-failure":"Не удалось покинуть организацию",
     "cards-page-organization-membership-settings-leave-organization": "Покинуть организацию",
     "cards-page-organization-membership-settings-leave-repeat": "Попробовать еще раз",
-    "cards-page-organization-membership-settings-not-found-error" : "Нет подключения к интернету",
     "cards-page-organization-membership-settings-role": "Роль",
     "cards-page-organization-membership-settings-role-admin": "Администратор",
     "cards-page-organization-membership-settings-role-moderator": "Модератор",
     "cards-page-organization-membership-settings-role-member": "Участник",
     "cards-page-organization-membership-settings-role-info-admin": "Как администратор, вы можете настраивать и управлять всем в вашей организации.",
     "cards-page-organization-membership-settings-role-info-moderator": "Как модератор, вы можете управлять содержанием и гильдиями в вашей организации. Если вам нужно что-то настроить, обратитесь к администратору.",
-    "cards-page-organization-membership-settings-role-info-member": "Как участник, вы можете создавать и просматривать релевантное содержаниев вашей организации. Если вам нужно что-то изменить, обратитесь к модератору или администратору."
+    "cards-page-organization-membership-settings-role-info-member": "Как участник, вы можете создавать и просматривать релевантное содержаниев вашей организации. Если вам нужно что-то изменить, обратитесь к модератору или администратору.",
+    "cards-page-organization-membership-settings-plan" : "Plan", 
+    "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
+    "cards-page-organization-membership-settings-update-user-submit": "Submit"
   }
 }

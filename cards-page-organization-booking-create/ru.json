@@ -1,9 +1,11 @@
 {
   "data": {
+    "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-create-card": "Ваша карточка",
     "cards-page-organization-booking-create-end-time": "Конец",
     "cards-page-organization-booking-create-notice": "Ваша карточка будет прикреплена к бронированию. Убедитесь, что информация актуальна.",
     "cards-page-organization-booking-create-not-found-error": "Нет подключения к интернету",
+    "cards-page-organization-booking-create-price": "Total",
     "cards-page-organization-booking-create-purpose": "Цель",
     "cards-page-organization-booking-create-start-time": "Начало",
     "cards-page-organization-booking-create-title": "Новое бронирование"

@@ -1,10 +1,12 @@
 {
   "data": {
+    "cards-page-organization-booking-details-balance-text" : "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Reservado por",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-booking-details-delete": "Eliminar reserva",
     "cards-page-organization-booking-details-empty": "No se encontró reserva",
     "cards-page-organization-booking-details-end-time": "Finalización",
+    "cards-page-organization-booking-details-price" : "Total",
     "cards-page-organization-booking-details-purpose": "Propósito",
     "cards-page-organization-booking-details-share-link-title": "Enlace a la reserva",
     "cards-page-organization-booking-details-start-time": "Inicio"

@@ -1,16 +1,22 @@
 {
   "data": {
+    "cards-page-organization-membership-settings-balance-title": "Balance",
+    "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring after 30 days.",
+    "cards-page-organization-membership-settings-billing-day": "Bill day",
+    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day",
     "cards-page-organization-membership-settings-title": "Ajustes de Membresía",
     "cards-page-organization-membership-settings-leave-failure":"No pudo salir de la organización",
     "cards-page-organization-membership-settings-leave-organization": "Dejar la organización",
     "cards-page-organization-membership-settings-leave-repeat": "Inténtalo de nuevo",
-    "cards-page-organization-membership-settings-not-found-error" : "Sin internet",
     "cards-page-organization-membership-settings-role": "Rol",
     "cards-page-organization-membership-settings-role-admin": "Administrador",
     "cards-page-organization-membership-settings-role-moderator": "Moderador",
     "cards-page-organization-membership-settings-role-member": "Miembro",
     "cards-page-organization-membership-settings-role-info-admin": "Como administrador, puede configurar y administrar todo en su organización.",
     "cards-page-organization-membership-settings-role-info-moderator": "Como moderador, puede encargarse del contenido y los gremios en su organización. Si necesita hacer algún cambio en los ajuste, hable con el administrador.",
-    "cards-page-organization-membership-settings-role-info-member": "Como miembro, puede crear y ver contenido en su organización. Si necesita gestionar algo, hable con el moderador o administrador."
+    "cards-page-organization-membership-settings-role-info-member": "Como miembro, puede crear y ver contenido en su organización. Si necesita gestionar algo, hable con el moderador o administrador.",
+    "cards-page-organization-membership-settings-plan" : "Plan", 
+    "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
+    "cards-page-organization-membership-settings-update-user-submit": "Submit"
   }
 }

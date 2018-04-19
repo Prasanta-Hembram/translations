@@ -1,9 +1,11 @@
 {
   "data": {
+    "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-create-card": "Su tarjeta",
     "cards-page-organization-booking-create-end-time": "Finalización",
     "cards-page-organization-booking-create-notice": "Su tarjeta se adjuntará a esta reserva. Asegúrese de que su información esté actualizada.",
     "cards-page-organization-booking-create-not-found-error": "Sin conexión a Internet",
+    "cards-page-organization-booking-create-price": "Total",
     "cards-page-organization-booking-create-purpose": "Propósito",
     "cards-page-organization-booking-create-start-time": "Inicio",
     "cards-page-organization-booking-create-title": "Nueva reserva"
