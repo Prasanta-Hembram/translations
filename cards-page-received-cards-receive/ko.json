@@ -1,14 +1,14 @@
 {
   "data": {
     "cards-page-received-cards-receive-sharing-code": "임시 코드",
-    "cards-page-received-cards-receive-sharing-code-placeholder": "상대방 카드에서 발급된 코드를 입력하세요",
-    "cards-page-received-cards-receive-share-cards": "카드를 공유",
+    "cards-page-received-cards-receive-sharing-code-placeholder": "상대방 카드에 발급된 코드를 입력하세요",
+    "cards-page-received-cards-receive-share-cards": "카드 공유하기",
     "cards-page-received-cards-receive-cancel-and-return": "취소 및 돌아가기",
     "cards-page-received-cards-receive-add-received-cards": "카드 받기",
     "cards-page-received-cards-receive-received-cards": "받은 카드",
     "cards-page-received-cards-receive-approve-incoming-cards": "카드 승인",
     "cards-page-received-cards-receive-connect-to-internet-and-try-again": "인터넷을 연결하고 다시 시도하세요.",
     "cards-page-received-cards-receive-exchange-successful": "카드를 교환하였습니다.",
-    "cards-page-received-cards-receive-mark-card": "선"
+    "cards-page-received-cards-receive-mark-card": "선택"
   }
 }
