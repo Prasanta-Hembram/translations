@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-booking-details-balance-text" : "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
+    "cards-page-organization-booking-details-balance-text" : "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Reservado por",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-booking-details-delete": "Eliminar reserva",
