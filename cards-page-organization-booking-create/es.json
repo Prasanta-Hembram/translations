@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
-    "cards-page-organization-booking-create-balance-admin-text": "As {permission} you can book room for free.",
+    "cards-page-organization-booking-create-balance-text": "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}",
+    "cards-page-organization-booking-create-balance-admin-text": "Como {permission} puedes reservar habitación gratis.",
     "cards-page-organization-booking-create-card": "Su tarjeta",
     "cards-page-organization-booking-create-end-time": "Finalización",
     "cards-page-organization-booking-create-notice": "Su tarjeta se adjuntará a esta reserva. Asegúrese de que su información esté actualizada.",
-    "cards-page-organization-booking-create-role-admin": "Administrator",
-    "cards-page-organization-booking-create-role-moderator": "Moderator",
-    "cards-page-organization-booking-create-role-member": "Member",
+    "cards-page-organization-booking-create-role-admin": "Administrador",
+    "cards-page-organization-booking-create-role-moderator": "Moderador",
+    "cards-page-organization-booking-create-role-member": "Miembro",
     "cards-page-organization-booking-create-start-time": "Inicio",
     "cards-page-organization-booking-create-price": "Total",
     "cards-page-organization-booking-create-purpose": "Propósito",
