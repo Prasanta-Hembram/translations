@@ -1,12 +1,12 @@
 {
   "data": {
-    "cards-page-organization-booking-details-balance-text" : "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
+    "cards-page-organization-booking-details-balance-text" : "Остаток до транзакции: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Кто забронировал",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-booking-details-delete": "Удалить бронирование",
     "cards-page-organization-booking-details-empty": "Бронирование не найдено.",
     "cards-page-organization-booking-details-end-time": "Конец",
-    "cards-page-organization-booking-details-price" : "Total",
+    "cards-page-organization-booking-details-price" : "Всего",
     "cards-page-organization-booking-details-purpose": "Цель",
     "cards-page-organization-booking-details-share-link-title": "Ссылка на бронирование",
     "cards-page-organization-booking-details-start-time": "Начало"
