@@ -1,6 +1,6 @@
 {
   "cards-alert-confirmation-organization-user-delete-no": "돌아가기",
-  "cards-alert-confirmation-organization-user-delete-text": "정말 이 회원을 삭제하시겠습니까? 계속하시면 되돌릴 수 없습니다.",
+  "cards-alert-confirmation-organization-user-delete-text": "이 회원을 삭제하시겠습니까? 삭제하시면 되돌릴 수 없습니다.",
   "cards-alert-confirmation-organization-user-delete-title": "회원 삭제",
   "cards-alert-confirmation-organization-user-delete-yes": "네, 삭제하기"
 }
