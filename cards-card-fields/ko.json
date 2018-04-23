@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-card-fields-clear": "깨끗하기",
-    "cards-card-fields-delete": "삭제하기",
+    "cards-card-fields-clear": "내용삭제",
+    "cards-card-fields-delete": "항목삭제",
     "cards-card-fields-first-name": "이름",
     "cards-card-fields-last-name": "성",
     "cards-card-fields-other": "기타",
