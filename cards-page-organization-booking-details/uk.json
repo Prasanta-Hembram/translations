@@ -1,12 +1,12 @@
 {
   "data": {
-    "cards-page-organization-booking-details-balance-text" : "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
+    "cards-page-organization-booking-details-balance-text" : "Залишок до транзакції: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Хто зарезервував",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-booking-details-delete": "Видалити резервацію",
     "cards-page-organization-booking-details-empty": "Немає резервацій.",
     "cards-page-organization-booking-details-end-time": "Кінець",
-    "cards-page-organization-booking-details-price" : "Total",
+    "cards-page-organization-booking-details-price" : "Всього",
     "cards-page-organization-booking-details-purpose": "Мета",
     "cards-page-organization-booking-details-share-link-title": "Посилання на резервацію",
     "cards-page-organization-booking-details-start-time": "Початок"
