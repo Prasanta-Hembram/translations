@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-event-details-address": "Место",
-    "cards-page-event-details-attendees": "посетителей", 
+    "cards-page-event-details-attendees": "посетителей",
+    "cards-page-event-details-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-event-details-dynamic-link-title": "Event link",
     "cards-page-event-details-end-date": "Конец",
     "cards-page-event-details-event-title": "Информация о: {eventName}",
     "cards-page-event-details-leave-event": "Покинуть событие",

@@ -2,6 +2,8 @@
   "data": {
     "cards-page-event-details-address":  "주소",
     "cards-page-event-details-attendees": "명이 참가",
+    "cards-page-event-details-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
+    "cards-page-event-details-dynamic-link-title": "Event link",
     "cards-page-event-details-end-date": "마감 시간",
     "cards-page-event-details-event-title": "이벤트명: {eventName}",
     "cards-page-event-details-leave-event": "이 행사 나가기",

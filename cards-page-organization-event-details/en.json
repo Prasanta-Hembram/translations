@@ -2,6 +2,8 @@
   "data": {
     "cards-page-organization-event-details-address": "Address",
     "cards-page-organization-event-details-attendees": "Attendees",
+    "cards-page-organization-event-details-copied-to-clipboard": "Copied to clipboard",
+    "cards-page-organization-event-details-dynamic-link-title": "Event link",
     "cards-page-organization-event-details-end-date": "End time",
     "cards-page-organization-event-details-event-name": "About: {eventName}",
     "cards-page-organization-event-details-leave-event": "Leave event",

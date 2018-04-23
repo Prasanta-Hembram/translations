@@ -2,6 +2,8 @@
   "data": {
     "cards-page-event-details-address": "Місце",
     "cards-page-event-details-attendees": "відвідувачів",
+    "cards-page-event-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
+    "cards-page-event-details-dynamic-link-title": "Event link",
     "cards-page-event-details-end-date": "Кінець",
     "cards-page-event-details-event-title": "Інформація про: {eventName}",
     "cards-page-event-details-leave-event": "Покинути подію",

@@ -2,6 +2,8 @@
   "data": {
     "cards-page-event-details-address": "Lugar de encuentro",
     "cards-page-event-details-attendees": "Invitados",
+    "cards-page-event-details-copied-to-clipboard": "Copiado al portapapeles",
+    "cards-page-event-details-dynamic-link-title": "Event link",
     "cards-page-event-details-end-date": "Final",
     "cards-page-event-details-event-title": "Sobre el: {eventName}",
     "cards-page-event-details-leave-event": "Dejar el evento",
