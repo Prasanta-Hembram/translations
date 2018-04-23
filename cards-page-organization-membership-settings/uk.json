@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-balance-title": "Balance",
-    "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring after 30 days.",
-    "cards-page-organization-membership-settings-billing-day": "Bill day",
-    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day",
+    "cards-page-organization-membership-settings-balance-title": "Баланс",
+    "cards-page-organization-membership-settings-balance-description": "Використовувати тільки в {organizationName}. Термін використання завершується через 30 днів.",
+    "cards-page-organization-membership-settings-billing-day": "День оплати",
+    "cards-page-organization-membership-settings-billing-day-descrtiption": "Кредит буде отримано щомісяця в цей день",
     "cards-page-organization-membership-settings-title": "Налаштування участі",
     "cards-page-organization-membership-settings-leave-failure":"Не вдалося покинути організацію",
     "cards-page-organization-membership-settings-leave-organization": "Покинути організацію",
@@ -15,8 +15,8 @@
     "cards-page-organization-membership-settings-role-info-admin": "Як адміністратор, ви можете налаштовувати та керувати всім у вашій організації.",
     "cards-page-organization-membership-settings-role-info-moderator": "Як модератор, ви можете керувати змістом та гільдіями у вашій організації. Якщо вам необхідно щось налаштувати, зверніться до адміністратора.",
     "cards-page-organization-membership-settings-role-info-member": "Як учасник, ви можете створювати та переглядати релевантний у вашій організації. Якщо вам необхідно щось змінити, зверніться до модератора або адміністратора.",
-    "cards-page-organization-membership-settings-plan" : "Plan", 
-    "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
-    "cards-page-organization-membership-settings-update-user-submit": "Submit"
+    "cards-page-organization-membership-settings-plan" : "План", 
+    "cards-page-organization-membership-settings-plan-detail-info": "Що включає в себе: {points} {emoji} на місяць.",
+    "cards-page-organization-membership-settings-update-user-submit": "Надіслати"
   }
 }
