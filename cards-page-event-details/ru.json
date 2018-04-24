@@ -1,9 +1,11 @@
 {
   "data": {
     "cards-page-event-details-address": "Место",
-    "cards-page-event-details-attendees": "посетителей", 
+    "cards-page-event-details-attendees": "посетителей",
+    "cards-page-event-details-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-event-details-dynamic-link-title": "Ссылка на событие",
     "cards-page-event-details-end-date": "Конец",
-    "cards-page-event-details-event-title": "Информация о: {eventName}",
+    "cards-page-event-details-event-title": "Подробно о {eventName}",
     "cards-page-event-details-leave-event": "Покинуть событие",
     "cards-page-event-details-main-no-event-details": "Не удалось загрузить детали события. Проверьте соединение с интернетом и попробуйте еще раз.",
     "cards-page-event-details-start-date": "Начало",
