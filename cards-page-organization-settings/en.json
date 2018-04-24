@@ -1,6 +1,14 @@
 {
   "data": {
     "cards-page-organization-settings-address": "Address",
+    "cards-page-organization-settings-booking-from": "From",
+    "cards-page-organization-settings-booking-period": "Period",
+    "cards-page-organization-settings-booking-period-one-month": "1 month",
+    "cards-page-organization-settings-booking-period-one-week": "1 week",
+    "cards-page-organization-settings-booking-period-two-weeks": "2 weeks",
+    "cards-page-organization-settings-booking-until": "Until",
+    "cards-page-organization-settings-billing-section-title": "Billing Settings",
+    "cards-page-organization-settings-billing-system": "Enable Billing System",
     "cards-page-organization-settings-cover-photo": "Cover Photo",
     "cards-page-organization-settings-default-design": "Employee Card Design",
     "cards-page-organization-settings-edit-my-cards-design-default": "Default",
@@ -9,6 +17,8 @@
     "cards-page-organization-settings-edit-design-font-name": "Name Font",
     "cards-page-organization-settings-error-no-internet-description": "No internet.",
     "cards-page-organization-settings-name": "Name",
+    "cards-page-organization-settings-point-label": "Enable Credit System",
+    "cards-page-organization-settings-property-section-title": "Booking Settings",
     "cards-page-organization-settings-save": "Save",
     "cards-page-organization-settings-title": "Organization Settings"
   }

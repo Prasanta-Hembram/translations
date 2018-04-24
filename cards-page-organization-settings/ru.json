@@ -1,6 +1,14 @@
 {
   "data": {
     "cards-page-organization-settings-address": "Адрес",
+    "cards-page-organization-settings-booking-from": "Начало",
+    "cards-page-organization-settings-booking-period": "Период доступности",
+    "cards-page-organization-settings-booking-period-one-month": "1 месяц",
+    "cards-page-organization-settings-booking-period-one-week": "1 неделя",
+    "cards-page-organization-settings-booking-period-two-weeks": "2 недели",
+    "cards-page-organization-settings-booking-until": "Конец",
+    "cards-page-organization-settings-billing-section-title": "Рассчеты",
+    "cards-page-organization-settings-billing-system": "Платежная система",
     "cards-page-organization-settings-cover-photo": "Фото обложки",
     "cards-page-organization-settings-default-design": "Дизайн карточки сотрудника",
     "cards-page-organization-settings-edit-my-cards-design-default": "По умолчанию",
@@ -9,6 +17,8 @@
     "cards-page-organization-settings-edit-design-font-name": "Шрифт имени",
     "cards-page-organization-settings-error-no-internet-description": "Проверьте соединение с интернетом.",
     "cards-page-organization-settings-name": "Название",
+    "cards-page-organization-settings-point-label": "Кредитная система для бронирования",
+    "cards-page-organization-settings-property-section-title": "Система бронирования",
     "cards-page-organization-settings-save": "Сохранить",
     "cards-page-organization-settings-title": "Настройки организации"
   }
