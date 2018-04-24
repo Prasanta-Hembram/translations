@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-marketing-keywords": "endcards,제작,키패드,동기화,전자,비즈니스,회의,편집,백업,인사,인쇄,온라인,만들기,업무,간단한,사회,개인,명함,디자인,신분증,이벤트,셀프,이메일,주소록,연락처,휴대폰,백업,코워킹",
-    "cards-marketing-company-description": "주식회사 카드스는 커뮤니티 소프트웨어 andCards 앱의 개발자입니다.",
-    "cards-marketing-cookie-notice-text": "andCards는 당신의 방문 정보를 개인화하기위해 쿠키를 사용합니다. 계속하면 {cookiePolicy}에 동의하게 됩니다.",
-    "cards-marketing-cookie-notice-link-to-policy": "쿠키 정책",
+    "cards-marketing-keywords": "andcards,제작,키패드,동기화,전자,비즈니스,회의,편집,백업,인사,인쇄,온라인,만들기,업무,간단한,사회,개인,명함,디자인,신분증,이벤트,셀프,이메일,주소록,연락처,휴대폰,백업,코워킹",
+    "cards-marketing-company-description": "주식회사 카드스는 커뮤니티 소프트웨어 andCards 앱의 개발회사입니다.",
+    "cards-marketing-cookie-notice-text": "andCards는 당신의 방문 정보를 개인화 하기위해 쿠키를 사용합니다. 계속하시면 {cookiePolicy}에 동의하게 됩니다.",
+    "cards-marketing-cookie-notice-link-to-policy": "쿠키정책",
     "cards-marketing-cookie-notice-i-accept": "동의"
   }
 }

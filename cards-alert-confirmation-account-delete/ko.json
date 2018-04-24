@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-alert-confirmation-account-delete-title": "회원 계정 해지",
-    "cards-alert-confirmation-account-delete-text": "정말 회원 계정 해지하시겠습니까? 앤카즈를 계속해서 사용하실 수 없게 되고, 귀하의 모든 정보는 영구적으로 삭제되며 되돌릴 수 없습니다.",
+    "cards-alert-confirmation-account-delete-title": "회원계정 해지",
+    "cards-alert-confirmation-account-delete-text": "회원계정을 해지하시겠습니까? 앤카즈를 사용할 수 없게되고, 귀하의 모든 정보는 영구적으로 삭제되며 되돌릴 수 없습니다.",
     "cards-alert-confirmation-account-delete-yes": "네, 해지합니다",
     "cards-alert-confirmation-account-delete-no": "취소"
   }
