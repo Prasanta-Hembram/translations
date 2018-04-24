@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
-    "cards-page-organization-booking-create-balance-admin-text": "As {permission} you can book room for free.",
+    "cards-page-organization-booking-create-balance-admin-text": "{permission} can book a room for free.",
     "cards-page-organization-booking-create-card": "Your card",
     "cards-page-organization-booking-create-end-time": "Ending",
     "cards-page-organization-booking-create-notice": "Your card will be attached to this booking. Make sure your information is up-to-date.",
