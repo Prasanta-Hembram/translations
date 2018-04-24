@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-organization-membership-settings-balance-title": "Balance",
-    "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring after 30 days.",
+    "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring every month.",
     "cards-page-organization-membership-settings-billing-day": "Bill day",
-    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day",
-    "cards-page-organization-membership-settings-title": "Membership Settings",
+    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day.",
+    "cards-page-organization-membership-settings-title": "Membership settings",
     "cards-page-organization-membership-settings-leave-failure":"Failed to leave the organization",
     "cards-page-organization-membership-settings-leave-organization": "Leave organization",
     "cards-page-organization-membership-settings-leave-repeat": "Try again",
