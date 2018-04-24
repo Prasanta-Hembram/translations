@@ -7,8 +7,8 @@
     "cards-page-organization-settings-booking-period-one-week": "1 тиждень",
     "cards-page-organization-settings-booking-period-two-weeks": "2 тиждень",
     "cards-page-organization-settings-booking-until": "До",
-    "cards-page-organization-settings-billing-section-title": "Billing Settings",
-    "cards-page-organization-settings-billing-system": "Enable Billing System",
+    "cards-page-organization-settings-billing-section-title": "Розрахунки",
+    "cards-page-organization-settings-billing-system": "Платіжна система",
     "cards-page-organization-settings-cover-photo": "Фото обгортки",
     "cards-page-organization-settings-default-design": "Дизайн картки співробітника",
     "cards-page-organization-settings-edit-my-cards-design-default": "За замовчанням",
@@ -17,8 +17,8 @@
     "cards-page-organization-settings-edit-design-font-name": "Шрифт імені",
     "cards-page-organization-settings-error-no-internet-description": "Перевірте з'єднання з інтернетом.",
     "cards-page-organization-settings-name": "Назва",
-    "cards-page-organization-settings-point-label": "Enable Credit System",
-    "cards-page-organization-settings-property-section-title": "Booking Settings",
+    "cards-page-organization-settings-point-label": "Кредитна система для резервацій",
+    "cards-page-organization-settings-property-section-title": "Система резервації",
     "cards-page-organization-settings-save": "Зберегти",
     "cards-page-organization-settings-title": "Налаштування організації"
   }
