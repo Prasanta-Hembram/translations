@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-booking-create-balance-text": "Остаток баланса до транзакции: {numberOfPoints} {pointsEmoji}",
-    "cards-page-organization-booking-create-balance-admin-text": "Как {permission} вы можете бронировать комнату бесплатно.",
+    "cards-page-organization-booking-create-balance-admin-text": "{permission} может бронировать комнату бесплатно.",
     "cards-page-organization-booking-create-card": "Ваша карточка",
     "cards-page-organization-booking-create-end-time": "Конец",
     "cards-page-organization-booking-create-notice": "Ваша карточка будет прикреплена к бронированию. Убедитесь, что информация актуальна.",
