@@ -1,18 +1,18 @@
 {
    "data": {
-     "cards-page-event-create-address": "주소",
+     "cards-page-event-create-address": "위 치",
      "cards-page-event-create-address-placeholder": "행사 주소 입력",
-     "cards-page-event-create-cover-image": "입력 이미지",
-     "cards-page-event-create-end": "종료 시간",
+     "cards-page-event-create-cover-image": "이미지 추가",
+     "cards-page-event-create-end": "종 료",
      "cards-page-event-create-date-placeholder": "날짜 및 시간 입력",
-     "cards-page-event-create-description": "설명",
-     "cards-page-event-create-event-details": "행사 설명 입력",
-     "cards-page-event-create-event-name": "행사 이름",
-     "cards-page-event-create-event-name-placeholder": "행사 이름 입력",
-     "cards-page-event-create-instructions": "행사 주최자 인 경우 : 요청 양식을 작성하여 행사를 추가하십시오. 귀하의 연락처 정보가이 요청에 첨부됩니다.",
-     "cards-page-event-create-start": "시작 시간",
+     "cards-page-event-create-description": "내 용",
+     "cards-page-event-create-event-details": "행사내용 입력",
+     "cards-page-event-create-event-name": "행사명",
+     "cards-page-event-create-event-name-placeholder": "행사명 입력",
+     "cards-page-event-create-instructions": "행사 주최자 인 경우 : 요청양식을 작성하여 행사를 추가하십시오. 귀하의 연락처 정보가 이 요청에 첨부됩니다.",
+     "cards-page-event-create-start": "시 작",
      "cards-page-event-create": "행사 만들기",
-     "cards-page-event-create-submit": "행사 요청",
+     "cards-page-event-create-submit": "행사생성 요청",
      "cards-page-event-create-title": "행사 및 네트워킹"
    }
 }
