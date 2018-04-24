@@ -7,8 +7,8 @@
     "cards-page-organization-settings-booking-period-one-week": "1주",
     "cards-page-organization-settings-booking-period-two-weeks": "2주",
     "cards-page-organization-settings-booking-until": "종료시간",
-    "cards-page-organization-settings-billing-section-title": "Billing Settings",
-    "cards-page-organization-settings-billing-system": "Enable Billing System",
+    "cards-page-organization-settings-billing-section-title": "결제 시스템",
+    "cards-page-organization-settings-billing-system": "결제 기능",
     "cards-page-organization-settings-cover-photo": "커버 사진",
     "cards-page-organization-settings-default-design": "직원 카드",
     "cards-page-organization-settings-edit-my-cards-design-default": "기본",
@@ -17,8 +17,8 @@
     "cards-page-organization-settings-edit-design-font-name": "이름 폰트",
     "cards-page-organization-settings-error-no-internet-description": "인터넷이 없습니다.",
     "cards-page-organization-settings-name": "이름",
-    "cards-page-organization-settings-point-label": "Enable Credit System",
-    "cards-page-organization-settings-property-section-title": "Booking Settings",
+    "cards-page-organization-settings-point-label": "크레딧 예약체계",
+    "cards-page-organization-settings-property-section-title": "예약 시스템",
     "cards-page-organization-settings-save": "저장",
     "cards-page-organization-settings-title": "조직 설정"
   }
