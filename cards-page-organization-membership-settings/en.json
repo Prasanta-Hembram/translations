@@ -5,7 +5,7 @@
     "cards-page-organization-membership-settings-balance-title": "Balance",
     "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring every month.",
     "cards-page-organization-membership-settings-billing-day": "Bill day",
-    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day.",
+    "cards-page-organization-membership-settings-billing-day-description": "Credits will be received monthly on this day.",
     "cards-page-organization-membership-settings-title": "Membership settings",
     "cards-page-organization-membership-settings-leave-failure":"Failed to leave the organization",
     "cards-page-organization-membership-settings-leave-organization": "Leave organization",
@@ -19,6 +19,7 @@
     "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and guilds in an organization.",
     "cards-page-organization-membership-settings-plan" : "Plan", 
     "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
+    "cards-page-organization-membership-settings-update-failure": "Failed to update",
     "cards-page-organization-membership-settings-update-user-submit": "Submit"
   }
 }

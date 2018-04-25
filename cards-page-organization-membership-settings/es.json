@@ -5,7 +5,7 @@
     "cards-page-organization-membership-settings-balance-title": "Equilibrar",
     "cards-page-organization-membership-settings-balance-description": "Úselo en {organizationName} solamente. Venciendo después de 30 días.",
     "cards-page-organization-membership-settings-billing-day": "Día de factura",
-    "cards-page-organization-membership-settings-billing-day-descrtiption": "Los créditos se recibirán mensualmente en este día",
+    "cards-page-organization-membership-settings-billing-day-description": "Los créditos se recibirán mensualmente en este día",
     "cards-page-organization-membership-settings-title": "Ajustes de Membresía",
     "cards-page-organization-membership-settings-leave-failure":"No pudo salir de la organización",
     "cards-page-organization-membership-settings-leave-organization": "Dejar la organización",
@@ -19,6 +19,7 @@
     "cards-page-organization-membership-settings-role-info-member": "Como miembro, puede crear y ver contenido en su organización. Si necesita gestionar algo, hable con el moderador o administrador.",
     "cards-page-organization-membership-settings-plan" : "Plan", 
     "cards-page-organization-membership-settings-plan-detail-info": "Qué incluye: {points} {emoji} por mes.",
+    "cards-page-organization-membership-settings-update-failure": "Failed to update",
     "cards-page-organization-membership-settings-update-user-submit": "Enviar"
   }
 }

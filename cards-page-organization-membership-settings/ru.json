@@ -5,7 +5,7 @@
     "cards-page-organization-membership-settings-balance-title": "Баланс",
     "cards-page-organization-membership-settings-balance-description": "Доступно только в {organizationName}. Срок годности: 1 месяц.",
     "cards-page-organization-membership-settings-billing-day": "День оплаты",
-    "cards-page-organization-membership-settings-billing-day-descrtiption": "Каждый месяц в этот день вы будете получать кредиты",
+    "cards-page-organization-membership-settings-billing-day-description": "Каждый месяц в этот день вы будете получать кредиты",
     "cards-page-organization-membership-settings-title": "Настройки участия",
     "cards-page-organization-membership-settings-leave-failure":"Не удалось покинуть организацию",
     "cards-page-organization-membership-settings-leave-organization": "Покинуть организацию",
@@ -19,6 +19,7 @@
     "cards-page-organization-membership-settings-role-info-member": "Участник может просматривать релевантное содержание в организации. Чтобы что-то изменить, обратитесь к модератору или администратору.",
     "cards-page-organization-membership-settings-plan" : "План", 
     "cards-page-organization-membership-settings-plan-detail-info": "Преимущества: {points} {emoji} в месяц.",
+    "cards-page-organization-membership-settings-update-failure": "Failed to update",
     "cards-page-organization-membership-settings-update-user-submit": "Отправить"
   }
 }

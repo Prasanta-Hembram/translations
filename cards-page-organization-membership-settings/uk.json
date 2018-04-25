@@ -5,7 +5,7 @@
     "cards-page-organization-membership-settings-balance-title": "Баланс",
     "cards-page-organization-membership-settings-balance-description": "Доступно лише в {organizationName}. Термін придатності: 30 днів.",
     "cards-page-organization-membership-settings-billing-day": "День оплати",
-    "cards-page-organization-membership-settings-billing-day-descrtiption": "Кредити нараховуються щомісячно в цей день",
+    "cards-page-organization-membership-settings-billing-day-description": "Кредити нараховуються щомісячно в цей день",
     "cards-page-organization-membership-settings-title": "Налаштування участі",
     "cards-page-organization-membership-settings-leave-failure":"Не вдалося покинути організацію",
     "cards-page-organization-membership-settings-leave-organization": "Покинути організацію",
@@ -19,6 +19,7 @@
     "cards-page-organization-membership-settings-role-info-member": "Учасник може переглядати релевантний зміст в організації. Щоб щось змінити, зверніться до модератора або адміністратора.",
     "cards-page-organization-membership-settings-plan" : "План", 
     "cards-page-organization-membership-settings-plan-detail-info": "Переваги: {points} {emoji} на місяць.",
+    "cards-page-organization-membership-settings-update-failure": "Failed to update",
     "cards-page-organization-membership-settings-update-user-submit": "Надіслати"
   }
 }
