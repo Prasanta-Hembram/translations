@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-membership-settings-button-give-title": "Give",
+    "cards-page-organization-membership-settings-button-charge-title": "Charge",
     "cards-page-organization-membership-settings-title": "Налаштування участі",
     "cards-page-organization-membership-settings-leave-failure":"Не вдалося покинути організацію",
     "cards-page-organization-membership-settings-leave-organization": "Покинути організацію",

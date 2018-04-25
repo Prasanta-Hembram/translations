@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-membership-settings-button-give-title": "Give",
+    "cards-page-organization-membership-settings-button-charge-title": "Charge",
     "cards-page-organization-membership-settings-title": "Ajustes de Membresía",
     "cards-page-organization-membership-settings-leave-failure":"No pudo salir de la organización",
     "cards-page-organization-membership-settings-leave-organization": "Dejar la organización",
