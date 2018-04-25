@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-locale-english": "Inglés",
-    "cards-locale-spanish": "Español",
-    "cards-locale-russian": "Ruso",
-    "cards-locale-ukrainian": "Ucranio",
-    "cards-locale-korean": "Coreano"
+    "cards-locale-en": "Inglés",
+    "cards-locale-es": "Español",
+    "cards-locale-ru": "Ruso",
+    "cards-locale-uk": "Ucranio",
+    "cards-locale-ko": "Coreano"
   }
 }
