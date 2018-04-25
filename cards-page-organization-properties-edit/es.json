@@ -2,8 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-cancel": "Cancelar",
     "cards-page-organization-property-edit-description": "Descripción",
-    "cards-page-organization-property-edit-description-placeholder":
-      "Descripción del tipo de su propiedad (opcional)",
+    "cards-page-organization-property-edit-description-placeholder": "Descripción del tipo de su propiedad (opcional)",
     "cards-page-organization-property-edit-min-time": "Tiempo mínimo",
     "cards-page-organization-property-edit-min-time-15-min": "15 minutos",
     "cards-page-organization-property-edit-min-time-30-min": "30 minutos",
@@ -12,6 +11,7 @@
     "cards-page-organization-property-edit-min-time-4-hour": "4 horas",
     "cards-page-organization-property-edit-name": "Designación",
     "cards-page-organization-property-edit-number-of-seats": "Numero de asientos",
+    "cards-page-organization-property-edit-price-points": "Points per hour",
     "cards-page-organization-property-edit-save": "Salvar",
     "cards-page-organization-property-edit-title": "Editar propiedad"
   }
