@@ -2,17 +2,23 @@
   "data": {
     "cards-page-organization-membership-settings-button-give-title": "Give",
     "cards-page-organization-membership-settings-button-charge-title": "Charge",
+    "cards-page-organization-membership-settings-balance-title": "잔액",
+    "cards-page-organization-membership-settings-balance-description": "{organizationName}에서만 사용가능하며, 유효기간은 한 달 입니다.",
+    "cards-page-organization-membership-settings-billing-day": "결제일",
+    "cards-page-organization-membership-settings-billing-day-descrtiption": "매 달 결제일부터 혜택이 이용가능합니다.",
     "cards-page-organization-membership-settings-title": "회원설정",
     "cards-page-organization-membership-settings-leave-failure":"조직을 떠나지 못했습니다.",
     "cards-page-organization-membership-settings-leave-organization": "이 조직 나가기",
     "cards-page-organization-membership-settings-leave-repeat": "다시시도",
-    "cards-page-organization-membership-settings-not-found-error" : "인터넷 없음",
     "cards-page-organization-membership-settings-role": "회원등급",
     "cards-page-organization-membership-settings-role-admin": "관리자(Admin)",
     "cards-page-organization-membership-settings-role-moderator": "중간관리자(Moderator)",
     "cards-page-organization-membership-settings-role-member": "회원(Member)",
     "cards-page-organization-membership-settings-role-info-admin": "관리자는 조직의 모든 것을 설정하고 관리 할 수 있습니다.",
     "cards-page-organization-membership-settings-role-info-moderator": "중간관리자는 조직의 컨텐츠와 길드를 관리 할 수 있습니다. 설정을 변경해야하는 경우 관리자에게 문의하십시오.",
-    "cards-page-organization-membership-settings-role-info-member": "회원은 조직의 컨텐츠를 만들고 볼 수 있습니다. 기타 관리 관해서는 관리자 또는 중간관리자에게 문의하십시오."
+    "cards-page-organization-membership-settings-role-info-member": "회원은 조직의 컨텐츠를 만들고 볼 수 있습니다. 기타 관리 관해서는 관리자 또는 중간관리자에게 문의하십시오.",
+    "cards-page-organization-membership-settings-plan" : "맴버십",
+    "cards-page-organization-membership-settings-plan-detail-info": "혜택 : {points} {emoji}",
+    "cards-page-organization-membership-settings-update-user-submit": "저장"
   }
 }

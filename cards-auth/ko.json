@@ -1,16 +1,16 @@
 {
   "data": {
     "cards-auth-welcome-header": "환영합니다",
-    "cards-auth-change-number": "휴대폰 번호 변경",
+    "cards-auth-change-number": "휴대폰번호 변경",
     "cards-auth-code": "인증번호",
     "cards-auth-country": "국가",
-    "cards-auth-agree-to-policies": "본인은 만 14세 이상이며, 카드스 {termsOfUse}, {cookiePolicy}, {privacyPolicy} 수집, 이용, 및 제공 내용을 확인 하였으며, 동의합니다.",
-    "cards-auth-link-terms-of-use": "이용 약관",
+    "cards-auth-agree-to-policies": "본인은 만 14세 이상이며, 앤카즈 {termsOfUse}, {cookiePolicy} 그리고 {privacyPolicy}의 수집, 이용 및 제공에 대한 내용을 확인하였으며, 동의합니다.",
+    "cards-auth-link-terms-of-use": "이용약관",
     "cards-auth-link-privacy-policy": "개인정보",
-    "cards-auth-link-cookies-policy": "쿠키 정책",
+    "cards-auth-link-cookies-policy": "쿠키정책",
     "cards-auth-next-step": "동의하고 계속하기",
     "cards-auth-number": "전화번호",
-    "cards-auth-type-phone-number-here": "휴대폰 번호입력",
+    "cards-auth-type-phone-number-here": "예)1012345678",
     "cards-auth-type-sms-code-here": "인증번호 입력"
   }
 }

@@ -2,17 +2,23 @@
   "data": {
     "cards-page-organization-membership-settings-button-give-title": "Give",
     "cards-page-organization-membership-settings-button-charge-title": "Charge",
-    "cards-page-organization-membership-settings-title": "Membership Settings",
-    "cards-page-organization-membership-settings-leave-failure": "Failed to leave the organization",
+    "cards-page-organization-membership-settings-balance-title": "Balance",
+    "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring every month.",
+    "cards-page-organization-membership-settings-billing-day": "Bill day",
+    "cards-page-organization-membership-settings-billing-day-descrtiption": "Credits will be received monthly on this day.",
+    "cards-page-organization-membership-settings-title": "Membership settings",
+    "cards-page-organization-membership-settings-leave-failure":"Failed to leave the organization",
     "cards-page-organization-membership-settings-leave-organization": "Leave organization",
     "cards-page-organization-membership-settings-leave-repeat": "Try again",
-    "cards-page-organization-membership-settings-not-found-error": "No internet",
     "cards-page-organization-membership-settings-role": "Role",
     "cards-page-organization-membership-settings-role-admin": "Administrator",
     "cards-page-organization-membership-settings-role-moderator": "Moderator",
     "cards-page-organization-membership-settings-role-member": "Member",
-    "cards-page-organization-membership-settings-role-info-admin": "As an administrator, you can set up and manage everything in your organization.",
-    "cards-page-organization-membership-settings-role-info-moderator": "As a moderator, you can manage content and guilds in your organization. If you need to change settings, ask administrator.",
-    "cards-page-organization-membership-settings-role-info-member": "As a member, you can create and view relevant content in your organization. If you need to manage something, ask moderator or administrator."
+    "cards-page-organization-membership-settings-role-info-admin": "Administrator can manage all content and change settings of an organization.",
+    "cards-page-organization-membership-settings-role-info-moderator": "Moderator can manage content and guilds in an organization.",
+    "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and guilds in an organization.",
+    "cards-page-organization-membership-settings-plan" : "Plan", 
+    "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
+    "cards-page-organization-membership-settings-update-user-submit": "Submit"
   }
 }
