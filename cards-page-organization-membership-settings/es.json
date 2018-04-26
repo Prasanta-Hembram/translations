@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-button-give-title": "Give",
-    "cards-page-organization-membership-settings-button-charge-title": "Charge",
+    "cards-page-organization-membership-settings-button-give-title": "Dar",
+    "cards-page-organization-membership-settings-button-charge-title": "Cobrar",
     "cards-page-organization-membership-settings-balance-title": "Equilibrar",
     "cards-page-organization-membership-settings-balance-description": "Úselo en {organizationName} solamente. Venciendo después de 30 días.",
     "cards-page-organization-membership-settings-billing-day": "Día de factura",
