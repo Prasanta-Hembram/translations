@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-button-give-title": "Give",
-    "cards-page-organization-membership-settings-button-charge-title": "Charge",
+    "cards-page-organization-membership-settings-button-give-title": "Начислить",
+    "cards-page-organization-membership-settings-button-charge-title": "Списать",
     "cards-page-organization-membership-settings-balance-title": "Баланс",
     "cards-page-organization-membership-settings-balance-description": "Доступно только в {organizationName}. Срок годности: 1 месяц.",
     "cards-page-organization-membership-settings-billing-day": "День оплаты",
@@ -19,7 +19,7 @@
     "cards-page-organization-membership-settings-role-info-member": "Участник может просматривать релевантное содержание в организации. Чтобы что-то изменить, обратитесь к модератору или администратору.",
     "cards-page-organization-membership-settings-plan" : "План", 
     "cards-page-organization-membership-settings-plan-detail-info": "Преимущества: {points} {emoji} в месяц.",
-    "cards-page-organization-membership-settings-update-failure": "Failed to update",
+    "cards-page-organization-membership-settings-update-failure": "Невозможно обновить",
     "cards-page-organization-membership-settings-update-user-submit": "Отправить"
   }
 }
