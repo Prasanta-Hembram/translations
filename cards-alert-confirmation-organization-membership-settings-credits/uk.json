@@ -1,0 +1,12 @@
+{
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "Скасувати",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "Списати",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-default-value": "5",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "Уведіть кількість кредитів для списання з рахунку клієнта.",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "Списати кредити",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-no": "Скасувати",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "Нарахувати",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-default-value": "5",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-message": "Уведіть кількість кредитів для нарахування на рахунок клієнта.",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-title": "Нарахувати кредити"
+}

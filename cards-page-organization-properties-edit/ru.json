@@ -2,8 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-cancel": "Отменить",
     "cards-page-organization-property-edit-description": "Описание",
-    "cards-page-organization-property-edit-description-placeholder":
-      "Введите описание ресурса (не обязательно)",
+    "cards-page-organization-property-edit-description-placeholder": "Введите описание ресурса (не обязательно)",
     "cards-page-organization-property-edit-min-time": "Мин. время",
     "cards-page-organization-property-edit-min-time-15-min": "15 минут",
     "cards-page-organization-property-edit-min-time-30-min": "30 минут",
@@ -12,6 +11,7 @@
     "cards-page-organization-property-edit-min-time-4-hour": "4 часа",
     "cards-page-organization-property-edit-name": "Название",
     "cards-page-organization-property-edit-number-of-seats": "Количество мест",
+    "cards-page-organization-property-edit-price-points": "Цена (кредиты)",
     "cards-page-organization-property-edit-save": "Сохранить",
     "cards-page-organization-property-edit-title": "Редактирование ресурса"
   }
