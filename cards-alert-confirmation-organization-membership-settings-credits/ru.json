@@ -1,12 +1,12 @@
 {
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "Cancel",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "Charge",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "Отменить",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "Списать",
   "cards-alert-confirmation-organization-membership-settings-credits-charge-default-value": "5",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "Enter amount of credit coins to charge from the person.",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "Enter amount of credit coins.",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-no": "Cancel",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "Give",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "Введите количество кредитов для списания с клиентского счета.",
+  "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "Списать кредиты",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-no": "Отменить",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "Начислить",
   "cards-alert-confirmation-organization-membership-settings-credits-give-default-value": "5",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-message": "Enter amount of credit coins to give to the person.",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-title": "Enter amount of credit coins"
+  "cards-alert-confirmation-organization-membership-settings-credits-give-message": "Введите количество кредитов для начисления на клиентский счет.",
+  "cards-alert-confirmation-organization-membership-settings-credits-give-title": "Начислить кредиты"
 }
