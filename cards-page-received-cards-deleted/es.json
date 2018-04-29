@@ -1,5 +1,6 @@
 {
-  "data": {  
+  "data": {
+    "cards-page-received-cards-deleted-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-received-cards-deleted-notice": "Las tarjetas eliminadas permanecen aquí durante 30 días. Después de ese tiempo, se eliminan de forma permanente.",
     "cards-page-received-cards-deleted-no-cards": "No hay tarjeas eliminadas",
     "cards-page-received-cards-deleted-restore": "Restablecer",

@@ -1,6 +1,7 @@
 {
-  "data": {    
+  "data": {
     "cards-page-organization-event-main-card-more": "More options",
+    "cards-page-organization-event-main-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-event-main-event-registration-not-started": "The event has not started yet.",
     "cards-page-organization-event-main-event-registration-ended": "Event registration period is over.",
     "cards-page-organization-event-main-exchange-successful": "Card exchange successful.",

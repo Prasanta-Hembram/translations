@@ -1,5 +1,6 @@
 {
-  "data": {    
+  "data": {
+    "cards-page-received-cards-deleted-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-received-cards-deleted-notice": "삭제된 카드는 30일 동안 보관되고, 그 후에는 영구적으로 삭제됩니다.",
     "cards-page-received-cards-deleted-no-cards": "비어있습니다.",
     "cards-page-received-cards-deleted-restore": "복원",

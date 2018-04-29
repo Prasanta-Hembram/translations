@@ -1,7 +1,8 @@
 {
-  "data": {    
+  "data": {
     "cards-page-event-main-card-more": "Другие функции",
     "cards-page-event-main-card-share-action-sheet": "Добавить в контакты",
+    "cards-page-event-main-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-event-main-event-registration-not-started": "Регистрация на событие еще не началась",
     "cards-page-event-main-event-registration-ended": "Регистрация на событие уже закончилось",
     "cards-page-event-main-exchange-successful": "Обмен карточками успешно состоялся.",
