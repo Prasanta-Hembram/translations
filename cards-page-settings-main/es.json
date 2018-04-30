@@ -2,8 +2,8 @@
   "data": {
     "cards-page-settings-main-account": "Cuenta",
     "cards-page-settings-main-cookies-policy-title": "Política de Cookies",
-    "cards-page-settings-main-help-title": "Help",
-    "cards-page-settings-main-interface": "Interface",
+    "cards-page-settings-main-help-title": "Ayuda",
+    "cards-page-settings-main-interface": "Interfaz",
     "cards-page-settings-main-licenses-title": "Licencias",
     "cards-page-settings-main-phone-numbers-title": "Número telefónico",
     "cards-page-settings-main-privacy-policy-title": "Políticas de Privacidad",
@@ -13,6 +13,6 @@
     "cards-page-settings-main-support": "Soporte",
     "cards-page-settings-main-terms-title": "Normas y Términos de Uso",
     "cards-page-settings-main-title": "Ajustes",
-    "cards-page-settings-main-version": "Version"
+    "cards-page-settings-main-version": "Versión"
   }
 }
