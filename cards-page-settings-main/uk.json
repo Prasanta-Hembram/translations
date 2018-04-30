@@ -1,15 +1,18 @@
 {
   "data": {
-    "cards-page-settings-main-title": "Налаштування",
-    "cards-page-settings-main-display": "Вигляд",
-    "cards-page-settings-main-sorting": "Порядок",
-    "cards-page-settings-main-locale": "Мова",
-    "cards-page-settings-main-support": "Підтримка",
-    "cards-page-settings-main-general": "Загальні",
-    "cards-page-settings-main-sign-out": "Вийти з системи",
     "cards-page-settings-main-account": "Обліковий запис",
-    "cards-page-settings-main-sorting-first-last": "Ім'я, прізвище",
-    "cards-page-settings-main-sorting-last-first": "Прізвище, ім'я",
+    "cards-page-settings-main-cookies-policy-title": "Політика кукі-файлів",
+    "cards-page-settings-main-help-title": "Допомога",
+    "cards-page-settings-main-interface": "Інтерфейс",
+    "cards-page-settings-main-licenses-title": "Ліцензії",
+    "cards-page-settings-main-phone-numbers-title": "Телефон",
+    "cards-page-settings-main-privacy-policy-title": "Приватність",
+    "cards-page-settings-main-report-problem-title": "Повідомити про проблему",
+    "cards-page-settings-main-sessions-title": "Активні сеанси",
+    "cards-page-settings-main-sign-out": "Вийти з системи",
+    "cards-page-settings-main-support": "Підтримка",
+    "cards-page-settings-main-terms-title": "Умови надання послуг",
+    "cards-page-settings-main-title": "Налаштування",
     "cards-page-settings-main-version": "Версія"
   }
 }

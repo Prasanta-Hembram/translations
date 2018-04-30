@@ -1,15 +1,18 @@
 {
   "data": {
-    "cards-page-settings-main-title": "Настройки",
-    "cards-page-settings-main-display": "Вид",
-    "cards-page-settings-main-sorting": "Порядок",
-    "cards-page-settings-main-locale": "Язык",
-    "cards-page-settings-main-support": "Поддержка",
-    "cards-page-settings-main-general": "Общие",
-    "cards-page-settings-main-sign-out": "Выйти из системы",
     "cards-page-settings-main-account": "Учетная запись",
-    "cards-page-settings-main-sorting-first-last": "Имя, фамилия",
-    "cards-page-settings-main-sorting-last-first": "Фамилия, имя",
+    "cards-page-settings-main-cookies-policy-title": "Политика куки-файлов",
+    "cards-page-settings-main-help-title": "Помощь",
+    "cards-page-settings-main-interface": "Интерфейс",
+    "cards-page-settings-main-licenses-title": "Лицензии",
+    "cards-page-settings-main-phone-numbers-title": "Телефон",
+    "cards-page-settings-main-privacy-policy-title": "Конфиденциальность",
+    "cards-page-settings-main-report-problem-title": "Сообщить о проблеме",
+    "cards-page-settings-main-sessions-title": "Активные сеансы",
+    "cards-page-settings-main-sign-out": "Выйти из системы",
+    "cards-page-settings-main-support": "Поддержка",
+    "cards-page-settings-main-terms-title": "Условия использования",
+    "cards-page-settings-main-title": "Настройки",
     "cards-page-settings-main-version": "Версия"
   }
 }
