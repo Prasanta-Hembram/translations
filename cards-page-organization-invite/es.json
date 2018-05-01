@@ -9,7 +9,6 @@
     "cards-page-organization-invite-employees-title": "Invita empleados",
     "cards-page-organization-invite-employees-via-sms-description": "Los invitados recibirán un mensaje de texto con el link para registrarse. Los empleados obtendrán una nueva tarjeta con el diseño predeterminado de su organización.",
     "cards-page-organization-invite-members-via-link-description": "Comparta un enlace público a la organización, para que cualquiera pueda solicitar membresía.",
-    "cards-page-organization-invite-members-via-sms-description": "Alternativamente, envíe un SMS con el enlace de registro. Los miembros regulares pueden unirse con cualquiera de sus tarjetas existentes.",
     "cards-page-organization-invite-members-title": "Invitar a los miembros",
     "cards-page-organization-invite-title": "Invitar a {organizationTitle}"
   }
