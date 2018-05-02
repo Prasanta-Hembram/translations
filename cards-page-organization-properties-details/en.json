@@ -13,3 +13,7 @@
     "cards-page-organization-property-details-edit-title": "Edit facility"
   }
 }
+  "id": "cards-page-organization-property-details-schedule",
+  "defaultMessage": "Schedule"
+  "id": "cards-page-organization-property-details-my",
+  "defaultMessage": "My"
