@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-property-main-book-button": "예약",
+    "cards-page-organization-property-main-booking-not-allowed": "이 날짜에 예약 할 수 없습니다",
+    "cards-page-organization-property-main-date": "날짜",
+    "cards-page-organization-property-main-delete-button": "시설삭제",
+    "cards-page-organization-property-main-delete-failure": "삭제불가",
+    "cards-page-organization-property-main-delete-repeat": "다시시도",
+    "cards-page-organization-property-main-error-not-found": "인터넷이 없습니다.",
+    "cards-page-organization-property-main-hour" : "시간",
+    "cards-page-organization-property-main-my": "My",
+    "cards-page-organization-property-main-no-property": "시설이 없습니다.",
+    "cards-page-organization-property-main-seats": "좌석",
+    "cards-page-organization-property-main-edit-title": "내용편집"
+  }
+}

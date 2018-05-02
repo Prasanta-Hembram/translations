@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-property-main-book-button": "Book",
+    "cards-page-organization-property-main-booking-not-allowed": "You cannot book on this date",
+    "cards-page-organization-property-main-date": "Date",
+    "cards-page-organization-property-main-delete-button": "Delete facility",
+    "cards-page-organization-property-main-delete-failure": "Failed to delete facility",
+    "cards-page-organization-property-main-delete-repeat": "Retry deleting",
+    "cards-page-organization-property-main-error-not-found": "No internet",
+    "cards-page-organization-property-main-hour" : "hr",
+    "cards-page-organization-property-main-my": "My",
+    "cards-page-organization-property-main-no-property": "No available facilities.",
+    "cards-page-organization-property-main-seats": "seats",
+    "cards-page-organization-property-main-edit-title": "Edit facility"
+  }
+}
