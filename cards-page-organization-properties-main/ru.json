@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-property-main-book-button": "Бронировать",
+    "cards-page-organization-property-main-booking-not-allowed": "Выбранная дата недоступна для бронирования",
+    "cards-page-organization-property-main-date": "Дата",
+    "cards-page-organization-property-main-delete-button": "Удалить ресурс",
+    "cards-page-organization-property-main-delete-failure": "Не удалось удалить ресурс",
+    "cards-page-organization-property-main-delete-repeat": "Попробовать снова",
+    "cards-page-organization-property-main-error-not-found": "Проверьте соединение с интернетом.",
+    "cards-page-organization-property-main-hour" : "ч.",
+    "cards-page-organization-property-main-my": "My",
+    "cards-page-organization-property-main-no-property": "Нет доступных ресурсов.",
+    "cards-page-organization-property-main-seats": "мест",
+    "cards-page-organization-property-main-edit-title": "Настроить ресурс"
+  }
+}
