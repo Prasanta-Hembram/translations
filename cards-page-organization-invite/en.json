@@ -10,6 +10,7 @@
     "cards-page-organization-invite-employees-via-sms-description": "Send an SMS with individual registration link. Employees will get a new card with your organization branding.",
     "cards-page-organization-invite-members-via-link-description": "Share a public link to organization, so that anyone can request membership.",
     "cards-page-organization-invite-members-title": "Invite members",
+    "cards-page-organization-invite-placeholder": "e.g. {countryCode}",
     "cards-page-organization-invite-title": "Invite to {organizationTitle}"
   }
 }
