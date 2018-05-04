@@ -1,7 +1,8 @@
 {
-  "data": {    
+  "data": {
     "cards-page-event-main-card-more": "Другие функции",
     "cards-page-event-main-card-share-action-sheet": "Добавить в контакты",
+    "cards-page-event-main-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-event-main-event-registration-not-started": "Регистрация на событие еще не началась",
     "cards-page-event-main-event-registration-ended": "Регистрация на событие уже закончилось",
     "cards-page-event-main-exchange-successful": "Обмен карточками успешно состоялся.",
@@ -9,7 +10,6 @@
     "cards-page-event-main-join-event-description": "Вы еще не присоединились к этому событию. Поехали!",
     "cards-page-event-main-no-event-details": "Не удалось загрузить детали события. Проверьте соединение с интернетом и попробуйте еще раз.",
     "cards-page-event-main-search": "Поиск по {numberOfPeople} участникам",
-    "cards-page-event-main-share-action-sheet":"Добавить в контакты",
-    "cards-page-event-main-title": "События и нетворкинг"
+    "cards-page-event-main-share-action-sheet":"Добавить в контакты"
   }
 }

@@ -6,10 +6,10 @@
     "cards-page-organization-main-approve-requests": "Approve requests",
     "cards-page-organization-main-card-share-action-sheet": "Add to contacts",
     "cards-page-organization-main-cards-nothing-found": "Nothing found",
+    "cards-page-organization-main-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-main-create-guild": "Create guild",
     "cards-page-organization-main-delete-user-action-sheet": "Remove member",
     "cards-page-organization-main-error-not-found": "No internet",
-    "cards-page-organization-main-event-missing": "There is no such event",
     "cards-page-organization-main-events": "Events",
     "cards-page-organization-main-events-all": "All events",
     "cards-page-organization-main-event-create": "Create event",
@@ -25,6 +25,6 @@
     "cards-page-organization-main-properties-button-title": "All facilities",
     "cards-page-organization-main-properties-title": "Booking",
     "cards-page-organization-main-stack-search": "Search {numberOfPeople} members",
-    "cards-page-organization-main-settings": "Change settings"
+    "cards-page-organization-main-settings": "Open organization details"
   }
 }

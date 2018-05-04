@@ -5,7 +5,7 @@
     "cards-page-event-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-event-details-dynamic-link-title": "Посилання на подію",
     "cards-page-event-details-end-date": "Кінець",
-    "cards-page-event-details-event-title": "Більше про {eventName}",
+    "cards-page-event-details-event-title": "Більше про: {eventName}",
     "cards-page-event-details-leave-event": "Покинути подію",
     "cards-page-event-details-main-no-event-details": "Не вдалося завантажити деталі події. Перевірте з'єднання з інтернетом та спробуйте ще раз.",
     "cards-page-event-details-start-date": "Початок",

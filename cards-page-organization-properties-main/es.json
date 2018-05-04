@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-property-main-book-button": "Reservar",
+    "cards-page-organization-property-main-booking-not-allowed": "No puedes reservar para este día",
+    "cards-page-organization-property-main-date": "Fecha",
+    "cards-page-organization-property-main-delete-button": "Eliminar recurso",
+    "cards-page-organization-property-main-delete-failure": "Error al eliminar el recurso",
+    "cards-page-organization-property-main-delete-repeat": "Reintentar eliminar",
+    "cards-page-organization-property-main-error-not-found": "No hay internet.",
+    "cards-page-organization-property-main-hour" : "hora",
+    "cards-page-organization-property-main-my": "Mi reserva",
+    "cards-page-organization-property-main-no-property": "Sin recursos disponibles.",
+    "cards-page-organization-property-main-seats": "asientos",
+    "cards-page-organization-property-main-edit-title": "Editar recurso"
+  }
+}

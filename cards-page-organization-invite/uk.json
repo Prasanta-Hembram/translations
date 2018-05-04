@@ -9,8 +9,8 @@
     "cards-page-organization-invite-employees-title": "Запросити співробітників",
     "cards-page-organization-invite-employees-via-sms-description": "Надішліть індивідуальне запрошення по СМС. Співробітники отримають нову картку з дизайном організації за замовчанням.",
     "cards-page-organization-invite-members-via-link-description": "Поділіться публічним посиланням на організацію, щоб дозволити будь-кому подати заявку на участь.",
-    "cards-page-organization-invite-members-via-sms-description": "Надішліть індивідуальне запрошення по СМС. Уведіть номер телефону в міжнародному форматі.",
     "cards-page-organization-invite-members-title": "Запросити учасників",
+    "cards-page-organization-invite-placeholder": "напр. {countryCode}",
     "cards-page-organization-invite-title": "Запросити до {organizationTitle}"
   }
 }

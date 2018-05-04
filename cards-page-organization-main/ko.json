@@ -6,10 +6,10 @@
     "cards-page-organization-main-approve-requests": "요청승인",
     "cards-page-organization-main-card-share-action-sheet": "연락처에 추가",
     "cards-page-organization-main-cards-nothing-found": "아무것도 없습니다",
+    "cards-page-organization-main-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-organization-main-create-guild": "추가",
     "cards-page-organization-main-delete-user-action-sheet": "회원삭제",
     "cards-page-organization-main-error-not-found": "인터넷이 없습니다.",
-    "cards-page-organization-main-event-missing": "행사 없습니다",
     "cards-page-organization-main-events": "행사",
     "cards-page-organization-main-events-all": "전체보기",
     "cards-page-organization-main-event-create": "추가",
@@ -25,6 +25,6 @@
     "cards-page-organization-main-properties-button-title": "전체보기",
     "cards-page-organization-main-properties-title": "시설예약",
     "cards-page-organization-main-stack-search": "{numberOfPeople}명 중 검색하기",
-    "cards-page-organization-main-settings": "조직설정"
+    "cards-page-organization-main-settings": "조직 세부 정보 열기"
   }
 }

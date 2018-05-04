@@ -1,0 +1,11 @@
+{
+  "data": {
+    "cards-page-interface-display": "Вид",
+    "cards-page-interface-locale": "Язык",
+    "cards-page-interface-sorting": "Порядок",
+    "cards-page-interface-sorting-first-last": "Имя, фамилия",
+    "cards-page-interface-sorting-last-first": "Фамилия, имя",
+    "cards-page-interface-settings-title": "Настройки",
+    "cards-page-interface-title": "Интерфейс"
+  }
+}

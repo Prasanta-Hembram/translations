@@ -1,0 +1,11 @@
+{
+  "data": {
+    "cards-page-interface-display": "표시 순서",
+    "cards-page-interface-locale": "언어",
+    "cards-page-interface-sorting": "정렬 순서",
+    "cards-page-interface-sorting-first-last": "이름, 성",
+    "cards-page-interface-sorting-last-first": "성, 이름",
+    "cards-page-interface-settings-title": "설정",
+    "cards-page-interface-title": "인터페이스"
+  }
+}

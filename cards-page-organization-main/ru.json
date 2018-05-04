@@ -6,16 +6,16 @@
     "cards-page-organization-main-approve-requests": "Утверждение запросов",
     "cards-page-organization-main-card-share-action-sheet": "Добавить в контакты",
     "cards-page-organization-main-cards-nothing-found": "Ничего не найдено",
+    "cards-page-organization-main-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-main-create-guild": "Создать гильдию",
     "cards-page-organization-main-delete-user-action-sheet": "Удалить участника",
     "cards-page-organization-main-error-not-found": "Проверьте соединение с интернетом.",
-    "cards-page-organization-main-event-missing": "Нет такого события",
     "cards-page-organization-main-events": "События",
     "cards-page-organization-main-events-all": "Все события",
     "cards-page-organization-main-event-create": "Организовать событие",
     "cards-page-organization-main-everyone-title": "Все участники",
     "cards-page-organization-main-invite": "Пригласить",
-    "cards-page-organization-main-membership-settings": "Мой профиль",
+    "cards-page-organization-main-membership-settings": "Просмотреть мой профиль",
     "cards-page-organization-main-membership-settings-action-sheet" : "Просмотреть профиль",
     "cards-page-organization-main-my-cards-share-exchange-successful": "Обмен карточками успешно состоялся.",
     "cards-page-organization-main-card-more": "Другие функции",
@@ -25,6 +25,6 @@
     "cards-page-organization-main-properties-button-title": "Все ресурсы",
     "cards-page-organization-main-properties-title": "Система бронирования",
     "cards-page-organization-main-stack-search": "Поиск по {numberOfPeople} участникам",
-    "cards-page-organization-main-settings": "Настроить организацию"
+    "cards-page-organization-main-settings": "Открыть детали организации"
   }
 }

@@ -2,6 +2,7 @@
   "data": {
     "cards-page-event-main-card-more": "Інші функції",
     "cards-page-event-main-card-share-action-sheet": "Додати до контактів",
+    "cards-page-event-main-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-event-main-event-registration-not-started": "Реєстрація на подію ще не почалася",
     "cards-page-event-main-event-registration-ended": "Реєстрація на подію вже завершилася",
     "cards-page-event-main-exchange-successful": "Обмін картками успішно здійснено.",
@@ -9,7 +10,6 @@
     "cards-page-event-main-join-event-description": "Ви поки що не долучилися до цієї події. Розпочнімо!",
     "cards-page-event-main-no-event-details": "Не вдалося завантажити деталі події. Перевірте з'єднання з інтернетом та спробуйте ще раз.",
     "cards-page-event-main-search": "Пошук за {numberOfPeople} учасниками",
-    "cards-page-event-main-share-action-sheet":"Додати до контактів",
-    "cards-page-event-main-title": "Події та нетворкінг"
+    "cards-page-event-main-share-action-sheet":"Додати до контактів"
   }
 }

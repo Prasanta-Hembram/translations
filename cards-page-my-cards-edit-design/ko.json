@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-my-cards-edit-design-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-my-cards-edit-design-title": "디자인 편집",
     "cards-page-my-cards-edit-design-full-name": "이름",
     "cards-page-my-cards-edit-design-select-data": "선택하기",
@@ -7,7 +8,7 @@
     "cards-page-my-cards-edit-design-empty": "없음",
     "cards-page-my-cards-edit-design-automapping-switch": "내 정보 자동입력",
     "cards-page-my-cards-edit-design-color-reset": "기본색상 돌아가기",
-    "cards-page-my-cards-edit-design-photo-crop": "사진 자르기"
+    "cards-page-my-cards-edit-design-photo-crop": "사진 자르기",
     "cards-page-my-cards-edit-design-photo-delete": "삭제하기",
     "cards-page-my-cards-edit-design-photo-delete-select": "선택하기",
     "cards-page-my-cards-edit-design-photo-deselect": "선택 취소",

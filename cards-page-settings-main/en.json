@@ -1,15 +1,18 @@
 {
   "data": {
-    "cards-page-settings-main-title": "Settings",
-    "cards-page-settings-main-display": "Display",
-    "cards-page-settings-main-sorting": "Sorting",
-    "cards-page-settings-main-locale": "Language",
-    "cards-page-settings-main-support": "Support",
-    "cards-page-settings-main-general": "General",
-    "cards-page-settings-main-sign-out": "Log Out",
     "cards-page-settings-main-account": "Account",
-    "cards-page-settings-main-sorting-first-last": "First, Last",
-    "cards-page-settings-main-sorting-last-first": "Last, First",
+    "cards-page-settings-main-cookies-policy-title": "Cookies Policy",
+    "cards-page-settings-main-help-title": "Help",
+    "cards-page-settings-main-interface": "Interface",
+    "cards-page-settings-main-licenses-title": "Licenses",
+    "cards-page-settings-main-phone-numbers-title": "Phone Number",
+    "cards-page-settings-main-privacy-policy-title": "Privacy Policy",
+    "cards-page-settings-main-report-problem-title": "Report a Problem",
+    "cards-page-settings-main-sessions-title": "Active Sessions",
+    "cards-page-settings-main-sign-out": "Log out",
+    "cards-page-settings-main-support": "Support",
+    "cards-page-settings-main-terms-title": "Terms of Use",
+    "cards-page-settings-main-title": "Settings",
     "cards-page-settings-main-version": "Version"
   }
 }
