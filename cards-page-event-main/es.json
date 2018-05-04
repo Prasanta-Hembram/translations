@@ -10,7 +10,6 @@
     "cards-page-event-main-join-event-description": "No se ha unido a este evento aún ¡Empecemos!",
     "cards-page-event-main-no-event-details": "No se pudieron obtener los detalles del evento. Verifique la conexión a Internet y vuelva a intentarlo.",
     "cards-page-event-main-search": "Buscar {numberOfPeople} personas",
-    "cards-page-event-main-share-action-sheet":"Añadir contactos",
-    "cards-page-event-main-title": "Eventos y Redes"
+    "cards-page-event-main-share-action-sheet":"Añadir contactos"
   }
 }

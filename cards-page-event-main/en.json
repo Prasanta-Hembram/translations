@@ -10,7 +10,6 @@
     "cards-page-event-main-join-event-description": "You haven't joined this event yet. Let's get you started!",
     "cards-page-event-main-no-event-details": "Couldn't get event details. Check internet connection and try again.",
     "cards-page-event-main-search":"Search {numberOfPeople} members",
-    "cards-page-event-main-share-action-sheet": "Add to contacts",
-    "cards-page-event-main-title": "Events & Networking"
+    "cards-page-event-main-share-action-sheet": "Add to contacts"
   }
 }
