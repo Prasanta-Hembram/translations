@@ -1,17 +1,17 @@
 {
   "data": {
-    "cards-page-organization-property-statistics-average": "Organization Average",
-    "cards-page-organization-property-statistics-booking-hours": "Booking hours",
-    "cards-page-organization-property-statistics-bookings-times": "Booking times",
-    "cards-page-organization-property-statistics-cancel": "Cancel",
-    "cards-page-organization-property-statistics-difference": "Difference",
-    "cards-page-organization-property-statistics-end-date-title": "End",
-    "cards-page-organization-property-statistics-facility": "This Facility",
-    "cards-page-organization-property-statistics-start-date-title": "Start",
-    "cards-page-organization-property-statistics-property-title": "Statistics: {propertyName}",
-    "cards-page-organization-property-statistics-popularity-hour": "Popularity by hour",
-    "cards-page-organization-property-statistics-popularity-week": "Popularity by week day",
-    "cards-page-organization-property-statistics-title": "General statistics",
-    "cards-page-organization-property-statistics-utilization-title": "Utilization rate: %"
+    "cards-page-organization-property-statistics-average": "В среднем по организации",
+    "cards-page-organization-property-statistics-booking-hours": "Количество часов",
+    "cards-page-organization-property-statistics-bookings-times": "Количество резерваций",
+    "cards-page-organization-property-statistics-cancel": "Отмена",
+    "cards-page-organization-property-statistics-difference": "Разница",
+    "cards-page-organization-property-statistics-end-date-title": "Конец",
+    "cards-page-organization-property-statistics-facility": "Этот объект",
+    "cards-page-organization-property-statistics-start-date-title": "Начало",
+    "cards-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
+    "cards-page-organization-property-statistics-popularity-hour": "Популярность по часам",
+    "cards-page-organization-property-statistics-popularity-week": "Популярность по дням",
+    "cards-page-organization-property-statistics-title": "Общая статистика",
+    "cards-page-organization-property-statistics-utilization-title": "Показатель использования: %"
   }
 }
