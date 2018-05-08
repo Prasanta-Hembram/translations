@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-property-statistics-average": "Organization Average",
+    "cards-page-organization-property-statistics-booking-hours": "Booking hours",
+    "cards-page-organization-property-statistics-bookings-times": "Booking times",
+    "cards-page-organization-property-statistics-difference": "Difference",
+    "cards-page-organization-property-statistics-end-date-title": "End",
+    "cards-page-organization-property-statistics-facility": "This Facility",
+    "cards-page-organization-property-statistics-start-date-title": "Start",
+    "cards-page-organization-property-statistics-property-title": "Statistics: {propertyName}",
+    "cards-page-organization-property-statistics-popularity-hour": "Popularity by hour",
+    "cards-page-organization-property-statistics-popularity-week": "Popularity by week day",
+    "cards-page-organization-property-statistics-title": "General statistics",
+    "cards-page-organization-property-statistics-utilization-title": "Utilization rate: %"
+  }
+}

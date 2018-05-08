@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-property-statistics-average": "В середньому по органызації ",
+    "cards-page-organization-property-statistics-booking-hours": "Кількість годин",
+    "cards-page-organization-property-statistics-bookings-times": "Кількість резервацій",
+    "cards-page-organization-property-statistics-difference": "Різниця",
+    "cards-page-organization-property-statistics-end-date-title": "Кінець",
+    "cards-page-organization-property-statistics-facility": "Цей об'єкт",
+    "cards-page-organization-property-statistics-start-date-title": "Початок",
+    "cards-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
+    "cards-page-organization-property-statistics-popularity-hour": "Популярність по годинах",
+    "cards-page-organization-property-statistics-popularity-week": "Популярність по днях",
+    "cards-page-organization-property-statistics-title": "Загальна статистика",
+    "cards-page-organization-property-statistics-utilization-title": "Показник використання: %"
+  }
+}
