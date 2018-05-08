@@ -1,10 +1,8 @@
 {
-  "data": {    
-    "cards-page-organization-announcement-create-cancel": "Отменить",
+  "data": {
     "cards-page-organization-announcement-create-contents": "Содержание",
     "cards-page-organization-announcement-create-date": "Дата",
     "cards-page-organization-announcement-create-notification-push": "Push-уведомление",
-    "cards-page-organization-announcement-create-send": "Отправить",
     "cards-page-organization-announcement-create-stack-title": "Создать объявление", 
     "cards-page-organization-announcement-create-target-guilds": "Целевая гильдия",
     "cards-page-organization-announcement-create-target-guilds-select-all": "Все участники",

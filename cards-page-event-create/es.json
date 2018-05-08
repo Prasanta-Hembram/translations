@@ -11,8 +11,6 @@
     "cards-page-event-create-event-name-placeholder": "Escriba el nombre del evento",
     "cards-page-event-create-instructions": "Si eres organizador de eventos: completa el formulario de solicitud para agregar tu evento. Su información de contacto se adjuntará a esta solicitud.",
     "cards-page-event-create-start": "Comienzo",
-    "cards-page-event-create": "Crear evento",
-    "cards-page-event-create-submit": "Presentar evento",
-    "cards-page-event-create-title": "Eventos y redes"
+    "cards-page-event-create": "Crear evento"
   }
 }

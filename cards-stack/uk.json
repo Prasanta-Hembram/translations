@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-stack-search": "Пошук",
-    "cards-stack-card-mark": "Обрати",
-    "cards-stack-title-cancel": "Скасувати",
-    "cards-stack-title-done": "Готово"
+    "cards-stack-card-mark": "Обрати"
   }
 }

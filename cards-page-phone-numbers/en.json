@@ -1,7 +1,6 @@
 {
   "data": {    
     "cards-page-phone-numbers-added": "Added Number(s)",
-    "cards-page-phone-numbers-add-number": "Add number",
     "cards-page-phone-numbers-delete-account": "Delete account",
     "cards-page-phone-numbers-important": "Important Information",
     "cards-page-phone-numbers-info": "Add several numbers to backup and sync andCards across devices. There is no alternative ways to access your account. Make sure you are able to receive SMS with passcode.",
@@ -9,7 +8,6 @@
     "cards-page-phone-numbers-info-modify": "Change numbers by pressing ",
     "cards-page-phone-numbers-no-data": "No phone numbers or internet",
     "cards-page-phone-numbers-remove": "Remove phone number",
-    "cards-page-phone-numbers-settings-main-title": "Settings",
     "cards-page-phone-numbers-title": "Phone Number"
   }
 }

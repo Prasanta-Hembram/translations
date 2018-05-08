@@ -2,10 +2,8 @@
   "data": {
     "cards-page-organization-alert-invitation-failure": "초대장을 보내지 못했습니다.",
     "cards-page-organization-alert-invitation-success": "초대장이 전송되었습니다.",
-    "cards-page-organization-invite-cancel": "취소하기",
     "cards-page-organization-invite-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-organization-invite-design": "직원으로 초대하기",
-    "cards-page-organization-invite-done": "초대하기",
     "cards-page-organization-invite-employees-title": "직원초대",
     "cards-page-organization-invite-employees-via-sms-description": "국제번호 형식으로 입력 바랍니다(예:+821012345678). 초대받은 직원은 별도로 브랜딩된 카드가 주어집니다.",
     "cards-page-organization-invite-members-via-link-description": "누구나 가입요청 할 수 있도록 공개된 조직 링크를 공유하세요.",

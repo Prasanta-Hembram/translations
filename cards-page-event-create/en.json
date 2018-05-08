@@ -11,8 +11,6 @@
     "cards-page-event-create-event-name-placeholder": "Type event name",
     "cards-page-event-create-instructions": "If you are event organizer: fill in the request form to add your event. Your contact info will be attached to this request.",
     "cards-page-event-create-start": "Start time",
-    "cards-page-event-create": "Create event",
-    "cards-page-event-create-submit": "Submit event",
-    "cards-page-event-create-title": "Events & Networking"
+    "cards-page-event-create": "Create event"
   }
 }

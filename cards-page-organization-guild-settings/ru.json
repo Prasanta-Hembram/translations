@@ -1,12 +1,10 @@
 {
   "data": {
-    "cards-page-organization-guild-settings-cancel": "Отменить",
     "cards-page-organization-guild-settings-combobox-title": "Выбрать иконку",
     "cards-page-organization-guild-settings-create-guild-title": "Создать гильдию",
     "cards-page-organization-guild-settings-icon": "Иконка",
     "cards-page-organization-guild-settings-label-preview": "Предпросмотр метки",
     "cards-page-organization-guild-settings-name": "Название",
-    "cards-page-organization-guild-settings-save": "Сохранить",
     "cards-page-organization-guild-settings-title": "Настройки гильдии"
   }
 }

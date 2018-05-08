@@ -2,10 +2,8 @@
   "data": {
     "cards-page-organization-alert-invitation-failure": "Failed to send invitations",
     "cards-page-organization-alert-invitation-success": "Invitation successfully sent",
-    "cards-page-organization-invite-cancel": "Cancel",
     "cards-page-organization-invite-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-invite-design": "Invite as employee",
-    "cards-page-organization-invite-done": "Invite",
     "cards-page-organization-invite-employees-title": "Invite Employees",
     "cards-page-organization-invite-employees-via-sms-description": "Send an SMS with individual registration link. Employees will get a new card with your organization branding.",
     "cards-page-organization-invite-members-via-link-description": "Share a public link to organization, so that anyone can request membership.",

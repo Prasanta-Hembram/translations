@@ -3,8 +3,6 @@
     "cards-page-organization-request-create-alert-submit-success": "Su solicitud fue enviada",
     "cards-page-organization-request-create-address": "Dirección",
     "cards-page-organization-request-create-cards-section": "Seleccione la tarjeta",
-    "cards-page-organization-request-create-title": "Enviar solicitud de unión",
-    "cards-page-organization-request-create-title-cancel": "Cancelar",
-    "cards-page-organization-request-create-title-submit": "Enviar"
+    "cards-page-organization-request-create-title": "Enviar solicitud de unión"
   }
 }

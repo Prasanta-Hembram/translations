@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-organization-property-edit-cancel": "취소",
     "cards-page-organization-property-edit-description": "설명",
     "cards-page-organization-property-edit-description-placeholder": "설명입력(선택사항)",
     "cards-page-organization-property-edit-min-time": "최소예약시간",
@@ -13,7 +12,6 @@
     "cards-page-organization-property-edit-name": "이름",
     "cards-page-organization-property-edit-number-of-seats": "좌석 수",
     "cards-page-organization-property-edit-price-points": "시간당 크레딧",
-    "cards-page-organization-property-edit-save": "저장",
     "cards-page-organization-property-edit-title": "내용편집"
   }
 }

@@ -7,7 +7,6 @@
     "cards-page-sessions-description": "This is the list of devices you logged into Cards. If you do not recognize any of active sessions, press ··· and remove it.",
     "cards-page-sessions-info": "About sessions",
     "cards-page-sessions-remove": "Remove session",
-    "cards-page-sessions-settings-main-title": "Settings", 
     "cards-page-sessions-title": "Active sessions"
   }
 }

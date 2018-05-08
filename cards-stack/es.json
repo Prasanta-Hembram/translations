@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-stack-search": "Buscar",
-    "cards-stack-card-mark": "Seleccionar",
-    "cards-stack-title-cancel": "Cancelar",
-    "cards-stack-title-done": "Hecho"
+    "cards-stack-card-mark": "Seleccionar"
   }
 }

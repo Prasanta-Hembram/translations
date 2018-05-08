@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-organization-property-edit-cancel": "Cancel",
     "cards-page-organization-property-edit-description": "Description",
     "cards-page-organization-property-edit-description-placeholder": "Type description for your facility (optional)",
     "cards-page-organization-property-edit-min-time": "Min time",
@@ -13,7 +12,6 @@
     "cards-page-organization-property-edit-name": "Name",
     "cards-page-organization-property-edit-number-of-seats": "Number of seats",
     "cards-page-organization-property-edit-price-points": "Price (credits)",
-    "cards-page-organization-property-edit-save": "Save",
     "cards-page-organization-property-edit-title": "Editing facility"
   }
 }

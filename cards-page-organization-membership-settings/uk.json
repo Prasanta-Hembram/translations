@@ -19,7 +19,6 @@
     "cards-page-organization-membership-settings-role-info-member": "Учасник може переглядати релевантний зміст в організації. Щоб щось змінити, зверніться до модератора або адміністратора.",
     "cards-page-organization-membership-settings-plan" : "План", 
     "cards-page-organization-membership-settings-plan-detail-info": "Переваги: {points} {emoji} на місяць.",
-    "cards-page-organization-membership-settings-update-failure": "Не вдалося оновити",
-    "cards-page-organization-membership-settings-update-user-submit": "Надіслати"
+    "cards-page-organization-membership-settings-update-failure": "Не вдалося оновити"
   }
 }
