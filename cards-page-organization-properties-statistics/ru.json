@@ -6,6 +6,8 @@
     "cards-page-organization-property-statistics-difference": "Разница",
     "cards-page-organization-property-statistics-end-date-title": "Конец",
     "cards-page-organization-property-statistics-facility": "Этот объект",
+    "cards-page-organization-property-statistics-internet-error-general" : "Couldn't show a statistic. Are you sure there is an internet connection?",
+    "cards-page-organization-property-statistics-internet-error-chart" : "Couldn't show a chart. Are you sure there is an internet connection?",
     "cards-page-organization-property-statistics-start-date-title": "Начало",
     "cards-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
     "cards-page-organization-property-statistics-popularity-hour": "Популярность по часам",

@@ -6,6 +6,8 @@
     "cards-page-organization-property-statistics-difference": "Різниця",
     "cards-page-organization-property-statistics-end-date-title": "Кінець",
     "cards-page-organization-property-statistics-facility": "Цей об'єкт",
+    "cards-page-organization-property-statistics-internet-error-general" : "Couldn't show a statistic. Are you sure there is an internet connection?",
+    "cards-page-organization-property-statistics-internet-error-chart" : "Couldn't show a chart. Are you sure there is an internet connection?",
     "cards-page-organization-property-statistics-start-date-title": "Початок",
     "cards-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
     "cards-page-organization-property-statistics-popularity-hour": "Популярність по годинах",

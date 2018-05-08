@@ -7,6 +7,8 @@
     "cards-page-organization-property-statistics-difference": "Difference",
     "cards-page-organization-property-statistics-end-date-title": "End",
     "cards-page-organization-property-statistics-facility": "This Facility",
+    "cards-page-organization-property-statistics-internet-error-general" : "Couldn't show a statistic. Are you sure there is an internet connection?",
+    "cards-page-organization-property-statistics-internet-error-chart" : "Couldn't show a chart. Are you sure there is an internet connection?",
     "cards-page-organization-property-statistics-start-date-title": "Start",
     "cards-page-organization-property-statistics-property-title": "Statistics: {propertyName}",
     "cards-page-organization-property-statistics-popularity-hour": "Popularity by hour",
@@ -15,3 +17,7 @@
     "cards-page-organization-property-statistics-utilization-title": "Utilization rate: %"
   }
 }
+
+
+
+
