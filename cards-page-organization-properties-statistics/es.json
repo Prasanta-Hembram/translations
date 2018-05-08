@@ -14,6 +14,8 @@
     "cards-page-organization-property-statistics-popularity-hour": "Popularidad por hora",
     "cards-page-organization-property-statistics-popularity-week": "Popularidad por día de la semana",
     "cards-page-organization-property-statistics-title": "Estadísticas Generales",
-    "cards-page-organization-property-statistics-utilization-title": "Tasa de uso: %"
+    "cards-page-organization-property-statistics-utilization-title": "Tasa de uso: %",
+    "cards-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Please, check input dates.",
+    "cards-page-organization-property-statistics-validation-error-general": "Unable to show a statistic. Please, check input dates."
   }
 }

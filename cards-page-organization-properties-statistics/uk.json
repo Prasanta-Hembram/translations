@@ -13,6 +13,8 @@
     "cards-page-organization-property-statistics-popularity-hour": "Популярність по годинах",
     "cards-page-organization-property-statistics-popularity-week": "Популярність по днях",
     "cards-page-organization-property-statistics-title": "Загальна статистика",
-    "cards-page-organization-property-statistics-utilization-title": "Показник використання: %"
+    "cards-page-organization-property-statistics-utilization-title": "Показник використання: %",
+    "cards-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Please, check input dates.",
+    "cards-page-organization-property-statistics-validation-error-general": "Unable to show a statistic. Please, check input dates."
   }
 }
