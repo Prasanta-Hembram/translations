@@ -3,7 +3,6 @@
     "cards-page-organization-property-statistics-average": "Promedio de organización",
     "cards-page-organization-property-statistics-booking-hours": "Horario de reserva",
     "cards-page-organization-property-statistics-bookings-times": "Tiempos de reserva",
-    "cards-page-organization-property-statistics-cancel": "Cancelar",
     "cards-page-organization-property-statistics-difference": "Diferencia",
     "cards-page-organization-property-statistics-end-date-title": "Fin",
     "cards-page-organization-property-statistics-facility": "Esta instalación",
@@ -15,7 +14,7 @@
     "cards-page-organization-property-statistics-popularity-week": "Popularidad por día de la semana",
     "cards-page-organization-property-statistics-title": "Estadísticas Generales",
     "cards-page-organization-property-statistics-utilization-title": "Tasa de uso: %",
-    "cards-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Please, check input dates.",
-    "cards-page-organization-property-statistics-validation-error-general": "Unable to show a statistic. Please, check input dates."
+    "cards-page-organization-property-statistics-validation-error-chart": "No se puede mostrar un gráfico. Por favor, verifique las fechas de entrada.",
+    "cards-page-organization-property-statistics-validation-error-general": "No se puede mostrar una estadística. Por favor, verifique las fechas de entrada."
   }
 }
