@@ -6,11 +6,15 @@
     "cards-page-organization-property-statistics-difference": "Разница",
     "cards-page-organization-property-statistics-end-date-title": "Конец",
     "cards-page-organization-property-statistics-facility": "Этот объект",
+    "cards-page-organization-property-statistics-internet-error-general" : "Невозможно отобразить статистику. Проверь, пожалуйста, интернет соединение.",
+    "cards-page-organization-property-statistics-internet-error-chart" : "Невозможно отобразить диаграмму. Проверь, пожалуйста, интернет соединение.",
     "cards-page-organization-property-statistics-start-date-title": "Начало",
     "cards-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
     "cards-page-organization-property-statistics-popularity-hour": "Популярность по часам",
     "cards-page-organization-property-statistics-popularity-week": "Популярность по дням",
     "cards-page-organization-property-statistics-title": "Общая статистика",
-    "cards-page-organization-property-statistics-utilization-title": "Показатель использования: %"
+    "cards-page-organization-property-statistics-utilization-title": "Показатель использования: %",
+    "cards-page-organization-property-statistics-validation-error-chart": "Невозможно отобразить диаграмму. Проверь, пожалуйста, правильно ли введена дата.",
+    "cards-page-organization-property-statistics-validation-error-general": "Невозможно отобразить статистику. Проверь, пожалуйста, правильно ли введена дата."
   }
 }
