@@ -1,10 +1,10 @@
 {
   "data": {
-    "cards-page-event-everyone-main-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "Live card exchange successful.",
-    "cards-page-event-everyone-main-card-more": "More options",
-    "cards-page-event-everyone-main-no-event": "Error - no event",
-    "cards-page-event-everyone-main-nothing-found": "Nothing found",
-    "cards-page-event-everyone-main-title": "Everyone"
+    "cards-page-event-everyone-main-copied-to-clipboard": "클립보드로 복사되었습니다",
+    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "카드 교환 성공",
+    "cards-page-event-everyone-main-card-more": "다양한 옵션들",
+    "cards-page-event-everyone-main-no-event": "에러 – 행사 없음",
+    "cards-page-event-everyone-main-nothing-found": "행사를 찾을 수 없습니다",
+    "cards-page-event-everyone-main-title": "모든 참가자들"
   }
 }
