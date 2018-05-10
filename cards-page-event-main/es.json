@@ -11,6 +11,7 @@
     "cards-page-event-main-details-join-title": "Unirse al evento",
     "cards-page-event-main-join-event-description": "No se ha unido a este evento aún ¡Empecemos!",
     "cards-page-event-main-no-event-details": "No se pudieron obtener los detalles del evento. Verifique la conexión a Internet y vuelva a intentarlo.",
+    "cards-page-event-main-nothing-found": "Nada Encontrado",
     "cards-page-event-main-search": "Buscar {numberOfPeople} personas",
     "cards-page-event-main-share-action-sheet":"Añadir contactos"
   }
