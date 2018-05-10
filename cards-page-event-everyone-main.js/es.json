@@ -1,1 +1,10 @@
-v
+{
+  "data": {
+    "cards-page-event-everyone-main-copied-to-clipboard": "Copiado al portapapeles",
+    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "Intercambio de tarjetas en vivo exitoso.",
+    "cards-page-event-everyone-main-card-more": "Mas opciones",
+    "cards-page-event-everyone-main-no-event": "Error - no hay evento",
+    "cards-page-event-everyone-main-nothing-found": "Nada Encontrado",
+    "cards-page-event-everyone-main-title": "Todos"
+  }
+}
