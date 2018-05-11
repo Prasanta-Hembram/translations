@@ -1,6 +1,8 @@
 {
-  "cards-alert-confirmation-organization-property-delete-text": "¿Seguro que quieres eliminar esta instalaciones? Esta acción es irreversible.",
-  "cards-alert-confirmation-organization-property-delete-no": "Cancelar",
-  "cards-alert-confirmation-organization-property-delete-title": "Eliminar instalaciones",
-  "cards-alert-confirmation-organization-property-delete-yes": "Sí, eliminar"
+  "data":{
+    "cards-alert-confirmation-organization-property-delete-text": "¿Seguro que quieres eliminar esta instalaciones? Esta acción es irreversible.",
+    "cards-alert-confirmation-organization-property-delete-no": "Cancelar",
+    "cards-alert-confirmation-organization-property-delete-title": "Eliminar instalaciones",
+    "cards-alert-confirmation-organization-property-delete-yes": "Sí, eliminar"
+  }
 }

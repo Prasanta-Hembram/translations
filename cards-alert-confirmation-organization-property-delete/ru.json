@@ -1,6 +1,8 @@
 {
-  "cards-alert-confirmation-organization-property-delete-text": "Вы действительно хотите удалить этот ресурс? Это действие необратимо.",
-  "cards-alert-confirmation-organization-property-delete-no": "Отменить",
-  "cards-alert-confirmation-organization-property-delete-title": "Удалить ресурс",
-  "cards-alert-confirmation-organization-property-delete-yes": "Да, удалить"
+  "data":{
+    "cards-alert-confirmation-organization-property-delete-text": "Вы действительно хотите удалить этот ресурс? Это действие необратимо.",
+    "cards-alert-confirmation-organization-property-delete-no": "Отменить",
+    "cards-alert-confirmation-organization-property-delete-title": "Удалить ресурс",
+    "cards-alert-confirmation-organization-property-delete-yes": "Да, удалить"
+  }
 }
