@@ -15,6 +15,13 @@
     "cards-page-organization-property-statistics-title": "Общая статистика",
     "cards-page-organization-property-statistics-utilization-title": "Показатель использования: %",
     "cards-page-organization-property-statistics-validation-error-chart": "Невозможно отобразить диаграмму. Проверь, пожалуйста, правильно ли введена дата.",
-    "cards-page-organization-property-statistics-validation-error-general": "Невозможно отобразить статистику. Проверь, пожалуйста, правильно ли введена дата."
+    "cards-page-organization-property-statistics-validation-error-general": "Невозможно отобразить статистику. Проверь, пожалуйста, правильно ли введена дата.",
+    "cards-page-organization-property-statistics-popularity-week-sun": "Вс",
+    "cards-page-organization-property-statistics-popularity-week-mon": "Пн",
+    "cards-page-organization-property-statistics-popularity-week-tue": "Вт",
+    "cards-page-organization-property-statistics-popularity-week-wed": "Ср",
+    "cards-page-organization-property-statistics-popularity-week-thu": "Чт",
+    "cards-page-organization-property-statistics-popularity-week-fri": "Пт",
+    "cards-page-organization-property-statistics-popularity-week-sat": "Сб"
   }
 }

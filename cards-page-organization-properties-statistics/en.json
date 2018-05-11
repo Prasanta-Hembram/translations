@@ -15,6 +15,13 @@
     "cards-page-organization-property-statistics-title": "General statistics",
     "cards-page-organization-property-statistics-utilization-title": "Utilization rate: %",
     "cards-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Please, check input dates.",
-    "cards-page-organization-property-statistics-validation-error-general": "Unable to show a statistic. Please, check input dates."
+    "cards-page-organization-property-statistics-validation-error-general": "Unable to show a statistic. Please, check input dates.",
+    "cards-page-organization-property-statistics-popularity-week-sun": "Sun",
+    "cards-page-organization-property-statistics-popularity-week-mon": "Mon",
+    "cards-page-organization-property-statistics-popularity-week-tue": "Tue",
+    "cards-page-organization-property-statistics-popularity-week-wed": "Wed",
+    "cards-page-organization-property-statistics-popularity-week-thu": "Thu",
+    "cards-page-organization-property-statistics-popularity-week-fri": "Fri",
+    "cards-page-organization-property-statistics-popularity-week-sat": "Sat"
   }
 }
