@@ -8,7 +8,7 @@
     "cards-page-organization-invite-employees-via-sms-description": "직원 초대는 SMS를 통해서 조직에 초대하세요. 초대받은 직원은 별도로 브랜딩된 카드가 주어집니다.",
     "cards-page-organization-invite-members-via-link-description": "일반 사용자는 아래의 링크를 통해서 조직에 초대하세요.",
     "cards-page-organization-invite-members-title": "회원초대",
-    "cards-page-organization-invite-placeholder": "예)+821012345678",
+    "cards-page-organization-invite-placeholder": "예){countryCode}",
     "cards-page-organization-invite-title": "{organizationTitle}에 초대하기"
   }
 }
