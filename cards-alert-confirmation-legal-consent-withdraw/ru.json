@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-confirmation-legal-withdraw-title": "Отозвать согласие",
-    "cards-alert-confirmation-legal-withdraw-text": "Вы действительно хотите отозвать свое согласие на эту политику? Эта политика необходима для работы с сервисами andCards. Если вы продолжите, вы не сможете продолжать использовать andCards, и ВСЕ ВАШИ ДАННЫЕ БУДУТ УДАЛЕНЫ ПОЛНОСТЬЮ И НЕОБРАТИМО.",
+    "cards-alert-confirmation-legal-withdraw-text": "Ты действительно хочешь отозвать свое согласие на эту политику? Эта политика необходима для работы с сервисами andCards. Если ты продолжишь, ты не сможешь продолжать использовать andCards, и ВСЕ ТВОИ ДАННЫЕ БУДУТ УДАЛЕНЫ ПОЛНОСТЬЮ И НЕОБРАТИМО.",
     "cards-alert-confirmation-legal-withdraw-yes": "Да, удалить",
     "cards-alert-confirmation-legal-withdraw-no": "Отменить"
   }
