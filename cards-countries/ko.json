@@ -1,7 +1,6 @@
 {
   "data": {
-
-     "cards-countries-af": "아프가니스탄",
+    "cards-countries-af": "아프가니스탄",
     "cards-countries-al": "알바니아",
     "cards-countries-dz": "알제리",
     "cards-countries-ad": "안도라",
@@ -223,13 +222,5 @@
     "cards-countries-ye": "예멘",
     "cards-countries-zm": "잠비아",
     "cards-countries-zw": "짐바브웨"
-
-   
-    
-  }
-}
-
-
-
   }
 }

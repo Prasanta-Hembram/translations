@@ -1,12 +1,14 @@
 {
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "Cancel",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "Charge",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-default-value": "5",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "Enter the amount to charge the member.",
-  "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "Charge credits",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-no": "Cancel",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "Give",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-default-value": "5",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-message": "Enter the amount to give to the member.",
-  "cards-alert-confirmation-organization-membership-settings-credits-give-title": "Give credits"
+  "data": {
+    "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "Cancel",
+    "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "Charge",
+    "cards-alert-confirmation-organization-membership-settings-credits-charge-default-value": "5",
+    "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "Enter the amount to charge the member.",
+    "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "Charge credits",
+    "cards-alert-confirmation-organization-membership-settings-credits-give-no": "Cancel",
+    "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "Give",
+    "cards-alert-confirmation-organization-membership-settings-credits-give-default-value": "5",
+    "cards-alert-confirmation-organization-membership-settings-credits-give-message": "Enter the amount to give to the member.",
+    "cards-alert-confirmation-organization-membership-settings-credits-give-title": "Give credits"
+  } 
 }

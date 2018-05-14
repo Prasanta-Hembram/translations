@@ -3,8 +3,6 @@
     "cards-page-organization-request-create-alert-submit-success": "Ваш запрос отправлен",
     "cards-page-organization-request-create-address": "Адрес",
     "cards-page-organization-request-create-cards-section": "Выберите карточку",
-    "cards-page-organization-request-create-title": "Запрос на присоединение",
-    "cards-page-organization-request-create-title-cancel": "Отменить",
-    "cards-page-organization-request-create-title-submit": "Отправить"
+    "cards-page-organization-request-create-title": "Запрос на присоединение"
   }
 }

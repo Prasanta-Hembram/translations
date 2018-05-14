@@ -19,7 +19,6 @@
     "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and guilds in an organization.",
     "cards-page-organization-membership-settings-plan" : "Plan", 
     "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
-    "cards-page-organization-membership-settings-update-failure": "Failed to update",
-    "cards-page-organization-membership-settings-update-user-submit": "Submit"
+    "cards-page-organization-membership-settings-update-failure": "Failed to update"
   }
 }

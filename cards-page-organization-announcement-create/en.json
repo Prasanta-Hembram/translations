@@ -1,10 +1,8 @@
 {
-  "data": {        
-    "cards-page-organization-announcement-create-cancel": "Cancel",
+  "data": {
     "cards-page-organization-announcement-create-contents": "Contents",
     "cards-page-organization-announcement-create-date": "Date",
     "cards-page-organization-announcement-create-notification-push": "Push Notification",
-    "cards-page-organization-announcement-create-send": "Send",
     "cards-page-organization-announcement-create-stack-title": "Create Announcement",
     "cards-page-organization-announcement-create-target-guilds": "Target Guilds",
     "cards-page-organization-announcement-create-target-guilds-select-all": "Everyone",

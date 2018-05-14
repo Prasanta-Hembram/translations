@@ -1,0 +1,27 @@
+{
+  "data": {
+    "cards-page-organization-property-statistics-average": "В середньому по організації ",
+    "cards-page-organization-property-statistics-booking-hours": "Кількість годин",
+    "cards-page-organization-property-statistics-bookings-times": "Кількість резервацій",
+    "cards-page-organization-property-statistics-difference": "Різниця",
+    "cards-page-organization-property-statistics-end-date-title": "Кінець",
+    "cards-page-organization-property-statistics-facility": "Цей об'єкт",
+    "cards-page-organization-property-statistics-internet-error-general" : "Неможливо відобразити статистику. Перевір, будь-ласка, чи є інтернет з'єднання.",
+    "cards-page-organization-property-statistics-internet-error-chart" : "Неможливо відобразити діаграму. Перевір, будь-ласка, чи є інтернет з'єднання.",
+    "cards-page-organization-property-statistics-start-date-title": "Початок",
+    "cards-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
+    "cards-page-organization-property-statistics-popularity-hour": "Популярність по годинах",
+    "cards-page-organization-property-statistics-popularity-week": "Популярність по днях",
+    "cards-page-organization-property-statistics-title": "Загальна статистика",
+    "cards-page-organization-property-statistics-utilization-title": "Показник використання, %",
+    "cards-page-organization-property-statistics-validation-error-chart": "Неможливо відобразити діаграму. Перевір, будь-ласка, чи правильно введено дату.",
+    "cards-page-organization-property-statistics-validation-error-general": "Неможливо відобразити статистику. Перевір, будь-ласка, чи правильно введено дату.",
+    "cards-page-organization-property-statistics-popularity-week-sun": "Нд",
+    "cards-page-organization-property-statistics-popularity-week-mon": "Пн",
+    "cards-page-organization-property-statistics-popularity-week-tue": "Вт",
+    "cards-page-organization-property-statistics-popularity-week-wed": "Ср",
+    "cards-page-organization-property-statistics-popularity-week-thu": "Чт",
+    "cards-page-organization-property-statistics-popularity-week-fri": "Пт",
+    "cards-page-organization-property-statistics-popularity-week-sat": "Сб"
+  }
+}

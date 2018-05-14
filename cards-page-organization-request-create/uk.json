@@ -3,8 +3,6 @@
     "cards-page-organization-request-create-alert-submit-success": "Ваш запит відправлено",
     "cards-page-organization-request-create-address": "Адреса",
     "cards-page-organization-request-create-cards-section": "Вибрати картку",
-    "cards-page-organization-request-create-title": "Запит на приєднання",
-    "cards-page-organization-request-create-title-cancel": "Скасувати",
-    "cards-page-organization-request-create-title-submit": "Відправити"
+    "cards-page-organization-request-create-title": "Запит на приєднання"
   }
 }

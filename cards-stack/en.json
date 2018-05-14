@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-stack-search": "Search",
-    "cards-stack-card-mark": "Select",
-    "cards-stack-title-cancel": "Cancel",
-    "cards-stack-title-done": "Done"
+    "cards-stack-card-mark": "Select"
   }
 }

@@ -1,12 +1,10 @@
 {
   "data": {
-    "cards-page-organization-guild-settings-cancel": "Cancelar",
     "cards-page-organization-guild-settings-combobox-title": "Seleccionar Ícono",
     "cards-page-organization-guild-settings-create-guild-title": "Crear gremio",
     "cards-page-organization-guild-settings-icon": "Ícono",
     "cards-page-organization-guild-settings-label-preview": "Vista Previa de Etiqueta",
     "cards-page-organization-guild-settings-name": "Nombre",
-    "cards-page-organization-guild-settings-save": "Guardar",
     "cards-page-organization-guild-settings-title": "Configuraciones de Gremio"
   }
 }

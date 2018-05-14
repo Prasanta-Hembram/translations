@@ -2,6 +2,6 @@
   "data": {
     "cards-page-organization-property-details-hour": "시간",
     "cards-page-organization-property-details-seats": "좌석",
-    "cards-page-organization-property-details-title": "이벤트명: {propertyName}"
+    "cards-page-organization-property-details-title": "{propertyName} 정보"
   }
 }

@@ -19,7 +19,6 @@
     "cards-page-organization-membership-settings-role-info-member": "Como miembro, puede crear y ver contenido en su organización. Si necesita gestionar algo, hable con el moderador o administrador.",
     "cards-page-organization-membership-settings-plan" : "Plan", 
     "cards-page-organization-membership-settings-plan-detail-info": "Qué incluye: {points} {emoji} por mes.",
-    "cards-page-organization-membership-settings-update-failure": "Failed to update",
-    "cards-page-organization-membership-settings-update-user-submit": "Enviar"
+    "cards-page-organization-membership-settings-update-failure": "Failed to update"
   }
 }

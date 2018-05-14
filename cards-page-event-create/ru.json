@@ -11,8 +11,6 @@
     "cards-page-event-create-event-name-placeholder": "Введите название",
     "cards-page-event-create-instructions": "Если вы являетесь организатором события: заполните форму запроса, чтобы добавить свое событие. Ваша контактная информация будет прикреплена к этому запросу.",
     "cards-page-event-create-start": "Начало",
-    "cards-page-event-create": "Создать событие",
-    "cards-page-event-create-submit": "Запросить событие",
-    "cards-page-event-create-title": "События и нетворкинг"
+    "cards-page-event-create": "Создать событие"
   }
 }

@@ -11,8 +11,6 @@
     "cards-page-event-create-event-name-placeholder": "Уведіть назву події",
     "cards-page-event-create-instructions": "Якщо ви організатор події: заповніть форму запиту, щоб додати свою подію. Ваша контактна інформація буде додана до цього запиту.",
     "cards-page-event-create-start": "Початок",
-    "cards-page-event-create": "Створити подію",
-    "cards-page-event-create-submit": "Запросити подію",
-    "cards-page-event-create-title": "Події та нетворкінг"
+    "cards-page-event-create": "Створити подію"
   }
 }

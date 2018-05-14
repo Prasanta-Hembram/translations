@@ -1,12 +1,10 @@
 {
   "data": {
-    "cards-page-organization-guild-settings-cancel": "취소",
     "cards-page-organization-guild-settings-combobox-title": "아이콘 선택하기",
     "cards-page-organization-guild-settings-create-guild-title": "추가",
     "cards-page-organization-guild-settings-icon": "아이콘",
     "cards-page-organization-guild-settings-label-preview": "미리보기",
     "cards-page-organization-guild-settings-name": "이름",
-    "cards-page-organization-guild-settings-save": "저장",
     "cards-page-organization-guild-settings-title": "길드 설정"
   }
 }

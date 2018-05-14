@@ -2,10 +2,8 @@
   "data": {
     "cards-page-organization-alert-invitation-failure": "Error al enviar invitaciones",
     "cards-page-organization-alert-invitation-success": "Invitación enviada con éxito",
-    "cards-page-organization-invite-cancel": "Cancelar",
     "cards-page-organization-invite-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-invite-design": "Invitar como empleado",
-    "cards-page-organization-invite-done": "Invitar",
     "cards-page-organization-invite-employees-title": "Invita empleados",
     "cards-page-organization-invite-employees-via-sms-description": "Los invitados recibirán un mensaje de texto con el link para registrarse. Los empleados obtendrán una nueva tarjeta con el diseño predeterminado de su organización.",
     "cards-page-organization-invite-members-via-link-description": "Comparta un enlace público a la organización, para que cualquiera pueda solicitar membresía.",

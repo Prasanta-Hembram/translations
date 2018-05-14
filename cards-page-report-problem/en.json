@@ -2,8 +2,6 @@
   "data": {
     "cards-page-report-problem-attach": "Screenshot",
     "cards-page-report-problem-describe": "Description",
-    "cards-page-report-problem-settings-main-title": "Settings",
-    "cards-page-report-problem-submit": "Submit",
     "cards-page-report-problem-placeholder": "Please provide a detailed description",
     "cards-page-report-problem-title": "Report an issue"
   }

@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-stack-search": "Поиск",
-    "cards-stack-card-mark": "Выбрать",
-    "cards-stack-title-cancel": "Отменить",
-    "cards-stack-title-done": "Готово"
+    "cards-stack-card-mark": "Выбрать"
   }
 }

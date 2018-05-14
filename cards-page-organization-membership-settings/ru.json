@@ -19,7 +19,6 @@
     "cards-page-organization-membership-settings-role-info-member": "Участник может просматривать релевантное содержание в организации. Чтобы что-то изменить, обратитесь к модератору или администратору.",
     "cards-page-organization-membership-settings-plan" : "План", 
     "cards-page-organization-membership-settings-plan-detail-info": "Преимущества: {points} {emoji} в месяц.",
-    "cards-page-organization-membership-settings-update-failure": "Невозможно обновить",
-    "cards-page-organization-membership-settings-update-user-submit": "Отправить"
+    "cards-page-organization-membership-settings-update-failure": "Невозможно обновить"
   }
 }

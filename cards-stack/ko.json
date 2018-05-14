@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-stack-search": "검색",
-    "cards-stack-card-mark": "고르기",
-    "cards-stack-title-cancel": "취소",
-    "cards-stack-title-done": "완료"
+    "cards-stack-card-mark": "고르기"
   }
 }

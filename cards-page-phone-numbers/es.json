@@ -1,7 +1,6 @@
 {
   "data": {   
     "cards-page-phone-numbers-added": "Numero(s) Añadido(s)",
-    "cards-page-phone-numbers-add-number": "añadir número",
     "cards-page-phone-numbers-delete-account": "Eliminar cuenta",
     "cards-page-phone-numbers-important": "Información Importante",
     "cards-page-phone-numbers-info": "Añada varios números para respaldar y sincronizar andCards en diferentes dispositivos. No hay otras alternativas para acceder a su cuenta. Asegúrese de poder recibir mensajes de texto con el código de acceso.",
@@ -9,7 +8,6 @@
     "cards-page-phone-numbers-info-modify": "Cambie números presionando ",
     "cards-page-phone-numbers-remove": "Borrar número telefónico",
     "cards-page-phone-numbers-no-data": "No hay números telefónicos ni internet",
-    "cards-page-phone-numbers-settings-main-title": "Ajustes",
     "cards-page-phone-numbers-title": "Número Telefónico"
   }
 }
