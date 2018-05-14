@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-confirmation-organization-leave-title": "Покинуть организацию",
-    "cards-alert-confirmation-organization-leave-text": "Вы действительно хотите покинуть эту организацию? Если вы продолжите, вы потеряете все данные, относящиеся к этой организации. Это действие необратимо.",
+    "cards-alert-confirmation-organization-leave-text": "Ты действительно хочешь покинуть эту организацию? Если ты продолжишь, ты потеряешь все данные, относящиеся к этой организации. Это действие необратимо.",
     "cards-alert-confirmation-organization-leave-yes": "Да, покинуть",
     "cards-alert-confirmation-organization-leave-no": "Отменить"
   }
