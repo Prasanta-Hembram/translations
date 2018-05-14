@@ -8,6 +8,6 @@
     "cards-notification-autoconnect-one": "{name} теперь есть в andCards! Полюбуйся новой карточкой.",
     "cards-notification-autoconnect-many": "Твои контакты оживают! Полистай полученные карточки.",
     "cards-notification-received-cards-updates-one": "Кстати, у {name} теперь новая контактная информация.",
-    "cards-notification-received-cards-updates-many": "{number} карточек обновились автоматически! Давайте их найдем!"
+    "cards-notification-received-cards-updates-many": "{number} карточек обновились автоматически! Посмотри прямо сейчас!"
   }
 }
