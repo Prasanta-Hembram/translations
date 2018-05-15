@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-confirmation-organization-leave-title": "Покинути організацію",
-    "cards-alert-confirmation-organization-leave-text": "Ви впевнені, що хочете покинути цю організацію? Якщо ви продовжите, ви втратите всі дані, пов'язані з цією організацією. Ця дія незворотна.",
+    "cards-alert-confirmation-organization-leave-text": "Ти впевнений(-а), що хочеш покинути цю організацію? Якщо ти продовжиш, ти втратиш усі дані, пов'язані з цією організацією. Ця дія незворотна.",
     "cards-alert-confirmation-organization-leave-yes": "Так, покинути",
     "cards-alert-confirmation-organization-leave-no": "Скасувати"
   }
