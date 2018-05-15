@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-alert-confirmation-organization-booking-delete-text": "Вы действительно хотите удалить это бронирование? Это действие необратимо.",
+    "cards-alert-confirmation-organization-booking-delete-text": "Ты действительно хочешь удалить это бронирование? Это действие необратимо.",
     "cards-alert-confirmation-organization-booking-delete-no": "Отменить",
     "cards-alert-confirmation-organization-booking-delete-title": "Удалить бронирование",
     "cards-alert-confirmation-organization-booking-delete-yes": "Да, удалить"
