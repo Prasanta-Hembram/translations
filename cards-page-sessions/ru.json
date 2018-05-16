@@ -1,10 +1,10 @@
 {
   "data": {
-    "cards-page-sessions-active-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
+    "cards-page-sessions-active-cannot-load": "Невозможно отобразить сеансы. Проверь соединение с интернетом.",
     "cards-page-sessions-active-empty": "Нет активных сеансов или интернета.",
     "cards-page-sessions-current": "Активные сеансы",
     "cards-page-sessions-current-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
-    "cards-page-sessions-description": "Список устройств, на которых вы вошли в Cards. Если вы не узнаете один из активных сеансов, нажмите ··· и удалите его.",
+    "cards-page-sessions-description": "Список устройств, на которых ты вошел(-ла) в Cards. Если ты не узнаеш один из активных сеансов, нажми ··· и удали его.",
     "cards-page-sessions-info": "О разделе",
     "cards-page-sessions-remove": "Удалить сеанс",
     "cards-page-sessions-title": "Активные сеансы"
