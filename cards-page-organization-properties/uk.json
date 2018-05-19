@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-properties-no-properties": "Ресурси відсутні.",
+    "cards-page-organization-properties-get-failure": "Couldn't show facilities. Are you sure there is an internet connection?",
+    "cards-page-organization-properties-no-properties": "There are no any available facilities yet. 😢",
     "cards-page-organization-properties-title": "Список ресурсів"
   }
 }

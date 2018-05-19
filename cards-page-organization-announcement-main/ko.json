@@ -3,9 +3,10 @@
     "cards-page-organization-announcement-main-action-sheet-delete": "삭제",
     "cards-page-organization-announcement-main-action-sheet-update": "편집",
     "cards-page-organization-announcement-main-date": "{createDate}, 변경일 : {updateDate}",
-    "cards-page-organization-announcement-main-delete-failure": "공지사항을 삭제하지 못했습니다.",
+    "cards-page-organization-announcement-main-delete-failure": "공지사항을 삭제하지 못했습니다. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "다시시도",
-    "cards-page-organization-announcement-main-empty": "공지사항 없음",
+    "cards-page-organization-announcement-main-empty": "This announcement may not exist or may have been removed. 😕",
+    "cards-page-organization-announcement-main-get-failure": "Couldn't show an announcement. Are you sure there is an internet connection?",
     "cards-page-organization-announcement-main-view": "공지사항 보기"
   }
 }

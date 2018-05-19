@@ -3,9 +3,10 @@
     "cards-page-organization-announcement-main-action-sheet-delete": "Eliminar",
     "cards-page-organization-announcement-main-action-sheet-update": "Editar",
     "cards-page-organization-announcement-main-date": "{createDate}, editado en {updateDate}",
-    "cards-page-organization-announcement-main-delete-failure": "Error al eliminar el anuncio",
+    "cards-page-organization-announcement-main-delete-failure": "Error al eliminar el anuncio. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Reintentar eliminar",
-    "cards-page-organization-announcement-main-empty": "No se encontraron anuncios.",
+    "cards-page-organization-announcement-main-empty": "This announcement may not exist or may have been removed. 😕",
+    "cards-page-organization-announcement-main-get-failure": "Couldn't show an announcement. Are you sure there is an internet connection?",
     "cards-page-organization-announcement-main-view": "Ver Anuncio"
   }
 }

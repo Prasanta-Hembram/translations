@@ -2,7 +2,7 @@
   "data": {
     "cards-page-received-cards-deleted-copied-to-clipboard": "Copied to clipboard",
     "cards-page-received-cards-deleted-notice": "Deleted cards stay here for 30 days. After that time, they are permanently deleted.",
-    "cards-page-received-cards-deleted-no-cards": "No deleted cards",
+    "cards-page-received-cards-deleted-no-cards": "There are no deleted cards. 🙂",
     "cards-page-received-cards-deleted-restore": "Restore",
     "cards-page-received-cards-deleted-title": "Deleted cards"
   }

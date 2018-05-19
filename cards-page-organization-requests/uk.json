@@ -3,7 +3,7 @@
     "cards-page-organization-requests-approve": "Затвердити",
     "cards-page-organization-requests-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-requests-decline": "Відмовити",
-    "cards-page-organization-requests-no-requests": "Немає запитів",
+    "cards-page-organization-requests-no-requests": "There no any requests yet. 😢",
     "cards-page-organization-requests-title": "Запити на приєднання"
   }
 }

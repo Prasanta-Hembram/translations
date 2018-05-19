@@ -1,15 +1,15 @@
 {
   "data": {
     "cards-page-organization-property-main-book-button": "Резервувати",
-    "cards-page-organization-property-main-booking-not-allowed": "Обрана дата недоступна для резервацій",
+    "cards-page-organization-property-main-booking-not-allowed": "Обрана дата недоступна для резервацій. 😕",
     "cards-page-organization-property-main-date": "Дата",
     "cards-page-organization-property-main-delete-button": "Видалити ресурс",
-    "cards-page-organization-property-main-delete-failure": "Не вдалося видалити ресурс",
+    "cards-page-organization-property-main-delete-failure": "Не вдалося видалити ресурс. 🙁",
     "cards-page-organization-property-main-delete-repeat": "Спробувати знову",
-    "cards-page-organization-property-main-error-not-found": "Перевірте з'єднання з інтернетом.",
+    "cards-page-organization-property-main-error-not-found": "Couldn't show a facility. Are you sure there is an internet connection?",
     "cards-page-organization-property-main-hour" : "год.",
     "cards-page-organization-property-main-my": "Моя резервація",
-    "cards-page-organization-property-main-no-property": "Немає доступних ресурсів.",
+    "cards-page-organization-property-main-no-property": "This facility may not exist or may have been removed. 😕",
     "cards-page-organization-property-main-seats": "місць",
     "cards-page-organization-property-main-edit-title": "Налаштувати ресурс"
   }

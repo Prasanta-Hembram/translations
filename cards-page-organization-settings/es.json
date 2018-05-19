@@ -9,6 +9,7 @@
     "cards-page-organization-settings-booking-until": "Hasta",
     "cards-page-organization-settings-billing-section-title": "Billing Settings",
     "cards-page-organization-settings-billing-system": "Enable Billing System",
+    "cards-page-organization-settings-card-get-failure": "Failed to get card design. 🙁",
     "cards-page-organization-settings-cover-photo": "Foto de Portada",
     "cards-page-organization-settings-default-design": "Diseño de Tarjeta de Empleado",
     "cards-page-organization-settings-edit-my-cards-design-default": "Predeterminado",
@@ -19,6 +20,7 @@
     "cards-page-organization-settings-name": "Nombre",
     "cards-page-organization-settings-point-label": "Enable Credit System",
     "cards-page-organization-settings-property-section-title": "Booking Settings",
+    "cards-page-organization-settings-repeat": "Try again",
     "cards-page-organization-settings-title": "Detalles de la organización"
   }
 }

@@ -2,7 +2,7 @@
   "data": {
     "cards-page-my-cards-live-cards-deleted-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-my-cards-live-cards-deleted-notice": "Las tarjetas eliminadas permanecen aquí durante 30 días. Después de ese tiempo, se eliminan de forma permanente.",
-    "cards-page-my-cards-live-cards-deleted-no-cards": "No hay tarjetas eliminadas",
+    "cards-page-my-cards-live-cards-deleted-empty": "There are no deleted cards. 🙂",
     "cards-page-my-cards-live-cards-deleted-restore": "Restaurar",
     "cards-page-my-cards-live-cards-deleted-title": "Tarjetas eliminadas"
   }
