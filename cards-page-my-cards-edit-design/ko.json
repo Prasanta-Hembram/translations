@@ -8,6 +8,7 @@
     "cards-page-my-cards-edit-design-empty": "없음",
     "cards-page-my-cards-edit-design-automapping-switch": "내 정보 자동입력",
     "cards-page-my-cards-edit-design-color-reset": "기본색상 돌아가기",
+    "cards-page-my-cards-edit-design-image-crop-no-image":"Couldn't load photo. Are you sure there is an internet connection?",
     "cards-page-my-cards-edit-design-photo-crop": "사진 자르기",
     "cards-page-my-cards-edit-design-photo-delete": "삭제하기",
     "cards-page-my-cards-edit-design-photo-delete-select": "선택하기",
@@ -20,6 +21,6 @@
     "cards-page-my-cards-edit-design-store-get-card-design": "받기",
     "cards-page-my-cards-edit-design-store-get-card-design-success": "다운로드가 완료되었습니다. 새 디자인을 적용해보세요.",
     "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "다운로드 실패. 나중에 다시 시도하세요.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "디자인이 없습니다. 인터넷 연결상태를 확인하시고 다시 시도하세요."
+    "cards-page-my-cards-edit-design-store-no-card-designs": "Couldn't get card designs. Are you sure there is an internet connection?"
   }
 }

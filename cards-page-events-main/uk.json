@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-events-main-no-events": "Немає подій",
+    "cards-page-events-main-events-get-failure": "Couldn't show events. Are you sure there is an internet connection?",
+    "cards-page-events-main-no-events": "There are no events yet. 😢",
     "cards-page-events-main-title": "Події та нетворкінг"
   }
 }
