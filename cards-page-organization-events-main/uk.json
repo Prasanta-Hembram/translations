@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-events-main-get-failure": "Couldn't show events. Are you sure there is an internet connection?",
-    "cards-page-organization-events-main-no-events": "There are no events yet. 😢"
+    "cards-page-organization-events-main-get-failure": "Подія не відображається. Перевір, чи все добре з інтернет-з'єднанням.",
+    "cards-page-organization-events-main-no-events": "Поки немає жодних подій. 😢"
   }
 }
