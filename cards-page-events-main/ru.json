@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-events-main-events-get-failure": "Couldn't show events. Are you sure there is an internet connection?",
-    "cards-page-events-main-no-events": "There are no events yet. 😢",
+    "cards-page-events-main-events-get-failure": "Событие не отображается. Проверь, все ли хорошо с интернет-соединением.",
+    "cards-page-events-main-no-events": "Событий пока нет 😢",
     "cards-page-events-main-title": "События и нетворкинг"
   }
 }
