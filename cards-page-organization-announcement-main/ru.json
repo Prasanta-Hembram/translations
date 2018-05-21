@@ -5,7 +5,7 @@
     "cards-page-organization-announcement-main-date": "{createDate}, ред. {updateDate}",
     "cards-page-organization-announcement-main-delete-failure": "Не удалось удалить объявление. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Попробовать еще раз",
-    "cards-page-organization-announcement-main-empty": "This announcement may not exist or may have been removed. 😕",
+    "cards-page-organization-announcement-main-empty": "Этот анонс не существует или же был удален. 😕",
     "cards-page-organization-announcement-main-get-failure": "Couldn't show an announcement. Are you sure there is an internet connection?",
     "cards-page-organization-announcement-main-view": "Просмотр объявления"
   }
