@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-events-main-get-failure": "Couldn't show events. Are you sure there is an internet connection?",
-    "cards-page-organization-events-main-no-events": "There are no events yet. 😢"
+    "cards-page-organization-events-main-get-failure": "행사를 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-organization-events-main-no-events": "행사가 아직 없습니다. 😢"
   }
 }
