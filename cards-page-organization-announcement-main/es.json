@@ -6,7 +6,6 @@
     "cards-page-organization-announcement-main-delete-failure": "Error al eliminar el anuncio. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Reintentar eliminar",
     "cards-page-organization-announcement-main-empty": "Este anuncio puede no existir o puede haber sido eliminado. 😕",
-    "cards-page-organization-announcement-main-get-failure": "No se pudo mostrar un anuncio. ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-announcement-main-view": "Ver Anuncio"
   }
 }
