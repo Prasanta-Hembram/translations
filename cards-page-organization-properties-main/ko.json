@@ -6,10 +6,10 @@
     "cards-page-organization-property-main-delete-button": "시설삭제",
     "cards-page-organization-property-main-delete-failure": "삭제불가. 🙁",
     "cards-page-organization-property-main-delete-repeat": "다시시도",
-    "cards-page-organization-property-main-error-not-found": "Couldn't show a facility. Are you sure there is an internet connection?",
+    "cards-page-organization-property-main-error-not-found": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-organization-property-main-hour" : "시간",
     "cards-page-organization-property-main-my": "나의 예약",
-    "cards-page-organization-property-main-no-property": "This facility may not exist or may have been removed. 😕",
+    "cards-page-organization-property-main-no-property": "이 시설은 존재하지 않거나 삭제되었을 수 있습니다. 😕",
     "cards-page-organization-property-main-seats": "좌석",
     "cards-page-organization-property-main-edit-title": "시설설정"
   }
