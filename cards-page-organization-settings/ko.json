@@ -9,7 +9,7 @@
     "cards-page-organization-settings-booking-until": "종료시간",
     "cards-page-organization-settings-billing-section-title": "결제 시스템",
     "cards-page-organization-settings-billing-system": "결제 기능",
-    "cards-page-organization-settings-card-get-failure": "Failed to get card design. 🙁",
+    "cards-page-organization-settings-card-get-failure": "카드 디자인을 가져오지 못 했습니다. 🙁",
     "cards-page-organization-settings-cover-photo": "커버 사진",
     "cards-page-organization-settings-default-design": "직원 카드",
     "cards-page-organization-settings-edit-my-cards-design-default": "기본",
@@ -20,7 +20,7 @@
     "cards-page-organization-settings-name": "이름",
     "cards-page-organization-settings-point-label": "크레딧 예약체계",
     "cards-page-organization-settings-property-section-title": "예약 시스템",
-    "cards-page-organization-settings-repeat": "Try again",
+    "cards-page-organization-settings-repeat": "다시 시도해 주세요",
     "cards-page-organization-settings-title": "조직 설정"
   }
 }
