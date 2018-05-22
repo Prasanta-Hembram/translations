@@ -6,7 +6,6 @@
     "cards-page-organization-announcement-main-delete-failure": "Не вдалося видалити оголошення. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Спробувати ще раз",
     "cards-page-organization-announcement-main-empty": " Це оголошення не існує або було видалено. 😕",
-    "cards-page-organization-announcement-main-get-failure": "Неможливо відобразити оголошення. Перевір, чи все добре з інтернет з'єднанням.",
     "cards-page-organization-announcement-main-view": "Перегляд оголошення"
   }
 }
