@@ -2,7 +2,7 @@
   "data": {
     "cards-page-my-cards-live-cards-deleted-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-my-cards-live-cards-deleted-notice": "삭제된 카드는 30일 동안 보관되고, 그 후에는 영구적으로 삭제됩니다.",
-    "cards-page-my-cards-live-cards-deleted-empty": "There are no deleted cards. 🙂",
+    "cards-page-my-cards-live-cards-deleted-empty": "삭제된 카드가 없습니다. 🙂",
     "cards-page-my-cards-live-cards-deleted-restore": "복원하기",
     "cards-page-my-cards-live-cards-deleted-title": "휴지통"
   } 
