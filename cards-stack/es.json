@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-stack-search": "Buscar",
-    "cards-stack-card-mark": "Seleccionar"
+    "cards-stack-card-mark": "Seleccionar",
+    "cards-stack-nothing-found": "Nada Encontrado. 😢",
+    "cards-stack-search": "Buscar"
   }
 }

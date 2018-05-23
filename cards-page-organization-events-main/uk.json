@@ -1,5 +1,6 @@
 {
   "data": {
-    "cards-page-organization-events-main-no-events": "Немає подій."
+    "cards-page-organization-events-main-get-failure": "Подія не відображається. Перевір, чи все добре з інтернет-з'єднанням.",
+    "cards-page-organization-events-main-no-events": "Поки немає жодних подій. 😢"
   }
 }

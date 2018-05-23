@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-events-main-no-events": "No hay eventos.",
+    "cards-page-events-main-events-get-failure": "No se pudieron mostrar los eventos. ¿Estás seguro de que hay una conexión a Internet?",
+    "cards-page-events-main-no-events": "No hay eventos aún. 😢",
     "cards-page-events-main-title": "Eventos y redes"
   }
 }

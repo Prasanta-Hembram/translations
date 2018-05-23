@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-event-everyone-main-copied-to-clipboard": "Скопійовано в буфер обміну",
-    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "Обмін картками пройшов успішно.",
     "cards-page-event-everyone-main-card-more": "Більше опцій",
-    "cards-page-event-everyone-main-no-event": "Не вдалося завантажити деталі події. Перевірте з'єднання з інтернетом та спробуйте ще раз.",
-    "cards-page-event-everyone-main-nothing-found": "Нічого не знайдено",
+    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "Картка додана успішно!",
+    "cards-page-event-everyone-main-no-cards-in-event": "До цієї події ще ніхто не доєднався. 😢",
+    "cards-page-event-everyone-main-no-event": "Ця подія не існує або була видалена. 😕",
     "cards-page-event-everyone-main-title": "Усі"
   }
 }
