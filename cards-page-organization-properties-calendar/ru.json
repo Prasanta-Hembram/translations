@@ -1,9 +1,9 @@
 {
   "data": {
-      "cards-page-organization-properties-calendar-date": "Date",
-      "cards-page-organization-properties-calendar-get-failure": "Couldn't show facilities. Are you sure there is an internet connection?",
-      "cards-page-organization-properties-calendar-my": "My",
-      "cards-page-organization-properties-calendar-no-properties": "There are no any available facilities yet. 😢",
-      "cards-page-organization-properties-calendar-title": "Calendar"
+      "cards-page-organization-properties-calendar-date": "Дата",
+      "cards-page-organization-properties-calendar-get-failure": "Комнаты не отображаются. Проверь, все ли хорошо с интернет-соединением.",
+      "cards-page-organization-properties-calendar-my": "Мое",
+      "cards-page-organization-properties-calendar-no-properties": "Пока нет доступных комнат. 😢",
+      "cards-page-organization-properties-calendar-title": "Календарь"
   }
 }
