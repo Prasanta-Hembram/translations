@@ -1,9 +1,9 @@
 {
   "data": {
-      "cards-page-organization-properties-calendar-date": "Date",
-      "cards-page-organization-properties-calendar-get-failure": "Couldn't show facilities. Are you sure there is an internet connection?",
-      "cards-page-organization-properties-calendar-my": "My",
-      "cards-page-organization-properties-calendar-no-properties": "There are no any available facilities yet. 😢",
-      "cards-page-organization-properties-calendar-title": "Calendar"
+      "cards-page-organization-properties-calendar-date": "Fecha",
+      "cards-page-organization-properties-calendar-get-failure": "No se pudieron mostrar las instalaciones. ¿Estás seguro de que hay una conexión a Internet?",
+      "cards-page-organization-properties-calendar-my": "Mi",
+      "cards-page-organization-properties-calendar-no-properties": "No hay instalaciones disponibles todavía. 😢",
+      "cards-page-organization-properties-calendar-title": "Calendario"
   }
 }
