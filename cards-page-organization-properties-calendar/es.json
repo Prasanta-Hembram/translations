@@ -2,7 +2,7 @@
   "data": {
       "cards-page-organization-properties-calendar-date": "Fecha",
       "cards-page-organization-properties-calendar-get-failure": "No se pudieron mostrar las instalaciones. ¿Estás seguro de que hay una conexión a Internet?",
-      "cards-page-organization-properties-calendar-my": "Mi",
+      "cards-page-organization-properties-calendar-my": "Mi reserva",
       "cards-page-organization-properties-calendar-no-properties": "No hay instalaciones disponibles todavía. 😢",
       "cards-page-organization-properties-calendar-title": "Calendario"
   }
