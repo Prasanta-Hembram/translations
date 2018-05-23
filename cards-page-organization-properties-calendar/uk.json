@@ -1,0 +1,9 @@
+{
+  "data": {
+      "cards-page-organization-properties-calendar-date": "Дата",
+      "cards-page-organization-properties-calendar-get-failure": "Кімнати не відображаються. Перевір, чи все добре з інтернет-з'єднанням",
+      "cards-page-organization-properties-calendar-my": "Моя резервація",
+      "cards-page-organization-properties-calendar-no-properties": "Поки немає доступних кімнат. 😢",
+      "cards-page-organization-properties-calendar-title": "Календар"
+  }
+}

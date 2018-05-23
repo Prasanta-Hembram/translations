@@ -9,6 +9,7 @@
     "cards-page-organization-booking-details-empty": "이 예약은 존재하지 않거나 삭제되었을 수 있습니다. 😕",
     "cards-page-organization-booking-details-end-time": "종료",
     "cards-page-organization-booking-details-fetch-failure": "예약을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-organization-booking-details-lock-code": "비밀번호",
     "cards-page-organization-booking-details-price" : "총 요금",
     "cards-page-organization-booking-details-purpose": "목적",
     "cards-page-organization-booking-details-share-link-title": "예약 링크",

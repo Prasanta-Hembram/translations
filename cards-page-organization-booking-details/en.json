@@ -9,6 +9,7 @@
     "cards-page-organization-booking-details-empty": "This booking may not exist or may have been removed. 😕",
     "cards-page-organization-booking-details-end-time": "Ending",
     "cards-page-organization-booking-details-fetch-failure": "Couldn't show booking. Are you sure there is an internet connection?",
+    "cards-page-organization-booking-details-lock-code": "Lock code",
     "cards-page-organization-booking-details-price" : "Total",
     "cards-page-organization-booking-details-purpose": "Purpose",
     "cards-page-organization-booking-details-share-link-title": "Link to booking",
