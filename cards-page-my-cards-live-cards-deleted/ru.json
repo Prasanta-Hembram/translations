@@ -2,7 +2,7 @@
   "data": {
     "cards-page-my-cards-live-cards-deleted-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-my-cards-live-cards-deleted-notice": "Удаленные карточки остаются здесь на протяжении 30 дней. После этого они удаляются навсегда.",
-    "cards-page-my-cards-live-cards-deleted-no-cards": "Нет удаленных карточек.",
+    "cards-page-my-cards-live-cards-deleted-empty": "Удаленных карточек нет. 🙂",
     "cards-page-my-cards-live-cards-deleted-restore": "Восстановить",
     "cards-page-my-cards-live-cards-deleted-title": "Удаленные карточки"
   }

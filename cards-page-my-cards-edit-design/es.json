@@ -8,6 +8,7 @@
     "cards-page-my-cards-edit-design-empty": "Campo vacío",
     "cards-page-my-cards-edit-design-automapping-switch": "Hacer auto-map de mis datos",
     "cards-page-my-cards-edit-design-color-reset": "Reestablecer color predeterminado",
+    "cards-page-my-cards-edit-design-image-crop-no-image":"No se pudo cargar la foto ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-my-cards-edit-design-photo-crop": "Cortar foto",
     "cards-page-my-cards-edit-design-photo-delete": "Eliminar",
     "cards-page-my-cards-edit-design-photo-delete-select": "Seleccionar",
@@ -20,6 +21,6 @@
     "cards-page-my-cards-edit-design-store-get-card-design": "Conseguir",
     "cards-page-my-cards-edit-design-store-get-card-design-success": "¡Bien hecho! Edite su tarjeta para aplicar este diseño.",
     "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "No se puede descarga el diseño. Intentelo nuevamente más tarde.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "No hay diseños de tarjeta. Verifique su conexión a internet."
+    "cards-page-my-cards-edit-design-store-no-card-designs": "No se pudieron obtener diseños de tarjeta. ¿Estás seguro de que hay una conexión a Internet?"
   }
 }

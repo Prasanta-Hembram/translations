@@ -5,13 +5,13 @@
     "cards-page-organization-guild-main-card-share-action-sheet": "Додати до контактів",
     "cards-page-organization-guild-main-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-guild-main-delete": "Видалити гільдію",
-    "cards-page-organization-guild-main-delete-failure": "Не вдалося видалити гільдію",
+    "cards-page-organization-guild-main-delete-failure": "Не вдалося видалити гільдію. 🙁",
     "cards-page-organization-guild-main-delete-repeat": "Спробувати знову",
     "cards-page-organization-guild-main-delete-user-action-sheet": "Видалити учасника",
     "cards-page-organization-guild-main-membership-settings-action-sheet": "Керувати участю",
     "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Картка додана успішно!",
-    "cards-page-organization-guild-main-no-cards": "Тут поки що нікого немає.",
-    "cards-page-organization-guild-main-not-found-error": "Гільдію не знайдено",
+    "cards-page-organization-guild-main-no-cards": "Тут зовсім самотньо. 😕",
+    "cards-page-organization-guild-main-not-found-error": "Ця гільдія не існує або ж була видалена. 😕",
     "cards-page-organization-guild-main-settings": "Налаштувати гільдію"
   }
 }

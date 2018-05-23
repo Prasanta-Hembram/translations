@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-event-everyone-main-copied-to-clipboard": "클립보드로 복사되었습니다",
-    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "카드가 성공적으로 추가되었습니다.",
     "cards-page-event-everyone-main-card-more": "다양한 옵션들",
-    "cards-page-event-everyone-main-no-event": "행사정보를 가져올 수 없습니다. 인터넷 연결을 확인하고 다시 시도하십시오.",
-    "cards-page-event-everyone-main-nothing-found": "행사를 찾을 수 없습니다",
+    "cards-page-event-everyone-main-my-cards-share-exchange-successful": "카드가 성공적으로 추가되었습니다.",
+    "cards-page-event-everyone-main-no-cards-in-event": "이 이벤트에는 아직 카드가 없습니다. 😢",
+    "cards-page-event-everyone-main-no-event": "이 이벤트는 존재하지 않습니다. 😕",
     "cards-page-event-everyone-main-title": "모든 참가자들"
   }
 }

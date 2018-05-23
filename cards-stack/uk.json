@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-stack-search": "Пошук",
-    "cards-stack-card-mark": "Обрати"
+    "cards-stack-card-mark": "Обрати",
+    "cards-stack-nothing-found": "Нічого не знайдено. 😢",
+    "cards-stack-search": "Пошук"
   }
 }

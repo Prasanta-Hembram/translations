@@ -8,6 +8,7 @@
     "cards-page-my-cards-edit-design-empty": "Без данных",
     "cards-page-my-cards-edit-design-automapping-switch": "Показывать автоматически",
     "cards-page-my-cards-edit-design-color-reset": "Цвет по умолчанию",
+    "cards-page-my-cards-edit-design-image-crop-no-image": "Невозможно загрузить фото. Проверь, все ли хорошо с интернет-соединением.",
     "cards-page-my-cards-edit-design-photo-crop": "Кадрировать фото",
     "cards-page-my-cards-edit-design-photo-delete": "Удалить",
     "cards-page-my-cards-edit-design-photo-delete-select": "Выбрать",
@@ -20,6 +21,6 @@
     "cards-page-my-cards-edit-design-store-get-card-design": "Получить",
     "cards-page-my-cards-edit-design-store-get-card-design-success": "Готово! Редактируйте карточку, чтобы применить этот дизайн.",
     "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "Невозможно загрузить дизайн. Попробуйте еще раз.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "Нет доступных дизайнов. Проверьте соединение с интернетом."
+    "cards-page-my-cards-edit-design-store-no-card-designs": "Невозможно загрузить дизайн карточки. Проверь, все ли хорошо с интернет-соединением."
   }
 }
