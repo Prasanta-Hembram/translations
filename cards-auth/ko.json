@@ -4,6 +4,8 @@
     "cards-auth-change-number": "휴대폰번호 변경",
     "cards-auth-code": "인증번호",
     "cards-auth-country": "국가",
+    "cards-auth-country-selector-title": "국가 선택",
+    "cards-auth-country-selector-type-here": "국가 검색하기",
     "cards-auth-agree-to-policies": "본인은 만 14세 이상이며, 앤카즈 {termsOfUse}, {cookiePolicy} 그리고 {privacyPolicy}의 수집, 이용 및 제공에 대한 내용을 확인하였으며, 동의합니다.",
     "cards-auth-link-terms-of-use": "이용약관",
     "cards-auth-link-privacy-policy": "개인정보",

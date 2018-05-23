@@ -4,6 +4,8 @@
     "cards-auth-change-number": "Back to number",
     "cards-auth-code": "Code",
     "cards-auth-country": "Country",
+    "cards-auth-country-selector-title": "Choose country",
+    "cards-auth-country-selector-type-here": "Type to search",
     "cards-auth-agree-to-policies": "By proceeding I verify that I am at least 14 years old, and consent to be bound by Cards {termsOfUse}, {privacyPolicy} and {cookiePolicy} policies. I may withdraw this consent at any time in Settings.",
     "cards-auth-link-terms-of-use": "Terms of Use",
     "cards-auth-link-privacy-policy": "Privacy",

@@ -4,6 +4,8 @@
     "cards-auth-change-number": "Назад до номеру",
     "cards-auth-code": "Код",
     "cards-auth-country": "Країна",
+    "cards-auth-country-selector-title": "Вибір країни",
+    "cards-auth-country-selector-type-here": "Шукати країну",
     "cards-auth-agree-to-policies": "Я підтверджую, що мені не менше 14 років, і я погоджуюсь з {termsOfUse}, політиками {privacyPolicy} та {cookiePolicy}. Погодження можна абиколи відкликати в Налаштуваннях.",
     "cards-auth-link-terms-of-use": "умовами надання послуг",
     "cards-auth-link-privacy-policy": "приватності",
