@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-property-edit-description": "Опис",
-    "cards-page-organization-property-edit-description-placeholder": "Уведіть опис ресурсу (не обов'язково)",
+    "cards-page-organization-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "cards-page-organization-property-edit-min-time": "Мін. час",
     "cards-page-organization-property-edit-min-time-15-min": "15 хвилин",
     "cards-page-organization-property-edit-min-time-30-min": "30 хвилин",
@@ -12,6 +12,6 @@
     "cards-page-organization-property-edit-name": "Назва",
     "cards-page-organization-property-edit-number-of-seats": "Кількість місць",
     "cards-page-organization-property-edit-price-points": "Ціна (кредити)",
-    "cards-page-organization-property-edit-title": "Редагування ресурсу"
+    "cards-page-organization-property-edit-title": "Редагування кімнати"
   }
 }
