@@ -9,6 +9,7 @@
     "cards-page-organization-booking-details-empty": "Это бронирование не существует или же было удалено. 😕",
     "cards-page-organization-booking-details-end-time": "Конец",
     "cards-page-organization-booking-details-fetch-failure": "Невозможно отобразить бронирование. Проверь, все ли хорошо с интернет-соединением.",
+    "cards-page-organization-booking-details-lock-code": "Код доступа",
     "cards-page-organization-booking-details-price" : "Всего",
     "cards-page-organization-booking-details-purpose": "Цель",
     "cards-page-organization-booking-details-share-link-title": "Ссылка на бронирование",
