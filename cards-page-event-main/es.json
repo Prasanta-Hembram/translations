@@ -4,14 +4,15 @@
     "cards-page-event-main-card-more": "Más opciones",
     "cards-page-event-main-card-share-action-sheet": "Añadir contactos",
     "cards-page-event-main-copied-to-clipboard": "Copiado al portapapeles",
-    "cards-page-event-main-event-registration-not-started": "El evento no ha empezado aún.",
+    "cards-page-event-main-event-registration-not-started": "El registro del evento aún no ha comenzado.",
     "cards-page-event-main-event-registration-ended": "El periodo de registro para el evento finalizó.",
     "cards-page-event-main-everyone": "Todos",
     "cards-page-event-main-exchange-successful": "Intercambio de tarjetas exitoso.",
+    "cards-page-event-main-get-failure": "No se pudo mostrar el evento. ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-event-main-details-join-title": "Unirse al evento",
+    "cards-page-event-main-details-view-more-about-event": "Más sobre el evento",
     "cards-page-event-main-join-event-description": "No se ha unido a este evento aún ¡Empecemos!",
-    "cards-page-event-main-no-event-details": "No se pudieron obtener los detalles del evento. Verifique la conexión a Internet y vuelva a intentarlo.",
-    "cards-page-event-main-nothing-found": "Nada Encontrado",
+    "cards-page-event-main-no-event-details": "Este evento puede no existir o puede haber sido eliminado. 😕",
     "cards-page-event-main-search": "Buscar {numberOfPeople} personas",
     "cards-page-event-main-share-action-sheet":"Añadir contactos"
   }

@@ -5,13 +5,13 @@
     "cards-page-organization-guild-main-card-share-action-sheet": "Добавить в контакты",
     "cards-page-organization-guild-main-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-guild-main-delete": "Удалить гильдию",
-    "cards-page-organization-guild-main-delete-failure": "Не удалось удалить гильдию",
+    "cards-page-organization-guild-main-delete-failure": "Не удалось удалить гильдию. 🙁",
     "cards-page-organization-guild-main-delete-repeat": "Попробовать снова",
     "cards-page-organization-guild-main-delete-user-action-sheet": "Удалить участника",
     "cards-page-organization-guild-main-membership-settings-action-sheet": "Настроить профиль",
     "cards-page-organization-guild-main-my-cards-share-exchange-successful": "Обмен карточками успешно состоялся.",
-    "cards-page-organization-guild-main-no-cards": "Здесь совсем одиноко.",
-    "cards-page-organization-guild-main-not-found-error": "Гильдия не найдена",
+    "cards-page-organization-guild-main-no-cards": "Здесь совсем одиноко. 😕",
+    "cards-page-organization-guild-main-not-found-error": "Эта гильдия не существует или же была удалена. 😕",
     "cards-page-organization-guild-main-settings": "Настроить гильдию"
   }
 }

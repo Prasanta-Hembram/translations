@@ -3,7 +3,7 @@
     "cards-page-organization-requests-approve": "Aprobar",
     "cards-page-organization-requests-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-requests-decline": "Rechazar",
-    "cards-page-organization-requests-no-requests": "Sin solicitudes",
+    "cards-page-organization-requests-no-requests": "No hay ninguna solicitud todavía. 😢",
     "cards-page-organization-requests-title": "Unirse a las solicitudes"
   }
 }
