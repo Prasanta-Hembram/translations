@@ -8,10 +8,10 @@
     "cards-page-event-main-event-registration-ended": "Регистрация на событие уже закончилось",
     "cards-page-event-main-everyone": "Все участники",
     "cards-page-event-main-exchange-successful": "Карточка добавлена успешно!",
-    "cards-page-event-main-get-failure": "Событые не отображается. Проверь, все ли хорошо с интернет-соединением",
+    "cards-page-event-main-get-failure": "Событые не отображается. Проверьте, все ли хорошо с интернет-соединением",
     "cards-page-event-main-details-join-title": "Присоединиться к событию",
     "cards-page-event-main-details-view-more-about-event": "Больше информации о событии",
-    "cards-page-event-main-join-event-description": "Ты еще не присоединился(-лась) к этому событию. Поехали!",
+    "cards-page-event-main-join-event-description": "Вы еще не присоединились к этому событию. Поехали!",
     "cards-page-event-main-no-event-details": "Это событие не существует или же было удалено. 😕",
     "cards-page-event-main-search": "Поиск по {numberOfPeople} участникам",
     "cards-page-event-main-share-action-sheet":"Добавить в контакты"

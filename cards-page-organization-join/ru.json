@@ -1,14 +1,14 @@
 {
   "data": {
-    "cards-page-organization-join-as-community-text": "{organizationTitle} пригласили тебя к участию в сообществе.",
-    "cards-page-organization-join-as-employee-text": "{organizationTitle} пригласили тебя в качестве сотрудника.",
+    "cards-page-organization-join-as-community-text": "{organizationTitle} пригласили вас к участию в сообществе.",
+    "cards-page-organization-join-as-employee-text": "{organizationTitle} пригласили вас в качестве сотрудника.",
     "cards-page-organization-join-card-preview": "Предпросмотр карточки",
     "cards-page-organization-join-card-select-to-join": "Выбрать карточку",
     "cards-page-organization-join-cards-edit-fields-shared-basic-information": "Основная информация",
     "cards-page-organization-join-cards-edit-fields-shared-emails-information": "Электропочта",
     "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "Номера телефонов",
     "cards-page-organization-join-error-invitation-not-valid": "Это приглашение недействительно.",
-    "cards-page-organization-join-error-already-joined": "Ты уже присоединился(-лась) к этой организации.",
+    "cards-page-organization-join-error-already-joined": "Вы уже присоединились к этой организации.",
     "cards-page-organization-join-required-information": "Обязательная информация",
     "cards-page-organization-join-title": "Присоединиться к {organizationTitle}"
   }
