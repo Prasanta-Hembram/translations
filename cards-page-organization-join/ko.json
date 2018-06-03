@@ -1,9 +1,7 @@
 {
   "data": {
     "cards-page-organization-join-as-community-text": "{organizationTitle}에서 회원으로 초대했습니다.",
-    "cards-page-organization-join-as-employee-text": "{organizationTitle}에서 직원으로 초대했습니다.",
     "cards-page-organization-join-card-preview": "카드 미리보기",
-    "cards-page-organization-join-card-select-to-join":  "카드 선택하기",
     "cards-page-organization-join-cards-edit-fields-shared-basic-information": "기본정보",
     "cards-page-organization-join-cards-edit-fields-shared-emails-information": "이메일",
     "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "연락처",

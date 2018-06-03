@@ -1,17 +1,15 @@
 {
   "data": {
+    "cards-page-organization-guild-main-action-delete": "길드 삭제",
+    "cards-page-organization-guild-main-action-settings": "길드 설정",
     "cards-page-organization-guild-main-add": "회원 추가하기",
     "cards-page-organization-guild-main-card-more": "기타 기능",
-    "cards-page-organization-guild-main-card-share-action-sheet": "연락처에 추가",
     "cards-page-organization-guild-main-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
-    "cards-page-organization-guild-main-delete": "길드 삭제",
     "cards-page-organization-guild-main-delete-failure": "길드 삭제 불가. 🙁",
     "cards-page-organization-guild-main-delete-repeat": "다시 시도",
     "cards-page-organization-guild-main-delete-user-action-sheet": "사용자 삭제",
     "cards-page-organization-guild-main-membership-settings-action-sheet": "회원설정",
-    "cards-page-organization-guild-main-my-cards-share-exchange-successful": "카드가 성공적으로 추가되었습니다.",
     "cards-page-organization-guild-main-no-cards": "길드에는 아직 카드가 없습니다. 😕",
-    "cards-page-organization-guild-main-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕",
-    "cards-page-organization-guild-main-settings": "길드 설정"
+    "cards-page-organization-guild-main-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕"
   }
 }

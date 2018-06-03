@@ -2,19 +2,10 @@
   "data": {
     "cards-page-my-cards-edit-fields-edit-title": "Редактирование данных",
     "cards-page-my-cards-edit-fields-create-title": "Создать карточку",
-    "cards-page-my-cards-edit-fields-autoconnect-notice": "Эта карточка автоматически синхронизируется с пользователями andCards, у которых есть ваш номер телефона и чей номер есть в вашем списке контактов.",
     "cards-page-my-cards-edit-fields-shared-basic-information": "Основная информация",
     "cards-page-my-cards-edit-fields-shared-phone-numbers-information": "Номера телефонов",
     "cards-page-my-cards-edit-fields-shared-emails-information": "Электропочта",
     "cards-page-my-cards-edit-fields-shared-social-information": "Социальные сервисы",
-    "cards-page-my-cards-edit-fields-shared-notes": "Публичные заметки",
-    "cards-page-my-cards-edit-fields-private-notes": "Личные заметки",
-    "cards-page-my-cards-edit-fields-public": "Публичная",
-    "cards-page-my-cards-edit-fields-public-link": "Ссылка",
-    "cards-page-my-cards-edit-fields-public-embed-code": "Код для сайта",
-    "cards-page-my-cards-edit-fields-privacy-settings": "Приватность",
-    "cards-page-my-cards-edit-fields-autoconnect": "Автоконнект",
-    "cards-page-my-cards-edit-fields-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-my-cards-edit-fields-error-action": "Перезагрузить",
     "cards-page-my-cards-edit-fields-error-text": "Невозможно отобразить страницу из-за проблем с интернетом или сервером."
   }

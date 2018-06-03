@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-organization-guilds-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
+    "cards-page-organization-guilds-create-guild": "추가",
+    "cards-page-organization-guilds-delete-user-action-sheet": "회원삭제",
+    "cards-page-organization-guilds-error-not-found": "인터넷이 없습니다.",
+    "cards-page-organization-guilds-everyone-title": "전체회원",
+    "cards-page-organization-guilds-membership-settings": "나의 멤버십",
+    "cards-page-organization-guilds-membership-settings-action-sheet" : "나의 멤버십",
+    "cards-page-organization-guilds-card-more": "기타기능",
+    "cards-page-organization-guilds-stack-search": "{numberOfPeople}명 중 검색하기",
+    "cards-page-organization-guilds-settings": "조직 설정"
+  }
+}

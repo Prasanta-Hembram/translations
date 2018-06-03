@@ -9,18 +9,11 @@
     "cards-page-organization-settings-booking-until": "До",
     "cards-page-organization-settings-billing-section-title": "Розрахунки",
     "cards-page-organization-settings-billing-system": "Платіжна система",
-    "cards-page-organization-settings-card-get-failure": "Не вдалось отримати дизайн картки. 🙁",
     "cards-page-organization-settings-cover-photo": "Фото обгортки",
-    "cards-page-organization-settings-default-design": "Дизайн картки співробітника",
-    "cards-page-organization-settings-edit-my-cards-design-default": "За замовчанням",
-    "cards-page-organization-settings-edit-design-color-reset": "Колір за замовчанням",
-    "cards-page-organization-settings-edit-design-font-field": "Шрифт даних",
-    "cards-page-organization-settings-edit-design-font-name": "Шрифт імені",
     "cards-page-organization-settings-error-no-internet-description": "Перевірте з'єднання з інтернетом.",
     "cards-page-organization-settings-name": "Назва",
     "cards-page-organization-settings-point-label": "Кредитна система для резервацій",
     "cards-page-organization-settings-property-section-title": "Система резервації",
-    "cards-page-organization-settings-repeat": "Спробуй ще раз",
     "cards-page-organization-settings-title": "Деталі організації"
   }
 }

@@ -1,9 +1,9 @@
 {
   "data": {
+    "cards-page-organization-booking-details-action-delete": "삭제",
     "cards-page-organization-booking-details-balance-text" : "현재 잔액 : {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "예약자",
     "cards-page-organization-booking-details-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
-    "cards-page-organization-booking-details-delete": "예약삭제",
     "cards-page-organization-booking-details-delete-failure": "예약 삭제 실패. 🙁",
     "cards-page-organization-booking-details-delete-repeat": "다시 시도해 주세요",
     "cards-page-organization-booking-details-empty": "이 예약은 존재하지 않거나 삭제되었을 수 있습니다. 😕",

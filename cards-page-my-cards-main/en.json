@@ -1,16 +1,9 @@
 {
   "data": {
     "cards-page-my-cards-main-action-create": "Create card",
-    "cards-page-my-cards-main-action-delete-card": "Delete",
     "cards-page-my-cards-main-action-edit-card": "Edit data",
     "cards-page-my-cards-main-action-edit-design": "Edit design", 
-    "cards-page-my-cards-main-action-set-main-card": "Set as default",
-    "cards-page-my-cards-main-action-share": "Share",
-    "cards-page-my-cards-main-action-view-deleted-title": "View deleted cards",
-    "cards-page-my-cards-main-announcements": "Unread Announcements",
-    "cards-page-my-cards-main-bookings": "Upcoming Bookings",
     "cards-page-my-cards-main-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-my-cards-main-events": "Upcoming Events",
     "cards-page-my-cards-main-no-cards": "You don't have any cards yet.",
     "cards-page-my-cards-main-more": "More options",
     "cards-page-my-cards-main-section-title": "My Cards",

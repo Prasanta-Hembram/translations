@@ -1,14 +1,8 @@
 {
   "data": {
-    "cards-page-organization-alert-invitation-failure": "초대장을 보내지 못했습니다.",
-    "cards-page-organization-alert-invitation-success": "초대장이 전송되었습니다.",
     "cards-page-organization-invite-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
-    "cards-page-organization-invite-design": "직원으로 초대하기",
-    "cards-page-organization-invite-employees-title": "직원초대",
-    "cards-page-organization-invite-employees-via-sms-description": "직원 초대는 SMS를 통해서 조직에 초대하세요. 초대받은 직원은 별도로 브랜딩된 카드가 주어집니다.",
     "cards-page-organization-invite-members-via-link-description": "일반 사용자는 아래의 링크를 통해서 조직에 초대하세요.",
     "cards-page-organization-invite-members-title": "회원초대",
-    "cards-page-organization-invite-placeholder": "예){countryCode}",
     "cards-page-organization-invite-title": "{organizationTitle}에 초대하기"
   }
 }

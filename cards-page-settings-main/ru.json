@@ -1,10 +1,13 @@
 {
   "data": {
     "cards-page-settings-main-account": "Учетная запись",
+    "cards-page-settings-main-cards": "Моя карточка",
     "cards-page-settings-main-cookies-policy-title": "Политика куки-файлов",
     "cards-page-settings-main-help-title": "Помощь",
     "cards-page-settings-main-interface": "Интерфейс",
     "cards-page-settings-main-licenses-title": "Лицензии",
+    "cards-page-settings-main-organization": "Коворкинг",
+    "cards-page-settings-main-organization-back-to-my-coworkings": "Вернутся к моим коворкингам",
     "cards-page-settings-main-phone-numbers-title": "Телефон",
     "cards-page-settings-main-privacy-policy-title": "Конфиденциальность",
     "cards-page-settings-main-report-problem-title": "Сообщить о проблеме",

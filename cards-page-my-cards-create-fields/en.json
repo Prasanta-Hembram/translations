@@ -1,18 +1,9 @@
 {
   "data": {
     "cards-page-my-cards-create-fields-title": "Create card",
-    "cards-page-my-cards-create-fields-autoconnect-notice": "This card will be automatically synchronized with andCards users who already had your phone number in their contacts, and whose phone number you already had in your contacts.",
     "cards-page-my-cards-create-fields-shared-basic-information": "Basic Information",
     "cards-page-my-cards-create-fields-shared-phone-numbers-information": "Phone Numbers",
     "cards-page-my-cards-create-fields-shared-emails-information": "Email Addresses",
-    "cards-page-my-cards-create-fields-shared-social-information": "Social Accounts",
-    "cards-page-my-cards-create-fields-shared-notes": "Notes for everyone",
-    "cards-page-my-cards-create-fields-private-notes": "Notes for me only",
-    "cards-page-my-cards-create-fields-public": "Public",
-    "cards-page-my-cards-create-fields-public-link": "Public link",
-    "cards-page-my-cards-create-fields-public-embed-code": "Embed code",
-    "cards-page-my-cards-create-fields-privacy-settings": "Privacy Settings",
-    "cards-page-my-cards-create-fields-autoconnect": "Auto-connect",
-    "cards-page-my-cards-create-fields-copied-to-clipboard": "Copied to clipboard"
+    "cards-page-my-cards-create-fields-shared-social-information": "Social Accounts"
   }
 }

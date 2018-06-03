@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-organization-guilds-copied-to-clipboard": "Скопійовано в буфер обміну.",
+    "cards-page-organization-guilds-create-guild": "Створити гільдію",
+    "cards-page-organization-guilds-delete-user-action-sheet": "Видалити учасника",
+    "cards-page-organization-guilds-error-not-found": "Перевірте з'єднання з інтернетом.",
+    "cards-page-organization-guilds-everyone-title": "Усі учасники",
+    "cards-page-organization-guilds-membership-settings": "Переглянути мій профіль",
+    "cards-page-organization-guilds-membership-settings-action-sheet" : "Переглянути профіль",
+    "cards-page-organization-guilds-card-more": "Інші функції",
+    "cards-page-organization-guilds-stack-search": "Пошук за {numberOfPeople} учасниками",
+    "cards-page-organization-guilds-settings": "Відкрити деталі коворкінгу"
+  }
+}

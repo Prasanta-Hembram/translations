@@ -2,19 +2,10 @@
   "data": {
     "cards-page-my-cards-edit-fields-edit-title": "Editing data",
     "cards-page-my-cards-edit-fields-create-title": "Create card",
-    "cards-page-my-cards-edit-fields-autoconnect-notice": "This card will be automatically synchronized with andCards users who already had your phone number in their contacts, and whose phone number you already had in your contacts.",
     "cards-page-my-cards-edit-fields-shared-basic-information": "Basic Information",
     "cards-page-my-cards-edit-fields-shared-phone-numbers-information": "Phone Numbers",
     "cards-page-my-cards-edit-fields-shared-emails-information": "Email Addresses",
     "cards-page-my-cards-edit-fields-shared-social-information": "Social Accounts",
-    "cards-page-my-cards-edit-fields-shared-notes": "Notes for everyone",
-    "cards-page-my-cards-edit-fields-private-notes": "Notes for me only",
-    "cards-page-my-cards-edit-fields-public": "Public",
-    "cards-page-my-cards-edit-fields-public-link": "Public link",
-    "cards-page-my-cards-edit-fields-public-embed-code": "Embed code",
-    "cards-page-my-cards-edit-fields-privacy-settings": "Privacy Settings",
-    "cards-page-my-cards-edit-fields-autoconnect": "Auto-connect",
-    "cards-page-my-cards-edit-fields-copied-to-clipboard": "Copied to clipboard",
     "cards-page-my-cards-edit-fields-error-action": "Reload",
     "cards-page-my-cards-edit-fields-error-text": "Could not load page because of internet or server issue. Please try again."
   }

@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-announcements-list-empty": "Немає оголошень.",
+    "cards-page-organization-announcements-fetch-failure": "Сповіщення не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "cards-page-organization-announcements-list-empty": "Тут поки нічого немає. 😢",
     "cards-page-organization-announcements-list-title": "Оголошення"
   }
 }

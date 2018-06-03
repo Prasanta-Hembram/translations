@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-announcements-list-empty": "No announcements.",
-    "cards-page-organization-announcements-list-title": "Announcements"
+    "cards-page-organization-announcements-fetch-failure": "Couldn't show notices. Are you sure there is an internet connection?",
+    "cards-page-organization-announcements-list-empty": "There's nothing here yet. 😢",
+    "cards-page-organization-announcements-list-title": "Notices"
   }
 }

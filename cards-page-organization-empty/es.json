@@ -1,7 +1,6 @@
 {
   "data": {
-    "cards-page-organization-empty-text":
-      "Usted no es miembro de esta organización. 😟",
+    "cards-page-organization-empty-text": "Usted no es un miembro de este espacio de trabajo. 😟",
     "cards-page-organization-empty-action-button": "Solicitud de ingreso"
   }
 }

@@ -1,18 +1,9 @@
 {
   "data": {
     "cards-page-my-cards-create-fields-title": "Crear tarjeta",
-    "cards-page-my-cards-create-fields-autoconnect-notice": "Esta tarjeta será sincronizada automáticamente con usuarios de andCards que ya tengan su número telefónico en sus contactos, y cuyos números telefónicos usted ya tenga en sus contactos.",
     "cards-page-my-cards-create-fields-shared-basic-information": "Información Básica",
     "cards-page-my-cards-create-fields-shared-phone-numbers-information": "Números Telefónicos",
     "cards-page-my-cards-create-fields-shared-emails-information": "Direcciones de Correo Electrónico",
-    "cards-page-my-cards-create-fields-shared-social-information": "Cuentas en Redes Sociales",
-    "cards-page-my-cards-create-fields-shared-notes": "Notas para todos",
-    "cards-page-my-cards-create-fields-private-notes": "Notas exclusivas para mi",
-    "cards-page-my-cards-create-fields-public": "Público",
-    "cards-page-my-cards-create-fields-public-link": "Link público",
-    "cards-page-my-cards-create-fields-public-embed-code": "Código integrado",
-    "cards-page-my-cards-create-fields-privacy-settings": "Congifuraciones de Privacidad",
-    "cards-page-my-cards-create-fields-autoconnect": "Conexión automática",
-    "cards-page-my-cards-create-fields-copied-to-clipboard": "Copiado al portapapeles"
+    "cards-page-my-cards-create-fields-shared-social-information": "Cuentas en Redes Sociales"
   }
 }

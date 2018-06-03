@@ -1,15 +1,15 @@
 {
   "data": {
+    "cards-page-organization-property-main-action-edit-title": "Editar",
     "cards-page-organization-property-main-book-button": "Reservar",
     "cards-page-organization-property-main-booking-not-allowed": "No puedes reservar para este día. 😕",
     "cards-page-organization-property-main-date": "Fecha",
-    "cards-page-organization-property-main-delete-failure": "Error al eliminar el recurso. 🙁",
+    "cards-page-organization-property-main-delete-failure": "Error al eliminar la habitación. 🙁",
     "cards-page-organization-property-main-delete-repeat": "Reintentar eliminar",
-    "cards-page-organization-property-main-error-not-found": "No se pudo mostrar una instalación. ¿Estás seguro de que hay una conexión a Internet?",
+    "cards-page-organization-property-main-error-not-found": "No se pudo mostrar una habitación ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-property-main-hour" : "hora",
     "cards-page-organization-property-main-my": "Mi reserva",
-    "cards-page-organization-property-main-no-property": "Esta instalación puede no existir o puede haber sido eliminada.😕",
-    "cards-page-organization-property-main-seats": "asientos",
-    "cards-page-organization-property-main-edit-title": "Editar recurso"
+    "cards-page-organization-property-main-no-property": "Esta sala puede no existir o puede haber sido eliminada. 😕",
+    "cards-page-organization-property-main-seats": "asientos"
   }
 }

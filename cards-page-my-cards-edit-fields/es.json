@@ -2,19 +2,10 @@
   "data": {
     "cards-page-my-cards-edit-fields-edit-title": "Editar información",
     "cards-page-my-cards-edit-fields-create-title": "Crear tarjeta",
-    "cards-page-my-cards-edit-fields-autoconnect-notice": "Esta tarjeta será sincronizada automáticamente con usuarios de andCards que ya tengan su número telefónico en sus contactos, y cuyos números telefónicos usted ya tenga en sus contactos.",
     "cards-page-my-cards-edit-fields-shared-basic-information": "Información Básica",
     "cards-page-my-cards-edit-fields-shared-phone-numbers-information": "Números Telefónicos",
     "cards-page-my-cards-edit-fields-shared-emails-information": "Direcciones de Correo Electrónico",
     "cards-page-my-cards-edit-fields-shared-social-information": "Cuentas en Redes Sociales",
-    "cards-page-my-cards-edit-fields-shared-notes": "Notas para todos",
-    "cards-page-my-cards-edit-fields-private-notes": "Notas exclusivas para mi",
-    "cards-page-my-cards-edit-fields-public": "Público",
-    "cards-page-my-cards-edit-fields-public-link": "Link público",
-    "cards-page-my-cards-edit-fields-public-embed-code": "Código integrado",
-    "cards-page-my-cards-edit-fields-privacy-settings": "Congifuraciones de Privacidad",
-    "cards-page-my-cards-edit-fields-autoconnect": "Conexión automática",
-    "cards-page-my-cards-edit-fields-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-my-cards-edit-fields-error-action": "Recargar",
     "cards-page-my-cards-edit-fields-error-text": "La página no pudo ser cargada por problemas de internet o del servidor. Por favor inténtelo nuevamente."
   }

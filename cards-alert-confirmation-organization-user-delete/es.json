@@ -1,7 +1,7 @@
 {
   "data":{
     "cards-alert-confirmation-organization-user-delete-no": "Cancelar",
-    "cards-alert-confirmation-organization-user-delete-text": "¿Seguro que quieres eliminar a este usuario de la organización? Esta acción es irreversible.",
+    "cards-alert-confirmation-organization-user-delete-text": "¿Seguro que quieres eliminar a este usuario del espacio de trabajo? Esta acción es irreversible.",
     "cards-alert-confirmation-organization-user-delete-title": "Eliminar usuario",
     "cards-alert-confirmation-organization-user-delete-yes": "Sí, eliminar"
   }

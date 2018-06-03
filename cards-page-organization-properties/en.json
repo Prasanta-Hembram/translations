@@ -1,7 +1,8 @@
 {
   "data": {
-    "cards-page-organization-properties-get-failure": "Couldn't show facilities. Are you sure there is an internet connection?",
-    "cards-page-organization-properties-no-properties": "There are no any available facilities yet. 😢",
-    "cards-page-organization-properties-title": "Facilities"
+    "cards-page-organization-properties-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
+    "cards-page-organization-properties-no-properties": "There are no any available rooms yet. 😢",
+    "cards-page-organization-properties-calendar-button-title": "Calendar",
+    "cards-page-organization-properties-title": "Rooms"
   }
 }

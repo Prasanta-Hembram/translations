@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-property-main-action-edit-title": "시설설정",
     "cards-page-organization-property-main-book-button": "예약",
     "cards-page-organization-property-main-booking-not-allowed": "이 날짜에 예약 할 수 없습니다. 😕",
     "cards-page-organization-property-main-date": "날짜",
@@ -9,7 +10,6 @@
     "cards-page-organization-property-main-hour" : "시간",
     "cards-page-organization-property-main-my": "나의 예약",
     "cards-page-organization-property-main-no-property": "이 시설은 존재하지 않거나 삭제되었을 수 있습니다. 😕",
-    "cards-page-organization-property-main-seats": "좌석",
-    "cards-page-organization-property-main-edit-title": "시설설정"
+    "cards-page-organization-property-main-seats": "좌석"
   }
 }

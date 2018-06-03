@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-auth-welcome-header": "Welcome",
     "cards-auth-change-number": "Back to number",
     "cards-auth-code": "Code",
     "cards-auth-country": "Country",
@@ -13,6 +12,7 @@
     "cards-auth-next-step": "Agree and continue",
     "cards-auth-number": "Number",
     "cards-auth-type-phone-number-here": "Type number",
-    "cards-auth-type-sms-code-here": "Type SMS code"
+    "cards-auth-type-sms-code-here": "Type SMS code",
+    "cards-auth-welcome-header": "Welcome"
   }
 }

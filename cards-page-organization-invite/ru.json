@@ -1,14 +1,8 @@
 {
   "data": {
-    "cards-page-organization-alert-invitation-failure": "Не удалось отправить приглашение",
-    "cards-page-organization-alert-invitation-success": "Приглашение успешно отправлено",
     "cards-page-organization-invite-copied-to-clipboard": "Скопировано в буфер обмена",
-    "cards-page-organization-invite-design": "Пригласить как работника",
-    "cards-page-organization-invite-employees-title": "Пригласить работников",
-    "cards-page-organization-invite-employees-via-sms-description": "Отправьте персональное приглашение по СМС. Работники получат новую карточку с дизайном организации по умолчанию.",
-    "cards-page-organization-invite-members-via-link-description": "Поделитесь публичной ссылкой на организацию, чтобы позволить любому человеку подать запрос на членство.",
+    "cards-page-organization-invite-members-via-link-description": "Поделитесь публичной ссылкой на коворкинг, чтобы у каждого была возможность подать запрос на членство.",
     "cards-page-organization-invite-members-title": "Пригласить участников",
-    "cards-page-organization-invite-placeholder": "напр. {countryCode}",
     "cards-page-organization-invite-title": "Пригласить в {organizationTitle}"
   }
 }

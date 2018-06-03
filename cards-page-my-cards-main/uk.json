@@ -1,16 +1,9 @@
 {
   "data": {
     "cards-page-my-cards-main-action-create": "Створити картку",
-    "cards-page-my-cards-main-action-delete-card": "Видалити",
     "cards-page-my-cards-main-action-edit-card": "Редагувати дані",
     "cards-page-my-cards-main-action-edit-design": "Редагувати дизайн",
-    "cards-page-my-cards-main-action-set-main-card": "Зробити головною",
-    "cards-page-my-cards-main-action-share": "Поділитися",
-    "cards-page-my-cards-main-action-view-deleted-title": "Переглянути видалені картки",
-    "cards-page-my-cards-main-announcements": "Непрочитані оголошення",
-    "cards-page-my-cards-main-bookings": "Наступна резервація",
     "cards-page-my-cards-main-copied-to-clipboard": "Скопійовано в буфер обміну.",
-    "cards-page-my-cards-main-events": "Наступна подія",
     "cards-page-my-cards-main-no-cards": "Ви ще не створили жодної картки.",
     "cards-page-my-cards-main-more": "Інші функції",
     "cards-page-my-cards-main-section-title": "Мої картки",

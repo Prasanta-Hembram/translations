@@ -2,19 +2,10 @@
   "data": {
     "cards-page-my-cards-edit-fields-edit-title": "Редагування даних",
     "cards-page-my-cards-edit-fields-create-title": "Створити картку",
-    "cards-page-my-cards-edit-fields-autoconnect-notice": "Цю картку буде автоматично синхронізувано з тими користувачами andCards, які вже мали ваш номер телефону в своїх контактах, і чий номер ви також вже мали у власному списку контактів.",
     "cards-page-my-cards-edit-fields-shared-basic-information": "Загальна інформація",
     "cards-page-my-cards-edit-fields-shared-phone-numbers-information": "Номери телефонів",
     "cards-page-my-cards-edit-fields-shared-emails-information": "Електронна пошта",
     "cards-page-my-cards-edit-fields-shared-social-information": "Соціальні записи",
-    "cards-page-my-cards-edit-fields-shared-notes": "Нотатки для всіх",
-    "cards-page-my-cards-edit-fields-private-notes": "Нотатки для мене",
-    "cards-page-my-cards-edit-fields-public": "Публічна",
-    "cards-page-my-cards-edit-fields-public-link": "Посилання",
-    "cards-page-my-cards-edit-fields-public-embed-code": "Код для сайту",
-    "cards-page-my-cards-edit-fields-privacy-settings": "Приватність",
-    "cards-page-my-cards-edit-fields-autoconnect": "Автоконект",
-    "cards-page-my-cards-edit-fields-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-my-cards-edit-fields-error-action": "Перезавантажити",
     "cards-page-my-cards-edit-fields-error-text": "Неможливо завантажити сторінку через проблеми з інтернетом чи сервером. Спробуйте ще раз."
   }

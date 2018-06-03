@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-auth-welcome-header": "Вітаємо",
     "cards-auth-change-number": "Назад до номеру",
     "cards-auth-code": "Код",
     "cards-auth-country": "Країна",
@@ -13,6 +12,7 @@
     "cards-auth-next-step": "Погодитись та продовжити",
     "cards-auth-number": "Номер",
     "cards-auth-type-phone-number-here": "Введіть номер",
-    "cards-auth-type-sms-code-here": "Введіть СМС пароль"
+    "cards-auth-type-sms-code-here": "Введіть СМС пароль",
+    "cards-auth-welcome-header": "Вітаємо"
   }
 }

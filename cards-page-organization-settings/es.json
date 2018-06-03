@@ -9,18 +9,11 @@
     "cards-page-organization-settings-booking-until": "Hasta",
     "cards-page-organization-settings-billing-section-title": "Configuración de facturación",
     "cards-page-organization-settings-billing-system": "Habilitar el sistema de facturación",
-    "cards-page-organization-settings-card-get-failure": "Error al obtener el diseño de la tarjeta. 🙁",
     "cards-page-organization-settings-cover-photo": "Foto de Portada",
-    "cards-page-organization-settings-default-design": "Diseño de Tarjeta de Empleado",
-    "cards-page-organization-settings-edit-my-cards-design-default": "Predeterminado",
-    "cards-page-organization-settings-edit-design-color-reset": "Reestablecer color predeterminado",
-    "cards-page-organization-settings-edit-design-font-field": "Fuente del Campo",
-    "cards-page-organization-settings-edit-design-font-name": "Fuente del Nombre",
     "cards-page-organization-settings-error-no-internet-description": "No hay internet.",
     "cards-page-organization-settings-name": "Nombre",
     "cards-page-organization-settings-point-label": "Habilitar sistema de crédito",
     "cards-page-organization-settings-property-section-title": "Configuración de reserva",
-    "cards-page-organization-settings-repeat": "Inténtalo de nuevo",
     "cards-page-organization-settings-title": "Detalles de la organización"
   }
 }
