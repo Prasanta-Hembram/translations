@@ -1,12 +1,12 @@
 {
   "data": {
-    "marketing-marketplace-coworking-description": "Empower your community: people directory, events, notifications, polls and other features",
-    "marketing-marketplace-coworking-title": "andCards — Empower your community",
-    "marketing-marketplace-coworking-location": "Location",
-    "marketing-marketplace-coworking-offers": "Offers",
-    "marketing-marketplace-coworking-service-hot-desk": "Hot desk",
-    "marketing-marketplace-coworking-service-fixed-desk": "Fixed desk",
-    "marketing-marketplace-coworking-service-meeting-room": "Meeting room",
-    "marketing-marketplace-coworking-service-office": "Office"
+    "marketing-marketplace-coworking-description": "{coworkingTitle} : 코워킹 스페이스 이용 안내 및 온라인 예약",
+    "marketing-marketplace-coworking-title": "{coworkingTitle} 이용 안내 : {coworkingTitle} 사진, {coworkingTitle} 가격, {coworkingTitle} 멤버십, {coworkingTitle} 온라인 예약",
+    "marketing-marketplace-coworking-location": "장소",
+    "marketing-marketplace-coworking-offers": "이용 안내",
+    "marketing-marketplace-coworking-service-hot-desk": "핫 데스크",
+    "marketing-marketplace-coworking-service-fixed-desk": "전용 데스크",
+    "marketing-marketplace-coworking-service-meeting-room": "회의실",
+    "marketing-marketplace-coworking-service-office": "사무실"
   }
 }
