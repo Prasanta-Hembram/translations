@@ -1,14 +1,14 @@
 {
   "data": {
     "marketing-marketplace-description": "Empower your community: people directory, events, notifications, polls and other features",
-    "marketing-marketplace-title": "andCards — Empower your community",
-    "marketing-marketplace-search-placeholder": "Search by Address or Space",
-    "marketing-marketplace-section-find-coworking-you-will-love": "Find workplace you'll love",
-    "marketing-marketplace-section-explore-coworkings": "Explore coworkings",
-    "marketing-marketplace-service-hot-desk": "Hot desk",
-    "marketing-marketplace-service-fixed-desk": "Fixed desk",
-    "marketing-marketplace-service-meeting-room": "Meeting Room",
-    "marketing-marketplace-service-office": "Office",
+    "marketing-marketplace-title": "andCards(앤카즈)",
+    "marketing-marketplace-search-placeholder": "주소나 이름으로 검색하기",
+    "marketing-marketplace-section-find-coworking-you-will-love": "사랑하는 공간 잧아보세요",
+    "marketing-marketplace-section-explore-coworkings": "코워킹 스페이스 탐사",
+    "marketing-marketplace-service-hot-desk": "핫 데스크",
+    "marketing-marketplace-service-fixed-desk": "전용 데스크",
+    "marketing-marketplace-service-meeting-room": "회의실",
+    "marketing-marketplace-service-office": "사무실",
     "marketing-marketplace-work-anywhere": "Work anywhere"
   }
 }
