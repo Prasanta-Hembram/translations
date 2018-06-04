@@ -6,6 +6,7 @@
     "cards-page-organization-membership-settings-balance-description": "Доступно только в {organizationName}. Срок годности: 1 месяц.",
     "cards-page-organization-membership-settings-billing-day": "День оплаты",
     "cards-page-organization-membership-settings-billing-day-description": "Каждый месяц в этот день вы будете получать кредиты",
+    "cards-page-organization-membership-settings-delete-user-action-sheet": "Удалить участника",
     "cards-page-organization-membership-settings-title": "Настройки участия",
     "cards-page-organization-membership-settings-leave-failure": "Не удалось покинуть коворкинг. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Покинуть коворкинг",

@@ -6,6 +6,7 @@
     "cards-page-organization-membership-settings-balance-description": "Доступно лише в {organizationName}. Термін придатності: 30 днів.",
     "cards-page-organization-membership-settings-billing-day": "День оплати",
     "cards-page-organization-membership-settings-billing-day-description": "Кредити нараховуються щомісячно в цей день",
+    "cards-page-organization-membership-settings-delete-user-action-sheet": "Видалити учасника",
     "cards-page-organization-membership-settings-title": "Налаштування участі",
     "cards-page-organization-membership-settings-leave-failure": "Не вдалося покинути коворкінг. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Покинути коворкінг",
