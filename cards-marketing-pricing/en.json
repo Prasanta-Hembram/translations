@@ -1,34 +1,27 @@
 {
   "data": {
-    "marketing-pricing-advanced-features-affordable": "Advanced features — affordable. The time you save — priceless.",
-    "marketing-pricing-basic-features-free": "Basic features — free.",
-    "marketing-pricing-boost-engagement-title": "Boost Engagement",
-    "marketing-pricing-build-network-title": "Build Network",
+    "marketing-pricing-basic-features": "Basic features.",
+    "marketing-pricing-basic-features-announcements-with-push-notifications": "Announcements with push notifications",
+    "marketing-pricing-basic-features-community-directory-and-search": "Community directory and search",
+    "marketing-pricing-basic-features-credit-based-booking": "Credit-based room booking",
+    "marketing-pricing-basic-features-internal-booking-system": "Internal booking system",
+    "marketing-pricing-basic-features-public-profile-at": "Public profile at {andcardsUrl}",
+    "marketing-pricing-basic-price": "$20 per meeting room",
     "marketing-pricing-description": "Free download for individual users, low cost and affordable for coworkings. Request andCards demo version.",
-    "marketing-pricing-feature-1-description": "Boost Space Utilization",
-    "marketing-pricing-feature-2-description": "Improve Security with IoT",
-    "marketing-pricing-feature-3-description": "Gather Useful Statistics",
-    "marketing-pricing-feature-4-description": "Earn More",
-    "marketing-pricing-help-title": "Help them use your space",
-    "marketing-pricing-help-description": "Make the most out of your coworking space",
-    "marketing-pricing-highlight-main-description": "Everything you need to grow a strong community",
-    "marketing-pricing-highlight-main-title": "Make them love your place",
-    "marketing-pricing-increase-retention-title": "Increase Retention",
-    "marketing-pricing-learn-audience-title": "Learn Your Audience",
-    "marketing-pricing-1-label": "People Directory",
-    "marketing-pricing-1-description": "Unlimited number of members",
-    "marketing-pricing-2-label": "Guilds",
-    "marketing-pricing-2-description": "5 free, each extra ₩7,000 per month",
-    "marketing-pricing-3-label": "Announcements",
-    "marketing-pricing-3-description": "Unlimited targeting, push notifications",
-    "marketing-pricing-4-label": "Events",
-    "marketing-pricing-4-description": "Unlimited private or public events",
-    "marketing-pricing-5-label": "Booking System",
-    "marketing-pricing-5-description": "₩30,000 per facility per month",
-    "marketing-pricing-6-label": "IoT Booking System",
-    "marketing-pricing-6-description": "₩40,000 per facility per month",
+    "marketing-pricing-headline": "Get your own coworking space app",
+    "marketing-pricing-notice": "All prices are indicative and subject to applicable taxes in your country. Please contact us for an exact estimate."
+    "marketing-pricing-pro-price": "10% of transaction",
+    "marketing-pricing-pro-features": "Advanced features",
+    "marketing-pricing-pro-features-external-booking-system": "External booking system",
+    "marketing-pricing-pro-features-recurring-membership": "Recurring membership subscriptions",
     "marketing-pricing-request-demo": "Request demo",
+    "marketing-pricing-subheadline": "Manage everything — from membership to space.",
     "marketing-pricing-target-better-title": "Target Better",
-    "marketing-pricing-title": "Pricing — price plans for coworking spaces | andCards"
+    "marketing-pricing-title": "Pricing — price plans for coworking spaces | andCards" 
+
+
+  
+    
+    
   }
 }
