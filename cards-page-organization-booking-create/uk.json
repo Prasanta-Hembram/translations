@@ -4,6 +4,7 @@
     "cards-page-organization-booking-create-balance-admin-text": "{permission} може бронювати кімнату безкоштовно.",
     "cards-page-organization-booking-create-card": "Ваша картка",
     "cards-page-organization-booking-create-end-time": "Кінець",
+    "cards-page-organization-booking-create-full-day-description": "Minimum booking period is 1 day.",
     "cards-page-organization-booking-create-notice": "Вашу картку буде долучено до резервації. Переконайтесь, що вона містить актуальну інформацію.",
     "cards-page-organization-booking-create-role-admin": "Адміністратор",
     "cards-page-organization-booking-create-role-moderator": "Модератор",

@@ -4,6 +4,7 @@
     "cards-page-organization-booking-create-balance-admin-text": "Como {permission} puedes reservar habitación gratis.",
     "cards-page-organization-booking-create-card": "Su tarjeta",
     "cards-page-organization-booking-create-end-time": "Finalización",
+    "cards-page-organization-booking-create-full-day-description": "Minimum booking period is 1 day.",
     "cards-page-organization-booking-create-notice": "Su tarjeta se adjuntará a esta reserva. Asegúrese de que su información esté actualizada.",
     "cards-page-organization-booking-create-role-admin": "Administrador",
     "cards-page-organization-booking-create-role-moderator": "Moderador",
