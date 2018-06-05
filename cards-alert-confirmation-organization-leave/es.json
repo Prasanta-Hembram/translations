@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-confirmation-organization-leave-title": "Salir de la organización",
-    "cards-alert-confirmation-organization-leave-text": "¿Está seguro que desea dejar esta organización? Si continúa, perderá todos los datos relacionados con esta organización. Esta acción es irreversible.",
+    "cards-alert-confirmation-organization-leave-text": "¿Está seguro que desea dejar esta espacio de trabajo? Si continúa, perderá todos los datos relacionados con esta organización. Esta acción es irreversible.",
     "cards-alert-confirmation-organization-leave-yes": "Si, salir",
     "cards-alert-confirmation-organization-leave-no": "Cancelar"
   }
