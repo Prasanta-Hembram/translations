@@ -3,6 +3,10 @@
     "cards-page-organization-request-create-alert-submit-success": "Ваш запрос отправлен",
     "cards-page-organization-request-create-address": "Адрес",
     "cards-page-organization-request-create-cards-section": "Выберите карточку",
+    "cards-page-organization-request-create-card-preview": "Предосмотр карточки",
+    "cards-page-organization-request-create-fields-shared-basic-information": "Базовая информация",
+    "cards-page-organization-request-create-fields-shared-emails-information": "Электронная почта",
+    "cards-page-organization-request-create-fields-shared-phone-numbers-information": "Номер телефона",
     "cards-page-organization-request-create-title": "Запрос на присоединение"
   }
 }
