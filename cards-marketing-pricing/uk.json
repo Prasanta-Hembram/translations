@@ -3,12 +3,12 @@
 
     "marketing-pricing-basic-features": "Базові функції.",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Push сповіщення",
-    "marketing-pricing-basic-features-community-directory-and-search": "Пошук ы сортування участників за гільдіями",
+    "marketing-pricing-basic-features-community-directory-and-search": "Пошук та сортування участників за гільдіями",
     "marketing-pricing-basic-features-credit-based-booking": "Кредитна система для резервації кімнат",
     "marketing-pricing-basic-features-internal-booking-system": "Внутрішня система резервації",
-    "marketing-pricing-basic-features-public-profile-at": "Публічний профайл на {andcardsUrl}",
+    "marketing-pricing-basic-features-public-profile-at": "Публічний профіль на {andcardsUrl}",
     "marketing-pricing-basic-price": "$20 за 1 кімнату для переговорів",
-    "marketing-pricing-description": "Безкоштовно для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз з безкоштовною пробною версією!",
+    "marketing-pricing-description": "Безкоштовно для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз із безкоштовною пробною версією!",
     "marketing-pricing-headline": "Отримайте свій власний додаток для коворкінгу!",
     "marketing-pricing-notice": "Усі ціни є орієнтовними і підлягають оподаткуванню в вашій країні. Будь ласка, сконтактуйтесь з нами для уточнення ціни.",
     "marketing-pricing-pro-price": "10% від транзакції",
@@ -16,7 +16,7 @@
     "marketing-pricing-pro-features-external-booking-system": "Зовнішня система резервації",
     "marketing-pricing-pro-features-recurring-membership": "Система оплати підписок на коворкінг через додаток",
     "marketing-pricing-request-demo": "Запросити демо",
-    "marketing-pricing-subheadline": "Автоматизуй все в коворкінгу — починаючи з членства резидентів, завершуючи оптимізацією простору.",
+    "marketing-pricing-subheadline": "Автоматизуйте все в коворкінгу — починаючи з членства резидентів, завершуючи оптимізацією простору.",
     "marketing-pricing-title": "Ціни — тарифні плани для коворкінгів та компаній | andCardss" 
   }
 }
