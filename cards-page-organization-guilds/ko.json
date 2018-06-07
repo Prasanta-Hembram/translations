@@ -7,7 +7,6 @@
     "cards-page-organization-guilds-membership-settings": "나의 멤버십",
     "cards-page-organization-guilds-membership-settings-action-sheet" : "나의 멤버십",
     "cards-page-organization-guilds-card-more": "기타기능",
-    "cards-page-organization-guilds-stack-search": "{numberOfPeople}명 중 검색하기",
-    "cards-page-organization-guilds-settings": "조직 설정"
+    "cards-page-organization-guilds-stack-search": "{numberOfPeople}명 중 검색하기"
   }
 }
