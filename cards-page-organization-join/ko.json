@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-join-button-open-organization": "Open",
     "cards-page-organization-join-button-request": "Request to join",
-    "cards-page-organization-empty-action-button-requested": "Requested",
+    "cards-page-organization-join-action-button-requested": "Requested",
     "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
     "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
     "cards-page-organization-join-nothing-found": "Nothing found. 😢",
