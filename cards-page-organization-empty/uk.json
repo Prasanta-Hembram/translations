@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-empty-text": "Ви не є учасником цього коворкінгу. 😟",
-    "cards-page-organization-empty-action-button": "Приєднатись"
+    "cards-page-organization-empty-alert-submit-success": "Your request was sent",
+    "cards-page-organization-empty-action-button": "Приєднатись",
+    "cards-page-organization-empty-action-button-requested": "Requested"
   }
 }

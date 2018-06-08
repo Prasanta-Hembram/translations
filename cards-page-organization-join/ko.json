@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-as-community-text": "{organizationTitle}에서 회원으로 초대했습니다.",
-    "cards-page-organization-join-card-preview": "카드 미리보기",
-    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "기본정보",
-    "cards-page-organization-join-cards-edit-fields-shared-emails-information": "이메일",
-    "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "연락처",
-    "cards-page-organization-join-error-invitation-not-valid": "유효하지 않은 초대장입니다.",
-    "cards-page-organization-join-error-already-joined": "이미 가입한 조직입니다.",
-    "cards-page-organization-join-required-information": "필수정보",
-    "cards-page-organization-join-title": "{organizationTitle} 가입하기"
+    "cards-page-organization-join-button-open-organization": "Open",
+    "cards-page-organization-join-button-request": "Request to join",
+    "cards-page-organization-empty-action-button-requested": "Requested",
+    "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
+    "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
+    "cards-page-organization-join-nothing-found": "Nothing found. 😢",
+    "cards-page-organization-join-stack-button-search": "Search",
+    "cards-page-organization-join-stack-search-placeholder": "workspace tag",
+    "cards-page-organization-join-title": "Join Workspace"
   }
 }

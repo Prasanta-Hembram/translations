@@ -1,7 +1,8 @@
 {
   "data": {
+    "cards-page-my-coworkings-button-search": "Search",
     "cards-page-my-coworkings-get-failure": "Коворкинги не отображаются. Проверьте, все ли хорошо с интернет соединением.",
-    "cards-page-my-coworkings-no-coworkings": "Вы пока не присоединились ни к одному коворкингу. 😢",
+    "cards-page-my-coworkings-no-coworkings": "You haven't joined any workspaces yet. 😢",
     "cards-page-my-coworkings-main-title": "Мои коворкинги"
   }
 }

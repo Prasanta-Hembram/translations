@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-as-community-text": "{organizationTitle} пригласили вас к участию в сообществе.",
-    "cards-page-organization-join-card-preview": "Предпросмотр карточки",
-    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "Основная информация",
-    "cards-page-organization-join-cards-edit-fields-shared-emails-information": "Электропочта",
-    "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "Номера телефонов",
-    "cards-page-organization-join-error-invitation-not-valid": "Это приглашение недействительно.",
-    "cards-page-organization-join-error-already-joined": "Вы уже присоединились к этому коворкингу.",
-    "cards-page-organization-join-required-information": "Обязательная информация",
-    "cards-page-organization-join-title": "Присоединиться к {organizationTitle}"
+    "cards-page-organization-join-button-open-organization": "Open",
+    "cards-page-organization-join-button-request": "Request to join",
+    "cards-page-organization-empty-action-button-requested": "Requested",
+    "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
+    "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
+    "cards-page-organization-join-nothing-found": "Nothing found. 😢",
+    "cards-page-organization-join-stack-button-search": "Search",
+    "cards-page-organization-join-stack-search-placeholder": "workspace tag",
+    "cards-page-organization-join-title": "Join Workspace"
   }
 }

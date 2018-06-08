@@ -1,13 +1,13 @@
 {
-  "data": {   
-    "cards-page-organization-join-as-community-text":  "{organizationTitle} le invita a unirse a su comunidad",
-    "cards-page-organization-join-card-preview": "Vista Previa De La Tarjeta",
-    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "Información Básica",
-    "cards-page-organization-join-cards-edit-fields-shared-emails-information": "Números Telefónicos",
-    "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "Números Telefónicos",
-    "cards-page-organization-join-error-invitation-not-valid":  "Esta invitación no es valida",
-    "cards-page-organization-join-error-already-joined": "Ya se ha unido al área de trabajo",
-    "cards-page-organization-join-required-information": "Información Requerida",
-    "cards-page-organization-join-title":  "Unirse a {organizationTitle}"
+  "data": {
+    "cards-page-organization-join-button-open-organization": "Open",
+    "cards-page-organization-join-button-request": "Request to join",
+    "cards-page-organization-empty-action-button-requested": "Requested",
+    "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
+    "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
+    "cards-page-organization-join-nothing-found": "Nothing found. 😢",
+    "cards-page-organization-join-stack-button-search": "Search",
+    "cards-page-organization-join-stack-search-placeholder": "workspace tag",
+    "cards-page-organization-join-title": "Join Workspace"
   }
 }

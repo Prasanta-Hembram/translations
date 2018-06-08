@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-empty-text": "Вы не являетесь участником этого коворкинга. 😟",
-    "cards-page-organization-empty-action-button": "Вступить"
+    "cards-page-organization-empty-alert-submit-success": "Your request was sent",
+    "cards-page-organization-empty-action-button": "Вступить",
+    "cards-page-organization-empty-action-button-requested": "Requested"
   }
 }

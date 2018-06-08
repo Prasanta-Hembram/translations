@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-empty-text": "You are not a member of this workspace. 😟",
-    "cards-page-organization-empty-action-button": "Request to join"
+    "cards-page-organization-empty-alert-submit-success": "Your request was sent",
+    "cards-page-organization-empty-action-button": "Request to join",
+    "cards-page-organization-empty-action-button-requested": "Requested"
   }
 }
