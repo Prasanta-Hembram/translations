@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-organization-settings-address": "Адреса",
     "cards-page-organization-settings-booking-from": "Від",
     "cards-page-organization-settings-booking-period": "Період доступності",
     "cards-page-organization-settings-booking-period-one-month": "1 місяць",
@@ -10,14 +9,9 @@
     "cards-page-organization-settings-booking-until": "До",
     "cards-page-organization-settings-billing-section-title": "Розрахунки",
     "cards-page-organization-settings-billing-system": "Платіжна система",
-    "cards-page-organization-settings-copied-to-clipboard": "Скопійовано в буфер обміну.",
-    "cards-page-organization-settings-cover-photo": "Фото обгортки",
-    "cards-page-organization-settings-error-no-internet-description": "Перевірте з'єднання з інтернетом.",
-    "cards-page-organization-settings-members-title": "Запросити учасників",
-    "cards-page-organization-settings-members-via-link-description": "Поділіться публічним посиланням на коворкінг, щоб дозволити будь-кому подати заявку на участь.",
-    "cards-page-organization-settings-name": "Назва",
+    "cards-page-organization-settings-permission-denied": "На жаль, у вас немає доступу. ",
     "cards-page-organization-settings-point-label": "Кредитна система для резервацій",
     "cards-page-organization-settings-property-section-title": "Система резервації",
-    "cards-page-organization-settings-title": "Деталі організації"
+    "cards-page-organization-settings-title": "Налаштування резервацій та підписки"
   }
 }

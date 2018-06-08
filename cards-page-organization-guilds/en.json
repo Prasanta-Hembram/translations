@@ -7,7 +7,6 @@
     "cards-page-organization-guilds-membership-settings-action-sheet" : "Manage membership",
     "cards-page-organization-guilds-membership-settings": "View my membership",
     "cards-page-organization-guilds-card-more": "More options",
-    "cards-page-organization-guilds-stack-search": "Search {numberOfPeople} members",
-    "cards-page-organization-guilds-settings": "Open workspace details"
+    "cards-page-organization-guilds-stack-search": "Search {numberOfPeople} members"
   }
 }

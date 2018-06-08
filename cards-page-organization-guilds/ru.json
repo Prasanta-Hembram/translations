@@ -7,7 +7,6 @@
     "cards-page-organization-guilds-membership-settings": "Просмотреть мой профиль",
     "cards-page-organization-guilds-membership-settings-action-sheet" : "Просмотреть профиль",
     "cards-page-organization-guilds-card-more": "Другие функции",
-    "cards-page-organization-guilds-stack-search": "Поиск по {numberOfPeople} участникам",
-    "cards-page-organization-guilds-settings": "Открыть детали коворкинга"
+    "cards-page-organization-guilds-stack-search": "Поиск по {numberOfPeople} участникам"
   }
 }

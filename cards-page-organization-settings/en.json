@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-organization-settings-address": "Address",
     "cards-page-organization-settings-booking-from": "From",
     "cards-page-organization-settings-booking-period": "Period",
     "cards-page-organization-settings-booking-period-one-month": "1 month",
@@ -10,14 +9,9 @@
     "cards-page-organization-settings-booking-until": "Until",
     "cards-page-organization-settings-billing-section-title": "Billing Settings",
     "cards-page-organization-settings-billing-system": "Enable Billing System",
-    "cards-page-organization-settings-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-organization-settings-cover-photo": "Cover Photo",
-    "cards-page-organization-settings-error-no-internet-description": "No internet.",
-    "cards-page-organization-settings-members-title": "Invite Members",
-    "cards-page-organization-settings-members-via-link-description": "Share a public link to workspace, so that anyone on request can request membership",
-    "cards-page-organization-settings-name": "Name",
+    "cards-page-organization-settings-permission-denied": "Unfortunately, you haven't permission to access. ",
     "cards-page-organization-settings-point-label": "Enable Credit System",
     "cards-page-organization-settings-property-section-title": "Booking Settings",
-    "cards-page-organization-settings-title": "Organization details"
+    "cards-page-organization-settings-title": "Booking and Billing settings"
   }
 }
