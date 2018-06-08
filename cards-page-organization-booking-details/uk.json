@@ -4,6 +4,7 @@
     "cards-page-organization-booking-details-balance-text" : "Залишок до транзакції: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Хто зарезервував",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
+    "cards-page-organization-booking-details-default-purpose": "Reservation",
     "cards-page-organization-booking-details-delete-failure": "Не вдалось видалити резервацію. 🙁",
     "cards-page-organization-booking-details-delete-repeat": "Спробуй ще раз",
     "cards-page-organization-booking-details-empty": "Ця резервація не існує, або була видалена. 😕",
