@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-empty-alert-submit-success": "Your request was sent",
+    "cards-page-organization-empty-alert-submit-success": "가입 요청 완료",
     "cards-page-organization-empty-action-button": "가입 요청",
-    "cards-page-organization-empty-action-button-requested": "Requested"
+    "cards-page-organization-empty-action-button-requested": "가입 요청 됨"
   }
 }
