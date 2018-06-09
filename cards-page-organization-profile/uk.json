@@ -1,11 +1,12 @@
 {
   "data": {
     "cards-page-organization-profile-address": "Адреса",
+    "cards-page-organization-profile-code": "Тег",
     "cards-page-organization-profile-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-profile-cover-photo": "Фото обгортки",
     "cards-page-organization-profile-members-title": "Запросити учасників",
     "cards-page-organization-profile-members-via-link-description": "Поділіться публічним посиланням на коворкінг, щоб дозволити будь-кому подати заявку на участь.",
     "cards-page-organization-profile-name": "Назва",
-    "cards-page-organization-profile-title": "Профіль"
+    "cards-page-organization-profile-title": "Загальна інформація та запрошення"
   }
 }
