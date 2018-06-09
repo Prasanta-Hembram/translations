@@ -1,7 +1,8 @@
 {
   "data": {
-    "cards-page-my-coworkings-get-failure": "Couldn't show coworkings. Are you sure there is an internet connection?",
-    "cards-page-my-coworkings-no-coworkings": "There aren't any available coworkings yet. 😢",
-    "cards-page-my-coworkings-main-title": "My coworkings"
+    "cards-page-my-coworkings-button-search": "참여하기",
+    "cards-page-my-coworkings-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-my-coworkings-no-coworkings": "아직 공간에 참여하지 않았습니다. 😢",
+    "cards-page-my-coworkings-main-title": "나의 공간"
   }
 }

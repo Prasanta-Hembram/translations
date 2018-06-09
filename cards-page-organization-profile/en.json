@@ -1,11 +1,12 @@
 {
   "data": {
     "cards-page-organization-profile-address": "Address",
+    "cards-page-organization-profile-code": "Tag",
     "cards-page-organization-profile-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-profile-cover-photo": "Cover Photo",
     "cards-page-organization-profile-members-title": "Invite Members",
     "cards-page-organization-profile-members-via-link-description": "Share a public link to workspace, so that anyone on request can request membership",
     "cards-page-organization-profile-name": "Name",
-    "cards-page-organization-profile-title": "Profile"
+    "cards-page-organization-profile-title": "Profile and Joining"
   }
 }

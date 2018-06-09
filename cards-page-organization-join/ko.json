@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-as-community-text": "{organizationTitle}에서 회원으로 초대했습니다.",
-    "cards-page-organization-join-card-preview": "카드 미리보기",
-    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "기본정보",
-    "cards-page-organization-join-cards-edit-fields-shared-emails-information": "이메일",
-    "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "연락처",
-    "cards-page-organization-join-error-invitation-not-valid": "유효하지 않은 초대장입니다.",
-    "cards-page-organization-join-error-already-joined": "이미 가입한 조직입니다.",
-    "cards-page-organization-join-required-information": "필수정보",
-    "cards-page-organization-join-title": "{organizationTitle} 가입하기"
+    "cards-page-organization-join-button-open-organization": "들어가기",
+    "cards-page-organization-join-button-request": "가입 요청",
+    "cards-page-organization-join-action-button-requested": "가입 요청 됨",
+    "cards-page-organization-join-create-alert-submit-success": "가입 요청 완료",
+    "cards-page-organization-join-internet-error": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-organization-join-nothing-found": "아무것도 없습니다. 😢",
+    "cards-page-organization-join-stack-button-search": "검색",
+    "cards-page-organization-join-stack-search-placeholder": "공간 테그",
+    "cards-page-organization-join-title": "공간에 가입하기"
   }
 }

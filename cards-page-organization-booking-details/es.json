@@ -4,6 +4,7 @@
     "cards-page-organization-booking-details-balance-text" : "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Reservado por",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copiado al portapapeles",
+    "cards-page-organization-booking-details-default-purpose": "Reservation",
     "cards-page-organization-booking-details-delete-failure": "Error al eliminar la reserva. 🙁",
     "cards-page-organization-booking-details-delete-repeat": "Inténtalo de nuevo",
     "cards-page-organization-booking-details-empty": "Esta reserva puede no existir o puede haber sido eliminada. 😕",

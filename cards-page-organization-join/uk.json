@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-as-community-text": "{organizationTitle} запросили вас долучитися до спільноти.",
-    "cards-page-organization-join-card-preview": "Попередній перегляд картки",
-    "cards-page-organization-join-cards-edit-fields-shared-basic-information": "Загальна інформація",
-    "cards-page-organization-join-cards-edit-fields-shared-emails-information": "Електронна пошта",
-    "cards-page-organization-join-cards-edit-fields-shared-phone-numbers-information": "Номери телефонів",
-    "cards-page-organization-join-error-invitation-not-valid": "Це запрошення недійсне.",
-    "cards-page-organization-join-error-already-joined": "Ви вже приєдналися до цього коворкінгу.",
-    "cards-page-organization-join-required-information": "Обов'язкова інформація",
-    "cards-page-organization-join-title": "Долучитися до {organizationTitle}"
+    "cards-page-organization-join-button-open-organization": "Відкрити",
+    "cards-page-organization-join-button-request": "Приєднатись",
+    "cards-page-organization-join-action-button-requested": "Запит надіслано",
+    "cards-page-organization-join-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг.",
+    "cards-page-organization-join-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "cards-page-organization-join-nothing-found": "Нічого не знайдено. 😢",
+    "cards-page-organization-join-stack-button-search": "Пошук",
+    "cards-page-organization-join-stack-search-placeholder": "тег коворкінгу",
+    "cards-page-organization-join-title": "Приєднатись до коворкінгу"
   }
 }

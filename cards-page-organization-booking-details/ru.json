@@ -4,6 +4,7 @@
     "cards-page-organization-booking-details-balance-text" : "Остаток до транзакции: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Кто забронировал",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-organization-booking-details-default-purpose": "Бронь",
     "cards-page-organization-booking-details-delete-failure": "Не удалось удалить бронирование. 🙁",
     "cards-page-organization-booking-details-delete-repeat": "Попробуй еще раз",
     "cards-page-organization-booking-details-empty": "Это бронирование не существует или же было удалено. 😕",
