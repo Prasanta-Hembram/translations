@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-button-open-organization": "Open",
+    "cards-page-organization-join-button-open-organization": "들어가기",
     "cards-page-organization-join-button-request": "Request to join",
     "cards-page-organization-join-action-button-requested": "Requested",
     "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
     "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
-    "cards-page-organization-join-nothing-found": "Nothing found. 😢",
-    "cards-page-organization-join-stack-button-search": "Search",
-    "cards-page-organization-join-stack-search-placeholder": "workspace tag",
-    "cards-page-organization-join-title": "Join Workspace"
+    "cards-page-organization-join-nothing-found": "아무것도 없습니다. 😢",
+    "cards-page-organization-join-stack-button-search": "검색",
+    "cards-page-organization-join-stack-search-placeholder": "공간 테그",
+    "cards-page-organization-join-title": "공간에 가입하기"
   }
 }
