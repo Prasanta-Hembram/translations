@@ -1,11 +1,12 @@
 {
   "data": {
     "cards-page-organization-profile-address": "Адрес",
+    "cards-page-organization-profile-code": "Тег",
     "cards-page-organization-profile-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-profile-cover-photo": "Фото обложки",
     "cards-page-organization-profile-members-title": "Пригласить участников",
     "cards-page-organization-profile-members-via-link-description": "Поделитесь публичной ссылкой на коворкинг, чтобы у каждого была возможность подать запрос на членство.",
     "cards-page-organization-profile-name": "Название",
-    "cards-page-organization-profile-title": "Профиль"
+    "cards-page-organization-profile-title": "Общая информация и приглашения"
   }
 }
