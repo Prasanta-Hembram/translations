@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-empty-alert-submit-success": "Your request was sent",
+    "cards-page-organization-empty-alert-submit-success": "Запит на затвердження надіслано в коворкінг.",
     "cards-page-organization-empty-action-button": "Приєднатись",
-    "cards-page-organization-empty-action-button-requested": "Requested"
+    "cards-page-organization-empty-action-button-requested": "Запит надіслано"
   }
 }
