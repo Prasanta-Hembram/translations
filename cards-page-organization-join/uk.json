@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-button-open-organization": "Open",
-    "cards-page-organization-join-button-request": "Request to join",
-    "cards-page-organization-join-action-button-requested": "Requested",
-    "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
-    "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
-    "cards-page-organization-join-nothing-found": "Nothing found. 😢",
-    "cards-page-organization-join-stack-button-search": "Search",
-    "cards-page-organization-join-stack-search-placeholder": "workspace tag",
-    "cards-page-organization-join-title": "Join Workspace"
+    "cards-page-organization-join-button-open-organization": "Відкрити",
+    "cards-page-organization-join-button-request": "Приєднатись",
+    "cards-page-organization-join-action-button-requested": "Запит надіслано",
+    "cards-page-organization-join-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг.",
+    "cards-page-organization-join-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "cards-page-organization-join-nothing-found": "Нічого не знайдено. 😢",
+    "cards-page-organization-join-stack-button-search": "Пошук",
+    "cards-page-organization-join-stack-search-placeholder": "тег коворкінгу",
+    "cards-page-organization-join-title": "Приєднатись до коворкінгу"
   }
 }
