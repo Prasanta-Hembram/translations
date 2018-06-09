@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-join-button-open-organization": "Open",
-    "cards-page-organization-join-button-request": "Request to join",
-    "cards-page-organization-join-action-button-requested": "Requested",
-    "cards-page-organization-join-create-alert-submit-success": "Your request was sent",
-    "cards-page-organization-join-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
-    "cards-page-organization-join-nothing-found": "Nothing found. 😢",
-    "cards-page-organization-join-stack-button-search": "Search",
-    "cards-page-organization-join-stack-search-placeholder": "workspace tag",
-    "cards-page-organization-join-title": "Join Workspace"
+    "cards-page-organization-join-button-open-organization": "Abierto",
+    "cards-page-organization-join-button-request": "Solicitud de ingreso",
+    "cards-page-organization-join-action-button-requested": "Pedido",
+    "cards-page-organization-join-create-alert-submit-success": "Su solicitud fue enviada para su aprobación.",
+    "cards-page-organization-join-internet-error": "No se pudo obtener el espacio de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
+    "cards-page-organization-join-nothing-found": "Nada Encontrado. 😢",
+    "cards-page-organization-join-stack-button-search": "Buscar",
+    "cards-page-organization-join-stack-search-placeholder": "etiqueta del espacio",
+    "cards-page-organization-join-title": "Unirse al espacio"
   }
 }

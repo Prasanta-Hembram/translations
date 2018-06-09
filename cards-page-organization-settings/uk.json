@@ -5,13 +5,13 @@
     "cards-page-organization-settings-booking-period-one-month": "1 місяць",
     "cards-page-organization-settings-booking-period-one-week": "1 тиждень",
     "cards-page-organization-settings-booking-period-two-weeks": "2 тиждень",
-    "cards-page-organization-settings-booking-purpose-required": "Обов'язково вказувати мету бронювання",
+    "cards-page-organization-settings-booking-purpose-required": "Мета резервації обов'язкова",
     "cards-page-organization-settings-booking-until": "До",
     "cards-page-organization-settings-billing-section-title": "Розрахунки",
     "cards-page-organization-settings-billing-system": "Платіжна система",
     "cards-page-organization-settings-permission-denied": "На жаль, у вас немає доступу. ",
     "cards-page-organization-settings-point-label": "Кредитна система для резервацій",
     "cards-page-organization-settings-property-section-title": "Система резервації",
-    "cards-page-organization-settings-title": "Налаштування резервацій та підписки"
+    "cards-page-organization-settings-title": "Системи резервації та платежів"
   }
 }

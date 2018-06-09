@@ -5,13 +5,13 @@
     "cards-page-organization-settings-booking-period-one-month": "1 month",
     "cards-page-organization-settings-booking-period-one-week": "1 week",
     "cards-page-organization-settings-booking-period-two-weeks": "2 weeks",
-    "cards-page-organization-settings-booking-purpose-required": "Booking Purpose Required",
+    "cards-page-organization-settings-booking-purpose-required": "Require Booking Purpose",
     "cards-page-organization-settings-booking-until": "Until",
     "cards-page-organization-settings-billing-section-title": "Billing Settings",
     "cards-page-organization-settings-billing-system": "Enable Billing System",
-    "cards-page-organization-settings-permission-denied": "Unfortunately, you have no permission to access. ",
+    "cards-page-organization-settings-permission-denied": "Unfortunately, you have no permission to access.",
     "cards-page-organization-settings-point-label": "Enable Credit System",
     "cards-page-organization-settings-property-section-title": "Booking Settings",
-    "cards-page-organization-settings-title": "Booking and Billing System"
+    "cards-page-organization-settings-title": "Booking and Billing"
   }
 }

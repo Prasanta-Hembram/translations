@@ -1,6 +1,8 @@
 {
   "data": {  
     "cards-page-organization-profile-address": "Dirección",
+    "cards-page-organization-profile-code": "Tag",
+    "cards-page-organization-profile-code-description": "Comparta esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía.",
     "cards-page-organization-profile-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-profile-cover-photo": "Foto de Portada",
     "cards-page-organization-profile-members-title": "Invitar a los miembros",

@@ -5,13 +5,13 @@
     "cards-page-organization-settings-booking-period-one-month": "1 месяц",
     "cards-page-organization-settings-booking-period-one-week": "1 неделя",
     "cards-page-organization-settings-booking-period-two-weeks": "2 недели",
-    "cards-page-organization-settings-booking-purpose-required": "Обязательно указывать цель бронирования",
+    "cards-page-organization-settings-booking-purpose-required": "Цель бронирования обязательна",
     "cards-page-organization-settings-booking-until": "Конец",
     "cards-page-organization-settings-billing-section-title": "Рассчеты",
     "cards-page-organization-settings-billing-system": "Платежная система",
     "cards-page-organization-settings-permission-denied": "К сожалению, у вас нет доступа. ",
     "cards-page-organization-settings-point-label": "Кредитная система для бронирования",
     "cards-page-organization-settings-property-section-title": "Система бронирования",
-    "cards-page-organization-settings-title": "Настройки резервации и подписки"
+    "cards-page-organization-settings-title": "Системы резервации и платежей"
   }
 }
