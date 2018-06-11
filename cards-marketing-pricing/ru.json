@@ -1,12 +1,12 @@
 {
   "data": {
-    "marketing-pricing-basic-features": "Базовые функции",
+    "marketing-pricing-basic-features": "Основные функции",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Push уведомления",
     "marketing-pricing-basic-features-community-directory-and-search": "Поиск и сортировка по гильдиям участников",
     "marketing-pricing-basic-features-credit-based-booking": "Кредитная система резерваций комнат",
     "marketing-pricing-basic-features-internal-booking-system": "Внутренняя система резервации",
     "marketing-pricing-description": "Бесплатно для индивидуальных пользователей, недорого для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
-    "marketing-pricing-external": "Внешние бронирования",
+    "marketing-pricing-external": "Внешние бронирования комнат",
     "marketing-pricing-external-price": "10% от транзакции",
     "marketing-pricing-headline": "Получите свое приложение для коворкинга!",
     "marketing-pricing-meeting-room": "Переговорная",
@@ -18,8 +18,8 @@
     "marketing-pricing-pro-features-external-booking-system": "Внешняя система резервации",
     "marketing-pricing-pro-features-recurring-membership": "Оплата подписок на коворкинг через приложение",
     "marketing-pricing-request-demo": "Запросить демо",
-    "marketing-pricing-smart-lock": "Интеграция с умным замком",
-    "marketing-pricing-smart-lock-price": "$10 / месяц",
+    "marketing-pricing-smart-lock": "Переговорная с умным замком",
+    "marketing-pricing-smart-lock-price": "$30 / месяц",
     "marketing-pricing-subheadline": "Управляй всем — начиная с члества в коворкинге, заканчивая организацией пространства.",
     "marketing-pricing-title": "Цены — тарифные планы для коворкингов и компаний | andCards Suite" 
   }
