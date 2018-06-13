@@ -1,5 +1,8 @@
 {
-  "data": {  
+  "data": {
+    "cards-page-organization-guilds-add-user-combobox-title": "Select guild",
+    "cards-page-organization-guilds-add-success": "Successfully added",
+    "cards-page-organization-guilds-add-user-action-sheet": "Add to guild...",
     "cards-page-organization-guilds-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-guilds-create-guild": "Create guild",
     "cards-page-organization-guilds-error-not-found": "No internet",

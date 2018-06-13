@@ -1,5 +1,8 @@
 {
-  "data": {  
+  "data": {
+    "cards-page-organization-guilds-add-user-combobox-title": "Seleccionar gremio",
+    "cards-page-organization-guilds-add-success": "Agregado exitosamente",
+    "cards-page-organization-guilds-add-user-action-sheet": "Añadir al gremio...",
     "cards-page-organization-guilds-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-guilds-create-guild": "Crear gremio",
     "cards-page-organization-guilds-error-not-found": "No hay internet.",

@@ -1,7 +1,10 @@
 {
   "data": {
+    "cards-page-organization-guild-everyone-main-add-success": "Успешно добавлено",
     "cards-page-organization-guild-everyone-main-card-more": "Другие функции",
+    "cards-page-organization-guild-everyone-main-combobox-guild-title": "Выбрать гильдию",
     "cards-page-organization-guild-everyone-main-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-organization-guild-everyone-main-membership-add-action-sheet": "Добавить в гильдию...",
     "cards-page-organization-guild-everyone-main-membership-settings-action-sheet": "Настроить профиль",
     "cards-page-organization-guild-everyone-main-no-cards": "В гильдии пока ни одной карточки. 😕",
     "cards-page-organization-guild-everyone-main-title": "Все участники"

@@ -1,7 +1,10 @@
 {
   "data": {
+    "cards-page-organization-guild-everyone-main-add-success": "Успішно добавлено",
     "cards-page-organization-guild-everyone-main-card-more": "Інші функції",
+    "cards-page-organization-guild-everyone-main-combobox-guild-title": "Вибрати гільдію",
     "cards-page-organization-guild-everyone-main-copied-to-clipboard": "Скопійовано в буфер обміну.",
+    "cards-page-organization-guild-everyone-main-membership-add-action-sheet": "Додати до гільдії...",
     "cards-page-organization-guild-everyone-main-membership-settings-action-sheet": "Переглянути профіль",
     "cards-page-organization-guild-everyone-main-no-cards": "У гільдії поки немає жодної картки. 😕",
     "cards-page-organization-guild-everyone-main-title": "Всі учасники"

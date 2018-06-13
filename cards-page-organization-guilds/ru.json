@@ -1,5 +1,8 @@
 {
   "data": {
+    "cards-page-organization-guilds-add-user-combobox-title": "Выбрать гильдию",
+    "cards-page-organization-guilds-add-success": "Успешно добавлено",
+    "cards-page-organization-guilds-add-user-action-sheet": "Добавить в гильдию...",
     "cards-page-organization-guilds-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-guilds-create-guild": "Создать гильдию",
     "cards-page-organization-guilds-error-not-found": "Проверьте соединение с интернетом.",
