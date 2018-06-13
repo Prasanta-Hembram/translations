@@ -2,13 +2,12 @@
   "data": {
     "marketing-search-description": "전세계 최고의 코워킹 공간들을 경험하세요. 빠르고 편리하게 공간을 예약하고 어디서나 일하세요!",
     "marketing-search-title": "andCards(앤카즈)와 함께 어디서나 일하세요",
-    "marketing-search-search-placeholder": "주소나 이름으로 검색하기",
+    "marketing-search-search-placeholder": "Search by Address",
     "marketing-search-section-find-coworking-you-will-love": "여러분에게 딱 맞는 공간을 찾아보세요",
-    "marketing-search-section-explore-coworkings": "코워킹 스페이스 탐색하기",
+    "marketing-search-section-results": "{numberOfCoworkings} coworking spaces",
     "marketing-search-service-hot-desk": "핫 데스크",
     "marketing-search-service-fixed-desk": "전용 데스크",
     "marketing-search-service-meeting-room": "회의실",
-    "marketing-search-service-office": "사무실",
-    "marketing-search-work-anywhere": "어디서나 일하세요"
+    "marketing-search-service-office": "사무실"
   }
 }

@@ -2,13 +2,12 @@
   "data": {
     "marketing-search-description": "Discover best coworking spaces around the world! Book spaces in a few clicks and work anywhere!",
     "marketing-search-title": "Work anywhere with andCards",
-    "marketing-search-search-placeholder": "Search by address or name",
+    "marketing-search-search-placeholder": "Search by Address",
     "marketing-search-section-find-coworking-you-will-love": "Find workspace you'll love",
-    "marketing-search-section-explore-coworkings": "Explore coworking spaces",
+    "marketing-search-section-results": "{numberOfCoworkings} coworking spaces",
     "marketing-search-service-hot-desk": "Hot desk",
     "marketing-search-service-fixed-desk": "Fixed desk",
     "marketing-search-service-meeting-room": "Meeting room",
-    "marketing-search-service-office": "Office",
-    "marketing-search-work-anywhere": "Work anywhere"
+    "marketing-search-service-office": "Office"
   }
 }
