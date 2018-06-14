@@ -1,7 +1,11 @@
 {
   "data": {
-    "marketing-search-description": "전세계 최고의 코워킹 공간들을 경험하세요. 빠르고 편리하게 공간을 예약하고 어디서나 일하세요!",
-    "marketing-search-title": "andCards(앤카즈)와 함께 어디서나 일하세요",
+    "marketing-search-description": "Discover best coworking spaces around the world! Book spaces in a few clicks and work anywhere!",
+    "marketing-search-city-description": "Discover best coworking spaces in {city}! Book spaces in a few clicks!",
+    "marketing-search-country-description": "Discover best coworking spaces in {country}! Book spaces in a few clicks!",
+    "marketing-search-title": "Search for coworking spaces all over the world",
+    "marketing-search-city-title": "Coworking spaces in {city}",
+    "marketing-search-country-title": "Coworking spaces in {country}",
     "marketing-search-search-placeholder": "Search by Address",
     "marketing-search-section-find-coworking-you-will-love": "여러분에게 딱 맞는 공간을 찾아보세요",
     "marketing-search-section-results": "{numberOfCoworkings} coworking spaces",

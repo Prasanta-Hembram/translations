@@ -1,7 +1,11 @@
 {
   "data": {
-    "marketing-search-description": " Открой для себя лучшие коворкинги по всему миру! Бронируй места в несколько кликов и работай там, где душе угодно!",
-    "marketing-search-title": "Работай где угодно с andCards!",
+    "marketing-search-description": "Discover best coworking spaces around the world! Book spaces in a few clicks and work anywhere!",
+    "marketing-search-city-description": "Discover best coworking spaces in {city}! Book spaces in a few clicks!",
+    "marketing-search-country-description": "Discover best coworking spaces in {country}! Book spaces in a few clicks!",
+    "marketing-search-title": "Search for coworking spaces all over the world",
+    "marketing-search-city-title": "Coworking spaces in {city}",
+    "marketing-search-country-title": "Coworking spaces in {country}",
     "marketing-search-search-placeholder": "Search by Address",
     "marketing-search-section-find-coworking-you-will-love": "Коворкинг, в который ты влюбишся с первого взгляда!",
     "marketing-search-section-results": "{numberOfCoworkings} coworking spaces",
