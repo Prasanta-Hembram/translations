@@ -4,6 +4,7 @@
     "cards-page-organization-property-main-book-button": "Book",
     "cards-page-organization-property-main-booking-not-allowed": "You cannot book on this date. 😕",
     "cards-page-organization-property-main-date": "Date",
+    "cards-page-organization-property-main-default-booking-purpose": "Reservation",
     "cards-page-organization-property-main-delete-failure": "Failed to delete the room. 🙁",
     "cards-page-organization-property-main-delete-repeat": "Retry deleting",
     "cards-page-organization-property-main-error-not-found": "Couldn't show a room. Are you sure there is an internet connection?",
