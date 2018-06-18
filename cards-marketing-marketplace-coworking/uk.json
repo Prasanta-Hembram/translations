@@ -2,9 +2,9 @@
   "data": {
     "marketing-marketplace-coworking-description": " Дізнайся все про коворкінг {coworkingTitle} і забронюй свое робоче місце за кілька кліків!",
     "marketing-marketplace-coworking-title": "Проглянь фото {coworkingTitle}, плани {coworkingTitle}, огляди {coworkingTitle} та бронюй своє місце онлайн!",
-    "marketing-marketplace-coworking-contact-email-body": "Hi, I found your coworking places on {url}, and would like to make a reservation.",
-    "marketing-marketplace-coworking-contact-email-subject": "Coworking space reservation",
-    "marketing-marketplace-coworking-contact-options": "Contact options",
+    "marketing-marketplace-coworking-contact-email-body": "Привіт! Я знайшов(-ла) ваш коворкінг за {url}, і хотів(-ла) б зробити резервацію місця.",
+    "marketing-marketplace-coworking-contact-email-subject": "Резервація місця в коворкінгу",
+    "marketing-marketplace-coworking-contact-options": "Контакти",
     "marketing-marketplace-coworking-location": "Локація",
     "marketing-marketplace-coworking-offers": "Пропозиції",
     "marketing-marketplace-coworking-service-hot-desk": "Нефіксоване місце",
