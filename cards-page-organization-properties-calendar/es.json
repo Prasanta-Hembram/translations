@@ -1,5 +1,7 @@
 {
   "data": {
+      "cards-page-organization-properties-calendar-alert-past-day": "No puedes reservar para fechas pasadas.",
+      "cards-page-organization-properties-calendar-alert-period": "El período de tiempo seleccionado es menor que el mínimo permitido.",
       "cards-page-organization-properties-calendar-date": "Fecha",
       "cards-page-organization-properties-calendar-get-failure": "No se pudieron mostrar habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
       "cards-page-organization-properties-calendar-my": "Mi reserva",
