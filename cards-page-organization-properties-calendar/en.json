@@ -1,7 +1,7 @@
 {
   "data": {
       "cards-page-organization-properties-calendar-alert-past-day": "You cannot book for past dates.",
-      "cards-page-organization-properties-calendar-alert-period": "Period is lower that minimum allowed.",
+      "cards-page-organization-properties-calendar-alert-period": "Selected time period is less than the minimum allowed.",
       "cards-page-organization-properties-calendar-date": "Date",
       "cards-page-organization-properties-calendar-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
       "cards-page-organization-properties-calendar-my": "My reservation",
