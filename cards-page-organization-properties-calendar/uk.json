@@ -1,6 +1,6 @@
 {
   "data": {
-      "cards-page-organization-properties-calendar-alert-past-day": "Ви не можете забронювати кімнату на попередній час.",
+      "cards-page-organization-properties-calendar-alert-past-day": "Ви не можете резервувати у минулі дати.",
       "cards-page-organization-properties-calendar-alert-period": "Обраний проміжок часу менший, ніж мінімально допустимий.",
       "cards-page-organization-properties-calendar-date": "Дата",
       "cards-page-organization-properties-calendar-get-failure": "Кімнати не відображаються. Перевірте, чи все добре з інтернет-з'єднанням",
