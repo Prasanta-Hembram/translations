@@ -1,5 +1,7 @@
 {
   "data": {
+      "cards-page-organization-properties-calendar-alert-past-day": "You cannot book for past dates.",
+      "cards-page-organization-properties-calendar-alert-period": "Period is lower that minimum allowed.",
       "cards-page-organization-properties-calendar-date": "날짜",
       "cards-page-organization-properties-calendar-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
       "cards-page-organization-properties-calendar-my": "나의 예약",

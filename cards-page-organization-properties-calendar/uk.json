@@ -1,5 +1,7 @@
 {
   "data": {
+      "cards-page-organization-properties-calendar-alert-past-day": "You cannot book for past dates.",
+      "cards-page-organization-properties-calendar-alert-period": "Period is lower that minimum allowed.",
       "cards-page-organization-properties-calendar-date": "Дата",
       "cards-page-organization-properties-calendar-get-failure": "Кімнати не відображаються. Перевірте, чи все добре з інтернет-з'єднанням",
       "cards-page-organization-properties-calendar-my": "Моя резервація",
