@@ -1,6 +1,6 @@
 {
   "data": {
-      "cards-page-organization-properties-calendar-alert-past-day": "Вы не можете бронировать комнаты на прошедшее время.",
+      "cards-page-organization-properties-calendar-alert-past-day": "Вы не можете бронировать в прошлом.",
       "cards-page-organization-properties-calendar-alert-period": "Выбранный период времени меньше минимально допустимого.",
       "cards-page-organization-properties-calendar-date": "Дата",
       "cards-page-organization-properties-calendar-get-failure": "Комнаты не отображаются. Проверьте, все ли хорошо с интернет-соединением.",
