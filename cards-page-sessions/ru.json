@@ -4,7 +4,7 @@
     "cards-page-sessions-active-empty": "Нет активных сеансов или интернета.",
     "cards-page-sessions-current": "Активные сеансы",
     "cards-page-sessions-current-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
-    "cards-page-sessions-description": "Список устройств, на которых вы вошли в Cards. Если вы не узнаете ни один из активных сеансов, нажмите ··· и удалите его.",
+    "cards-page-sessions-description": "Список устройств, на которых вы вошли в andCards. Если вы не узнаете ни один из активных сеансов, нажмите ··· и удалите его.",
     "cards-page-sessions-info": "О разделе",
     "cards-page-sessions-remove": "Удалить сеанс",
     "cards-page-sessions-title": "Активные сеансы"
