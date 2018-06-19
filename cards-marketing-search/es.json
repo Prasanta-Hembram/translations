@@ -1,17 +1,17 @@
 {
   "data": {
-    "marketing-search-description": "Discover best coworking spaces around the world! Book spaces in a few clicks and work anywhere!",
-    "marketing-search-city-description": "Discover best coworking spaces in {city}! Book spaces in a few clicks!",
-    "marketing-search-country-description": "Discover best coworking spaces in {country}! Book spaces in a few clicks!",
-    "marketing-search-title": "Search for coworking spaces all over the world",
-    "marketing-search-city-title": "Coworking spaces in {city}",
-    "marketing-search-country-title": "Coworking spaces in {country}",
-    "marketing-search-search-placeholder": "Search by city or name",
-    "marketing-search-section-find-coworking-you-will-love": "Find workplace you'll love",
-    "marketing-search-section-results": "{numberOfCoworkings} coworking spaces",
-    "marketing-search-service-hot-desk": "Hot desk",
-    "marketing-search-service-fixed-desk": "Fixed desk",
-    "marketing-search-service-meeting-room": "Meeting room",
-    "marketing-search-service-office": "Office"
+    "marketing-search-description": "¡Descubre los mejores espacios de coworking en todo el mundo! Reserve espacios con unos pocos clics y trabaje en cualquier lugar!",
+    "marketing-search-city-description": "Descubre los mejores espacios de coworking en {city}! Reserve espacios en unos pocos clics!",
+    "marketing-search-country-description": "Descubre los mejores espacios de coworking en {country}! Reserve espacios en unos pocos clics!",
+    "marketing-search-title": "Buscar espacios de coworking en todo el mundo",
+    "marketing-search-city-title": "Espacios de coworking en {city}",
+    "marketing-search-country-title": "Espacios de coworking en {country}",
+    "marketing-search-search-placeholder": "Buscar por ciudad o nombre",
+    "marketing-search-section-find-coworking-you-will-love": "Encuentra un lugar de trabajo que te encante",
+    "marketing-search-section-results": "{numberOfCoworkings} espacios de coworking",
+    "marketing-search-service-hot-desk": "Escritorio caliente",
+    "marketing-search-service-fixed-desk": "Escritorio fijo",
+    "marketing-search-service-meeting-room": "Sala de Reuniones",
+    "marketing-search-service-office": "Oficina"
   }
 }
