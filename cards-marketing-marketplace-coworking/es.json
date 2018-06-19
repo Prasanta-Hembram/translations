@@ -1,15 +1,15 @@
 {
   "data": {
-    "marketing-marketplace-coworking-description": "Find out everything about {coworkingTitle} coworking space and book you desk right away!",
-    "marketing-marketplace-coworking-title": "Explore {coworkingTitle} photos, {coworkingTitle} plans, {coworkingTitle} reviews and Book Online",
-    "marketing-marketplace-coworking-contact-email-body": "Hi, I found your coworking places on {url}, and would like to make a reservation.",
-    "marketing-marketplace-coworking-contact-email-subject": "Coworking space reservation",
-    "marketing-marketplace-coworking-contact-options": "Contact options",
-    "marketing-marketplace-coworking-location": "Location",
-    "marketing-marketplace-coworking-offers": "Offers",
-    "marketing-marketplace-coworking-service-hot-desk": "Hot desk",
-    "marketing-marketplace-coworking-service-fixed-desk": "Fixed desk",
-    "marketing-marketplace-coworking-service-meeting-room": "Meeting room",
-    "marketing-marketplace-coworking-service-office": "Office"
+    "marketing-marketplace-coworking-description": "Descubre todo sobre el espacio de coworking de {coworkingTitle} y reserva tu mesa de inmediato!",
+    "marketing-marketplace-coworking-title": "Explore {coworkingTitle} fotos, {coworkingTitle} planes, {coworkingTitle} críticas y reserve en línea.",
+    "marketing-marketplace-coworking-contact-email-body": "Hola, encontré tu espacio de coworking en {url} y me gustaría hacer una reserva.",
+    "marketing-marketplace-coworking-contact-email-subject": "Reserva de espacios de coworking",
+    "marketing-marketplace-coworking-contact-options": "Opciones de contacto",
+    "marketing-marketplace-coworking-location": "Ubicación",
+    "marketing-marketplace-coworking-offers": "Ofertas",
+    "marketing-marketplace-coworking-service-hot-desk": "Escritorio caliente",
+    "marketing-marketplace-coworking-service-fixed-desk": "Escritorio fijo",
+    "marketing-marketplace-coworking-service-meeting-room": "Sala de Reuniones",
+    "marketing-marketplace-coworking-service-office": "Oficina"
   }
 }
