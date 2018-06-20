@@ -1,13 +1,5 @@
 {
   "data": {
-    "cards-title": "andCards Suite",
-    "cards-group-quick-actions": "Quick Actions",
-    "cards-group-general": "General",
-    "cards-group-extras": "Extras",
-    "cards-group-receive-cards": "Receive Cards",
-    "cards-notification-autoconnect-one": "{name} is on andCards. Check out the live card!",
-    "cards-notification-autoconnect-many": "Some of your friends are now on andCards. Check them out right now!",
-    "cards-notification-received-cards-updates-one": "Did you know that {name} changed card?",
-    "cards-notification-received-cards-updates-many": "We've updated {number} live cards with new information!"
+    "cards-title": "andCards Suite"
   }
 }
