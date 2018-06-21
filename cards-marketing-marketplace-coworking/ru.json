@@ -3,14 +3,14 @@
     "marketing-marketplace-coworking-description": "Узнай все про коворкинг {coworkingTitle} и забронируй свое рабочее место в несколько кликов!",
     "marketing-marketplace-coworking-share": "Поделиться",
     "marketing-marketplace-coworking-title": " Просмотри {coworkingTitle} фото, {coworkingTitle} планы, {coworkingTitle} обзоры и бронируй онлайн!",
-    "marketing-marketplace-coworking-contact-email-body": "Привет! Я нашел(-ла) ваш коворкинг здесь {url} и хотел(-а) б забронировать у вас место.",
-    "marketing-marketplace-coworking-contact-email-subject": "Резервация места в коворкинге",
+    "marketing-marketplace-coworking-contact-email-body": "Здравствуйте! Я нашел(-ла) ваш коворкинг на {url} и хотел(-а) бы забронировать у вас место.",
+    "marketing-marketplace-coworking-contact-email-subject": "Бронирование места в коворкинге",
     "marketing-marketplace-coworking-contact-options": "Контакты",
     "marketing-marketplace-coworking-location": "Локация",
     "marketing-marketplace-coworking-offers": "Предложения",
     "marketing-marketplace-coworking-service-hot-desk": "Незакрепленное место",
     "marketing-marketplace-coworking-service-fixed-desk": "Фиксированное место",
-    "marketing-marketplace-coworking-service-meeting-room": "Комната для переговоров",
-    "marketing-marketplace-coworking-service-office": "Офис"
+    "marketing-marketplace-coworking-service-meeting-room": "Переговорная",
+    "marketing-marketplace-coworking-service-office": "Отдельный офис"
   }
 }
