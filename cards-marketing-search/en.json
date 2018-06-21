@@ -12,9 +12,9 @@
     "marketing-search-section-results-last-digit-one": "{numberOfCoworkings} coworking spaces",
     "marketing-search-section-results-last-digit-two-four": "{numberOfCoworkings} coworking spaces",
     "marketing-search-section-results-last-digit-more-than-five": "{numberOfCoworkings} coworking spaces",
-    "marketing-search-service-hot-desk": "Hot desk",
-    "marketing-search-service-fixed-desk": "Fixed desk",
-    "marketing-search-service-meeting-room": "Meeting room",
-    "marketing-search-service-office": "Office"
+    "marketing-search-service-hot-desk": "Hot Desk",
+    "marketing-search-service-fixed-desk": "Fixed Desk",
+    "marketing-search-service-meeting-room": "Meeting Room",
+    "marketing-search-service-office": "Private Office"
   }
 }
