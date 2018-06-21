@@ -5,12 +5,12 @@
     "marketing-marketplace-coworking-title": "Explore {coworkingTitle} photos, {coworkingTitle} plans, {coworkingTitle} reviews and Book Online",
     "marketing-marketplace-coworking-contact-email-body": "Hi, I found your coworking space on {url}, and would like to make a reservation.",
     "marketing-marketplace-coworking-contact-email-subject": "Coworking Space Reservation Request",
-    "marketing-marketplace-coworking-contact-options": "Contact options",
+    "marketing-marketplace-coworking-contact-options": "Contact Options",
     "marketing-marketplace-coworking-location": "Location",
     "marketing-marketplace-coworking-offers": "Offers",
-    "marketing-marketplace-coworking-service-hot-desk": "Hot desk",
-    "marketing-marketplace-coworking-service-fixed-desk": "Fixed desk",
-    "marketing-marketplace-coworking-service-meeting-room": "Meeting room",
-    "marketing-marketplace-coworking-service-office": "Office"
+    "marketing-marketplace-coworking-service-hot-desk": "Hot Desk",
+    "marketing-marketplace-coworking-service-fixed-desk": "Fixed Desk",
+    "marketing-marketplace-coworking-service-meeting-room": "Meeting Room",
+    "marketing-marketplace-coworking-service-office": "Private Office"
   }
 }
