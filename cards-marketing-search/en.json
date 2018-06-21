@@ -4,7 +4,7 @@
     "marketing-search-city-description": "Discover best coworking spaces in {city}! Book spaces in a few clicks!",
     "marketing-search-country-description": "Discover best coworking spaces in {country}! Book spaces in a few clicks!",
     "marketing-search-title": "Search for coworking spaces all over the world",
-    "marketing-search-city-title": "Coworking spaces in {city}",
+    "marketing-search-city-title": "Coworking spaces in {city}, {country}",
     "marketing-search-country-title": "Coworking spaces in {country}",
     "marketing-search-search-placeholder": "Find coworking by location or name",
     "marketing-search-section-find-coworking-you-will-love": "Find workspace you'll love",

@@ -4,7 +4,7 @@
     "marketing-search-city-description": "Віднайди найкращі коворкінги в {city}! Забронюй місце за кілька кліків!",
     "marketing-search-country-description": "Віднайди найкращі коворкінги в {country}! Забронюй місце за кілька кліків!",
     "marketing-search-title": "Шукай коворкінги по всьому світу",
-    "marketing-search-city-title": "Коворкінги в {city}",
+    "marketing-search-city-title": "Коворкінги в {city}, {country}",
     "marketing-search-country-title": "Коворкінги в {country}",
     "marketing-search-search-placeholder": "Знаходь коворкінги за країною, містом або назвою",
     "marketing-search-section-find-coworking-you-will-love": "Знайди коворкінг, в який ти закохаєшся",

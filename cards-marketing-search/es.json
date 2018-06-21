@@ -4,7 +4,7 @@
     "marketing-search-city-description": "Descubre los mejores espacios de coworking en {city}! Reserve espacios en unos pocos clics!",
     "marketing-search-country-description": "Descubre los mejores espacios de coworking en {country}! Reserve espacios en unos pocos clics!",
     "marketing-search-title": "Buscar espacios de coworking en todo el mundo",
-    "marketing-search-city-title": "Espacios de coworking en {city}",
+    "marketing-search-city-title": "Espacios de coworking en {city}, {country}",
     "marketing-search-country-title": "Espacios de coworking en {country}",
     "marketing-search-search-placeholder": "Buscar coworking por país, ciudad o nombre",
     "marketing-search-section-find-coworking-you-will-love": "Encuentra un lugar de trabajo que te encante",
