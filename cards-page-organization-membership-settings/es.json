@@ -9,6 +9,7 @@
     "cards-page-organization-membership-settings-delete-user-action-sheet": "Eliminar del área de trabajo",
     "cards-page-organization-membership-settings-title": "Ajustes de Membresía",
     "cards-page-organization-membership-settings-leave-failure": "Error al salir del espacio de trabajo. 🙁",
+    "cards-page-organization-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Salir del espacio de trabajo",
     "cards-page-organization-membership-settings-leave-repeat": "Inténtalo de nuevo",
     "cards-page-organization-membership-settings-role": "Rol",

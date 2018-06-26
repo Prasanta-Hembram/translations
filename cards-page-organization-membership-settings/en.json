@@ -9,6 +9,7 @@
     "cards-page-organization-membership-settings-delete-user-action-sheet": "Remove user from workspace",
     "cards-page-organization-membership-settings-title": "Membership settings",
     "cards-page-organization-membership-settings-leave-failure": "Failed to leave the workspace. 🙁",
+    "cards-page-organization-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Leave workspace",
     "cards-page-organization-membership-settings-leave-repeat": "Try again",
     "cards-page-organization-membership-settings-role": "Role",

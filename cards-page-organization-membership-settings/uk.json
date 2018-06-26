@@ -9,6 +9,7 @@
     "cards-page-organization-membership-settings-delete-user-action-sheet": "Видалити учасника",
     "cards-page-organization-membership-settings-title": "Налаштування участі",
     "cards-page-organization-membership-settings-leave-failure": "Не вдалося покинути коворкінг. 🙁",
+    "cards-page-organization-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Покинути коворкінг",
     "cards-page-organization-membership-settings-leave-repeat": "Спробувати знову",
     "cards-page-organization-membership-settings-role": "Роль",
