@@ -8,15 +8,15 @@
     "cards-page-organization-profile-cover-photo": "Фото обложки",
     "cards-page-organization-profile-description": "Описание",
     "cards-page-organization-profile-email": "Email",
-    "cards-page-organization-profile-email-required": "Email required",
-    "cards-page-organization-profile-last-name-required": "Last name required",
+    "cards-page-organization-profile-email-required": "Email",
+    "cards-page-organization-profile-last-name-required": "Фамилия",
     "cards-page-organization-profile-link": "Ссылка",
     "cards-page-organization-profile-members-title": "Пригласить участников",
     "cards-page-organization-profile-members-via-link-description": "Поделитесь публичной ссылкой на коворкинг, чтобы пригласить участников.",
     "cards-page-organization-profile-name": "Название",
     "cards-page-organization-profile-share": "Поделится",
-    "cards-page-organization-profile-phone-number-required": "Phone number required",
-    "cards-page-organization-profile-required-fileds-description": "Set obligatory fields for members` profile.",
+    "cards-page-organization-profile-phone-number-required": "Номер телефона",
+    "cards-page-organization-profile-required-fileds-description": "Все участники обязаны поделиться следующей информацией:",
     "cards-page-organization-profile-title": "Общая информация и приглашения"
   }
 }
