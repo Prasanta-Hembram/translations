@@ -8,10 +8,14 @@
     "cards-page-organization-profile-cover-photo": "Cover Photo",
     "cards-page-organization-profile-description": "Description",
     "cards-page-organization-profile-email": "Email",
+    "cards-page-organization-profile-email-required": "Email required",
+    "cards-page-organization-profile-last-name-required": "Last name required",
     "cards-page-organization-profile-link": "Link",
     "cards-page-organization-profile-members-title": "Invite Members",
     "cards-page-organization-profile-members-via-link-description": "Share a public link to workspace, so that anyone can request membership.",
     "cards-page-organization-profile-name": "Name",
+    "cards-page-organization-profile-phone-number-required": "Phone number required",
+    "cards-page-organization-profile-required-fileds-description": "Set obligatory fields for members` profile.",
     "cards-page-organization-profile-share": "Share",
     "cards-page-organization-profile-title": "Profile and Joining"
   }
