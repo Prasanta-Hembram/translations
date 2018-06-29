@@ -1,7 +1,6 @@
 {
   "data": {
     "marketing-marketplace-coworking-description": "Узнай все про коворкинг {coworkingTitle} и забронируй свое рабочее место в несколько кликов!",
-    "marketing-marketplace-coworking-share": "Поделиться",
     "marketing-marketplace-coworking-title": " Просмотри {coworkingTitle} фото, {coworkingTitle} планы, {coworkingTitle} обзоры и бронируй онлайн!",
     "marketing-marketplace-coworking-amenities": "Удобства",
     "marketing-marketplace-coworking-amenities-kitchen": "Кухня",
@@ -20,6 +19,7 @@
     "marketing-marketplace-coworking-service-fixed-desk": "Фиксированное место",
     "marketing-marketplace-coworking-service-meeting-room": "Переговорная",
     "marketing-marketplace-coworking-service-office": "Отдельный офис",
+    "marketing-marketplace-coworking-share": "Поделиться",
     "marketing-marketplace-coworking-view-photos" : "Посмотреть фото"
   }
 }

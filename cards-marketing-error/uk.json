@@ -3,7 +3,7 @@
     "marketing-error-title": "Помилка {errorCode}",
     "marketing-error-description": "andCards — сервіс для розбудови коворкінгів та організацій",
     "marketing-error-something-is-missing": "Щось пішло не так",
-    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Відвідайте {supportPageFormatMessage} для допомоги, або поверніться {homeFormatMessage}",
+    "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Відвідайте {supportPage} для допомоги, або поверніться {homePage}",
     "marketing-error-help-page": "довідку",
     "marketing-error-home": "додому"
   }

@@ -1,7 +1,6 @@
 {
   "data": {
     "marketing-marketplace-coworking-description": "Find out everything about {coworkingTitle} coworking space and book you desk right away!",
-    "marketing-marketplace-coworking-share": "Share this coworking",
     "marketing-marketplace-coworking-title": "Explore {coworkingTitle} photos, {coworkingTitle} plans, {coworkingTitle} reviews and Book Online",
     "marketing-marketplace-coworking-amenities": "Amenities",
     "marketing-marketplace-coworking-amenities-kitchen": "Kitchen",
@@ -20,6 +19,7 @@
     "marketing-marketplace-coworking-service-fixed-desk": "Fixed Desk",
     "marketing-marketplace-coworking-service-meeting-room": "Meeting Room",
     "marketing-marketplace-coworking-service-office": "Private Office",
+    "marketing-marketplace-coworking-share": "Share this coworking",
     "marketing-marketplace-coworking-view-photos": "View Photos"
   }
 }

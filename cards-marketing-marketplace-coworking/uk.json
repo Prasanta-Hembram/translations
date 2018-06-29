@@ -1,7 +1,6 @@
-{Ш
+{
   "data": {
     "marketing-marketplace-coworking-description": " Дізнайся все про коворкінг {coworkingTitle} і забронюй свое робоче місце за кілька кліків!",
-    "marketing-marketplace-coworking-share": "Поділитись",
     "marketing-marketplace-coworking-title": "Проглянь фото {coworkingTitle}, плани {coworkingTitle}, огляди {coworkingTitle} та бронюй своє місце онлайн!",
     "marketing-marketplace-coworking-amenities": "Зручності",
     "marketing-marketplace-coworking-amenities-kitchen": "Кухня",
@@ -20,6 +19,7 @@
     "marketing-marketplace-coworking-service-fixed-desk": "Фіксоване місце",
     "marketing-marketplace-coworking-service-meeting-room": "Кімната переговорів",
     "marketing-marketplace-coworking-service-office": "Приватний офіс",
+    "marketing-marketplace-coworking-share": "Поділитись",
     "marketing-marketplace-coworking-view-photos" : "Переглянути фото"
   }
 }
