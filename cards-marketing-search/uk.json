@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-search-description": "Знайди найкращі коворкінги по всьому світу! Резервуй місце для себе всього лиш за кілька кліків і працюй, де забажаєш!",
-    "marketing-search-city-description": "Віднайди найкращі коворкінги в {city}! Забронюй місце за кілька кліків!",
+    "marketing-search-city-description": "Віднайди найкращі коворкінги в м. {city}! Забронюй місце за кілька кліків!",
     "marketing-search-country-description": "Віднайди найкращі коворкінги в {country}! Забронюй місце за кілька кліків!",
     "marketing-search-title": "Шукай коворкінги по всьому світу",
     "marketing-search-city-title": "Коворкінги в м. {city}, {country}",
