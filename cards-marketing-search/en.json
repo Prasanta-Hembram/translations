@@ -1,8 +1,8 @@
 {
   "data": {
-    "marketing-search-description": "Discover best coworking spaces around the world! Book spaces in a few clicks and work anywhere!",
-    "marketing-search-city-description": "Discover best coworking spaces in {city}! Book spaces in a few clicks!",
-    "marketing-search-country-description": "Discover best coworking spaces in {country}! Book spaces in a few clicks!",
+    "marketing-search-description": "Discover best coworking spaces around the world. Book hot desk, fixed desk, private office, meeting room or event hall in a few clicks to work anywhere.",
+    "marketing-search-city-description": "Discover best coworking spaces in {city}, {country}. Book hot desk, fixed desk, private office, meeting room or event hall in a few clicks.",
+    "marketing-search-country-description": "Discover best coworking spaces in {country}! Book hot desk, fixed desk, private office, meeting room or event hall in a few clicks!",
     "marketing-search-title": "Search for coworking spaces all over the world",
     "marketing-search-city-title": "Coworking spaces in {city}, {country}",
     "marketing-search-country-title": "Coworking spaces in {country}",
