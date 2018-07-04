@@ -1,0 +1,25 @@
+{
+  "data": {
+    "cards-page-organization-plan-edit-credits": "Créditos",
+    "cards-page-organization-plan-edit-delete-failure": "Error al eliminar el plan. 🙁",
+    "cards-page-organization-plan-edit-delete-plan": "Eliminar plan",
+    "cards-page-organization-plan-edit-delete-plan-reject": "Reject to delete. Some members still using the plan.",
+    "cards-page-organization-plan-edit-delete-repeat": "Inténtalo de nuevo",
+    "cards-page-organization-plan-edit-free-trial-day": "Día de prueba gratis",
+    "cards-page-organization-plan-edit-period": "Periodo",
+    "cards-page-organization-plan-edit-period-day": "1 día",
+    "cards-page-organization-plan-edit-period-week": "1 semana",
+    "cards-page-organization-plan-edit-period-month": "1 mes",
+    "cards-page-organization-plan-edit-price": "Precio",
+    "cards-page-organization-plan-edit-price-placeholder": "Insertar valor en USD",
+    "cards-page-organization-plan-edit-quantity": "Cantidad",
+    "cards-page-organization-plan-edit-seats": "Asientos",
+    "cards-page-organization-plan-edit-is-public": "Acceso Público",
+    "cards-page-organization-plan-edit-title": "Editar un Plan",
+    "cards-page-organization-plan-edit-type": "Insertar",
+    "cards-page-organization-plan-edit-type-fixed-desk": "Escritorio Fijo",
+    "cards-page-organization-plan-edit-type-hot-desk": "Escritorio Caliente",
+    "cards-page-organization-plan-edit-type-pass": "Pase",
+    "cards-page-organization-plan-edit-type-private-office": "Oficina Privada"
+  }
+}

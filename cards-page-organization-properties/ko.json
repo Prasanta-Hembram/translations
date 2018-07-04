@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-properties-availability-available": "예약 가능",
+    "cards-page-organization-properties-availability-unavailable": "예약 불가",
     "cards-page-organization-properties-default-booking-purpose": "예약",
     "cards-page-organization-properties-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-organization-properties-no-properties": "아직 이용 가능한 시설이 없습니다. 😢",

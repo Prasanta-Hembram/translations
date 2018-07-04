@@ -1,11 +1,12 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-button-give-title": "Начислить",
-    "cards-page-organization-membership-settings-button-charge-title": "Списать",
-    "cards-page-organization-membership-settings-balance-title": "Баланс",
+    "cards-page-organization-membership-settings-active-plan-title": "Текущий план",
+    "cards-page-organization-membership-settings-balance-title": "Остаток кредитов",
     "cards-page-organization-membership-settings-balance-description": "Доступно только в {organizationName}. Срок годности: 1 месяц.",
-    "cards-page-organization-membership-settings-billing-day": "День оплаты",
-    "cards-page-organization-membership-settings-billing-day-description": "Каждый месяц в этот день вы будете получать кредиты",
+    "cards-page-organization-membership-settings-button-charge-title": "Списать",
+    "cards-page-organization-membership-settings-button-clear-title": "Погасить",
+    "cards-page-organization-membership-settings-button-give-title": "Начислить",
+    "cards-page-organization-membership-settings-cash-balance-title": "Баланс наличных",
     "cards-page-organization-membership-settings-delete-user-action-sheet": "Удалить участника",
     "cards-page-organization-membership-settings-title": "Настройки участия",
     "cards-page-organization-membership-settings-leave-failure": "Не удалось покинуть коворкинг. 🙁",
@@ -19,8 +20,13 @@
     "cards-page-organization-membership-settings-role-info-admin": "Администратор может настраивать и управлять всем в коворкинге.",
     "cards-page-organization-membership-settings-role-info-moderator": "Модератор может управлять контентом и гильдиями в коворкинге.",
     "cards-page-organization-membership-settings-role-info-member": "Участник может просматривать контент в коворкинге.",
-    "cards-page-organization-membership-settings-plan": "План", 
-    "cards-page-organization-membership-settings-plan-detail-info": "Преимущества: {points} {emoji} в месяц.",
+    "cards-page-organization-membership-settings-period-day": "день",
+    "cards-page-organization-membership-settings-period-week": "неделя",
+    "cards-page-organization-membership-settings-period-month": "месяц",
+    "cards-page-organization-membership-settings-title-hot-desk": "Незакрепленное место",
+    "cards-page-organization-membership-settings-title-fixed-desk": "Закрепленное место",
+    "cards-page-organization-membership-settings-title-private-office": "Отдельный офис",
+    "cards-page-organization-membership-settings-title-hot-pass": "Входной билет",
     "cards-page-organization-membership-settings-update-failure": "Невозможно обновить"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "cards-page-organization-plan-edit-credits": "Кредити",
+    "cards-page-organization-plan-edit-delete-failure": "Не вдалося видалити план 🙁",
+    "cards-page-organization-plan-edit-delete-plan": "Видалити план",
+    "cards-page-organization-plan-edit-delete-repeat": "Спробувати знову",
+    "cards-page-organization-plan-edit-delete-plan-reject": "Неможливо видалити тарифний план оскільки він є активним у деяких учасників.",
+    "cards-page-organization-plan-edit-free-trial-day": "Безкоштовний пробний день",
+    "cards-page-organization-plan-edit-period": "Мін. період",
+    "cards-page-organization-plan-edit-period-day": "1 день",
+    "cards-page-organization-plan-edit-period-week": "1 тиждень",
+    "cards-page-organization-plan-edit-period-month": "1 місяць",
+    "cards-page-organization-plan-edit-price": "Ціна",
+    "cards-page-organization-plan-edit-price-placeholder": "Уведіть в долл. США",
+    "cards-page-organization-plan-edit-quantity": "Кількість",
+    "cards-page-organization-plan-edit-seats": "Роб. місць",
+    "cards-page-organization-plan-edit-is-public": "Публічно доступний",
+    "cards-page-organization-plan-edit-title": "Додати план",
+    "cards-page-organization-plan-edit-type": "Тип",
+    "cards-page-organization-plan-edit-type-fixed-desk": "Фіксоване місце",
+    "cards-page-organization-plan-edit-type-hot-desk": "Нефіксоване місце",
+    "cards-page-organization-plan-edit-type-pass": "Квиток на вхід",
+    "cards-page-organization-plan-edit-type-private-office": "Приватний офіс"
+  }
+}

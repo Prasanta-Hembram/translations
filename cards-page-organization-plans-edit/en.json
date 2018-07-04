@@ -1,0 +1,25 @@
+{
+  "data": {
+    "cards-page-organization-plan-edit-credits": "Credits",
+    "cards-page-organization-plan-edit-delete-failure": "Failed to delete plan. 🙁",
+    "cards-page-organization-plan-edit-delete-plan": "Delete plan",
+    "cards-page-organization-plan-edit-delete-plan-reject": "Rechazar para eliminar Algunos miembros aún usan el plan.",
+    "cards-page-organization-plan-edit-delete-repeat": "Try again",
+    "cards-page-organization-plan-edit-free-trial-day": "Free Trial Day",
+    "cards-page-organization-plan-edit-period": "Period",
+    "cards-page-organization-plan-edit-period-day": "1 day",
+    "cards-page-organization-plan-edit-period-week": "1 week",
+    "cards-page-organization-plan-edit-period-month": "1 month",
+    "cards-page-organization-plan-edit-price": "Price",
+    "cards-page-organization-plan-edit-price-placeholder": "Type in USD",
+    "cards-page-organization-plan-edit-quantity": "Quantity",
+    "cards-page-organization-plan-edit-seats": "Seats",
+    "cards-page-organization-plan-edit-is-public": "Public Access",
+    "cards-page-organization-plan-edit-title": "Edit plan",
+    "cards-page-organization-plan-edit-type": "Type",
+    "cards-page-organization-plan-edit-type-fixed-desk": "Fixed Desk",
+    "cards-page-organization-plan-edit-type-hot-desk": "Hot Desk",
+    "cards-page-organization-plan-edit-type-pass": "Pass",
+    "cards-page-organization-plan-edit-type-private-office": "Private Office"
+  }
+}

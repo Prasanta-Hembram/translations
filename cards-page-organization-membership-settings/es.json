@@ -1,11 +1,12 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-button-give-title": "Dar",
-    "cards-page-organization-membership-settings-button-charge-title": "Cobrar",
-    "cards-page-organization-membership-settings-balance-title": "Equilibrar",
+    "cards-page-organization-membership-settings-active-plan-title": "Plan activo",
+    "cards-page-organization-membership-settings-balance-title": "Créditos restantes",
     "cards-page-organization-membership-settings-balance-description": "Úselo en {organizationName} solamente. Venciendo después de 30 días.",
-    "cards-page-organization-membership-settings-billing-day": "Día de factura",
-    "cards-page-organization-membership-settings-billing-day-description": "Los créditos se recibirán mensualmente en este día",
+    "cards-page-organization-membership-settings-button-charge-title": "Cobrar",
+    "cards-page-organization-membership-settings-button-clear-title": "Claro",
+    "cards-page-organization-membership-settings-button-give-title": "Dar",
+    "cards-page-organization-membership-settings-cash-balance-title": "Balance en efectivo",
     "cards-page-organization-membership-settings-delete-user-action-sheet": "Eliminar del área de trabajo",
     "cards-page-organization-membership-settings-title": "Ajustes de Membresía",
     "cards-page-organization-membership-settings-leave-failure": "Error al salir del espacio de trabajo. 🙁",
@@ -19,8 +20,13 @@
     "cards-page-organization-membership-settings-role-info-admin": "El administrador puede administrar todo el contenido y cambiar la configuración del espacio de trabajo.",
     "cards-page-organization-membership-settings-role-info-moderator": "El moderador puede administrar contenido y gremios en el área de trabajo. Si necesita hacer algún cambio en los ajuste, hable con el administrador.",
     "cards-page-organization-membership-settings-role-info-member": "El miembro puede ver contenido relevante y gremios en el área de trabajo. Si necesita gestionar algo, hable con el moderador o administrador.",
-    "cards-page-organization-membership-settings-plan" : "Plan", 
-    "cards-page-organization-membership-settings-plan-detail-info": "Qué incluye: {points} {emoji} por mes.",
-    "cards-page-organization-membership-settings-update-failure": "Failed to update"
+    "cards-page-organization-membership-settings-period-day": "día",
+    "cards-page-organization-membership-settings-period-week": "semana",
+    "cards-page-organization-membership-settings-period-month": "mes",
+    "cards-page-organization-membership-settings-title-hot-desk": "Escritorio Caliente",
+    "cards-page-organization-membership-settings-title-fixed-desk": "Escritorio Fijo",
+    "cards-page-organization-membership-settings-title-private-office": "Oficina Privada",
+    "cards-page-organization-membership-settings-title-hot-pass": "Pase",
+    "cards-page-organization-membership-settings-update-failure": "Error al actualizar"
   }
 }

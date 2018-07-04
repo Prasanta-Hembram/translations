@@ -1,13 +1,14 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-button-give-title": "Give",
+    "cards-page-organization-membership-settings-active-plan-title": "Active Plan",
     "cards-page-organization-membership-settings-button-charge-title": "Charge",
-    "cards-page-organization-membership-settings-balance-title": "Balance",
+    "cards-page-organization-membership-settings-button-clear-title": "Clear",
+    "cards-page-organization-membership-settings-button-give-title": "Give",
+    "cards-page-organization-membership-settings-balance-title": "Remaining Credits",
     "cards-page-organization-membership-settings-balance-description": "Use at {organizationName} only. Expiring every month.",
-    "cards-page-organization-membership-settings-billing-day": "Bill day",
-    "cards-page-organization-membership-settings-billing-day-description": "Credits will be received monthly on this day.",
+    "cards-page-organization-membership-settings-cash-balance-title": "Cash Balance",
     "cards-page-organization-membership-settings-delete-user-action-sheet": "Remove user from workspace",
-    "cards-page-organization-membership-settings-title": "Membership settings",
+    "cards-page-organization-membership-settings-title": "Membership Settings",
     "cards-page-organization-membership-settings-leave-failure": "Failed to leave the workspace. 🙁",
     "cards-page-organization-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Leave workspace",
@@ -19,8 +20,13 @@
     "cards-page-organization-membership-settings-role-info-admin": "Administrator can manage all content and change settings of the workspace.",
     "cards-page-organization-membership-settings-role-info-moderator": "Moderator can manage content and guilds in the workspace.",
     "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and guilds in the workspace.",
-    "cards-page-organization-membership-settings-plan" : "Plan", 
-    "cards-page-organization-membership-settings-plan-detail-info": "Whats included: {points} {emoji} per month.",
+    "cards-page-organization-membership-settings-period-day": "day",
+    "cards-page-organization-membership-settings-period-week": "week",
+    "cards-page-organization-membership-settings-period-month": "month",
+    "cards-page-organization-membership-settings-title-hot-desk": "Hot Desk",
+    "cards-page-organization-membership-settings-title-fixed-desk": "Fixed Desk",
+    "cards-page-organization-membership-settings-title-private-office": "Private Office",
+    "cards-page-organization-membership-settings-title-hot-pass": "Pass",
     "cards-page-organization-membership-settings-update-failure": "Failed to update"
   }
 }

@@ -1,14 +1,15 @@
 {
   "data": {
-    "cards-page-organization-membership-settings-button-give-title": "추가",
-    "cards-page-organization-membership-settings-button-charge-title": "회수",
-    "cards-page-organization-membership-settings-balance-title": "잔액",
+    "cards-page-organization-membership-settings-active-plan-title": "회원의 멤버십 플랜",
+    "cards-page-organization-membership-settings-balance-title": "크레딧 잔액",
     "cards-page-organization-membership-settings-balance-description": "{organizationName}에서만 사용가능하며, 유효기간은 한 달 입니다.",
-    "cards-page-organization-membership-settings-billing-day": "결제일",
-    "cards-page-organization-membership-settings-billing-day-description": "매 달 결제일부터 혜택사용이 가능합니다.",
+    "cards-page-organization-membership-settings-button-charge-title": "회수",
+    "cards-page-organization-membership-settings-button-clear-title": "취소",
+    "cards-page-organization-membership-settings-button-give-title": "추가",
+    "cards-page-organization-membership-settings-cash-balance-title": "현금 잔고",
     "cards-page-organization-membership-settings-delete-user-action-sheet": "사용자 삭제",
     "cards-page-organization-membership-settings-title": "회원설정",
-    "cards-page-organization-membership-settings-leave-failure": "조직을 떠나지 못했습니다.. 🙁",
+    "cards-page-organization-membership-settings-leave-failure": "조직을 떠나지 못했습니다. 🙁",
     "cards-page-organization-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
     "cards-page-organization-membership-settings-leave-organization": "이 조직 나가기",
     "cards-page-organization-membership-settings-leave-repeat": "다시시도",
@@ -19,8 +20,13 @@
     "cards-page-organization-membership-settings-role-info-admin": "관리자는 조직의 모든 것을 설정하고 관리 할 수 있습니다.",
     "cards-page-organization-membership-settings-role-info-moderator": "중간관리자는 조직의 컨텐츠와 길드를 관리 할 수 있습니다. 설정을 변경해야하는 경우 관리자에게 문의하십시오.",
     "cards-page-organization-membership-settings-role-info-member": "회원은 조직의 컨텐츠를 만들고 볼 수 있습니다. 기타 관리 관해서는 관리자 또는 중간관리자에게 문의하십시오.",
-    "cards-page-organization-membership-settings-plan" : "맴버십",
-    "cards-page-organization-membership-settings-plan-detail-info": "혜택 : {points} {emoji}",
-    "cards-page-organization-membership-settings-update-failure": "업데이트 실패"
+    "cards-page-organization-membership-settings-period-day": "일",
+    "cards-page-organization-membership-settings-period-week": "주",
+    "cards-page-organization-membership-settings-period-month": "달",
+    "cards-page-organization-membership-settings-title-hot-desk": "핫 데스크",
+    "cards-page-organization-membership-settings-title-fixed-desk": "전용 데스크",
+    "cards-page-organization-membership-settings-title-private-office": "사무실",
+    "cards-page-organization-membership-settings-title-hot-pass": "패스",
+    "cards-page-organization-membership-settings-update-failure":  "업데이트 실패"
   }
 }
