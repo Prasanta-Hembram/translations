@@ -1,9 +1,9 @@
 {
   "data": {
-    "marketing-search-description": "Найди лучшие коворкинги по всему миру! Бронируй место в коворкинге всего за несколько кликов и работай, где угодно!",
-    "marketing-search-city-description": "Найди лучшие коворкинги в г. {city}! Бронируй место в коворкинге всего за несколько кликов!",
-    "marketing-search-country-description": "Найди лучшие коворкинги в {country}! Бронируй место в коворкинге всего за несколько кликов!",
-    "marketing-search-title": "Ищи лучшие коворкинги по всему миру",
+    "marketing-search-description": "Лучшие коворкинги по всему миру. Бронируйте место, офис, переговорную или аудиторию в коворкинге и работайте, где угодно!",
+    "marketing-search-city-description": "Лучшие коворкинги в г. {city}, {country}. Бронируйте место, офис, переговорную или аудиторию в коворкинге всего за несколько кликов.",
+    "marketing-search-country-description": "Лучшие коворкинги в {country}. Бронируйте место, офис, переговорную или аудиторию в коворкинге.",
+    "marketing-search-title": "Лучшие коворкинги по всему миру",
     "marketing-search-city-title": "Коворкинги в г. {city}, {country}",
     "marketing-search-country-title": "Коворкинги, {country}",
     "marketing-search-amenities-kitchen": "Кухня",
@@ -14,7 +14,7 @@
     "marketing-search-amenities-printer-scanner": "Принтер/сканнер",
     "marketing-search-amenities-lockers": "Шкафчики",
     "marketing-search-search-placeholder": "Найдите коворкинг по месту или названию",
-    "marketing-search-section-find-coworking-you-will-love": "Коворкинг, в который ты влюбишся с первого взгляда!",
+    "marketing-search-section-find-coworking-you-will-love": "Коворкинг, в который можно влюбиться с первого взгляда!",
     "marketing-search-section-results-find-one": "{numberOfCoworkings} коворкинг",
     "marketing-search-section-results-last-digit-one": "{numberOfCoworkings} коворкинг",
     "marketing-search-section-results-last-digit-two-four": "{numberOfCoworkings} коворкинга",
