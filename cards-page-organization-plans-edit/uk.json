@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-plan-edit-credits": "Кредити",
+    "cards-page-organization-plan-edit-credits": "Кредити, {pointEmoji}",
     "cards-page-organization-plan-edit-delete-failure": "Не вдалося видалити план 🙁",
     "cards-page-organization-plan-edit-delete-plan": "Видалити план",
     "cards-page-organization-plan-edit-delete-repeat": "Спробувати знову",
@@ -10,8 +10,7 @@
     "cards-page-organization-plan-edit-period-day": "1 день",
     "cards-page-organization-plan-edit-period-week": "1 тиждень",
     "cards-page-organization-plan-edit-period-month": "1 місяць",
-    "cards-page-organization-plan-edit-price": "Ціна",
-    "cards-page-organization-plan-edit-price-placeholder": "Уведіть в долл. США",
+    "cards-page-organization-plan-edit-price": "Ціна, {currencySymbol}",
     "cards-page-organization-plan-edit-quantity": "Кількість",
     "cards-page-organization-plan-edit-seats": "Роб. місць",
     "cards-page-organization-plan-edit-is-public": "Публічно доступний",

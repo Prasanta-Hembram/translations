@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-properties-availability-available": "Available",
+    "cards-page-organization-properties-availability-in-minutes": "Available {time}",
     "cards-page-organization-properties-availability-unavailable": "Unavailable",
     "cards-page-organization-properties-default-booking-purpose": "Reservation",
     "cards-page-organization-properties-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",

@@ -1,13 +1,12 @@
 {
   "data": {
-    "cards-page-organization-plan-create-credits": "Credits",
+    "cards-page-organization-plan-create-credits": "Credits, {pointEmoji}",
     "cards-page-organization-plan-create-free-trial-day": "Free Trial Day",
     "cards-page-organization-plan-create-period": "Period",
     "cards-page-organization-plan-create-period-day": "1 day",
     "cards-page-organization-plan-create-period-week": "1 week",
     "cards-page-organization-plan-create-period-month": "1 month",
-    "cards-page-organization-plan-create-price": "Price",
-    "cards-page-organization-plan-create-price-placeholder": "Type in USD",
+    "cards-page-organization-plan-create-price": "Price, {currencySymbol}",
     "cards-page-organization-plan-create-quantity": "Quantity",
     "cards-page-organization-plan-create-seats": "Seats",
     "cards-page-organization-plan-create-is-public": "Public Access",

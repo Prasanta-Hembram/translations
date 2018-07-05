@@ -1,13 +1,12 @@
 {
   "data": {
-    "cards-page-organization-plan-create-credits": "크레딧",
+    "cards-page-organization-plan-create-credits": "크레딧, {pointEmoji}",
     "cards-page-organization-plan-create-free-trial-day": "하루 무료 시험",
     "cards-page-organization-plan-create-period": "최저 기간",
     "cards-page-organization-plan-create-period-day": "1일",
     "cards-page-organization-plan-create-period-week": "1주",
     "cards-page-organization-plan-create-period-month": "1달",
-    "cards-page-organization-plan-create-price": "가격",
-    "cards-page-organization-plan-create-price-placeholder": "USD화 입력하기",
+    "cards-page-organization-plan-create-price": "가격, {currencySymbol}",
     "cards-page-organization-plan-create-quantity": "판매 수",
     "cards-page-organization-plan-create-seats": "좌석 수",
     "cards-page-organization-plan-create-is-public": "외부인 구매 가능",

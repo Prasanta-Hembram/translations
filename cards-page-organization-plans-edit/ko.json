@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-plan-edit-credits": "크레딧",
+    "cards-page-organization-plan-edit-credits": "크레딧, {pointEmoji}",
     "cards-page-organization-plan-edit-delete-failure": "플랜 삭제 실패 🙁",
     "cards-page-organization-plan-edit-delete-plan": "플랜 삭제",
     "cards-page-organization-plan-edit-delete-repeat": "다시시도",
@@ -10,8 +10,7 @@
     "cards-page-organization-plan-edit-period-day": "1일",
     "cards-page-organization-plan-edit-period-week": "1주",
     "cards-page-organization-plan-edit-period-month": "1달",
-    "cards-page-organization-plan-edit-price": "가격",
-    "cards-page-organization-plan-edit-price-placeholder": "USD화 입력하기",
+    "cards-page-organization-plan-edit-price": "가격, {currencySymbol}",
     "cards-page-organization-plan-edit-quantity": "판매 수",
     "cards-page-organization-plan-edit-seats": "좌석 수",
     "cards-page-organization-plan-edit-is-public": "외부인 구매 가능",

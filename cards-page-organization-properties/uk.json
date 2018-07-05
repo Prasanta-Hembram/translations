@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-properties-availability-available": "Доступно",
+    "cards-page-organization-properties-availability-in-minutes": "Доступно {time}",
     "cards-page-organization-properties-availability-unavailable": "Недоступно",
     "cards-page-organization-properties-default-booking-purpose": "Резервація",
     "cards-page-organization-properties-get-failure": "Неможливо відобразити кімнати. Перевірте, чи все добре з інтернет-з'єднанням.",
