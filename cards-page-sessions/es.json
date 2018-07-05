@@ -5,7 +5,7 @@
     "cards-page-sessions-current": "Sesiones activas",
     "cards-page-sessions-current-cannot-load": "No se pueden cargar los detalles actuales de la sesión. Por favor verifique su conexión a internet.",
     "cards-page-sessions-description": "Esta es la lista de dispositivos que han iniciado sesión en andCards. Si no reconoce alguna de las sesiones activas, presione ··· y eliminela.",
-    "cards-page-sessions-info": "Sobre las sesiones",
+    "cards-page-sessions-info": "Acerca de las sesiones",
     "cards-page-sessions-remove": "Eliminar sesión",
     "cards-page-sessions-title": "Sesiones activas"
   }
