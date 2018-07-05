@@ -17,7 +17,7 @@
     "marketing-pricing-item": "Item",
     "marketing-pricing-meeting-room": "Meeting Room",
     "marketing-pricing-notice-advanced": "All prices are indicative and subject to applicable taxes in your country and payment method fees. Please {contactUs} for an exact estimate.",
-    "marketing-pricing-notice-essential": "All prices are indicative and subject to applicable taxes in your country, please {contactUs} and we'll provide a rate.",
+    "marketing-pricing-notice-essential": "All prices are per meeting room per month. If you can't see your country in the list, please {contactUs} and we'll provide a rate.",
     "marketing-pricing-subscriptions": "Membership Subscriptions",
     "marketing-pricing-subscriptions-price": "1% of transaction",
     "marketing-pricing-pro-features": "Advanced features",
