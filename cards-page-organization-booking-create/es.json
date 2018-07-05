@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-booking-create-balance-text": "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}",
-    "cards-page-organization-booking-create-balance-admin-text": "Como {permission} puedes reservar habitación gratis.",
+    "cards-page-organization-booking-create-balance-admin-text": "{permission} puedes reservar una habitación gratis.",
     "cards-page-organization-booking-create-card": "Su tarjeta",
     "cards-page-organization-booking-create-end-time": "Finalización",
     "cards-page-organization-booking-create-full-day-description": "El período mínimo de reserva es de 1 día.",

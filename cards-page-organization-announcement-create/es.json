@@ -1,11 +1,11 @@
 {
   "data": {
     "cards-page-organization-announcement-create-contents": "Contenidos",
-    "cards-page-organization-announcement-create-notification-push": "Notificación de inserción",
+    "cards-page-organization-announcement-create-notification-push": "Notificación Push",
     "cards-page-organization-announcement-create-stack-title": "Crear Anuncio",
-    "cards-page-organization-announcement-create-target-guilds": "Target Guilds",
+    "cards-page-organization-announcement-create-target-guilds": "Gremios objetivo",
     "cards-page-organization-announcement-create-target-guilds-select-all": "Todos",
-    "cards-page-organization-announcement-create-text-placeholder": "Cualquier aviso para su comunidad?",
+    "cards-page-organization-announcement-create-text-placeholder": "Dile algo a tu comunidad...",
     "cards-page-organization-announcement-create-title": "Título"
   }
 }

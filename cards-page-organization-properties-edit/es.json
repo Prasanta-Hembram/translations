@@ -10,10 +10,10 @@
     "cards-page-organization-property-edit-min-time-3-hour": "3 horas",
     "cards-page-organization-property-edit-min-time-4-hour": "4 horas",
     "cards-page-organization-property-edit-min-time-1-day": "1 día",
-    "cards-page-organization-property-edit-name": "Designación",
+    "cards-page-organization-property-edit-name": "Nombre",
     "cards-page-organization-property-edit-number-of-seats": "Numero de asientos",
-    "cards-page-organization-property-edit-price-money": "Precio (dólares americanos)",
-    "cards-page-organization-property-edit-price-points": "Points per hour",
-    "cards-page-organization-property-edit-title": "Cuarto de edición"
+    "cards-page-organization-property-edit-price-money": "Precio (USD por hora)",
+    "cards-page-organization-property-edit-price-points": "Precio (Créditos)",
+    "cards-page-organization-property-edit-title": "Editar Habitación"
   }
 }
