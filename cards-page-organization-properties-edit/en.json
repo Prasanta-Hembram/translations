@@ -12,8 +12,8 @@
     "cards-page-organization-property-edit-min-time-1-day": "1 day",
     "cards-page-organization-property-edit-name": "Name",
     "cards-page-organization-property-edit-number-of-seats": "Number of seats",
-    "cards-page-organization-property-edit-price-money": "Price (USD/hr)",
-    "cards-page-organization-property-edit-price-points": "Price (credits)",
+    "cards-page-organization-property-edit-price-money": "Price, {currencySymbol}/hr", 
+    "cards-page-organization-property-edit-price-points": "Credits, {pointEmoji}/hr",
     "cards-page-organization-property-edit-title": "Edit room"
   }
 }

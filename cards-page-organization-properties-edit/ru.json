@@ -12,8 +12,8 @@
     "cards-page-organization-property-edit-min-time-1-day": "1 день",
     "cards-page-organization-property-edit-name": "Название",
     "cards-page-organization-property-edit-number-of-seats": "Количество мест",
-    "cards-page-organization-property-edit-price-money": "Цена (USD/час)",
-    "cards-page-organization-property-edit-price-points": "Цена (кредиты)",
+    "cards-page-organization-property-edit-price-money": "Цена, {currencySymbol}/час", 
+    "cards-page-organization-property-edit-price-points": "Цена, {pointEmoji}/час",
     "cards-page-organization-property-edit-title": "Редактировать комнату"
   }
 }

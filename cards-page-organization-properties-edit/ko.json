@@ -12,8 +12,8 @@
     "cards-page-organization-property-edit-min-time-1-day": "1 일",
     "cards-page-organization-property-edit-name": "이름",
     "cards-page-organization-property-edit-number-of-seats": "좌석 수",
-    "cards-page-organization-property-edit-price-money": "시간당 USD",
-    "cards-page-organization-property-edit-price-points": "시간당 크레딧",
+    "cards-page-organization-property-edit-price-money": "시간당 {currencySymbol}", 
+    "cards-page-organization-property-edit-price-points": "시간당 {pointEmoji}",
     "cards-page-organization-property-edit-title": "시설설정"
   }
 }
