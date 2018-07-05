@@ -14,19 +14,11 @@
     "marketing-features-booking-calendar-description": "내부외부 예약 연동 시스템으로 모두가 사용가능한 예약 시스템을 구축합니다.",
     "marketing-features-booking-smartlock-title": "자체 보안구축을 위한 스마트 락",
     "marketing-features-booking-smartlock-description": "사용자는 예약 시간에만 활성화되는 핀코드를 통해서 공간을 출입하게 됩니다.",
-    "marketing-features-button-billing": "결제",
-    "marketing-features-button-booking": "예약",
-    "marketing-features-button-more": "더 많은 기능",
     "marketing-features-description": "코워킹 스페이스 운영 소프트웨어 andCards Suite : 회의실 예약, 결제 및 멤버쉽 앱",
     "marketing-features-main-headline": "여러분의 코워킹스페이스에 최적화된 andCards Suite 소프트웨어",
-    "marketing-features-more-headline": "더 많은 기능들 : ",
-    "marketing-features-more-notices": "푸시알림과 수신자 설정을 통한 공지사항 전달",
-    "marketing-features-more-branding": "고객 브랜딩 반영",
-    "marketing-features-more-settings": "필요한 모든 기능을 담은 회의실 예약 설정",
-    "marketing-features-more-languages": "다국어 지원",
-    "marketing-features-more-apps": "iOS, 안드로이드, Progressive 웹앱",
-    "marketing-features-more-statistics": "각종 통계자료 : 공간 사용 및 예약, 멤버십, 결제 내역",
     "marketing-features-request-demo": "데모 및 가격",
+    "marketing-features-request-demo-headline": "귀하의 코워킹스페이스에서 andCards Suite를 시험해 보세요",
+    "marketing-features-request-demo-text": "우리한테 이메일을 보내주시기 바랍니다",
     "marketing-features-title": "세부기능 — 회의실 예약 시스템, 공지사항, 멤버십 결제, 장기 결제, 브렌딩 | andCards Suite"
   }
 }

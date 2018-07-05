@@ -1,17 +1,23 @@
 {
   "data": {
+    "marketing-pricing-any-country": "Все страны",
     "marketing-pricing-basic-features": "Основные функции",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Push уведомления",
     "marketing-pricing-basic-features-community-directory-and-search": "Поиск и сортировка по гильдиям участников",
     "marketing-pricing-basic-features-credit-based-booking": "Кредитная система бронирования комнат",
     "marketing-pricing-basic-features-internal-booking-system": "Внутренняя система резервации",
+    "marketing-pricing-contact-us": "свяжитесь с нами",
+    "marketing-pricing-country-korea": "Корея",
+    "marketing-pricing-country-usa": "США",
+    "marketing-pricing-country-ukraine": "Украина",
     "marketing-pricing-description": "Бесплатно для индивидуальных пользователей, недорого для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
     "marketing-pricing-external": "Внешние бронирования комнат",
     "marketing-pricing-external-price": "5% от транзакции",
     "marketing-pricing-headline": "Получите свое приложение для коворкинга!",
+    "marketing-pricing-item": "Наименование",
     "marketing-pricing-meeting-room": "Переговорная",
-    "marketing-pricing-meeting-room-price": "$30 / месяц",
-    "marketing-pricing-notice": "Все цены являются ориентировочными, подлежат налогообложению в вашей стране, и не включают комиссию платежной системы. Пожалуйста, свяжитесь с нами для уточнения цены.",
+    "marketing-pricing-notice-advanced": "Все цены являются ориентировочными, подлежат налогообложению в вашей стране, и не включают комиссию платежной системы. Пожалуйста, {contactUs} для уточнения цены.",
+    "marketing-pricing-notice-essential": "Все цены указаны за переговорную в месяц. Если вашей страны нет в списке, пожалуйста {contactUs}.",
     "marketing-pricing-subscriptions": "Подписки на членство",
     "marketing-pricing-subscriptions-price": "1% от транзакции",
     "marketing-pricing-pro-features": "Расширенные функции",
@@ -19,7 +25,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Оплата подписок на коворкинг через приложение",
     "marketing-pricing-request-demo": "Запросить демо",
     "marketing-pricing-smart-lock": "Переговорная с умным замком",
-    "marketing-pricing-smart-lock-price": "$40 / месяц",
     "marketing-pricing-subheadline": "Управляйте всем — начиная с члества в коворкинге, заканчивая организацией пространства.",
     "marketing-pricing-title": "Цены — тарифные планы для коворкингов и компаний | andCards Suite" 
   }

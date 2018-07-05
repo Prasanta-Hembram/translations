@@ -14,19 +14,11 @@
     "marketing-features-booking-calendar-description": "Internal or external bookings integration allows for seamless and conflict-free booking experience.",
     "marketing-features-booking-smartlock-title": "Smart Lock for Secure Self-Access",
     "marketing-features-booking-smartlock-description": "Residents receive temporary pin code to access meeting room only within booking time.",
-    "marketing-features-button-billing": "Billing",
-    "marketing-features-button-booking": "Booking",
-    "marketing-features-button-more": "More",
     "marketing-features-description": "andCards Suite for Coworking Space Booking, Billing and Member Management",
     "marketing-features-main-headline": "Ultimate Software Suite for Your Coworking Space",
-    "marketing-features-more-headline": "and much more:",
-    "marketing-features-more-notices": "Notices with targeting and push-notifications",
-    "marketing-features-more-branding": "Custom branding with your logo and colors",
-    "marketing-features-more-settings": "Granular booking system settings to enforce booking policies",
-    "marketing-features-more-languages": "Multilingual interface",
-    "marketing-features-more-apps": "iOS, Android, progressive web apps",
-    "marketing-features-more-statistics": "Comprehensive statistics: booking utilization rate, organization membership, billing summary",
     "marketing-features-request-demo": "Request Demo and Pricing",
+    "marketing-features-request-demo-headline": "Try andCards Suite at Your Coworking Space",
+    "marketing-features-request-demo-text": "Drop us an email and we'll get back to you",
     "marketing-features-title": "Features — booking system, notices, membership, payments, customization | andCards Suite"
   }
 }
