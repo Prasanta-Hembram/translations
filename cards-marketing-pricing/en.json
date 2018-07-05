@@ -1,17 +1,23 @@
 {
   "data": {
+    "marketing-pricing-any-country": "Any country",
     "marketing-pricing-basic-features": "Essential features",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Send notices with push notifications",
     "marketing-pricing-basic-features-community-directory-and-search": "Community directory and search",
     "marketing-pricing-basic-features-credit-based-booking": "Credit-based room booking",
     "marketing-pricing-basic-features-internal-booking-system": "Internal booking system",
+    "marketing-pricing-contact-us": "contact us",
+    "marketing-pricing-country-korea": "Korea",
+    "marketing-pricing-country-usa": "USA",
+    "marketing-pricing-country-ukraine": "Ukraine",
     "marketing-pricing-description": "andCards pricing, fee, request demo, coworking space software price, coworking space app price",
     "marketing-pricing-external": "External Meeting Room Booking",
     "marketing-pricing-external-price": "5% of transaction",
     "marketing-pricing-headline": "Get your own coworking space app",
+    "marketing-pricing-item": "Item",
     "marketing-pricing-meeting-room": "Meeting Room",
-    "marketing-pricing-meeting-room-price": "$30 / month",
-    "marketing-pricing-notice": "All prices are indicative and subject to applicable taxes in your country and payment method fees. Please contact us for an exact estimate.",
+    "marketing-pricing-notice-advanced": "All prices are indicative and subject to applicable taxes in your country and payment method fees. Please {contactUs} for an exact estimate.",
+    "marketing-pricing-notice-essential": "All prices are per meeting room per month. If you can't see your country in the list, please {contactUs} and we'll provide a rate.",
     "marketing-pricing-subscriptions": "Membership Subscriptions",
     "marketing-pricing-subscriptions-price": "1% of transaction",
     "marketing-pricing-pro-features": "Advanced features",
@@ -19,7 +25,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Recurring membership subscriptions",
     "marketing-pricing-request-demo": "Request demo",
     "marketing-pricing-smart-lock": "Meeting Room with Smart Lock",
-    "marketing-pricing-smart-lock-price": "$40 / month",
     "marketing-pricing-subheadline": "Manage everything — from membership to space.",
     "marketing-pricing-title": "Pricing — price plans for coworking spaces | andCards Suite" 
   }
