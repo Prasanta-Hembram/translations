@@ -1,17 +1,23 @@
 {
   "data": {
+    "marketing-pricing-any-country": "Any country",
     "marketing-pricing-basic-features": "기본 기능",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "공지사항 (푸시 알림)",
     "marketing-pricing-basic-features-community-directory-and-search": "회원 찾기 및 실시간 검색",
     "marketing-pricing-basic-features-credit-based-booking": "크레딧 기반 회의실 예약",
     "marketing-pricing-basic-features-internal-booking-system": "내무용 회의실 예약 시스템",
+    "marketing-pricing-contact-us": "contact us",
+    "marketing-pricing-country-korea": "Korea",
+    "marketing-pricing-country-usa": "USA",
+    "marketing-pricing-country-ukraine": "Ukraine",
     "marketing-pricing-description": "andCards 가격, 수수료, 데모 시험 버전, 코워킹 스페이스 소프트웨어 가격, 코워킹 앱 가격",
     "marketing-pricing-external": "외부인 회의실 예약",
     "marketing-pricing-external-price": "5% / 건 당",
     "marketing-pricing-headline": "나만의 코워킹 스페이스 앱",
+    "marketing-pricing-item": "Item",
     "marketing-pricing-meeting-room": "회의실 당",
-    "marketing-pricing-meeting-room-price": "월 30,000원",
-    "marketing-pricing-notice": "참고가격. 부가가치세 별도. PG 수수료 발생. 가격 견적을 요청하세요.",
+    "marketing-pricing-notice-advanced": "All prices are indicative and subject to applicable taxes in your country and payment method fees. Please {contactUs} for an exact estimate.",
+    "marketing-pricing-notice-essential": "All prices are indicative and subject to applicable taxes in your country, please {contactUs} and we'll provide a rate.",
     "marketing-pricing-subscriptions": "멤버쉽 장기 결제",
     "marketing-pricing-subscriptions-price": "1% / 건 당",
     "marketing-pricing-pro-features": "고급 기능",
@@ -19,7 +25,6 @@
     "marketing-pricing-pro-features-recurring-membership": "멤버쉽 장기 결제",
     "marketing-pricing-request-demo": "데모 버전 요청하기",
     "marketing-pricing-smart-lock": "스마트 락 추가기능",
-    "marketing-pricing-smart-lock-price": "월 40,000원",
     "marketing-pricing-subheadline": "코워킹 스페이스를 위한 소프트웨어 : 멤버쉽 장기 결제, 회의실 예약 시스템",
     "marketing-pricing-title": "가격 — 앤카즈 수수료 및 가격 플렌 | andCards Suite" 
   }

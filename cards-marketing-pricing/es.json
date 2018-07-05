@@ -1,17 +1,23 @@
 {
   "data": {
+    "marketing-pricing-any-country": "Any country",
     "marketing-pricing-basic-features": "Caracteristicas basicas",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Anuncios con notificaciones push",
     "marketing-pricing-basic-features-community-directory-and-search": "Directorio y búsqueda de la Comunidad",
     "marketing-pricing-basic-features-credit-based-booking": "Reserva de habitaciones basada en créditos",
     "marketing-pricing-basic-features-internal-booking-system": "Sistema de reserva interna",
+    "marketing-pricing-contact-us": "contact us",
+    "marketing-pricing-country-korea": "Korea",
+    "marketing-pricing-country-usa": "USA",
+    "marketing-pricing-country-ukraine": "Ukraine",
     "marketing-pricing-description": "andCards precios, cuotas, solicitud de demostración, software para el precio de los espacios de coworking, aplicación para el precio de los espacios de coworking",
     "marketing-pricing-external": "Reserva de Sala de Reuniones Externa",
     "marketing-pricing-external-price": "5% de la transacción",
     "marketing-pricing-headline": "Obtenga su propia aplicación de espacio de coworking",
+    "marketing-pricing-item": "Item",
     "marketing-pricing-meeting-room": "Sala de Reuniones",
-    "marketing-pricing-meeting-room-price": "$30 / mes",
-    "marketing-pricing-notice": "Todos los precios son indicativos y están sujetos a impuestos aplicables en su país. Por favor contáctenos para un presupuesto exacto.",
+    "marketing-pricing-notice-advanced": "All prices are indicative and subject to applicable taxes in your country and payment method fees. Please {contactUs} for an exact estimate.",
+    "marketing-pricing-notice-essential": "All prices are indicative and subject to applicable taxes in your country, please {contactUs} and we'll provide a rate.",
     "marketing-pricing-subscriptions": "Suscripciones de Membresías",
     "marketing-pricing-subscriptions-price": "1% de la transacción",
     "marketing-pricing-pro-features": "Características avanzadas",
@@ -19,7 +25,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Suscripciones de membresía recurrentes",
     "marketing-pricing-request-demo": "Solicitar demo",
     "marketing-pricing-smart-lock": "Sala de Reuniones con sistema Smart Lock",
-    "marketing-pricing-smart-lock-price": "$40 / mes",
     "marketing-pricing-subheadline": "Administre todo: desde la membresía hasta el espacio.",
     "marketing-pricing-title": "andCards: Precios — paquetes de precios para los usuarios, compañeros de trabajo y empresas" 
   }
