@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-page-organization-booking-details-action-delete": "Borrar",
+    "cards-page-organization-booking-details-alert-refund-by-admin": "Booking owner got 100% refund of credits",
+    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} successfully refunded.",
     "cards-page-organization-booking-details-balance-text" : "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Reservado por",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copiado al portapapeles",

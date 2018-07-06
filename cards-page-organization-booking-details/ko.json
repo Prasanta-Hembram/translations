@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-page-organization-booking-details-action-delete": "삭제",
+    "cards-page-organization-booking-details-alert-refund-by-admin": "Booking owner got 100% refund of credits",
+    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} successfully refunded.",
     "cards-page-organization-booking-details-balance-text" : "현재 잔액 : {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "예약자",
     "cards-page-organization-booking-details-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
