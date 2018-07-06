@@ -3,7 +3,6 @@
     "cards-page-organization-booking-details-action-delete": "Удалить",
     "cards-page-organization-booking-details-alert-refund-by-admin": "Booking owner got 100% refund of credits",
     "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} successfully refunded.",
-    "cards-page-organization-booking-details-balance-text" : "Остаток до транзакции: {numberOfPoints} {pointsEmoji}",
     "cards-page-organization-booking-details-booked-by": "Кто забронировал",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-booking-details-default-purpose": "Бронь",
