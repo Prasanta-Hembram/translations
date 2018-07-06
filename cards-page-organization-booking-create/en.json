@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}",
+    "cards-page-organization-booking-create-balance-text": "Remaining balance before transaction: {numberOfPoints} {pointsEmoji}.\nIf you cancel this booking before it starts, 100% of credits will be refunded.",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} can book a room for free.",
     "cards-page-organization-booking-create-card": "Your card",
     "cards-page-organization-booking-create-end-time": "Ending",

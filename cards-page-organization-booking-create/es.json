@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-text": "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}",
+    "cards-page-organization-booking-create-balance-text": "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}.\nIf you cancel this booking before it starts, 100% of credits will be refunded.",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} puedes reservar una habitación gratis.",
     "cards-page-organization-booking-create-card": "Su tarjeta",
     "cards-page-organization-booking-create-end-time": "Finalización",
