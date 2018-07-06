@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-text": "Остаток до транзакции: {numberOfPoints} {pointsEmoji}.\nIf you cancel this booking before it starts, 100% of credits will be refunded.",
+    "cards-page-organization-booking-create-balance-text": "Остаток до транзакции: {numberOfPoints} {pointsEmoji}.\nВ случае отмены бронирования до его начала 100% средств будут возмещены на ваш счет.",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} может бронировать комнату бесплатно.",
     "cards-page-organization-booking-create-card": "Ваша карточка",
     "cards-page-organization-booking-create-end-time": "Конец",
