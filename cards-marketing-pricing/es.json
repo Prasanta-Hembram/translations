@@ -1,5 +1,7 @@
 {
   "data": {
+    "marketing-pricing-title": "Precios — paquetes de precios para los usuarios, compañeros de trabajo y empresas | andCards Suite",
+    "marketing-pricing-description": "andCards precios, cuotas, solicitud de demostración, software para el precio de los espacios de coworking, aplicación para el precio de los espacios de coworking",
     "marketing-pricing-any-country": "Todos los países",
     "marketing-pricing-basic-features": "Caracteristicas basicas",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Anuncios con notificaciones push",
@@ -10,7 +12,6 @@
     "marketing-pricing-country-korea": "Corea",
     "marketing-pricing-country-usa": "EE.UU.",
     "marketing-pricing-country-ukraine": "Ucrania",
-    "marketing-pricing-description": "andCards precios, cuotas, solicitud de demostración, software para el precio de los espacios de coworking, aplicación para el precio de los espacios de coworking",
     "marketing-pricing-external": "Reserva de Sala de Reuniones Externa",
     "marketing-pricing-external-price": "5% de la transacción",
     "marketing-pricing-headline": "Obtenga su propia aplicación de espacio de coworking",
@@ -25,7 +26,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Suscripciones de membresía recurrentes",
     "marketing-pricing-request-demo": "Solicitar demo",
     "marketing-pricing-smart-lock": "Sala de Reuniones con sistema Smart Lock",
-    "marketing-pricing-subheadline": "Administre todo: desde la membresía hasta el espacio.",
-    "marketing-pricing-title": "Precios — paquetes de precios para los usuarios, compañeros de trabajo y empresas | andCards Suite" 
+    "marketing-pricing-subheadline": "Administre todo: desde la membresía hasta el espacio."
   }
 }

@@ -1,5 +1,7 @@
 {
   "data": {
+    "marketing-pricing-title": "Pricing — price plans for coworking spaces | andCards Suite",
+    "marketing-pricing-description": "andCards pricing, fee, request demo, coworking space software price, coworking space app price",
     "marketing-pricing-any-country": "Any country",
     "marketing-pricing-basic-features": "Essential features",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Send notices with push notifications",
@@ -10,7 +12,6 @@
     "marketing-pricing-country-korea": "Korea",
     "marketing-pricing-country-usa": "USA",
     "marketing-pricing-country-ukraine": "Ukraine",
-    "marketing-pricing-description": "andCards pricing, fee, request demo, coworking space software price, coworking space app price",
     "marketing-pricing-external": "External Meeting Room Booking",
     "marketing-pricing-external-price": "5% of transaction",
     "marketing-pricing-headline": "Get your own coworking space app",
@@ -25,7 +26,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Recurring membership subscriptions",
     "marketing-pricing-request-demo": "Request demo",
     "marketing-pricing-smart-lock": "Meeting Room with Smart Lock",
-    "marketing-pricing-subheadline": "Manage everything — from membership to space.",
-    "marketing-pricing-title": "Pricing — price plans for coworking spaces | andCards Suite" 
+    "marketing-pricing-subheadline": "Manage everything — from membership to space."
   }
 }

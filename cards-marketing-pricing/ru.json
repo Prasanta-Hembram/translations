@@ -1,5 +1,7 @@
 {
   "data": {
+    "marketing-pricing-title": "Цены — тарифные планы для коворкингов и компаний | andCards Suite",
+    "marketing-pricing-description": "Бесплатно для индивидуальных пользователей, недорого для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
     "marketing-pricing-any-country": "Все страны",
     "marketing-pricing-basic-features": "Основные функции",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Push уведомления",
@@ -10,7 +12,6 @@
     "marketing-pricing-country-korea": "Корея",
     "marketing-pricing-country-usa": "США",
     "marketing-pricing-country-ukraine": "Украина",
-    "marketing-pricing-description": "Бесплатно для индивидуальных пользователей, недорого для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
     "marketing-pricing-external": "Внешние бронирования комнат",
     "marketing-pricing-external-price": "5% от транзакции",
     "marketing-pricing-headline": "Получите свое приложение для коворкинга!",
@@ -25,7 +26,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Оплата подписок на коворкинг через приложение",
     "marketing-pricing-request-demo": "Запросить демо",
     "marketing-pricing-smart-lock": "Переговорная с умным замком",
-    "marketing-pricing-subheadline": "Управляйте всем — начиная с члества в коворкинге, заканчивая организацией пространства.",
-    "marketing-pricing-title": "Цены — тарифные планы для коворкингов и компаний | andCards Suite" 
+    "marketing-pricing-subheadline": "Управляйте всем — начиная с члества в коворкинге, заканчивая организацией пространства."
   }
 }
