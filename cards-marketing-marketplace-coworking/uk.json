@@ -1,7 +1,7 @@
 {
   "data": {
-    "marketing-marketplace-coworking-description": "Дізнатися все про коворкінг {coworkingTitle} і забронювати свое робоче місце за кілька кліків!",
-    "marketing-marketplace-coworking-title": "{coworkingTitle}, {city} - зручності, фото, ціни та тарифні плани на коворкінг | andCards",
+    "marketing-marketplace-coworking-title": "{coworkingTitle}, {city} коворкінг | andCards",
+    "marketing-marketplace-coworking-description": "{coworkingTitle} - фото, ціни, тарифи, резервація онлайн",
     "marketing-marketplace-coworking-amenities": "Зручності",
     "marketing-marketplace-coworking-amenities-kitchen": "Кухня",
     "marketing-marketplace-coworking-amenities-unlimited-drinks": "Кава/чай без обмежень",

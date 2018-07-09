@@ -1,5 +1,7 @@
 {
   "data": {
+    "marketing-pricing-title": "Ціни — скільки коштує andCards для коворкінгів | andCards Suite",
+    "marketing-pricing-description": "Безкоштовно для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз із безкоштовною пробною версією!",
     "marketing-pricing-any-country": "Усі країни",
     "marketing-pricing-basic-features": "Основні функції",
     "marketing-pricing-basic-features-announcements-with-push-notifications": "Push сповіщення",
@@ -10,7 +12,6 @@
     "marketing-pricing-country-korea": "Корея",
     "marketing-pricing-country-usa": "США",
     "marketing-pricing-country-ukraine": "Україна",
-    "marketing-pricing-description": "Безкоштовно для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз із безкоштовною пробною версією!",
     "marketing-pricing-external": "Зовнішні резервації кімнат",
     "marketing-pricing-external-price": "5% від транзакції",
     "marketing-pricing-headline": "Отримайте свій власний додаток для коворкінгу!",
@@ -25,7 +26,6 @@
     "marketing-pricing-pro-features-recurring-membership": "Система оплати підписок на коворкінг через додаток",
     "marketing-pricing-request-demo": "Запросити демо",
     "marketing-pricing-smart-lock": "Кімната з розумним замком",
-    "marketing-pricing-subheadline": "Автоматизуйте все в коворкінгу — від оплат до бронювань.",
-    "marketing-pricing-title": "Ціни — тарифні плани для коворкінгів та компаній | andCards Suite" 
+    "marketing-pricing-subheadline": "Автоматизуйте все в коворкінгу — від оплат до бронювань."
   }
 }

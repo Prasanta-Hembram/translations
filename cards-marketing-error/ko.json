@@ -1,8 +1,8 @@
 {
   "data": {
-    "marketing-error-title": "에러 - {errorCode} | 앤카즈",
+    "marketing-error-title": "에러 - {errorCode} | andCards",
     "marketing-error-description": "andCards — 조직과 코워킹 스페이스를 위한 커뮤니티 소프트웨어",
-    "marketing-error-something-is-missing": " ",
+    "marketing-error-something-is-missing": "아무것도 없어요 😥",
     "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "{supportPage}를 방문하십시오. {homePage}",
     "marketing-error-help-page": "고객센터",
     "marketing-error-home": "메인으로 돌아가기"

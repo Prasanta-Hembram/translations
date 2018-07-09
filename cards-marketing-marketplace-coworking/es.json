@@ -1,7 +1,7 @@
 {
   "data": {
-    "marketing-marketplace-coworking-description": "Descubre todo sobre el espacio de coworking de {coworkingTitle} y reserva tu mesa de inmediato!",
-    "marketing-marketplace-coworking-title": "{coworkingTitle}, {city} - explore las comodidades de coworking fotos, precios y reserve en línea | andCards",
+    "marketing-marketplace-coworking-title": "{coworkingTitle}, {city} coworking | andCards",
+    "marketing-marketplace-coworking-description": "{coworkingTitle} coworking fotos, precios y reserve en línea",
     "marketing-marketplace-coworking-amenities": "Comodidades",
     "marketing-marketplace-coworking-amenities-kitchen": "Cocina",
     "marketing-marketplace-coworking-amenities-unlimited-drinks": "Café / té ilimitados",
