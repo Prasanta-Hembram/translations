@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-my-cards-edit-design-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-my-cards-edit-design-title": "Редагування дизайну",
     "cards-page-my-cards-edit-design-full-name": "Повне ім'я",
     "cards-page-my-cards-edit-design-select-data": "Обрати поле",
@@ -17,10 +16,6 @@
     "cards-page-my-cards-edit-design-photos": "Фотографії",
     "cards-page-my-cards-edit-design-font-name": "Шрифт імені",
     "cards-page-my-cards-edit-design-font-field": "Шрифт даних",
-    "cards-page-my-cards-edit-design-mappings": "Дизайн та макет",
-    "cards-page-my-cards-edit-design-store-get-card-design": "Завантажити",
-    "cards-page-my-cards-edit-design-store-get-card-design-success": "Готово! Відредагуйте картку, щоб застосувати цей дизайн.",
-    "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "Неможливо завантажити дизайн. Спробуйте ще раз.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "Неможливо завантажити дизайн картки. Перевірте, чи все добре з інтернет-з'єднанням."
+    "cards-page-my-cards-edit-design-mappings": "Дизайн та макет"
   }
 }

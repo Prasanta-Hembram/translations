@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-my-cards-edit-design-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-my-cards-edit-design-title": "디자인 편집",
     "cards-page-my-cards-edit-design-full-name": "이름",
     "cards-page-my-cards-edit-design-select-data": "선택하기",
@@ -17,10 +16,6 @@
     "cards-page-my-cards-edit-design-photos": "프로필사진",
     "cards-page-my-cards-edit-design-font-name": "이름 글씨체",
     "cards-page-my-cards-edit-design-font-field": "본문 글씨체",
-    "cards-page-my-cards-edit-design-mappings": "디자인 설정",
-    "cards-page-my-cards-edit-design-store-get-card-design": "받기",
-    "cards-page-my-cards-edit-design-store-get-card-design-success": "다운로드가 완료되었습니다. 새 디자인을 적용해보세요.",
-    "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "다운로드 실패. 나중에 다시 시도하세요.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "카드 디자인을 가져올 수 없습니다. 인터넷 연결을 확인해 주세요."
+    "cards-page-my-cards-edit-design-mappings": "디자인 설정"
   }
 }

@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-my-cards-edit-design-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-my-cards-edit-design-title": "Editar diseño",
     "cards-page-my-cards-edit-design-full-name": "Nombre completo",
     "cards-page-my-cards-edit-design-select-data": "Seleccionar datos",
@@ -17,10 +16,6 @@
     "cards-page-my-cards-edit-design-photos": "Fotos",
     "cards-page-my-cards-edit-design-font-name": "Fuente del Nombre",
     "cards-page-my-cards-edit-design-font-field": "Fuente del Campo",
-    "cards-page-my-cards-edit-design-mappings": "Diseño y Mapeos",
-    "cards-page-my-cards-edit-design-store-get-card-design": "Conseguir",
-    "cards-page-my-cards-edit-design-store-get-card-design-success": "¡Bien hecho! Edite su tarjeta para aplicar este diseño.",
-    "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "No se puede descarga el diseño. Intentelo nuevamente más tarde.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "No se pudieron obtener diseños de tarjeta. ¿Estás seguro de que hay una conexión a Internet?"
+    "cards-page-my-cards-edit-design-mappings": "Diseño y Mapeos"
   }
 }

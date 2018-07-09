@@ -1,6 +1,5 @@
 {
   "data": {
-    "cards-page-my-cards-edit-design-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-my-cards-edit-design-title": "Редактирование дизайна",
     "cards-page-my-cards-edit-design-full-name": "Полное имя",
     "cards-page-my-cards-edit-design-select-data": "Выбрать поле",
@@ -17,10 +16,6 @@
     "cards-page-my-cards-edit-design-photos": "Фотографии",
     "cards-page-my-cards-edit-design-font-name": "Шрифт имени",
     "cards-page-my-cards-edit-design-font-field": "Шрифт данных",
-    "cards-page-my-cards-edit-design-mappings": "Дизайн и макет",
-    "cards-page-my-cards-edit-design-store-get-card-design": "Получить",
-    "cards-page-my-cards-edit-design-store-get-card-design-success": "Готово! Отредактируйте карточку, чтобы применить этот дизайн.",
-    "cards-page-my-cards-edit-design-store-get-card-design-unsuccess": "Невозможно загрузить дизайн. Попробуйте еще раз.",
-    "cards-page-my-cards-edit-design-store-no-card-designs": "Невозможно загрузить дизайн карточки. Проверьте, все ли хорошо с интернет-соединением."
+    "cards-page-my-cards-edit-design-mappings": "Дизайн и макет"
   }
 }
