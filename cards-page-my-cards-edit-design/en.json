@@ -1,11 +1,6 @@
 {
   "data": {
     "cards-page-my-cards-edit-design-title": "Editing design",
-    "cards-page-my-cards-edit-design-full-name": "Full name",
-    "cards-page-my-cards-edit-design-select-data": "Select data",
-    "cards-page-my-cards-edit-design-default": "Default",
-    "cards-page-my-cards-edit-design-empty": "Empty field",
-    "cards-page-my-cards-edit-design-automapping-switch": "Auto-map my data",
     "cards-page-my-cards-edit-design-color-reset": "Reset color to default",
     "cards-page-my-cards-edit-design-image-crop-no-image": "Couldn't load photo. Are you sure there is an internet connection?",
     "cards-page-my-cards-edit-design-photo-crop": "Crop photo",
@@ -14,8 +9,6 @@
     "cards-page-my-cards-edit-design-photo-deselect": "Deselect",
     "cards-page-my-cards-edit-design-photo-edit": "Edit",
     "cards-page-my-cards-edit-design-photos": "Photos",
-    "cards-page-my-cards-edit-design-font-name": "Name Font",
-    "cards-page-my-cards-edit-design-font-field": "Field Font",
     "cards-page-my-cards-edit-design-mappings": "Design & Mappings"
   }
 }

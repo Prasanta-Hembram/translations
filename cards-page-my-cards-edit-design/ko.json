@@ -1,11 +1,6 @@
 {
   "data": {
     "cards-page-my-cards-edit-design-title": "디자인 편집",
-    "cards-page-my-cards-edit-design-full-name": "이름",
-    "cards-page-my-cards-edit-design-select-data": "선택하기",
-    "cards-page-my-cards-edit-design-default": "기본",
-    "cards-page-my-cards-edit-design-empty": "없음",
-    "cards-page-my-cards-edit-design-automapping-switch": "내 정보 자동입력",
     "cards-page-my-cards-edit-design-color-reset": "기본색상 돌아가기",
     "cards-page-my-cards-edit-design-image-crop-no-image":"사진을 가져올 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-my-cards-edit-design-photo-crop": "사진 자르기",
@@ -14,8 +9,6 @@
     "cards-page-my-cards-edit-design-photo-deselect": "선택 취소",
     "cards-page-my-cards-edit-design-photo-edit": "편집",
     "cards-page-my-cards-edit-design-photos": "프로필사진",
-    "cards-page-my-cards-edit-design-font-name": "이름 글씨체",
-    "cards-page-my-cards-edit-design-font-field": "본문 글씨체",
     "cards-page-my-cards-edit-design-mappings": "디자인 설정"
   }
 }
