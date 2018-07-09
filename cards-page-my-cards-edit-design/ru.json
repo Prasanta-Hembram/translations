@@ -8,6 +8,8 @@
     "cards-page-my-cards-edit-design-photo-deselect": "Отменить выбор",
     "cards-page-my-cards-edit-design-photo-edit": "Редактировать",
     "cards-page-my-cards-edit-design-photos": "Фотографии",
-    "cards-page-my-cards-edit-design-mappings": "Дизайн и макет"
+    "cards-page-my-cards-edit-design-preview": "Design Preview",
+    "cards-page-my-cards-edit-design-preview-background-color": "Background Color",
+    "cards-page-my-cards-edit-design-preview-font-color": "Font Color"
   }
 }
