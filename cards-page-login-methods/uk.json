@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-page-login-methods-title": "Login Methods",
+    "cards-page-login-methods-added": "Додані номери",
+    "cards-page-login-methods-delete-account": "Видалити обліковий запис",
+    "cards-page-login-methods-info-add": "Щоб додати номер, натисніть",
+    "cards-page-login-methods-info-modify": "Щоб замінити чи видалити номер, натисніть",
+    "cards-page-login-methods-remove": "Видалити номер телефону",
+    "cards-page-login-methods-no-data": "Немає номеру телефону або інтернету",
+    "cards-page-login-methods-social-networks": "Social Networks",
+    "cards-page-login-methods-social-networks-facebook": "Facebook",
+    "cards-page-login-methods-social-networks-google": "Google"
+  }
+}
