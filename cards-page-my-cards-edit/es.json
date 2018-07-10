@@ -1,0 +1,22 @@
+{
+  "data": {
+    "cards-page-my-cards-edit-edit-title": "Editar información",
+    "cards-page-my-cards-edit-create-title": "Crear tarjeta",
+    "cards-page-my-cards-edit-shared-basic-information": "Información Básica",
+    "cards-page-my-cards-edit-shared-phone-numbers-information": "Números Telefónicos",
+    "cards-page-my-cards-edit-shared-emails-information": "Direcciones de Correo Electrónico",
+    "cards-page-my-cards-edit-shared-social-information": "Cuentas en Redes Sociales",
+    "cards-page-my-cards-edit-error-action": "Recargar",
+    "cards-page-my-cards-edit-error-text": "La página no pudo ser cargada por problemas de internet o del servidor. Por favor inténtelo nuevamente.",
+    "cards-page-my-cards-edit-image-crop-no-image":"No se pudo cargar la foto ¿Estás seguro de que hay una conexión a Internet?",
+    "cards-page-my-cards-edit-photo-crop": "Cortar foto",
+    "cards-page-my-cards-edit-photo-delete": "Eliminar",
+    "cards-page-my-cards-edit-photo-delete-select": "Seleccionar",
+    "cards-page-my-cards-edit-photo-deselect": "Deseleccionar",
+    "cards-page-my-cards-edit-photo-edit": "Editar",
+    "cards-page-my-cards-edit-photos": "Fotos",
+    "cards-page-my-cards-edit-preview": "Design Preview",
+    "cards-page-my-cards-edit-preview-background-color": "Background Color",
+    "cards-page-my-cards-edit-preview-font-color": "Font Color"
+  }
+}

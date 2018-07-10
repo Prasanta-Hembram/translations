@@ -1,0 +1,22 @@
+{
+  "data": {
+    "cards-page-my-cards-edit-edit-title": "Editing data",
+    "cards-page-my-cards-edit-create-title": "Create card",
+    "cards-page-my-cards-edit-shared-basic-information": "Basic Information",
+    "cards-page-my-cards-edit-shared-phone-numbers-information": "Phone Numbers",
+    "cards-page-my-cards-edit-shared-emails-information": "Email Addresses",
+    "cards-page-my-cards-edit-shared-social-information": "Social Accounts",
+    "cards-page-my-cards-edit-error-action": "Reload",
+    "cards-page-my-cards-edit-error-text": "Could not load page because of internet or server issue. Please try again.",
+    "cards-page-my-cards-edit-image-crop-no-image": "Couldn't load photo. Are you sure there is an internet connection?",
+    "cards-page-my-cards-edit-photo-crop": "Crop photo",
+    "cards-page-my-cards-edit-photo-delete": "Delete",
+    "cards-page-my-cards-edit-photo-delete-select": "Select",
+    "cards-page-my-cards-edit-photo-deselect": "Deselect",
+    "cards-page-my-cards-edit-photo-edit": "Edit",
+    "cards-page-my-cards-edit-photos": "Photos",
+    "cards-page-my-cards-edit-preview": "Design Preview",
+    "cards-page-my-cards-edit-preview-background-color": "Background Color",
+    "cards-page-my-cards-edit-preview-font-color": "Font Color"
+  }
+}
