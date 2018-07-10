@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-my-cards-edit-edit-title": "정보 편집",
+    "cards-page-my-cards-edit-create-title": "카드 만들기",
+    "cards-page-my-cards-edit-shared-basic-information": "기본 정보",
+    "cards-page-my-cards-edit-shared-phone-numbers-information": "연락처",
+    "cards-page-my-cards-edit-shared-emails-information": "이메일",
+    "cards-page-my-cards-edit-shared-social-information": "SNS",
+    "cards-page-my-cards-edit-error-action": "다시 로드",
+    "cards-page-my-cards-edit-error-text": "인터넷 또는 서버 문제로 페이지를 볼 수 없습니다. 다시 시도하세요.",
+    "cards-page-my-cards-edit-image-crop-no-image":"사진을 가져올 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-my-cards-edit-photo-crop": "사진 자르기",
+    "cards-page-my-cards-edit-photo-delete": "삭제하기",
+    "cards-page-my-cards-edit-photo-delete-select": "선택하기",
+    "cards-page-my-cards-edit-photo-deselect": "선택 취소",
+    "cards-page-my-cards-edit-photo-edit": "편집",
+    "cards-page-my-cards-edit-photos": "프로필사진",
+    "cards-page-my-cards-edit-preview": "카드 미리보기"
+  }
+}

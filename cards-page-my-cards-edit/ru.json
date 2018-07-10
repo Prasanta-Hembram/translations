@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-my-cards-edit-edit-title": "Редактирование данных",
+    "cards-page-my-cards-edit-create-title": "Создать карточку",
+    "cards-page-my-cards-edit-shared-basic-information": "Основная информация",
+    "cards-page-my-cards-edit-shared-phone-numbers-information": "Номера телефонов",
+    "cards-page-my-cards-edit-shared-emails-information": "Электропочта",
+    "cards-page-my-cards-edit-shared-social-information": "Социальные сервисы",
+    "cards-page-my-cards-edit-error-action": "Перезагрузить",
+    "cards-page-my-cards-edit-error-text": "Невозможно отобразить страницу из-за проблем с интернетом или сервером.",
+    "cards-page-my-cards-edit-image-crop-no-image": "Невозможно загрузить фото. Проверьте, все ли хорошо с интернет-соединением.",
+    "cards-page-my-cards-edit-photo-crop": "Кадрировать фото",
+    "cards-page-my-cards-edit-photo-delete": "Удалить",
+    "cards-page-my-cards-edit-photo-delete-select": "Выбрать",
+    "cards-page-my-cards-edit-photo-deselect": "Отменить выбор",
+    "cards-page-my-cards-edit-photo-edit": "Редактировать",
+    "cards-page-my-cards-edit-photos": "Фотографии",
+    "cards-page-my-cards-edit-preview": "Предосмотр карточки"
+  }
+}
