@@ -1,6 +1,6 @@
 {
   "data": {
-    "marketing-error-title": "Error - {errorCode} | andCards",
+    "marketing-error-title": "Error - {errorCode}",
     "marketing-error-description": "andCards — software comunitario para organizaciones y compañeros de trabajos",
     "marketing-error-something-is-missing": "Algo falta",
     "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Visite nuestra {supportPage} para conseguir ayuda o regrese a {homePage}",
