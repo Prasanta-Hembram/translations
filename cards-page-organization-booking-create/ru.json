@@ -1,7 +1,11 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-text": "Остаток до транзакции: {numberOfPoints} {pointsEmoji}.\nВ случае отмены бронирования до его начала 100% средств будут возмещены на ваш счет.",
+    "cards-page-organization-booking-create-balance-action-button-point": "Кредиты",
+    "cards-page-organization-booking-create-balance-action-button-money": "Наличные",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} может бронировать комнату бесплатно.",
+    "cards-page-organization-booking-create-balance-description-text": "В случае отмены бронирования до его начала 100% средств будут возмещены на ваш счет.",
+    "cards-page-organization-booking-create-balance-money-text": "Остаток до транзакции: {moneyBalance} {currencySymbol}.",
+    "cards-page-organization-booking-create-balance-points-text": "Остаток до транзакции: {pointBalance} {pointsEmoji}.",
     "cards-page-organization-booking-create-card": "Ваша карточка",
     "cards-page-organization-booking-create-end-time": "Конец",
     "cards-page-organization-booking-create-full-day-description": "Минимальный период резервации - 1 день.",
@@ -10,8 +14,11 @@
     "cards-page-organization-booking-create-role-moderator": "Модератор",
     "cards-page-organization-booking-create-role-member": "Участник",
     "cards-page-organization-booking-create-start-time": "Начало",
-    "cards-page-organization-booking-create-price": "Всего",
+    "cards-page-organization-booking-create-pay-with": "Способ оплаты",
+    "cards-page-organization-booking-create-pay-with-validation-error": "К сожалению, у вас недостаточно кредитов для бронирования. Пожалуйста, сконтактируйтесь с менеджером, чтобы получить больше кредитов.",
     "cards-page-organization-booking-create-purpose": "Цель",
+    "cards-page-organization-booking-create-total-credit-price": "Цель, {pointEmoji}",
+    "cards-page-organization-booking-create-total-money-price": "Цель, {currencySymbol}",
     "cards-page-organization-booking-create-title": "Новое бронирование"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "cards-alert-confirmation-organization-membership-settings-money-give-no": "취소",
+    "cards-alert-confirmation-organization-membership-settings-money-give-yes": "회수",
+    "cards-alert-confirmation-organization-membership-settings-money-give-default-value": "0",
+    "cards-alert-confirmation-organization-membership-settings-money-give-message": "회수할 금액을 입력하세요.",
+    "cards-alert-confirmation-organization-membership-settings-money-give-title": "현금 잔고 회수"
+  }
+}

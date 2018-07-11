@@ -1,7 +1,11 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-text": "Saldo restante antes de la transacción: {numberOfPoints} {pointsEmoji}.\nSi cancelas esta reserva antes de su comienzo, el 100% de los créditos serán reembolsados.",
+    "cards-page-organization-booking-create-balance-action-button-point": "Points",
+    "cards-page-organization-booking-create-balance-action-button-money": "Money",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} puedes reservar una habitación gratis.",
+    "cards-page-organization-booking-create-balance-description-text": "Si cancelas esta reserva antes de su comienzo, el 100% de los créditos serán reembolsados.",
+    "cards-page-organization-booking-create-balance-money-text": "Saldo restante antes de la transacción: {moneyBalance} {currencySymbol}.",
+    "cards-page-organization-booking-create-balance-points-text": "Saldo restante antes de la transacción: {pointBalance} {pointsEmoji}.",
     "cards-page-organization-booking-create-card": "Su tarjeta",
     "cards-page-organization-booking-create-end-time": "Finalización",
     "cards-page-organization-booking-create-full-day-description": "El período mínimo de reserva es de 1 día.",
@@ -10,8 +14,11 @@
     "cards-page-organization-booking-create-role-moderator": "Moderador",
     "cards-page-organization-booking-create-role-member": "Miembro",
     "cards-page-organization-booking-create-start-time": "Inicio",
-    "cards-page-organization-booking-create-price": "Total",
-    "cards-page-organization-booking-create-purpose": "Propósito",
+    "cards-page-organization-booking-create-pay-with": "Pay with",
+    "cards-page-organization-booking-create-pay-with-validation-error": "Unfortunately, you have no enough credits to make this booking. Please, contact a manager to get more credits.",
+    "cards-page-organization-booking-create-purpose": "Propósito",
+    "cards-page-organization-booking-create-total-credit-price": "Total, {pointEmoji}",
+    "cards-page-organization-booking-create-total-money-price": "Total, {currencySymbol}",
     "cards-page-organization-booking-create-title": "Nueva reserva"
   }
 }
