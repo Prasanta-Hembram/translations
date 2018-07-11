@@ -2,7 +2,6 @@
   "data": {
     "cards-alert-confirmation-organization-membership-settings-money-give-no": "Отменить",
     "cards-alert-confirmation-organization-membership-settings-money-give-yes": "Очистить",
-    "cards-alert-confirmation-organization-membership-settings-money-give-default-value": "0",
     "cards-alert-confirmation-organization-membership-settings-money-give-message": "Введите нужную сумму денег, которая будет взыматься с резидента.",
     "cards-alert-confirmation-organization-membership-settings-money-give-title": "Введите сумму денег."
   }

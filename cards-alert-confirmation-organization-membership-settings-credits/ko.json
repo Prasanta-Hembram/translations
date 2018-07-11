@@ -2,12 +2,10 @@
   "data":{
     "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "취소",
     "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "회수",
-    "cards-alert-confirmation-organization-membership-settings-credits-charge-default-value": "5",
     "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "회수할 크레딧 수를 입력하세요.",
     "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "크레딧 회수",
     "cards-alert-confirmation-organization-membership-settings-credits-give-no": "취소",
     "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "추가",
-    "cards-alert-confirmation-organization-membership-settings-credits-give-default-value": "5",
     "cards-alert-confirmation-organization-membership-settings-credits-give-message": "추가할 크레딧 수를 입력하세요",
     "cards-alert-confirmation-organization-membership-settings-credits-give-title": "크레딧 추가"
   }

@@ -2,12 +2,10 @@
   "data":{
     "cards-alert-confirmation-organization-membership-settings-credits-charge-no": "Cancelar",
     "cards-alert-confirmation-organization-membership-settings-credits-charge-yes": "Cobrar",
-    "cards-alert-confirmation-organization-membership-settings-credits-charge-default-value": "5",
     "cards-alert-confirmation-organization-membership-settings-credits-charge-message": "Ingrese la cantidad de monedas de crédito para cobrarle al miembro.",
     "cards-alert-confirmation-organization-membership-settings-credits-charge-title": "Cobrar créditos",
     "cards-alert-confirmation-organization-membership-settings-credits-give-no": "Cancelar",
     "cards-alert-confirmation-organization-membership-settings-credits-give-yes": "Dar",
-    "cards-alert-confirmation-organization-membership-settings-credits-give-default-value": "5",
     "cards-alert-confirmation-organization-membership-settings-credits-give-message": "Ingrese la cantidad de monedas de crédito para darle al miembro.",
     "cards-alert-confirmation-organization-membership-settings-credits-give-title": "Dar créditos"
   }
