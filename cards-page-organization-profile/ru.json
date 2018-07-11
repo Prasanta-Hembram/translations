@@ -17,6 +17,12 @@
     "cards-page-organization-profile-share": "Поделится",
     "cards-page-organization-profile-phone-number-required": "Телефон",
     "cards-page-organization-profile-required-fields-description": "Все участники обязаны предоставить следующую персональную информацию:",
-    "cards-page-organization-profile-title": "Общая информация и приглашения"
+    "cards-page-organization-profile-required-fields-title": "Обязательные поля",
+    "cards-page-organization-profile-title": "Общая информация и приглашения",
+    "cards-page-organization-profile-user-leave-failure": "Не удалось покинуть коворкинг. 🙁",
+    "cards-page-organization-profile-user-leave-organization": "Покинуть коворкинг",
+    "cards-page-organization-profile-user-leave-repeat": "Попробовать еще раз"
+    
+  
   }
 }

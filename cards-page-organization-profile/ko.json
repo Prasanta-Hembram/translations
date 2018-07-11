@@ -17,6 +17,11 @@
     "cards-page-organization-profile-share": "공유하기",
     "cards-page-organization-profile-phone-number-required": "휴대전화",
     "cards-page-organization-profile-required-fields-description": "모든 회원은 다음과 같은 개인 정보를 공유해야 함 :",
-    "cards-page-organization-profile-title": "일반정보 및 회원가입"
+    "cards-page-organization-profile-required-fields-title": "Required Fields",
+    "cards-page-organization-profile-title": "일반정보 및 회원가입",
+    "cards-page-organization-profile-user-leave-failure":  "사용자 삭제 실패 🙁",
+    "cards-page-organization-profile-user-leave-organization": "이 조직 나가기",
+    "cards-page-organization-profile-user-leave-repeat": "다시시도"
+   
   }
 }

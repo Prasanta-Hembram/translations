@@ -16,7 +16,11 @@
     "cards-page-organization-profile-name": "Name",
     "cards-page-organization-profile-phone-number-required": "Phone Number",
     "cards-page-organization-profile-required-fields-description": "Require all members to share the following personal information:",
+    "cards-page-organization-profile-required-fields-title": "Required Fields",
     "cards-page-organization-profile-share": "Share",
-    "cards-page-organization-profile-title": "Profile and Joining"
+    "cards-page-organization-profile-title": "Profile and Joining",
+    "cards-page-organization-profile-user-leave-failure": "Failed to leave workspace. 🙁",
+    "cards-page-organization-profile-user-leave-organization": "Leave workspace",
+    "cards-page-organization-profile-user-leave-repeat": "Try again"
   }
 }

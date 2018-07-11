@@ -17,6 +17,11 @@
     "cards-page-organization-profile-share": "Поділитись",
     "cards-page-organization-profile-phone-number-required": "Телефон",
     "cards-page-organization-profile-required-fields-description": "Усі учасники зобов'язані надавати наступну персональну інформацію:",
-    "cards-page-organization-profile-title": "Загальна інформація та запрошення"
+    "cards-page-organization-profile-required-fields-title": "Обов'язкові поля",
+    "cards-page-organization-profile-title": "Загальна інформація та запрошення",
+    "cards-page-organization-profile-user-leave-failure":  "Не вдалося покинути коворкінг. 🙁",
+    "cards-page-organization-profile-user-leave-organization": "Покинути коворкінг",
+    "cards-page-organization-profile-user-leave-repeat": "Спробувати знову"
+   
   }
 }
