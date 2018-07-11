@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-login-methods-title": "Login Methods",
+    "cards-page-login-methods-title": "Métodos de ingreso",
     "cards-page-login-methods-added": "Numero(s) Añadido(s)",
     "cards-page-login-methods-delete-account": "Eliminar cuenta",
     "cards-page-login-methods-info-add": "Añada números presionando ",
     "cards-page-login-methods-info-modify": "Cambie números presionando ",
     "cards-page-login-methods-remove": "Borrar número telefónico",
     "cards-page-login-methods-no-data": "No hay números telefónicos ni internet",
-    "cards-page-login-methods-social-networks": "Social Networks",
+    "cards-page-login-methods-social-networks": "Redes sociales",
     "cards-page-login-methods-social-networks-facebook": "Facebook",
     "cards-page-login-methods-social-networks-google": "Google"
   }
