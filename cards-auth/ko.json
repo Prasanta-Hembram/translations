@@ -12,7 +12,6 @@
     "cards-auth-next-step": "동의하고 계속하기",
     "cards-auth-number": "전화번호",
     "cards-auth-type-phone-number-here": "예)1012345678",
-    "cards-auth-type-sms-code-here": "인증번호 입력",
-    "cards-auth-welcome-header": "환영합니다"
+    "cards-auth-type-sms-code-here": "인증번호 입력"
   }
 }

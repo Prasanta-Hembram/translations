@@ -12,7 +12,6 @@
     "cards-auth-next-step": "Agree and continue",
     "cards-auth-number": "Number",
     "cards-auth-type-phone-number-here": "Type number",
-    "cards-auth-type-sms-code-here": "Type SMS code",
-    "cards-auth-welcome-header": "Welcome"
+    "cards-auth-type-sms-code-here": "Type SMS code"
   }
 }

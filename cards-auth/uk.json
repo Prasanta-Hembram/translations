@@ -12,7 +12,6 @@
     "cards-auth-next-step": "Погодитись та продовжити",
     "cards-auth-number": "Номер",
     "cards-auth-type-phone-number-here": "Введіть номер",
-    "cards-auth-type-sms-code-here": "Введіть СМС пароль",
-    "cards-auth-welcome-header": "Вітаємо"
+    "cards-auth-type-sms-code-here": "Введіть СМС пароль"
   }
 }
