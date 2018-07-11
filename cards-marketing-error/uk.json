@@ -1,6 +1,6 @@
 {
   "data": {
-    "marketing-error-title": "Помилка - {errorCode} | andCards",
+    "marketing-error-title": "Помилка - {errorCode}",
     "marketing-error-description": "andCards — сервіс для розбудови коворкінгів та організацій",
     "marketing-error-something-is-missing": "Щось пішло не так",
     "marketing-error-visit-our-support-page-or-forums-for-help-or-return-home": "Відвідайте {supportPage} для допомоги, або поверніться {homePage}",
