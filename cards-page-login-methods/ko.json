@@ -8,7 +8,7 @@
     "cards-page-login-methods-remove": "전화번호 삭제",
     "cards-page-login-methods-no-data": "전화번호 없음",
     "cards-page-login-methods-social-networks": "SNS 로그인",
-    "cards-page-login-methods-social-networks-facebook": "Facebook",
-    "cards-page-login-methods-social-networks-google": "Google"
+    "cards-page-login-methods-social-networks-facebook": "페이스북",
+    "cards-page-login-methods-social-networks-google": "구글"
   }
 }
