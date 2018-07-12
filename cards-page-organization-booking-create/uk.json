@@ -14,11 +14,11 @@
     "cards-page-organization-booking-create-role-moderator": "Модератор",
     "cards-page-organization-booking-create-role-member": "Учасник",
     "cards-page-organization-booking-create-pay-with": "Спосіб оплати",
-    "cards-page-organization-booking-create-pay-with-validation-error": "На жаль, у вас не вистачає кредитів для резервації. Будь ласка, сконтактуйтесь з менеджером, щоб отримати більше кредитів.",
+    "cards-page-organization-booking-create-pay-with-validation-error": "Недостатньо кредитів для резервації. Отримайте більше кредитів і спробуйте ще раз.",
     "cards-page-organization-booking-create-purpose": "Мета",
     "cards-page-organization-booking-create-start-time": "Початок",
-    "cards-page-organization-booking-create-total-credit-price": "Усього, {pointEmoji}",
-    "cards-page-organization-booking-create-total-money-price": "Усього, {currencySymbol}",
+    "cards-page-organization-booking-create-total-credit-price": "Разом, {pointEmoji}",
+    "cards-page-organization-booking-create-total-money-price": "Разом, {currencySymbol}",
     "cards-page-organization-booking-create-title": "Нова резервація"
   }
 }
