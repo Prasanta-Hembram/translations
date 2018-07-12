@@ -15,7 +15,7 @@
     "cards-page-organization-booking-create-role-member": "Member",
     "cards-page-organization-booking-create-start-time": "Starting",
     "cards-page-organization-booking-create-pay-with": "Pay with",
-    "cards-page-organization-booking-create-pay-with-validation-error": "Unfortunately, you have no enough credits to make this booking. Please, contact a manager to get more credits.",
+    "cards-page-organization-booking-create-pay-with-validation-error": "You don't have enough credits to make this booking. Please get more credits and try again.",
     "cards-page-organization-booking-create-purpose": "Purpose",
     "cards-page-organization-booking-create-total-credit-price": "Total, {pointEmoji}",
     "cards-page-organization-booking-create-total-money-price": "Total, {currencySymbol}",
