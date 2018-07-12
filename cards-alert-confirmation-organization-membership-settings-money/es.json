@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-alert-confirmation-organization-membership-settings-money-give-no": "Cancel",
-    "cards-alert-confirmation-organization-membership-settings-money-give-yes": "Clear",
-    "cards-alert-confirmation-organization-membership-settings-money-give-message": "Enter the amount of money to give to the member.",
-    "cards-alert-confirmation-organization-membership-settings-money-give-title": "Enter the amount of money."
+    "cards-alert-confirmation-organization-membership-settings-money-give-no": "Cancelar",
+    "cards-alert-confirmation-organization-membership-settings-money-give-yes": "Despejar",
+    "cards-alert-confirmation-organization-membership-settings-money-give-message": "Inserte la cantidad de dinero a entregar al miembro.",
+    "cards-alert-confirmation-organization-membership-settings-money-give-title": "Inserte la cantidad de dinero"
   }
 }
