@@ -1,10 +1,10 @@
 {
   "data": {
     "cards-page-organization-booking-create-balance-action-button-point": "Кредиты",
-    "cards-page-organization-booking-create-balance-action-button-money": "Деньги",
+    "cards-page-organization-booking-create-balance-action-button-money": "Наличные",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} может бронировать комнату бесплатно.",
     "cards-page-organization-booking-create-balance-description-text": "В случае отмены бронирования до его начала 100% средств будут возмещены на ваш счет.",
-    "cards-page-organization-booking-create-balance-money-text": "Остаток денег до транзакции: {currencySymbol}{moneyBalance}.",
+    "cards-page-organization-booking-create-balance-money-text": "Баланс наличных до транзакции: {currencySymbol}{moneyBalance}.",
     "cards-page-organization-booking-create-balance-points-text": "Остаток кредитов до транзакции: {pointBalance} {pointsEmoji}.",
     "cards-page-organization-booking-create-book-for-free": "Бронировать",
     "cards-page-organization-booking-create-book-for-points": "Бронировать за {pointBalance} {pointsEmoji}",
