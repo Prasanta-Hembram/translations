@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-action-button-point": "Кредиты",
-    "cards-page-organization-booking-create-balance-action-button-money": "Наличные",
+    "cards-page-organization-booking-create-balance-action-button-point": "Кредиты ({points} {pointsEmoji})",
+    "cards-page-organization-booking-create-balance-action-button-money": "Наличные (-{currencySymbol}{money})",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} может бронировать комнату бесплатно.",
     "cards-page-organization-booking-create-balance-description-text": "В случае отмены бронирования до его начала 100% средств будут возмещены на ваш счет.",
     "cards-page-organization-booking-create-balance-money-text": "Баланс наличных до транзакции: {currencySymbol}{moneyBalance}.",
@@ -18,8 +18,6 @@
     "cards-page-organization-booking-create-pay-with": "Способ оплаты",
     "cards-page-organization-booking-create-pay-with-validation-error": "Недостаточно кредитов для бронирования. Получите больше кредитов и попробуйте снова.",
     "cards-page-organization-booking-create-purpose": "Цель",
-    "cards-page-organization-booking-create-total-credit-price": "Цена, {pointEmoji}",
-    "cards-page-organization-booking-create-total-money-price": "Цена, {currencySymbol}",
     "cards-page-organization-booking-create-title": "Новое бронирование"
   }
 }

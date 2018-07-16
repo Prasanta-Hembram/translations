@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-organization-plan-create-credits": "Кредити, {pointEmoji}",
+    "cards-page-organization-plan-create-free-trial-day": "Безкоштовний пробний день",
+    "cards-page-organization-plan-create-period": "Мін. період",
+    "cards-page-organization-plan-create-period-day": "1 день",
+    "cards-page-organization-plan-create-period-week": "1 тиждень",
+    "cards-page-organization-plan-create-period-month": "1 місяць",
+    "cards-page-organization-plan-create-price": "Ціна, {currencySymbol}",
+    "cards-page-organization-plan-create-quantity": "Кількість",
+    "cards-page-organization-plan-create-seats": "Роб. місць",
+    "cards-page-organization-plan-create-is-public": "Публічно доступний",
+    "cards-page-organization-plan-create-title": "Додати план",
+    "cards-page-organization-plan-create-type": "Тип",
+    "cards-page-organization-plan-create-type-fixed-desk": "Фіксоване місце",
+    "cards-page-organization-plan-create-type-hot-desk": "Нефіксоване місце",
+    "cards-page-organization-plan-create-type-pass": "Квиток на вхід",
+    "cards-page-organization-plan-create-type-private-office": "Приватний офіс"
+  }
+}

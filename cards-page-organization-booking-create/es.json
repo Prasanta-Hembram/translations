@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-action-button-point": "Créditos",
-    "cards-page-organization-booking-create-balance-action-button-money": "Dinero",
+    "cards-page-organization-booking-create-balance-action-button-point": "Créditos ({points} {pointsEmoji})",
+    "cards-page-organization-booking-create-balance-action-button-money": "Dinero (-{currencySymbol}{money})",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} puedes reservar una habitación gratis.",
     "cards-page-organization-booking-create-balance-description-text": "Si cancelas esta reserva antes de su comienzo, el 100% de los créditos serán reembolsados.",
     "cards-page-organization-booking-create-balance-money-text": "Saldo restante antes de la transacción: {currencySymbol}{moneyBalance}.",
@@ -18,8 +18,6 @@
     "cards-page-organization-booking-create-pay-with": "Pay with",
     "cards-page-organization-booking-create-pay-with-validation-error": "Desafortunadamente no tiene suficientes créditos para realizar esta reserva. Por favor, contacte a un gerente para obtener mas créditos.",
     "cards-page-organization-booking-create-purpose": "Propósito",
-    "cards-page-organization-booking-create-total-credit-price": "Total, {pointEmoji}",
-    "cards-page-organization-booking-create-total-money-price": "Total, {currencySymbol}",
     "cards-page-organization-booking-create-title": "Nueva reserva"
   }
 }

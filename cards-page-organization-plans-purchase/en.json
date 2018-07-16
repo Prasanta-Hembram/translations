@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-organization-plan-create-credits": "Credits, {pointEmoji}",
+    "cards-page-organization-plan-create-free-trial-day": "Free Trial Day",
+    "cards-page-organization-plan-create-period": "Period",
+    "cards-page-organization-plan-create-period-day": "1 day",
+    "cards-page-organization-plan-create-period-week": "1 week",
+    "cards-page-organization-plan-create-period-month": "1 month",
+    "cards-page-organization-plan-create-price": "Price, {currencySymbol}",
+    "cards-page-organization-plan-create-quantity": "Quantity",
+    "cards-page-organization-plan-create-seats": "Seats",
+    "cards-page-organization-plan-create-is-public": "Public Access",
+    "cards-page-organization-plan-create-title": "Add Plan",
+    "cards-page-organization-plan-create-type": "Type",
+    "cards-page-organization-plan-create-type-fixed-desk": "Fixed Desk",
+    "cards-page-organization-plan-create-type-hot-desk": "Hot Desk",
+    "cards-page-organization-plan-create-type-pass": "Pass",
+    "cards-page-organization-plan-create-type-private-office": "Private Office"
+  }
+}

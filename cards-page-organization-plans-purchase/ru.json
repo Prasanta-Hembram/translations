@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-organization-plan-create-credits": "Кредиты, {pointEmoji}",
+    "cards-page-organization-plan-create-free-trial-day": "Бесплатный пробный день",
+    "cards-page-organization-plan-create-period": "Мин. период",
+    "cards-page-organization-plan-create-period-day": "1 день",
+    "cards-page-organization-plan-create-period-week": "1 неделя",
+    "cards-page-organization-plan-create-period-month": "1 месяц",
+    "cards-page-organization-plan-create-price": "Цена, {currencySymbol}",
+    "cards-page-organization-plan-create-quantity": "Кол-во",
+    "cards-page-organization-plan-create-seats": "Раб. мест",
+    "cards-page-organization-plan-create-is-public": "Публично доступно",
+    "cards-page-organization-plan-create-title": "Добавить план",
+    "cards-page-organization-plan-create-type": "Тип",
+    "cards-page-organization-plan-create-type-fixed-desk": "Закрепленное место",
+    "cards-page-organization-plan-create-type-hot-desk": "Незакрепленное место",
+    "cards-page-organization-plan-create-type-pass": "Входной билет",
+    "cards-page-organization-plan-create-type-private-office": "Отдельный офис"
+  }
+}
