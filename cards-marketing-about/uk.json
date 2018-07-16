@@ -1,15 +1,19 @@
 {
   "data": {
-    "marketing-about-title": "Про компанію — історія, новини, адреса, контакти | andCards",
-    "marketing-about-description": "Хто розробляє сервіси andCards? Дізнайтесь про Cards Corp. — компанію-розробника ПЗ та хмарного сервісу для організації коворкінгів та організацій.",
-    "marketing-about-locations": "Локації",
+    "marketing-about-title": "Про andCards - хто ми і що ми робимо | andCards",
+    "marketing-about-description": "Хто розробляє сервіси andCards? Хто розробник ПЗ для коворкінгів?",
+    "marketing-about-contacts": "Контакти",
     "marketing-about-locations-lviv": "Львів",
     "marketing-about-locations-lviv-address": "iHUB Львів\n вул. Замкнена, 9\n Львів 79000\n Україна",
     "marketing-about-locations-seoul": "Сеул",
     "marketing-about-locations-seoul-address": "3 пов., 109 Чхонпа-ро,\n Йонсан-ку,\n Сеул 04370,\n Південна Корея",
-    "marketing-about-news": "Новини",
-    "marketing-about-we-are-cards" : "Ми — Cards Corp.",
-    "marketing-about-us": "Про нас",
-    "marketing-about-us-text": "Cards Corp. — розробник сервісу andCards для побудови спільнот. Компанію засновано в Сеулі, Республіка Корея, двома громадянами України. Cards Corp. є переможцем різноманітних міжнародних конкурсів, таких як K-Startup Grand Challenge 2017, Infinity Challenge на Startup Festival 2017, а також Global Startup Expo в Сеулі."
+    "marketing-about-news": "Останні новини",
+    "marketing-about-we-are-cards": "andCards — працюй, де забажаєш!",
+    "marketing-about-what-we-do-title": "Що ми робимо",
+    "marketing-about-what-we-do-marketplace": "andCards.com",
+    "marketing-about-what-we-do-marketplace-description": "Глобальний маркетплейс для пошуку коворкінг центрів.",
+    "marketing-about-what-we-do-suite": "andCards Suite",
+    "marketing-about-what-we-do-suite-description": "ПЗ для автоматизації коворкінг центрів",
+    "marketing-about-us-text": "В andCards ми переконані, що існує кращий спосіб працювати. Оточення сірого офісу й однакових облич — це минуле. Наша команда впевнена, що майбутнє — за гнучким робочим місцем, коли люди вільні від стін. Відкрити для себе безліч неймовірних робочих місць з усього світу, або керувати й автоматизувати робочий простір — andCards прагне революціонізувати робочу культуру на всіх її рівнях."
   }
 }

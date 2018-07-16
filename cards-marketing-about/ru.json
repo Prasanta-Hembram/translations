@@ -1,15 +1,19 @@
 {
   "data": {
-    "marketing-about-title": "О компании — история, новости, контакты | andCards",
-    "marketing-about-description": "Кто разрабатывает andCards? Узнайте о Cards Corp. — компании-разработчике ПО и облачного сервиса для коворкингов и организаций.",
-    "marketing-about-locations": "Офисы",
+    "marketing-about-title": "Об andCards - кто мы и чем занимаемся | andCards",
+    "marketing-about-description": "Кто разрабатывает andCards, ПО для коворкинг центров.",
+    "marketing-about-contacts": "Контакты",
     "marketing-about-locations-lviv": "Львов",
     "marketing-about-locations-lviv-address": "iHUB Львов\n ул. Замкнена, 9\n Львов 79000\n Украина",
     "marketing-about-locations-seoul": "Сеул",
     "marketing-about-locations-seoul-address": "3 эт., 109 Чхонпа-ро,\n Йонгсан-гу,\n Сеул 04370,\n Республика Корея",
-    "marketing-about-news": "Новости",
-    "marketing-about-we-are-cards" : "Мы — Cards Corp.",
-    "marketing-about-us": "О нас",
-    "marketing-about-us-text": "Cards Corp. — разработчик сервиса andCards для организации сообществ. Компания основана в Сеуле, Республика Корея. Cards Corp. явлется победителем различных международных конкурсов, таких как K-Startup Grand Challenge 2017, Infinity Challenge на Startup Festival 2017, а также Global Startup Expo в Сеуле."
+    "marketing-about-news": "Последние новости",
+    "marketing-about-we-are-cards": "andCards — работай где угодно!",
+    "marketing-about-what-we-do-title": "Чем мы занимаемся",
+    "marketing-about-what-we-do-marketplace": "andCards.com",
+    "marketing-about-what-we-do-marketplace-description": "Глобальный маркетплейс для поиска коворкингов",
+    "marketing-about-what-we-do-suite": "andCards Suite",
+    "marketing-about-what-we-do-suite-description": "ПО для автоматизации коворкингов",
+    "marketing-about-us-text": "В andCards мы убеждены, что существует лучший способ работать. Окружение серого офиса и одинаковых лиц — это прошлое. Наша команда уверена, что будущее за гибким рабочим местом, когда люди свободны от стен. Открыть для себя множество невероятных рабочих мест по всему миру, или управлять и автоматизировать рабочее пространство — andCards стремится трансформировать рабочую культуру на всех ее уровнях."
   }
 }
