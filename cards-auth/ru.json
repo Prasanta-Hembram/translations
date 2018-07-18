@@ -11,6 +11,8 @@
     "cards-auth-link-cookies-policy": "куки-файлов",
     "cards-auth-next-step": "Принять и продолжить",
     "cards-auth-number": "Номер",
+    "cards-auth-login-with-google": "Login with Google",
+    "cards-auth-login-with-facebook": "Login with Facebook",
     "cards-auth-type-phone-number-here": "Введите номер",
     "cards-auth-type-sms-code-here": "Введите СМС пароль"
   }
