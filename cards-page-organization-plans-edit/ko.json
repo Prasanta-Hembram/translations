@@ -4,7 +4,7 @@
     "cards-page-organization-plan-edit-delete-failure": "플랜 삭제 실패 🙁",
     "cards-page-organization-plan-edit-delete-plan": "플랜 삭제",
     "cards-page-organization-plan-edit-delete-repeat": "다시시도",
-    "cards-page-organization-plan-edit-delete-plan-reject": "일부 회원이 멤버십 플랜을 사용하기 때문에 멤버십 플랜을 삭제 실패.",
+    "cards-page-organization-plan-edit-delete-plan-reject": "삭제 실패 : 플랜 사용 중",
     "cards-page-organization-plan-edit-free-trial-day": "하루 무료 시험",
     "cards-page-organization-plan-edit-period": "최저 기간",
     "cards-page-organization-plan-edit-period-day": "1일",
