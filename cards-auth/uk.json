@@ -11,8 +11,8 @@
     "cards-auth-link-cookies-policy": "кукі-файлів",
     "cards-auth-next-step": "Погодитись та продовжити",
     "cards-auth-number": "Номер",
-    "cards-auth-login-with-google": "Увійти через Google",
-    "cards-auth-login-with-facebook": "Увійти через Facebook",
+    "cards-auth-login-with-google": "Продовжити з Google",
+    "cards-auth-login-with-facebook": "Продовжити з Facebook",
     "cards-auth-type-phone-number-here": "Введіть номер",
     "cards-auth-type-sms-code-here": "Введіть СМС пароль"
   }
