@@ -11,8 +11,8 @@
     "cards-auth-link-cookies-policy": "Cookies",
     "cards-auth-next-step": "Agree and continue",
     "cards-auth-number": "Number",
-    "cards-auth-login-with-google": "Login with Google",
-    "cards-auth-login-with-facebook": "Login with Facebook",
+    "cards-auth-login-with-google": "Continue with Google",
+    "cards-auth-login-with-facebook": "Continue with Facebook",
     "cards-auth-type-phone-number-here": "Type number",
     "cards-auth-type-sms-code-here": "Type SMS code"
   }
