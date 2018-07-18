@@ -4,7 +4,7 @@
     "cards-page-organization-plan-edit-delete-failure": "Не вдалося видалити план 🙁",
     "cards-page-organization-plan-edit-delete-plan": "Видалити план",
     "cards-page-organization-plan-edit-delete-repeat": "Спробувати знову",
-    "cards-page-organization-plan-edit-delete-plan-reject": "Неможливо видалити тарифний план оскільки він є активним у деяких учасників.",
+    "cards-page-organization-plan-edit-delete-plan-reject": "Неможливо видалити: план використовується.",
     "cards-page-organization-plan-edit-free-trial-day": "Безкоштовний пробний день",
     "cards-page-organization-plan-edit-period": "Мін. період",
     "cards-page-organization-plan-edit-period-day": "1 день",
