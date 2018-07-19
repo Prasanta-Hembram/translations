@@ -14,6 +14,8 @@
     "cards-page-organization-membership-settings-leave-user-failure": "Не вдалося видалити учасника. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Покинути коворкінг",
     "cards-page-organization-membership-settings-leave-repeat": "Спробувати знову",
+    "cards-page-organization-membership-settings-plans-renews": "Поновлення: {daysLeft}",
+    "cards-page-organization-membership-settings-last-day": "Останній день",
     "cards-page-organization-membership-settings-role": "Роль",
     "cards-page-organization-membership-settings-role-admin": "Адміністратор",
     "cards-page-organization-membership-settings-role-moderator": "Модератор",
