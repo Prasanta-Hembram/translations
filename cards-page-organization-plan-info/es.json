@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-page-organization-plan-info-active-title": "Plan activo",
-    "cards-page-organization-plan-info-auto-renew": "Renovar subscripción automáticamente",
-    "cards-page-organization-plan-info-auto-renew-description": "Seguirá recibiendo cobros regularmente a menos que cancele la subscripción.",
     "cards-page-organization-plan-info-empty": "Este plan no existe o puede haber sido eliminado 😕",
     "cards-page-organization-plan-info-period-pay-with-title": "Page con",
     "cards-page-organization-plan-info-period-pay-with-cash-title": "Dinero",
@@ -11,6 +9,7 @@
     "cards-page-organization-plan-info-period-month": "1 mes",
     "cards-page-organization-plan-info-period-title": "Periodo",
     "cards-page-organization-plan-info-period-week": "1 semana",
+    "cards-page-organization-plan-info-subscribe": "Subscribirse",
     "cards-page-organization-plan-info-unsubscribe": "Cancelar subscripción",
     "cards-page-organization-plan-info-unsubscribe-alert": "La subscripción fue cancelada.",
     "cards-page-organization-plan-info-title-hot-desk": "Escritorio Caliente",

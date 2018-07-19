@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-page-organization-plan-info-active-title": "Active plan",
-    "cards-page-organization-plan-info-auto-renew": "Auto-renew",
-    "cards-page-organization-plan-info-auto-renew-description": "You will be charged regularly unless you cancel the subscription.",
     "cards-page-organization-plan-info-empty": "This plan may not exist or may have been removed. 😕",
     "cards-page-organization-plan-info-period-pay-with-title": "Pay with",
     "cards-page-organization-plan-info-period-pay-with-cash-title": "Cash",
@@ -11,6 +9,7 @@
     "cards-page-organization-plan-info-period-month": "1 month",
     "cards-page-organization-plan-info-period-title": "Period",
     "cards-page-organization-plan-info-period-week": "1 week",
+    "cards-page-organization-plan-info-subscribe": "Extend",
     "cards-page-organization-plan-info-unsubscribe": "Unsubscribe",
     "cards-page-organization-plan-info-unsubscribe-alert": "Subscription was cancelled.",
     "cards-page-organization-plan-info-title-hot-desk": "Hot Desk",
