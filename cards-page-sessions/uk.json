@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-sessions-active-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
-    "cards-page-sessions-active-empty": "Немає активних сеансів.",
-    "cards-page-sessions-current": "Активні сеанси",
+    "cards-page-sessions-current": "Current session",
     "cards-page-sessions-current-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
     "cards-page-sessions-description": "Нижче наведений список пристроїв, на яких ви увійшли в andCards. Якщо ви не впізнаєте жодного з активних сеансів, натисніть ··· та видаліть його.",
-    "cards-page-sessions-info": "Про цей розділ",
+    "cards-page-sessions-other": "Активні сеанси",
+    "cards-page-sessions-other-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
+    "cards-page-sessions-other-empty": "Немає активних сеансів.",
     "cards-page-sessions-remove": "Видалити сеанс",
     "cards-page-sessions-title": "Активні сеанси"
   }
