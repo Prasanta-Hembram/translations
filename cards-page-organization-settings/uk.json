@@ -12,6 +12,7 @@
     "cards-page-organization-settings-booking-until": "До",
     "cards-page-organization-settings-billing-section-title": "Розрахунки",
     "cards-page-organization-settings-billing-system": "Платіжна система",
+    "cards-page-organization-settings-billing-system-description": "Billing system enables in-app payments for rooms and membership plans in the workspace. To change it contact support@andcards.com.",
     "cards-page-organization-settings-permission-denied": "На жаль, у вас немає доступу. ",
     "cards-page-organization-settings-point-label": "Кредитна система для резервацій",
     "cards-page-organization-settings-property-section-title": "Система резервації",

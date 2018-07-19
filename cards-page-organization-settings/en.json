@@ -12,6 +12,7 @@
     "cards-page-organization-settings-booking-until": "Until",
     "cards-page-organization-settings-billing-section-title": "Billing Settings",
     "cards-page-organization-settings-billing-system": "Enable Billing System",
+    "cards-page-organization-settings-billing-system-description": "Billing system enables in-app payments for rooms and membership plans in the workspace. To change it contact support@andcards.com.",
     "cards-page-organization-settings-permission-denied": "Unfortunately, you have no permission to access.",
     "cards-page-organization-settings-point-label": "Enable Credit System",
     "cards-page-organization-settings-property-section-title": "Booking Settings",
