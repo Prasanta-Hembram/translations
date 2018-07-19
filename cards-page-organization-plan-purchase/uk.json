@@ -1,0 +1,24 @@
+{
+  "data": {
+    "cards-page-organization-plan-purchase-auto-renew": "Поновлювати автоматично",
+    "cards-page-organization-plan-purchase-auto-renew-description": "Гроші зніматимуться автоматично, допоки ви не скасуєте підписку.",
+    "cards-page-organization-plan-purchase-empty": "Цього плану не існує, або ж він був видалений. 😕",
+    "cards-page-organization-plan-purchase-period-from-title": "З",
+    "cards-page-organization-plan-purchase-period-pay-with-title": "Спосіб оплати",
+    "cards-page-organization-plan-purchase-period-pay-with-cash-title": "Готівка",
+    "cards-page-organization-plan-purchase-period-pay-with-cash-description": "Погасіть борг напряму в адміністратора на ресепшені.",
+    "cards-page-organization-plan-purchase-period-day": "1 день",
+    "cards-page-organization-plan-purchase-period-month": "1 місяць",
+    "cards-page-organization-plan-purchase-period-title": "Період",
+    "cards-page-organization-plan-purchase-period-week": "1 тиждень",
+    "cards-page-organization-plan-purchase-price": "Ціна",
+    "cards-page-organization-plan-purchase-subscribe": "Підписатись",
+    "cards-page-organization-plan-purchase-subscribe-for-free": "Підписатись безкоштовно",
+    "cards-page-organization-plan-purchase-subscribe-for-price": "Підписатись за {currencySymbol}{price}",
+    "cards-page-organization-plan-purchase-title": "Підписатись на план",
+    "cards-page-organization-plan-purchase-title-hot-desk": "Нефіксоване місце",
+    "cards-page-organization-plan-purchase-title-fixed-desk": "Фіксоване місце",
+    "cards-page-organization-plan-purchase-title-private-office": "Приватний офіс",
+    "cards-page-organization-plan-purchase-title-hot-pass": "Квиток на вхід"
+  }
+}

@@ -7,6 +7,8 @@
     "cards-page-organization-plans-debt-description": "Оплатите долг напрямую на ресепшене коворкинга.",
     "cards-page-organization-plans-kpi-detail": "Ключевые показатели текущего месяца",
     "cards-page-organization-plans-my-membership": "Текущий план",
+    "cards-page-organization-plans-renews": "Дней до продления: {daysLeft}",
+    "cards-page-organization-plans-renews-last-day": "Последний день",
     "cards-page-organization-plans-role": "Роль",
     "cards-page-organization-plans-role-admin": "Администратор",
     "cards-page-organization-plans-role-moderator": "Модератор",

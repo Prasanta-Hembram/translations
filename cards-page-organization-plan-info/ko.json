@@ -1,0 +1,22 @@
+{
+  "data": {
+    "cards-page-organization-plan-info-active-title": "나의 멤버십 플랜",
+    "cards-page-organization-plan-info-auto-renew": "멤버십 구독 자동갱신",
+    "cards-page-organization-plan-info-auto-renew-description": "구독 취소를 하지 않는 한, 지속적으로 요금이 부과됩니다.",
+    "cards-page-organization-plan-info-empty": "이 사항은 변경되거나 없어질 수 있습니다 😕",
+    "cards-page-organization-plan-info-period-pay-with-title": "결제 수단",
+    "cards-page-organization-plan-info-period-pay-with-cash-title": "현금",
+    "cards-page-organization-plan-info-period-day": "1일",
+    "cards-page-organization-plan-info-period-from-title": "종료",
+    "cards-page-organization-plan-info-period-month": "1 달",
+    "cards-page-organization-plan-info-period-title": "기간",
+    "cards-page-organization-plan-info-period-week": "1 주",
+    "cards-page-organization-plan-info-price": "가격",
+    "cards-page-organization-plan-info-unsubscribe": "멤버십 플랜 해지",
+    "cards-page-organization-plan-info-unsubscribe-alert": "멤버십 플랜 해지 완료.",
+    "cards-page-organization-plan-info-title-hot-desk": "핫 데스크",
+    "cards-page-organization-plan-info-title-fixed-desk": "전용 데스크",
+    "cards-page-organization-plan-info-title-private-office": "사무실",
+    "cards-page-organization-plan-info-title-hot-pass": "패스"
+  }
+}

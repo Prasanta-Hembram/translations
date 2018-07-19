@@ -1,0 +1,22 @@
+{
+  "data": {
+    "cards-page-organization-plan-info-active-title": "Текущий план",
+    "cards-page-organization-plan-info-auto-renew": "Продлевать автоматически",
+    "cards-page-organization-plan-info-auto-renew-description": "Деньги будут сниматься автоматически, пока вы не отмените подписку.",
+    "cards-page-organization-plan-info-empty": "Этого плана не существует, или же он был удален. 😕",
+    "cards-page-organization-plan-info-period-pay-with-title": "Способ оплаты",
+    "cards-page-organization-plan-info-period-pay-with-cash-title": "Наличные",
+    "cards-page-organization-plan-info-period-day": "1 день",
+    "cards-page-organization-plan-info-period-from-title": "До",
+    "cards-page-organization-plan-info-period-month": "1 месяц",
+    "cards-page-organization-plan-info-period-title": "Период",
+    "cards-page-organization-plan-info-period-week": "1 неделя",
+    "cards-page-organization-plan-info-price": "Цена",
+    "cards-page-organization-plan-info-unsubscribe": "Отписаться",
+    "cards-page-organization-plan-info-unsubscribe-alert": "Подписка отменена.",
+    "cards-page-organization-plan-info-title-hot-desk": "Незакрепленное место",
+    "cards-page-organization-plan-info-title-fixed-desk": "Закрепленное место",
+    "cards-page-organization-plan-info-title-private-office": "Отдельный офис",
+    "cards-page-organization-plan-info-title-hot-pass": "Входной билет"
+  }
+}

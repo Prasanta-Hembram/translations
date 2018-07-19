@@ -1,0 +1,24 @@
+{
+  "data": {
+    "cards-page-organization-plan-purchase-auto-renew": "멤버십 구독 자동갱신",
+    "cards-page-organization-plan-purchase-auto-renew-description": "구독 취소를 하지 않는 한, 지속적으로 요금이 부과됩니다.",
+    "cards-page-organization-plan-purchase-empty": "이 사항은 변경되거나 없어질 수 있습니다 😕",
+    "cards-page-organization-plan-purchase-period-from-title": "시작",
+    "cards-page-organization-plan-purchase-period-pay-with-title": "결제 수단",
+    "cards-page-organization-plan-purchase-period-pay-with-cash-title": "현금",
+    "cards-page-organization-plan-purchase-period-pay-with-cash-description": "현금 계산 및 취소 정책에 대한 사항은 프론트 데스크에서 도와드립니다.",
+    "cards-page-organization-plan-purchase-period-day": "1일",
+    "cards-page-organization-plan-purchase-period-month": "1달",
+    "cards-page-organization-plan-purchase-period-title": "기간",
+    "cards-page-organization-plan-purchase-period-week": "1주",
+    "cards-page-organization-plan-purchase-price": "가격",
+    "cards-page-organization-plan-purchase-subscribe": "구독하기",
+    "cards-page-organization-plan-purchase-subscribe-for-free": "무료로 구독하기",
+    "cards-page-organization-plan-purchase-subscribe-for-price": "{currencySymbol}{price}로 구독하기",
+    "cards-page-organization-plan-purchase-title": "멤버십 구독",
+    "cards-page-organization-plan-purchase-title-hot-desk": "핫 데스크",
+    "cards-page-organization-plan-purchase-title-fixed-desk": "전용 데스크",
+    "cards-page-organization-plan-purchase-title-private-office": "사무실",
+    "cards-page-organization-plan-purchase-title-hot-pass": "패스"
+  }
+}

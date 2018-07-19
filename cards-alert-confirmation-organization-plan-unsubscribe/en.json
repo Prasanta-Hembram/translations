@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-confirmation-organization-plan-unsubscribe-yes": "Yes, unsubscribe",
+    "cards-alert-confirmation-organization-plan-unsubscribe-no": "Cancel",
+    "cards-alert-confirmation-organization-plan-unsubscribe-title": "Unsubscribe from plan",
+    "cards-alert-confirmation-organization-plan-unsubscribe-text": "Are you sure you want to unsubscribe from active plan?"
+  }
+}
