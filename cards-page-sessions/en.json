@@ -1,12 +1,12 @@
 {
   "data": {
-    "cards-page-sessions-active-cannot-load": "Cannot load active sessions details. Please check the internet connection.",
-    "cards-page-sessions-active-empty": "No active sessions.",
-    "cards-page-sessions-current": "Active sessions",
+    "cards-page-sessions-current": "Current session",
     "cards-page-sessions-current-cannot-load": "Cannot load current session details. Please check the internet connection.",
     "cards-page-sessions-description": "This is the list of devices you logged into andCards. If you do not recognize any of active sessions, press ··· and remove it.",
-    "cards-page-sessions-info": "About sessions",
+    "cards-page-sessions-other": "Active sessions",
+    "cards-page-sessions-other-cannot-load": "Cannot load active sessions details. Please check the internet connection.",
+    "cards-page-sessions-other-empty": "No active sessions.",
     "cards-page-sessions-remove": "Remove session",
-    "cards-page-sessions-title": "Active sessions"
+    "cards-page-sessions-title": "Active Sessions"
   }
 }
