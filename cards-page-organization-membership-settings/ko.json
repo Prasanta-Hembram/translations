@@ -14,6 +14,7 @@
     "cards-page-organization-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
     "cards-page-organization-membership-settings-leave-organization": "이 조직 나가기",
     "cards-page-organization-membership-settings-leave-repeat": "다시시도",
+    "cards-page-organization-membership-settings-plans-ends": "{daysLeft} 종료",
     "cards-page-organization-membership-settings-plans-renews": "{daysLeft} 갱신",
     "cards-page-organization-membership-settings-plans-renews-last-day": "종료 일",
     "cards-page-organization-membership-settings-role": "회원등급",

@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-plans-active-plan-ends": "Закінчується через {daysLeft}",
     "cards-page-organization-plans-available-plans-found": "Тарифні плани",
     "cards-page-organization-plans-cash-title": "Баланс готівки",
     "cards-page-organization-plans-create": "Додати план",

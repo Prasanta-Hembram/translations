@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-plans-active-plan-ends": "Ends {daysLeft}",
     "cards-page-organization-plans-available-plans-found": "Membership Plans",
     "cards-page-organization-plans-cash-title": "Cash Balance",
     "cards-page-organization-plans-create": "Add plan",

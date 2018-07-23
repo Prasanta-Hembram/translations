@@ -14,6 +14,7 @@
     "cards-page-organization-membership-settings-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
     "cards-page-organization-membership-settings-leave-organization": "Salir del espacio de trabajo",
     "cards-page-organization-membership-settings-leave-repeat": "Inténtalo de nuevo",
+    "cards-page-organization-membership-settings-plans-ends": "Finaliza en {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews": "Se renueva en {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews-last-day": "Último día",
     "cards-page-organization-membership-settings-role": "Rol",
