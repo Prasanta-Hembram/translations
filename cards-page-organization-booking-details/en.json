@@ -4,7 +4,7 @@
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Booking owner got 100% refund of money",
     "cards-page-organization-booking-details-alert-refund-money": "{price} successfully refunded.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Booking owner got 100% refund of credits",
-    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} successfully refunded.",
+    "cards-page-organization-booking-details-alert-refund-points": "{points} successfully refunded.",
     "cards-page-organization-booking-details-booked-by": "Booked by",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-booking-details-default-purpose": "Reservation",

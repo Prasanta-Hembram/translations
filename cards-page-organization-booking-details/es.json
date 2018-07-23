@@ -4,7 +4,7 @@
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "El dueño de la reserva recibió un 100% de reembolso",
     "cards-page-organization-booking-details-alert-refund-money": "{price} reembolsado exitosamente.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "El dueño de la reserva obtiene 100% de reembolso de los créditos.",
-    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} reembolsado con éxito.",
+    "cards-page-organization-booking-details-alert-refund-points": "{points} reembolsado con éxito.",
     "cards-page-organization-booking-details-booked-by": "Reservado por",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-booking-details-default-purpose": "Reservación",

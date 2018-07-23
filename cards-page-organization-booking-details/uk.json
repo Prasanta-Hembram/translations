@@ -4,7 +4,7 @@
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "cards-page-organization-booking-details-alert-refund-money": "{price} успішно відшкодовано.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
-    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} успішно відшкодовано.",
+    "cards-page-organization-booking-details-alert-refund-points": "{points} успішно відшкодовано.",
     "cards-page-organization-booking-details-booked-by": "Хто зарезервував",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-booking-details-default-purpose": "Резервація",
