@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-booking-details-action-delete": "Видалити",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
-    "cards-page-organization-booking-details-alert-refund-money": "{money} {currencySymbol} успішно відшкодовано.",
+    "cards-page-organization-booking-details-alert-refund-money": "{price} успішно відшкодовано.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} успішно відшкодовано.",
     "cards-page-organization-booking-details-booked-by": "Хто зарезервував",

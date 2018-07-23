@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-booking-details-action-delete": "Удалить",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Владелец брони получил 100% возврат средств.",
-    "cards-page-organization-booking-details-alert-refund-money": "{money} {currencySymbol} успешно возмещено.",
+    "cards-page-organization-booking-details-alert-refund-money": "{price} успешно возмещено.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Владелец брони получил 100% возврат средств.",
     "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} успешно возмещено.",
     "cards-page-organization-booking-details-booked-by": "Кто забронировал",

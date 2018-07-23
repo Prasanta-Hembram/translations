@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-booking-details-action-delete": "Borrar",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "El dueño de la reserva recibió un 100% de reembolso",
-    "cards-page-organization-booking-details-alert-refund-money": "{money} {currencySymbol} reembolsado exitosamente.",
+    "cards-page-organization-booking-details-alert-refund-money": "{price} reembolsado exitosamente.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "El dueño de la reserva obtiene 100% de reembolso de los créditos.",
     "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} reembolsado con éxito.",
     "cards-page-organization-booking-details-booked-by": "Reservado por",
