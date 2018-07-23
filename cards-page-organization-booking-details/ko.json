@@ -1,8 +1,10 @@
 {
   "data": {
     "cards-page-organization-booking-details-action-delete": "삭제",
-    "cards-page-organization-booking-details-alert-refund-by-admin": "예약자는 100% 환불을 되았습니다.",
-    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} 환불 완료.",
+    "cards-page-organization-booking-details-alert-refund-money-for-admin": "예약자의 100% 환불이 완료되었습니다",
+    "cards-page-organization-booking-details-alert-refund-money": "{currencySymbol}{money} 환불 완료",
+    "cards-page-organization-booking-details-alert-refund-points-for-admin": "예약자의 100% 환불이 완료되었습니다",
+    "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} 환불 완료",
     "cards-page-organization-booking-details-booked-by": "예약자",
     "cards-page-organization-booking-details-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
     "cards-page-organization-booking-details-default-purpose": "예약",

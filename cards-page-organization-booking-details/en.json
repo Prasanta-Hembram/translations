@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-booking-details-action-delete": "Delete",
-    "cards-page-organization-booking-details-alert-refund-by-admin": "Booking owner got 100% refund of credits",
+    "cards-page-organization-booking-details-alert-refund-money-for-admin": "Booking owner got 100% refund of money",
+    "cards-page-organization-booking-details-alert-refund-money": "{money} {currencySymbol} successfully refunded.",
+    "cards-page-organization-booking-details-alert-refund-points-for-admin": "Booking owner got 100% refund of credits",
     "cards-page-organization-booking-details-alert-refund-points": "{points} {pointEmoji} successfully refunded.",
     "cards-page-organization-booking-details-booked-by": "Booked by",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copied to clipboard",
