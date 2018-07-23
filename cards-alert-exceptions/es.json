@@ -1,5 +1,6 @@
 {
   "data": {
-    "cards-alert-no-internet": "Sin conexión a Internet"
+    "cards-alert-no-internet": "Sin conexión a Internet",
+    "cards-alert-sns-user-exists": "Esta cuenta ya existe"
   }
 }

@@ -1,5 +1,6 @@
 {
   "data": {
-    "cards-alert-no-internet": "Нет интернет-соединения"
+    "cards-alert-no-internet": "Нет интернет-соединения",
+    "cards-alert-sns-user-exists": "Этот аккаунт уже используется"
   }
 }

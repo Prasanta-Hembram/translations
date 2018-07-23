@@ -1,5 +1,6 @@
 {
   "data": {
-    "cards-alert-no-internet": "No internet connection"
+    "cards-alert-no-internet": "No internet connection",
+    "cards-alert-sns-user-exists": "This account is already in use"
   }
 }
