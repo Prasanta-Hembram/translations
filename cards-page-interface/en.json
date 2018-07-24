@@ -1,10 +1,5 @@
 {
   "data": {
-    "cards-page-interface-display": "Display",
-    "cards-page-interface-locale": "Language",
-    "cards-page-interface-sorting": "Sorting",
-    "cards-page-interface-sorting-first-last": "First, Last",
-    "cards-page-interface-sorting-last-first": "Last, First",
-    "cards-page-interface-title": "Interface"
+    "cards-page-interface-locale": "Language"
   }
 }
