@@ -16,7 +16,7 @@
     "cards-page-organization-membership-settings-leave-repeat": "Спробувати знову",
     "cards-page-organization-membership-settings-plans-ends": "Закінчується через {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews": "Поновлення: {daysLeft}",
-    "cards-page-organization-membership-settings-plans-last-day": "Останній день",
+    "cards-page-organization-membership-settings-plans-renews-last-day": "Останній день",
     "cards-page-organization-membership-settings-role": "Роль",
     "cards-page-organization-membership-settings-role-admin": "Адміністратор",
     "cards-page-organization-membership-settings-role-moderator": "Модератор",

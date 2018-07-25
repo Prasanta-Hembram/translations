@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-confirmation-organization-plan-deactivate-yes": "Так, деактивувати",
+    "cards-alert-confirmation-organization-plan-deactivate-no": "Відмінити",
+    "cards-alert-confirmation-organization-plan-deactivate-title": "Деактивувати",
+    "cards-alert-confirmation-organization-plan-deactivate-text": "Ви впевнені, що хочете деактивувати план? Ви втратите усі привілеї, які надає вам план, включаючи кредити. Ця дія незворотна і НЕ ВІДШКОДОВУЄТЬСЯ"
+  }
+}
