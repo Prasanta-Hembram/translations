@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-create-balance-action-button-point": "Кредити ({balance})",
-    "cards-page-organization-booking-create-balance-action-button-money": "Готівка ({price})",
+    "cards-page-organization-booking-create-balance-action-button-point": "Кредитами ({balance})",
+    "cards-page-organization-booking-create-balance-action-button-money": "Готівкою ({price})",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} може бронювати кімнату безкоштовно.",
     "cards-page-organization-booking-create-balance-description-text": "У випадку відміни резервації до її початку 100% коштів буде повернено на ваш рахунок.",
     "cards-page-organization-booking-create-book": "Зарезервувати",
@@ -13,7 +13,7 @@
     "cards-page-organization-booking-create-role-admin": "Адміністратор",
     "cards-page-organization-booking-create-role-moderator": "Модератор",
     "cards-page-organization-booking-create-role-member": "Учасник",
-    "cards-page-organization-booking-create-pay-with": "Спосіб оплати",
+    "cards-page-organization-booking-create-pay-with": "Оплатити",
     "cards-page-organization-booking-create-pay-with-validation-error": "Недостатньо кредитів для резервації. Отримайте більше кредитів і спробуйте ще раз.",
     "cards-page-organization-booking-create-purpose": "Мета",
     "cards-page-organization-booking-create-start-time": "Початок",
