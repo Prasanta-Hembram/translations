@@ -4,8 +4,6 @@
     "cards-page-organization-booking-create-balance-action-button-money": "Готівка ({price})",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} може бронювати кімнату безкоштовно.",
     "cards-page-organization-booking-create-balance-description-text": "У випадку відміни резервації до її початку 100% коштів буде повернено на ваш рахунок.",
-    "cards-page-organization-booking-create-balance-money-text": "Залишок до транзакції: {price}.",
-    "cards-page-organization-booking-create-balance-points-text": "Залишок до транзакції: {balance}.",
     "cards-page-organization-booking-create-book": "Зарезервувати",
     "cards-page-organization-booking-create-book-for-free": "Зарезервувати безкоштовно",
     "cards-page-organization-booking-create-book-for-points": "Зарезервувати за {balance}",
