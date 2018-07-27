@@ -18,7 +18,7 @@
     "cards-page-organization-plans-role-info-admin": "Адміністратор може налаштовувати та керувати всім в коворкінгу.",
     "cards-page-organization-plans-role-info-moderator": "Модератор може керувати контентом та гільдіями в коворкінгу.",
     "cards-page-organization-plans-role-info-member": "Учасник може переглядати контент в коворкінгу.",
-    "cards-page-organization-plans-seats-in-total": "Разом {numberOfSeats}",
+    "cards-page-organization-plans-seats-in-left": "{available} / {quantity} доступно",
     "cards-page-organization-plans-seats-available": "{numberOfSeats} доступно",
     "cards-page-organization-plans-seats-only-left": "Залишилось лише {numberOfSeats}",
     "cards-page-organization-plans-seats-sold-out": "Продано",
