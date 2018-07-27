@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-auth-change-number": "Back to number",
+    "cards-auth-back-to-login-methods": "Back to beginning",
+    "cards-auth-back-to-number": "Back to number",
     "cards-auth-code": "Code",
     "cards-auth-country": "Country",
     "cards-auth-country-selector-title": "Choose country",
@@ -13,6 +14,7 @@
     "cards-auth-number": "Number",
     "cards-auth-login-with-google": "Continue with Google",
     "cards-auth-login-with-facebook": "Continue with Facebook",
+    "cards-auth-login-with-phone-number": "Login with Phone Number",
     "cards-auth-type-phone-number-here": "Type number",
     "cards-auth-type-sms-code-here": "Type SMS code"
   }
