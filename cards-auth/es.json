@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-auth-back-to-login-methods": "Regresar al comienzo",
-    "cards-auth-back-to-number": "Regresar al número",
+    "cards-auth-back-to-login-methods": "Regresar",
+    "cards-auth-back-to-number": "Regresar",
     "cards-auth-code": "Código",
     "cards-auth-country": "País",
     "cards-auth-country-selector-title": "Escoger país",
