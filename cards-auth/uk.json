@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-auth-back-to-login-methods": "Назад до початку",
-    "cards-auth-back-to-number": "Назад до номеру",
+    "cards-auth-back-to-login-methods": "Назад",
+    "cards-auth-back-to-number": "Назад",
     "cards-auth-code": "Код",
     "cards-auth-country": "Країна",
     "cards-auth-country-selector-title": "Вибір країни",
