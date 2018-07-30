@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-booking-details-action-button-money": "Dinero ({price})",
+    "cards-page-organization-booking-details-action-button-point": "Créditos ({balance})",
     "cards-page-organization-booking-details-action-delete": "Borrar",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "El dueño de la reserva recibió un 100% de reembolso",
     "cards-page-organization-booking-details-alert-refund-money": "{price} reembolsado exitosamente.",
@@ -14,6 +16,7 @@
     "cards-page-organization-booking-details-end-time": "Finalización",
     "cards-page-organization-booking-details-fetch-failure": "No se pudo mostrar la reserva ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-booking-details-lock-code": "Código PIN",
+    "cards-page-organization-booking-details-payed-with": "Pagado con",
     "cards-page-organization-booking-details-price" : "Total",
     "cards-page-organization-booking-details-purpose": "Propósito",
     "cards-page-organization-booking-details-share-link-title": "Enlace a la reserva",

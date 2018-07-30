@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-booking-details-action-button-money": "현금 ({price})",
+    "cards-page-organization-booking-details-action-button-point": "크레딧 ({balance})",
     "cards-page-organization-booking-details-action-delete": "삭제",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "예약자의 100% 환불이 완료되었습니다",
     "cards-page-organization-booking-details-alert-refund-money": "{price} 환불 완료",
@@ -14,6 +16,7 @@
     "cards-page-organization-booking-details-end-time": "종료",
     "cards-page-organization-booking-details-fetch-failure": "예약을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-organization-booking-details-lock-code": "비밀번호",
+    "cards-page-organization-booking-details-payed-with": "결제 수단",
     "cards-page-organization-booking-details-price" : "총 요금",
     "cards-page-organization-booking-details-purpose": "목적",
     "cards-page-organization-booking-details-share-link-title": "예약 링크",
