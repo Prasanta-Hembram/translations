@@ -21,6 +21,7 @@
     "cards-page-organization-plan-purchase-title-hot-desk": "Незакрепленное место",
     "cards-page-organization-plan-purchase-title-fixed-desk": "Закрепленное место",
     "cards-page-organization-plan-purchase-title-private-office": "Отдельный офис",
-    "cards-page-organization-plan-purchase-title-hot-pass": "Входной билет"
+    "cards-page-organization-plan-purchase-title-hot-pass": "Входной билет",
+    "cards-page-organization-plan-purchase-validation-error": "Недостаточно наличных. Пополните счет и попробуйте снова."
   }
 }

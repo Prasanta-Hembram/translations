@@ -7,6 +7,8 @@
     "cards-page-organization-booking-details-alert-refund-money": "{price} успешно возмещено.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Владелец брони получил 100% возврат средств.",
     "cards-page-organization-booking-details-alert-refund-points": "{points} успешно возмещено.",
+    "cards-page-organization-booking-details-balance-action-button-money": "Наличные ({price})",
+    "cards-page-organization-booking-details-balance-action-button-point": "Кредиты ({balance})",
     "cards-page-organization-booking-details-booked-by": "Кто забронировал",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-booking-details-default-purpose": "Бронь",
@@ -17,7 +19,6 @@
     "cards-page-organization-booking-details-fetch-failure": "Невозможно отобразить бронирование. Проверьте, все ли хорошо с интернет-соединением.",
     "cards-page-organization-booking-details-lock-code": "Код доступа",
     "cards-page-organization-booking-details-payed-with": "Оплачено",
-    "cards-page-organization-booking-details-price" : "Всего",
     "cards-page-organization-booking-details-purpose": "Цель",
     "cards-page-organization-booking-details-share-link-title": "Ссылка на бронирование",
     "cards-page-organization-booking-details-start-time": "Начало"

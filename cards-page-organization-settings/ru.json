@@ -10,6 +10,8 @@
     "cards-page-organization-settings-booking-period-one-year": "1 год",
     "cards-page-organization-settings-booking-purpose-required": "Цель бронирования обязательна",
     "cards-page-organization-settings-booking-until": "Конец",
+    "cards-page-organization-settings-billing-negative-balance-title": "Негативный баланс",
+    "cards-page-organization-settings-billing-negative-balance-description": "Внимание! Эта функция позволит участникам иметь отрицательный баланс. Участники могут использовать все платные услуги без ограничений по постоплатной основе. Админы и модераторы могут изменять баланс каждого участника.",
     "cards-page-organization-settings-billing-section-title": "Рассчеты",
     "cards-page-organization-settings-billing-system": "Платежная система",
     "cards-page-organization-settings-billing-system-description": "Платежная система включает рассчеты за бронирование переговорных и тарифные планы прямо из приложения. Свяжитесь с нами чтобы настроить платежную систему.",

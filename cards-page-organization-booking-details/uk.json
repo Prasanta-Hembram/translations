@@ -7,6 +7,8 @@
     "cards-page-organization-booking-details-alert-refund-money": "{price} успішно відшкодовано.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "cards-page-organization-booking-details-alert-refund-points": "{points} успішно відшкодовано.",
+    "cards-page-organization-booking-details-balance-action-button-money": "Готівка ({price})",
+    "cards-page-organization-booking-details-balance-action-button-point": "Кредити ({balance})",
     "cards-page-organization-booking-details-booked-by": "Хто зарезервував",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-booking-details-default-purpose": "Резервація",
@@ -17,7 +19,6 @@
     "cards-page-organization-booking-details-fetch-failure": "Неможливо відобразити резервацію. Перевірте, чи все добре з інтернет-з'єднанням.",
     "cards-page-organization-booking-details-lock-code": "Код доступу",
     "cards-page-organization-booking-details-payed-with": "Оплачено",
-    "cards-page-organization-booking-details-price" : "Всього",
     "cards-page-organization-booking-details-purpose": "Мета",
     "cards-page-organization-booking-details-share-link-title": "Посилання на резервацію",
     "cards-page-organization-booking-details-start-time": "Початок"

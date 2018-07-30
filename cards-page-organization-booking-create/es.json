@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-booking-create-balance-action-button-point": "Créditos ({balance})",
-    "cards-page-organization-booking-create-balance-action-button-money": "Dinero ({price})",
+    "cards-page-organization-booking-create-balance-action-button-money": "Efectivo ({price})",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} puedes reservar una habitación gratis.",
     "cards-page-organization-booking-create-balance-description-text": "Si cancelas esta reserva antes de su comienzo, el 100% de los créditos serán reembolsados.",
     "cards-page-organization-booking-create-book": "Reservar",
@@ -10,6 +10,7 @@
     "cards-page-organization-booking-create-book-for-money-cash": "Reservar por {price}",
     "cards-page-organization-booking-create-end-time": "Finalización",
     "cards-page-organization-booking-create-full-day-description": "El período mínimo de reserva es de 1 día.",
+    "cards-page-organization-booking-create-money-with-validation-error": "No tienes suficiente efectivo para hacer esta reserva. Por favor rellena tu saldo y vuelve a intentarlo.",
     "cards-page-organization-booking-create-role-admin": "Administrador",
     "cards-page-organization-booking-create-role-moderator": "Moderador",
     "cards-page-organization-booking-create-role-member": "Miembro",

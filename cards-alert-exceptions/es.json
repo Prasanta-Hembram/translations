@@ -1,6 +1,8 @@
 {
   "data": {
+    "cards-alert-no-enough-cash": "No hay suficiente efectivo",
     "cards-alert-no-internet": "Sin conexión a Internet",
+    "cards-alert-plan-sold-out": "El plan está agotado",
     "cards-alert-sns-user-exists": "Esta cuenta ya existe"
   }
 }

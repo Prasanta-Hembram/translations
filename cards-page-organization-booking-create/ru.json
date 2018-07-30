@@ -10,6 +10,7 @@
     "cards-page-organization-booking-create-book-for-money-cash": "Забронировать за {price}",
     "cards-page-organization-booking-create-end-time": "Конец",
     "cards-page-organization-booking-create-full-day-description": "Минимальный период резервации - 1 день.",
+    "cards-page-organization-booking-create-money-with-validation-error": "Недостаточно наличных для бронирования. Пополните счет и попробуйте снова.",
     "cards-page-organization-booking-create-role-admin": "Администратор",
     "cards-page-organization-booking-create-role-moderator": "Модератор",
     "cards-page-organization-booking-create-role-member": "Участник",

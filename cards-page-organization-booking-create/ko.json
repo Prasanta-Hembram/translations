@@ -11,6 +11,7 @@
     "cards-page-organization-booking-create-end-time": "종료",
     "cards-page-organization-booking-create-full-day-description": "최소 예약 기간은 1일입니다.",
     "cards-page-organization-booking-create-not-found-error": "인터넷에 연결할 수 없음",
+    "cards-page-organization-booking-create-money-with-validation-error": "현금 부족. 먼저 현금을 충전하시고 다시 시도하세요.",
     "cards-page-organization-booking-create-role-admin": "관리자",
     "cards-page-organization-booking-create-role-moderator": "중간관리자",
     "cards-page-organization-booking-create-role-member": "회원",

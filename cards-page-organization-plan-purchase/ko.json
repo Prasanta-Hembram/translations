@@ -21,6 +21,7 @@
     "cards-page-organization-plan-purchase-title-hot-desk": "핫 데스크",
     "cards-page-organization-plan-purchase-title-fixed-desk": "전용 데스크",
     "cards-page-organization-plan-purchase-title-private-office": "사무실",
-    "cards-page-organization-plan-purchase-title-hot-pass": "패스"
+    "cards-page-organization-plan-purchase-title-hot-pass": "패스",
+    "cards-page-organization-plan-purchase-validation-error": "현금 부족. 먼저 현금을 충전하시고 다시 시도하세요."
   }
 }

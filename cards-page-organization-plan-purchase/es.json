@@ -21,6 +21,7 @@
     "cards-page-organization-plan-purchase-title-hot-desk": "Escritorio Caliente",
     "cards-page-organization-plan-purchase-title-fixed-desk": "Escritorio Fijo",
     "cards-page-organization-plan-purchase-title-private-office": "Oficina Privada",
-    "cards-page-organization-plan-purchase-title-hot-pass": "Pase"
+    "cards-page-organization-plan-purchase-title-hot-pass": "Pase",
+    "cards-page-organization-plan-purchase-validation-error": "No tienes suficiente efectivo. Por favor rellena tu saldo y vuelve a intentarlo."
   }
 }

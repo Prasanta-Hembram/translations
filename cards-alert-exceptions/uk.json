@@ -1,6 +1,8 @@
 {
   "data": {
+    "cards-alert-no-enough-cash": "Недостатньо готівки",
     "cards-alert-no-internet": "Немає інтернет-з'єднання",
+    "cards-alert-plan-sold-out": "План розпродано",
     "cards-alert-sns-user-exists": "Цей акаунт вже використовується"
   }
 }

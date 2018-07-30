@@ -10,6 +10,8 @@
     "cards-page-organization-settings-booking-period-one-year": "1 рік",
     "cards-page-organization-settings-booking-purpose-required": "Мета резервації обов'язкова",
     "cards-page-organization-settings-booking-until": "До",
+    "cards-page-organization-settings-billing-negative-balance-title": "Негативний баланс",
+    "cards-page-organization-settings-billing-negative-balance-description": "Увага! Ця функція дозволить учасникам мати негативні баланси. Учасники можуть використовувати всі платні послуги без обмежень на умовах післяплати. Адміністратори та модератори можуть змінювати баланс кожного учасника.",
     "cards-page-organization-settings-billing-section-title": "Розрахунки",
     "cards-page-organization-settings-billing-system": "Платіжна система",
     "cards-page-organization-settings-billing-system-description": "Платіжна система робить можливими оплати за резервації кімнат та підписки на тарифи з додатку. Зв’яжіться з нами щоб налаштувати платіжну систему.",

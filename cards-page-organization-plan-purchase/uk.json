@@ -21,6 +21,7 @@
     "cards-page-organization-plan-purchase-title-hot-desk": "Нефіксоване місце",
     "cards-page-organization-plan-purchase-title-fixed-desk": "Фіксоване місце",
     "cards-page-organization-plan-purchase-title-private-office": "Приватний офіс",
-    "cards-page-organization-plan-purchase-title-hot-pass": "Квиток на вхід"
+    "cards-page-organization-plan-purchase-title-hot-pass": "Квиток на вхід",
+    "cards-page-organization-plan-purchase-validation-error": "Недостатньо готівки. Поповніть рахунок і спробуйте ще раз."
   }
 }

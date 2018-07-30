@@ -21,6 +21,7 @@
     "cards-page-organization-plan-purchase-title-hot-desk": "Hot Desk",
     "cards-page-organization-plan-purchase-title-fixed-desk": "Fixed Desk",
     "cards-page-organization-plan-purchase-title-private-office": "Private Office",
-    "cards-page-organization-plan-purchase-title-hot-pass": "Pass"
+    "cards-page-organization-plan-purchase-title-hot-pass": "Pass",
+    "cards-page-organization-plan-purchase-validation-error": "You don't have enough cash to get this plan. Please refill your balance and try again."
   }
 }
