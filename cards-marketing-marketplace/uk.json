@@ -16,6 +16,7 @@
     "marketing-marketplace-section-suite-subtitle": "Автоматизація коворкінг центру, прості оплати тарифів через додаток, система резервації кімнат, а також постійний потік клієнтів — все це можливо з andCards Suite!",
     "marketing-marketplace-section-suite-button": "Функції andCards Suite та безкоштовне демо",
     "marketing-marketplace-work-anywhere": "Працюй, де забажаєш!",
-    "marketing-marketplace-work-anywhere-subtitle": "{numberOfSpaces}+ коворкінгів з {numberOfCountries} країн"
+    "marketing-marketplace-work-anywhere-subtitle": "{numberOfSpaces}+ коворкінгів з {numberOfCountries} країн",
+    "marketing-marketplace-work-anywhere-subtitle-last-digit-one": "{numberOfSpaces}+ коворкінгів з {numberOfCountries} країни"
   }
 }

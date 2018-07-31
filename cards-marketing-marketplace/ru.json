@@ -16,6 +16,7 @@
     "marketing-marketplace-section-suite-subtitle": "Автоматизация коворкинг центра, управление подписками на тарифы, система бронирования переговорных и постоянный поток клиентов — все возможно с ПО andCards Suite.",
     "marketing-marketplace-section-suite-button": "Больше об andCards Suite и бесплатное демо",
     "marketing-marketplace-work-anywhere": "Работай где угодно!",
-    "marketing-marketplace-work-anywhere-subtitle": "{numberOfSpaces}+ коворкингов из {numberOfCountries} стран"
+    "marketing-marketplace-work-anywhere-subtitle": "{numberOfSpaces}+ коворкингов из {numberOfCountries} стран",
+    "marketing-marketplace-work-anywhere-subtitle-last-digit-one": "{numberOfSpaces}+ коворкингов из {numberOfCountries} страны"
   }
 }

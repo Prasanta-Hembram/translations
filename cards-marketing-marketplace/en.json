@@ -16,6 +16,7 @@
     "marketing-marketplace-section-suite-subtitle": "Automate coworking space, membership payments, room bookings and get more customers with andCards Suite.",
     "marketing-marketplace-section-suite-button": "andCards Suite Features and Free Demo",
     "marketing-marketplace-work-anywhere": "Work anywhere",
-    "marketing-marketplace-work-anywhere-subtitle": "{numberOfSpaces}+ coworking spaces in {numberOfCountries} countries"
+    "marketing-marketplace-work-anywhere-subtitle": "{numberOfSpaces}+ coworking spaces in {numberOfCountries} countries",
+    "marketing-marketplace-work-anywhere-subtitle-last-digit-one": "{numberOfSpaces}+ coworking spaces in {numberOfCountries} countries"
   }
 }
