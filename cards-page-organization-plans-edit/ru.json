@@ -5,6 +5,7 @@
     "cards-page-organization-plan-edit-delete-plan": "Удалить тариф",
     "cards-page-organization-plan-edit-delete-repeat": "Попробовать еще раз",
     "cards-page-organization-plan-edit-delete-plan-reject": "Невозможно удалить: план используется",
+    "cards-page-organization-plan-edit-description": "Changes to credit amount will be applied from the next billing period.",
     "cards-page-organization-plan-edit-free-trial-day": "Бесплатный пробный день",
     "cards-page-organization-plan-edit-period": "Период",
     "cards-page-organization-plan-edit-period-day": "1 день",

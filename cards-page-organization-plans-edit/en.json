@@ -5,6 +5,7 @@
     "cards-page-organization-plan-edit-delete-plan": "Delete plan",
     "cards-page-organization-plan-edit-delete-plan-reject": "Unable to delete: plan in use",
     "cards-page-organization-plan-edit-delete-repeat": "Try again",
+    "cards-page-organization-plan-edit-description": "Changes to credit amount will be applied from the next billing period.",
     "cards-page-organization-plan-edit-free-trial-day": "Free Trial Day",
     "cards-page-organization-plan-edit-period": "Period",
     "cards-page-organization-plan-edit-period-day": "1 day",
