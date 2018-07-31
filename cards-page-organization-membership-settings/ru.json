@@ -2,7 +2,6 @@
   "data": {
     "cards-page-organization-membership-settings-active-plan-title": "Текущий план",
     "cards-page-organization-membership-settings-balance-title": "Остаток кредитов",
-    "cards-page-organization-membership-settings-balance-description": "Доступно только в {organizationName}. Срок годности: 1 месяц.",
     "cards-page-organization-membership-settings-button-charge-title": "Списать",
     "cards-page-organization-membership-settings-button-clear-title": "Погасить",
     "cards-page-organization-membership-settings-button-give-title": "Начислить",
