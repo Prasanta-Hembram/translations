@@ -7,6 +7,7 @@
     "cards-page-organization-booking-details-alert-refund-money": "{price} successfully refunded.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "Booking owner got 100% refund of credits",
     "cards-page-organization-booking-details-alert-refund-points": "{points} successfully refunded.",
+    "cards-page-organization-booking-details-balance-action-button-for-free": "Free",
     "cards-page-organization-booking-details-balance-action-button-money": "Cash ({price})",
     "cards-page-organization-booking-details-balance-action-button-point": "Credits ({balance})",
     "cards-page-organization-booking-details-booked-by": "Booked by",

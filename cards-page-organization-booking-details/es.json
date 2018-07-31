@@ -7,6 +7,7 @@
     "cards-page-organization-booking-details-alert-refund-money": "{price} reembolsado exitosamente.",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "El dueño de la reserva obtiene 100% de reembolso de los créditos.",
     "cards-page-organization-booking-details-alert-refund-points": "{points} reembolsado con éxito.",
+    "cards-page-organization-booking-details-balance-action-button-for-free": "Gratis",
     "cards-page-organization-booking-details-balance-action-button-money": "Efectivo ({price})",
     "cards-page-organization-booking-details-balance-action-button-point": "Créditos ({balance})",
     "cards-page-organization-booking-details-booked-by": "Reservado por",

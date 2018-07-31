@@ -7,6 +7,7 @@
     "cards-page-organization-booking-details-alert-refund-money": "{price} 환불 완료",
     "cards-page-organization-booking-details-alert-refund-points-for-admin": "예약자의 100% 환불이 완료되었습니다",
     "cards-page-organization-booking-details-alert-refund-points": "{points} 환불 완료",
+    "cards-page-organization-booking-details-balance-action-button-for-free": "무료",
     "cards-page-organization-booking-details-balance-action-button-money": "현금 ({price})",
     "cards-page-organization-booking-details-balance-action-button-point": "크레딧 ({balance})",
     "cards-page-organization-booking-details-booked-by": "예약자",
