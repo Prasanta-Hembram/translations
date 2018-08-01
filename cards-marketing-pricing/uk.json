@@ -16,7 +16,7 @@
     "marketing-pricing-external-price": "5% від транзакції",
     "marketing-pricing-headline": "Отримайте свій власний додаток для коворкінгу!",
     "marketing-pricing-item": "Найменування",
-    "marketing-pricing-meeting-room": "Кімната",
+    "marketing-pricing-meeting-room": "Кімната для переговорів",
     "marketing-pricing-notice-advanced": "Усі ціни є орієнтовними, підлягають оподаткуванню в вашій країні, та не враховують комісії платіжної системи. Насьогодні сервіси надаються лише в Південній Кореї. Якщо ви розташовані в іншій країні, {contactUs} для уточнення ціни.",
     "marketing-pricing-notice-essential": "Усі ціни вказані з розрахунку на одну кімнату для переговорів у місяць. Якщо вашої країни немає в списку, будь ласка {contactUs}.",
     "marketing-pricing-subscriptions": "Підписки на членство",
@@ -25,7 +25,7 @@
     "marketing-pricing-pro-features-external-booking-system": "Зовнішня система резервації",
     "marketing-pricing-pro-features-recurring-membership": "Система оплати підписок на коворкінг через додаток",
     "marketing-pricing-request-demo": "Отримати безкоштовну демо-версію",
-    "marketing-pricing-smart-lock": "Кімната з розумним замком",
+    "marketing-pricing-smart-lock": "Кімната для переговорів з розумним замком",
     "marketing-pricing-subheadline": "Автоматизуйте все в коворкінгу — від оплат до бронювань."
   }
 }
