@@ -1,7 +1,6 @@
 {
   "data": {
     "cards-page-organization-announcement-main-action-sheet-delete": "Eliminar",
-    "cards-page-organization-announcement-main-action-sheet-update": "Editar",
     "cards-page-organization-announcement-main-date": "{createDate}, editado en {updateDate}",
     "cards-page-organization-announcement-main-delete-failure": "Error al eliminar aviso. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Reintentar borrar",
