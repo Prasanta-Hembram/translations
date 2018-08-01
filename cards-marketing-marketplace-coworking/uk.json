@@ -23,9 +23,6 @@
     "marketing-marketplace-coworking-service-meeting-rooms": "Кімнати для переговорів",
     "marketing-marketplace-coworking-service-office": "Приватний офіс",
     "marketing-marketplace-coworking-service-pass": "Квиток на вхід",
-    "marketing-marketplace-coworking-service-plans-available": "{numberOfSeats} доступно",
-    "marketing-marketplace-coworking-service-plans-only-left": "Залишилось лише {numberOfSeats}",
-    "marketing-marketplace-coworking-service-plans-sold-out": "Продано",
     "marketing-marketplace-coworking-service-plans-period-day": "день",
     "marketing-marketplace-coworking-service-plans-period-week": "тиждень",
     "marketing-marketplace-coworking-service-plans-period-month": "місяць",
@@ -33,6 +30,9 @@
     "marketing-marketplace-coworking-service-plans-period-month-6": "6 місяців",
     "marketing-marketplace-coworking-service-plans-period-year": "1 рік",
     "marketing-marketplace-coworking-service-plans-price-from": "Від {price}",
+    "marketing-marketplace-coworking-service-plans-seats-available": "{numberOfSeats} доступно",
+    "marketing-marketplace-coworking-service-plans-seats-only-left": "Залишилось лише {numberOfSeats}",
+    "marketing-marketplace-coworking-service-plans-seats-sold-out": "Продано",
     "marketing-marketplace-coworking-share": "Поділитись",
     "marketing-marketplace-coworking-view-photos" : "Переглянути фото"
   }

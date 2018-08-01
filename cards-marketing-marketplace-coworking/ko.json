@@ -23,9 +23,6 @@
     "marketing-marketplace-coworking-service-meeting-rooms": "모임공간",
     "marketing-marketplace-coworking-service-office": "사무실",
     "marketing-marketplace-coworking-service-pass": "패스",
-    "marketing-marketplace-coworking-service-plans-available": "{numberOfSeats}개 구매 가능",
-    "marketing-marketplace-coworking-service-plans-only-left": "재고 {numberOfSeats}개",
-    "marketing-marketplace-coworking-service-plans-sold-out": "매진",
     "marketing-marketplace-coworking-service-plans-period-day": "일",
     "marketing-marketplace-coworking-service-plans-period-week": "주",
     "marketing-marketplace-coworking-service-plans-period-month": "달",
@@ -33,6 +30,9 @@
     "marketing-marketplace-coworking-service-plans-period-month-6": "6달",
     "marketing-marketplace-coworking-service-plans-period-year": "1년",
     "marketing-marketplace-coworking-service-plans-price-from": "{price} 이상",
+    "marketing-marketplace-coworking-service-plans-seats-available": "{numberOfSeats}개 구매 가능",
+    "marketing-marketplace-coworking-service-plans-seats-only-left": "재고 {numberOfSeats}개",
+    "marketing-marketplace-coworking-service-plans-seats-sold-out": "매진",
     "marketing-marketplace-coworking-share": "코워킹 스페이스를 공유하기",
     "marketing-marketplace-coworking-view-photos" : "사진 보기"
   }

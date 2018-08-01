@@ -23,9 +23,6 @@
     "marketing-marketplace-coworking-service-meeting-rooms": "Meeting Rooms",
     "marketing-marketplace-coworking-service-office": "Private Office",
     "marketing-marketplace-coworking-service-pass": "Pass",
-    "marketing-marketplace-coworking-service-plans-available": "{numberOfSeats} available",
-    "marketing-marketplace-coworking-service-plans-only-left": "Only {numberOfSeats} left",
-    "marketing-marketplace-coworking-service-plans-sold-out": "Sold out",
     "marketing-marketplace-coworking-service-plans-period-day": "day",
     "marketing-marketplace-coworking-service-plans-period-week": "week",
     "marketing-marketplace-coworking-service-plans-period-month": "month",
@@ -33,6 +30,9 @@
     "marketing-marketplace-coworking-service-plans-period-month-6": "6 months",
     "marketing-marketplace-coworking-service-plans-period-year": "1 year",
     "marketing-marketplace-coworking-service-plans-price-from": "From {price}",
+    "marketing-marketplace-coworking-service-plans-seats-available": "{numberOfSeats} available",
+    "marketing-marketplace-coworking-service-plans-seats-only-left": "Only {numberOfSeats} left",
+    "marketing-marketplace-coworking-service-plans-seats-sold-out": "Sold out",
     "marketing-marketplace-coworking-share": "Share this coworking",
     "marketing-marketplace-coworking-view-photos": "View Photos"
   }
