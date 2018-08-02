@@ -1,14 +1,8 @@
 {
   "data": {
     "cards-page-login-methods-title": "Методы входа",
-    "cards-page-login-methods-added": "Сохраненные номера",
     "cards-page-login-methods-delete-account": "Удалить учетную запись",
-    "cards-page-login-methods-info-add": "Чтобы добавить номер, нажмите",
-    "cards-page-login-methods-info-modify": "Чтобы изменить или удалить номер, нажмите",
-    "cards-page-login-methods-no-data": "Нет номера телефона или интернета",
     "cards-page-login-methods-phone-number": "Телефон",
-    "cards-page-login-methods-remove": "Удалить номер телефона",
-    "cards-page-login-methods-social-networks": "Социальные сети",
     "cards-page-login-methods-social-networks-facebook": "Facebook",
     "cards-page-login-methods-social-networks-google": "Google"
   }
