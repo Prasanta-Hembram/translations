@@ -1,0 +1,25 @@
+{
+  "data": {
+    "cards-page-organization-plan-details-active-title": "Plan activo",
+    "cards-page-organization-plan-details-active-auto-renew": "Renovar subscripción automáticamente",
+    "cards-page-organization-plan-details-active-deactivate": "Desactivar",
+    "cards-page-organization-plan-details-active-empty": "Este plan no existe o puede haber sido eliminado 😕",
+    "cards-page-organization-plan-details-active-period-from-title": "Desde",
+    "cards-page-organization-plan-details-active-period-pay-with-title": "Page con",
+    "cards-page-organization-plan-details-active-period-pay-with-cash-title": "Dinero",
+    "cards-page-organization-plan-details-active-period-day": "1 día",
+    "cards-page-organization-plan-details-active-period-month": "1 mes",
+    "cards-page-organization-plan-details-active-period-month-3": "3 meses",
+    "cards-page-organization-plan-details-active-period-month-6": "6 meses",
+    "cards-page-organization-plan-details-active-period-title": "Periodo",
+    "cards-page-organization-plan-details-active-period-until-title": "Hasta",
+    "cards-page-organization-plan-details-active-period-week": "1 semana",
+    "cards-page-organization-plan-details-active-period-year": "1 año",
+    "cards-page-organization-plan-details-active-subscribe-alert": "La subscripción ha sido activada",
+    "cards-page-organization-plan-details-active-unsubscribe-alert": "La subscripción fue cancelada",
+    "cards-page-organization-plan-details-active-title-hot-desk": "Escritorio Caliente",
+    "cards-page-organization-plan-details-active-title-fixed-desk": "Escritorio Fijo",
+    "cards-page-organization-plan-details-active-title-private-office": "Oficina Privada",
+    "cards-page-organization-plan-details-active-title-hot-pass": "Pase"
+  }
+}

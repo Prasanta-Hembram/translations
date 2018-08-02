@@ -5,8 +5,9 @@
     "cards-page-login-methods-delete-account": "계정 삭제",
     "cards-page-login-methods-info-add": "전화번호 추가 : ",
     "cards-page-login-methods-info-modify": "등록된 번호 편집 및 삭제 : ",
-    "cards-page-login-methods-remove": "전화번호 삭제",
     "cards-page-login-methods-no-data": "전화번호 없음",
+    "cards-page-login-methods-phone-number": "휴대전화",
+    "cards-page-login-methods-remove": "전화번호 삭제",
     "cards-page-login-methods-social-networks": "SNS 로그인",
     "cards-page-login-methods-social-networks-facebook": "페이스북",
     "cards-page-login-methods-social-networks-google": "구글"

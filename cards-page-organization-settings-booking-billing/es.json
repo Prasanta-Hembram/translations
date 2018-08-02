@@ -1,0 +1,23 @@
+{
+  "data": {  
+    "cards-page-organization-settings-booking-billing-booking-from": "A partir de",
+    "cards-page-organization-settings-booking-billing-booking-period": "Período",
+    "cards-page-organization-settings-booking-billing-booking-period-one-month": "1 mes",
+    "cards-page-organization-settings-booking-billing-booking-period-one-week": "1 semana",
+    "cards-page-organization-settings-booking-billing-booking-period-two-weeks": "2 semanas",
+    "cards-page-organization-settings-booking-billing-booking-period-three-months": "3 meses",
+    "cards-page-organization-settings-booking-billing-booking-period-half-year": "6 meses",
+    "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 año",
+    "cards-page-organization-settings-booking-billing-booking-purpose-required": "Propósito de reserva requerido",
+    "cards-page-organization-settings-booking-billing-booking-until": "Hasta",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Enable Negative Balance",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Advertencia: Esto permitirá que los miembros tengan saldos negativos. Los miembros pueden usar todos los servicios pagados sin límites de pospago. Los administradores y moderadores pueden cambiar el saldo de cada miembro.",
+    "cards-page-organization-settings-booking-billing-billing-section-title": "Configuración de facturación",
+    "cards-page-organization-settings-booking-billing-billing-system": "Habilitar el sistema de facturación",
+    "cards-page-organization-settings-booking-billing-billing-system-description": "Billing system enables in-app payments for rooms and membership plans in the workspace. Contact us to change this setting.",
+    "cards-page-organization-settings-booking-billing-permission-denied": "Desafortunadamente, no tienes permiso para acceder. ",
+    "cards-page-organization-settings-booking-billing-point-label": "Habilitar sistema de crédito",
+    "cards-page-organization-settings-booking-billing-property-section-title": "Configuración de reserva",
+    "cards-page-organization-settings-booking-billing-title": "Configuración de reserva y facturación"
+  }
+}

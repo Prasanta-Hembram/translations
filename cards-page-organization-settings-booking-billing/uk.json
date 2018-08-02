@@ -1,0 +1,23 @@
+{
+  "data": {
+    "cards-page-organization-settings-booking-billing-booking-from": "Від",
+    "cards-page-organization-settings-booking-billing-booking-period": "Період доступності",
+    "cards-page-organization-settings-booking-billing-booking-period-one-month": "1 місяць",
+    "cards-page-organization-settings-booking-billing-booking-period-one-week": "1 тиждень",
+    "cards-page-organization-settings-booking-billing-booking-period-two-weeks": "2 тиждень",
+    "cards-page-organization-settings-booking-billing-booking-period-three-months": "3 місяці",
+    "cards-page-organization-settings-booking-billing-booking-period-half-year": "6 місяців",
+    "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 рік",
+    "cards-page-organization-settings-booking-billing-booking-purpose-required": "Мета резервації обов'язкова",
+    "cards-page-organization-settings-booking-billing-booking-until": "До",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Негативний баланс",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Увага! Ця функція дозволить учасникам мати негативні баланси. Учасники можуть використовувати всі платні послуги без обмежень на умовах післяплати. Адміністратори та модератори можуть змінювати баланс кожного учасника.",
+    "cards-page-organization-settings-booking-billing-billing-section-title": "Розрахунки",
+    "cards-page-organization-settings-booking-billing-billing-system": "Платіжна система",
+    "cards-page-organization-settings-booking-billing-billing-system-description": "Платіжна система робить можливими оплати за резервації кімнат та підписки на тарифи з додатку. Зв’яжіться з нами щоб налаштувати платіжну систему.",
+    "cards-page-organization-settings-booking-billing-permission-denied": "На жаль, у вас немає доступу. ",
+    "cards-page-organization-settings-booking-billing-point-label": "Кредитна система для резервацій",
+    "cards-page-organization-settings-booking-billing-property-section-title": "Система резервації",
+    "cards-page-organization-settings-booking-billing-title": "Системи резервації та платежів"
+  }
+}

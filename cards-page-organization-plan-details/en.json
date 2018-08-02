@@ -1,0 +1,27 @@
+{
+  "data": {
+    "cards-page-organization-plan-details-auto-renew": "Auto-renew",
+    "cards-page-organization-plan-details-auto-renew-description": "You will be charged every month unless you cancel the subscription.",
+    "cards-page-organization-plan-details-empty": "This plan may not exist or may have been removed. 😕",
+    "cards-page-organization-plan-details-period-from-title": "From",
+    "cards-page-organization-plan-details-period-pay-with-title": "Pay with",
+    "cards-page-organization-plan-details-period-pay-with-cash-title": "Cash",
+    "cards-page-organization-plan-details-period-pay-with-cash-description": "Visit the front desk to pay with cash by person and find out about cancellation policies.",
+    "cards-page-organization-plan-details-period-day": "1 day",
+    "cards-page-organization-plan-details-period-month": "1 month",
+    "cards-page-organization-plan-details-period-month-3": "3 months",
+    "cards-page-organization-plan-details-period-month-6": "6 months",
+    "cards-page-organization-plan-details-period-title": "Period",
+    "cards-page-organization-plan-details-period-week": "1 week",
+    "cards-page-organization-plan-details-period-year": "1 year",
+    "cards-page-organization-plan-details-subscribe": "Subscribe",
+    "cards-page-organization-plan-details-subscribe-for-free": "Subscribe for free",
+    "cards-page-organization-plan-details-subscribe-for-price": "Subscribe for {price}",
+    "cards-page-organization-plan-details-title": "Purchase plan",
+    "cards-page-organization-plan-details-title-hot-desk": "Hot Desk",
+    "cards-page-organization-plan-details-title-fixed-desk": "Fixed Desk",
+    "cards-page-organization-plan-details-title-private-office": "Private Office",
+    "cards-page-organization-plan-details-title-hot-pass": "Pass",
+    "cards-page-organization-plan-details-validation-error": "You don't have enough cash to get this plan. Please refill your balance and try again."
+  }
+}

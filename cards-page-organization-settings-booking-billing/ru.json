@@ -1,0 +1,23 @@
+{
+  "data": {
+    "cards-page-organization-settings-booking-billing-booking-from": "Начало",
+    "cards-page-organization-settings-booking-billing-booking-period": "Период доступности",
+    "cards-page-organization-settings-booking-billing-booking-period-one-month": "1 месяц",
+    "cards-page-organization-settings-booking-billing-booking-period-one-week": "1 неделя",
+    "cards-page-organization-settings-booking-billing-booking-period-two-weeks": "2 недели",
+    "cards-page-organization-settings-booking-billing-booking-period-three-months": "3 месяца",
+    "cards-page-organization-settings-booking-billing-booking-period-half-year": "6 месяцев",
+    "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 год",
+    "cards-page-organization-settings-booking-billing-booking-purpose-required": "Цель бронирования обязательна",
+    "cards-page-organization-settings-booking-billing-booking-until": "Конец",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Негативный баланс",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Внимание! Эта функция позволит участникам иметь отрицательный баланс. Участники могут использовать все платные услуги без ограничений по постоплатной основе. Админы и модераторы могут изменять баланс каждого участника.",
+    "cards-page-organization-settings-booking-billing-billing-section-title": "Рассчеты",
+    "cards-page-organization-settings-booking-billing-billing-system": "Платежная система",
+    "cards-page-organization-settings-booking-billing-billing-system-description": "Платежная система включает рассчеты за бронирование переговорных и тарифные планы прямо из приложения. Свяжитесь с нами чтобы настроить платежную систему.",
+    "cards-page-organization-settings-booking-billing-permission-denied": "К сожалению, у вас нет доступа. ",
+    "cards-page-organization-settings-booking-billing-point-label": "Кредитная система для бронирования",
+    "cards-page-organization-settings-booking-billing-property-section-title": "Система бронирования",
+    "cards-page-organization-settings-booking-billing-title": "Системы резервации и платежей"
+  }
+}

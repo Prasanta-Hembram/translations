@@ -1,0 +1,23 @@
+{
+  "data": {
+    "cards-page-organization-settings-booking-billing-booking-from": "From",
+    "cards-page-organization-settings-booking-billing-booking-period": "Period",
+    "cards-page-organization-settings-booking-billing-booking-period-one-month": "1 month",
+    "cards-page-organization-settings-booking-billing-booking-period-one-week": "1 week",
+    "cards-page-organization-settings-booking-billing-booking-period-two-weeks": "2 weeks",
+    "cards-page-organization-settings-booking-billing-booking-period-three-months": "3 months",
+    "cards-page-organization-settings-booking-billing-booking-period-half-year": "6 months",
+    "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 year",
+    "cards-page-organization-settings-booking-billing-booking-purpose-required": "Require Booking Purpose",
+    "cards-page-organization-settings-booking-billing-booking-until": "Until",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Enable Negative Balance",
+    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Warning! This will allow members to have negative balances. Members can use all paid services without limits on postpaid basis. Admins and moderators can change the balance of each member.",
+    "cards-page-organization-settings-booking-billing-billing-section-title": "Billing Settings",
+    "cards-page-organization-settings-booking-billing-billing-system": "Enable Billing System",
+    "cards-page-organization-settings-booking-billing-billing-system-description": "Billing system enables in-app payments for rooms and membership plans in the workspace. Contact us to change this setting.",
+    "cards-page-organization-settings-booking-billing-permission-denied": "Unfortunately, you have no permission to access.",
+    "cards-page-organization-settings-booking-billing-point-label": "Enable Credit System",
+    "cards-page-organization-settings-booking-billing-property-section-title": "Booking Settings",
+    "cards-page-organization-settings-booking-billing-title": "Booking and Billing"
+  }
+}

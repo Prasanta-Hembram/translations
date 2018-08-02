@@ -1,0 +1,25 @@
+{
+  "data": {
+    "cards-page-organization-plan-details-active-title": "Текущий план",
+    "cards-page-organization-plan-details-active-auto-renew": "Продлевать автоматически",
+    "cards-page-organization-plan-details-active-deactivate": "Отменить",
+    "cards-page-organization-plan-details-active-empty": "Этого плана не существует, или же он был удален. 😕",
+    "cards-page-organization-plan-details-active-period-from-title": "С",
+    "cards-page-organization-plan-details-active-period-pay-with-title": "Оплачено",
+    "cards-page-organization-plan-details-active-period-pay-with-cash-title": "Наличными",
+    "cards-page-organization-plan-details-active-period-day": "1 день",
+    "cards-page-organization-plan-details-active-period-month": "1 месяц",
+    "cards-page-organization-plan-details-active-period-month-3": "3 месяца",
+    "cards-page-organization-plan-details-active-period-month-6": "6 месяцев",
+    "cards-page-organization-plan-details-active-period-title": "Период",
+    "cards-page-organization-plan-details-active-period-until-title": "До",
+    "cards-page-organization-plan-details-active-period-week": "1 неделя",
+    "cards-page-organization-plan-details-active-period-year": "1 год",
+    "cards-page-organization-plan-details-active-subscribe-alert": "Подписка активирована",
+    "cards-page-organization-plan-details-active-unsubscribe-alert": "Подписка отменена",
+    "cards-page-organization-plan-details-active-title-hot-desk": "Незакрепленное место",
+    "cards-page-organization-plan-details-active-title-fixed-desk": "Закрепленное место",
+    "cards-page-organization-plan-details-active-title-private-office": "Отдельный офис",
+    "cards-page-organization-plan-details-active-title-hot-pass": "Входной билет"
+  }
+}

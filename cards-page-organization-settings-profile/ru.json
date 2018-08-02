@@ -1,0 +1,26 @@
+{
+  "data": {
+    "cards-page-organization-settings-profile-address": "Адрес",
+    "cards-page-organization-settings-profile-code": "Тег",
+    "cards-page-organization-settings-profile-code-description": "Поделитесь уникальным тегом коворкинга, чтобы участники могли сами его найти.",
+    "cards-page-organization-settings-profile-contact-to-support": "Этот тег также используется для поиска вашего коворкинга на andcards.com. Чтобы его изменить, сконтактируйтесь с нами через support@andcards.com.",
+    "cards-page-organization-settings-profile-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-organization-settings-profile-cover-photo": "Фото обложки",
+    "cards-page-organization-settings-profile-description": "Описание",
+    "cards-page-organization-settings-profile-email": "Email",
+    "cards-page-organization-settings-profile-email-required": "Email",
+    "cards-page-organization-settings-profile-last-name-required": "Фамилия",
+    "cards-page-organization-settings-profile-link": "Ссылка",
+    "cards-page-organization-settings-profile-members-title": "Пригласить участников",
+    "cards-page-organization-settings-profile-members-via-link-description": "Поделитесь публичной ссылкой на коворкинг, чтобы пригласить участников.",
+    "cards-page-organization-settings-profile-name": "Название",
+    "cards-page-organization-settings-profile-share": "Поделится",
+    "cards-page-organization-settings-profile-phone-number-required": "Телефон",
+    "cards-page-organization-settings-profile-required-fields-description": "Все участники обязаны предоставить следующую персональную информацию:",
+    "cards-page-organization-settings-profile-required-fields-title": "Обязательные поля",
+    "cards-page-organization-settings-profile-title": "Общая информация и приглашения",
+    "cards-page-organization-settings-profile-user-leave-failure": "Не удалось покинуть коворкинг. 🙁",
+    "cards-page-organization-settings-profile-user-leave-organization": "Покинуть коворкинг",
+    "cards-page-organization-settings-profile-user-leave-repeat": "Попробовать еще раз"
+  }
+}
