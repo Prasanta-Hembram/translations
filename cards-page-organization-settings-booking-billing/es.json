@@ -14,7 +14,7 @@
     "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Advertencia: Esto permitirá que los miembros tengan saldos negativos. Los miembros pueden usar todos los servicios pagados sin límites de pospago. Los administradores y moderadores pueden cambiar el saldo de cada miembro.",
     "cards-page-organization-settings-booking-billing-billing-section-title": "Configuración de facturación",
     "cards-page-organization-settings-booking-billing-billing-system": "Habilitar el sistema de facturación",
-    "cards-page-organization-settings-booking-billing-billing-system-description": "Billing system enables in-app payments for rooms and membership plans in the workspace. Contact us to change this setting.",
+    "cards-page-organization-settings-booking-billing-billing-system-description": "El sistema de facturación permite pagos dentro de la aplicación para la reserva de habitaciones y planes de membresía. Para cambiar esta configuración, póngase en contacto con support@andcards.com.",
     "cards-page-organization-settings-booking-billing-permission-denied": "Desafortunadamente, no tienes permiso para acceder. ",
     "cards-page-organization-settings-booking-billing-point-label": "Habilitar sistema de crédito",
     "cards-page-organization-settings-booking-billing-property-section-title": "Configuración de reserva",
