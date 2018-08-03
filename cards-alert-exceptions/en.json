@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-last-integration-delete": "Last login method cannot be deleted",
     "cards-alert-no-enough-cash": "Not enough cash",
     "cards-alert-no-internet": "No internet connection",
     "cards-alert-plan-sold-out": "Plan is sold out",

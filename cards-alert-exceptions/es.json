@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-last-integration-delete": "No se puede eliminar el último método de inicio de sesión",
     "cards-alert-no-enough-cash": "No hay suficiente efectivo",
     "cards-alert-no-internet": "Sin conexión a Internet",
     "cards-alert-plan-sold-out": "El plan está agotado",

@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-last-integration-delete": "Останній метод входу не може бути видалений",
     "cards-alert-no-enough-cash": "Недостатньо готівки",
     "cards-alert-no-internet": "Немає інтернет-з'єднання",
     "cards-alert-plan-sold-out": "План розпродано",
