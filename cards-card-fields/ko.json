@@ -2,24 +2,10 @@
   "data": {
     "cards-card-fields-first-name": "이름",
     "cards-card-fields-last-name": "성",
-    "cards-card-fields-other": "기타",
-    "cards-card-fields-nickname": "별명",
-    "cards-card-fields-status": "상태",
     "cards-card-fields-phone-number": "휴대전화",
-    "cards-card-fields-birthday": "생일",
     "cards-card-fields-email": "이메일",
-    "cards-card-fields-address": "주소",
-    "cards-card-fields-link": "링크",
     "cards-card-fields-facebook": "페이스북",
-    "cards-card-fields-instagram": "인스타그램",
-    "cards-card-fields-kakao-id": "카카오ID",
-    "cards-card-fields-linkedin": "LinkedIn",
-    "cards-card-fields-telegram": "텔레그램",
-    "cards-card-fields-twitter": "트위터",
-    "cards-card-fields-skype": "스카이프",
-    "cards-card-fields-viber": "바이버",
     "cards-card-fields-title": "호칭",
-    "cards-card-fields-organization": "직장",
-    "cards-card-fields-select-field": "선택하기"
+    "cards-card-fields-organization": "직장"
   }
 }

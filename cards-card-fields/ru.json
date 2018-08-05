@@ -2,24 +2,10 @@
   "data": {
     "cards-card-fields-first-name": "Имя",
     "cards-card-fields-last-name": "Фамилия",
-    "cards-card-fields-other": "Другое",
-    "cards-card-fields-nickname": "Никнейм",
-    "cards-card-fields-status": "Статус",
     "cards-card-fields-phone-number": "Телефон",
-    "cards-card-fields-birthday": "День рождения",
     "cards-card-fields-email": "Email",
-    "cards-card-fields-address": "Адрес",
-    "cards-card-fields-link": "Ссылка",
     "cards-card-fields-facebook": "Фейсбук",
-    "cards-card-fields-instagram": "Инстаграм",
-    "cards-card-fields-kakao-id": "Какао ID",
-    "cards-card-fields-linkedin": "ЛинкедИн",
-    "cards-card-fields-telegram": "Телеграм",
-    "cards-card-fields-twitter": "Твиттер",
-    "cards-card-fields-skype": "Скайп",
-    "cards-card-fields-viber": "Вайбер",
     "cards-card-fields-title": "Должность",
-    "cards-card-fields-organization": "Организация",
-    "cards-card-fields-select-field": "Выбрать поле"
+    "cards-card-fields-organization": "Организация"
   }
 }

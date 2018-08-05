@@ -2,24 +2,10 @@
   "data": {
     "cards-card-fields-first-name": "Name",
     "cards-card-fields-last-name": "Surname",
-    "cards-card-fields-other": "Other",
-    "cards-card-fields-nickname": "Nickname",
-    "cards-card-fields-status": "Status",
     "cards-card-fields-phone-number": "Phone Number",
-    "cards-card-fields-birthday": "Birthday",
     "cards-card-fields-email": "Email",
-    "cards-card-fields-address": "Address",
-    "cards-card-fields-link": "Link",
     "cards-card-fields-facebook": "Facebook",
-    "cards-card-fields-instagram": "Instagram",
-    "cards-card-fields-kakao-id": "Kakao ID",
-    "cards-card-fields-linkedin": "LinkedIn",
-    "cards-card-fields-telegram": "Telegram",
-    "cards-card-fields-twitter": "Twitter",
-    "cards-card-fields-skype": "Skype",
-    "cards-card-fields-viber": "Viber",
     "cards-card-fields-title": "Title",
-    "cards-card-fields-organization": "Organization",
-    "cards-card-fields-select-field": "Select field"
+    "cards-card-fields-organization": "Organization"
   }
 }
