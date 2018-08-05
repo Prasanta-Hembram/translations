@@ -6,7 +6,6 @@
     "cards-page-sessions-other": "Sesiones activas",
     "cards-page-sessions-other-cannot-load": "No se pueden cargar los detalles de las sesiones activas. Por favor verifique su conexión a internet.",
     "cards-page-sessions-other-empty": "No hay sesiones activas.", 
-    "cards-page-sessions-remove": "Eliminar sesión",
     "cards-page-sessions-title": "Sesiones activas"
   }
 }

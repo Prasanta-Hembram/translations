@@ -6,7 +6,6 @@
     "cards-page-sessions-other": "Активные сеансы",
     "cards-page-sessions-other-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
     "cards-page-sessions-other-empty": "Нет активных сеансов или интернета.",
-    "cards-page-sessions-remove": "Удалить сеанс",
     "cards-page-sessions-title": "Активные сеансы"
   }
 }
