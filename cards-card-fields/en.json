@@ -1,7 +1,5 @@
 {
   "data": {
-    "cards-card-fields-clear": "Clear field",
-    "cards-card-fields-delete": "Delete field",
     "cards-card-fields-first-name": "Name",
     "cards-card-fields-last-name": "Surname",
     "cards-card-fields-other": "Other",
