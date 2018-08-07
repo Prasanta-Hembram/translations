@@ -1,13 +1,9 @@
 {
   "data": {
-    "cards-page-organization-guilds-add-user-combobox-title": "Вибрати гільдію",
-    "cards-page-organization-guilds-add-success": "Успішно добавлено",
-    "cards-page-organization-guilds-add-user-action-sheet": "Додати до гільдії...",
     "cards-page-organization-guilds-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-guilds-create-guild": "Створити гільдію",
     "cards-page-organization-guilds-error-not-found": "Перевірте з'єднання з інтернетом.",
     "cards-page-organization-guilds-everyone-title": "Усі учасники",
-    "cards-page-organization-guilds-membership-settings-action-sheet" : "Переглянути профіль",
     "cards-page-organization-guilds-card-more": "Інші функції",
     "cards-page-organization-guilds-stack-search": "Пошук за {numberOfPeople} учасниками"
   }
