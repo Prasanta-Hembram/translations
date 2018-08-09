@@ -1,12 +1,8 @@
 {
   "data": {
-    "cards-page-organization-guild-main-action-delete": "Delete",
-    "cards-page-organization-guild-main-action-settings": "Edit",
     "cards-page-organization-guild-main-add": "Add members",
     "cards-page-organization-guild-main-card-more": "More options",
     "cards-page-organization-guild-main-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-organization-guild-main-delete-failure": "Failed to delete guild. 🙁",
-    "cards-page-organization-guild-main-delete-repeat": "Retry deleting",
     "cards-page-organization-guild-main-no-cards": "No one is here. 😕",
     "cards-page-organization-guild-main-not-found-error": "This guild may not exist or may have been removed. 😕"
   }

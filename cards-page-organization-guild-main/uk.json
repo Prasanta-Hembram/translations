@@ -1,12 +1,8 @@
 {
   "data": {
-    "cards-page-organization-guild-main-action-delete": "Видалити",
-    "cards-page-organization-guild-main-action-settings": "Редагувати",
     "cards-page-organization-guild-main-add": "Додати учасників",
     "cards-page-organization-guild-main-card-more": "Інші функції",
     "cards-page-organization-guild-main-copied-to-clipboard": "Скопійовано в буфер обміну.",
-    "cards-page-organization-guild-main-delete-failure": "Не вдалося видалити гільдію. 🙁",
-    "cards-page-organization-guild-main-delete-repeat": "Спробувати знову",
     "cards-page-organization-guild-main-no-cards": "Тут зовсім самотньо. 😕",
     "cards-page-organization-guild-main-not-found-error": "Ця гільдія не існує або ж була видалена. 😕"
   }

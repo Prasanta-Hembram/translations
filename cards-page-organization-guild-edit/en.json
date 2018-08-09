@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cards-page-organization-guild-edit-action-delete": "Delete",
+    "cards-page-organization-guild-edit-delete-failure": "Failed to delete guild. 🙁",
+    "cards-page-organization-guild-edit-delete-repeat": "Retry deleting",
+    "cards-page-organization-guild-edit-select-icon-title": "Select Icon",
+    "cards-page-organization-guild-edit-icon": "Icon",
+    "cards-page-organization-guild-edit-name": "Name",
+    "cards-page-organization-guild-edit-title": "Edit guild",
+    "cards-page-organization-guild-edit-not-found-error": "This guild may not exist or may have been removed. 😕"
+  }
+}
