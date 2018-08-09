@@ -5,10 +5,8 @@
     "cards-page-settings-profile-card-shared-basic-information": "Основная информация",
     "cards-page-settings-profile-card-error-action": "Перезагрузить",
     "cards-page-settings-profile-card-error-text": "Невозможно отобразить страницу из-за проблем с интернетом или сервером.",
-    "cards-page-settings-profile-card-image-crop-no-image": "Невозможно загрузить фото. Проверьте, все ли хорошо с интернет-соединением.",
     "cards-page-settings-profile-card-photo-crop": "Кадрировать фото",
-    "cards-page-settings-profile-card-photo-delete": "Удалить",
-    "cards-page-settings-profile-card-photo-edit": "Редактировать",
+    "cards-page-settings-profile-card-photo-delete": "Удалить фото",
     "cards-page-settings-profile-card-preview": "Предосмотр карточки"
   }
 }

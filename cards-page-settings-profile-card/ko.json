@@ -5,10 +5,8 @@
     "cards-page-settings-profile-card-shared-basic-information": "기본 정보",
     "cards-page-settings-profile-card-error-action": "다시 로드",
     "cards-page-settings-profile-card-error-text": "인터넷 또는 서버 문제로 페이지를 볼 수 없습니다. 다시 시도하세요.",
-    "cards-page-settings-profile-card-image-crop-no-image":"사진을 가져올 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-settings-profile-card-photo-crop": "사진 자르기",
-    "cards-page-settings-profile-card-photo-delete": "삭제하기",
-    "cards-page-settings-profile-card-photo-edit": "편집",
+    "cards-page-settings-profile-card-photo-delete": "사진 삭제",
     "cards-page-settings-profile-card-preview": "카드 미리보기"
   }
 }
