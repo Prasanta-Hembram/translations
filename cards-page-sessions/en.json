@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-sessions-alert-delete-success": "Session successfully deleted",
     "cards-page-sessions-current": "Current session",
     "cards-page-sessions-current-cannot-load": "Cannot load current session details. Please check the internet connection.",
     "cards-page-sessions-description": "This is the list of devices you logged into andCards. If you do not recognize any of active sessions, press ··· and remove it.",

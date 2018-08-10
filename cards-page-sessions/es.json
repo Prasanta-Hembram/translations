@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-sessions-alert-delete-success": "Sesión eliminada con éxito",
     "cards-page-sessions-current": "Sesión actual",
     "cards-page-sessions-current-cannot-load": "No se pueden cargar los detalles actuales de la sesión. Por favor verifique su conexión a internet.",
     "cards-page-sessions-description": "Esta es la lista de dispositivos que han iniciado sesión en andCards. Si no reconoce alguna de las sesiones activas, presione ··· y eliminela.",
