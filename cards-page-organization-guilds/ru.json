@@ -1,10 +1,8 @@
 {
   "data": {
-    "cards-page-organization-guilds-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-guilds-create-guild": "Создать гильдию",
     "cards-page-organization-guilds-error-not-found": "Проверьте соединение с интернетом.",
     "cards-page-organization-guilds-everyone-title": "Все участники",
-    "cards-page-organization-guilds-card-more": "Другие функции",
     "cards-page-organization-guilds-stack-search": "Поиск по {numberOfPeople} участникам"
   }
 }

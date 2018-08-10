@@ -1,10 +1,8 @@
 {
   "data": {
-    "cards-page-organization-guilds-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-guilds-create-guild": "Create guild",
     "cards-page-organization-guilds-error-not-found": "No internet",
     "cards-page-organization-guilds-everyone-title": "Everyone",
-    "cards-page-organization-guilds-card-more": "More options",
     "cards-page-organization-guilds-stack-search": "Search {numberOfPeople} members"
   }
 }

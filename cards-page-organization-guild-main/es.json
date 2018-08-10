@@ -1,8 +1,6 @@
 {
   "data": {
     "cards-page-organization-guild-main-add": "Añadir",
-    "cards-page-organization-guild-main-card-more": "Más Opciones",
-    "cards-page-organization-guild-main-copied-to-clipboard": "Copiado al portapapeles",
     "cards-page-organization-guild-main-no-cards": "No hay miembros en el evento todavía. 😕",
     "cards-page-organization-guild-main-not-found-error": "Este gremio puede no existir o puede haber sido eliminado. 😕"
   }
