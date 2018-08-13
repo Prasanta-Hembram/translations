@@ -1,0 +1,15 @@
+{
+  "data": {
+    "cards-page-organization-booking-edit-balance-action-button-for-free": "Безкоштовно",
+    "cards-page-organization-booking-edit-balance-action-button-money": "Готівкою ({price})",
+    "cards-page-organization-booking-edit-balance-action-button-point": "Кредитами ({balance})",
+    "cards-page-organization-booking-edit-booked-by": "Хто зарезервував",
+    "cards-page-organization-booking-edit-end-time": "Кінець",
+    "cards-page-organization-booking-edit-lock-code": "Код доступу",
+    "cards-page-organization-booking-edit-payed-with": "Оплачено",
+    "cards-page-organization-booking-edit-purpose": "Мета",
+    "cards-page-organization-booking-edit-purpose-placeholder": "Вкажіть мету",
+    "cards-page-organization-booking-edit-share-link-title": "Посилання на резервацію",
+    "cards-page-organization-booking-edit-start-time": "Початок"
+  }
+}

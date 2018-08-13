@@ -1,0 +1,15 @@
+{
+  "data": {
+    "cards-page-organization-booking-edit-balance-action-button-for-free": "Free",
+    "cards-page-organization-booking-edit-balance-action-button-money": "Cash ({price})",
+    "cards-page-organization-booking-edit-balance-action-button-point": "Credits ({balance})",
+    "cards-page-organization-booking-edit-booked-by": "Booked by",
+    "cards-page-organization-booking-edit-end-time": "Ending",
+    "cards-page-organization-booking-edit-lock-code": "Lock code",
+    "cards-page-organization-booking-edit-payed-with": "Paid with",
+    "cards-page-organization-booking-edit-purpose": "Purpose",
+    "cards-page-organization-booking-edit-purpose-placeholder": "Add purpose",
+    "cards-page-organization-booking-edit-share-link-title": "Link to booking",
+    "cards-page-organization-booking-edit-start-time": "Starting"
+  }
+}
