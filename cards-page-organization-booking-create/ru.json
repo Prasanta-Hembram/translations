@@ -5,6 +5,8 @@
     "cards-page-organization-booking-create-balance-admin-text": "{permission} может бронировать комнату бесплатно.",
     "cards-page-organization-booking-create-balance-description-text": "В случае отмены бронирования до его начала 100% средств будут возмещены на ваш счет.",
     "cards-page-organization-booking-create-book": "Забронировать",
+    "cards-page-organization-booking-create-book-by": "Забронировать для",
+    "cards-page-organization-booking-create-book-by-me": "{fullName} (меня)",
     "cards-page-organization-booking-create-book-for-free": "Забронировать бесплатно",
     "cards-page-organization-booking-create-book-for-points": "Забронировать за {balance}",
     "cards-page-organization-booking-create-book-for-money-cash": "Забронировать за {price}",

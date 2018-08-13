@@ -5,6 +5,8 @@
     "cards-page-organization-booking-create-balance-admin-text": "{permission} може бронювати кімнату безкоштовно.",
     "cards-page-organization-booking-create-balance-description-text": "У випадку відміни резервації до її початку 100% коштів буде повернено на ваш рахунок.",
     "cards-page-organization-booking-create-book": "Зарезервувати",
+    "cards-page-organization-booking-create-book-by": "Зарезервувати для",
+    "cards-page-organization-booking-create-book-by-me": "{fullName} (мене)",
     "cards-page-organization-booking-create-book-for-free": "Зарезервувати безкоштовно",
     "cards-page-organization-booking-create-book-for-points": "Зарезервувати за {balance}",
     "cards-page-organization-booking-create-book-for-money-cash": "Зарезервувати за {price}",
