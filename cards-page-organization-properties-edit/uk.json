@@ -11,6 +11,7 @@
     "cards-page-organization-property-edit-min-time-4-hour": "4 години",
     "cards-page-organization-property-edit-min-time-1-day": "1 день",
     "cards-page-organization-property-edit-name": "Назва",
+    "cards-page-organization-property-edit-name-placeholder": "Додайте назву",
     "cards-page-organization-property-edit-number-of-seats": "Кількість місць",
     "cards-page-organization-property-edit-price-money": "Ціна, {currencySymbol}/год", 
     "cards-page-organization-property-edit-price-points": "Ціна, {pointEmoji}/год",

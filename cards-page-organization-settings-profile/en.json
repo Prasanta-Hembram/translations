@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-settings-profile-address": "Address",
+    "cards-page-organization-settings-profile-address-placeholder": "Add Address",
     "cards-page-organization-settings-profile-code": "Tag",
     "cards-page-organization-settings-profile-code-description": "Share this unique workspace tag, so that anyone can find and join it.",
     "cards-page-organization-settings-profile-contact-to-support": "This tag is also used as a workspace username at andcards.com. To change it contact support@andcards.com.",
@@ -9,11 +10,14 @@
     "cards-page-organization-settings-profile-description": "Description",
     "cards-page-organization-settings-profile-email": "Email",
     "cards-page-organization-settings-profile-email-required": "Email",
+    "cards-page-organization-settings-profile-email-placeholder": "Add Email",
     "cards-page-organization-settings-profile-last-name-required": "Surname",
     "cards-page-organization-settings-profile-link": "Link",
+    "cards-page-organization-settings-profile-link-placeholder": "Add Link",
     "cards-page-organization-settings-profile-members-title": "Invite Members",
     "cards-page-organization-settings-profile-members-via-link-description": "Share a public link to workspace, so that anyone can request membership.",
     "cards-page-organization-settings-profile-name": "Name",
+    "cards-page-organization-settings-profile-name-placeholder": "Add Name",
     "cards-page-organization-settings-profile-phone-number-required": "Phone Number",
     "cards-page-organization-settings-profile-required-fields-description": "Require all members to share the following personal information:",
     "cards-page-organization-settings-profile-required-fields-title": "Required Fields",

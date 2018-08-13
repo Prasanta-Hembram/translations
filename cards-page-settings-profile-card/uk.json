@@ -5,6 +5,7 @@
     "cards-page-settings-profile-card-error-action": "Перезавантажити",
     "cards-page-settings-profile-card-error-text": "Неможливо завантажити сторінку через проблеми з інтернетом чи сервером. Спробуйте ще раз.",
     "cards-page-settings-profile-card-photo-crop": "Кадрувати фото",
-    "cards-page-settings-profile-card-photo-delete": "Видалити фото"
+    "cards-page-settings-profile-card-photo-delete": "Видалити фото",
+    "cards-page-settings-profile-card-shared-basic-information-placeholder": "Додайте інформацію"
   }
 }

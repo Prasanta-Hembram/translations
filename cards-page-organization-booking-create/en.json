@@ -18,6 +18,7 @@
     "cards-page-organization-booking-create-pay-with": "Pay with",
     "cards-page-organization-booking-create-pay-with-validation-error": "You don't have enough credits to make this booking. Please get more credits and try again.",
     "cards-page-organization-booking-create-purpose": "Purpose",
+    "cards-page-organization-booking-create-purpose-placeholder": "Add purpose",
     "cards-page-organization-booking-create-title": "New booking"
   }
 }

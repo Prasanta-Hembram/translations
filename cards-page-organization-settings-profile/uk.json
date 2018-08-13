@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-settings-profile-address": "Адреса",
+    "cards-page-organization-settings-profile-address-placeholder": "Додайте адресу",
     "cards-page-organization-settings-profile-code": "Тег",
     "cards-page-organization-settings-profile-code-description": "Поділіться унікальним тегом коворкінгу, щоби будь-хто міг сам його знайти.",
     "cards-page-organization-settings-profile-contact-to-support": "Цей тег також використовується для пошуку вашого коворкінгу на andcards.com. Щоб його змінити, сконтактуйтесь з нами через support@andcards.com.",
@@ -9,11 +10,14 @@
     "cards-page-organization-settings-profile-description": "Опис",
     "cards-page-organization-settings-profile-email": "Email",
     "cards-page-organization-settings-profile-email-required": "Email",
+    "cards-page-organization-settings-profile-email-placeholder": "Додайте Email",
     "cards-page-organization-settings-profile-last-name-required": "Прізвище",
     "cards-page-organization-settings-profile-link": "Посилання",
+    "cards-page-organization-settings-profile-link-placeholder": "Додайте посилання",
     "cards-page-organization-settings-profile-members-title": "Запросити учасників",
     "cards-page-organization-settings-profile-members-via-link-description": "Поділіться публічним посиланням на коворкінг, щоби дозволити будь-кому подати заявку на участь.",
     "cards-page-organization-settings-profile-name": "Назва",
+    "cards-page-organization-settings-profile-name-placeholder": "Додайте назву",
     "cards-page-organization-settings-profile-phone-number-required": "Телефон",
     "cards-page-organization-settings-profile-required-fields-description": "Усі учасники зобов'язані надавати наступну персональну інформацію:",
     "cards-page-organization-settings-profile-required-fields-title": "Обов'язкові поля",

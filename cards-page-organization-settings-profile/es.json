@@ -1,6 +1,7 @@
 {
   "data": {  
     "cards-page-organization-settings-profile-address": "Dirección",
+    "cards-page-organization-settings-profile-address-placeholder": "Ingresa la direccion",
     "cards-page-organization-settings-profile-code": "Etiqueta",
     "cards-page-organization-settings-profile-code-description": "Comparta esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía.",
     "cards-page-organization-settings-profile-contact-to-support": "Esta etiqueta también se usa como nombre de usuario del espacio de trabajo en andcards.com. Para cambiarlo, póngase en contacto con support@andcards.com.",
@@ -9,11 +10,14 @@
     "cards-page-organization-settings-profile-description": "Descripción",
     "cards-page-organization-settings-profile-email": "Correo electrónico",
     "cards-page-organization-settings-profile-email-required": "Correo electrónico",
+    "cards-page-organization-settings-profile-email-placeholder": "Ingrese correo electrónico",
     "cards-page-organization-settings-profile-last-name-required": "Apellido",
     "cards-page-organization-settings-profile-link": "Enlazar",
+    "cards-page-organization-settings-profile-link-placeholder": "Ingresar enlace",
     "cards-page-organization-settings-profile-members-title": "Invitar a los miembros",
     "cards-page-organization-settings-profile-members-via-link-description": "Comparta un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
     "cards-page-organization-settings-profile-name": "Nombre",
+    "cards-page-organization-settings-profile-name-placeholder": "Ingrese su nombre",
     "cards-page-organization-settings-profile-phone-number-required": "Número de teléfono",
     "cards-page-organization-settings-profile-required-fields-description": "Requerir que todos los miembros compartan la siguiente información personal:",
     "cards-page-organization-settings-profile-required-fields-title": "Campos requeridos",

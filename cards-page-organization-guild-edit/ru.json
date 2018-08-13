@@ -6,6 +6,7 @@
     "cards-page-organization-guild-edit-select-icon-title": "Выбрать иконку",
     "cards-page-organization-guild-edit-icon": "Иконка",
     "cards-page-organization-guild-edit-name": "Название",
+    "cards-page-organization-guild-edit-name-placeholder": "Введите название",
     "cards-page-organization-guild-edit-title": "Редактировать гильдию",
     "cards-page-organization-guild-edit-not-found-error": "Эта гильдия не существует или же была удалена. 😕"
   }

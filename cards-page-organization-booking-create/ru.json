@@ -18,6 +18,7 @@
     "cards-page-organization-booking-create-pay-with": "Оплатить",
     "cards-page-organization-booking-create-pay-with-validation-error": "Недостаточно кредитов для бронирования. Получите больше кредитов и попробуйте снова.",
     "cards-page-organization-booking-create-purpose": "Цель",
+    "cards-page-organization-booking-create-purpose-placeholder": "Укажите цель",
     "cards-page-organization-booking-create-title": "Новое бронирование"
   }
 }

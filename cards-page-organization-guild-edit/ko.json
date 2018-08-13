@@ -5,7 +5,8 @@
     "cards-page-organization-guild-edit-delete-repeat": "다시 시도",
     "cards-page-organization-guild-edit-select-icon-title": "아이콘 선택하기",
     "cards-page-organization-guild-edit-icon": "아이콘",
-    "cards-page-organization-guild-edit-name": "이름",
+    "cards-page-organization-guild-edit-name": "길드 명",
+    "cards-page-organization-guild-edit-name-placeholder": "길드 명 입력하기",
     "cards-page-organization-guild-edit-title": "길드 설정",
     "cards-page-organization-guild-edit-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕"
   }

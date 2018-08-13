@@ -11,6 +11,7 @@
     "cards-page-organization-property-edit-min-time-4-hour": "4 horas",
     "cards-page-organization-property-edit-min-time-1-day": "1 día",
     "cards-page-organization-property-edit-name": "Nombre",
+    "cards-page-organization-property-edit-name-placeholder": "Ingrese su nombre",
     "cards-page-organization-property-edit-number-of-seats": "Numero de asientos",
     "cards-page-organization-property-edit-price-money": "Precio, {currencySymbol}/hora", 
     "cards-page-organization-property-edit-price-points": "Precio, {pointEmoji}/hora",

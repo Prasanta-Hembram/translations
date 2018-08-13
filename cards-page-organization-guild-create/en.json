@@ -3,6 +3,7 @@
     "cards-page-organization-guild-create-combobox-title": "Select Icon",
     "cards-page-organization-guild-create-title": "Create guild",
     "cards-page-organization-guild-create-icon": "Icon",
-    "cards-page-organization-guild-create-name": "Name"
+    "cards-page-organization-guild-create-name": "Name",
+    "cards-page-organization-guild-create-name-placeholder": "Add name"
   }
 }

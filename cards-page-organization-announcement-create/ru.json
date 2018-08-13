@@ -6,6 +6,7 @@
     "cards-page-organization-announcement-create-target-guilds": "Целевая гильдия",
     "cards-page-organization-announcement-create-target-guilds-select-all": "Все участники",
     "cards-page-organization-announcement-create-text-placeholder": "Напишите что-то вашим резидентам...",
-    "cards-page-organization-announcement-create-title": "Название"
+    "cards-page-organization-announcement-create-title": "Название",
+    "cards-page-organization-announcement-create-title-placeholder": "Добавьте заголовок"
   }
 }

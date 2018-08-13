@@ -6,6 +6,7 @@
     "cards-page-organization-guild-edit-select-icon-title": "Seleccionar Ícono",
     "cards-page-organization-guild-edit-icon": "Ícono",
     "cards-page-organization-guild-edit-name": "Nombre",
+    "cards-page-organization-guild-edit-name-placeholder": "Ingrese su nombre",
     "cards-page-organization-guild-edit-title": "Editar gremio",
     "cards-page-organization-guild-edit-not-found-error": "Este gremio puede no existir o puede haber sido eliminado. 😕"
   }

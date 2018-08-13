@@ -3,6 +3,7 @@
     "cards-page-organization-guild-create-combobox-title": "Seleccionar Ícono",
     "cards-page-organization-guild-create-title": "Crear gremio",
     "cards-page-organization-guild-create-icon": "Ícono",
-    "cards-page-organization-guild-create-name": "Nombre"
+    "cards-page-organization-guild-create-name": "Nombre",
+    "cards-page-organization-guild-create-name-placeholder": "Agregar nombre"
   }
 }

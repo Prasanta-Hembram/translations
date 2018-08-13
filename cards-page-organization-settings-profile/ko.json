@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-settings-profile-address": "주소",
+    "cards-page-organization-settings-profile-address-placeholder": "주소 입력하기",
     "cards-page-organization-settings-profile-code": "태그",
     "cards-page-organization-settings-profile-code-description": "회원은 아래의 테그를 통해서 회원가입 요청할 수 있습니다.",
     "cards-page-organization-settings-profile-contact-to-support": "또 andcards.com에서 공간의 링크로 이용됩니다. 변경하려면 support@andcards.com으로 문의하십시오.",
@@ -9,11 +10,14 @@
     "cards-page-organization-settings-profile-description": "설명",
     "cards-page-organization-settings-profile-email": "이메일",
     "cards-page-organization-settings-profile-email-required": "이메일",
+    "cards-page-organization-settings-profile-email-placeholder": "이메일 주소 입력하기",
     "cards-page-organization-settings-profile-last-name-required": "성",
     "cards-page-organization-settings-profile-link": "링크",
+    "cards-page-organization-settings-profile-link-placeholder": "링크 입력하기",
     "cards-page-organization-settings-profile-members-title": "회원초대",
     "cards-page-organization-settings-profile-members-via-link-description": "회원은 아래의 링크를 통해서 초대하세요.",
     "cards-page-organization-settings-profile-name": "이름",
+    "cards-page-organization-settings-profile-name-placeholder": "이름 입력하기",
     "cards-page-organization-settings-profile-phone-number-required": "휴대전화",
     "cards-page-organization-settings-profile-required-fields-description": "모든 회원은 다음과 같은 개인 정보를 공유해야 함 :",
     "cards-page-organization-settings-profile-required-fields-title": "필수 정보",

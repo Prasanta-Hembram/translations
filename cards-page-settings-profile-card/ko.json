@@ -5,6 +5,7 @@
     "cards-page-settings-profile-card-error-action": "다시 로드",
     "cards-page-settings-profile-card-error-text": "인터넷 또는 서버 문제로 페이지를 볼 수 없습니다. 다시 시도하세요.",
     "cards-page-settings-profile-card-photo-crop": "사진 자르기",
-    "cards-page-settings-profile-card-photo-delete": "사진 삭제"
+    "cards-page-settings-profile-card-photo-delete": "사진 삭제",
+    "cards-page-settings-profile-card-shared-basic-information-placeholder": "정보 입력하기"
   }
 }

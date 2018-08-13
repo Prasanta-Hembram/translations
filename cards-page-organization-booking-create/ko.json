@@ -18,6 +18,7 @@
     "cards-page-organization-booking-create-pay-with": "결제수단",
     "cards-page-organization-booking-create-pay-with-validation-error": "크레딧 부족. 관리자에서 크레딧을 받으시고 다시 시도하세요.",
     "cards-page-organization-booking-create-purpose": "목적",
+    "cards-page-organization-booking-create-purpose-placeholder": "목적 입력하기",
     "cards-page-organization-booking-create-start-time": "시작",
     "cards-page-organization-booking-create-title": "예약하기"
   }

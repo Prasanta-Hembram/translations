@@ -11,6 +11,7 @@
     "cards-page-organization-property-edit-min-time-4-hour": "4 часа",
     "cards-page-organization-property-edit-min-time-1-day": "1 день",
     "cards-page-organization-property-edit-name": "Название",
+    "cards-page-organization-property-edit-name-placeholder": "Добавьте название",
     "cards-page-organization-property-edit-number-of-seats": "Количество мест",
     "cards-page-organization-property-edit-price-money": "Цена, {currencySymbol}/час", 
     "cards-page-organization-property-edit-price-points": "Цена, {pointEmoji}/час",

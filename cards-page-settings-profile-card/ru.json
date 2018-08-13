@@ -5,6 +5,7 @@
     "cards-page-settings-profile-card-error-action": "Перезагрузить",
     "cards-page-settings-profile-card-error-text": "Невозможно отобразить страницу из-за проблем с интернетом или сервером.",
     "cards-page-settings-profile-card-photo-crop": "Кадрировать фото",
-    "cards-page-settings-profile-card-photo-delete": "Удалить фото"
+    "cards-page-settings-profile-card-photo-delete": "Удалить фото",
+    "cards-page-settings-profile-card-shared-basic-information-placeholder": "Добавьте информацию"
   }
 }

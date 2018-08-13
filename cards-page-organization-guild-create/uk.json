@@ -3,6 +3,7 @@
     "cards-page-organization-guild-create-combobox-title": "Обрати іконку",
     "cards-page-organization-guild-create-title": "Створити гільдію",
     "cards-page-organization-guild-create-icon": "Іконка",
-    "cards-page-organization-guild-create-name": "Назва"
+    "cards-page-organization-guild-create-name": "Назва",
+    "cards-page-organization-guild-create-name-placeholder": "Введіть назву"
   }
 }
