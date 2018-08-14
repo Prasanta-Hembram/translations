@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-confirmation-account-delete-title": "Удалить учетную запись",
-    "cards-alert-confirmation-account-delete-text": "Вы действительно хотите удалить свою учетную запись? Если вы продолжите, вы не сможете продолжать использовать andCards, и ВСЕ ВАШИ ДАННЫЕ БУДУТ УДАЛЕНЫ ПОЛНОСТЬЮ И НЕОБРАТИМО.",
+    "cards-alert-confirmation-account-delete-text": "Если вы продолжите, вы не сможете продолжать использовать andCards, и ВСЕ ВАШИ ДАННЫЕ БУДУТ УДАЛЕНЫ ПОЛНОСТЬЮ И НЕОБРАТИМО.",
     "cards-alert-confirmation-account-delete-yes": "Да, удалить",
     "cards-alert-confirmation-account-delete-no": "Отменить"
   }

@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-alert-confirmation-account-delete-title": "Eliminar cuenta",
-    "cards-alert-confirmation-account-delete-text": "Si decide continuar, todas sus tarjetas, ajustes y otros datos serán perdidos. La eliminación de la cuenta es irreversible. No podremos restablecer su información..",
+    "cards-alert-confirmation-account-delete-text": "Si continúa, se perderán todos sus datos. La eliminación de la cuenta es irreversible. No podremos restaurar su información.",
     "cards-alert-confirmation-account-delete-yes": "Si, eliminar",
     "cards-alert-confirmation-account-delete-no": "Cancelar"
   }
