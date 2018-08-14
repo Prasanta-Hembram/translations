@@ -1,9 +1,6 @@
 {
   "data": {
     "cards-page-settings-profile-card-edit-title": "Editing data",
-    "cards-page-settings-profile-card-create-title": "Create profile",
-    "cards-page-settings-profile-card-error-action": "Reload",
-    "cards-page-settings-profile-card-error-text": "Could not load page because of internet or server issue. Please try again.",
     "cards-page-settings-profile-card-photo-crop": "Crop photo",
     "cards-page-settings-profile-card-photo-delete": "Delete Photo",
     "cards-page-settings-profile-card-shared-basic-information-placeholder": "Add information"
