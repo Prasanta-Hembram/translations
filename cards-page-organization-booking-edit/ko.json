@@ -8,9 +8,9 @@
     "cards-page-organization-booking-edit-lock-code": "비밀번호",
     "cards-page-organization-booking-edit-payed-with": "결제 수단",
     "cards-page-organization-booking-edit-purpose": "목적",
-    "cards-page-organization-booking-edit-purpose-placeholder": "Add purpose",
+    "cards-page-organization-booking-edit-purpose-placeholder": "목적 추가하기",
     "cards-page-organization-booking-edit-share-link-title": "예약 링크",
     "cards-page-organization-booking-edit-start-time": "시작",
-    "cards-page-organization-booking-edit-title": "Edit booking"
+    "cards-page-organization-booking-edit-title": "예약 수정"
   }
 }
