@@ -10,7 +10,7 @@
     "cards-page-organization-booking-details-balance-action-button-for-free": "Безкоштовно",
     "cards-page-organization-booking-details-balance-action-button-money": "Готівкою ({price})",
     "cards-page-organization-booking-details-balance-action-button-point": "Кредитами ({balance})",
-    "cards-page-organization-booking-details-booked-by": "Хто зарезервував",
+    "cards-page-organization-booking-details-booked-by": "Власник",
     "cards-page-organization-booking-details-copied-to-clipboard": "Скопійовано в буфер обміну.",
     "cards-page-organization-booking-details-default-purpose": "Резервація",
     "cards-page-organization-booking-details-delete-failure": "Не вдалось видалити резервацію. 🙁",

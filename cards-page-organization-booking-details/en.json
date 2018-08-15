@@ -10,7 +10,7 @@
     "cards-page-organization-booking-details-balance-action-button-for-free": "Free",
     "cards-page-organization-booking-details-balance-action-button-money": "Cash ({price})",
     "cards-page-organization-booking-details-balance-action-button-point": "Credits ({balance})",
-    "cards-page-organization-booking-details-booked-by": "Booked by",
+    "cards-page-organization-booking-details-booked-by": "Booker",
     "cards-page-organization-booking-details-copied-to-clipboard": "Copied to clipboard",
     "cards-page-organization-booking-details-default-purpose": "Reservation",
     "cards-page-organization-booking-details-delete-failure": "Failed to delete booking. 🙁",
