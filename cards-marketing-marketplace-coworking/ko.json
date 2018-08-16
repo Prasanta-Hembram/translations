@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-marketplace-coworking-title": "{city} {coworkingTitle} 코워킹스페이스 | andCards",
-    "marketing-marketplace-coworking-description": "{coworkingTitle} 임대 오피스, 사무실임대, 공유오피스 이용 안내 및 온라인 예약",
+    "marketing-marketplace-coworking-description": "{city} {coworkingTitle} 임대 오피스, 사무실임대, 공유오피스 이용 안내 및 온라인 예약",
     "marketing-marketplace-coworking-amenities": "편의시설",
     "marketing-marketplace-coworking-amenities-kitchen": "부엌",
     "marketing-marketplace-coworking-amenities-unlimited-drinks": "무제한 커피/차",
