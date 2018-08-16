@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-page-organization-plan-create-credits": "Кредити, {pointEmoji}",
+    "cards-page-organization-plan-create-description": "Опис план",
+    "cards-page-organization-plan-create-description-placeholder": "Додати опис плану",
     "cards-page-organization-plan-create-free-trial-day": "Безкоштовний пробний день",
     "cards-page-organization-plan-create-period": "Період",
     "cards-page-organization-plan-create-period-day": "1 день",

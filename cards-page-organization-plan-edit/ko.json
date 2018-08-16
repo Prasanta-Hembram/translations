@@ -7,6 +7,8 @@
     "cards-page-organization-plan-edit-delete-plan-reject": "삭제 실패 : 플랜 사용 중",
     "cards-page-organization-plan-edit-description": "크레딧 금액을 변경시 다음 제결제 부터 적용.",
     "cards-page-organization-plan-edit-free-trial-day": "하루 무료 시험",
+    "cards-page-organization-plan-edit-note": "플랜 설명",
+    "cards-page-organization-plan-edit-note-placeholder": "플랜 설명하기",
     "cards-page-organization-plan-edit-period": "기간",
     "cards-page-organization-plan-edit-period-day": "1일",
     "cards-page-organization-plan-edit-period-week": "1주",

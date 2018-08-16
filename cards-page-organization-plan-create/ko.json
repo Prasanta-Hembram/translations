@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-page-organization-plan-create-credits": "크레딧, {pointEmoji}",
+    "cards-page-organization-plan-create-description": "플랜 설명",
+    "cards-page-organization-plan-create-description-placeholder": "플랜 설명하기",
     "cards-page-organization-plan-create-free-trial-day": "하루 무료 시험",
     "cards-page-organization-plan-create-period": "기간",
     "cards-page-organization-plan-create-period-day": "1일",

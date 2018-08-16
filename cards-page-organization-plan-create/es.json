@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-page-organization-plan-create-credits": "Créditos, {pointEmoji}",
+    "cards-page-organization-plan-create-description": "Descripción del plan",
+    "cards-page-organization-plan-create-description-placeholder": "Agregar descripción del plan",
     "cards-page-organization-plan-create-free-trial-day": "Día de prueba gratis",
     "cards-page-organization-plan-create-period": "Periodo",
     "cards-page-organization-plan-create-period-day": "día",

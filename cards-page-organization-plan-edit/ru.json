@@ -7,6 +7,8 @@
     "cards-page-organization-plan-edit-delete-plan-reject": "Невозможно удалить: план используется",
     "cards-page-organization-plan-edit-description": "Новый тариф будет применен со следующего платежного периода.",
     "cards-page-organization-plan-edit-free-trial-day": "Бесплатный пробный день",
+    "cards-page-organization-plan-edit-note": "Описание плана",
+    "cards-page-organization-plan-edit-note-placeholder": "Добавить описание плана",
     "cards-page-organization-plan-edit-period": "Период",
     "cards-page-organization-plan-edit-period-day": "1 день",
     "cards-page-organization-plan-edit-period-week": "1 неделя",

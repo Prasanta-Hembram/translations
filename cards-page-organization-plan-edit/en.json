@@ -7,6 +7,8 @@
     "cards-page-organization-plan-edit-delete-repeat": "Try again",
     "cards-page-organization-plan-edit-description": "Changes to credit amount will be applied from the next billing period.",
     "cards-page-organization-plan-edit-free-trial-day": "Free Trial Day",
+    "cards-page-organization-plan-edit-note": "Plan description",
+    "cards-page-organization-plan-edit-note-placeholder": "Add plan description",
     "cards-page-organization-plan-edit-period": "Period",
     "cards-page-organization-plan-edit-period-day": "1 day",
     "cards-page-organization-plan-edit-period-week": "1 week",
