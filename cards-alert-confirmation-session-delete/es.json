@@ -1,0 +1,8 @@
+{
+  "data":{
+    "cards-alert-confirmation-session-delete-no": "Cancelar",
+    "cards-alert-confirmation-session-delete-text": "¿Estás seguro de que deseas eliminar esta sesión? Esta acción es irreversible",
+    "cards-alert-confirmation-session-delete-title": "Eliminar sesión",
+    "cards-alert-confirmation-session-delete-yes": "Sí, eliminar"
+  }
+}

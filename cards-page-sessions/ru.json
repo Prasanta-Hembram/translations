@@ -3,7 +3,7 @@
     "cards-page-sessions-alert-delete-success": "Сеанс удалён",
     "cards-page-sessions-current": "Текущий сеанс",
     "cards-page-sessions-current-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
-    "cards-page-sessions-description": "Список устройств, на которых вы вошли в andCards. Если вы не узнаете какого из активных сеансов, нажмите ··· и удалите его.",
+    "cards-page-sessions-description": "Список устройств, на которых вы вошли в andCards. Если вы не узнаете какого из активных сеансов, удалите его.",
     "cards-page-sessions-other": "Активные сеансы",
     "cards-page-sessions-other-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
     "cards-page-sessions-other-empty": "Нет активных сеансов или интернета.",
