@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-page-organization-plans-active-plan-ends": "Закінчується через {daysLeft}",
+    "cards-page-organization-plans-active-plan-ends": "Закінчується {daysLeft}",
     "cards-page-organization-plans-available-plans-found": "Тарифні плани",
     "cards-page-organization-plans-balance-title": "Баланс",
     "cards-page-organization-plans-create": "Додати план",
