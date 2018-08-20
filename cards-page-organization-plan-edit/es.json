@@ -27,6 +27,7 @@
     "cards-page-organization-plan-edit-type-fixed-desk": "Escritorio Fijo",
     "cards-page-organization-plan-edit-type-hot-desk": "Escritorio Caliente",
     "cards-page-organization-plan-edit-type-pass": "Pase",
-    "cards-page-organization-plan-edit-type-private-office": "Oficina Privada"
+    "cards-page-organization-plan-edit-type-private-office": "Oficina Privada",
+    "cards-page-organization-plan-edit-update-plan-reject": "No se puede actualizar"
   }
 }

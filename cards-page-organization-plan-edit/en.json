@@ -27,6 +27,7 @@
     "cards-page-organization-plan-edit-type-fixed-desk": "Fixed Desk",
     "cards-page-organization-plan-edit-type-hot-desk": "Hot Desk",
     "cards-page-organization-plan-edit-type-pass": "Pass",
-    "cards-page-organization-plan-edit-type-private-office": "Private Office"
+    "cards-page-organization-plan-edit-type-private-office": "Private Office",
+    "cards-page-organization-plan-edit-update-plan-reject": "Unable to update"
   }
 }

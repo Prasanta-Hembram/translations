@@ -27,6 +27,7 @@
     "cards-page-organization-plan-edit-type-fixed-desk": "Закрепленное место",
     "cards-page-organization-plan-edit-type-hot-desk": "Незакрепленное место",
     "cards-page-organization-plan-edit-type-pass": "Входной билет",
-    "cards-page-organization-plan-edit-type-private-office": "Отдельный офис"
+    "cards-page-organization-plan-edit-type-private-office": "Отдельный офис",
+    "cards-page-organization-plan-edit-update-plan-reject": "Невозможно обновить план"
   }
 }
