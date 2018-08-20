@@ -4,11 +4,19 @@
     "cards-page-organization-guilds-error-not-found": "Перевірте з'єднання з інтернетом.",
     "cards-page-organization-guilds-everyone-title": "Усі учасники",
     "cards-page-organization-guilds-stack-search": "Пошук за {numberOfPeople} учасниками",
-    "cards-page-organization-plan-details-period-day": "1 день",
-    "cards-page-organization-plan-details-period-month": "1 місяць",
-    "cards-page-organization-plan-details-period-month-3": "3 місяці",
-    "cards-page-organization-plan-details-period-month-6": "6 місяців",
-    "cards-page-organization-plan-details-period-week": "1 тиждень",
-    "cards-page-organization-plan-details-period-year": "1 рік"
+    "cards-page-organization-guilds-main-end": "End",
+    "cards-page-organization-guilds-main-cash-balance": "Cash Balance",
+    "cards-page-organization-guilds-main-credit-balance": "Credit Balance",
+    "cards-page-organization-guilds-main-credit-allocation": "Credit Allocation",
+    "cards-page-organization-guilds-main-name": "Name",
+    "cards-page-organization-guilds-main-plan": "Plan",
+    "cards-page-organization-guilds-main-price": "Price",
+    "cards-page-organization-guilds-main-start": "Start",
+    "cards-page-organization-guilds-period-day": "1 день",
+    "cards-page-organization-guilds-period-month": "1 місяць",
+    "cards-page-organization-guilds-period-month-3": "3 місяці",
+    "cards-page-organization-guilds-period-month-6": "6 місяців",
+    "cards-page-organization-guilds-period-week": "1 тиждень",
+    "cards-page-organization-guilds-period-year": "1 рік"
   }
 }

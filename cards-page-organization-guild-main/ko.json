@@ -3,11 +3,19 @@
     "cards-page-organization-guild-main-add": "회원 추가하기",
     "cards-page-organization-guild-main-no-cards": "길드에는 아직 카드가 없습니다. 😕",
     "cards-page-organization-guild-main-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕",
-    "cards-page-organization-plan-details-period-day": "1일",
-    "cards-page-organization-plan-details-period-month": "1달",
-    "cards-page-organization-plan-details-period-month-3": "3달",
-    "cards-page-organization-plan-details-period-month-6": "6달",
-    "cards-page-organization-plan-details-period-week": "1주",
-    "cards-page-organization-plan-details-period-year": "1년"
+    "cards-page-organization-guild-main-end": "End",
+    "cards-page-organization-guild-main-cash-balance": "Cash Balance",
+    "cards-page-organization-guild-main-credit-balance": "Credit Balance",
+    "cards-page-organization-guild-main-credit-allocation": "Credit Allocation",
+    "cards-page-organization-guild-main-name": "Name",
+    "cards-page-organization-guild-main-plan": "Plan",
+    "cards-page-organization-guild-main-price": "Price",
+    "cards-page-organization-guild-main-start": "Start",
+    "cards-page-organization-guild-main-period-day": "1일",
+    "cards-page-organization-guild-main-period-month": "1달",
+    "cards-page-organization-guild-main-period-month-3": "3달",
+    "cards-page-organization-guild-main-period-month-6": "6달",
+    "cards-page-organization-guild-main-period-week": "1주",
+    "cards-page-organization-guild-main-period-year": "1년"
   }
 }
