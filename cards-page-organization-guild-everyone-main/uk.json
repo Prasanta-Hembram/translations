@@ -1,6 +1,12 @@
 {
   "data": {
     "cards-page-organization-guild-everyone-main-no-cards": "Тут поки що нікого немає 😕",
-    "cards-page-organization-guild-everyone-main-title": "Всі учасники"
+    "cards-page-organization-guild-everyone-main-title": "Всі учасники",
+    "cards-page-organization-plan-details-period-day": "1 день",
+    "cards-page-organization-plan-details-period-month": "1 місяць",
+    "cards-page-organization-plan-details-period-month-3": "3 місяці",
+    "cards-page-organization-plan-details-period-month-6": "6 місяців",
+    "cards-page-organization-plan-details-period-week": "1 тиждень",
+    "cards-page-organization-plan-details-period-year": "1 рік"
   }
 }

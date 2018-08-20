@@ -2,6 +2,12 @@
   "data": {
     "cards-page-organization-guild-main-add": "Додати учасників",
     "cards-page-organization-guild-main-no-cards": "Тут зовсім самотньо. 😕",
-    "cards-page-organization-guild-main-not-found-error": "Ця гільдія не існує або ж була видалена. 😕"
+    "cards-page-organization-guild-main-not-found-error": "Ця гільдія не існує або ж була видалена. 😕",
+    "cards-page-organization-plan-details-period-day": "1 день",
+    "cards-page-organization-plan-details-period-month": "1 місяць",
+    "cards-page-organization-plan-details-period-month-3": "3 місяці",
+    "cards-page-organization-plan-details-period-month-6": "6 місяців",
+    "cards-page-organization-plan-details-period-week": "1 тиждень",
+    "cards-page-organization-plan-details-period-year": "1 рік"
   }
 }
