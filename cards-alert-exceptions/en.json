@@ -3,6 +3,7 @@
     "cards-alert-last-integration-delete": "Last login method cannot be deleted",
     "cards-alert-no-enough-cash": "Not enough cash",
     "cards-alert-no-internet": "No internet connection",
+    "cards-alert-plan-periods-empty": "Plan must have at least 1 period",
     "cards-alert-plan-sold-out": "Plan is sold out",
     "cards-alert-sns-user-exists": "This account is already in use"
   }

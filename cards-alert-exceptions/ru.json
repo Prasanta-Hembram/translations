@@ -3,6 +3,7 @@
     "cards-alert-last-integration-delete": "Последний метод входа не может быть удален",
     "cards-alert-no-enough-cash": "Недостаточно наличных",
     "cards-alert-no-internet": "Нет интернет-соединения",
+    "cards-alert-plan-periods-empty": "Нужно выбрать хотя б один период",
     "cards-alert-plan-sold-out": "План распродан",
     "cards-alert-sns-user-exists": "Этот аккаунт уже используется"
   }
