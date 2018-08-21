@@ -1,6 +1,20 @@
 {
   "data": {
     "cards-page-organization-guild-everyone-main-no-cards": "Здесь пока никого нет 😕",
+    "cards-page-organization-guild-everyone-main-end": "До",
+    "cards-page-organization-guild-everyone-main-cash-balance": "Баланс наличных",
+    "cards-page-organization-guild-everyone-main-credit-balance": "Баланс кредитов",
+    "cards-page-organization-guild-everyone-main-credit-allocation": "Квота кредитов",
+    "cards-page-organization-guild-everyone-main-name": "Имя",
+    "cards-page-organization-guild-everyone-main-plan": "План",
+    "cards-page-organization-guild-everyone-main-price": "Цена",
+    "cards-page-organization-guild-everyone-main-start": "С",
+    "cards-page-organization-guild-everyone-main-period-day": "1 день",
+    "cards-page-organization-guild-everyone-main-period-month": "1 месяц",
+    "cards-page-organization-guild-everyone-main-period-month-3": "3 месяца",
+    "cards-page-organization-guild-everyone-main-period-month-6": "6 месяцев",
+    "cards-page-organization-guild-everyone-main-period-week": "1 неделя",
+    "cards-page-organization-guild-everyone-main-period-year": "1 год",
     "cards-page-organization-guild-everyone-main-title": "Все участники"
   }
 }

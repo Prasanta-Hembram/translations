@@ -2,6 +2,20 @@
   "data": {
     "cards-page-organization-guild-main-add": "회원 추가하기",
     "cards-page-organization-guild-main-no-cards": "길드에는 아직 카드가 없습니다. 😕",
-    "cards-page-organization-guild-main-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕"
+    "cards-page-organization-guild-main-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕",
+    "cards-page-organization-guild-main-end": "종료",
+    "cards-page-organization-guild-main-cash-balance": "현금 잔액",
+    "cards-page-organization-guild-main-credit-balance": "크레딧 잔액",
+    "cards-page-organization-guild-main-credit-allocation": "크레딧 부여",
+    "cards-page-organization-guild-main-name": "성함",
+    "cards-page-organization-guild-main-plan": "플랜",
+    "cards-page-organization-guild-main-price": "가격",
+    "cards-page-organization-guild-main-start": "시작",
+    "cards-page-organization-guild-main-period-day": "1일",
+    "cards-page-organization-guild-main-period-month": "1달",
+    "cards-page-organization-guild-main-period-month-3": "3달",
+    "cards-page-organization-guild-main-period-month-6": "6달",
+    "cards-page-organization-guild-main-period-week": "1주",
+    "cards-page-organization-guild-main-period-year": "1년"
   }
 }

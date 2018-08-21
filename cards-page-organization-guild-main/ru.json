@@ -2,6 +2,20 @@
   "data": {
     "cards-page-organization-guild-main-add": "Добавить",
     "cards-page-organization-guild-main-no-cards": "Здесь совсем одиноко. 😕",
-    "cards-page-organization-guild-main-not-found-error": "Эта гильдия не существует или же была удалена. 😕"
+    "cards-page-organization-guild-main-not-found-error": "Эта гильдия не существует или же была удалена. 😕",
+    "cards-page-organization-guild-main-end": "До",
+    "cards-page-organization-guild-main-cash-balance": "Баланс наличных",
+    "cards-page-organization-guild-main-credit-balance": "Баланс кредитов",
+    "cards-page-organization-guild-main-credit-allocation": "Квота кредитов",
+    "cards-page-organization-guild-main-name": "Имя",
+    "cards-page-organization-guild-main-plan": "План",
+    "cards-page-organization-guild-main-price": "Цена",
+    "cards-page-organization-guild-main-start": "С",
+    "cards-page-organization-guild-main-period-day": "1 день",
+    "cards-page-organization-guild-main-period-month": "1 месяц",
+    "cards-page-organization-guild-main-period-month-3": "3 месяца",
+    "cards-page-organization-guild-main-period-month-6": "6 месяцев",
+    "cards-page-organization-guild-main-period-week": "1 неделя",
+    "cards-page-organization-guild-main-period-year": "1 год"
   }
 }

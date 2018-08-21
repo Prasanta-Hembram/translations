@@ -3,6 +3,20 @@
     "cards-page-organization-guilds-create-guild": "추가",
     "cards-page-organization-guilds-error-not-found": "인터넷이 없습니다.",
     "cards-page-organization-guilds-everyone-title": "전체회원",
-    "cards-page-organization-guilds-stack-search": "{numberOfPeople}명 중 검색하기"
+    "cards-page-organization-guilds-stack-search": "{numberOfPeople}명 중 검색하기",
+    "cards-page-organization-guilds-end": "종료",
+    "cards-page-organization-guilds-cash-balance": "현금 잔액",
+    "cards-page-organization-guilds-credit-balance": "크레딧 잔액",
+    "cards-page-organization-guilds-credit-allocation": "크레딧 부여",
+    "cards-page-organization-guilds-name": "성함",
+    "cards-page-organization-guilds-plan": "플랜",
+    "cards-page-organization-guilds-price": "가격",
+    "cards-page-organization-guilds-start": "시작",
+    "cards-page-organization-guilds-period-day": "1일",
+    "cards-page-organization-guilds-period-month": "1달",
+    "cards-page-organization-guilds-period-month-3": "3달",
+    "cards-page-organization-guilds-period-month-6": "6달",
+    "cards-page-organization-guilds-period-week": "1주",
+    "cards-page-organization-guilds-period-year": "1년"
   }
 }
