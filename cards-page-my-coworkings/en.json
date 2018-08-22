@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-my-coworkings-button-search": "Join",
+    "cards-page-my-coworkings-button-join": "Join",
+    "cards-page-my-coworkings-button-search": "Search",
     "cards-page-my-coworkings-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
     "cards-page-my-coworkings-no-coworkings": "You haven't joined any workspaces yet. 😢",
     "cards-page-my-coworkings-main-title": "My workspaces",
@@ -8,9 +9,8 @@
     "cards-page-my-coworkings-button-request": "Request to join",
     "cards-page-my-coworkings-action-button-requested": "Requested",
     "cards-page-my-coworkings-create-alert-submit-success": "Your request was sent",
-    "cards-page-my-coworkings-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
-    "cards-page-my-coworkings-nothing-found": "Nothing found. 😢",
-    "cards-page-my-coworkings-stack-button-search": "Search",
-    "cards-page-my-coworkings-stack-search-placeholder": "workspace tag"
+    "cards-page-my-coworkings-search-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
+    "cards-page-my-coworkings-search-nothing-found": "Nothing found. 😢",
+    "cards-page-my-coworkings-search-placeholder": "workspace tag"
   }
 }

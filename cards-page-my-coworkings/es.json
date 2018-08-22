@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-my-coworkings-button-join": "Buscar",
     "cards-page-my-coworkings-button-search": "Buscar",
     "cards-page-my-coworkings-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-my-coworkings-no-coworkings": "Aún no se ha unido a ningún espacio de trabajo. 😢",
@@ -8,9 +9,8 @@
     "cards-page-my-coworkings-button-request": "Solicitud de ingreso",
     "cards-page-my-coworkings-action-button-requested": "Solicitado",
     "cards-page-my-coworkings-create-alert-submit-success": "Su solicitud fue enviada para su aprobación",
-    "cards-page-my-coworkings-internet-error": "No se pudo obtener el espacio de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
-    "cards-page-my-coworkings-nothing-found": "No se ha encontrado nada. 😢",
-    "cards-page-my-coworkings-stack-button-search": "Buscar",
-    "cards-page-my-coworkings-stack-search-placeholder": "etiqueta del espacio de trabajo"
+    "cards-page-my-coworkings-search-internet-error": "No se pudo obtener el espacio de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
+    "cards-page-my-coworkings-search-nothing-found": "No se ha encontrado nada. 😢",
+    "cards-page-my-coworkings-search-placeholder": "etiqueta del espacio de trabajo"
   }
 }
