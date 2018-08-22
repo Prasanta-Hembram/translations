@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-guild-main-action-delete": "Eliminar",
     "cards-page-organization-guild-main-add": "Añadir",
     "cards-page-organization-guild-main-no-cards": "No hay miembros en el evento todavía. 😕",
     "cards-page-organization-guild-main-not-found-error": "Este gremio puede no existir o puede haber sido eliminado. 😕",

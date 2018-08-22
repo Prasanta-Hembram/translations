@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-guild-main-action-delete": "삭제",
     "cards-page-organization-guild-main-add": "회원 추가하기",
     "cards-page-organization-guild-main-no-cards": "길드에는 아직 카드가 없습니다. 😕",
     "cards-page-organization-guild-main-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕",

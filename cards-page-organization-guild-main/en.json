@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-guild-main-action-delete": "Delete",
     "cards-page-organization-guild-main-add": "Add members",
     "cards-page-organization-guild-main-no-cards": "No one is here. 😕",
     "cards-page-organization-guild-main-not-found-error": "This guild may not exist or may have been removed. 😕",
