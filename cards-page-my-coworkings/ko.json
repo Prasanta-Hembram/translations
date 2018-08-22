@@ -3,6 +3,14 @@
     "cards-page-my-coworkings-button-search": "참여하기",
     "cards-page-my-coworkings-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-my-coworkings-no-coworkings": "아직 공간에 참여하지 않았습니다. 😢",
-    "cards-page-my-coworkings-main-title": "나의 공간"
+    "cards-page-my-coworkings-main-title": "나의 공간",
+    "cards-page-my-coworkings-button-open-organization": "들어가기",
+    "cards-page-my-coworkings-button-request": "가입 요청",
+    "cards-page-my-coworkings-action-button-requested": "가입 요청 됨",
+    "cards-page-my-coworkings-create-alert-submit-success": "가입 요청 완료",
+    "cards-page-my-coworkings-internet-error": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-my-coworkings-nothing-found": "아무것도 없습니다. 😢",
+    "cards-page-my-coworkings-stack-button-search": "검색",
+    "cards-page-my-coworkings-stack-search-placeholder": "공간 태그"
   }
 }

@@ -3,6 +3,14 @@
     "cards-page-my-coworkings-button-search": "Долучитися",
     "cards-page-my-coworkings-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "cards-page-my-coworkings-no-coworkings": "Ви поки не долучились до жодного коворкінгу. 😢",
-    "cards-page-my-coworkings-main-title": "Мої коворкінги"
+    "cards-page-my-coworkings-main-title": "Мої коворкінги",
+    "cards-page-my-coworkings-button-open-organization": "Відкрити",
+    "cards-page-my-coworkings-button-request": "Приєднатись",
+    "cards-page-my-coworkings-action-button-requested": "Запит надіслано",
+    "cards-page-my-coworkings-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг",
+    "cards-page-my-coworkings-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "cards-page-my-coworkings-nothing-found": "Нічого не знайдено. 😢",
+    "cards-page-my-coworkings-stack-button-search": "Пошук",
+    "cards-page-my-coworkings-stack-search-placeholder": "тег коворкінгу"
   }
 }
