@@ -2,21 +2,6 @@
   "data": {
     "cards-page-organization-guilds-create-guild": "Crear gremio",
     "cards-page-organization-guilds-error-not-found": "No hay internet.",
-    "cards-page-organization-guilds-everyone-title": "Todos",
-    "cards-page-organization-guilds-stack-search": "Buscar {numberOfPeople} personas",
-    "cards-page-organization-guilds-end": "Finalización",
-    "cards-page-organization-guilds-cash-balance": "Balance de efectivo",
-    "cards-page-organization-guilds-credit-balance": "Balance de crédito",
-    "cards-page-organization-guilds-credit-allocation": "Asignación de crédito",
-    "cards-page-organization-guilds-name": "Nombre",
-    "cards-page-organization-guilds-plan": "Plan",
-    "cards-page-organization-guilds-price": "Precio",
-    "cards-page-organization-guilds-start": "Inicio",
-    "cards-page-organization-guilds-period-day": "1 día",
-    "cards-page-organization-guilds-period-month": "1 semana",
-    "cards-page-organization-guilds-period-month-3": "3 meses",
-    "cards-page-organization-guilds-period-month-6": "6 meses",
-    "cards-page-organization-guilds-period-week": "1 mes",
-    "cards-page-organization-guilds-period-year": "1 año"
+    "cards-page-organization-guilds-everyone-title": "Todos"
   }
 }

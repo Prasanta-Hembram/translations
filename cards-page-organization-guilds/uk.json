@@ -2,21 +2,6 @@
   "data": {
     "cards-page-organization-guilds-create-guild": "Створити гільдію",
     "cards-page-organization-guilds-error-not-found": "Перевірте з'єднання з інтернетом.",
-    "cards-page-organization-guilds-everyone-title": "Усі учасники",
-    "cards-page-organization-guilds-stack-search": "Пошук за {numberOfPeople} учасниками",
-    "cards-page-organization-guilds-end": "До",
-    "cards-page-organization-guilds-cash-balance": "Баланс готівки",
-    "cards-page-organization-guilds-credit-balance": "Баланс кредитів",
-    "cards-page-organization-guilds-credit-allocation": "Квота кредитів",
-    "cards-page-organization-guilds-name": "Ім'я",
-    "cards-page-organization-guilds-plan": "План",
-    "cards-page-organization-guilds-price": "Ціна",
-    "cards-page-organization-guilds-start": "З",
-    "cards-page-organization-guilds-period-day": "1 день",
-    "cards-page-organization-guilds-period-month": "1 місяць",
-    "cards-page-organization-guilds-period-month-3": "3 місяці",
-    "cards-page-organization-guilds-period-month-6": "6 місяців",
-    "cards-page-organization-guilds-period-week": "1 тиждень",
-    "cards-page-organization-guilds-period-year": "1 рік"
+    "cards-page-organization-guilds-everyone-title": "Усі учасники"
   }
 }
