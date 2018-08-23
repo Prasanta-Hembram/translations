@@ -2,6 +2,21 @@
   "data": {
     "cards-page-organization-guilds-create-guild": "Создать гильдию",
     "cards-page-organization-guilds-error-not-found": "Проверьте соединение с интернетом.",
-    "cards-page-organization-guilds-everyone-title": "Все участники"
+    "cards-page-organization-guilds-everyone-title": "Все участники",
+    "cards-page-organization-guilds-stack-search": "Поиск по {numberOfPeople} участникам",
+    "cards-page-organization-guilds-end": "До",
+    "cards-page-organization-guilds-cash-balance": "Баланс наличных",
+    "cards-page-organization-guilds-credit-balance": "Баланс кредитов",
+    "cards-page-organization-guilds-credit-allocation": "Квота кредитов",
+    "cards-page-organization-guilds-name": "Имя",
+    "cards-page-organization-guilds-plan": "План",
+    "cards-page-organization-guilds-price": "Цена",
+    "cards-page-organization-guilds-start": "С",
+    "cards-page-organization-guilds-period-day": "1 день",
+    "cards-page-organization-guilds-period-month": "1 месяц",
+    "cards-page-organization-guilds-period-month-3": "3 месяца",
+    "cards-page-organization-guilds-period-month-6": "6 месяцев",
+    "cards-page-organization-guilds-period-week": "1 неделя",
+    "cards-page-organization-guilds-period-year": "1 год"
   }
 }
