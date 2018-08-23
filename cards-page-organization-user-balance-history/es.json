@@ -1,0 +1,20 @@
+{
+  "data": {
+    "cards-page-organization-user-balance-history-fetch-failure": "No se pudo mostrar el historial de saldo. ¿Estás seguro de que hay una conexión a Internet?",
+    "cards-page-organization-user-balance-history-list-empty": "No hay transacciones todavía 😢",
+    "cards-page-organization-user-balance-history-money-transaction-book-by-card": "Habitación reservada (tarjeta)",
+    "cards-page-organization-user-balance-history-money-transaction-book-by-cash": "Habitación reservada (efectivo)",
+    "cards-page-organization-user-balance-history-money-transaction-book-refund-cash": "Reserva de habitación cancelada (efectivo)",
+    "cards-page-organization-user-balance-history-money-transaction-debt-repayment-by-cash-admin": "Cuenta prepaga recargada (efectivo)",
+    "cards-page-organization-user-balance-history-money-transaction-debt-repayment-by-card": "Cuenta prepaga recargada (tarjeta)",
+    "cards-page-organization-user-balance-history-money-transaction-membership-by-card": "Plan de membresía comprado (tarjeta)",
+    "cards-page-organization-user-balance-history-money-transaction-membership-by-cash": "Plan de membresía comprado (efectivo)",
+    "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Habitación reservada (créditos)",
+    "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de habitación cancelada (créditos)",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manualmente agregado por admin / moderator",
+    "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Vencido con un plan de membresía",
+    "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Recibido con plan de membresía",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Cargado manualmente por el administrador / moderador",
+    "cards-page-organization-user-balance-history-title": "Balance de Historia"
+  }
+}
