@@ -14,6 +14,7 @@
     "cards-page-organization-membership-settings-leave-user-failure": "Не вдалося видалити учасника. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Покинути коворкінг",
     "cards-page-organization-membership-settings-leave-repeat": "Спробувати знову",
+    "cards-page-organization-membership-settings-no-plan": "Поки немає тарифного плану. 😢",
     "cards-page-organization-membership-settings-plans-ends": "Закінчується через {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews": "Поновлення: {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews-last-day": "Останній день",
