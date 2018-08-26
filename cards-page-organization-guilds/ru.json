@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-organization-guilds-create-guild": "Создать гильдию",
     "cards-page-organization-guilds-error-not-found": "Проверьте соединение с интернетом.",
-    "cards-page-organization-guilds-everyone-title": "Все участники",
-    "cards-page-organization-guilds-stack-search": "Поиск по {numberOfPeople} участникам",
+    "cards-page-organization-guilds-individuals-title": "Individuals",
+    "cards-page-organization-guilds-search-placeholder": "Search",
+    "cards-page-organization-guilds-teams-title": "Teams",
     "cards-page-organization-guilds-end": "До",
     "cards-page-organization-guilds-cash-balance": "Баланс наличных",
     "cards-page-organization-guilds-credit-balance": "Баланс кредитов",

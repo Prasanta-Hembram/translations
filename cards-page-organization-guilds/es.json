@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-organization-guilds-create-guild": "Crear gremio",
     "cards-page-organization-guilds-error-not-found": "No hay internet.",
-    "cards-page-organization-guilds-everyone-title": "Todos",
-    "cards-page-organization-guilds-stack-search": "Buscar {numberOfPeople} personas",
+    "cards-page-organization-guilds-individuals-title": "Individuals",
+    "cards-page-organization-guilds-search-placeholder": "Search",
+    "cards-page-organization-guilds-teams-title": "Teams",
     "cards-page-organization-guilds-end": "Finalización",
     "cards-page-organization-guilds-cash-balance": "Balance de efectivo",
     "cards-page-organization-guilds-credit-balance": "Balance de crédito",

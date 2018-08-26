@@ -1,9 +1,9 @@
 {
   "data": {
-    "cards-page-organization-guilds-create-guild": "Create guild",
     "cards-page-organization-guilds-error-not-found": "No internet",
-    "cards-page-organization-guilds-everyone-title": "Everyone",
-    "cards-page-organization-guilds-stack-search": "Search {numberOfPeople} members",
+    "cards-page-organization-guilds-individuals-title": "Individuals",
+    "cards-page-organization-guilds-search-placeholder": "Search",
+    "cards-page-organization-guilds-teams-title": "Teams",
     "cards-page-organization-guilds-end": "End",
     "cards-page-organization-guilds-cash-balance": "Cash Balance",
     "cards-page-organization-guilds-credit-balance": "Credit Balance",
