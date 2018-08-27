@@ -7,22 +7,12 @@
     "cards-page-organization-plan-details-period-pay-with-title": "Оплатити",
     "cards-page-organization-plan-details-period-pay-with-cash-title": "Готівкою",
     "cards-page-organization-plan-details-period-pay-with-cash-description": "Погасіть борг напряму в адміністратора на ресепшені.",
-    "cards-page-organization-plan-details-period-day": "1 день",
-    "cards-page-organization-plan-details-period-month": "1 місяць",
-    "cards-page-organization-plan-details-period-month-3": "3 місяці",
-    "cards-page-organization-plan-details-period-month-6": "6 місяців",
     "cards-page-organization-plan-details-period-title": "Період",
-    "cards-page-organization-plan-details-period-week": "1 тиждень",
-    "cards-page-organization-plan-details-period-year": "1 рік",
     "cards-page-organization-plan-details-plan-description": "Опис планy",
     "cards-page-organization-plan-details-subscribe": "Підписатись",
     "cards-page-organization-plan-details-subscribe-for-free": "Підписатись безкоштовно",
     "cards-page-organization-plan-details-subscribe-for-price": "Підписатись за {price}",
     "cards-page-organization-plan-details-title": "Підписатись на план",
-    "cards-page-organization-plan-details-title-hot-desk": "Нефіксоване місце",
-    "cards-page-organization-plan-details-title-fixed-desk": "Фіксоване місце",
-    "cards-page-organization-plan-details-title-private-office": "Приватний офіс",
-    "cards-page-organization-plan-details-title-hot-pass": "Квиток на вхід",
     "cards-page-organization-plan-details-validation-error": "Недостатньо готівки. Поповніть рахунок і спробуйте ще раз."
   }
 }

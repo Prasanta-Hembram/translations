@@ -25,13 +25,6 @@
     "cards-page-organization-membership-settings-role-info-admin": "Администратор может настраивать и управлять всем в коворкинге.",
     "cards-page-organization-membership-settings-role-info-moderator": "Модератор может управлять контентом и гильдиями в коворкинге.",
     "cards-page-organization-membership-settings-role-info-member": "Участник может просматривать контент в коворкинге.",
-    "cards-page-organization-membership-settings-period-day": "день",
-    "cards-page-organization-membership-settings-period-week": "неделя",
-    "cards-page-organization-membership-settings-period-month": "месяц",
-    "cards-page-organization-membership-settings-title-hot-desk": "Незакрепленное место",
-    "cards-page-organization-membership-settings-title-fixed-desk": "Закрепленное место",
-    "cards-page-organization-membership-settings-title-private-office": "Отдельный офис",
-    "cards-page-organization-membership-settings-title-hot-pass": "Входной билет",
     "cards-page-organization-membership-settings-update-failure": "Невозможно обновить"
   }
 }

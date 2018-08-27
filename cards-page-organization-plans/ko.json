@@ -26,16 +26,6 @@
     "cards-page-organization-plans-no-plan": "아직 플랜이 없습니다. 😢",
     "cards-page-organization-plans-occupancy": "객실 용률",
     "cards-page-organization-plans-other-plans": "기타 멤버십 플랜",
-    "cards-page-organization-plans-period-day": "일",
-    "cards-page-organization-plans-period-week": "주",
-    "cards-page-organization-plans-period-month": "달",
-    "cards-page-organization-plans-period-month-3": "3달",
-    "cards-page-organization-plans-period-month-6": "6달",
-    "cards-page-organization-plans-period-year": "1년",
-    "cards-page-organization-plans-title": "멤버십",
-    "cards-page-organization-plans-title-hot-desk": "핫 데스크",
-    "cards-page-organization-plans-title-fixed-desk": "전용 데스크",
-    "cards-page-organization-plans-title-private-office": "사무실",
-    "cards-page-organization-plans-title-hot-pass": "패스"
+    "cards-page-organization-plans-title": "멤버십"
   }
 }

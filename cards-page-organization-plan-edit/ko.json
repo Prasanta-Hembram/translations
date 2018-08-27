@@ -10,12 +10,6 @@
     "cards-page-organization-plan-edit-note": "플랜 설명",
     "cards-page-organization-plan-edit-note-placeholder": "플랜 설명하기",
     "cards-page-organization-plan-edit-period": "기간",
-    "cards-page-organization-plan-edit-period-day": "1일",
-    "cards-page-organization-plan-edit-period-week": "1주",
-    "cards-page-organization-plan-edit-period-month": "1달",
-    "cards-page-organization-plan-edit-period-month-3": "3달",
-    "cards-page-organization-plan-edit-period-month-6": "6달",
-    "cards-page-organization-plan-edit-period-year": "1년",
     "cards-page-organization-plan-edit-plan-status": "상태",
     "cards-page-organization-plan-edit-price": "가격, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "가격 정책",
@@ -24,10 +18,6 @@
     "cards-page-organization-plan-edit-is-public": "외부인 구매 가능",
     "cards-page-organization-plan-edit-title": "플랜 수정하기",
     "cards-page-organization-plan-edit-type": "유형",
-    "cards-page-organization-plan-edit-type-fixed-desk": "전용 데스크",
-    "cards-page-organization-plan-edit-type-hot-desk": "핫 데스크",
-    "cards-page-organization-plan-edit-type-pass": "패스",
-    "cards-page-organization-plan-edit-type-private-office": "사무실",
     "cards-page-organization-plan-edit-update-plan-reject": "수정 불가"
   }
 }

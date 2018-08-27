@@ -26,16 +26,6 @@
     "cards-page-organization-plans-no-plan": "You have no plan. 😢",
     "cards-page-organization-plans-occupancy": "occupancy",
     "cards-page-organization-plans-other-plans": "Other Plans",
-    "cards-page-organization-plans-period-day": "day",
-    "cards-page-organization-plans-period-week": "week",
-    "cards-page-organization-plans-period-month": "month",
-    "cards-page-organization-plans-period-month-3": "3 months",
-    "cards-page-organization-plans-period-month-6": "6 months",
-    "cards-page-organization-plans-period-year": "1 year",
-    "cards-page-organization-plans-title": "Membership",
-    "cards-page-organization-plans-title-hot-desk": "Hot Desk",
-    "cards-page-organization-plans-title-fixed-desk": "Fixed Desk",
-    "cards-page-organization-plans-title-private-office": "Private Office",
-    "cards-page-organization-plans-title-hot-pass": "Pass"
+    "cards-page-organization-plans-title": "Membership"
   }
 }

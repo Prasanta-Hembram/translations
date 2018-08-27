@@ -10,12 +10,6 @@
     "cards-page-organization-plan-edit-note": "Plan description",
     "cards-page-organization-plan-edit-note-placeholder": "Add plan description",
     "cards-page-organization-plan-edit-period": "Period",
-    "cards-page-organization-plan-edit-period-day": "1 day",
-    "cards-page-organization-plan-edit-period-week": "1 week",
-    "cards-page-organization-plan-edit-period-month": "1 month",
-    "cards-page-organization-plan-edit-period-month-3": "3 months",
-    "cards-page-organization-plan-edit-period-month-6": "6 months",
-    "cards-page-organization-plan-edit-period-year": "1 year",
     "cards-page-organization-plan-edit-plan-status": "Status",
     "cards-page-organization-plan-edit-price": "Price, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "Pricing",
@@ -24,10 +18,6 @@
     "cards-page-organization-plan-edit-is-public": "Public Access",
     "cards-page-organization-plan-edit-title": "Edit plan",
     "cards-page-organization-plan-edit-type": "Type",
-    "cards-page-organization-plan-edit-type-fixed-desk": "Fixed Desk",
-    "cards-page-organization-plan-edit-type-hot-desk": "Hot Desk",
-    "cards-page-organization-plan-edit-type-pass": "Pass",
-    "cards-page-organization-plan-edit-type-private-office": "Private Office",
     "cards-page-organization-plan-edit-update-plan-reject": "Unable to update"
   }
 }

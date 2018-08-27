@@ -26,16 +26,6 @@
     "cards-page-organization-plans-no-plan": "У вас поки немає активного плану. 😢",
     "cards-page-organization-plans-occupancy": "заповнюваність",
     "cards-page-organization-plans-other-plans": "Інші плани",
-    "cards-page-organization-plans-period-day": "день",
-    "cards-page-organization-plans-period-week": "тиждень",
-    "cards-page-organization-plans-period-month": "місяць",
-    "cards-page-organization-plans-period-month-3": "3 місяці",
-    "cards-page-organization-plans-period-month-6": "6 місяців",
-    "cards-page-organization-plans-period-year": "1 рік",
-    "cards-page-organization-plans-title": "Участь",
-    "cards-page-organization-plans-title-hot-desk": "Нефіксоване місце",
-    "cards-page-organization-plans-title-fixed-desk": "Фіксоване місце",
-    "cards-page-organization-plans-title-private-office": "Приватний офіс",
-    "cards-page-organization-plans-title-hot-pass": "Квиток на вхід"
+    "cards-page-organization-plans-title": "Участь"
   }
 }

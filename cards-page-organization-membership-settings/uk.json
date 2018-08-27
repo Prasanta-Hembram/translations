@@ -25,13 +25,6 @@
     "cards-page-organization-membership-settings-role-info-admin": "Адміністратор може налаштовувати та керувати всім в коворкінгу.",
     "cards-page-organization-membership-settings-role-info-moderator": "Модератор може керувати контентом та гільдіями в коворкінгу.",
     "cards-page-organization-membership-settings-role-info-member": "Учасник може переглядати контент в коворкінгу.",
-    "cards-page-organization-membership-settings-period-day": "день",
-    "cards-page-organization-membership-settings-period-week": "тиждень",
-    "cards-page-organization-membership-settings-period-month": "місяць",
-    "cards-page-organization-membership-settings-title-hot-desk": "Нефіксоване місце",
-    "cards-page-organization-membership-settings-title-fixed-desk": "Фіксоване місце",
-    "cards-page-organization-membership-settings-title-private-office": "Приватний офіс",
-    "cards-page-organization-membership-settings-title-hot-pass": "Квиток на вхід",
     "cards-page-organization-membership-settings-update-failure": "Не вдалося оновити"
   }
 }
