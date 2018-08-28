@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cards-page-organization-team-edit-action-delete": "Видалити",
+    "cards-page-organization-team-edit-delete-failure": "Не вдалося видалити гільдію. 🙁",
+    "cards-page-organization-team-edit-delete-repeat": "Спробувати знову",
+    "cards-page-organization-team-edit-select-icon-title": "Обрати іконку",
+    "cards-page-organization-team-edit-icon": "Іконка",
+    "cards-page-organization-team-edit-name": "Назва",
+    "cards-page-organization-team-edit-name-placeholder": "Введіть назву",
+    "cards-page-organization-team-edit-title": "Редагувати гільдію",
+    "cards-page-organization-team-edit-not-found-error": "Ця гільдія не існує або ж була видалена. 😕"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "cards-page-organization-team-edit-action-delete": "길드 삭제",
+    "cards-page-organization-team-edit-delete-failure": "길드 삭제 불가. 🙁",
+    "cards-page-organization-team-edit-delete-repeat": "다시 시도",
+    "cards-page-organization-team-edit-select-icon-title": "아이콘 선택하기",
+    "cards-page-organization-team-edit-icon": "아이콘",
+    "cards-page-organization-team-edit-name": "길드 명",
+    "cards-page-organization-team-edit-name-placeholder": "길드 명 입력하기",
+    "cards-page-organization-team-edit-title": "길드 설정",
+    "cards-page-organization-team-edit-not-found-error": "길드가 존재하지 않거나 삭제되었을 수 있습니다.😕"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-organization-guild-delete-title": "Eliminar gremio",
-    "cards-alert-confirmation-organization-guild-delete-text": "¿Está seguro de que quiere eliminar este gremio? Esta acción es irreversible.",
-    "cards-alert-confirmation-organization-guild-delete-yes": "Si, eliminar",
-    "cards-alert-confirmation-organization-guild-delete-no": "Cancelar"
-  }
-}
