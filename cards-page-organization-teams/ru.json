@@ -1,9 +1,9 @@
 {
   "data": {
     "cards-page-organization-teams-error-not-found": "Проверьте соединение с интернетом.",
-    "cards-page-organization-teams-individuals-title": "Individuals",
-    "cards-page-organization-teams-search-placeholder": "Search",
-    "cards-page-organization-teams-teams-title": "Teams",
+    "cards-page-organization-teams-individuals-title": "Индивидуальные участники",
+    "cards-page-organization-teams-search-placeholder": "Поиск",
+    "cards-page-organization-teams-teams-title": "Команды",
     "cards-page-organization-teams-end": "До",
     "cards-page-organization-teams-cash-balance": "Баланс наличных",
     "cards-page-organization-teams-credit-balance": "Баланс кредитов",
