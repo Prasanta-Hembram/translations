@@ -10,12 +10,6 @@
     "cards-page-organization-plan-edit-note": "Опис планy",
     "cards-page-organization-plan-edit-note-placeholder": "Додати опис плану",
     "cards-page-organization-plan-edit-period": "Період",
-    "cards-page-organization-plan-edit-period-day": "1 день",
-    "cards-page-organization-plan-edit-period-week": "1 тиждень",
-    "cards-page-organization-plan-edit-period-month": "1 місяць",
-    "cards-page-organization-plan-edit-period-month-3": "3 місяці",
-    "cards-page-organization-plan-edit-period-month-6": "6 місяців",
-    "cards-page-organization-plan-edit-period-year": "1 рік",
     "cards-page-organization-plan-edit-plan-status": "Статус",
     "cards-page-organization-plan-edit-price": "Ціна, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "Тарифи",
@@ -24,10 +18,6 @@
     "cards-page-organization-plan-edit-is-public": "Публічно доступний",
     "cards-page-organization-plan-edit-title": "Редагувати план",
     "cards-page-organization-plan-edit-type": "Тип",
-    "cards-page-organization-plan-edit-type-fixed-desk": "Фіксоване місце",
-    "cards-page-organization-plan-edit-type-hot-desk": "Нефіксоване місце",
-    "cards-page-organization-plan-edit-type-pass": "Квиток на вхід",
-    "cards-page-organization-plan-edit-type-private-office": "Приватний офіс",
     "cards-page-organization-plan-edit-update-plan-reject": "Неможливо оновити план"
   }
 }

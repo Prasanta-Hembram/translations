@@ -5,12 +5,6 @@
     "cards-page-organization-plan-create-description-placeholder": "플랜 설명하기",
     "cards-page-organization-plan-create-free-trial-day": "하루 무료 시험",
     "cards-page-organization-plan-create-period": "기간",
-    "cards-page-organization-plan-create-period-day": "1일",
-    "cards-page-organization-plan-create-period-week": "1주",
-    "cards-page-organization-plan-create-period-month": "1달",
-    "cards-page-organization-plan-create-period-month-3": "3달",
-    "cards-page-organization-plan-create-period-month-6": "6달",
-    "cards-page-organization-plan-create-period-year": "1년",
     "cards-page-organization-plan-create-plan-status": "상태",
     "cards-page-organization-plan-create-price": "가격, {currencySymbol}",
     "cards-page-organization-plan-create-pricing-title": "가격 정책",
@@ -18,10 +12,6 @@
     "cards-page-organization-plan-create-seats": "좌석 수",
     "cards-page-organization-plan-create-is-public": "외부인 구매 가능",
     "cards-page-organization-plan-create-title": "플랜 추가하기",
-    "cards-page-organization-plan-create-type": "유형",
-    "cards-page-organization-plan-create-type-fixed-desk": "전용 데스크",
-    "cards-page-organization-plan-create-type-hot-desk": "핫 데스크",
-    "cards-page-organization-plan-create-type-pass": "패스",
-    "cards-page-organization-plan-create-type-private-office": "사무실"
+    "cards-page-organization-plan-create-type": "유형"
   }
 }

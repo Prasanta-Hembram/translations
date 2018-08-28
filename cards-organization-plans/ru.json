@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cards-organization-plans-period-day": "1 день",
+    "cards-organization-plans-period-week": "1 неделя",
+    "cards-organization-plans-period-month": "1 месяц",
+    "cards-organization-plans-period-month-3": "3 месяца",
+    "cards-organization-plans-period-month-6": "6 месяцев",
+    "cards-organization-plans-period-year": "1 год",
+    "cards-organization-plans-title-fixed-desk": "Закрепленное место",
+    "cards-organization-plans-title-hot-desk": "Незакрепленное место",
+    "cards-organization-plans-title-pass": "Входной билет",
+    "cards-organization-plans-title-private-office": "Отдельный офис"
+  }
+}

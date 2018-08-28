@@ -10,12 +10,6 @@
     "cards-page-organization-plan-edit-note": "Descripción del plan",
     "cards-page-organization-plan-edit-note-placeholder": "Agregar descripción del plan",
     "cards-page-organization-plan-edit-period": "Periodo",
-    "cards-page-organization-plan-edit-period-day": "1 día",
-    "cards-page-organization-plan-edit-period-week": "1 semana",
-    "cards-page-organization-plan-edit-period-month": "1 mes",
-    "cards-page-organization-plan-edit-period-month-3": "3 meses",
-    "cards-page-organization-plan-edit-period-month-6": "6 meses",
-    "cards-page-organization-plan-edit-period-year": "1 año",
     "cards-page-organization-plan-edit-plan-status": "Estado",
     "cards-page-organization-plan-edit-price": "Precio, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "Precios",
@@ -24,10 +18,6 @@
     "cards-page-organization-plan-edit-is-public": "Acceso Público",
     "cards-page-organization-plan-edit-title": "Editar un Plan",
     "cards-page-organization-plan-edit-type": "Insertar",
-    "cards-page-organization-plan-edit-type-fixed-desk": "Escritorio Fijo",
-    "cards-page-organization-plan-edit-type-hot-desk": "Escritorio Caliente",
-    "cards-page-organization-plan-edit-type-pass": "Pase",
-    "cards-page-organization-plan-edit-type-private-office": "Oficina Privada",
     "cards-page-organization-plan-edit-update-plan-reject": "No se puede actualizar"
   }
 }

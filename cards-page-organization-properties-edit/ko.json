@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-description": "설명",
     "cards-page-organization-property-edit-description-placeholder": "설명입력(선택사항)",
+    "cards-page-organization-property-edit-max-time": "최대예약시간",
     "cards-page-organization-property-edit-min-time": "최소예약시간",
     "cards-page-organization-property-edit-min-time-15-min": "15분",
     "cards-page-organization-property-edit-min-time-30-min": "30분",

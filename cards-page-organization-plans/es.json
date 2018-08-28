@@ -26,16 +26,6 @@
     "cards-page-organization-plans-no-plan": "No tienes ningún plan. 😢",
     "cards-page-organization-plans-occupancy": "Ocupación",
     "cards-page-organization-plans-other-plans": "Otros planes",
-    "cards-page-organization-plans-period-day": "día",
-    "cards-page-organization-plans-period-week": "semana",
-    "cards-page-organization-plans-period-month": "mes",
-    "cards-page-organization-plans-period-month-3": "3 meses",
-    "cards-page-organization-plans-period-month-6": "6 meses",
-    "cards-page-organization-plans-period-year": "1 año",
-    "cards-page-organization-plans-title": "Membresía",
-    "cards-page-organization-plans-title-hot-desk": "Escritorio Caliente",
-    "cards-page-organization-plans-title-fixed-desk": "Escritorio Fijo",
-    "cards-page-organization-plans-title-private-office": "Oficina Privada",
-    "cards-page-organization-plans-title-hot-pass": "Pase"
+    "cards-page-organization-plans-title": "Membresía"
   }
 }

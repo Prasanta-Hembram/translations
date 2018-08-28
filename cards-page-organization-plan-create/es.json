@@ -5,12 +5,6 @@
     "cards-page-organization-plan-create-description-placeholder": "Agregar descripción del plan",
     "cards-page-organization-plan-create-free-trial-day": "Día de prueba gratis",
     "cards-page-organization-plan-create-period": "Periodo",
-    "cards-page-organization-plan-create-period-day": "día",
-    "cards-page-organization-plan-create-period-week": "semana",
-    "cards-page-organization-plan-create-period-month": "mes",
-    "cards-page-organization-plan-create-period-month-3": "3 meses",
-    "cards-page-organization-plan-create-period-month-6": "6 meses",
-    "cards-page-organization-plan-create-period-year": "1 año",
     "cards-page-organization-plan-create-plan-status": "Estado",
     "cards-page-organization-plan-create-price": "Precio, {currencySymbol}",
     "cards-page-organization-plan-create-pricing-title": "Precios",
@@ -18,10 +12,6 @@
     "cards-page-organization-plan-create-seats": "Asientos",
     "cards-page-organization-plan-create-is-public": "Acceso Público",
     "cards-page-organization-plan-create-title": "Añadir un Plan",
-    "cards-page-organization-plan-create-type": "Insertar",
-    "cards-page-organization-plan-create-type-fixed-desk": "Escritorio Fijo",
-    "cards-page-organization-plan-create-type-hot-desk": "Escritorio Caliente",
-    "cards-page-organization-plan-create-type-pass": "Pase",
-    "cards-page-organization-plan-create-type-private-office": "Oficina Privada"
+    "cards-page-organization-plan-create-type": "Insertar"
   }
 }

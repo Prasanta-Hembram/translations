@@ -14,6 +14,7 @@
     "cards-page-organization-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "cards-page-organization-membership-settings-leave-organization": "Leave workspace",
     "cards-page-organization-membership-settings-leave-repeat": "Try again",
+    "cards-page-organization-membership-settings-no-plan": "There is no plan yet. 😢",
     "cards-page-organization-membership-settings-plans-ends": "Ends {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews": "Renews {daysLeft}",
     "cards-page-organization-membership-settings-plans-renews-last-day": "Last day",
@@ -24,13 +25,6 @@
     "cards-page-organization-membership-settings-role-info-admin": "Administrator can manage all content and change settings of the workspace.",
     "cards-page-organization-membership-settings-role-info-moderator": "Moderator can manage content and guilds in the workspace.",
     "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and guilds in the workspace.",
-    "cards-page-organization-membership-settings-period-day": "day",
-    "cards-page-organization-membership-settings-period-week": "week",
-    "cards-page-organization-membership-settings-period-month": "month",
-    "cards-page-organization-membership-settings-title-hot-desk": "Hot Desk",
-    "cards-page-organization-membership-settings-title-fixed-desk": "Fixed Desk",
-    "cards-page-organization-membership-settings-title-private-office": "Private Office",
-    "cards-page-organization-membership-settings-title-hot-pass": "Pass",
     "cards-page-organization-membership-settings-update-failure": "Failed to update"
   }
 }

@@ -10,12 +10,6 @@
     "cards-page-organization-plan-edit-note": "Описание плана",
     "cards-page-organization-plan-edit-note-placeholder": "Добавить описание плана",
     "cards-page-organization-plan-edit-period": "Период",
-    "cards-page-organization-plan-edit-period-day": "1 день",
-    "cards-page-organization-plan-edit-period-week": "1 неделя",
-    "cards-page-organization-plan-edit-period-month": "1 месяц",
-    "cards-page-organization-plan-edit-period-month-3": "3 месяца",
-    "cards-page-organization-plan-edit-period-month-6": "6 месяцев",
-    "cards-page-organization-plan-edit-period-year": "1 год",
     "cards-page-organization-plan-edit-plan-status": "Статус",
     "cards-page-organization-plan-edit-price": "Цена, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "Тарифы",
@@ -24,10 +18,6 @@
     "cards-page-organization-plan-edit-is-public": "Публично доступно",
     "cards-page-organization-plan-edit-title": "Редактировать план",
     "cards-page-organization-plan-edit-type": "Тип",
-    "cards-page-organization-plan-edit-type-fixed-desk": "Закрепленное место",
-    "cards-page-organization-plan-edit-type-hot-desk": "Незакрепленное место",
-    "cards-page-organization-plan-edit-type-pass": "Входной билет",
-    "cards-page-organization-plan-edit-type-private-office": "Отдельный офис",
     "cards-page-organization-plan-edit-update-plan-reject": "Невозможно обновить план"
   }
 }

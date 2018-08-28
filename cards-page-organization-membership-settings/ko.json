@@ -14,6 +14,7 @@
     "cards-page-organization-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
     "cards-page-organization-membership-settings-leave-organization": "이 조직 나가기",
     "cards-page-organization-membership-settings-leave-repeat": "다시시도",
+    "cards-page-organization-membership-settings-no-plan": "아직 플랜이 없습니다. 😢",
     "cards-page-organization-membership-settings-plans-ends": "{daysLeft} 종료",
     "cards-page-organization-membership-settings-plans-renews": "{daysLeft} 갱신",
     "cards-page-organization-membership-settings-plans-renews-last-day": "종료 일",
@@ -24,13 +25,6 @@
     "cards-page-organization-membership-settings-role-info-admin": "관리자는 조직의 모든 것을 설정하고 관리 할 수 있습니다.",
     "cards-page-organization-membership-settings-role-info-moderator": "중간관리자는 조직의 컨텐츠와 길드를 관리 할 수 있습니다. 설정을 변경해야하는 경우 관리자에게 문의하십시오.",
     "cards-page-organization-membership-settings-role-info-member": "회원은 조직의 컨텐츠를 만들고 볼 수 있습니다. 기타 관리 관해서는 관리자 또는 중간관리자에게 문의하십시오.",
-    "cards-page-organization-membership-settings-period-day": "일",
-    "cards-page-organization-membership-settings-period-week": "주",
-    "cards-page-organization-membership-settings-period-month": "달",
-    "cards-page-organization-membership-settings-title-hot-desk": "핫 데스크",
-    "cards-page-organization-membership-settings-title-fixed-desk": "전용 데스크",
-    "cards-page-organization-membership-settings-title-private-office": "사무실",
-    "cards-page-organization-membership-settings-title-hot-pass": "패스",
     "cards-page-organization-membership-settings-update-failure":  "업데이트 실패"
   }
 }
