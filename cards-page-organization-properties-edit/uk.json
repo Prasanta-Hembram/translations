@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-description": "Опис",
     "cards-page-organization-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
+    "cards-page-organization-property-edit-max-time": "Макс. час",
     "cards-page-organization-property-edit-min-time": "Мін. час",
     "cards-page-organization-property-edit-min-time-15-min": "15 хвилин",
     "cards-page-organization-property-edit-min-time-30-min": "30 хвилин",
