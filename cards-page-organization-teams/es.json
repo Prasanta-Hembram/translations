@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-teams-error-not-found": "No hay internet.",
     "cards-page-organization-teams-individuals-title": "Individuos",
-    "cards-page-organization-teams-search-placeholder": "Buscar",
+    "cards-page-organization-teams-search-placeholder": "Buscar {numberOfTeams} equipos y {numberOfMembers} miembros",
     "cards-page-organization-teams-teams-title": "Equipos",
     "cards-page-organization-teams-end": "Finalización",
     "cards-page-organization-teams-cash-balance": "Balance de efectivo",
