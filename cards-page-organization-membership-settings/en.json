@@ -23,8 +23,8 @@
     "cards-page-organization-membership-settings-role-moderator": "Moderator",
     "cards-page-organization-membership-settings-role-member": "Member",
     "cards-page-organization-membership-settings-role-info-admin": "Administrator can manage all content and change settings of the workspace.",
-    "cards-page-organization-membership-settings-role-info-moderator": "Moderator can manage content and guilds in the workspace.",
-    "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and guilds in the workspace.",
+    "cards-page-organization-membership-settings-role-info-moderator": "Moderator can manage content and teams in the workspace.",
+    "cards-page-organization-membership-settings-role-info-member": "Member can view relevant content and teams in the workspace.",
     "cards-page-organization-membership-settings-update-failure": "Failed to update"
   }
 }
