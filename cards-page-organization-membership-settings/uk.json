@@ -23,7 +23,7 @@
     "cards-page-organization-membership-settings-role-moderator": "Модератор",
     "cards-page-organization-membership-settings-role-member": "Учасник",
     "cards-page-organization-membership-settings-role-info-admin": "Адміністратор може налаштовувати та керувати всім в коворкінгу.",
-    "cards-page-organization-membership-settings-role-info-moderator": "Модератор може керувати контентом та гільдіями в коворкінгу.",
+    "cards-page-organization-membership-settings-role-info-moderator": "Модератор може керувати контентом та командами в коворкінгу.",
     "cards-page-organization-membership-settings-role-info-member": "Учасник може переглядати контент в коворкінгу.",
     "cards-page-organization-membership-settings-update-failure": "Не вдалося оновити"
   }
