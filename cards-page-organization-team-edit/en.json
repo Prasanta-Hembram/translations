@@ -1,14 +1,14 @@
 {
   "data": {
     "cards-page-organization-team-edit-action-delete": "Delete",
-    "cards-page-organization-team-edit-delete-failure": "Failed to delete guild. 🙁",
+    "cards-page-organization-team-edit-delete-failure": "Failed to delete team. 🙁",
     "cards-page-organization-team-edit-delete-repeat": "Retry deleting",
     "cards-page-organization-team-edit-select-icon-title": "Select Icon",
     "cards-page-organization-team-edit-select-team-members-title": "Select Team Members",
     "cards-page-organization-team-edit-icon": "Icon",
     "cards-page-organization-team-edit-name": "Name",
     "cards-page-organization-team-edit-name-placeholder": "Add name",
-    "cards-page-organization-team-edit-title": "Edit guild",
-    "cards-page-organization-team-edit-not-found-error": "This guild may not exist or may have been removed. 😕"
+    "cards-page-organization-team-edit-title": "Edit team",
+    "cards-page-organization-team-edit-not-found-error": "This team may not exist or may have been removed. 😕"
   }
 }

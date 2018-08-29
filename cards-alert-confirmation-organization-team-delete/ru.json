@@ -1,7 +1,7 @@
 {
   "data": {
-    "cards-alert-confirmation-organization-team-delete-title": "Удалить гильдию",
-    "cards-alert-confirmation-organization-team-delete-text": "Вы действительно хотите удалить эту гильдию? Это действие необратимо.",
+    "cards-alert-confirmation-organization-team-delete-title": "Удалить команду",
+    "cards-alert-confirmation-organization-team-delete-text": "Вы действительно хотите удалить эту команду? Это действие необратимо.",
     "cards-alert-confirmation-organization-team-delete-yes": "Да, удалить",
     "cards-alert-confirmation-organization-team-delete-no": "Отменить"
   }
