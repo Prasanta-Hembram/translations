@@ -1,0 +1,16 @@
+{
+  "data": {
+    "cards-page-organization-teams-error-not-found": "Проверьте соединение с интернетом.",
+    "cards-page-organization-teams-individuals-title": "Индивидуальные участники",
+    "cards-page-organization-teams-search-placeholder": "Поиск среди {numberOfTeams} команд и {numberOfMembers} участников",
+    "cards-page-organization-teams-teams-title": "Команды",
+    "cards-page-organization-teams-end": "До",
+    "cards-page-organization-teams-cash-balance": "Баланс наличных",
+    "cards-page-organization-teams-credit-balance": "Баланс кредитов",
+    "cards-page-organization-teams-credit-allocation": "Квота кредитов",
+    "cards-page-organization-teams-name": "Имя",
+    "cards-page-organization-teams-plan": "План",
+    "cards-page-organization-teams-price": "Цена",
+    "cards-page-organization-teams-start": "С"
+  }
+}
