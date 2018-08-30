@@ -1,0 +1,30 @@
+{
+  "data": {
+    "cards-page-organization-user-membership-settings-active-plan-title": "Текущий план",
+    "cards-page-organization-user-membership-settings-balance-title": "Остаток кредитов",
+    "cards-page-organization-user-membership-settings-button-charge-title": "Списать",
+    "cards-page-organization-user-membership-settings-button-clear-title": "Погасить",
+    "cards-page-organization-user-membership-settings-button-history": "История транзакций",
+    "cards-page-organization-user-membership-settings-button-give-title": "Начислить",
+    "cards-page-organization-user-membership-settings-button-money-give-title": "Начислить",
+    "cards-page-organization-user-membership-settings-cash-balance-title": "Баланс наличных",
+    "cards-page-organization-user-membership-settings-delete-user-action-sheet": "Удалить участника",
+    "cards-page-organization-user-membership-settings-title": "Настройки участия",
+    "cards-page-organization-user-membership-settings-leave-failure": "Не удалось покинуть коворкинг. 🙁",
+    "cards-page-organization-user-membership-settings-leave-user-failure": "Не удалось удалить участника. 🙁",
+    "cards-page-organization-user-membership-settings-leave-organization": "Покинуть коворкинг",
+    "cards-page-organization-user-membership-settings-leave-repeat": "Попробовать еще раз",
+    "cards-page-organization-user-membership-settings-no-plan": "Пока нет тарифного плана. 😢",
+    "cards-page-organization-user-membership-settings-plans-ends": "Заканчивается через {daysLeft}",
+    "cards-page-organization-user-membership-settings-plans-renews": "Возобновление: {daysLeft}",
+    "cards-page-organization-user-membership-settings-plans-renews-last-day": "Последний день",
+    "cards-page-organization-user-membership-settings-role": "Роль",
+    "cards-page-organization-user-membership-settings-role-admin": "Администратор",
+    "cards-page-organization-user-membership-settings-role-moderator": "Модератор",
+    "cards-page-organization-user-membership-settings-role-member": "Участник",
+    "cards-page-organization-user-membership-settings-role-info-admin": "Администратор может настраивать и управлять всем в коворкинге.",
+    "cards-page-organization-user-membership-settings-role-info-moderator": "Модератор может управлять контентом и командами в коворкинге.",
+    "cards-page-organization-user-membership-settings-role-info-member": "Участник может просматривать контент в коворкинге.",
+    "cards-page-organization-user-membership-settings-update-failure": "Невозможно обновить"
+  }
+}

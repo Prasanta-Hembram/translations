@@ -1,0 +1,30 @@
+{
+  "data": {
+    "cards-page-organization-user-membership-settings-active-plan-title": "Plan activo",
+    "cards-page-organization-user-membership-settings-balance-title": "Créditos restantes",
+    "cards-page-organization-user-membership-settings-button-charge-title": "Cobrar",
+    "cards-page-organization-user-membership-settings-button-clear-title": "Claro",
+    "cards-page-organization-user-membership-settings-button-history": "Historial de saldo",
+    "cards-page-organization-user-membership-settings-button-give-title": "Dar",
+    "cards-page-organization-user-membership-settings-button-money-give-title": "Dar",
+    "cards-page-organization-user-membership-settings-cash-balance-title": "Balance en efectivo",
+    "cards-page-organization-user-membership-settings-delete-user-action-sheet": "Eliminar del área de trabajo",
+    "cards-page-organization-user-membership-settings-title": "Ajustes de Membresía",
+    "cards-page-organization-user-membership-settings-leave-failure": "Error al salir del espacio de trabajo. 🙁",
+    "cards-page-organization-user-membership-settings-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
+    "cards-page-organization-user-membership-settings-leave-organization": "Salir del espacio de trabajo",
+    "cards-page-organization-user-membership-settings-leave-repeat": "Inténtalo de nuevo",
+    "cards-page-organization-user-membership-settings-no-plan": "Aún no tiene ningún plan. 😢",
+    "cards-page-organization-user-membership-settings-plans-ends": "Finaliza en {daysLeft}",
+    "cards-page-organization-user-membership-settings-plans-renews": "Se renueva en {daysLeft}",
+    "cards-page-organization-user-membership-settings-plans-renews-last-day": "Último día",
+    "cards-page-organization-user-membership-settings-role": "Rol",
+    "cards-page-organization-user-membership-settings-role-admin": "Administrador",
+    "cards-page-organization-user-membership-settings-role-moderator": "Moderador",
+    "cards-page-organization-user-membership-settings-role-member": "Miembro",
+    "cards-page-organization-user-membership-settings-role-info-admin": "El administrador puede administrar todo el contenido y cambiar la configuración del espacio de trabajo.",
+    "cards-page-organization-user-membership-settings-role-info-moderator": "El moderador puede administrar contenido y grupos en el área de trabajo. Si necesita hacer algún cambio en los ajuste, hable con el administrador.",
+    "cards-page-organization-user-membership-settings-role-info-member": "El miembro puede ver contenido relevante y grupos en el área de trabajo. Si necesita gestionar algo, hable con el moderador o administrador.",
+    "cards-page-organization-user-membership-settings-update-failure": "Error al actualizar"
+  }
+}

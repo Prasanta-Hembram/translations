@@ -1,0 +1,30 @@
+{
+  "data": {
+    "cards-page-organization-user-membership-settings-active-plan-title": "회원의 멤버십 플랜",
+    "cards-page-organization-user-membership-settings-balance-title": "크레딧 잔액",
+    "cards-page-organization-user-membership-settings-button-charge-title": "회수",
+    "cards-page-organization-user-membership-settings-button-clear-title": "취소",
+    "cards-page-organization-user-membership-settings-button-history": "결제 내역",
+    "cards-page-organization-user-membership-settings-button-give-title": "추가",
+    "cards-page-organization-user-membership-settings-button-money-give-title": "추가",
+    "cards-page-organization-user-membership-settings-cash-balance-title": "현금 잔고",
+    "cards-page-organization-user-membership-settings-delete-user-action-sheet": "사용자 삭제",
+    "cards-page-organization-user-membership-settings-title": "회원설정",
+    "cards-page-organization-user-membership-settings-leave-failure": "조직을 떠나지 못했습니다. 🙁",
+    "cards-page-organization-user-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
+    "cards-page-organization-user-membership-settings-leave-organization": "이 조직 나가기",
+    "cards-page-organization-user-membership-settings-leave-repeat": "다시시도",
+    "cards-page-organization-user-membership-settings-no-plan": "아직 플랜이 없습니다. 😢",
+    "cards-page-organization-user-membership-settings-plans-ends": "{daysLeft} 종료",
+    "cards-page-organization-user-membership-settings-plans-renews": "{daysLeft} 갱신",
+    "cards-page-organization-user-membership-settings-plans-renews-last-day": "종료 일",
+    "cards-page-organization-user-membership-settings-role": "회원등급",
+    "cards-page-organization-user-membership-settings-role-admin": "관리자(Admin)",
+    "cards-page-organization-user-membership-settings-role-moderator": "중간관리자(Moderator)",
+    "cards-page-organization-user-membership-settings-role-member": "회원(Member)",
+    "cards-page-organization-user-membership-settings-role-info-admin": "관리자는 조직의 모든 것을 설정하고 관리 할 수 있습니다.",
+    "cards-page-organization-user-membership-settings-role-info-moderator": "중간관리자는 조직의 컨텐츠와 팀을 관리 할 수 있습니다. 설정을 변경해야하는 경우 관리자에게 문의하십시오.",
+    "cards-page-organization-user-membership-settings-role-info-member": "회원은 조직의 컨텐츠를 만들고 볼 수 있습니다. 기타 관리 관해서는 관리자 또는 중간관리자에게 문의하십시오.",
+    "cards-page-organization-user-membership-settings-update-failure":  "업데이트 실패"
+  }
+}
