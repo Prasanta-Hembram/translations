@@ -1,7 +1,15 @@
 {
-  "data": {  
+  "data": {
     "cards-page-organization-settings-profile-address": "Dirección",
     "cards-page-organization-settings-profile-address-placeholder": "Ingresa la direccion",
+    "cards-page-organization-settings-profile-amenities": "Comodidades",
+    "cards-page-organization-settings-profile-amenities-kitchen": "Cocina",
+    "cards-page-organization-settings-profile-amenities-unlimited-drinks": "Café / té ilimitados",
+    "cards-page-organization-settings-profile-amenities-phone-booth": "Cabina telefónica",
+    "cards-page-organization-settings-profile-amenities-24-7-access": "Acceso 24/7",
+    "cards-page-organization-settings-profile-amenities-parking": "Estacionamiento",
+    "cards-page-organization-settings-profile-amenities-printer-scanner": "Impresora / escáner",
+    "cards-page-organization-settings-profile-amenities-lockers": "Casilleros",
     "cards-page-organization-settings-profile-code": "Etiqueta",
     "cards-page-organization-settings-profile-code-description": "Comparta esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía.",
     "cards-page-organization-settings-profile-contact-to-support": "Esta etiqueta también se usa como nombre de usuario del espacio de trabajo en andcards.com. Para cambiarlo, póngase en contacto con support@andcards.com.",
@@ -20,6 +28,8 @@
     "cards-page-organization-settings-profile-phone-number-required": "Número de teléfono",
     "cards-page-organization-settings-profile-required-fields-description": "Requerir que todos los miembros compartan la siguiente información personal:",
     "cards-page-organization-settings-profile-required-fields-title": "Campos requeridos",
+    "cards-page-organization-settings-profile-services-title": "Servicios",
+    "cards-page-organization-settings-profile-services-meeting-room": "Sala de Reuniones",
     "cards-page-organization-settings-profile-title": "Perfil y Unirse",
     "cards-page-organization-settings-profile-user-leave-failure": "Error al salir del espacio de trabajo. 🙁",
     "cards-page-organization-settings-profile-user-leave-organization": "Salir del espacio de trabajo",
