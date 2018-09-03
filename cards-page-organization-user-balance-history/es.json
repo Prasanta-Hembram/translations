@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-user-balance-history-default-transaction": "Transacción",
     "cards-page-organization-user-balance-history-fetch-failure": "No se pudo mostrar el historial de saldo. ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-user-balance-history-list-empty": "No hay transacciones todavía 😢",
     "cards-page-organization-user-balance-history-money-transaction-book-by-card": "Habitación reservada (tarjeta)",

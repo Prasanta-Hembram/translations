@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-user-balance-history-default-transaction": "거래",
     "cards-page-organization-user-balance-history-fetch-failure": "결제 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-organization-user-balance-history-list-empty": "결제 내역이 없습니다 😢",
     "cards-page-organization-user-balance-history-money-transaction-book-by-card": "시설 예약 (카드)",
@@ -17,3 +18,4 @@
     "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "관리자/중간관리자 수동 회수",
     "cards-page-organization-user-balance-history-title": "결제 내역"
   }
+}

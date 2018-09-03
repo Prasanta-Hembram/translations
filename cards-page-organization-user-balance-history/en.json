@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-user-balance-history-default-transaction": "Transaction",
     "cards-page-organization-user-balance-history-fetch-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
     "cards-page-organization-user-balance-history-list-empty": "There are no transactions yet. 😢",
     "cards-page-organization-user-balance-history-money-transaction-book-by-card": "Booked room (card)",

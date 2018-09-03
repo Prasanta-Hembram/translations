@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-user-balance-history-default-transaction": "Транзакція",
     "cards-page-organization-user-balance-history-fetch-failure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
     "cards-page-organization-user-balance-history-list-empty": "Поки немає жодних транзакцій. 😢",
     "cards-page-organization-user-balance-history-money-transaction-book-by-card": "Резервація кімнати (картка)",
@@ -17,3 +18,4 @@
     "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Нараховано вручну адміністратором/модератором",
     "cards-page-organization-user-balance-history-title": "Історія транзакцій"
   }
+}
