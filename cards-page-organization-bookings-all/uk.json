@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-page-organization-bookings-all-fetch-failure": "Неможливо відобразити резервації. Перевірте, чи все добре з інтернет-з'єднанням",
+    "cards-page-organization-bookings-all-default-booking-purpose": "Резервація",
+    "cards-page-organization-bookings-all-list-empty": "Нічого не знайдено. 😢",
+    "cards-page-organization-bookings-all-title": "Усі мої резервації"
+  }
+}

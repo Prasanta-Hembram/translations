@@ -3,12 +3,13 @@
     "cards-page-organization-properties-availability-available": "Available",
     "cards-page-organization-properties-availability-in-minutes": "Available {time}",
     "cards-page-organization-properties-availability-unavailable": "Unavailable",
+    "cards-page-organization-properties-bookings-button-my-title": "All my bookings",
     "cards-page-organization-properties-default-booking-purpose": "Reservation",
     "cards-page-organization-properties-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
+    "cards-page-organization-properties-my-bookings": "My Bookings",
     "cards-page-organization-properties-no-properties": "There are no any available rooms yet. 😢",
     "cards-page-organization-properties-calendar-button-title": "Calendar",
     "cards-page-organization-properties-rooms": "Rooms",
-    "cards-page-organization-properties-upcoming-bookings": "Upcoming Bookings",
     "cards-page-organization-properties-title": "Bookings"
   }
 }

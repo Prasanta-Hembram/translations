@@ -3,12 +3,13 @@
     "cards-page-organization-properties-availability-available": "지금 예약 가능",
     "cards-page-organization-properties-availability-in-minutes": "{time} 예약 가능",
     "cards-page-organization-properties-availability-unavailable": "예약 불가",
+    "cards-page-organization-properties-bookings-button-my-title": "나의 모든 예약",
     "cards-page-organization-properties-default-booking-purpose": "예약",
     "cards-page-organization-properties-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "cards-page-organization-properties-my-bookings": "나의 예약 현황",
     "cards-page-organization-properties-no-properties": "아직 이용 가능한 시설이 없습니다. 😢",
     "cards-page-organization-properties-calendar-button-title":"달력",
     "cards-page-organization-properties-rooms": "시설",
-    "cards-page-organization-properties-upcoming-bookings": "예약 예고",
     "cards-page-organization-properties-title": "예약"
   }
 }
