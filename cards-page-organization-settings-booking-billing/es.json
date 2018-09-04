@@ -10,8 +10,6 @@
     "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 año",
     "cards-page-organization-settings-booking-billing-booking-purpose-required": "Propósito de reserva requerido",
     "cards-page-organization-settings-booking-billing-booking-until": "Hasta",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Enable Negative Balance",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Advertencia: Esto permitirá que los miembros tengan saldos negativos. Los miembros pueden usar todos los servicios pagados sin límites de pospago. Los administradores y moderadores pueden cambiar el saldo de cada miembro.",
     "cards-page-organization-settings-booking-billing-billing-section-title": "Configuración de facturación",
     "cards-page-organization-settings-booking-billing-billing-system": "Habilitar el sistema de facturación",
     "cards-page-organization-settings-booking-billing-billing-system-description": "El sistema de facturación permite pagos dentro de la aplicación para la reserva de habitaciones y planes de membresía. Para cambiar esta configuración, póngase en contacto con support@andcards.com.",

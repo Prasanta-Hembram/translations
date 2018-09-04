@@ -10,8 +10,6 @@
     "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 year",
     "cards-page-organization-settings-booking-billing-booking-purpose-required": "Require Booking Purpose",
     "cards-page-organization-settings-booking-billing-booking-until": "Until",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Enable Negative Balance",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Warning! This will allow members to have negative balances. Members can use all paid services without limits on postpaid basis. Admins and moderators can change the balance of each member.",
     "cards-page-organization-settings-booking-billing-billing-section-title": "Billing Settings",
     "cards-page-organization-settings-booking-billing-billing-system": "Enable Billing System",
     "cards-page-organization-settings-booking-billing-billing-system-description": "Billing system enables in-app payments for room booking and membership plans. To change this setting, contact support@andcards.com.",

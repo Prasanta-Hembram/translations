@@ -10,8 +10,6 @@
     "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 год",
     "cards-page-organization-settings-booking-billing-booking-purpose-required": "Цель бронирования обязательна",
     "cards-page-organization-settings-booking-billing-booking-until": "Конец",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "Негативный баланс",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "Внимание! Эта функция позволит участникам иметь отрицательный баланс. Участники могут использовать все платные услуги без ограничений по постоплатной основе. Админы и модераторы могут изменять баланс каждого участника.",
     "cards-page-organization-settings-booking-billing-billing-section-title": "Рассчеты",
     "cards-page-organization-settings-booking-billing-billing-system": "Платежная система",
     "cards-page-organization-settings-booking-billing-billing-system-description": "Платежная система позволяет оплачивать бронь комнат и подписки на план в приложении. Чтобы настроить платежную систему, обратитесь к support@andcards.com",

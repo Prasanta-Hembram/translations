@@ -10,8 +10,6 @@
     "cards-page-organization-settings-booking-billing-booking-period-one-year": "1년",
     "cards-page-organization-settings-booking-billing-booking-purpose-required": "예약 목적이 필요함",
     "cards-page-organization-settings-booking-billing-booking-until": "종료시간",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-title": "마이너스 잔액 가능",
-    "cards-page-organization-settings-booking-billing-billing-negative-balance-description": "경고 : 회원들은 잔액이 마이너스로 뜰 수 있습니다. 회원들은 별도의 지불 없이 모든 결제 서비스를 이용할 수 있습니다. 관리자와 중간관리자는 각 회원들의 잔액을 바꿀 수 있습니다.",
     "cards-page-organization-settings-booking-billing-billing-section-title": "결제 시스템",
     "cards-page-organization-settings-booking-billing-billing-system": "결제 기능",
     "cards-page-organization-settings-booking-billing-billing-system-description": "결제 기능은 유료 회의실 예약 및 멤버십 플랜 구매를 제공합니다. 결제 기능 설정하기에 support@andcards.com한테 연락해주시기 바랍니다.",
