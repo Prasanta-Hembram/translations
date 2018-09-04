@@ -1,0 +1,11 @@
+{
+  "data": {
+    "cards-organization-bookings-min-time-15-min": "15분",
+    "cards-organization-bookings-min-time-30-min": "30분",
+    "cards-organization-bookings-min-time-1-hour": "1시간",
+    "cards-organization-bookings-min-time-2-hour": "2시간",
+    "cards-organization-bookings-min-time-3-hour": "3시간",
+    "cards-organization-bookings-min-time-4-hour": "4시간",
+    "cards-organization-bookings-min-time-1-day": "1 일"
+  }
+}

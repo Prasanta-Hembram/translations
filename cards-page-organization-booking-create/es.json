@@ -1,5 +1,5 @@
 {
-  "data": {
+  "data": {
     "cards-page-organization-booking-create-balance-action-button-point": "Créditos ({balance})",
     "cards-page-organization-booking-create-balance-action-button-money": "Efectivo ({price})",
     "cards-page-organization-booking-create-balance-admin-text": "{permission} puedes reservar una habitación gratis.",
@@ -9,16 +9,22 @@
     "cards-page-organization-booking-create-book-by-me": "{fullName} (yo)",
     "cards-page-organization-booking-create-book-for-free": "Reservar gratis",
     "cards-page-organization-booking-create-book-for-points": "Reservar por {balance}",
-    "cards-page-organization-booking-create-end-time": "Finalización",
+    "cards-page-organization-booking-create-end-time": "Finalización",
     "cards-page-organization-booking-create-full-day-description": "El período mínimo de reserva es de 1 día.",
     "cards-page-organization-booking-create-role-admin": "Administrador",
     "cards-page-organization-booking-create-role-moderator": "Moderador",
     "cards-page-organization-booking-create-role-member": "Miembro",
-    "cards-page-organization-booking-create-start-time": "Inicio",
     "cards-page-organization-booking-create-pay-with": "Page con",
     "cards-page-organization-booking-create-pay-with-validation-error": "Desafortunadamente no tiene suficientes créditos para realizar esta reserva. Por favor, contacte a un gerente para obtener mas créditos.",
     "cards-page-organization-booking-create-purpose": "Propósito",
     "cards-page-organization-booking-create-purpose-placeholder": "Agregar propósito",
-    "cards-page-organization-booking-create-title": "Nueva reserva"
-  }
+    "cards-page-organization-booking-create-section-time": "Time",
+    "cards-page-organization-booking-create-section-time-min": "Min time",
+    "cards-page-organization-booking-create-section-time-max": "Max time",
+    "cards-page-organization-booking-create-section-people-purpose": "People & Purpose",
+    "cards-page-organization-booking-create-section-people-capacity": "Capacity",
+    "cards-page-organization-booking-create-section-payment": "Payment",
+    "cards-page-organization-booking-create-start-time": "Inicio",
+    "cards-page-organization-booking-create-title": "Nueva reserva"
+  }
 }
