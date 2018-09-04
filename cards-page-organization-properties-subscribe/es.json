@@ -1,11 +1,13 @@
 {
   "data": {
-      "cards-page-organization-properties-calendar-alert-past-day": "No puedes reservar para fechas pasadas.",
-      "cards-page-organization-properties-calendar-alert-period": "El período de tiempo seleccionado es menor que el mínimo permitido.",
-      "cards-page-organization-properties-calendar-date": "Fecha",
-      "cards-page-organization-properties-calendar-get-failure": "No se pudieron mostrar habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
-      "cards-page-organization-properties-calendar-my": "Mi reserva",
-      "cards-page-organization-properties-calendar-no-properties": "No hay habitaciones disponibles todavía. 😢",
-      "cards-page-organization-properties-calendar-title": "Calendario"
+    "cards-page-organization-properties-subscribe-copied-to-clipboard": "Copied to clipboard",
+    "cards-page-organization-properties-subscribe-description": "Use think link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "cards-page-organization-properties-subscribe-generate-new-url-button": "Generate a New Link",
+    "cards-page-organization-properties-subscribe-generate-new-url-description": "If you generate a new link, previous one won't work anymore.",
+    "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
+    "cards-page-organization-properties-subscribe-service-google-calendar": "Google Calendar",
+    "cards-page-organization-properties-subscribe-service-outlook": "Outlook",
+    "cards-page-organization-properties-subscribe-title": "Subscribe",
+    "cards-page-organization-properties-subscribe-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
   }
 }

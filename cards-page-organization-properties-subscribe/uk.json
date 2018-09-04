@@ -1,11 +1,13 @@
 {
   "data": {
-      "cards-page-organization-properties-calendar-alert-past-day": "Не можливо резервувати у минулому.",
-      "cards-page-organization-properties-calendar-alert-period": "Обраний проміжок часу менший, ніж мінімально допустимий.",
-      "cards-page-organization-properties-calendar-date": "Дата",
-      "cards-page-organization-properties-calendar-get-failure": "Кімнати не відображаються. Перевірте, чи все добре з інтернет-з'єднанням",
-      "cards-page-organization-properties-calendar-my": "Моя резервація",
-      "cards-page-organization-properties-calendar-no-properties": "Поки немає доступних кімнат. 😢",
-      "cards-page-organization-properties-calendar-title": "Календар"
+    "cards-page-organization-properties-subscribe-copied-to-clipboard": "Copied to clipboard",
+    "cards-page-organization-properties-subscribe-description": "Use think link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "cards-page-organization-properties-subscribe-generate-new-url-button": "Generate a New Link",
+    "cards-page-organization-properties-subscribe-generate-new-url-description": "If you generate a new link, previous one won't work anymore.",
+    "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
+    "cards-page-organization-properties-subscribe-service-google-calendar": "Google Calendar",
+    "cards-page-organization-properties-subscribe-service-outlook": "Outlook",
+    "cards-page-organization-properties-subscribe-title": "Subscribe",
+    "cards-page-organization-properties-subscribe-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
   }
 }
