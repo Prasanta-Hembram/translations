@@ -4,7 +4,7 @@
     "cards-page-organization-plans-available-plans-found": "Тарифные планы",
     "cards-page-organization-plans-balance-title": "Баланс",
     "cards-page-organization-plans-create": "Добавить план",
-    "cards-page-organization-plans-expire-credits": "Срок действия кредитов истекает {date}.",
+    "cards-page-organization-plans-expire-credits": "{pointsExpiring}{pointEmoji} истекают {date}.",
     "cards-page-organization-plans-price-from": "От {price}",
     "cards-page-organization-plans-income": "прибыль",
     "cards-page-organization-plans-kpi-detail": "Ключевые показатели текущего месяца",

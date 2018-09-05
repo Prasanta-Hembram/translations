@@ -4,7 +4,7 @@
     "cards-page-organization-plans-available-plans-found": "Тарифні плани",
     "cards-page-organization-plans-balance-title": "Баланс",
     "cards-page-organization-plans-create": "Додати план",
-    "cards-page-organization-plans-expire-credits": "Термін дії кредитів закінчується {date}.",
+    "cards-page-organization-plans-expire-credits": "{pointsExpiring}{pointEmoji} стікають {date}.",
     "cards-page-organization-plans-price-from": "Від {price}",
     "cards-page-organization-plans-income": "прибуток",
     "cards-page-organization-plans-kpi-detail": "Ключові показники цього місяця",

@@ -2,6 +2,10 @@
   "data": {
     "cards-page-organization-user-membership-settings-active-plan-title": "Текущий план",
     "cards-page-organization-user-membership-settings-balance-title": "Остаток кредитов",
+    "cards-page-organization-user-membership-settings-balance-permanent-credits-title": "Кредиты",
+    "cards-page-organization-user-membership-settings-balance-permanent-credits-desc": "Срок действия этого вида кредитов никогда не истекает.",
+    "cards-page-organization-user-membership-settings-balance-temporary-credits-title": "Кредиты с ограниченным сроком действия",
+    "cards-page-organization-user-membership-settings-balance-temporary-credits-desc": "Срок действия истекает вместе с тарифным планом {date}.",
     "cards-page-organization-user-membership-settings-button-charge-title": "Списать",
     "cards-page-organization-user-membership-settings-button-clear-title": "Погасить",
     "cards-page-organization-user-membership-settings-button-history": "История транзакций",

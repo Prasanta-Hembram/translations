@@ -4,7 +4,7 @@
     "cards-page-organization-plans-available-plans-found": "Membership Plans",
     "cards-page-organization-plans-balance-title": "Balance",
     "cards-page-organization-plans-create": "Add plan",
-    "cards-page-organization-plans-expire-credits": "All credits will expire on {date}.",
+    "cards-page-organization-plans-expire-credits": "{pointsExpiring}{pointEmoji} expire on {date}.",
     "cards-page-organization-plans-price-from": "From {price}",
     "cards-page-organization-plans-income": "income",
     "cards-page-organization-plans-kpi-detail": "KPIs Month to Date",
