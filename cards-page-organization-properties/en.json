@@ -4,6 +4,7 @@
     "cards-page-organization-properties-availability-in-minutes": "Available {time}",
     "cards-page-organization-properties-availability-unavailable": "Unavailable",
     "cards-page-organization-properties-bookings-button-my-title": "All my bookings",
+    "cards-page-organization-properties-bookings-button-subscribe-title": "Subscribe",
     "cards-page-organization-properties-default-booking-purpose": "Reservation",
     "cards-page-organization-properties-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
     "cards-page-organization-properties-my-bookings": "My Bookings",
