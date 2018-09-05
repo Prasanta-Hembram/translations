@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-properties-subscribe-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-organization-properties-subscribe-description": "Use think link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
-    "cards-page-organization-properties-subscribe-generate-new-url-button": "Generate a New Link",
-    "cards-page-organization-properties-subscribe-generate-new-url-description": "If you generate a new link, previous one won't work anymore.",
-    "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
-    "cards-page-organization-properties-subscribe-service-google-calendar": "Google Calendar",
-    "cards-page-organization-properties-subscribe-service-outlook": "Outlook",
-    "cards-page-organization-properties-subscribe-title": "Subscribe",
-    "cards-page-organization-properties-subscribe-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
+    "cards-page-organization-properties-subscribe-copied-to-clipboard": "Скопировано в буфер обмена",
+    "cards-page-organization-properties-subscribe-description": "Воспользуйтесь этой ссылкой чтобы видеть свои andCards бронирования в личном календаре. Инструкции по настройке популярных сервисов:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "cards-page-organization-properties-subscribe-generate-new-url-button": "Сгенерировать новую ссылку",
+    "cards-page-organization-properties-subscribe-generate-new-url-description": "Если вы сгенерируете новую ссылку, старая больше не будет работать.",
+    "cards-page-organization-properties-subscribe-service-apple-calendar": "Календарь Apple",
+    "cards-page-organization-properties-subscribe-service-google-calendar": "Календарь Google",
+    "cards-page-organization-properties-subscribe-service-outlook": "Календарь Outlook",
+    "cards-page-organization-properties-subscribe-title": "Подписаться",
+    "cards-page-organization-properties-subscribe-url-security-warning": "ВАЖНО! Держите ссылку в секрете. Любой с доступом к этой ссылке увидит все ваши бронирования."
   }
 }
