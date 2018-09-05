@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-announcement-update-contents": "Зміст",
+    "cards-page-organization-announcement-update-is-pinned": "Закріпити зверху",
     "cards-page-organization-announcement-update-notification-push": "Push-сповіщення",
     "cards-page-organization-announcement-update-stack-title": "Редагування сповіщення",
     "cards-page-organization-announcement-update-text-placeholder": "Напишіть щось вашим резидентам...",

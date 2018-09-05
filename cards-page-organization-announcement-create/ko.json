@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-announcement-create-contents": "내용",
+    "cards-page-organization-announcement-create-is-pinned": "상단고정",
     "cards-page-organization-announcement-create-notification-push": "푸시알림",
     "cards-page-organization-announcement-create-stack-title": "공지사항 만들기",
     "cards-page-organization-announcement-create-target-teams": "공유그룹 설정",
