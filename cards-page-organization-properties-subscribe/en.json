@@ -1,7 +1,7 @@
 {
   "data": {
     "cards-page-organization-properties-subscribe-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-organization-properties-subscribe-description": "Use think link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "cards-page-organization-properties-subscribe-description": "Use this link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
     "cards-page-organization-properties-subscribe-generate-new-url-button": "Generate a New Link",
     "cards-page-organization-properties-subscribe-generate-new-url-description": "If you generate a new link, previous one won't work anymore.",
     "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
