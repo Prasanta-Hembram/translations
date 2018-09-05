@@ -18,12 +18,12 @@
     "cards-page-organization-booking-create-pay-with-validation-error": "Desafortunadamente no tiene suficientes créditos para realizar esta reserva. Por favor, contacte a un gerente para obtener mas créditos.",
     "cards-page-organization-booking-create-purpose": "Propósito",
     "cards-page-organization-booking-create-purpose-placeholder": "Agregar propósito",
-    "cards-page-organization-booking-create-section-time": "Time",
-    "cards-page-organization-booking-create-section-time-min": "Min time",
-    "cards-page-organization-booking-create-section-time-max": "Max time",
-    "cards-page-organization-booking-create-section-people-purpose": "People & Purpose",
-    "cards-page-organization-booking-create-section-people-capacity": "Capacity",
-    "cards-page-organization-booking-create-section-payment": "Payment",
+    "cards-page-organization-booking-create-section-time": "Hora",
+    "cards-page-organization-booking-create-section-time-min": "Mínimo",
+    "cards-page-organization-booking-create-section-time-max": "Máximo",
+    "cards-page-organization-booking-create-section-people-purpose": "Personas y Propósito",
+    "cards-page-organization-booking-create-section-people-capacity": "Capacidad",
+    "cards-page-organization-booking-create-section-payment": "Pago",
     "cards-page-organization-booking-create-start-time": "Inicio",
     "cards-page-organization-booking-create-title": "Nueva reserva"
   }
