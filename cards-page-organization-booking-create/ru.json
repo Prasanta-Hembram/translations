@@ -18,12 +18,12 @@
     "cards-page-organization-booking-create-pay-with-validation-error": "Недостаточно кредитов для бронирования. Получите больше кредитов и попробуйте снова.",
     "cards-page-organization-booking-create-purpose": "Цель",
     "cards-page-organization-booking-create-purpose-placeholder": "Укажите цель",
-    "cards-page-organization-booking-create-section-time": "Time",
-    "cards-page-organization-booking-create-section-time-min": "Min time",
-    "cards-page-organization-booking-create-section-time-max": "Max time",
-    "cards-page-organization-booking-create-section-people-purpose": "People & Purpose",
-    "cards-page-organization-booking-create-section-people-capacity": "Capacity",
-    "cards-page-organization-booking-create-section-payment": "Payment",
+    "cards-page-organization-booking-create-section-time": "Время",
+    "cards-page-organization-booking-create-section-time-min": "Минимум",
+    "cards-page-organization-booking-create-section-time-max": "Максимум",
+    "cards-page-organization-booking-create-section-people-purpose": "Люди и цель",
+    "cards-page-organization-booking-create-section-people-capacity": "Вмещаемость",
+    "cards-page-organization-booking-create-section-payment": "Оплата",
     "cards-page-organization-booking-create-start-time": "Начало",
     "cards-page-organization-booking-create-title": "Новое бронирование"
   }
