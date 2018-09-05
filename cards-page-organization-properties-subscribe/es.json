@@ -1,13 +1,13 @@
 {
   "data": {
-    "cards-page-organization-properties-subscribe-copied-to-clipboard": "Copied to clipboard",
-    "cards-page-organization-properties-subscribe-description": "Use think link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
-    "cards-page-organization-properties-subscribe-generate-new-url-button": "Generate a New Link",
-    "cards-page-organization-properties-subscribe-generate-new-url-description": "If you generate a new link, previous one won't work anymore.",
-    "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
-    "cards-page-organization-properties-subscribe-service-google-calendar": "Google Calendar",
-    "cards-page-organization-properties-subscribe-service-outlook": "Outlook",
-    "cards-page-organization-properties-subscribe-title": "Subscribe",
-    "cards-page-organization-properties-subscribe-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
+    "cards-page-organization-properties-subscribe-copied-to-clipboard": "Copiado al portapapeles",
+    "cards-page-organization-properties-subscribe-description": "Use este enlace para ver todas las reservas realizadas en andCards en su calendario personal. Aquí hay instrucciones para aplicaciones de calendario comunes:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "cards-page-organization-properties-subscribe-generate-new-url-button": "Generar un nuevo enlace",
+    "cards-page-organization-properties-subscribe-generate-new-url-description": "Si genera un nuevo enlace, el anterior ya no funcionará.",
+    "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendario",
+    "cards-page-organization-properties-subscribe-service-google-calendar": "Google Calendario",
+    "cards-page-organization-properties-subscribe-service-outlook": "Outlook Calendario",
+    "cards-page-organization-properties-subscribe-title": "Suscribir",
+    "cards-page-organization-properties-subscribe-url-security-warning": "¡Importante! Mantenga este enlace privado. Cualquier persona con este enlace puede ver tu feed."
   }
 }
