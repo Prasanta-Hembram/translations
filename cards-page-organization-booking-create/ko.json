@@ -11,7 +11,6 @@
     "cards-page-organization-booking-create-book-for-points": "{balance}로 예약하기",
     "cards-page-organization-booking-create-end-time": "종료",
     "cards-page-organization-booking-create-full-day-description": "최소 예약 기간은 1일입니다.",
-    "cards-page-organization-booking-create-not-found-error": "인터넷에 연결할 수 없음",
     "cards-page-organization-booking-create-role-admin": "관리자",
     "cards-page-organization-booking-create-role-moderator": "중간관리자",
     "cards-page-organization-booking-create-role-member": "회원",
@@ -19,6 +18,12 @@
     "cards-page-organization-booking-create-pay-with-validation-error": "크레딧 부족. 관리자에서 크레딧을 받으시고 다시 시도하세요.",
     "cards-page-organization-booking-create-purpose": "목적",
     "cards-page-organization-booking-create-purpose-placeholder": "목적 입력하기",
+    "cards-page-organization-booking-create-section-time": "시간",
+    "cards-page-organization-booking-create-section-time-min": "최저",
+    "cards-page-organization-booking-create-section-time-max": "최대",
+    "cards-page-organization-booking-create-section-people-purpose": "예약자 및 목적",
+    "cards-page-organization-booking-create-section-people-capacity": "좌석 수",
+    "cards-page-organization-booking-create-section-payment": "결제",
     "cards-page-organization-booking-create-start-time": "시작",
     "cards-page-organization-booking-create-title": "예약하기"
   }

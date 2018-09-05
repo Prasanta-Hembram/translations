@@ -21,6 +21,9 @@
     "cards-page-organization-booking-details-lock-code": "Код доступа",
     "cards-page-organization-booking-details-payed-with": "Оплачено",
     "cards-page-organization-booking-details-purpose": "Цель",
+    "cards-page-organization-booking-details-section-time": "Время",
+    "cards-page-organization-booking-details-section-people-purpose": "Люди и цель",
+    "cards-page-organization-booking-details-section-payment": "Оплата",
     "cards-page-organization-booking-details-share-link-title": "Ссылка на бронирование",
     "cards-page-organization-booking-details-start-time": "Начало"
   }

@@ -18,6 +18,12 @@
     "cards-page-organization-booking-create-pay-with-validation-error": "Недостатньо кредитів для резервації. Отримайте більше кредитів і спробуйте ще раз.",
     "cards-page-organization-booking-create-purpose": "Мета",
     "cards-page-organization-booking-create-purpose-placeholder": "Вкажіть мету",
+    "cards-page-organization-booking-create-section-time": "Час",
+    "cards-page-organization-booking-create-section-time-min": "Мінімум",
+    "cards-page-organization-booking-create-section-time-max": "Максимум",
+    "cards-page-organization-booking-create-section-people-purpose": "Люди й мета",
+    "cards-page-organization-booking-create-section-people-capacity": "Місткість",
+    "cards-page-organization-booking-create-section-payment": "Оплата",
     "cards-page-organization-booking-create-start-time": "Початок",
     "cards-page-organization-booking-create-title": "Нова резервація"
   }

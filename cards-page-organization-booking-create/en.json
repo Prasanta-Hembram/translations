@@ -14,11 +14,17 @@
     "cards-page-organization-booking-create-role-admin": "Administrator",
     "cards-page-organization-booking-create-role-moderator": "Moderator",
     "cards-page-organization-booking-create-role-member": "Member",
-    "cards-page-organization-booking-create-start-time": "Starting",
     "cards-page-organization-booking-create-pay-with": "Pay with",
     "cards-page-organization-booking-create-pay-with-validation-error": "You don't have enough credits to make this booking. Please get more credits and try again.",
     "cards-page-organization-booking-create-purpose": "Purpose",
     "cards-page-organization-booking-create-purpose-placeholder": "Add purpose",
+    "cards-page-organization-booking-create-section-time": "Time",
+    "cards-page-organization-booking-create-section-time-min": "Minimum",
+    "cards-page-organization-booking-create-section-time-max": "Maximum",
+    "cards-page-organization-booking-create-section-people-purpose": "People & Purpose",
+    "cards-page-organization-booking-create-section-people-capacity": "Capacity",
+    "cards-page-organization-booking-create-section-payment": "Payment",
+    "cards-page-organization-booking-create-start-time": "Starting",
     "cards-page-organization-booking-create-title": "New booking"
   }
 }
