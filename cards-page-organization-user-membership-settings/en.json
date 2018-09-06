@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-page-organization-user-membership-settings-active-plan-title": "Active Plan",
+    "cards-page-organization-user-membership-settings-balance-title": "Remaining Credits",
+    "cards-page-organization-user-membership-settings-button-plan-assign": "Assign plan",
     "cards-page-organization-user-membership-settings-balance-permanent-credits-title": "Credits",
     "cards-page-organization-user-membership-settings-balance-permanent-credits-desc": "These credits never expire.",
     "cards-page-organization-user-membership-settings-balance-temporary-credits-title": "Expiring Сredits",
@@ -10,7 +12,6 @@
     "cards-page-organization-user-membership-settings-button-history": "Balance History",
     "cards-page-organization-user-membership-settings-button-give-title": "Give",
     "cards-page-organization-user-membership-settings-button-money-give-title": "Give",
-    "cards-page-organization-user-membership-settings-balance-title": "Remaining Credits",
     "cards-page-organization-user-membership-settings-cash-balance-title": "Cash Balance",
     "cards-page-organization-user-membership-settings-delete-user-action-sheet": "Remove user from workspace",
     "cards-page-organization-user-membership-settings-title": "Membership Settings",

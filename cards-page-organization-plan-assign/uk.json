@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-organization-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено. 😕",
+    "cards-page-organization-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
+    "cards-page-organization-plan-assign-period-from-title": "Початок",
+    "cards-page-organization-plan-assign-plan-description": "Опис плану",
+    "cards-page-organization-plan-assign-button-label": "Призначити",
+    "cards-page-organization-plan-assign-plan-title": "План",
+    "cards-page-organization-plan-assign-period-title": "Період",
+    "cards-page-organization-plan-assign-button-for-price": "Призначити за {price}",
+    "cards-page-organization-plan-assign-button-for-free": "Призначити безкоштовно",
+    "cards-page-organization-plan-assign-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
+    "cards-page-organization-plan-assign-plan-price-money": "Ціна, {currencySymbol}",
+    "cards-page-organization-plan-assign-plan-price-points": "Кредити, {pointEmoji}",
+    "cards-page-organization-plan-assign-title": "Призначити план"
+  }
+}

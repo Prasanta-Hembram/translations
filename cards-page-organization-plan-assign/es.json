@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-organization-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada. 😕",
+    "cards-page-organization-plan-assign-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
+    "cards-page-organization-plan-assign-period-from-title": "Desde",
+    "cards-page-organization-plan-assign-plan-description": "Descripción del plan",
+    "cards-page-organization-plan-assign-button-label": "Asignar",
+    "cards-page-organization-plan-assign-plan-title": "Plan",
+    "cards-page-organization-plan-assign-period-title": "Período",
+    "cards-page-organization-plan-assign-button-for-price": "Asignar por {price}",
+    "cards-page-organization-plan-assign-button-for-free": "Asignar gratis",
+    "cards-page-organization-plan-assign-permission-denied": "No tienes permiso para acceder a esta página.",
+    "cards-page-organization-plan-assign-plan-price-money": "Precio, {currencySymbol}",
+    "cards-page-organization-plan-assign-plan-price-points": "Precio, {pointEmoji}",
+    "cards-page-organization-plan-assign-title": "Asignar plan"
+  }
+}

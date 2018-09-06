@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-user-membership-settings-active-plan-title": "회원의 멤버십 플랜",
     "cards-page-organization-user-membership-settings-balance-title": "크레딧 잔액",
+    "cards-page-organization-user-membership-settings-button-plan-assign": "플랜 부여하기",
     "cards-page-organization-user-membership-settings-balance-permanent-credits-title": "크레딧",
     "cards-page-organization-user-membership-settings-balance-permanent-credits-desc": "이 크레딧은 만료되지 않습니다.",
     "cards-page-organization-user-membership-settings-balance-temporary-credits-title": "만료할 크레딧",

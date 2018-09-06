@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-organization-plan-assign-error-not-found": "This page may not exist or may have been removed. 😕",
+    "cards-page-organization-plan-assign-error-selected-admin": "Can't assign a plan to admin or moderator.",
+    "cards-page-organization-plan-assign-period-from-title": "Starting",
+    "cards-page-organization-plan-assign-plan-description": "Plan description",
+    "cards-page-organization-plan-assign-button-label": "Assign",
+    "cards-page-organization-plan-assign-plan-title": "Plan",
+    "cards-page-organization-plan-assign-period-title": "Period",
+    "cards-page-organization-plan-assign-button-for-price": "Assign for {price}",
+    "cards-page-organization-plan-assign-button-for-free": "Assign for free",
+    "cards-page-organization-plan-assign-permission-denied": "You don't have permission to access this page.",
+    "cards-page-organization-plan-assign-plan-price-money": "Price, {currencySymbol}",
+    "cards-page-organization-plan-assign-plan-price-points": "Credits, {pointEmoji}",
+    "cards-page-organization-plan-assign-title": "Assign plan"
+  }
+}

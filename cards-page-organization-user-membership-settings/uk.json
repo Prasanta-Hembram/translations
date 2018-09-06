@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-user-membership-settings-active-plan-title": "Активний план",
     "cards-page-organization-user-membership-settings-balance-title": "Залишок кредитів",
+    "cards-page-organization-user-membership-settings-button-plan-assign": "Призначити план",
     "cards-page-organization-user-membership-settings-balance-permanent-credits-title": "Кредити",
     "cards-page-organization-user-membership-settings-balance-permanent-credits-desc": "Термін дії цього виду кредитів ніколи не стікає.",
     "cards-page-organization-user-membership-settings-balance-temporary-credits-title": "Кредити з обмеженим терміном дії",

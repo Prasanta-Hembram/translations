@@ -1,0 +1,17 @@
+{
+  "data": {
+    "cards-page-organization-plan-assign-error-not-found": "Эта страница не существует или же была удалена. 😕",
+    "cards-page-organization-plan-assign-error-selected-admin": "Невозможно присвоить план администратору или модератору.",
+    "cards-page-organization-plan-assign-period-from-title": "Начало",
+    "cards-page-organization-plan-assign-plan-description": "Описание плана",
+    "cards-page-organization-plan-assign-button-label": "Присвоить",
+    "cards-page-organization-plan-assign-plan-title": "План",
+    "cards-page-organization-plan-assign-period-title": "Период",
+    "cards-page-organization-plan-assign-button-for-price": "Присвоить за {price}",
+    "cards-page-organization-plan-assign-button-for-free": "Присвоить бесплатно",
+    "cards-page-organization-plan-assign-permission-denied": "Нет прав доступа для просмотра этой страницы.",
+    "cards-page-organization-plan-assign-plan-price-money": "Цена, {currencySymbol}",
+    "cards-page-organization-plan-assign-plan-price-points": "Кредиты, {pointEmoji}",
+    "cards-page-organization-plan-assign-title": "Присвоить план"
+  }
+}
