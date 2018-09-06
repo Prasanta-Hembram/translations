@@ -3,7 +3,6 @@
     "cards-page-organization-properties-subscribe-copied-to-clipboard": "Скопировано в буфер обмена",
     "cards-page-organization-properties-subscribe-description": "Воспользуйтесь этой ссылкой чтобы видеть свои andCards бронирования в личном календаре. Инструкции по настройке популярных сервисов:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
     "cards-page-organization-properties-subscribe-generate-new-url-button": "Сгенерировать новую ссылку",
-    "cards-page-organization-properties-subscribe-generate-new-url-description": "Если вы сгенерируете новую ссылку, старая больше не будет работать.",
     "cards-page-organization-properties-subscribe-service-apple-calendar": "Календарь Apple",
     "cards-page-organization-properties-subscribe-service-google-calendar": "Календарь Google",
     "cards-page-organization-properties-subscribe-service-outlook": "Календарь Outlook",
