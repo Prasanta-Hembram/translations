@@ -2,6 +2,16 @@
   "data": {
     "cards-page-organization-property-details-hour": "hora",
     "cards-page-organization-property-details-seats": "asientos",
-    "cards-page-organization-property-details-title": "Acerca de: {propertyName}"
+    "cards-page-organization-property-details-description": "Descripción",
+    "cards-page-organization-property-details-description-placeholder": "Descripción del tipo de su habitación (opcional)",
+    "cards-page-organization-property-details-max-time": "Tiempo máximo",
+    "cards-page-organization-property-details-min-time": "Tiempo mínimo",
+    "cards-page-organization-property-details-name": "Nombre",
+    "cards-page-organization-property-details-name-placeholder": "Ingrese su nombre",
+    "cards-page-organization-property-details-number-of-seats": "Numero de asientos",
+    "cards-page-organization-property-details-price-money": "Precio, {currencySymbol}/hora", 
+    "cards-page-organization-property-details-price-points": "Precio, {pointEmoji}/hora",
+    "cards-page-organization-property-details-title": "Acerca de: {propertyName}",
+    "cards-page-organization-property-details-title-edit": "Editar Habitación"
   }
 }

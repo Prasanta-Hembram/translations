@@ -2,6 +2,16 @@
   "data": {
     "cards-page-organization-property-details-hour": "시간",
     "cards-page-organization-property-details-seats": "좌석",
-    "cards-page-organization-property-details-title": "{propertyName} 정보"
+    "cards-page-organization-property-details-description": "설명",
+    "cards-page-organization-property-details-description-placeholder": "설명입력(선택사항)",
+    "cards-page-organization-property-details-max-time": "최대예약시간",
+    "cards-page-organization-property-details-min-time": "최소예약시간",
+    "cards-page-organization-property-details-name": "시설 명",
+    "cards-page-organization-property-details-name-placeholder": "시설 명 입력하기",
+    "cards-page-organization-property-details-number-of-seats": "좌석 수",
+    "cards-page-organization-property-details-price-money": "시간당 {currencySymbol}", 
+    "cards-page-organization-property-details-price-points": "시간당 {pointEmoji}",
+    "cards-page-organization-property-details-title": "{propertyName} 정보",
+    "cards-page-organization-property-details-title-edit": "시설설정"
   }
 }
