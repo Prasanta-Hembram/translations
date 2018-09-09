@@ -2,6 +2,10 @@
   "data": {
     "cards-page-organization-plan-details-auto-renew": "Поновлювати автоматично",
     "cards-page-organization-plan-details-auto-renew-description": "Гроші зніматимуться автоматично, допоки ви не скасуєте підписку.",
+    "cards-page-organization-plan-details-delete-failure": "Не вдалося видалити план 🙁",
+    "cards-page-organization-plan-details-delete-plan": "Видалити план",
+    "cards-page-organization-plan-details-delete-repeat": "Спробувати знову",
+    "cards-page-organization-plan-details-delete-plan-reject": "Неможливо видалити: план використовується",
     "cards-page-organization-plan-details-empty": "Цього плану не існує, або ж він був видалений. 😕",
     "cards-page-organization-plan-details-period-from-title": "З",
     "cards-page-organization-plan-details-period-pay-with-title": "Оплатити",

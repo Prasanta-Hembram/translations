@@ -1,10 +1,6 @@
 {
   "data": {
     "cards-page-organization-plan-edit-credits": "Кредити, {pointEmoji}",
-    "cards-page-organization-plan-edit-delete-failure": "Не вдалося видалити план 🙁",
-    "cards-page-organization-plan-edit-delete-plan": "Видалити план",
-    "cards-page-organization-plan-edit-delete-repeat": "Спробувати знову",
-    "cards-page-organization-plan-edit-delete-plan-reject": "Неможливо видалити: план використовується",
     "cards-page-organization-plan-edit-description": "Новий тариф буде застосовано з наступного платіжного періоду.",
     "cards-page-organization-plan-edit-free-trial-day": "Безкоштовний пробний день",
     "cards-page-organization-plan-edit-note": "Опис планy",

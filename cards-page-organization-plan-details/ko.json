@@ -2,6 +2,10 @@
   "data": {
     "cards-page-organization-plan-details-auto-renew": "멤버십 구독 자동갱신",
     "cards-page-organization-plan-details-auto-renew-description": "구독 취소를 하지 않는 한, 지속적으로 요금이 부과됩니다.",
+    "cards-page-organization-plan-details-delete-failure": "플랜 삭제 실패 🙁",
+    "cards-page-organization-plan-details-delete-plan": "플랜 삭제",
+    "cards-page-organization-plan-details-delete-repeat": "다시시도",
+    "cards-page-organization-plan-details-delete-plan-reject": "삭제 실패 : 플랜 사용 중",
     "cards-page-organization-plan-details-empty": "이 사항은 변경되거나 없어질 수 있습니다 😕",
     "cards-page-organization-plan-details-period-from-title": "시작",
     "cards-page-organization-plan-details-period-pay-with-title": "결제 수단",
