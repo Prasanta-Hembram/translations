@@ -7,6 +7,7 @@
     "cards-page-organization-booking-create-book": "Зарезервувати",
     "cards-page-organization-booking-create-book-by": "Власник",
     "cards-page-organization-booking-create-book-by-me": "{fullName} (я)",
+    "cards-page-organization-booking-create-book-for-cash": "Зарезервувати за {price}",
     "cards-page-organization-booking-create-book-for-free": "Зарезервувати безкоштовно",
     "cards-page-organization-booking-create-book-for-points": "Зарезервувати за {balance}",
     "cards-page-organization-booking-create-end-time": "Кінець",

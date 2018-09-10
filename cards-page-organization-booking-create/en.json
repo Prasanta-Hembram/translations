@@ -7,6 +7,7 @@
     "cards-page-organization-booking-create-book": "Book",
     "cards-page-organization-booking-create-book-by": "Booker",
     "cards-page-organization-booking-create-book-by-me": "{fullName} (me)",
+    "cards-page-organization-booking-create-book-for-cash": "Book for {price}",
     "cards-page-organization-booking-create-book-for-free": "Book for free",
     "cards-page-organization-booking-create-book-for-points": "Book for {balance}",
     "cards-page-organization-booking-create-end-time": "Ending",

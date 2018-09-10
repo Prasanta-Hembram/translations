@@ -7,6 +7,7 @@
     "cards-page-organization-booking-create-book": "Reservar",
     "cards-page-organization-booking-create-book-by": "Booker",
     "cards-page-organization-booking-create-book-by-me": "{fullName} (yo)",
+    "cards-page-organization-booking-create-book-for-cash": "Reservar por {price}",
     "cards-page-organization-booking-create-book-for-free": "Reservar gratis",
     "cards-page-organization-booking-create-book-for-points": "Reservar por {balance}",
     "cards-page-organization-booking-create-end-time": "Finalización",

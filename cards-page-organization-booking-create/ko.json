@@ -7,6 +7,7 @@
     "cards-page-organization-booking-create-book": "예약하기",
     "cards-page-organization-booking-create-book-by": "예약자",
     "cards-page-organization-booking-create-book-by-me": "{fullName} (본인)",
+    "cards-page-organization-booking-create-book-for-cash": "{price}로 예약하기",
     "cards-page-organization-booking-create-book-for-free": "무료로 예약하기",
     "cards-page-organization-booking-create-book-for-points": "{balance}로 예약하기",
     "cards-page-organization-booking-create-end-time": "종료",
