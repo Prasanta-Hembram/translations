@@ -7,6 +7,7 @@
     "cards-page-organization-user-membership-settings-balance-permanent-credits-desc": "These credits never expire.",
     "cards-page-organization-user-membership-settings-balance-temporary-credits-title": "Expiring Сredits",
     "cards-page-organization-user-membership-settings-balance-temporary-credits-desc": "These credits expire together with membership plan on {date}.",
+    "cards-page-organization-user-membership-settings-button-booking":  "Booking History",
     "cards-page-organization-user-membership-settings-button-charge-title": "Charge",
     "cards-page-organization-user-membership-settings-button-clear-title": "Clear",
     "cards-page-organization-user-membership-settings-button-history": "Balance History",

@@ -3,6 +3,7 @@
     "cards-page-organization-plans-active-plan-ends": "{daysLeft} 종료",
     "cards-page-organization-plans-available-plans-found": "멤버십 플랜",
     "cards-page-organization-plans-balance-title": "전액",
+    "cards-page-organization-plans-button-balance-title": "결제 내역",
     "cards-page-organization-plans-create": "플랜 추가",
     "cards-page-organization-plans-expire-credits": "{pointsExpiring}은 {date}에 만료됩니다.",
     "cards-page-organization-plans-price-from": "{price} 이상",

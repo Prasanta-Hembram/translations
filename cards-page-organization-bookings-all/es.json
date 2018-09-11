@@ -2,7 +2,9 @@
   "data": {
     "cards-page-organization-bookings-all-fetch-failure": "No se pudieron mostrar todas las reservas. ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-bookings-all-default-booking-purpose": "Reserva",
+    "cards-page-organization-bookings-all-history-title": "Historial de reservas",
     "cards-page-organization-bookings-all-list-empty": "No hay reservas todavía 😢",
+    "cards-page-organization-bookings-all-permission-denied": "No tienes permiso para acceder a esta página.",
     "cards-page-organization-bookings-all-title": "Todas mis reservas"
   }
 }

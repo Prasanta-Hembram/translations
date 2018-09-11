@@ -3,6 +3,7 @@
     "cards-page-organization-plans-active-plan-ends": "Finaliza en {daysLeft}",
     "cards-page-organization-plans-available-plans-found": "Planes de membresía",
     "cards-page-organization-plans-balance-title": "Balance",
+    "cards-page-organization-plans-button-balance-title": "Historial de saldo",
     "cards-page-organization-plans-create": "Añadir plan",
     "cards-page-organization-plans-expire-credits": "{pointsExpiring} expira el {date}.",
     "cards-page-organization-plans-price-from": "Desde {price}",

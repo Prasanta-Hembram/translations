@@ -2,7 +2,9 @@
   "data": {
     "cards-page-organization-bookings-all-fetch-failure": "나의 모든 예약을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-organization-bookings-all-default-booking-purpose": "예약",
+    "cards-page-organization-bookings-all-history-title": "예약 현황",
     "cards-page-organization-bookings-all-list-empty": "아무것도 없습니다 😢",
+    "cards-page-organization-bookings-all-permission-denied": "볼 수있는 권한이 없습니다.",
     "cards-page-organization-bookings-all-title": "나의 모든 예약"
   }
 }

@@ -8,6 +8,7 @@
     "cards-page-organization-user-balance-history-money-transaction-book-refund-cash": "Скасування резервації кімнати (готівка)",
     "cards-page-organization-user-balance-history-money-transaction-membership-by-card": "Купівля тарифного плану (картка)",
     "cards-page-organization-user-balance-history-money-transaction-membership-by-cash": "Купівля тарифного плану (готівка)",
+    "cards-page-organization-user-balance-history-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Резервація кімнати (кредити)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Списано вручну адміністратором/модератором",

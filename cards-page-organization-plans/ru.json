@@ -3,6 +3,7 @@
     "cards-page-organization-plans-active-plan-ends": "Заканчивается {daysLeft}",
     "cards-page-organization-plans-available-plans-found": "Тарифные планы",
     "cards-page-organization-plans-balance-title": "Баланс",
+    "cards-page-organization-plans-button-balance-title": "История транзакций",
     "cards-page-organization-plans-create": "Добавить план",
     "cards-page-organization-plans-expire-credits": "{pointsExpiring} истекают {date}.",
     "cards-page-organization-plans-price-from": "От {price}",
