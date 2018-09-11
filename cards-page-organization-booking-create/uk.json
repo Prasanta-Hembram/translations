@@ -2,7 +2,6 @@
   "data": {
     "cards-page-organization-booking-create-balance-action-button-point": "Кредитами ({balance})",
     "cards-page-organization-booking-create-balance-action-button-money": "Готівкою ({price})",
-    "cards-page-organization-booking-create-balance-admin-text": "{permission} може бронювати кімнату безкоштовно.",
     "cards-page-organization-booking-create-balance-description-text": "У випадку відміни резервації до її початку 100% коштів буде повернено на ваш рахунок.",
     "cards-page-organization-booking-create-book": "Зарезервувати",
     "cards-page-organization-booking-create-book-by": "Власник",
@@ -11,6 +10,7 @@
     "cards-page-organization-booking-create-book-for-free": "Зарезервувати безкоштовно",
     "cards-page-organization-booking-create-book-for-points": "Зарезервувати за {balance}",
     "cards-page-organization-booking-create-end-time": "Кінець",
+    "cards-page-organization-booking-create-free": "Безкоштовно",
     "cards-page-organization-booking-create-full-day-description": "Мінімальний період резервації - 1 день.",
     "cards-page-organization-booking-create-role-admin": "Адміністратор",
     "cards-page-organization-booking-create-role-moderator": "Модератор",

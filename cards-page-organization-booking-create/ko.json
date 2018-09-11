@@ -2,7 +2,6 @@
   "data": {
     "cards-page-organization-booking-create-balance-action-button-point": "크레딧 ({balance})",
     "cards-page-organization-booking-create-balance-action-button-money": "현금 ({price})",
-    "cards-page-organization-booking-create-balance-admin-text": "{permission}는 무제한으로 예약가능합니다.",
     "cards-page-organization-booking-create-balance-description-text": "예약 시간 전에 취소시 100% 환불.",
     "cards-page-organization-booking-create-book": "예약하기",
     "cards-page-organization-booking-create-book-by": "예약자",
@@ -11,6 +10,7 @@
     "cards-page-organization-booking-create-book-for-free": "무료로 예약하기",
     "cards-page-organization-booking-create-book-for-points": "{balance}로 예약하기",
     "cards-page-organization-booking-create-end-time": "종료",
+    "cards-page-organization-booking-create-free": "무료",
     "cards-page-organization-booking-create-full-day-description": "최소 예약 기간은 1일입니다.",
     "cards-page-organization-booking-create-role-admin": "관리자",
     "cards-page-organization-booking-create-role-moderator": "중간관리자",
