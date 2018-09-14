@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-plans-active-plan-error": "Обробка платежу...",
     "cards-page-organization-plans-active-plan-ends": "Закінчується {daysLeft}",
     "cards-page-organization-plans-available-plans-found": "Тарифні плани",
     "cards-page-organization-plans-balance-title": "Баланс",
@@ -19,6 +20,8 @@
     "cards-page-organization-plans-role-info-admin": "Адміністратор може налаштовувати та керувати всім в коворкінгу.",
     "cards-page-organization-plans-role-info-moderator": "Модератор може керувати контентом та командами в коворкінгу.",
     "cards-page-organization-plans-role-info-member": "Учасник може переглядати контент в коворкінгу.",
+    "cards-page-organization-plans-status-3d-secure": "Статус: необхідно підтвердити платіж",
+    "cards-page-organization-plans-status-pending": "Статус: обробка",
     "cards-page-organization-plans-seats-in-left": "{available} / {quantity} доступно",
     "cards-page-organization-plans-seats-available": "{numberOfSeats} доступно",
     "cards-page-organization-plans-seats-only-left": "Залишилось лише {numberOfSeats}",

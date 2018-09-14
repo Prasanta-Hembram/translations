@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-plans-active-plan-ends": "Ends {daysLeft}",
+    "cards-page-organization-plans-active-plan-error": "Processing payment...",
     "cards-page-organization-plans-available-plans-found": "Membership Plans",
     "cards-page-organization-plans-balance-title": "Balance",
     "cards-page-organization-plans-button-balance-title": "Balance History",
@@ -19,6 +20,8 @@
     "cards-page-organization-plans-role-info-admin": "Administrator can manage all content and change settings of the workspace.",
     "cards-page-organization-plans-role-info-moderator": "Moderator can manage content and teams in the workspace.",
     "cards-page-organization-plans-role-info-member": "Member can view relevant content and teams in the workspace.",
+    "cards-page-organization-plans-status-3d-secure": "Status: 3-D Secure Required",
+    "cards-page-organization-plans-status-pending": "Status: Pending",
     "cards-page-organization-plans-seats-in-left": "{available} / {quantity} left",
     "cards-page-organization-plans-seats-available": "{numberOfSeats} available",
     "cards-page-organization-plans-seats-only-left": "Only {numberOfSeats} left",

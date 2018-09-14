@@ -1,21 +1,28 @@
 {
   "data": {
+    "cards-page-organization-plan-details-add-card" : "Add card",
     "cards-page-organization-plan-details-auto-renew": "Auto-renew",
     "cards-page-organization-plan-details-auto-renew-description": "You will be charged every month unless you cancel the subscription.",
+    "cards-page-organization-plan-details-card-title-phone-number" : "Card Number",
+    "cards-page-organization-plan-details-card-title-email": "Email",
+    "cards-page-organization-plan-details-card-title-expiry" : "Expiry",
+    "cards-page-organization-plan-details-card-title-cvv" : "CVV ",
     "cards-page-organization-plan-details-delete-failure": "Failed to delete plan. 🙁",
     "cards-page-organization-plan-details-delete-plan": "Delete plan",
-    "cards-page-organization-plan-details-delete-plan-reject": "Unable to delete: plan in use",
     "cards-page-organization-plan-details-delete-repeat": "Try again",
+    "cards-page-organization-plan-details-email-placeholder": "Type email",
     "cards-page-organization-plan-details-empty": "This plan may not exist or may have been removed. 😕",
     "cards-page-organization-plan-details-period-from-title": "From",
+    "cards-page-organization-plan-details-period-pay-for-free": "Free",
+    "cards-page-organization-plan-details-period-pay-alert-success": "Plan is purchased",
     "cards-page-organization-plan-details-period-pay-with-title": "Pay with",
-    "cards-page-organization-plan-details-period-pay-with-cash-title": "Cash",
-    "cards-page-organization-plan-details-period-pay-with-cash-description": "Visit the front desk to pay with cash by person and find out about cancellation policies.",
+    "cards-page-organization-plan-details-period-payed-with-title": "Payed with",
+    "cards-page-organization-plan-details-period-payed-with-card": "Card",
     "cards-page-organization-plan-details-period-title": "Period",
     "cards-page-organization-plan-details-subscribe": "Subscribe",
     "cards-page-organization-plan-details-subscribe-for-free": "Subscribe for free",
     "cards-page-organization-plan-details-subscribe-for-price": "Subscribe for {price}",
     "cards-page-organization-plan-details-title": "Purchase plan",
-    "cards-page-organization-plan-details-validation-error": "You don't have enough cash to get this plan. Please refill your balance and try again."
+    "cards-page-organization-plan-details-title-for-admin": "Plan details"
   }
 }

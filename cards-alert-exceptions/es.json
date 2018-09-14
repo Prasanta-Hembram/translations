@@ -1,10 +1,16 @@
 {
   "data": {
+    "cards-alert-card-number-is-invalid" : "El número de la tarjeta está vacío o inválido",
+    "cards-alert-card-cvv-is-invalid" : "CVV está vacío o no es válido",
+    "cards-alert-card-expiration-is-invalid": "La fecha de caducidad está vacía o no es válida",
+    "cards-alert-card-is-missing": "La tarjeta no funcionó.",
     "cards-alert-last-integration-delete": "No se puede eliminar el último método de inicio de sesión",
     "cards-alert-no-enough-cash": "No hay suficiente efectivo",
     "cards-alert-no-internet": "Sin conexión a Internet",
+    "cards-alert-plan-delete-reject": "No se puede eliminar: plan en uso",
     "cards-alert-plan-periods-empty": "El plan debe tener al menos 1 período",
     "cards-alert-plan-sold-out": "El plan está agotado",
+    "cards-alert-payment-failure": "Fracaso de pago",
     "cards-alert-sns-user-exists": "Esta cuenta ya existe"
   }
 }

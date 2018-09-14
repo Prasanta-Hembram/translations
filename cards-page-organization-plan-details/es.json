@@ -1,21 +1,28 @@
 {
   "data": {
+    "cards-page-organization-plan-details-add-card" : "Agregar tarjeta",
     "cards-page-organization-plan-details-auto-renew": "Renovar subscripción automáticamente",
     "cards-page-organization-plan-details-auto-renew-description": "Seguirá recibiendo cobros regularmente a menos que cancele la subscripción.",
+    "cards-page-organization-plan-details-card-title-phone-number" : "Número de tarjeta",
+    "cards-page-organization-plan-details-card-title-email": "Email",
+    "cards-page-organization-plan-details-card-title-expiry" : "Caducidad",
+    "cards-page-organization-plan-details-card-title-cvv" : "CVV",
     "cards-page-organization-plan-details-delete-failure": "Error al eliminar el plan. 🙁",
     "cards-page-organization-plan-details-delete-plan": "Eliminar plan",
-    "cards-page-organization-plan-details-delete-plan-reject": "No se puede eliminar: plan en uso",
     "cards-page-organization-plan-details-delete-repeat": "Inténtalo de nuevo",
+    "cards-page-organization-plan-details-email-placeholder": "Ingrese correo electrónico",
     "cards-page-organization-plan-details-empty": "Este plan no existe o puede haber sido eliminado 😕",
     "cards-page-organization-plan-details-period-from-title": "Desde",
+    "cards-page-organization-plan-details-period-pay-for-free": "Gratis",
+    "cards-page-organization-plan-details-period-pay-alert-success": "Plan es comprado",
     "cards-page-organization-plan-details-period-pay-with-title": "Page con",
-    "cards-page-organization-plan-details-period-pay-with-cash-title": "Dinero",
-    "cards-page-organization-plan-details-period-pay-with-cash-description": "Visite el mostrador para pagar en efectivo en persona y averigue sobre las políticas de cancelación.",
+    "cards-page-organization-plan-details-period-payed-with-title": "Page con",
+    "cards-page-organization-plan-details-period-payed-with-card": "Tarjeta",
     "cards-page-organization-plan-details-period-title": "Periodo",
     "cards-page-organization-plan-details-subscribe": "Subscribirse",
     "cards-page-organization-plan-details-subscribe-for-free": "Subscribirse gratis",
     "cards-page-organization-plan-details-subscribe-for-price": "Subscribirse por {price}",
     "cards-page-organization-plan-details-title": "Adquirir un plan de membresía",
-    "cards-page-organization-plan-details-validation-error": "No tienes suficiente efectivo. Por favor rellena tu saldo y vuelve a intentarlo."
+    "cards-page-organization-plan-details-title-for-admin": "Detalles del plan"
   }
 }

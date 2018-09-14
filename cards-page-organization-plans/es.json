@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-plans-active-plan-ends": "Finaliza en {daysLeft}",
+    "cards-page-organization-plans-active-plan-error": "Procesando el pago...",
     "cards-page-organization-plans-available-plans-found": "Planes de membresía",
     "cards-page-organization-plans-balance-title": "Balance",
     "cards-page-organization-plans-button-balance-title": "Historial de saldo",
@@ -19,6 +20,8 @@
     "cards-page-organization-plans-role-info-admin": "El administrador puedo gestionar todo el contenido y cambiar los ajustes del area de trabajo ",
     "cards-page-organization-plans-role-info-moderator": "El moderador puede gestionar el contenido y los grupos en el lugar del trabajo",
     "cards-page-organization-plans-role-info-member": "Los miembros pueden ver contenido relevante y grupos en el lugar de trabajo.",
+    "cards-page-organization-plans-status-3d-secure": "Estado: Seguro 3-D requerido",
+    "cards-page-organization-plans-status-pending": "Estado: Pendiente",
     "cards-page-organization-plans-seats-in-left": "{available} / {quantity} disponibles",
     "cards-page-organization-plans-seats-available": "{numberOfSeats} disponibles",
     "cards-page-organization-plans-seats-only-left": "Solo quedan {numberOfSeats}",

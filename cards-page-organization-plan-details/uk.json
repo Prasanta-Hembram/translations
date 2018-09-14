@@ -1,21 +1,28 @@
 {
   "data": {
+    "cards-page-organization-plan-details-add-card": "Додати картку",
     "cards-page-organization-plan-details-auto-renew": "Поновлювати автоматично",
     "cards-page-organization-plan-details-auto-renew-description": "Гроші зніматимуться автоматично, допоки ви не скасуєте підписку.",
+    "cards-page-organization-plan-details-card-title-phone-number": "Номер картки",
+    "cards-page-organization-plan-details-card-title-email": "Email",
+    "cards-page-organization-plan-details-card-title-expiry": "Термін дії",
+    "cards-page-organization-plan-details-card-title-cvv": "CVV",
     "cards-page-organization-plan-details-delete-failure": "Не вдалося видалити план 🙁",
     "cards-page-organization-plan-details-delete-plan": "Видалити план",
     "cards-page-organization-plan-details-delete-repeat": "Спробувати знову",
-    "cards-page-organization-plan-details-delete-plan-reject": "Неможливо видалити: план використовується",
+    "cards-page-organization-plan-details-email-placeholder": "Уведіть email",
     "cards-page-organization-plan-details-empty": "Цього плану не існує, або ж він був видалений. 😕",
-    "cards-page-organization-plan-details-period-from-title": "З",
+    "cards-page-organization-plan-details-period-from-title": "Початок",
+    "cards-page-organization-plan-details-period-pay-alert-success": "Купівля плану успішна.",
+    "cards-page-organization-plan-details-period-pay-for-free": "Безкоштовно",
     "cards-page-organization-plan-details-period-pay-with-title": "Оплатити",
-    "cards-page-organization-plan-details-period-pay-with-cash-title": "Готівкою",
-    "cards-page-organization-plan-details-period-pay-with-cash-description": "Погасіть борг напряму в адміністратора на ресепшені.",
+    "cards-page-organization-plan-details-period-payed-with-title": "Оплачено",
+    "cards-page-organization-plan-details-period-payed-with-card": "Карткою",
     "cards-page-organization-plan-details-period-title": "Період",
     "cards-page-organization-plan-details-subscribe": "Підписатись",
     "cards-page-organization-plan-details-subscribe-for-free": "Підписатись безкоштовно",
     "cards-page-organization-plan-details-subscribe-for-price": "Підписатись за {price}",
     "cards-page-organization-plan-details-title": "Підписатись на план",
-    "cards-page-organization-plan-details-validation-error": "Недостатньо готівки. Поповніть рахунок і спробуйте ще раз."
+    "cards-page-organization-plan-details-title-for-admin": "Деталі плану"
   }
 }

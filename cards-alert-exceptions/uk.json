@@ -1,10 +1,16 @@
 {
   "data": {
+    "cards-alert-card-number-is-invalid": "Номер картки порожній або недійсний",
+    "cards-alert-card-cvv-is-invalid": "CVV-код порожній або недійсний",
+    "cards-alert-card-expiration-is-invalid": "Термін дії картки порожній або недійсний",
+    "cards-alert-card-is-missing": "Картка не пройшла.",
     "cards-alert-last-integration-delete": "Останній метод входу не може бути видалений",
     "cards-alert-no-enough-cash": "Недостатньо готівки",
     "cards-alert-no-internet": "Немає інтернет-з'єднання",
+    "cards-alert-plan-delete-reject": "Неможливо видалити: план використовується",
     "cards-alert-plan-periods-empty": "Потрібно вибрати хоча б один період",
     "cards-alert-plan-sold-out": "План розпродано",
+    "cards-alert-payment-failure": "Оплата не пройшла",
     "cards-alert-sns-user-exists": "Цей акаунт вже використовується"
   }
 }
