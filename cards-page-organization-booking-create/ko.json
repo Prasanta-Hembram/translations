@@ -16,7 +16,7 @@
     "cards-page-organization-booking-create-role-moderator": "중간관리자",
     "cards-page-organization-booking-create-role-member": "회원",
     "cards-page-organization-booking-create-pay-with": "결제수단",
-    "cards-page-organization-booking-create-pay-with-validation-error": "크레딧 부족. 관리자에서 크레딧을 받으시고 다시 시도하세요.",
+    "cards-page-organization-booking-create-pay-with-validation-error": "크레딧 부족. 다른 결제 방법을 선택하세요.",
     "cards-page-organization-booking-create-purpose": "목적",
     "cards-page-organization-booking-create-purpose-placeholder": "목적 입력하기",
     "cards-page-organization-booking-create-section-time": "시간",
