@@ -16,7 +16,7 @@
     "cards-page-organization-booking-create-role-moderator": "Moderador",
     "cards-page-organization-booking-create-role-member": "Miembro",
     "cards-page-organization-booking-create-pay-with": "Page con",
-    "cards-page-organization-booking-create-pay-with-validation-error": "Desafortunadamente no tiene suficientes créditos para realizar esta reserva. Por favor, contacte a un gerente para obtener mas créditos.",
+    "cards-page-organization-booking-create-pay-with-validation-error": "No hay suficientes créditos para hacer esta reserva. Por favor use otro método de pago.",
     "cards-page-organization-booking-create-purpose": "Propósito",
     "cards-page-organization-booking-create-purpose-placeholder": "Agregar propósito",
     "cards-page-organization-booking-create-section-time": "Hora",
