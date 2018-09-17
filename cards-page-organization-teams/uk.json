@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-teams-directory-title": "Каталог",
     "cards-page-organization-teams-error-not-found": "Перевірте з'єднання з інтернетом.",
     "cards-page-organization-teams-individuals-title": "Індивідуальні учасники",
     "cards-page-organization-teams-search-placeholder": "Пошук серед {numberOfTeams} команд та {numberOfMembers} учасників",

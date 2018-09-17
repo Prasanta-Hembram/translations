@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-page-settings-profile-card-edit-title": "Editing data",
     "cards-page-settings-profile-card-photo-crop": "Crop photo",
     "cards-page-settings-profile-card-photo-delete": "Delete Photo",
-    "cards-page-settings-profile-card-shared-basic-information-placeholder": "Add information"
+    "cards-page-settings-profile-card-shared-basic-information-placeholder": "Add information",
+    "cards-page-settings-profile-card-title": "My profile"
   }
 }

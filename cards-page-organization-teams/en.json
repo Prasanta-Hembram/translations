@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-page-organization-teams-directory-title": "Directory",
     "cards-page-organization-teams-error-not-found": "No internet",
     "cards-page-organization-teams-individuals-title": "Individuals",
     "cards-page-organization-teams-search-placeholder": "Search {numberOfTeams} teams and {numberOfMembers} members",
