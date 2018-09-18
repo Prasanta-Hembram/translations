@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-alert-confirmation-facebook-disconnect-yes": "Yes, disconnect",
-    "cards-alert-confirmation-facebook-disconnect-no": "Cancel",
-    "cards-alert-confirmation-facebook-disconnect-title": "Disconnect Facebook account",
-    "cards-alert-confirmation-facebook-disconnect-text": "If you proceed, you will no be able to login with Facebook account anymore."
+    "cards-alert-confirmation-facebook-disconnect-yes": "Sí, desconectar",
+    "cards-alert-confirmation-facebook-disconnect-no": "Cancelar",
+    "cards-alert-confirmation-facebook-disconnect-title": "Desconectar cuenta de Facebook",
+    "cards-alert-confirmation-facebook-disconnect-text": "Si continúa, ya no podrá iniciar sesión en Facebook."
   }
 }
