@@ -1,17 +1,10 @@
 {
   "data": {
     "cards-page-organization-property-details-hour": "ч.",
-    "cards-page-organization-property-details-seats": "мест",
     "cards-page-organization-property-details-description": "Описание",
-    "cards-page-organization-property-details-description-placeholder": "Введите описание комнаты (не обязательно)",
-    "cards-page-organization-property-details-max-time": "Макс. время",
-    "cards-page-organization-property-details-min-time": "Мин. время",
-    "cards-page-organization-property-details-name": "Название",
-    "cards-page-organization-property-details-name-placeholder": "Добавьте название",
-    "cards-page-organization-property-details-number-of-seats": "Количество мест",
-    "cards-page-organization-property-details-price-money": "Цена, {currencySymbol}/час", 
-    "cards-page-organization-property-details-price-points": "Цена, {pointEmoji}/час",
+    "cards-page-organization-property-details-no-property": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
+    "cards-page-organization-property-details-seats": "мест",
     "cards-page-organization-property-details-title": "Подробно о {propertyName}",
-    "cards-page-organization-property-details-title-edit": "Редактировать комнату"
+    "cards-page-organization-property-details-title-default": "Подробно"
   }
 }
