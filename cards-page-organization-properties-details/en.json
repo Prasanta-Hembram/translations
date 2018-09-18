@@ -1,17 +1,10 @@
 {
   "data": {
     "cards-page-organization-property-details-hour": "hr",
-    "cards-page-organization-property-details-seats": "seats",
     "cards-page-organization-property-details-description": "Description",
-    "cards-page-organization-property-details-description-placeholder": "Type description for your room (optional)",
-    "cards-page-organization-property-details-max-time": "Max time",
-    "cards-page-organization-property-details-min-time": "Min time",
-    "cards-page-organization-property-details-name": "Name",
-    "cards-page-organization-property-details-name-placeholder": "Add name",
-    "cards-page-organization-property-details-number-of-seats": "Number of seats",
-    "cards-page-organization-property-details-price-money": "Price, {currencySymbol}/hr", 
-    "cards-page-organization-property-details-price-points": "Credits, {pointEmoji}/hr",
+    "cards-page-organization-property-details-no-property": "Couldn't show the room. Are you sure there is an internet connection?",
+    "cards-page-organization-property-details-seats": "seats",
     "cards-page-organization-property-details-title": "About: {propertyName}",
-    "cards-page-organization-property-details-title-edit": "Edit room"
+    "cards-page-organization-property-details-title-default": "About: {propertyName}"
   }
 }
