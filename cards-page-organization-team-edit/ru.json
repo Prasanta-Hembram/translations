@@ -8,7 +8,8 @@
     "cards-page-organization-team-edit-icon": "Иконка",
     "cards-page-organization-team-edit-name": "Название",
     "cards-page-organization-team-edit-name-placeholder": "Введите название",
-    "cards-page-organization-team-edit-title": "Редактировать команду",
-    "cards-page-organization-team-edit-not-found-error": "Эта команда не существует или же была удалена. 😕"
+    "cards-page-organization-team-edit-not-found-error": "Эта команда не существует или же была удалена. 😕",
+    "cards-page-organization-team-edit-permission-denied": "Нет прав доступа для просмотра этой страницы.",
+    "cards-page-organization-team-edit-title": "Редактировать команду"
   }
 }

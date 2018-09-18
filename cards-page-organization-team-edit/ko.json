@@ -8,7 +8,8 @@
     "cards-page-organization-team-edit-icon": "아이콘",
     "cards-page-organization-team-edit-name": "팀 명",
     "cards-page-organization-team-edit-name-placeholder": "팀 명 입력하기",
-    "cards-page-organization-team-edit-title": "팀 설정",
-    "cards-page-organization-team-edit-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.😕"
+    "cards-page-organization-team-edit-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.😕",
+    "cards-page-organization-team-edit-permission-denied": "볼 수있는 권한이 없습니다.",
+    "cards-page-organization-team-edit-title": "팀 설정"
   }
 }

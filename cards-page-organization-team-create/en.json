@@ -4,6 +4,7 @@
     "cards-page-organization-team-create-title": "Create team",
     "cards-page-organization-team-create-icon": "Icon",
     "cards-page-organization-team-create-name": "Name",
-    "cards-page-organization-team-create-name-placeholder": "Add name"
+    "cards-page-organization-team-create-name-placeholder": "Add name",
+    "cards-page-organization-team-create-permission-denied": "You don't have permission to access this page."
   }
 }
