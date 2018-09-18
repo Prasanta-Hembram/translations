@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-alert-confirmation-facebook-disconnect-yes": "Yes, disconnect",
-    "cards-alert-confirmation-facebook-disconnect-no": "Cancel",
-    "cards-alert-confirmation-facebook-disconnect-title": "Disconnect Facebook account",
-    "cards-alert-confirmation-facebook-disconnect-text": "If you proceed, you will no be able to login with Facebook account anymore."
+    "cards-alert-confirmation-facebook-disconnect-yes": "Так, від'єднати",
+    "cards-alert-confirmation-facebook-disconnect-no": "Скасувати",
+    "cards-alert-confirmation-facebook-disconnect-title": "Від'єжнати Facebook",
+    "cards-alert-confirmation-facebook-disconnect-text": "Якщо ви продовжите, то більше не зможете входити за допомоги Facebook."
   }
 }
