@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-confirmation-google-disconnect-yes": "Sí, desconectar",
+    "cards-alert-confirmation-google-disconnect-no": "Cancelar",
+    "cards-alert-confirmation-google-disconnect-title": "Desconectar cuenta de Google",
+    "cards-alert-confirmation-google-disconnect-text": "Si continúa, ya no podrá iniciar sesión en Google."
+  }
+}

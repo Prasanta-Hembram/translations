@@ -1,0 +1,8 @@
+{
+  "data": {
+    "cards-alert-confirmation-google-disconnect-yes": "Yes, disconnect",
+    "cards-alert-confirmation-google-disconnect-no": "Cancel",
+    "cards-alert-confirmation-google-disconnect-title": "Disconnect Google Account",
+    "cards-alert-confirmation-google-disconnect-text": "If you proceed, you won't be able to login with Google anymore."
+  }
+}
