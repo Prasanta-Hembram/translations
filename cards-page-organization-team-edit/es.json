@@ -8,7 +8,8 @@
     "cards-page-organization-team-edit-icon": "Ícono",
     "cards-page-organization-team-edit-name": "Nombre",
     "cards-page-organization-team-edit-name-placeholder": "Ingrese su nombre",
-    "cards-page-organization-team-edit-title": "Editar grupo",
-    "cards-page-organization-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado. 😕"
+    "cards-page-organization-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado. 😕",
+    "cards-page-organization-team-edit-permission-denied": "No tienes permiso para acceder a esta página.",
+    "cards-page-organization-team-edit-title": "Editar grupo"
   }
 }

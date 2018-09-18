@@ -4,6 +4,7 @@
     "cards-page-organization-team-create-title": "Створити команду",
     "cards-page-organization-team-create-icon": "Іконка",
     "cards-page-organization-team-create-name": "Назва",
-    "cards-page-organization-team-create-name-placeholder": "Введіть назву"
+    "cards-page-organization-team-create-name-placeholder": "Введіть назву",
+    "cards-page-organization-team-create-permission-denied": "Немає прав доступу для перегляду цієї сторінки."
   }
 }
