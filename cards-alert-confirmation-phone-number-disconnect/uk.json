@@ -1,8 +1,8 @@
 {
   "data": {
-    "cards-alert-confirmation-phone-number-disconnect-yes": "Yes, disconnect",
-    "cards-alert-confirmation-phone-number-disconnect-no": "Cancel",
-    "cards-alert-confirmation-phone-number-disconnect-title": "Remove phone number",
-    "cards-alert-confirmation-phone-number-disconnect-text": "If you proceed, you will no be able to login with phone number anymore."
+    "cards-alert-confirmation-phone-number-disconnect-yes": "Так, від'єднати",
+    "cards-alert-confirmation-phone-number-disconnect-no": "Скасувати",
+    "cards-alert-confirmation-phone-number-disconnect-title": "Від'єднати номер телефону",
+    "cards-alert-confirmation-phone-number-disconnect-text": "Якщо ви продовжите, то більше не зможете логуватися за допомоги номеру телефону."
   }
 }
