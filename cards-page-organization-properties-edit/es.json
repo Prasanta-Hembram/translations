@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-description": "Descripción",
     "cards-page-organization-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
+    "cards-page-organization-property-edit-is-public": "Acceso Público",
     "cards-page-organization-property-edit-max-time": "Tiempo máximo",
     "cards-page-organization-property-edit-min-time": "Tiempo mínimo",
     "cards-page-organization-property-edit-name": "Nombre",

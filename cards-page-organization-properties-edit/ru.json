@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-description": "Описание",
     "cards-page-organization-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
+    "cards-page-organization-property-edit-is-public": "Публично доступно",
     "cards-page-organization-property-edit-max-time": "Макс. время",
     "cards-page-organization-property-edit-min-time": "Мин. время",
     "cards-page-organization-property-edit-name": "Название",

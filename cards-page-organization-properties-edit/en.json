@@ -2,6 +2,7 @@
   "data": {
     "cards-page-organization-property-edit-description": "Description",
     "cards-page-organization-property-edit-description-placeholder": "Type description for your room (optional)",
+    "cards-page-organization-property-edit-is-public": "Public Access",
     "cards-page-organization-property-edit-max-time": "Max time",
     "cards-page-organization-property-edit-min-time": "Min time",
     "cards-page-organization-property-edit-name": "Name",
