@@ -13,7 +13,6 @@
     "cards-page-organization-plan-edit-seats": "Seats",
     "cards-page-organization-plan-edit-is-public": "Public Access",
     "cards-page-organization-plan-edit-title": "Edit plan",
-    "cards-page-organization-plan-edit-type": "Type",
-    "cards-page-organization-plan-edit-update-plan-reject": "Unable to update"
+    "cards-page-organization-plan-edit-type": "Type"
   }
 }
