@@ -4,6 +4,7 @@
     "cards-page-organization-announcement-main-date": "{createDate}, edited on {updateDate}",
     "cards-page-organization-announcement-main-delete-failure": "Failed to delete the notice. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Retry deleting",
+    "cards-page-organization-announcement-main-edit": "Edit",
     "cards-page-organization-announcement-main-empty": "This notice may not exist or may have been removed. 😕",    
     "cards-page-organization-announcement-main-view": "Notice"
   }

@@ -15,6 +15,7 @@
     "cards-page-organization-booking-details-default-purpose": "Reservación",
     "cards-page-organization-booking-details-delete-failure": "Error al eliminar la reserva. 🙁",
     "cards-page-organization-booking-details-delete-repeat": "Inténtalo de nuevo",
+    "cards-page-organization-booking-details-edit": "Editar",
     "cards-page-organization-booking-details-empty": "Esta reserva puede no existir o puede haber sido eliminada. 😕",
     "cards-page-organization-booking-details-end-time": "Finalización",
     "cards-page-organization-booking-details-fetch-failure": "No se pudo mostrar la reserva ¿Estás seguro de que hay una conexión a Internet?",
