@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-alert-booking-conflict": "Cannot create booking for the same time",
+    "cards-alert-booking-conflict": "Інша резервація вже існує у вибраний час.",
     "cards-alert-card-number-is-invalid": "Номер картки порожній або недійсний",
     "cards-alert-card-cvv-is-invalid": "CVV-код порожній або недійсний",
     "cards-alert-card-expiration-is-invalid": "Термін дії картки порожній або недійсний",
