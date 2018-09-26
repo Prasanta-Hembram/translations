@@ -7,6 +7,8 @@
     "cards-page-organization-plan-edit-note-placeholder": "Добавить описание плана",
     "cards-page-organization-plan-edit-period": "Период",
     "cards-page-organization-plan-edit-plan-status": "Статус",
+    "cards-page-organization-plan-edit-plan-title": "Название плана",
+    "cards-page-organization-plan-edit-plan-title-placeholder": "Введите название плана",
     "cards-page-organization-plan-edit-price": "Цена, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "Тарифы",
     "cards-page-organization-plan-edit-quantity": "Кол-во",

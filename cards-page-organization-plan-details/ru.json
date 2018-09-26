@@ -32,6 +32,8 @@
     "cards-page-organization-plan-details-subscribe-for-free": "Подписаться бесплатно",
     "cards-page-organization-plan-details-subscribe-for-price": "Подписаться за {price}",
     "cards-page-organization-plan-details-title": "Подписаться на план",
-    "cards-page-organization-plan-details-title-for-admin": "Детали тарифа"
+    "cards-page-organization-plan-details-title-for-admin": "Детали тарифа",
+    "cards-page-organization-plan-details-title-for-admin-with-plan-title": "Детали тарифа: {title}",
+    "cards-page-organization-plan-details-title-with-plan-title": "Подписаться на план: {title}"
   }
 }

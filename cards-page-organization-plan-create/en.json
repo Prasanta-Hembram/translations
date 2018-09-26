@@ -2,10 +2,12 @@
   "data": {
     "cards-page-organization-plan-create-credits": "Credits, {pointEmoji}",
     "cards-page-organization-plan-create-description": "Plan description",
-    "cards-page-organization-plan-create-description-placeholder": "Add plan description",
+    "cards-page-organization-plan-create-description-placeholder": "Type plan description",
     "cards-page-organization-plan-create-free-trial-day": "Free Trial Day",
     "cards-page-organization-plan-create-period": "Period",
     "cards-page-organization-plan-create-plan-status": "Status",
+    "cards-page-organization-plan-create-plan-title": "Plan Name",
+    "cards-page-organization-plan-create-plan-title-placeholder": "Type plan name",  
     "cards-page-organization-plan-create-price": "Price, {currencySymbol}",
     "cards-page-organization-plan-create-pricing-title": "Pricing",
     "cards-page-organization-plan-create-quantity": "Quantity",

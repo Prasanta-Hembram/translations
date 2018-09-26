@@ -7,6 +7,8 @@
     "cards-page-organization-plan-edit-note-placeholder": "플랜 설명하기",
     "cards-page-organization-plan-edit-period": "기간",
     "cards-page-organization-plan-edit-plan-status": "상태",
+    "cards-page-organization-plan-edit-plan-title": "플랜 명",
+    "cards-page-organization-plan-edit-plan-title-placeholder": "플랜 명 입력하기",
     "cards-page-organization-plan-edit-price": "가격, {currencySymbol}",
     "cards-page-organization-plan-edit-pricing-title": "가격 정책",
     "cards-page-organization-plan-edit-quantity": "판매 수",

@@ -1,6 +1,7 @@
 {
   "data": {
     "cards-page-organization-plan-details-active-title": "Plan activo",
+    "cards-page-organization-plan-details-active-title-with-plan-title": "Plan activo: {title}",
     "cards-page-organization-plan-details-active-auto-renew": "Renovar subscripción automáticamente",
     "cards-page-organization-plan-details-active-deactivate": "Desactivar",
     "cards-page-organization-plan-details-active-empty": "Este plan no existe o puede haber sido eliminado 😕",

@@ -6,6 +6,8 @@
     "cards-page-organization-plan-create-free-trial-day": "Día de prueba gratis",
     "cards-page-organization-plan-create-period": "Periodo",
     "cards-page-organization-plan-create-plan-status": "Estado",
+    "cards-page-organization-plan-create-plan-title": "Nombre del plan",
+    "cards-page-organization-plan-create-plan-title-placeholder": "Agregar nombre",
     "cards-page-organization-plan-create-price": "Precio, {currencySymbol}",
     "cards-page-organization-plan-create-pricing-title": "Precios",
     "cards-page-organization-plan-create-quantity": "Cantidad",

@@ -32,6 +32,8 @@
     "cards-page-organization-plan-details-subscribe-for-free": "Subscribe for free",
     "cards-page-organization-plan-details-subscribe-for-price": "Subscribe for {price}",
     "cards-page-organization-plan-details-title": "Purchase plan",
-    "cards-page-organization-plan-details-title-for-admin": "Plan details"
+    "cards-page-organization-plan-details-title-for-admin": "Plan details",
+    "cards-page-organization-plan-details-title-for-admin-with-plan-title": "Plan details: {title}",
+    "cards-page-organization-plan-details-title-with-plan-title": "Purchase plan: {title}"
   }
 }

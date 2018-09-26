@@ -32,6 +32,8 @@
     "cards-page-organization-plan-details-subscribe-for-free": "Підписатись безкоштовно",
     "cards-page-organization-plan-details-subscribe-for-price": "Підписатись за {price}",
     "cards-page-organization-plan-details-title": "Підписатись на план",
-    "cards-page-organization-plan-details-title-for-admin": "Деталі плану"
+    "cards-page-organization-plan-details-title-for-admin": "Деталі плану",
+    "cards-page-organization-plan-details-title-for-admin-with-plan-title": "Підписатись на план: {title}",
+    "cards-page-organization-plan-details-title-with-plan-title": "Деталі плану: {title}"
   }
 }

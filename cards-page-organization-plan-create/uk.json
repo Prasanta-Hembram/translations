@@ -6,6 +6,8 @@
     "cards-page-organization-plan-create-free-trial-day": "Безкоштовний пробний день",
     "cards-page-organization-plan-create-period": "Період",
     "cards-page-organization-plan-create-plan-status": "Статус",
+    "cards-page-organization-plan-create-plan-title": "Назва плану",
+    "cards-page-organization-plan-create-plan-title-placeholder": "Уведіть назву плану",
     "cards-page-organization-plan-create-price": "Ціна, {currencySymbol}",
     "cards-page-organization-plan-create-pricing-title": "Тарифи",
     "cards-page-organization-plan-create-quantity": "Кількість",

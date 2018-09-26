@@ -33,6 +33,8 @@
     "cards-page-organization-plan-details-subscribe-for-free": "무료로 구독하기",
     "cards-page-organization-plan-details-subscribe-for-price": "{price}로 구독하기",
     "cards-page-organization-plan-details-title": "멤버십 구독",
-    "cards-page-organization-plan-details-title-for-admin": "플랜 정보"
+    "cards-page-organization-plan-details-title-for-admin": "플랜 정보",
+    "cards-page-organization-plan-details-title-for-admin-with-plan-title": "멤버십 구독: {title}",
+    "cards-page-organization-plan-details-title-with-plan-title": "멤버십 구독: {title}"
   }
 }

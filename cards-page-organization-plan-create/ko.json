@@ -6,6 +6,8 @@
     "cards-page-organization-plan-create-free-trial-day": "하루 무료 시험",
     "cards-page-organization-plan-create-period": "기간",
     "cards-page-organization-plan-create-plan-status": "상태",
+    "cards-page-organization-plan-create-plan-title": "플랜 명",
+    "cards-page-organization-plan-create-plan-title-placeholder": "플랜 명 입력하기",
     "cards-page-organization-plan-create-price": "가격, {currencySymbol}",
     "cards-page-organization-plan-create-pricing-title": "가격 정책",
     "cards-page-organization-plan-create-quantity": "판매 수",
