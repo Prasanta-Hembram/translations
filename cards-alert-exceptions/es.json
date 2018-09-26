@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-booking-conflict": "Otra reserva ya existe al mismo tiempo",
     "cards-alert-card-number-is-invalid" : "El número de la tarjeta está vacío o inválido",
     "cards-alert-card-cvv-is-invalid" : "CVV está vacío o no es válido",
     "cards-alert-card-expiration-is-invalid": "La fecha de caducidad está vacía o no es válida",

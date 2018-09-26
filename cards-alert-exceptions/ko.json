@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다",
     "cards-alert-card-number-is-invalid" : "카드번호를 유효 확인 혹은 입력해주시기 바랍니다",
     "cards-alert-card-cvv-is-invalid" : "CVV를 유효 확인 혹은 입력해주시기 바랍니다",
     "cards-alert-card-expiration-is-invalid": "유효기간을 유효 확인 혹은 입력해주시기 바랍니다",

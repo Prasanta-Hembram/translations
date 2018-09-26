@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-booking-conflict": "Другое бронирование уже существует в выбранное время",
     "cards-alert-card-number-is-invalid" : "Номер карты пуст или недействителен.",
     "cards-alert-card-cvv-is-invalid" : "CVV пуст или недействителен",
     "cards-alert-card-expiration-is-invalid": "Дата истечения срока действия пуста или недействительна.",
