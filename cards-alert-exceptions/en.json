@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-alert-booking-conflict": "Cannot create booking for the same time",
+    "cards-alert-booking-conflict": "Another booking already exists at the same time.",
     "cards-alert-card-number-is-invalid" : "Card number is empty or invalid",
     "cards-alert-card-cvv-is-invalid" : "CVV is empty or invalid",
     "cards-alert-card-expiration-is-invalid": "Expiration date is empty or invalid",
