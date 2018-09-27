@@ -6,7 +6,7 @@
     "cards-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
     "cards-page-organization-properties-subscribe-service-google-calendar": "Google Calendar",
     "cards-page-organization-properties-subscribe-service-outlook": "Outlook Calendar",
-    "cards-page-organization-properties-subscribe-title": "Subscribe",
+    "cards-page-organization-properties-subscribe-title": "Export to Calendar",
     "cards-page-organization-properties-subscribe-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
   }
 }

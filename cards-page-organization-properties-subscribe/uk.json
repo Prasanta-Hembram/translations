@@ -6,7 +6,7 @@
     "cards-page-organization-properties-subscribe-service-apple-calendar": "Календар Apple",
     "cards-page-organization-properties-subscribe-service-google-calendar": "Календар Google",
     "cards-page-organization-properties-subscribe-service-outlook": "Календар Outlook",
-    "cards-page-organization-properties-subscribe-title": "Підписатися",
+    "cards-page-organization-properties-subscribe-title": "Експорт у календар",
     "cards-page-organization-properties-subscribe-url-security-warning": "ВАЖЛИВО! Тримайте це посилання в секреті. Будь-хто з доступом до цього посилання зможе побачити ваші бронювання."
   }
 }
