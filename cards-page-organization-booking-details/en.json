@@ -19,6 +19,7 @@
     "cards-page-organization-booking-details-end-time": "Ending",
     "cards-page-organization-booking-details-fetch-failure": "Couldn't show booking. Are you sure there is an internet connection?",
     "cards-page-organization-booking-details-lock-code": "Lock code",
+    "cards-page-organization-booking-details-lock-code-desc": "Enter the code followed by # to unlock the door. Valid only during booking time.",
     "cards-page-organization-booking-details-payed-with": "Paid with",
     "cards-page-organization-booking-details-purpose": "Purpose",
     "cards-page-organization-booking-details-section-time": "Time",

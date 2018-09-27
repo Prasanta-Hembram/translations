@@ -7,6 +7,7 @@
     "cards-page-organization-booking-edit-booked-by": "Reservado por",
     "cards-page-organization-booking-edit-end-time": "Finalización",
     "cards-page-organization-booking-edit-lock-code": "Código PIN",
+    "cards-page-organization-booking-edit-lock-code-desc": "Ingrese el código seguido de # para desbloquear la puerta. Válido solo durante el tiempo de reserva.",
     "cards-page-organization-booking-edit-payed-with": "Pagado con",
     "cards-page-organization-booking-edit-purpose": "Propósito",
     "cards-page-organization-booking-edit-purpose-placeholder": "Agregar propósito",
