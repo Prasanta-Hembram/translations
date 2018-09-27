@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-details-action-button-money": "Cash ({price})",
+    "cards-page-organization-booking-details-action-button-money-cash": "Cash ({price})",
+    "cards-page-organization-booking-details-action-button-money-card": "Card ({price})",
     "cards-page-organization-booking-details-action-button-point": "Credits ({balance})",
     "cards-page-organization-booking-details-action-delete": "Delete",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Booking owner got 100% refund of money",

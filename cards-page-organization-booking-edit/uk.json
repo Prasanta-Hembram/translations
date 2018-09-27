@@ -1,7 +1,8 @@
 {
   "data": {
     "cards-page-organization-booking-edit-balance-action-button-for-free": "Безкоштовно",
-    "cards-page-organization-booking-edit-balance-action-button-money": "Готівкою ({price})",
+    "cards-page-organization-booking-edit-balance-action-button-money-cash": "Готівкою ({price})",
+    "cards-page-organization-booking-edit-balance-action-button-money-card": "Карткою ({price})",
     "cards-page-organization-booking-edit-balance-action-button-point": "Кредитами ({balance})",
     "cards-page-organization-booking-edit-booked-by": "Хто зарезервував",
     "cards-page-organization-booking-edit-end-time": "Кінець",

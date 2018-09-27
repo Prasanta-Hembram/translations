@@ -1,7 +1,8 @@
 {
   "data": {
     "cards-page-organization-booking-edit-balance-action-button-for-free": "Free",
-    "cards-page-organization-booking-edit-balance-action-button-money": "Cash ({price})",
+    "cards-page-organization-booking-edit-balance-action-button-money-cash": "Cash ({price})",
+    "cards-page-organization-booking-edit-balance-action-button-money-card": "Card ({price})",
     "cards-page-organization-booking-edit-balance-action-button-point": "Credits ({balance})",
     "cards-page-organization-booking-edit-booked-by": "Booked by",
     "cards-page-organization-booking-edit-end-time": "Ending",

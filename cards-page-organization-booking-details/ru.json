@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-details-action-button-money": "Наличными ({price})",
+    "cards-page-organization-booking-details-action-button-money-cash": "Наличными ({price})",
+    "cards-page-organization-booking-details-action-button-money-card": "Карточкой ({price})",
     "cards-page-organization-booking-details-action-button-point": "Кредитами ({balance})",
     "cards-page-organization-booking-details-action-delete": "Удалить",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Владелец брони получил 100% возврат средств.",

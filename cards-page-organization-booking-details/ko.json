@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-details-action-button-money": "현금 ({price})",
+    "cards-page-organization-booking-details-action-button-money-cash": "현금 ({price})",
+    "cards-page-organization-booking-details-action-button-money-card": "카드 ({price})",
     "cards-page-organization-booking-details-action-button-point": "크레딧 ({balance})",
     "cards-page-organization-booking-details-action-delete": "삭제",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "예약자의 100% 환불이 완료되었습니다",

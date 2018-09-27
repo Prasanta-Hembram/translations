@@ -1,6 +1,7 @@
 {
   "data": {
-    "cards-page-organization-booking-details-action-button-money": "Готівкою ({price})",
+    "cards-page-organization-booking-details-action-button-money-cash": "Готівкою ({price})",
+    "cards-page-organization-booking-details-action-button-money-card": "Карткою ({price})",
     "cards-page-organization-booking-details-action-button-point": "Кредитами ({balance})",
     "cards-page-organization-booking-details-action-delete": "Видалити",
     "cards-page-organization-booking-details-alert-refund-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
