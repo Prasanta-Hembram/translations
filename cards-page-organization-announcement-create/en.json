@@ -8,6 +8,7 @@
     "cards-page-organization-announcement-create-target-teams-select-all": "Everyone",
     "cards-page-organization-announcement-create-text-placeholder": "Say something to your community...",
     "cards-page-organization-announcement-create-title": "Title",
-    "cards-page-organization-announcement-create-title-placeholder": "Add title"
+    "cards-page-organization-announcement-create-title-placeholder": "Add title",
+    "cards-page-organization-announcement-create-validation-error-teams": "Please select the recipient teams."
   }
 }

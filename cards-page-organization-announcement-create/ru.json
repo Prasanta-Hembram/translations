@@ -8,6 +8,7 @@
     "cards-page-organization-announcement-create-target-teams-select-all": "Все участники",
     "cards-page-organization-announcement-create-text-placeholder": "Напишите что-то вашим резидентам...",
     "cards-page-organization-announcement-create-title": "Название",
-    "cards-page-organization-announcement-create-title-placeholder": "Добавьте заголовок"
+    "cards-page-organization-announcement-create-title-placeholder": "Добавьте заголовок",
+    "cards-page-organization-announcement-create-validation-error-teams": "Оберіть хто отримає це оголошення."
   }
 }

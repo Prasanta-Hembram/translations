@@ -8,6 +8,7 @@
     "cards-page-organization-announcement-create-target-teams-select-all": "Todos",
     "cards-page-organization-announcement-create-text-placeholder": "Dile algo a tu comunidad...",
     "cards-page-organization-announcement-create-title": "Título",
-    "cards-page-organization-announcement-create-title-placeholder": "Añadir título"
+    "cards-page-organization-announcement-create-title-placeholder": "Añadir título",
+    "cards-page-organization-announcement-create-validation-error-teams": "Por favor, seleccione los equipos receptores."
   }
 }
