@@ -40,10 +40,10 @@
     "cards-page-organization-booking-create-service-details-available-info": "서비스는 선택된 시작부터 이용 가능합니다.",
     "cards-page-organization-booking-create-service-details-extra-notice": "결제처리 기관 : PaymentWall (주소 : 유닛 701-702 7/F, 8 조르단 로드, 야우마데이 가우룽싱 구, 홍콩).",
     "cards-page-organization-booking-create-service-details-desc": "소프트웨어 개발 기관 : 주식회사 카드스 (주소 : 대한민국 서울특별시 용산구 청파로 109 3층, 04370). 서비스제공 기관 : {organizationName} (주소 : {organizationAddress}).",
-    "cards-page-organization-booking-create-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy}이 적용.",
+    "cards-page-organization-booking-create-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy} 적용.",
     "cards-page-organization-booking-create-service-details-terms-cookie-policy": "쿠키정책",
     "cards-page-organization-booking-create-service-details-terms-privacy-policy": "개인정보 보호정책",
-    "cards-page-organization-booking-create-service-details-terms-terms-of-use": "이용약관",
+    "cards-page-organization-booking-create-service-details-terms-terms-of-use": "이용약관이",
     "cards-page-organization-booking-create-start-time": "시작",
     "cards-page-organization-booking-create-query-params": "페이지를 표시할 수 없습니다. 다시 시도하세요. 😕",
     "cards-page-organization-booking-create-title": "예약하기"
