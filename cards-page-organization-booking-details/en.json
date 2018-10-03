@@ -19,7 +19,7 @@
     "cards-page-organization-booking-details-end-time": "Ending",
     "cards-page-organization-booking-details-fetch-failure": "Couldn't show booking. Are you sure there is an internet connection?",
     "cards-page-organization-booking-details-lock-code": "Lock code",
-    "cards-page-organization-booking-details-lock-code-desc": "Enter the code followed by # to unlock the door. Valid only during booking time.",
+    "cards-page-organization-booking-details-lock-code-desc": "The meeting room door is equipped with a smart lock. To open the door, enter the code displayed above followed by #. The lock code is valid only during the booking time.",
     "cards-page-organization-booking-details-payed-with": "Paid with",
     "cards-page-organization-booking-details-payment-cash-title": "Status",
     "cards-page-organization-booking-details-payment-cash-desc": "Payment received",
