@@ -11,6 +11,7 @@
     "cards-page-organization-user-balance-history-money-transaction-status-approved": "승인 완료",
     "cards-page-organization-user-balance-history-money-transaction-status-canceled": "승인 취소",
     "cards-page-organization-user-balance-history-money-transaction-status-pending": "승인 필요",
+    "cards-page-organization-user-balance-history-money-transaction-status-unpaid": "결제 예정",
     "cards-page-organization-user-balance-history-permission-denied": "볼 수있는 권한이 없습니다.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "시설 예약 (크레딧)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "시설 예약 취소 (크레딧)",

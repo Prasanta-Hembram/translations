@@ -11,6 +11,7 @@
     "cards-page-organization-user-balance-history-money-transaction-status-approved": "Aprobado",
     "cards-page-organization-user-balance-history-money-transaction-status-canceled": "Cancelado",
     "cards-page-organization-user-balance-history-money-transaction-status-pending": "Pendiente",
+    "cards-page-organization-user-balance-history-money-transaction-status-unpaid": "No pagado",
     "cards-page-organization-user-balance-history-permission-denied": "No tienes permiso para acceder a esta página.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Habitación reservada (créditos)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de habitación cancelada (créditos)",

@@ -11,6 +11,7 @@
     "cards-page-organization-user-balance-history-money-transaction-status-approved": "Підтверджено",
     "cards-page-organization-user-balance-history-money-transaction-status-canceled": "Скасовано",
     "cards-page-organization-user-balance-history-money-transaction-status-pending": "Обробка",
+    "cards-page-organization-user-balance-history-money-transaction-status-unpaid": "Неоплачено",
     "cards-page-organization-user-balance-history-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Резервація кімнати (кредити)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",

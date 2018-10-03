@@ -11,6 +11,7 @@
     "cards-page-organization-user-balance-history-money-transaction-status-approved": "Подтверждено",
     "cards-page-organization-user-balance-history-money-transaction-status-canceled": "Отменено",
     "cards-page-organization-user-balance-history-money-transaction-status-pending": "Обработка",
+    "cards-page-organization-user-balance-history-money-transaction-status-unpaid": "Несплачено",
     "cards-page-organization-user-balance-history-permission-denied": "Нет прав доступа для просмотра этой страницы.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Бронь комнаты (кредиты)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Отмена брони комнаты (кредиты)",

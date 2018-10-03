@@ -11,6 +11,7 @@
     "cards-page-organization-user-balance-history-money-transaction-status-approved": "Approved",
     "cards-page-organization-user-balance-history-money-transaction-status-canceled": "Canceled",
     "cards-page-organization-user-balance-history-money-transaction-status-pending": "Pending",
+    "cards-page-organization-user-balance-history-money-transaction-status-unpaid": "Unpaid",
     "cards-page-organization-user-balance-history-permission-denied": "You don't have permission to access this page.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Booked room (credits)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Cancelled room booking (credits)",
