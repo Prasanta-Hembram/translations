@@ -9,6 +9,8 @@
     "cards-page-organization-booking-edit-lock-code": "비밀번호",
     "cards-page-organization-booking-edit-lock-code-desc": "문을 열기 위해 비밀번호 및 #을 입력하세요. 예약 기간에만 유효합니다.",
     "cards-page-organization-booking-edit-payed-with": "결제 수단",
+    "cards-page-organization-booking-edit-payment-cash-title": "결제 사항",
+    "cards-page-organization-booking-edit-payment-cash-desc": "결제 완료",
     "cards-page-organization-booking-edit-purpose": "목적",
     "cards-page-organization-booking-edit-purpose-placeholder": "목적 추가하기",
     "cards-page-organization-booking-edit-section-time": "시간",

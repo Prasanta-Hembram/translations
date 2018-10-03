@@ -21,6 +21,8 @@
     "cards-page-organization-booking-details-lock-code": "Código PIN",
     "cards-page-organization-booking-details-lock-code-desc": "Ingrese el código seguido de # para desbloquear la puerta. Válido solo durante el tiempo de reserva.",
     "cards-page-organization-booking-details-payed-with": "Pagado con",
+    "cards-page-organization-booking-details-payment-cash-title": "Estado",
+    "cards-page-organization-booking-details-payment-cash-desc": "Pago recibido",
     "cards-page-organization-booking-details-purpose": "Propósito",
     "cards-page-organization-booking-details-section-time": "Time",
     "cards-page-organization-booking-details-section-people-purpose": "People & Purpose",

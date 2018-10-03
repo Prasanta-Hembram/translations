@@ -9,6 +9,8 @@
     "cards-page-organization-booking-edit-lock-code": "Código PIN",
     "cards-page-organization-booking-edit-lock-code-desc": "Ingrese el código seguido de # para desbloquear la puerta. Válido solo durante el tiempo de reserva.",
     "cards-page-organization-booking-edit-payed-with": "Pagado con",
+    "cards-page-organization-booking-edit-payment-cash-title": "Estado",
+    "cards-page-organization-booking-edit-payment-cash-desc": "Pago recibido",
     "cards-page-organization-booking-edit-purpose": "Propósito",
     "cards-page-organization-booking-edit-purpose-placeholder": "Agregar propósito",
     "cards-page-organization-booking-edit-section-time": "Hora",

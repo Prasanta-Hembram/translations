@@ -9,6 +9,8 @@
     "cards-page-organization-booking-edit-lock-code": "Код доступа",
     "cards-page-organization-booking-edit-lock-code-desc": "Введите код доступа и нажмите # чтобы отпереть дверь. Код действителен в течение периода бронировани.",
     "cards-page-organization-booking-edit-payed-with": "Оплачено",
+    "cards-page-organization-booking-edit-payment-cash-title": "Статус",
+    "cards-page-organization-booking-edit-payment-cash-desc": "Сплачено",
     "cards-page-organization-booking-edit-purpose": "Цель",
     "cards-page-organization-booking-edit-purpose-placeholder": "Укажите цель",
     "cards-page-organization-booking-edit-section-time": "Время",
