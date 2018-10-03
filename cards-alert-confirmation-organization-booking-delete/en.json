@@ -1,5 +1,6 @@
 {
   "data": {
+    "cards-alert-confirmation-organization-booking-delete-by-card-text": "Are you sure you want to delete this booking? You’ll need to give refund manually. This action is irreversible.",
     "cards-alert-confirmation-organization-booking-delete-text": "Are you sure you want to delete this booking? This action is irreversible.",
     "cards-alert-confirmation-organization-booking-delete-no": "Cancel",
     "cards-alert-confirmation-organization-booking-delete-title": "Delete Booking",
