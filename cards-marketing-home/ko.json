@@ -1,12 +1,12 @@
 {
   "data": {
-    "marketing-home-title": "-",
-    "marketing-home-description": "-",
+    "marketing-home-title": "andCards — 코워킹 스페이스, 공유 오피스, 스터디카페를 위한 소프트웨어 & 마케팅",
+    "marketing-home-description": "코워킹 스페이스의 자동화를 위한 단 하나의 앱 : 회의실 예약 시스텀, 구글 캘린더 연동, 회의실 디스플레이 앱, 코워킹 멤버십 CRM, 신용카드 승인 결제시스템, 공지사항 시스템, 모바일 어플리케이션.",
     "marketing-home-badge-free": "무료",
-    "marketing-home-badge-soon": "Soon",
+    "marketing-home-badge-soon": "출시 예정",
     "marketing-home-button-explore-all-features": "모든 기능을 경험해보세요",
     "marketing-home-button-list-for-free": "무료 항목",
-    "marketing-home-button-schedule-demo": "데모 이용신청",
+    "marketing-home-button-schedule-demo": "데모 살펴보기",
     "marketing-home-button-use-free-demo": "무료 이용하기",
     "marketing-home-coworking-space-marketing-feature-show-to-the-world": "🗺 당신의 공간을 세상에 보여주세요",
     "marketing-home-coworking-space-marketing-feature-rank-high": "📊 구글 상위 랭크",
@@ -26,7 +26,7 @@
     "marketing-home-coworking-space-medium-andcards-app-time-dev": "⏱ 1일 이내 이용 시작",
     "marketing-home-coworking-space-medium-andcards-app-costs-support": "✅ 숨겨진 비용 없음",
     "marketing-home-coworking-space-medium-own-app-headline": "독자적 앱을 개발할 경우",
-    "marketing-home-coworking-space-medium-own-app-costs-dev": "💰 $60,000가 넘는 개발 비용",
+    "marketing-home-coworking-space-medium-own-app-costs-dev": "💰 6천만원이 넘는 개발 비용",
     "marketing-home-coworking-space-medium-own-app-time-dev": "📈 3-6 개월의 개발 시간",
     "marketing-home-coworking-space-medium-own-app-costs-support": "🤯 숨겨진 비용 (업데이트, 후원비)",
     "marketing-home-coworking-space-medium-type": "중 & 대규모 코워킹 스페이스",
@@ -46,13 +46,13 @@
     "marketing-home-features-apps": "iOS, 안드로이드 앱",
     "marketing-home-features-smart-lock": "스마트락 연동",
     "marketing-home-features-personal-calendar": "개인 캘린더 연동",
-    "marketing-home-features-kiosk": "태블릿용 키오스크 앱",
+    "marketing-home-features-kiosk": "회의실 디스플레이 태블릿 앱",
     "marketing-home-features-external-booking": "외부고객 시설 예약",
-    "marketing-home-headline": "Coworking Space를 관리하는 단 하나의 앱",
+    "marketing-home-headline": "코워킹스페이스를 관리하는 단 하나의 앱",
     "marketing-home-headline-2": "andCards Suite는 자동화 운영 및 관리를 도와줄 수 있는 코워킹 소프트웨어입니다 - 멤버십, 결제, 마케팅을 통한 시설예약.",
     "marketing-home-request-demo-button": "andCards Suite 이용하기",
     "marketing-home-request-demo-headline": "무료 코워킹 소프트웨어 이용을 시작하세요",
-    "marketing-home-request-demo-email-placeholder": "을 입력해주세요",
+    "marketing-home-request-demo-email-placeholder": "이메일을 입력해주세요",
     "marketing-home-request-demo-text": "환영 패키지를 보내드립니다, 신용카드는 필요하지 않습니다! 🎁"
   }
 }
