@@ -11,6 +11,7 @@
     "cards-page-organization-plan-details-active-period-pay-with-card-title" : "Карточкой",
     "cards-page-organization-plan-details-active-period-pay-with-cash-title": "Наличными",
     "cards-page-organization-plan-details-active-period-title": "Период",
+    "cards-page-organization-plan-details-active-permission-denied": "Нет прав доступа для просмотра этой страницы.",
     "cards-page-organization-plan-details-active-subscribe-alert": "Подписка активирована",
     "cards-page-organization-plan-details-active-unsubscribe-alert": "Подписка отменена"
   }

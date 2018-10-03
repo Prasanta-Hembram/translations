@@ -11,6 +11,7 @@
     "cards-page-organization-plan-details-active-period-pay-with-card-title" : "Tarjeta",
     "cards-page-organization-plan-details-active-period-pay-with-cash-title": "Dinero",
     "cards-page-organization-plan-details-active-period-title": "Periodo",
+    "cards-page-organization-plan-details-active-permission-denied": "No tienes permiso para acceder a esta página.",
     "cards-page-organization-plan-details-active-subscribe-alert": "La subscripción ha sido activada",
     "cards-page-organization-plan-details-active-unsubscribe-alert": "La subscripción fue cancelada"
   }

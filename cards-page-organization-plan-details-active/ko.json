@@ -11,6 +11,7 @@
     "cards-page-organization-plan-details-active-period-pay-with-card-title" : "카드",
     "cards-page-organization-plan-details-active-period-pay-with-cash-title": "현금",
     "cards-page-organization-plan-details-active-period-title": "기간",
+    "cards-page-organization-plan-details-active-permission-denied": "볼 수있는 권한이 없습니다.",
     "cards-page-organization-plan-details-active-subscribe-alert": "멤버십 플랜 연장 완료",
     "cards-page-organization-plan-details-active-unsubscribe-alert": "멤버십 플랜 해지 완료"
   }
