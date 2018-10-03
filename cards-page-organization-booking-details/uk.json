@@ -20,13 +20,16 @@
     "cards-page-organization-booking-details-fetch-failure": "Неможливо відобразити резервацію. Перевірте, чи все добре з інтернет-з'єднанням.",
     "cards-page-organization-booking-details-lock-code": "Код доступу",
     "cards-page-organization-booking-details-lock-code-desc": "Уведіть код доступу та натисніть # щоб відчинити двері. Код дійсний лише протягом тривалості резервації.",
+    "cards-page-organization-booking-details-memo": "Memo",
     "cards-page-organization-booking-details-payed-with": "Оплачено",
     "cards-page-organization-booking-details-payment-cash-title": "Статус",
     "cards-page-organization-booking-details-payment-cash-desc": "Оплачено",
     "cards-page-organization-booking-details-purpose": "Мета",
-    "cards-page-organization-booking-details-section-time": "Час",
-    "cards-page-organization-booking-details-section-people-purpose": "Люди й мета",
+    "cards-page-organization-booking-details-section-access": "Access",
     "cards-page-organization-booking-details-section-payment": "Оплата",
+    "cards-page-organization-booking-details-section-people": "Люди",
+    "cards-page-organization-booking-details-section-purpose": "Мета",
+    "cards-page-organization-booking-details-section-time": "Час",
     "cards-page-organization-booking-details-share-link-title": "Посилання на резервацію",
     "cards-page-organization-booking-details-start-time": "Початок"
   }
