@@ -16,9 +16,11 @@
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Habitación reservada (créditos)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de habitación cancelada (créditos)",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manualmente agregado por admin / moderator",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Manualmente agregado por {name}",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Vencido con un plan de membresía",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Recibido con plan de membresía",
     "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Cargado manualmente por el administrador / moderador",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Cargado manualmente por el {name}",
     "cards-page-organization-user-balance-history-title": "Balance de Historia"
   }
 }

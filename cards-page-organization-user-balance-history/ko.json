@@ -16,9 +16,11 @@
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "시설 예약 (크레딧)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "시설 예약 취소 (크레딧)",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "관리자/중간관리자 수동 회수",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "관리자/중간관리자 수동 회수 {name}",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "멤버십 플랜 만료",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "멤버십 플랜 갱신",
     "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "관리자/중간관리자 수동 추가",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "관리자/중간관리자 수동 추가 {name}",
     "cards-page-organization-user-balance-history-title": "결제 내역"
   }
 }
