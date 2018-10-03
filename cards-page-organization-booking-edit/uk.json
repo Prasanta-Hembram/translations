@@ -9,7 +9,7 @@
     "cards-page-organization-booking-edit-lock-code": "Код доступу",
     "cards-page-organization-booking-edit-lock-code-desc": "Уведіть код доступу та натисніть # щоб відчинити двері. Код дійсний лише протягом тривалості резервації.",
     "cards-page-organization-booking-edit-payed-with": "Оплачено",
-    "cards-page-organization-booking-edit-payment-cash-status": "Статус",
+    "cards-page-organization-booking-edit-payment-cash-title": "Статус",
     "cards-page-organization-booking-edit-payment-cash-desc": "Оплачено",
     "cards-page-organization-booking-edit-purpose": "Мета",
     "cards-page-organization-booking-edit-purpose-placeholder": "Вкажіть мету",
