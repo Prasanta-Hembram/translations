@@ -15,12 +15,12 @@
     "cards-page-organization-user-balance-history-permission-denied": "You don't have permission to access this page.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Booked room (credits)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Cancelled room booking (credits)",
-    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manually charged by admin/moderator",
-    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Manually charged by {name}",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Credits charged by admin/moderator",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Credits charged by {name}",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Expired with membership plan",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Received with membership plan",
-    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Manually added by admin/moderator",
-    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Manually added by {name}",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Credits added by admin/moderator",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Credits added by {name}",
     "cards-page-organization-user-balance-history-title": "Balance History"
   }
 }
