@@ -4,7 +4,7 @@
     "cards-page-organization-booking-edit-balance-action-button-money-cash": "Наличными ({price})",
     "cards-page-organization-booking-edit-balance-action-button-money-card": "Карточкой ({price})",
     "cards-page-organization-booking-edit-balance-action-button-point": "Кредитами ({balance})",
-    "cards-page-organization-booking-edit-booked-by": "Кто забронировал",
+    "cards-page-organization-booking-edit-booked-by": "Владелец",
     "cards-page-organization-booking-edit-end-time": "Конец",
     "cards-page-organization-booking-edit-lock-code": "Код доступа",
     "cards-page-organization-booking-edit-lock-code-desc": "Введите код доступа и нажмите # чтобы отпереть дверь. Код действителен в течение периода бронировани.",
