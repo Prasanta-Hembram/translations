@@ -1,6 +1,6 @@
 {
   "data": {
-    "cards-alert-confirmation-organization-booking-delete-by-card-text":"¿Seguro que quieres eliminar esta reserva? Tendrás que dar el reembolso manualmente. Esta acción es irreversible.",
+    "cards-alert-confirmation-organization-booking-delete-by-card-text":"¿Seguro que quieres eliminar esta reserva? El reembolso es procesado manualmente por el administrador, si corresponde. Esta acción es irreversible.",
     "cards-alert-confirmation-organization-booking-delete-text": "¿Seguro que quieres eliminar esta reserva? Esta acción es irreversible.",
     "cards-alert-confirmation-organization-booking-delete-no": "Cancelar",
     "cards-alert-confirmation-organization-booking-delete-title": "Eliminar reserva",
