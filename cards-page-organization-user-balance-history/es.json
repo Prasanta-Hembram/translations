@@ -20,7 +20,7 @@
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Vencido con un plan de membresía",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Recibido con plan de membresía",
     "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Cargado manualmente por el administrador / moderador",
-    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Cargado manualmente por el {name}",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Cargado manualmente por {name}",
     "cards-page-organization-user-balance-history-title": "Balance de Historia"
   }
 }
