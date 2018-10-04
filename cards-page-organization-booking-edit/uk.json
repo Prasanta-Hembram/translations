@@ -7,7 +7,7 @@
     "cards-page-organization-booking-edit-booked-by": "Хто зарезервував",
     "cards-page-organization-booking-edit-end-time": "Кінець",
     "cards-page-organization-booking-edit-lock-code": "Код доступу",
-    "cards-page-organization-booking-edit-lock-code-desc": "The meeting room door is equipped with a smart lock. To open the door, enter the code displayed above followed by #. The lock code is valid only during the booking time.",
+    "cards-page-organization-booking-edit-lock-code-desc": "Двері кімнати оснащені розумним замком. Щоб відкрити двері, введіть код, що відображається вище, а потім #. Код для входу дійсний лише під час резервації.",
     "cards-page-organization-booking-edit-payed-with": "Оплачено",
     "cards-page-organization-booking-edit-payment-cash-title": "Статус",
     "cards-page-organization-booking-edit-payment-cash-desc": "Оплачено",
