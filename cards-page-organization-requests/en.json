@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-requests-approve": "Approve",
     "cards-page-organization-requests-decline": "Reject",
-    "cards-page-organization-requests-no-requests": "There are no any requests. 🙂",
+    "cards-page-organization-requests-no-requests": "Nothing to approve. Good job! 🎉",
     "cards-page-organization-requests-permission-denied": "No tienes permiso para acceder a esta página.",
     "cards-page-organization-requests-title": "Join Requests"
   }
