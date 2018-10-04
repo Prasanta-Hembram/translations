@@ -7,7 +7,7 @@
     "cards-page-organization-booking-edit-booked-by": "예약자", 
     "cards-page-organization-booking-edit-end-time": "종료",
     "cards-page-organization-booking-edit-lock-code": "비밀번호",
-    "cards-page-organization-booking-edit-lock-code-desc": "문을 열기 위해 비밀번호 및 #을 입력하세요. 예약 기간에만 유효합니다.",
+    "cards-page-organization-booking-edit-lock-code-desc": "회의실 문에는 스마트락 보안장치가 설치되어 있습니다. 문을 열기 위해서, 표시된 코드와 #을 입력합니다. 잠금 코드는 예약 시간 동안에만 유효합니다.",
     "cards-page-organization-booking-edit-memo": "메모",
     "cards-page-organization-booking-edit-memo-placeholder": "메모 입력하기 (예약자와 관리자만 확인 가능)",
     "cards-page-organization-booking-edit-payed-with": "결제 수단",

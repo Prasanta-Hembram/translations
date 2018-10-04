@@ -19,7 +19,7 @@
     "cards-page-organization-booking-details-end-time": "Конец",
     "cards-page-organization-booking-details-fetch-failure": "Невозможно отобразить бронирование. Проверьте, все ли хорошо с интернет-соединением.",
     "cards-page-organization-booking-details-lock-code": "Код доступа",
-    "cards-page-organization-booking-details-lock-code-desc": "Введите код доступа и нажмите # чтобы отпереть дверь. Код действителен в течение периода бронировани.",
+    "cards-page-organization-booking-details-lock-code-desc": "Дверь комнаты оснащена умным замком. Чтобы открыть дверь, введите код, отображаемый выше, а затем #. Код для входа действителен только во время бронирования.",
     "cards-page-organization-booking-details-memo": "Заметка",
     "cards-page-organization-booking-details-payed-with": "Оплачено",
     "cards-page-organization-booking-details-payment-cash-title": "Статус",

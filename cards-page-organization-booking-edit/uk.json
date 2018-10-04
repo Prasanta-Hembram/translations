@@ -7,7 +7,7 @@
     "cards-page-organization-booking-edit-booked-by": "Власник",
     "cards-page-organization-booking-edit-end-time": "Кінець",
     "cards-page-organization-booking-edit-lock-code": "Код доступу",
-    "cards-page-organization-booking-edit-lock-code-desc": "Уведіть код доступу та натисніть # щоб відчинити двері. Код дійсний лише протягом тривалості резервації.",
+    "cards-page-organization-booking-edit-lock-code-desc": "Двері кімнати оснащені розумним замком. Щоб відкрити двері, введіть код, що відображається вище, а потім #. Код для входу дійсний лише під час резервації.",
     "cards-page-organization-booking-edit-memo": "Нотатка",
     "cards-page-organization-booking-edit-memo-placeholder": "Додати нотатку (видно власнику й адміну)",
     "cards-page-organization-booking-edit-payed-with": "Оплачено",

@@ -19,7 +19,7 @@
     "cards-page-organization-booking-details-end-time": "Finalización",
     "cards-page-organization-booking-details-fetch-failure": "No se pudo mostrar la reserva ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-booking-details-lock-code": "Código PIN",
-    "cards-page-organization-booking-details-lock-code-desc": "Ingrese el código seguido de # para desbloquear la puerta. Válido solo durante el tiempo de reserva.",
+    "cards-page-organization-booking-details-lock-code-desc": "La puerta de la sala de reuniones está equipada con una cerradura inteligente. Para abrir la puerta, ingrese el código que se muestra arriba seguido de #. El código de bloqueo es válido solo durante el tiempo de reserva.",
     "cards-page-organization-booking-details-memo": "Memo",
     "cards-page-organization-booking-details-payed-with": "Pagado con",
     "cards-page-organization-booking-details-payment-cash-title": "Estado",
