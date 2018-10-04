@@ -19,7 +19,7 @@
     "cards-page-organization-booking-details-end-time": "Кінець",
     "cards-page-organization-booking-details-fetch-failure": "Неможливо відобразити резервацію. Перевірте, чи все добре з інтернет-з'єднанням.",
     "cards-page-organization-booking-details-lock-code": "Код доступу",
-    "cards-page-organization-booking-details-lock-code-desc": "Уведіть код доступу та натисніть # щоб відчинити двері. Код дійсний лише протягом тривалості резервації.",
+    "cards-page-organization-booking-details-lock-code-desc": "Двері кімнати оснащені розумним замком. Щоб відкрити двері, введіть код, що відображається вище, а потім #. Код для входу дійсний лише під час резервації.",
     "cards-page-organization-booking-details-payed-with": "Оплачено",
     "cards-page-organization-booking-details-payment-cash-title": "Статус",
     "cards-page-organization-booking-details-payment-cash-desc": "Оплачено",
