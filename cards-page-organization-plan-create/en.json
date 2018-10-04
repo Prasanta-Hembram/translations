@@ -5,6 +5,8 @@
     "cards-page-organization-plan-create-description-placeholder": "Type plan description",
     "cards-page-organization-plan-create-free-trial-day": "Free Trial Day",
     "cards-page-organization-plan-create-period": "Period",
+    "cards-page-organization-plan-create-plan-point-allocation-enabled-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
+    "cards-page-organization-plan-create-plan-point-allocation-disabled-desc": "Subscribers will get all credits at once.",
     "cards-page-organization-plan-create-plan-status": "Status",
     "cards-page-organization-plan-create-plan-title": "Plan Name",
     "cards-page-organization-plan-create-plan-title-placeholder": "Type plan name",  

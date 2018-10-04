@@ -6,6 +6,8 @@
     "cards-page-organization-plan-edit-note": "Plan description",
     "cards-page-organization-plan-edit-note-placeholder": "Type plan description",
     "cards-page-organization-plan-edit-period": "Period",
+    "cards-page-organization-plan-edit-plan-point-allocation-enabled-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
+    "cards-page-organization-plan-edit-plan-point-allocation-disabled-desc": "Subscribers will get all credits at once.",
     "cards-page-organization-plan-edit-plan-status": "Status",
     "cards-page-organization-plan-edit-plan-title": "Plan Name",
     "cards-page-organization-plan-edit-plan-title-placeholder": "Type plan name",

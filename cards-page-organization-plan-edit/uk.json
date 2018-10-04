@@ -6,6 +6,8 @@
     "cards-page-organization-plan-edit-note": "Опис планy",
     "cards-page-organization-plan-edit-note-placeholder": "Додати опис плану",
     "cards-page-organization-plan-edit-period": "Період",
+    "cards-page-organization-plan-edit-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
+    "cards-page-organization-plan-edit-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",
     "cards-page-organization-plan-edit-plan-status": "Статус",
     "cards-page-organization-plan-edit-plan-title": "Назва плану",
     "cards-page-organization-plan-edit-plan-title-placeholder": "Уведіть назву плану",
