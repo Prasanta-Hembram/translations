@@ -43,7 +43,7 @@
     "cards-page-organization-booking-create-section-payment-cash-desc": "결제 완료",
     "cards-page-organization-booking-create-section-purpose": "목적",
     "cards-page-organization-booking-create-service-details-available-info": "서비스는 선택된 시작부터 이용 가능합니다.",
-    "cards-page-organization-booking-create-service-details-extra-notice": "결제처리 기관 : PaymentWall (주소 : 유닛 701-702 7/F, 8 조르단 로드, 야우마데이 가우룽싱 구, 홍콩).",
+    "cards-page-organization-booking-create-service-details-extra-notice": "결제처리 기관 : Paymentwall (주소 : 유닛 701-702 7/F, 8 조르단 로드, 야우마데이 가우룽싱 구, 홍콩).",
     "cards-page-organization-booking-create-service-details-desc": "소프트웨어 개발 기관 : 주식회사 카드스 (주소 : 대한민국 서울특별시 용산구 청파로 109 3층, 04370). 서비스제공 기관 : {organizationName} (주소 : {organizationAddress}).",
     "cards-page-organization-booking-create-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy} 적용.",
     "cards-page-organization-booking-create-service-details-terms-cookie-policy": "쿠키정책이",
