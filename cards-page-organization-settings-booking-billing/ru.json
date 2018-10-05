@@ -19,7 +19,7 @@
     "cards-page-organization-settings-booking-billing-permission-denied": "К сожалению, у вас нет доступа. ",
     "cards-page-organization-settings-booking-billing-point-allocation-desc": "Если тарифный план длится дольше месяца, кредиты будут начисляться ежемесячно, а не единоразово.",
     "cards-page-organization-settings-booking-billing-point-allocation-label": "Насчитывать кредиты ежемесячно",
-    "cards-page-organization-settings-booking-billing-point-desc": "Максимальный период в который участники могут заранее бронировать переговорные.",
+    "cards-page-organization-settings-booking-billing-point-desc": "Участники могут использовать кредиты для бронирования переговорных. Кредиты могут быть получены путем покупки тарифного плана или добавлены вручную администратором.",
     "cards-page-organization-settings-booking-billing-point-label": "Кредитная система для бронирования",
     "cards-page-organization-settings-booking-billing-property-section-title": "Система бронирования",
     "cards-page-organization-settings-booking-billing-title": "Системы резервации и платежей"

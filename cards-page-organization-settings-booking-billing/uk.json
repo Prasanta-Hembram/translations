@@ -19,7 +19,7 @@
     "cards-page-organization-settings-booking-billing-permission-denied": "На жаль, у вас немає доступу. ",
     "cards-page-organization-settings-booking-billing-point-allocation-desc": "Якщо тарифний план триває довше місяця, кредити будуть нараховуватися щомісяця, а не одноразово.",
     "cards-page-organization-settings-booking-billing-point-allocation-label": "Нараховувати кредити щомісяця",
-    "cards-page-organization-settings-booking-billing-point-desc": "Максимальний період в який учасники можуть заздалегідь резервувати кімнати.",
+    "cards-page-organization-settings-booking-billing-point-desc": "Учасники можуть використовувати кредити для резервації кімнат. Кредити можна отримати автоматично з тарифним планом або вручну від адміністратора.",
     "cards-page-organization-settings-booking-billing-point-label": "Кредитна система для резервацій",
     "cards-page-organization-settings-booking-billing-property-section-title": "Система резервації",
     "cards-page-organization-settings-booking-billing-title": "Системи резервації та платежів"

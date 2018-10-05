@@ -19,7 +19,7 @@
     "cards-page-organization-settings-booking-billing-permission-denied": "Desafortunadamente, no tienes permiso para acceder. ",
     "cards-page-organization-settings-booking-billing-point-allocation-desc": "Si el plan de membresía dura más de 1 mes, los créditos se otorgarán mensualmente en lugar de todos a la vez.",
     "cards-page-organization-settings-booking-billing-point-allocation-label": "Dar Créditos Mensuales",
-    "cards-page-organization-settings-booking-billing-point-desc": "Los miembros podrán reservar por adelantado hasta el período seleccionado arriba.",
+    "cards-page-organization-settings-booking-billing-point-desc": "Los miembros pueden usar créditos para reservar salas de reuniones. Los créditos se pueden recibir a través de la compra de un plan de membresía o se pueden agregar manualmente por el administrador.",
     "cards-page-organization-settings-booking-billing-point-label": "Habilitar sistema de crédito",
     "cards-page-organization-settings-booking-billing-property-section-title": "Configuración de reserva",
     "cards-page-organization-settings-booking-billing-title": "Configuración de reserva y facturación"
