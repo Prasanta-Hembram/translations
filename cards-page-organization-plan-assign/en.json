@@ -10,6 +10,7 @@
     "cards-page-organization-plan-assign-button-for-price": "Assign for {price}",
     "cards-page-organization-plan-assign-button-for-free": "Assign for free",
     "cards-page-organization-plan-assign-permission-denied": "You don't have permission to access this page.",
+    "cards-page-organization-plan-assign-plan-point-allocation-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
     "cards-page-organization-plan-assign-plan-price-money": "Price, {currencySymbol}",
     "cards-page-organization-plan-assign-plan-price-points": "Credits, {pointEmoji}",
     "cards-page-organization-plan-assign-title": "Assign plan"

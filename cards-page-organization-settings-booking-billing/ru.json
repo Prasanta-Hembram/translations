@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-settings-booking-billing-booking-from": "Начало",
+    "cards-page-organization-settings-booking-billing-booking-from-until-desc": "Участники смогут забронировать переговорные в указанные часы.",
     "cards-page-organization-settings-booking-billing-booking-period": "Период доступности",
+    "cards-page-organization-settings-booking-billing-booking-period-desc": "Максимальный период в который участники могут заранее бронировать переговорные.",
     "cards-page-organization-settings-booking-billing-booking-period-one-month": "1 месяц",
     "cards-page-organization-settings-booking-billing-booking-period-one-week": "1 неделя",
     "cards-page-organization-settings-booking-billing-booking-period-two-weeks": "2 недели",
@@ -9,11 +11,15 @@
     "cards-page-organization-settings-booking-billing-booking-period-half-year": "6 месяцев",
     "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 год",
     "cards-page-organization-settings-booking-billing-booking-purpose-required": "Цель бронирования обязательна",
+    "cards-page-organization-settings-booking-billing-booking-purpose-required-desc": "Если эта опция включена, то участники обязательно должны указать название бронирования.",
     "cards-page-organization-settings-booking-billing-booking-until": "Конец",
     "cards-page-organization-settings-booking-billing-billing-section-title": "Рассчеты",
     "cards-page-organization-settings-booking-billing-billing-system": "Платежная система",
     "cards-page-organization-settings-booking-billing-billing-system-description": "Платежная система позволяет оплачивать бронь комнат и подписки на план в приложении. Чтобы настроить платежную систему, обратитесь к support@andcards.com",
     "cards-page-organization-settings-booking-billing-permission-denied": "К сожалению, у вас нет доступа. ",
+    "cards-page-organization-settings-booking-billing-point-allocation-desc": "Если тарифный план длится дольше месяца, кредиты будут начисляться ежемесячно, а не единоразово.",
+    "cards-page-organization-settings-booking-billing-point-allocation-label": "Насчитывать кредиты ежемесячно",
+    "cards-page-organization-settings-booking-billing-point-desc": "Максимальный период в который участники могут заранее бронировать переговорные.",
     "cards-page-organization-settings-booking-billing-point-label": "Кредитная система для бронирования",
     "cards-page-organization-settings-booking-billing-property-section-title": "Система бронирования",
     "cards-page-organization-settings-booking-billing-title": "Системы резервации и платежей"

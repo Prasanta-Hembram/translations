@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-settings-booking-billing-booking-from": "From",
+    "cards-page-organization-settings-booking-billing-booking-from-until-desc": "Members will be able to book meeting rooms from and until the selected hours.",
     "cards-page-organization-settings-booking-billing-booking-period": "Period",
+    "cards-page-organization-settings-booking-billing-booking-period-desc": "Members will be able to book ahead up to the selected period above.",
     "cards-page-organization-settings-booking-billing-booking-period-one-month": "1 month",
     "cards-page-organization-settings-booking-billing-booking-period-one-week": "1 week",
     "cards-page-organization-settings-booking-billing-booking-period-two-weeks": "2 weeks",
@@ -9,11 +11,15 @@
     "cards-page-organization-settings-booking-billing-booking-period-half-year": "6 months",
     "cards-page-organization-settings-booking-billing-booking-period-one-year": "1 year",
     "cards-page-organization-settings-booking-billing-booking-purpose-required": "Require Booking Purpose",
+    "cards-page-organization-settings-booking-billing-booking-purpose-required-desc": "Choose if members must enter title when they create bookings.",
     "cards-page-organization-settings-booking-billing-booking-until": "Until",
     "cards-page-organization-settings-booking-billing-billing-section-title": "Billing Settings",
     "cards-page-organization-settings-booking-billing-billing-system": "Enable Billing System",
     "cards-page-organization-settings-booking-billing-billing-system-description": "Billing system enables in-app payments for room booking and membership plans. To change this setting, contact support@andcards.com.",
     "cards-page-organization-settings-booking-billing-permission-denied": "Unfortunately, you have no permission to access.",
+    "cards-page-organization-settings-booking-billing-point-allocation-desc": "If membership plan lasts over 1 month, credits will be given monthly rather than all at once.",
+    "cards-page-organization-settings-booking-billing-point-allocation-label": "Give Credits Monthly",
+    "cards-page-organization-settings-booking-billing-point-desc": "Bonus credits will be used for room booking. Admin/moderator can freely give credits to members.",
     "cards-page-organization-settings-booking-billing-point-label": "Enable Credit System",
     "cards-page-organization-settings-booking-billing-property-section-title": "Booking Settings",
     "cards-page-organization-settings-booking-billing-title": "Booking and Billing"

@@ -15,10 +15,12 @@
     "cards-page-organization-user-balance-history-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Резервація кімнати (кредити)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",
-    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Списано вручну адміністратором/модератором",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Списано кредити адміністратором/модератором",
+    "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Списано кредити ({name})",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Закінчились з тарифним планом",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Отримано з тарифним планом",
-    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Нараховано вручну адміністратором/модератором",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Нараховано кредити адміністратором/модератором",
+    "cards-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Нараховано кредити ({name})",
     "cards-page-organization-user-balance-history-title": "Історія транзакцій"
   }
 }
