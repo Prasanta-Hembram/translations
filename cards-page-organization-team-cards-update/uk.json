@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-team-cards-update-no-cards": "Нікого додавати. 😢",
     "cards-page-organization-team-cards-update-nothing-found": "Нічого не знайдено. 😢",
-    "cards-page-organization-team-cards-update-search": "Пошук",
+    "cards-page-organization-team-cards-update-search": "Пошук {numberOfMembers} учасників",
     "cards-page-organization-team-cards-update-title": "Додати учасників: {teamName}"
   }
 }
