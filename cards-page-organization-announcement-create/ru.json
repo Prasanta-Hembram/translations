@@ -11,7 +11,7 @@
     "cards-page-organization-announcement-create-title": "Название",
     "cards-page-organization-announcement-create-title-placeholder": "Добавьте заголовок",
     "cards-page-organization-announcement-create-validation-error-teams": "Выберите получателя объявления.",
-    "cards-page-organization-announcement-create-validation-error-title": "Add the notice title.",
-    "cards-page-organization-announcement-create-validation-error-text": "Type the notice."
+    "cards-page-organization-announcement-create-validation-error-title": "Введите название объявления.",
+    "cards-page-organization-announcement-create-validation-error-text": "Введите текст объявления."
   }
 }
