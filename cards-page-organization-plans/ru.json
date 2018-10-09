@@ -28,7 +28,7 @@
     "cards-page-organization-plans-seats-only-left": "Осталось всего {numberOfSeats}",
     "cards-page-organization-plans-seats-sold-out": "Продано",
     "cards-page-organization-plans-no-plan": "У вас пока нет активного плана. 😢",
-    "cards-page-organization-plans-occupancy": "Заполненность пространства — кол-во занятых мест разделить на общее кол-во мест.",
+    "cards-page-organization-plans-occupancy": "Заполненность пространства — пропорция занятых мест в общем кол-ве мест.",
     "cards-page-organization-plans-other-plans": "Прочие планы",
     "cards-page-organization-plans-title": "Участие"
   }
