@@ -12,6 +12,7 @@
     "cards-auth-link-cookies-policy": "Cookies",
     "cards-auth-next-step": "Agree and continue",
     "cards-auth-number": "Number",
+    "cards-auth-number-invalid": "Add a valid phone number",
     "cards-auth-login-with-google": "Continue with Google",
     "cards-auth-login-with-facebook": "Continue with Facebook",
     "cards-auth-login-with-phone-number": "Login with Phone Number",

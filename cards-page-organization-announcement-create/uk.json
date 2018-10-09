@@ -10,6 +10,8 @@
     "cards-page-organization-announcement-create-text-placeholder": "Напишіть щось вашим резидентам...",
     "cards-page-organization-announcement-create-title": "Назва",
     "cards-page-organization-announcement-create-title-placeholder": "Додайте заголовок",
-    "cards-page-organization-announcement-create-validation-error-teams": "Оберіть хто отримає це оголошення."
+    "cards-page-organization-announcement-create-validation-error-teams": "Оберіть хто отримає це оголошення.",
+    "cards-page-organization-announcement-create-validation-error-title": "Уведіть назву оголошення.",
+    "cards-page-organization-announcement-create-validation-error-text": "Уведіть текст оголошення."
   }
 }

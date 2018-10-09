@@ -5,6 +5,7 @@
     "cards-page-organization-team-create-icon": "Ícono",
     "cards-page-organization-team-create-name": "Nombre",
     "cards-page-organization-team-create-name-placeholder": "Agregar nombre",
-    "cards-page-organization-team-create-permission-denied": "No tienes permiso para acceder a esta página."
+    "cards-page-organization-team-create-permission-denied": "No tienes permiso para acceder a esta página.",
+    "cards-page-organization-team-create-validation-error-title": "Añade el título del equipo."
   }
 }
