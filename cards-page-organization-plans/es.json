@@ -6,9 +6,10 @@
     "cards-page-organization-plans-balance-title": "Balance",
     "cards-page-organization-plans-button-balance-title": "Historial de saldo",
     "cards-page-organization-plans-create": "Añadir plan",
-    "cards-page-organization-plans-expire-credits": "{pointsExpiring} expira el {date}.",
+    "cards-page-organization-plans-credits-how-to-use": "Utilice estos créditos para reservar una sala de reuniones.",
+    "cards-page-organization-plans-credits-expire": "{pointsExpiring} expira el {date}.",
     "cards-page-organization-plans-price-from": "Desde {price}",
-    "cards-page-organization-plans-income": "income",
+    "cards-page-organization-plans-income": "Ingresos totales de las compras del plan de membresía y reservas de habitaciones con tarjetas o efectivo (hasta la fecha).",
     "cards-page-organization-plans-kpi-detail": "KPIs mes a la fecha",
     "cards-page-organization-plans-my-membership": "Plan activo",
     "cards-page-organization-plans-renews": "Se renueva en {daysLeft}",
@@ -27,7 +28,7 @@
     "cards-page-organization-plans-seats-only-left": "Solo quedan {numberOfSeats}",
     "cards-page-organization-plans-seats-sold-out": "Agotado",
     "cards-page-organization-plans-no-plan": "No tienes ningún plan. 😢",
-    "cards-page-organization-plans-occupancy": "Ocupación",
+    "cards-page-organization-plans-occupancy": "Utilización del espacio: total de asientos ocupados dividido por el total de asientos disponibles.",
     "cards-page-organization-plans-other-plans": "Otros planes",
     "cards-page-organization-plans-title": "Membresía"
   }
