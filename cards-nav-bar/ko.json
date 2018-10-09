@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-nav-bar-button-back": "돌아가기",
-    "cards-nav-bar-button-cancel": "취소"
+    "cards-nav-bar-button-cancel": "취소",
+    "cards-nav-bar-button-create": "만들기",
+    "cards-nav-bar-button-save": "저장"
   }
 }

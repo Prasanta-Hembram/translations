@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-nav-bar-button-back": "Вернуться",
-    "cards-nav-bar-button-cancel": "Отменить"
+    "cards-nav-bar-button-cancel": "Отменить",
+    "cards-nav-bar-button-create": "Создать",
+    "cards-nav-bar-button-save": "Сохранить"
   }
 }

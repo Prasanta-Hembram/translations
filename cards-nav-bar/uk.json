@@ -1,6 +1,8 @@
 {
   "data": {
     "cards-nav-bar-button-back": "Повернутися",
-    "cards-nav-bar-button-cancel": "Відмінити"
+    "cards-nav-bar-button-cancel": "Відмінити",
+    "cards-nav-bar-button-create": "Створити",
+    "cards-nav-bar-button-save": "Зберегти"
   }
 }
