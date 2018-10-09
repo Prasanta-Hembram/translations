@@ -6,9 +6,10 @@
     "cards-page-organization-plans-balance-title": "Balance",
     "cards-page-organization-plans-button-balance-title": "Balance History",
     "cards-page-organization-plans-create": "Add plan",
-    "cards-page-organization-plans-expire-credits": "{pointsExpiring} expire on {date}.",
+    "cards-page-organization-plans-credits-how-to-use": "Use these credits to book a meeting room.",
+    "cards-page-organization-plans-credits-expire": "{pointsExpiring} expire on {date}.",
     "cards-page-organization-plans-price-from": "From {price}",
-    "cards-page-organization-plans-income": "income",
+    "cards-page-organization-plans-income": "Total revenue from membership plan purchases and room bookings with cards or cash (month to date).",
     "cards-page-organization-plans-kpi-detail": "KPIs Month to Date",
     "cards-page-organization-plans-my-membership": "Active Plan",
     "cards-page-organization-plans-renews": "Renews {daysLeft}",
@@ -27,7 +28,7 @@
     "cards-page-organization-plans-seats-only-left": "Only {numberOfSeats} left",
     "cards-page-organization-plans-seats-sold-out": "Sold out",
     "cards-page-organization-plans-no-plan": "You have no plan. 😢",
-    "cards-page-organization-plans-occupancy": "occupancy",
+    "cards-page-organization-plans-occupancy": "Space utilization — total occupied seats divided by total available seats.",
     "cards-page-organization-plans-other-plans": "Other Plans",
     "cards-page-organization-plans-title": "Membership"
   }
