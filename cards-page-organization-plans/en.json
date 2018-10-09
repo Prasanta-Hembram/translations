@@ -28,7 +28,7 @@
     "cards-page-organization-plans-seats-only-left": "Only {numberOfSeats} left",
     "cards-page-organization-plans-seats-sold-out": "Sold out",
     "cards-page-organization-plans-no-plan": "You have no plan. 😢",
-    "cards-page-organization-plans-occupancy": "Space utilization — total occupied seats divided by total available seats.",
+    "cards-page-organization-plans-occupancy": "Space utilization — the fraction of occupied seats in the total number of seats.",
     "cards-page-organization-plans-other-plans": "Other Plans",
     "cards-page-organization-plans-title": "Membership"
   }
