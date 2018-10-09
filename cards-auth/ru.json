@@ -12,6 +12,7 @@
     "cards-auth-link-cookies-policy": "куки-файлов",
     "cards-auth-next-step": "Принять и продолжить",
     "cards-auth-number": "Номер",
+    "cards-auth-number-invalid": "Add valid phone number",
     "cards-auth-login-with-google": "Продолжить с помощью Google",
     "cards-auth-login-with-facebook": "Продолжить с помощью Facebook",
     "cards-auth-login-with-phone-number": "Продолжить с помощью номера телефона",

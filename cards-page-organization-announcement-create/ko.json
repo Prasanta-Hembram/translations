@@ -10,6 +10,8 @@
     "cards-page-organization-announcement-create-text-placeholder": "내용을 입력하세요",
     "cards-page-organization-announcement-create-title": "제목",
     "cards-page-organization-announcement-create-title-placeholder": "제목 입력하기",
-    "cards-page-organization-announcement-create-validation-error-teams": "공유그룹을 선택해주세요."
+    "cards-page-organization-announcement-create-validation-error-teams": "공유그룹을 선택해주세요.",
+    "cards-page-organization-announcement-create-validation-error-title": "Add the notice title.",
+    "cards-page-organization-announcement-create-validation-error-text": "Type the notice."
   }
 }
