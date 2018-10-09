@@ -6,6 +6,6 @@
     "cards-page-organization-team-create-name": "Название",
     "cards-page-organization-team-create-name-placeholder": "Введите название",
     "cards-page-organization-team-create-permission-denied": "Нет прав доступа для просмотра этой страницы.",
-    "cards-page-organization-team-create-validation-error-title": "Add the team title."
+    "cards-page-organization-team-create-validation-error-title": "Введите название команды."
   }
 }
