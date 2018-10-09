@@ -6,6 +6,6 @@
     "cards-page-organization-team-create-name": "Назва",
     "cards-page-organization-team-create-name-placeholder": "Введіть назву",
     "cards-page-organization-team-create-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
-    "cards-page-organization-team-create-validation-error-title": "Add the team title."
+    "cards-page-organization-team-create-validation-error-title": "Уведіть назву команди."
   }
 }
