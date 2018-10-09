@@ -6,9 +6,10 @@
     "cards-page-organization-plans-balance-title": "Баланс",
     "cards-page-organization-plans-button-balance-title": "Історія транзакцій",
     "cards-page-organization-plans-create": "Додати план",
-    "cards-page-organization-plans-expire-credits": "{pointsExpiring} стікають {date}.",
+    "cards-page-organization-plans-credits-how-to-use": "Використовуйте ці кредити для резервації кімнат.",
+    "cards-page-organization-plans-credits-expire": "{pointsExpiring} стікають {date}.",
     "cards-page-organization-plans-price-from": "Від {price}",
-    "cards-page-organization-plans-income": "прибуток",
+    "cards-page-organization-plans-income": "Прибуток з продажів тарифних планів та резервацій кімнат по картках та готівкою (цей місяць).",
     "cards-page-organization-plans-kpi-detail": "Ключові показники місяця",
     "cards-page-organization-plans-my-membership": "Активний план",
     "cards-page-organization-plans-renews": "Поновлення: {daysLeft}",
@@ -27,7 +28,7 @@
     "cards-page-organization-plans-seats-only-left": "Залишилось лише {numberOfSeats}",
     "cards-page-organization-plans-seats-sold-out": "Продано",
     "cards-page-organization-plans-no-plan": "У вас поки немає активного плану. 😢",
-    "cards-page-organization-plans-occupancy": "заповнюваність",
+    "cards-page-organization-plans-occupancy": "Заповненість простору — частка зайнятих місць у загальній кількості місць.",
     "cards-page-organization-plans-other-plans": "Інші плани",
     "cards-page-organization-plans-title": "Участь"
   }
