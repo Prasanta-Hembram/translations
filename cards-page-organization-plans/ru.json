@@ -6,9 +6,10 @@
     "cards-page-organization-plans-balance-title": "Баланс",
     "cards-page-organization-plans-button-balance-title": "История транзакций",
     "cards-page-organization-plans-create": "Добавить план",
-    "cards-page-organization-plans-expire-credits": "{pointsExpiring} истекают {date}.",
+    "cards-page-organization-plans-credits-how-to-use": "Используйте эти кредиты для бронирования переговорных.",
+    "cards-page-organization-plans-credits-expire": "{pointsExpiring} истекают {date}.",
     "cards-page-organization-plans-price-from": "От {price}",
-    "cards-page-organization-plans-income": "прибыль",
+    "cards-page-organization-plans-income": "Прибыль с продаж тарифных планов и бронирований переговорных за наличные или по карточкам (этот месяц).",
     "cards-page-organization-plans-kpi-detail": "Ключевые показатели месяца",
     "cards-page-organization-plans-my-membership": "Текущий план",
     "cards-page-organization-plans-renews": "Продление через: {daysLeft}",
@@ -27,7 +28,7 @@
     "cards-page-organization-plans-seats-only-left": "Осталось всего {numberOfSeats}",
     "cards-page-organization-plans-seats-sold-out": "Продано",
     "cards-page-organization-plans-no-plan": "У вас пока нет активного плана. 😢",
-    "cards-page-organization-plans-occupancy": "заполняемость",
+    "cards-page-organization-plans-occupancy": "Заполненность пространства — кол-во занятых мест разделить на общее кол-во мест.",
     "cards-page-organization-plans-other-plans": "Прочие планы",
     "cards-page-organization-plans-title": "Участие"
   }
