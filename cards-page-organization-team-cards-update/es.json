@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-team-cards-update-no-cards": "Nadie para agregar. 😢",
     "cards-page-organization-team-cards-update-nothing-found": "Nada Encontrado. 😢",
-    "cards-page-organization-team-cards-update-search": "Buscar",
-    "cards-page-organization-team-cards-update-title": "Añadir Tarjetas"
+    "cards-page-organization-team-cards-update-search": "Buscar {numberOfMembers} miembros",
+    "cards-page-organization-team-cards-update-title": "Agregar miembros: {teamTitle}"
   }
 }
