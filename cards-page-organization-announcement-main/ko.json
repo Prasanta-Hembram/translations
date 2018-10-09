@@ -4,7 +4,6 @@
     "cards-page-organization-announcement-main-date": "{createDate}, 변경일 : {updateDate}",
     "cards-page-organization-announcement-main-delete-failure": "공지사항을 삭제하지 못했습니다. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "다시시도",
-    "cards-page-organization-announcement-main-edit": "편집",
     "cards-page-organization-announcement-main-empty": "이 공지는 존재하지 않거나 제거되었을 수 있습니다. 😕",
     "cards-page-organization-announcement-main-view": "공지사항 보기"
   }

@@ -4,7 +4,6 @@
     "cards-page-organization-announcement-main-date": "{createDate}, editado en {updateDate}",
     "cards-page-organization-announcement-main-delete-failure": "Error al eliminar aviso. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Reintentar borrar",
-    "cards-page-organization-announcement-main-edit": "Editar",
     "cards-page-organization-announcement-main-empty": "Este aviso puede no existir o puede haberse eliminado. 😕",
     "cards-page-organization-announcement-main-view": "Aviso"
   }

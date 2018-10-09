@@ -14,7 +14,6 @@
     "cards-page-organization-booking-details-default-purpose": "Резервація",
     "cards-page-organization-booking-details-delete-failure": "Не вдалось видалити резервацію. 🙁",
     "cards-page-organization-booking-details-delete-repeat": "Спробуй ще раз",
-    "cards-page-organization-booking-details-edit": "Змінити",
     "cards-page-organization-booking-details-empty": "Ця резервація не існує, або була видалена. 😕",
     "cards-page-organization-booking-details-end-time": "Кінець",
     "cards-page-organization-booking-details-fetch-failure": "Неможливо відобразити резервацію. Перевірте, чи все добре з інтернет-з'єднанням.",

@@ -3,6 +3,8 @@
     "cards-nav-bar-button-back": "Back",
     "cards-nav-bar-button-cancel": "Cancel",
     "cards-nav-bar-button-create": "Create",
-    "cards-nav-bar-button-save": "Save"
+    "cards-nav-bar-button-edit": "Edit",
+    "cards-nav-bar-button-save": "Save",
+    "cards-nav-bar-button-send": "Send"
   }
 }

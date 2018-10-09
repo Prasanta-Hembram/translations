@@ -3,6 +3,8 @@
     "cards-nav-bar-button-back": "돌아가기",
     "cards-nav-bar-button-cancel": "취소",
     "cards-nav-bar-button-create": "만들기",
-    "cards-nav-bar-button-save": "저장"
+    "cards-nav-bar-button-edit": "편집",
+    "cards-nav-bar-button-save": "저장",
+    "cards-nav-bar-button-send": "만들기"
   }
 }
