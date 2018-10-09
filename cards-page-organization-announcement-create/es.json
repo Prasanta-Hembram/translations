@@ -11,7 +11,7 @@
     "cards-page-organization-announcement-create-title": "Título",
     "cards-page-organization-announcement-create-title-placeholder": "Añadir título",
     "cards-page-organization-announcement-create-validation-error-teams": "Seleccione los equipos receptores.",
-    "cards-page-organization-announcement-create-validation-error-title": "Add the notice title.",
-    "cards-page-organization-announcement-create-validation-error-text": "Type the notice."
+    "cards-page-organization-announcement-create-validation-error-title": "Agregue el título del aviso.",
+    "cards-page-organization-announcement-create-validation-error-text": "Escriba el aviso."
   }
 }
