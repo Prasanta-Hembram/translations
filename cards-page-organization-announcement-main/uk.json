@@ -4,7 +4,6 @@
     "cards-page-organization-announcement-main-date": "{createDate}, ред. {updateDate}",
     "cards-page-organization-announcement-main-delete-failure": "Не вдалося видалити сповіщення. 🙁",
     "cards-page-organization-announcement-main-delete-repeat": "Спробувати ще раз",
-    "cards-page-organization-announcement-main-empty": " Це сповіщення не існує або було видалено. 😕",
-    "cards-page-organization-announcement-main-view": "Сповіщення"
+    "cards-page-organization-announcement-main-empty": " Це сповіщення не існує або було видалено. 😕"
   }
 }
