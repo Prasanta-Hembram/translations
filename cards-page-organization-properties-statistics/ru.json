@@ -1,11 +1,11 @@
 {
   "data": {
-    "cards-page-organization-property-statistics-average": "Среднее значение (все переговорные)",
+    "cards-page-organization-property-statistics-average": "Среднее (все переговорные)",
     "cards-page-organization-property-statistics-booking-hours": "Количество часов",
     "cards-page-organization-property-statistics-bookings-times": "Количество резерваций",
     "cards-page-organization-property-statistics-difference": "Разница",
     "cards-page-organization-property-statistics-end-date-title": "Конец",
-    "cards-page-organization-property-statistics-facility": "Всего (эта переговорная)",
+    "cards-page-organization-property-statistics-facility": "Эта переговорная",
     "cards-page-organization-property-statistics-internet-error-general" : "Невозможно отобразить статистику. Проверьте, пожалуйста, интернет соединение.",
     "cards-page-organization-property-statistics-internet-error-chart" : "Невозможно отобразить диаграмму. Проверьте, пожалуйста, интернет соединение.",
     "cards-page-organization-property-statistics-start-date-title": "Начало",
@@ -13,7 +13,7 @@
     "cards-page-organization-property-statistics-popularity-hour": "Популярность по часам, часов",
     "cards-page-organization-property-statistics-popularity-week": "Популярность по дням",
     "cards-page-organization-property-statistics-title": "Общая статистика",
-    "cards-page-organization-property-statistics-utilization-title": "Показатель использования, %",
+    "cards-page-organization-property-statistics-utilization-title": "Заполненность, %",
     "cards-page-organization-property-statistics-validation-error-chart": "Невозможно отобразить диаграмму. Проверьте, пожалуйста, правильно ли введена дата.",
     "cards-page-organization-property-statistics-validation-error-general": "Невозможно отобразить статистику. Проверьте, пожалуйста, правильно ли введена дата.",
     "cards-page-organization-property-statistics-popularity-week-sun": "Вс",
