@@ -30,7 +30,7 @@
     "cards-page-organization-booking-create-pay-with-validation-error": "크레딧 부족. 다른 결제 방법을 선택하세요.",
     "cards-page-organization-booking-create-price-money": "이용료는 시간 당 {priceMoney}입니다.",
     "cards-page-organization-booking-create-price-points": "이용료는 시간 당 {priceCredits}입니다.",
-    "cards-page-organization-booking-create-price-points-and-money": "이용료는 시간 당 {priceUSD} 혹은 {priceCredits}입니다.",
+    "cards-page-organization-booking-create-price-points-and-money": "이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다.",
     "cards-page-organization-booking-create-purpose": "제목",
     "cards-page-organization-booking-create-purpose-placeholder": "제목 입력하기 (모든 회원 확인 가능)",
     "cards-page-organization-booking-create-section-time": "시간",
