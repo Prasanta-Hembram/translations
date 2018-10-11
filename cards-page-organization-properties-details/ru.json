@@ -1,9 +1,14 @@
 {
   "data": {
-    "cards-page-organization-property-details-description": "Описание",
-    "cards-page-organization-property-details-hour": "ч.",
+    "cards-page-organization-property-details-description-title": "Описание",
     "cards-page-organization-property-details-no-property": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
-    "cards-page-organization-property-details-seats": "мест",
+    "cards-page-organization-property-details-overview-title": "Обзор",
+    "cards-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность резервации {duration}.",
+    "cards-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность резервации {duration}.",
+    "cards-page-organization-property-details-overview-seats": "- Эта комната может вместить до {numberOfSeats} гостей.",
+    "cards-page-organization-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
+    "cards-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
+    "cards-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час.",
     "cards-page-organization-property-details-title": "Подробно о {propertyName}",
     "cards-page-organization-property-details-title-default": "Подробно"
   }
