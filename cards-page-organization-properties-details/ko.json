@@ -2,7 +2,7 @@
   "data": {
     "cards-page-organization-property-details-description-title": "설명",
     "cards-page-organization-property-details-no-property": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "cards-page-organization-property-details-overview-title": "개요",
+    "cards-page-organization-property-details-overview-title": "안내",
     "cards-page-organization-property-details-overview-min-booking-time": "- 최저 예약 시간 {duration}입니다.",
     "cards-page-organization-property-details-overview-max-booking-time": "- 최대 예약 시간 {duration}입니다.",
     "cards-page-organization-property-details-overview-seats": "- 이 시설은 최대 {numberOfSeats}명 수용가능합니다.",
