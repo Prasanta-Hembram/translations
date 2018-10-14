@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-home-title": "최고 코워킹 스페이스 운영 소프트웨어 | andCards",
-    "marketing-home-description": "코워킹 스페이스의 자동화를 위한 단 하나의 앱 : 회의실 예약 시스텀, 구글 캘린더 연동, 회의실 디스플레이 앱, 코워킹 멤버십 CRM, 신용카드 승인 결제시스템, 공지사항 시스템, 모바일 어플리케이션.",
+    "marketing-home-description": "코워킹 스페이스의 자동화를 위한 단 하나의 코워킹 스페이스 관리 앱 : 회의실 예약 시스텀, 구글 캘린더 연동, 회의실 디스플레이 앱, 코워킹 멤버십 CRM, 신용카드 승인 결제시스템, 공지사항 시스템, 모바일 어플리케이션.",
     "marketing-home-badge-free": "무료",
     "marketing-home-badge-soon": "출시 예정",
     "marketing-home-button-explore-all-features": "모든 기능을 경험해보세요",
@@ -38,7 +38,7 @@
     "marketing-home-coworking-space-small-headline-2": "당신의 커뮤니티에 투자하세요.",
     "marketing-home-coworking-space-small-type": "소규모 코워킹 스페이스",
     "marketing-home-customers-headline": "andCards를 선호하는 코워킹 스페이스",
-    "marketing-home-features-description": "andCards Suite는 공간운영의 효율성을 극대화할 수 있도록 제작되었습니다. 프로 소프트웨어 개발자들이 구축한 효율적인 기능들, 간단한 인터페이스, 유용한 연동기술까지. 이 모든 것은 당신에게 최상의 도움을 드립니다.",
+    "marketing-home-features-description": "andCards 코워킹 소프트웨어는 고객들이 당신의 공간을 찾고, 결제하고, 이용할 수 있도록 도와드릴 수 있는 모든 기능을 갖추고 있습니다.",
     "marketing-home-features-membership": "멤버십 관리",
     "marketing-home-features-room-booking": "시설 예약 시스템",
     "marketing-home-features-bonus-credit": "보너스 크레딧 시스템",
@@ -48,7 +48,7 @@
     "marketing-home-features-smart-lock": "스마트락 연동",
     "marketing-home-features-personal-calendar": "개인 캘린더 연동",
     "marketing-home-features-kiosk": "회의실 디스플레이 태블릿 앱",
-    "marketing-home-features-external-booking": "외부고객 시설 예약",
+    "marketing-home-features-external-booking": "마켓플레이스 연동",
     "marketing-home-headline": "코워킹스페이스를 관리하는 단 하나의 앱",
     "marketing-home-headline-2": "andCards Suite는 자동화 운영 및 관리를 도와줄 수 있는 코워킹 소프트웨어입니다 - 멤버십, 결제, 마케팅을 통한 시설예약.",
     "marketing-home-request-demo-button": "andCards Suite 이용하기",
