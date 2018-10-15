@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-property-main-book-button": "Reservar",
-    "cards-page-organization-property-main-date": "Fecha",
+    "cards-page-organization-property-main-date-prev-week": "Sem. pas.",
+    "cards-page-organization-property-main-date-today": "Hoy",
+    "cards-page-organization-property-main-date-next-week": "Sem. próx.",
     "cards-page-organization-property-main-default-booking-purpose": "Reservación",
     "cards-page-organization-property-main-error-not-found": "No se pudo mostrar una habitación ¿Estás seguro de que hay una conexión a Internet?",
     "cards-page-organization-property-main-hour" : "hora",

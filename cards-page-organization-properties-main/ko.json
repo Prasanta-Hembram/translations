@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-property-main-book-button": "예약",
-    "cards-page-organization-property-main-date": "날짜",
+    "cards-page-organization-property-main-date-prev-week": "지난주",
+    "cards-page-organization-property-main-date-today": "오늘",
+    "cards-page-organization-property-main-date-next-week": "다음주",
     "cards-page-organization-property-main-default-booking-purpose": "예약",
     "cards-page-organization-property-main-error-not-found": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "cards-page-organization-property-main-hour" : "시간",

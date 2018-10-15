@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-property-main-book-button": "Резервувати",
-    "cards-page-organization-property-main-date": "Дата",
+    "cards-page-organization-property-main-date-prev-week": "Мин. тижд.",
+    "cards-page-organization-property-main-date-today": "Сьогодні",
+    "cards-page-organization-property-main-date-next-week": "Наст. тижд.",
     "cards-page-organization-property-main-default-booking-purpose": "Резервація",
     "cards-page-organization-property-main-error-not-found": "Кімнату не можливо відобразити. Перевірте, чи все добре з інтернет-з'єднанням.",
     "cards-page-organization-property-main-hour" : "год.",

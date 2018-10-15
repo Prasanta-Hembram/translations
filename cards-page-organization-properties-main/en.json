@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-property-main-book-button": "Book",
-    "cards-page-organization-property-main-date": "Date",
+    "cards-page-organization-property-main-date-prev-week": "Prev. week",
+    "cards-page-organization-property-main-date-today": "Today",
+    "cards-page-organization-property-main-date-next-week": "Next week",
     "cards-page-organization-property-main-default-booking-purpose": "Reservation",
     "cards-page-organization-property-main-error-not-found": "Couldn't show a room. Are you sure there is an internet connection?",
     "cards-page-organization-property-main-hour" : "hr",

@@ -1,7 +1,9 @@
 {
   "data": {
     "cards-page-organization-property-main-book-button": "Бронировать",
-    "cards-page-organization-property-main-date": "Дата",
+    "cards-page-organization-property-main-date-prev-week": "Прошл. нед.",
+    "cards-page-organization-property-main-date-today": "Сегодня",
+    "cards-page-organization-property-main-date-next-week": "След. нед.",
     "cards-page-organization-property-main-default-booking-purpose": "Бронь",
     "cards-page-organization-property-main-error-not-found": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
     "cards-page-organization-property-main-hour" : "ч.",
