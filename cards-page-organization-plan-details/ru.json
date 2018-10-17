@@ -4,10 +4,12 @@
     "cards-page-organization-plan-details-auto-renew": "Продлевать автоматически",
     "cards-page-organization-plan-details-auto-renew-description": "Деньги будут сниматься автоматически, пока вы не отмените подписку.",
     "cards-page-organization-plan-details-button-3d-secure": "Подтвердить платеж",
+    "cards-page-organization-plan-details-capacity": "Capacity",
     "cards-page-organization-plan-details-card-title-phone-number" : "Номер карты",
     "cards-page-organization-plan-details-card-title-email": "Email",
     "cards-page-organization-plan-details-card-title-expiry" : "Cрок действия",
     "cards-page-organization-plan-details-card-title-cvv" : "CVV",
+    "cards-page-organization-plan-details-credits": "Кредиты",
     "cards-page-organization-plan-details-delete-failure": "Не удалось удалить тариф 🙁",
     "cards-page-organization-plan-details-delete-plan": "Удалить тариф",
     "cards-page-organization-plan-details-delete-repeat": "Попробовать еще раз",
@@ -22,6 +24,11 @@
     "cards-page-organization-plan-details-period-payed-with-title": "Оплачено",
     "cards-page-organization-plan-details-period-payed-with-card": "Карточкой",
     "cards-page-organization-plan-details-period-title": "Период",
+    "cards-page-organization-plan-details-plan-point-allocation-enabled-desc": "Подписчики на период до 1 месяца получат все кредиты сразу. Подписчики на период от 3 месяцев будут получать кредиты ежемесячно.",
+    "cards-page-organization-plan-details-plan-point-allocation-disabled-desc": "Подписчики получат все кредиты сразу.",
+    "cards-page-organization-plan-details-price": "Price",
+    "cards-page-organization-plan-details-pricing": "Pricing",
+    "cards-page-organization-plan-details-seats": "Seats",
     "cards-page-organization-plan-details-service-details-extra-notice": "Платеж обрабатывается компанией Paymentwall, Юнит 701-702 7/F, 8 Джордан роуд, Яумати Коулун, Гонконг.",
     "cards-page-organization-plan-details-service-details-desc": "Программное обеспечение разработано компанией Card Corp., 109 Cheongpa-ro, Yongsan-gu, г. Сеул, Республика Корея, 04370. Услуги предоставляются {organizationName}, {organizationAddress}.",
     "cards-page-organization-plan-details-service-details-terms-desc": "Действуют {termsOfUse}, политики {privacyPolicy} и {cookiePolicy}.",
@@ -31,9 +38,11 @@
     "cards-page-organization-plan-details-subscribe": "Подписаться",
     "cards-page-organization-plan-details-subscribe-for-free": "Подписаться бесплатно",
     "cards-page-organization-plan-details-subscribe-for-price": "Подписаться за {price}",
+    "cards-page-organization-plan-details-quantity": "Quantity",
     "cards-page-organization-plan-details-title": "Подписаться на план",
     "cards-page-organization-plan-details-title-for-admin": "Детали тарифа",
     "cards-page-organization-plan-details-title-for-admin-with-plan-title": "Детали тарифа: {title}",
-    "cards-page-organization-plan-details-title-with-plan-title": "Подписаться на план: {title}"
+    "cards-page-organization-plan-details-title-with-plan-title": "Подписаться на план: {title}",
+    "cards-page-organization-plan-details-type": "Type"
   }
 }

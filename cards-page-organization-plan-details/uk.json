@@ -4,10 +4,12 @@
     "cards-page-organization-plan-details-auto-renew": "Поновлювати автоматично",
     "cards-page-organization-plan-details-auto-renew-description": "Гроші зніматимуться автоматично, допоки ви не скасуєте підписку.",
     "cards-page-organization-plan-details-button-3d-secure": "Підтвердити платіж",
+    "cards-page-organization-plan-details-capacity": "Capacity",
     "cards-page-organization-plan-details-card-title-phone-number": "Номер картки",
     "cards-page-organization-plan-details-card-title-email": "Email",
     "cards-page-organization-plan-details-card-title-expiry": "Термін дії",
     "cards-page-organization-plan-details-card-title-cvv": "CVV",
+    "cards-page-organization-plan-details-credits": "Кредити",
     "cards-page-organization-plan-details-delete-failure": "Не вдалося видалити план 🙁",
     "cards-page-organization-plan-details-delete-plan": "Видалити план",
     "cards-page-organization-plan-details-delete-repeat": "Спробувати знову",
@@ -22,6 +24,11 @@
     "cards-page-organization-plan-details-period-payed-with-title": "Оплачено",
     "cards-page-organization-plan-details-period-payed-with-card": "Карткою",
     "cards-page-organization-plan-details-period-title": "Період",
+    "cards-page-organization-plan-details-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
+    "cards-page-organization-plan-details-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",
+    "cards-page-organization-plan-details-price": "Price",
+    "cards-page-organization-plan-details-pricing": "Pricing",
+    "cards-page-organization-plan-details-seats": "Seats",
     "cards-page-organization-plan-details-service-details-extra-notice": "Платіж обробляється компанією Paymentwall, Unit 701-702 7/F, 8 Джордан роуд, Яуматі Коулун, Гонконг.",
     "cards-page-organization-plan-details-service-details-desc": "Програмне забезпечення розроблено компанією Cards Corp., 109 Чхонпа-ро, Йонгсан-гу, м. Сеул, Республіка Корея, 04370. Сервіси надаються {organizationName}, {organizationAddress}.",
     "cards-page-organization-plan-details-service-details-terms-desc": "Діють {termsOfUse}, політики {privacyPolicy} та {cookiePolicy}.",
@@ -31,9 +38,11 @@
     "cards-page-organization-plan-details-subscribe": "Підписатись",
     "cards-page-organization-plan-details-subscribe-for-free": "Підписатись безкоштовно",
     "cards-page-organization-plan-details-subscribe-for-price": "Підписатись за {price}",
+    "cards-page-organization-plan-details-quantity": "Quantity",
     "cards-page-organization-plan-details-title": "Підписатись на план",
     "cards-page-organization-plan-details-title-for-admin": "Деталі плану",
     "cards-page-organization-plan-details-title-for-admin-with-plan-title": "Підписатись на план: {title}",
-    "cards-page-organization-plan-details-title-with-plan-title": "Деталі плану: {title}"
+    "cards-page-organization-plan-details-title-with-plan-title": "Деталі плану: {title}",
+    "cards-page-organization-plan-details-type": "Type"
   }
 }
