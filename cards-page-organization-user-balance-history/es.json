@@ -17,6 +17,7 @@
     "cards-page-organization-user-balance-history-permission-denied": "No tienes permiso para acceder a esta página.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Habitación reservada (créditos)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de habitación cancelada (créditos)",
+    "cards-page-organization-user-balance-history-point-transaction-book-by-points-with-admin-name": "Booked meeting room (credits) by {name}",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manualmente agregado por admin / moderator",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Manualmente agregado por {name}",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Vencido con un plan de membresía",

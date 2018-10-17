@@ -17,6 +17,7 @@
     "cards-page-organization-user-balance-history-permission-denied": "볼 수있는 권한이 없습니다.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "시설 예약 (크레딧)",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "시설 예약 취소 (크레딧)",
+    "cards-page-organization-user-balance-history-point-transaction-book-by-points-with-admin-name": "Booked meeting room (credits) by {name}",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "관리자/중간관리자 수동 회수",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "크레딧 수동 회수 ({name})",
     "cards-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "멤버십 플랜 만료",

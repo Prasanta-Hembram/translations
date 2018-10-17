@@ -16,6 +16,7 @@
     "cards-page-organization-user-balance-history-money-transaction-status-unpaid": "Неоплачено",
     "cards-page-organization-user-balance-history-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "cards-page-organization-user-balance-history-point-transaction-book-by-points": "Резервація кімнати (кредити)",
+    "cards-page-organization-user-balance-history-point-transaction-book-by-points-with-admin-name": "Booked meeting room (credits) by {name}",
     "cards-page-organization-user-balance-history-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin": "Списано кредити адміністратором/модератором",
     "cards-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Списано кредити ({name})",
