@@ -3,6 +3,7 @@
     "cards-page-organization-plan-details-active-title": "나의 멤버십 플랜",
     "cards-page-organization-plan-details-active-title-with-plan-title": "나의 멤버십 플랜: {title}",
     "cards-page-organization-plan-details-active-auto-renew": "멤버십 구독 자동갱신",
+    "cards-page-organization-plan-details-active-credits": "크레딧",
     "cards-page-organization-plan-details-active-deactivate": "해지하기",
     "cards-page-organization-plan-details-active-empty": "이 사항은 변경되거나 없어질 수 있습니다 😕",
     "cards-page-organization-plan-details-active-payment-cash-desc": "결제 완료",
@@ -16,7 +17,10 @@
     "cards-page-organization-plan-details-active-period-pay-with-cash-title": "현금",
     "cards-page-organization-plan-details-active-period-title": "기간",
     "cards-page-organization-plan-details-active-permission-denied": "볼 수있는 권한이 없습니다.",
+    "cards-page-organization-plan-details-active-price": "가격",
+    "cards-page-organization-plan-details-active-seats": "좌석 수",
     "cards-page-organization-plan-details-active-subscribe-alert": "멤버십 플랜 연장 완료",
+    "cards-page-organization-plan-details-active-type": "유형",
     "cards-page-organization-plan-details-active-unsubscribe-alert": "멤버십 플랜 해지 완료"
   }
 }

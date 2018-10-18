@@ -3,6 +3,7 @@
     "cards-page-organization-plan-details-active-title": "Plan activo",
     "cards-page-organization-plan-details-active-title-with-plan-title": "Plan activo: {title}",
     "cards-page-organization-plan-details-active-auto-renew": "Renovar subscripción automáticamente",
+    "cards-page-organization-plan-details-active-credits": "Créditos",
     "cards-page-organization-plan-details-active-deactivate": "Desactivar",
     "cards-page-organization-plan-details-active-empty": "Este plan no existe o puede haber sido eliminado 😕",
     "cards-page-organization-plan-details-active-payment-cash-desc": "Pago recibido",
@@ -16,7 +17,10 @@
     "cards-page-organization-plan-details-active-period-pay-with-cash-title": "Dinero",
     "cards-page-organization-plan-details-active-period-title": "Periodo",
     "cards-page-organization-plan-details-active-permission-denied": "No tienes permiso para acceder a esta página.",
+    "cards-page-organization-plan-details-active-price": "Precio",
+    "cards-page-organization-plan-details-active-seats": "Asientos",
     "cards-page-organization-plan-details-active-subscribe-alert": "La subscripción ha sido activada",
+    "cards-page-organization-plan-details-active-type": "Insertar",
     "cards-page-organization-plan-details-active-unsubscribe-alert": "La subscripción fue cancelada"
   }
 }

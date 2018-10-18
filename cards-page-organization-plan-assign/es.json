@@ -13,6 +13,7 @@
     "cards-page-organization-plan-assign-plan-point-allocation-desc": "Los suscriptores de 1 mes o menos recibirán todos los créditos a la vez. Más de 3 meses los suscriptores obtendrán créditos cada mes.",
     "cards-page-organization-plan-assign-plan-price-money": "Precio, {currencySymbol}",
     "cards-page-organization-plan-assign-plan-price-points": "Precio, {pointEmoji}",
+    "cards-page-organization-plan-assign-seats": "Asientos",
     "cards-page-organization-plan-assign-title": "Asignar plan"
   }
 }

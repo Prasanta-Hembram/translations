@@ -13,6 +13,7 @@
     "cards-page-organization-plan-assign-plan-point-allocation-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "cards-page-organization-plan-assign-plan-price-money": "Ціна, {currencySymbol}",
     "cards-page-organization-plan-assign-plan-price-points": "Кредити, {pointEmoji}",
+    "cards-page-organization-plan-assign-seats": "Роб. місць",
     "cards-page-organization-plan-assign-title": "Призначити план"
   }
 }
