@@ -13,6 +13,8 @@
     "cards-page-organization-booking-edit-payed-with": "Pagado con",
     "cards-page-organization-booking-edit-payment-cash-title": "Estado",
     "cards-page-organization-booking-edit-payment-cash-desc": "Pago recibido",
+    "cards-page-organization-booking-edit-payment-cash-paid": "Pagado",
+    "cards-page-organization-booking-edit-payment-cash-unpaid": "No pagado",
     "cards-page-organization-booking-edit-purpose": "Título",
     "cards-page-organization-booking-edit-purpose-placeholder": "Agregar título (públicamente)",
     "cards-page-organization-booking-edit-section-access": "Access",

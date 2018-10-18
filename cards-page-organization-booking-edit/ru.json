@@ -13,6 +13,8 @@
     "cards-page-organization-booking-edit-payed-with": "Оплачено",
     "cards-page-organization-booking-edit-payment-cash-title": "Статус",
     "cards-page-organization-booking-edit-payment-cash-desc": "Сплачено",
+    "cards-page-organization-booking-edit-payment-cash-paid": "Оплачено",
+    "cards-page-organization-booking-edit-payment-cash-unpaid": "Неоплачено",
     "cards-page-organization-booking-edit-purpose": "Название",
     "cards-page-organization-booking-edit-purpose-placeholder": "Введите название (видно всем участникам)",
     "cards-page-organization-booking-edit-section-access": "Доступ",

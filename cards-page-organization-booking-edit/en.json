@@ -12,6 +12,8 @@
     "cards-page-organization-booking-edit-memo-placeholder": "Add memo (visible only to booker and admin)",
     "cards-page-organization-booking-edit-payed-with": "Paid with",
     "cards-page-organization-booking-edit-payment-cash-title": "Status",
+    "cards-page-organization-booking-edit-payment-cash-paid": "Paid",
+    "cards-page-organization-booking-edit-payment-cash-unpaid": "Unpaid",
     "cards-page-organization-booking-edit-payment-cash-desc": "Payment received",
     "cards-page-organization-booking-edit-purpose": "Title",
     "cards-page-organization-booking-edit-purpose-placeholder": "Add title (visible to all members)",

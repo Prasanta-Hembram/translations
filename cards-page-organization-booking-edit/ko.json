@@ -13,6 +13,8 @@
     "cards-page-organization-booking-edit-payed-with": "결제 수단",
     "cards-page-organization-booking-edit-payment-cash-title": "결제 사항",
     "cards-page-organization-booking-edit-payment-cash-desc": "결제 완료",
+    "cards-page-organization-booking-edit-payment-cash-paid": "결제 완료",
+    "cards-page-organization-booking-edit-payment-cash-unpaid": "결제 예정",
     "cards-page-organization-booking-edit-purpose": "제목",
     "cards-page-organization-booking-edit-purpose-placeholder": "제목 입력하기 (모든 회원 확인 가능)",
     "cards-page-organization-booking-edit-section-access": "출입",
