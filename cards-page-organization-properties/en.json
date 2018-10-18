@@ -4,12 +4,12 @@
     "cards-page-organization-properties-availability-in-minutes": "Available {time}",
     "cards-page-organization-properties-availability-unavailable": "Unavailable",
     "cards-page-organization-properties-bookings-button-export-title": "Export to Calendar",
-    "cards-page-organization-properties-bookings-button-my-title": "All my bookings",
+    "cards-page-organization-properties-bookings-button-my-title": "All My Bookings",
     "cards-page-organization-properties-default-booking-purpose": "Reservation",
     "cards-page-organization-properties-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
     "cards-page-organization-properties-my-bookings": "My Bookings",
     "cards-page-organization-properties-no-properties": "There are no any available rooms. 😢",
-    "cards-page-organization-properties-calendar-button-title": "Calendar",
+    "cards-page-organization-properties-calendar-button-title": "All Rooms",
     "cards-page-organization-properties-rooms": "Rooms",
     "cards-page-organization-properties-title": "Bookings"
   }
