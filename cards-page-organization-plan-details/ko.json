@@ -26,9 +26,9 @@
     "cards-page-organization-plan-details-period-title": "기간",
     "cards-page-organization-plan-details-plan-point-allocation-enabled-desc": "1개월 이하 구매자는 모든 크레딧을 한 번에 받게됩니다. 3개월 이상 구매자는 매월 크레딧을 받습니다.",
     "cards-page-organization-plan-details-plan-point-allocation-disabled-desc": "구매자는 모든 크레딧을 한 번에 받게됩니다.",
-    "cards-page-organization-plan-details-price": "Price",
-    "cards-page-organization-plan-details-pricing": "Pricing",
-    "cards-page-organization-plan-details-seats": "Seats",
+    "cards-page-organization-plan-details-price": "가격",
+    "cards-page-organization-plan-details-pricing": "가격 정책",
+    "cards-page-organization-plan-details-seats": "좌석 수",
     "cards-page-organization-plan-details-service-details-extra-notice": "결제처리 기관 : Paymentwall (주소 : 유닛 701-702 7/F, 8 조르단 로드, 야우마데이 가우룽싱 구, 홍콩).",
     "cards-page-organization-plan-details-service-details-desc": "소프트웨어 개발 기관 : 주식회사 카드스 (주소 : 대한민국 서울특별시 용산구 청파로 109 3층, 04370). 서비스제공 기관 : {organizationName} (주소 : {organizationAddress}).",
     "cards-page-organization-plan-details-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy} 적용.",
@@ -38,11 +38,11 @@
     "cards-page-organization-plan-details-subscribe": "구독하기",
     "cards-page-organization-plan-details-subscribe-for-free": "무료로 구독하기",
     "cards-page-organization-plan-details-subscribe-for-price": "{price}로 구독하기",
-    "cards-page-organization-plan-details-quantity": "Quantity",
+    "cards-page-organization-plan-details-quantity": "판매 수",
     "cards-page-organization-plan-details-title": "멤버십 구독",
     "cards-page-organization-plan-details-title-for-admin": "플랜 정보",
     "cards-page-organization-plan-details-title-for-admin-with-plan-title": "멤버십 구독: {title}",
     "cards-page-organization-plan-details-title-with-plan-title": "멤버십 구독: {title}",
-    "cards-page-organization-plan-details-type": "Type"
+    "cards-page-organization-plan-details-type": "유형"
   }
 }

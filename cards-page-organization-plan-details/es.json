@@ -26,9 +26,9 @@
     "cards-page-organization-plan-details-period-title": "Periodo",
     "cards-page-organization-plan-details-plan-point-allocation-enabled-desc": "Los suscriptores de 1 mes o menos recibirán todos los créditos a la vez. Más de 3 meses los suscriptores obtendrán créditos cada mes.",
     "cards-page-organization-plan-details-plan-point-allocation-disabled-desc": "Los suscriptores recibirán todos los créditos a la vez.",
-    "cards-page-organization-plan-details-price": "Price",
-    "cards-page-organization-plan-details-pricing": "Pricing",
-    "cards-page-organization-plan-details-seats": "Seats",
+    "cards-page-organization-plan-details-price": "Precio",
+    "cards-page-organization-plan-details-pricing": "Precios",
+    "cards-page-organization-plan-details-seats": "Asientos",
     "cards-page-organization-plan-details-service-details-extra-notice": "El pago es procesado por Paymentwall, Unidad 701-702 7 / F, 8 Jordan road, Yaumati Kowloon, Hong Kong.",
     "cards-page-organization-plan-details-service-details-desc": "El software es desarrollado por Cards Corp., 109 Cheongpa-ro, Yongsan-gu, Seúl, República de Corea, 04370. Los servicios son cumplidos por {organizationName}, {organizationAddress}.",
     "cards-page-organization-plan-details-service-details-terms-desc": "{termsOfUse}, {privacyPolicy} y {cookiePolicy} se aplican.",
@@ -38,11 +38,11 @@
     "cards-page-organization-plan-details-subscribe": "Subscribirse",
     "cards-page-organization-plan-details-subscribe-for-free": "Subscribirse gratis",
     "cards-page-organization-plan-details-subscribe-for-price": "Subscribirse por {price}",
-    "cards-page-organization-plan-details-quantity": "Quantity",
+    "cards-page-organization-plan-details-quantity": "Cantidad",
     "cards-page-organization-plan-details-title": "Adquirir un plan de membresía",
     "cards-page-organization-plan-details-title-for-admin": "Detalles del plan",
     "cards-page-organization-plan-details-title-for-admin-with-plan-title": "Detalles del plan: {title}",
     "cards-page-organization-plan-details-title-with-plan-title": "Adquirir un plan de membresía: {title}",
-    "cards-page-organization-plan-details-type": "Type"
+    "cards-page-organization-plan-details-type": "Insertar"
   }
 }
