@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-plan-assign-button-add-plan": "Создать план",
+    "cards-page-organization-plan-assign-error-empty-plans": "Отсутствуют тарифные планы. 😕",
     "cards-page-organization-plan-assign-error-not-found": "Эта страница не существует или же была удалена. 😕",
     "cards-page-organization-plan-assign-error-selected-admin": "Невозможно присвоить план администратору или модератору.",
     "cards-page-organization-plan-assign-period-from-title": "Начало",

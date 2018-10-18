@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-plan-assign-button-add-plan": "Crear plan",
+    "cards-page-organization-plan-assign-error-empty-plans": "No hay planes todavía. 😕",
     "cards-page-organization-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada. 😕",
     "cards-page-organization-plan-assign-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
     "cards-page-organization-plan-assign-period-from-title": "Desde",

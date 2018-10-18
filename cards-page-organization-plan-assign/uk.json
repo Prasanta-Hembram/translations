@@ -1,5 +1,7 @@
 {
   "data": {
+    "cards-page-organization-plan-assign-button-add-plan": "Створити план",
+    "cards-page-organization-plan-assign-error-empty-plans": "Тарифні плани відсутні. 😕",
     "cards-page-organization-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено. 😕",
     "cards-page-organization-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
     "cards-page-organization-plan-assign-period-from-title": "Початок",
