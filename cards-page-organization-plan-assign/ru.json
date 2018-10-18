@@ -9,6 +9,8 @@
     "cards-page-organization-plan-assign-period-title": "Период",
     "cards-page-organization-plan-assign-button-for-price": "Присвоить за {price}",
     "cards-page-organization-plan-assign-button-for-free": "Присвоить бесплатно",
+    "cards-page-organization-plan-assign-payment-cash-title": "Статус",
+    "cards-page-organization-plan-assign-payment-cash-desc": "Сплачено",
     "cards-page-organization-plan-assign-permission-denied": "Нет прав доступа для просмотра этой страницы.",
     "cards-page-organization-plan-assign-plan-point-allocation-desc": "Подписчики на период до 1 месяца получат все кредиты сразу. Подписчики на период от 3 месяцев будут получать кредиты ежемесячно.",
     "cards-page-organization-plan-assign-plan-price-money": "Цена, {currencySymbol}",

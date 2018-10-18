@@ -9,6 +9,8 @@
     "cards-page-organization-plan-assign-period-title": "Período",
     "cards-page-organization-plan-assign-button-for-price": "Asignar por {price}",
     "cards-page-organization-plan-assign-button-for-free": "Asignar gratis",
+    "cards-page-organization-plan-assign-payment-cash-title": "Estado",
+    "cards-page-organization-plan-assign-payment-cash-desc": "Pago recibido",
     "cards-page-organization-plan-assign-permission-denied": "No tienes permiso para acceder a esta página.",
     "cards-page-organization-plan-assign-plan-point-allocation-desc": "Los suscriptores de 1 mes o menos recibirán todos los créditos a la vez. Más de 3 meses los suscriptores obtendrán créditos cada mes.",
     "cards-page-organization-plan-assign-plan-price-money": "Precio, {currencySymbol}",

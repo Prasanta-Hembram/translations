@@ -9,6 +9,8 @@
     "cards-page-organization-plan-assign-period-title": "Період",
     "cards-page-organization-plan-assign-button-for-price": "Призначити за {price}",
     "cards-page-organization-plan-assign-button-for-free": "Призначити безкоштовно",
+    "cards-page-organization-plan-assign-payment-cash-title": "Статус",
+    "cards-page-organization-plan-assign-payment-cash-desc": "Оплачено",
     "cards-page-organization-plan-assign-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "cards-page-organization-plan-assign-plan-point-allocation-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "cards-page-organization-plan-assign-plan-price-money": "Ціна, {currencySymbol}",
