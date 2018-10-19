@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-legal-consent-withdraw-title": "Retirar consentimiento",
-    "cards-alert-confirmation-legal-consent-withdraw-text": "¿Está seguro de querer retirar su aprobación a esta norma? Esta norma es esencial para utilizar los servicios de andCards. Si procede no podrá continuar utilizando andCards y TODOS SUS DATOS SERÁN ELIMINADO DE MANERA PERMANENTE E IRREVERSIBLE.",
-    "cards-alert-confirmation-legal-consent-withdraw-yes": "Si, eliminar",
-    "cards-alert-confirmation-legal-consent-withdraw-no": "Cancelar"
-  }
-}

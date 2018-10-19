@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-announcement-delete-text": "Вы действительно хотите удалить это объявление? Это действие необратимо.",
+    "alert-confirmation-organization-announcement-delete-no": "Отменить",
+    "alert-confirmation-organization-announcement-delete-title": "Удалить объявление",
+    "alert-confirmation-organization-announcement-delete-yes": "Да, удалить"
+  }
+}

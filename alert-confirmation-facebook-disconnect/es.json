@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-facebook-disconnect-yes": "Sí, desconectar",
+    "alert-confirmation-facebook-disconnect-no": "Cancelar",
+    "alert-confirmation-facebook-disconnect-title": "Desconectar cuenta de Facebook",
+    "alert-confirmation-facebook-disconnect-text": "Si continúa, ya no podrá iniciar sesión en Facebook."
+  }
+}

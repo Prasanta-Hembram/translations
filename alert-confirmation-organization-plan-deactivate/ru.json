@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-plan-deactivate-yes": "Да, деактивировать",
+    "alert-confirmation-organization-plan-deactivate-no": "Отменить",
+    "alert-confirmation-organization-plan-deactivate-title": "Деактивировать",
+    "alert-confirmation-organization-plan-deactivate-text": "Вы уверенны, что хотите деактивировать план? Вы потеряете все привилегии членства, в том числе кредиты. Это действие является необратимым и НЕВОЗМЕЩАЕМЫМ"
+  }
+}

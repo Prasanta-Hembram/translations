@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-generate-new-url-yes": "Да, сгенерировать",
-    "cards-alert-confirmation-generate-new-url-no": "Отменить",
-    "cards-alert-confirmation-generate-new-url-title": "Сгенерировать новую ссылку",
-    "cards-alert-confirmation-generate-new-url-text": "Уверены? Если вы сгенерируете новую ссылку, старая больше не будет работать."
-  }
-}

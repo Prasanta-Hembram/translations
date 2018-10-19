@@ -1,0 +1,12 @@
+{
+  "data":{ 
+    "alert-confirmation-organization-membership-settings-credits-charge-no": "Отменить",
+    "alert-confirmation-organization-membership-settings-credits-charge-yes": "Списать",
+    "alert-confirmation-organization-membership-settings-credits-charge-message": "Введите количество кредитов для списания с клиентского счета.",
+    "alert-confirmation-organization-membership-settings-credits-charge-title": "Списать кредиты",
+    "alert-confirmation-organization-membership-settings-credits-give-no": "Отменить",
+    "alert-confirmation-organization-membership-settings-credits-give-yes": "Начислить",
+    "alert-confirmation-organization-membership-settings-credits-give-message": "Введите количество кредитов для начисления на клиентский счет.",
+    "alert-confirmation-organization-membership-settings-credits-give-title": "Начислить кредиты"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-organization-leave-title": "Leave workspace",
-    "cards-alert-confirmation-organization-leave-text": "Are you sure you want to leave this workspace? If you proceed, you will loose all data related to this workspace. This action is irreversible.",
-    "cards-alert-confirmation-organization-leave-yes": "Yes, leave",
-    "cards-alert-confirmation-organization-leave-no": "Cancel"
-  }
-}

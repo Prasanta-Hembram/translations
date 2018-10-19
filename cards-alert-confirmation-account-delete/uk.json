@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-account-delete-title": "Видалити обліковий запис",
-    "cards-alert-confirmation-account-delete-text": "Якщо ви продовжите, то не зможете надалі користуватись сервісами andCards, і ВСІ ВАШІ ДАНІ БУДУТЬ ВИДАЛЕНІ ПЕРМАНЕНТНО І НЕВІДВОРОТНЬО.",
-    "cards-alert-confirmation-account-delete-yes": "Так, видалити",
-    "cards-alert-confirmation-account-delete-no": "Скасувати"
-  }
-}

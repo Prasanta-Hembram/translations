@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-generate-new-url-yes": "Sí, generar",
-    "cards-alert-confirmation-generate-new-url-no": "Cancelar",
-    "cards-alert-confirmation-generate-new-url-title": "Genera un nuevo enlace",
-    "cards-alert-confirmation-generate-new-url-text": "¿Estás seguro de que quieres generar un nuevo enlace? Si continúa, el enlace anterior ya no funcionará."
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-alert-confirmation-legal-consent-withdraw-title": "Withdraw consent",
-    "cards-alert-confirmation-legal-consent-withdraw-text": "Are you sure you want to withdraw your consent to this policy? This policy is essential to running andCards services. If you proceed, you can not continue using andCards, and ALL YOUR DATA WILL BE DELETED PERMANENTLY AND IRREVERSIBLY.",
-    "cards-alert-confirmation-legal-consent-withdraw-yes": "Yes, delete",
-    "cards-alert-confirmation-legal-consent-withdraw-no": "Cancel"
-  }
-}

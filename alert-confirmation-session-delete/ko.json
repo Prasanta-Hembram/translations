@@ -1,0 +1,8 @@
+{
+  "data":{
+    "alert-confirmation-session-delete-no": "돌아가기",
+    "alert-confirmation-session-delete-text": "이 세션을 제거하시겠습니까? 제거하면 되돌릴 수 없습니다.",
+    "alert-confirmation-session-delete-title": "세션 제거",
+    "alert-confirmation-session-delete-yes": "네, 제거하기"
+  }
+}
