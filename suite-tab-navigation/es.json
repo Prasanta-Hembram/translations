@@ -1,10 +1,10 @@
 {
   "data": {
-    "stack-tab-navigation-my-coworkings": "Reservas",
-    "stack-tab-navigation-organization-announcements": "Avisos",
-    "stack-tab-navigation-organization-booking": "Reservas",
-    "stack-tab-navigation-organization-directory": "Directorio",
-    "stack-tab-navigation-organization-membership": "Membresía",
-    "stack-tab-navigation-organization-settings": "Ajustes"
+    "suite-tab-navigation-my-coworkings": "Reservas",
+    "suite-tab-navigation-organization-announcements": "Avisos",
+    "suite-tab-navigation-organization-booking": "Reservas",
+    "suite-tab-navigation-organization-directory": "Directorio",
+    "suite-tab-navigation-organization-membership": "Membresía",
+    "suite-tab-navigation-organization-settings": "Ajustes"
   }
 }

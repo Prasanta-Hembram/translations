@@ -1,10 +1,10 @@
 {
   "data": {
-    "stack-tab-navigation-my-coworkings": "Мои коворкинги",
-    "stack-tab-navigation-organization-announcements": "Уведомления",
-    "stack-tab-navigation-organization-booking": "Резервации",
-    "stack-tab-navigation-organization-directory": "Каталог",
-    "stack-tab-navigation-organization-membership": "Участие",
-    "stack-tab-navigation-organization-settings": "Настройки"
+    "suite-tab-navigation-my-coworkings": "Мои коворкинги",
+    "suite-tab-navigation-organization-announcements": "Уведомления",
+    "suite-tab-navigation-organization-booking": "Резервации",
+    "suite-tab-navigation-organization-directory": "Каталог",
+    "suite-tab-navigation-organization-membership": "Участие",
+    "suite-tab-navigation-organization-settings": "Настройки"
   }
 }
