@@ -39,7 +39,7 @@
     "cards-page-organization-booking-create-section-people": "예약자",
     "cards-page-organization-booking-create-section-people-capacity": "이 시설은 최대 {numberOfSeats}명 수용가능합니다.",
     "cards-page-organization-booking-create-section-payment": "결제",
-    "cards-page-organization-booking-create-section-payment-card-types-accepted": "지원되는 카드 유형 : ",
+    "cards-page-organization-booking-create-section-payment-card-types-accepted": "지원되는 카드 유형 :",
     "cards-page-organization-booking-create-section-payment-cash-title": "결제 사항",
     "cards-page-organization-booking-create-section-payment-cash-desc": "결제 완료",
     "cards-page-organization-booking-create-section-purpose": "목적",
