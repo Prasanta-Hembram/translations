@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-plans-active-plan-error": "Обработка платежа...",
+    "suite-page-organization-plans-active-plan-ends": "Заканчивается {daysLeft}",
+    "suite-page-organization-plans-available-plans-found": "Тарифные планы",
+    "suite-page-organization-plans-balance-title": "Баланс",
+    "suite-page-organization-plans-button-balance-title": "История транзакций",
+    "suite-page-organization-plans-create": "Добавить план",
+    "suite-page-organization-plans-credits-how-to-use": "Используйте эти кредиты для бронирования переговорных.",
+    "suite-page-organization-plans-credits-expire": "{pointsExpiring} истекают {date}.",
+    "suite-page-organization-plans-price-from": "От {price}",
+    "suite-page-organization-plans-income": "Прибыль с продаж тарифных планов и бронирований переговорных за наличные или по карточкам (этот месяц).",
+    "suite-page-organization-plans-kpi-detail": "Ключевые показатели месяца",
+    "suite-page-organization-plans-my-membership": "Текущий план",
+    "suite-page-organization-plans-renews": "Продление через: {daysLeft}",
+    "suite-page-organization-plans-renews-last-day": "Последний день",
+    "suite-page-organization-plans-status-3d-secure": "Статус: необходимо подтвердить платеж",
+    "suite-page-organization-plans-status-pending": "Статус: обработка",
+    "suite-page-organization-plans-seats-in-left": "{available} / {quantity} доступно",
+    "suite-page-organization-plans-seats-available": "{numberOfSeats} доступно",
+    "suite-page-organization-plans-seats-only-left": "Осталось всего {numberOfSeats}",
+    "suite-page-organization-plans-seats-sold-out": "Продано",
+    "suite-page-organization-plans-no-plan": "У вас пока нет активного плана. 😢",
+    "suite-page-organization-plans-occupancy": "Заполненность пространства — пропорция занятых мест в общем кол-ве мест.",
+    "suite-page-organization-plans-other-plans": "Прочие планы",
+    "suite-page-organization-plans-title": "Участие"
+  }
+}

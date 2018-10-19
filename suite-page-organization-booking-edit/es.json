@@ -1,0 +1,29 @@
+{
+  "data": {
+    "suite-page-organization-booking-edit-balance-action-button-for-free": "Gratis",
+    "suite-page-organization-booking-edit-balance-action-button-money-cash": "Efectivo ({price})",
+    "suite-page-organization-booking-edit-balance-action-button-money-card": "Tarjeta ({price})",
+    "suite-page-organization-booking-edit-balance-action-button-point": "Créditos ({balance})",
+    "suite-page-organization-booking-edit-booked-by": "Booker",
+    "suite-page-organization-booking-edit-end-time": "Finalización",
+    "suite-page-organization-booking-edit-lock-code": "Código PIN",
+    "suite-page-organization-booking-edit-lock-code-desc": "La puerta de la sala de reuniones está equipada con una cerradura inteligente. Para abrir la puerta, ingrese el código que se muestra arriba seguido de #. El código de bloqueo es válido solo durante el tiempo de reserva.",
+    "suite-page-organization-booking-edit-memo": "Nota",
+    "suite-page-organization-booking-edit-memo-placeholder": "Añadir nota (visible solo para booker y admin)",
+    "suite-page-organization-booking-edit-payed-with": "Pagado con",
+    "suite-page-organization-booking-edit-payment-cash-title": "Estado",
+    "suite-page-organization-booking-edit-payment-cash-desc": "Pago recibido",
+    "suite-page-organization-booking-edit-payment-cash-paid": "Pagado",
+    "suite-page-organization-booking-edit-payment-cash-unpaid": "No pagado",
+    "suite-page-organization-booking-edit-purpose": "Título",
+    "suite-page-organization-booking-edit-purpose-placeholder": "Agregar título (públicamente)",
+    "suite-page-organization-booking-edit-section-access": "Access",
+    "suite-page-organization-booking-edit-section-time": "Hora",
+    "suite-page-organization-booking-edit-section-people": "Personas",
+    "suite-page-organization-booking-edit-section-purpose": "Propósito",
+    "suite-page-organization-booking-edit-section-payment": "Pago",
+    "suite-page-organization-booking-edit-share-link-title": "Enlace a la reserva",
+    "suite-page-organization-booking-edit-start-time": "Inicio",
+    "suite-page-organization-booking-edit-title": "Edit booking"
+  }
+}

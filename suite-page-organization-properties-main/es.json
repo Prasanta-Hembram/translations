@@ -1,0 +1,14 @@
+{
+  "data": {
+    "suite-page-organization-property-main-book-button": "Reservar",
+    "suite-page-organization-property-main-date-prev-week": "Sem. pas.",
+    "suite-page-organization-property-main-date-today": "Hoy",
+    "suite-page-organization-property-main-date-next-week": "Sem. próx.",
+    "suite-page-organization-property-main-default-booking-purpose": "Reservación",
+    "suite-page-organization-property-main-error-not-found": "No se pudo mostrar una habitación ¿Estás seguro de que hay una conexión a Internet?",
+    "suite-page-organization-property-main-hour" : "hora",
+    "suite-page-organization-property-main-my": "Mi reserva",
+    "suite-page-organization-property-main-no-property": "Esta sala puede no existir o puede haber sido eliminada. 😕",
+    "suite-page-organization-property-main-seats": "asientos"
+  }
+}

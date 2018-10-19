@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-sessions-alert-delete-success": "Сеанс видалено",
+    "suite-page-sessions-current": "Поточний сеанс",
+    "suite-page-sessions-current-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
+    "suite-page-sessions-description": "Нижче наведений список пристроїв, на яких ви увійшли в andCards. Якщо ви не впізнаєте якогось з активних сеансів, видаліть його.",
+    "suite-page-sessions-other": "Активні сеанси",
+    "suite-page-sessions-other-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
+    "suite-page-sessions-other-empty": "Немає активних сеансів.",
+    "suite-page-sessions-title": "Активні сеанси"
+  }
+}

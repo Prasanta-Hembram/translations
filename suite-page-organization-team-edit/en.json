@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-team-edit-action-delete": "Delete",
+    "suite-page-organization-team-edit-delete-failure": "Failed to delete team. 🙁",
+    "suite-page-organization-team-edit-delete-repeat": "Retry deleting",
+    "suite-page-organization-team-edit-select-icon-title": "Select Icon",
+    "suite-page-organization-team-edit-select-team-members-title": "Select Team Members",
+    "suite-page-organization-team-edit-icon": "Icon",
+    "suite-page-organization-team-edit-name": "Name",
+    "suite-page-organization-team-edit-name-placeholder": "Add name",
+    "suite-page-organization-team-edit-not-found-error": "This team may not exist or may have been removed. 😕",
+    "suite-page-organization-team-edit-permission-denied": "You don't have permission to access this page.",
+    "suite-page-organization-team-edit-title": "Edit team"
+  }
+}

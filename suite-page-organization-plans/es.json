@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-plans-active-plan-ends": "Finaliza en {daysLeft}",
+    "suite-page-organization-plans-active-plan-error": "Procesando el pago...",
+    "suite-page-organization-plans-available-plans-found": "Planes de membresía",
+    "suite-page-organization-plans-balance-title": "Balance",
+    "suite-page-organization-plans-button-balance-title": "Historial de saldo",
+    "suite-page-organization-plans-create": "Añadir plan",
+    "suite-page-organization-plans-credits-how-to-use": "Utilice estos créditos para reservar una sala de reuniones.",
+    "suite-page-organization-plans-credits-expire": "{pointsExpiring} expira el {date}.",
+    "suite-page-organization-plans-price-from": "Desde {price}",
+    "suite-page-organization-plans-income": "Ingresos totales de las compras del plan de membresía y reservas de habitaciones con tarjetas o efectivo (hasta la fecha).",
+    "suite-page-organization-plans-kpi-detail": "KPIs mes a la fecha",
+    "suite-page-organization-plans-my-membership": "Plan activo",
+    "suite-page-organization-plans-renews": "Se renueva en {daysLeft}",
+    "suite-page-organization-plans-renews-last-day": "Último día",
+    "suite-page-organization-plans-status-3d-secure": "Estado: Seguro 3-D requerido",
+    "suite-page-organization-plans-status-pending": "Estado: Pendiente",
+    "suite-page-organization-plans-seats-in-left": "{available} / {quantity} disponibles",
+    "suite-page-organization-plans-seats-available": "{numberOfSeats} disponibles",
+    "suite-page-organization-plans-seats-only-left": "Solo quedan {numberOfSeats}",
+    "suite-page-organization-plans-seats-sold-out": "Agotado",
+    "suite-page-organization-plans-no-plan": "No tienes ningún plan. 😢",
+    "suite-page-organization-plans-occupancy": "Utilización del espacio: total de asientos ocupados dividido por el total de asientos disponibles.",
+    "suite-page-organization-plans-other-plans": "Otros planes",
+    "suite-page-organization-plans-title": "Membresía"
+  }
+}

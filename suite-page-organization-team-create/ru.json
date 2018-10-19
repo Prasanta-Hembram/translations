@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-team-create-combobox-title": "Выбрать иконку",
+    "suite-page-organization-team-create-title": "Создать команду",
+    "suite-page-organization-team-create-icon": "Иконка",
+    "suite-page-organization-team-create-name": "Название",
+    "suite-page-organization-team-create-name-placeholder": "Введите название",
+    "suite-page-organization-team-create-permission-denied": "Нет прав доступа для просмотра этой страницы.",
+    "suite-page-organization-team-create-validation-error-title": "Введите название команды."
+  }
+}

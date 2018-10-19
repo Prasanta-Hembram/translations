@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-property-edit-description": "Опис",
+    "suite-page-organization-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
+    "suite-page-organization-property-edit-is-public": "Публічно доступний",
+    "suite-page-organization-property-edit-max-time": "Макс. час",
+    "suite-page-organization-property-edit-min-time": "Мін. час",
+    "suite-page-organization-property-edit-name": "Назва",
+    "suite-page-organization-property-edit-name-placeholder": "Додайте назву",
+    "suite-page-organization-property-edit-number-of-seats": "Місць",
+    "suite-page-organization-property-edit-price-money": "Ціна, {currencySymbol}/год", 
+    "suite-page-organization-property-edit-price-points": "Ціна, {pointEmoji}/год",
+    "suite-page-organization-property-edit-title-edit": "Редагувати кімнату"
+  }
+}

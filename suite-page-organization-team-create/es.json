@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-team-create-combobox-title": "Seleccionar Ícono",
+    "suite-page-organization-team-create-title": "Crear grupo",
+    "suite-page-organization-team-create-icon": "Ícono",
+    "suite-page-organization-team-create-name": "Nombre",
+    "suite-page-organization-team-create-name-placeholder": "Agregar nombre",
+    "suite-page-organization-team-create-permission-denied": "No tienes permiso para acceder a esta página.",
+    "suite-page-organization-team-create-validation-error-title": "Añade el título del equipo."
+  }
+}

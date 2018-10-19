@@ -1,0 +1,29 @@
+{
+  "data": {
+    "suite-page-organization-booking-edit-balance-action-button-for-free": "Бесплатно",
+    "suite-page-organization-booking-edit-balance-action-button-money-cash": "Наличными ({price})",
+    "suite-page-organization-booking-edit-balance-action-button-money-card": "Карточкой ({price})",
+    "suite-page-organization-booking-edit-balance-action-button-point": "Кредитами ({balance})",
+    "suite-page-organization-booking-edit-booked-by": "Владелец",
+    "suite-page-organization-booking-edit-end-time": "Конец",
+    "suite-page-organization-booking-edit-lock-code": "Код доступа",
+    "suite-page-organization-booking-edit-lock-code-desc": "Дверь комнаты оснащена умным замком. Чтобы открыть дверь, введите код, отображаемый выше, а затем #. Код для входа действителен только во время бронирования.",
+    "suite-page-organization-booking-edit-memo": "Заметка",
+    "suite-page-organization-booking-edit-memo-placeholder": "Введите заметку (видно владельцу и админу)",
+    "suite-page-organization-booking-edit-payed-with": "Оплачено",
+    "suite-page-organization-booking-edit-payment-cash-title": "Статус",
+    "suite-page-organization-booking-edit-payment-cash-desc": "Сплачено",
+    "suite-page-organization-booking-edit-payment-cash-paid": "Оплачено",
+    "suite-page-organization-booking-edit-payment-cash-unpaid": "Неоплачено",
+    "suite-page-organization-booking-edit-purpose": "Название",
+    "suite-page-organization-booking-edit-purpose-placeholder": "Введите название (видно всем участникам)",
+    "suite-page-organization-booking-edit-section-access": "Доступ",
+    "suite-page-organization-booking-edit-section-time": "Время",
+    "suite-page-organization-booking-edit-section-people": "Люди",
+    "suite-page-organization-booking-edit-section-purpose": "Цель",
+    "suite-page-organization-booking-edit-section-payment": "Оплата",
+    "suite-page-organization-booking-edit-share-link-title": "Ссылка на бронирование",
+    "suite-page-organization-booking-edit-start-time": "Начало",
+    "suite-page-organization-booking-edit-title": "Редактировать бронь"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-property-details-description-title": "Описание",
+    "suite-page-organization-property-details-no-property": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
+    "suite-page-organization-property-details-overview-title": "Обзор",
+    "suite-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность резервации {duration}.",
+    "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность резервации {duration}.",
+    "suite-page-organization-property-details-overview-seats": "- Эта комната может вместить до {numberOfSeats} гостей.",
+    "suite-page-organization-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
+    "suite-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
+    "suite-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час.",
+    "suite-page-organization-property-details-title": "Подробно о {propertyName}",
+    "suite-page-organization-property-details-title-default": "Подробно"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-announcements-fetch-failure": "Сповіщення не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "suite-page-organization-announcements-list-empty": "Немає ніяких сповіщень. 😢",
+    "suite-page-organization-announcements-list-title": "Сповіщення"
+  }
+}

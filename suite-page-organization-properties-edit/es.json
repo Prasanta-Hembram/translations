@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-property-edit-description": "Descripción",
+    "suite-page-organization-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
+    "suite-page-organization-property-edit-is-public": "Acceso Público",
+    "suite-page-organization-property-edit-max-time": "Tiempo máximo",
+    "suite-page-organization-property-edit-min-time": "Tiempo mínimo",
+    "suite-page-organization-property-edit-name": "Nombre",
+    "suite-page-organization-property-edit-name-placeholder": "Ingrese su nombre",
+    "suite-page-organization-property-edit-number-of-seats": "Asientos",
+    "suite-page-organization-property-edit-price-money": "Precio, {currencySymbol}/hora", 
+    "suite-page-organization-property-edit-price-points": "Precio, {pointEmoji}/hora",
+    "suite-page-organization-property-edit-title-edit": "Editar Habitación"
+  }
+}

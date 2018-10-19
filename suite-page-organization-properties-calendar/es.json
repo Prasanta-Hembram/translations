@@ -1,0 +1,11 @@
+{
+  "data": {
+      "suite-page-organization-properties-calendar-alert-past-day": "No puedes reservar para fechas pasadas.",
+      "suite-page-organization-properties-calendar-alert-period": "El período de tiempo seleccionado es menor que el mínimo permitido.",
+      "suite-page-organization-properties-calendar-date": "Fecha",
+      "suite-page-organization-properties-calendar-get-failure": "No se pudieron mostrar habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
+      "suite-page-organization-properties-calendar-my": "Mi reserva",
+      "suite-page-organization-properties-calendar-no-properties": "No hay habitaciones disponibles. 😢",
+      "suite-page-organization-properties-calendar-title": "Todas las salas de reuniones"
+  }
+}

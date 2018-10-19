@@ -1,0 +1,26 @@
+{
+  "data": {
+    "suite-page-organization-plan-details-active-title": "Active plan",
+    "suite-page-organization-plan-details-active-title-with-plan-title": "Active plan: {title}",
+    "suite-page-organization-plan-details-active-auto-renew": "Auto-renew",
+    "suite-page-organization-plan-details-active-credits": "Credits",
+    "suite-page-organization-plan-details-active-deactivate": "Deactivate",
+    "suite-page-organization-plan-details-active-empty": "This plan may not exist or may have been removed. 😕",
+    "suite-page-organization-plan-details-active-payment-cash-desc": "Payment received",
+    "suite-page-organization-plan-details-active-payment-cash-paid": "Paid",
+    "suite-page-organization-plan-details-active-payment-cash-unpaid": "Unpaid",
+    "suite-page-organization-plan-details-active-payment-cash-title": "Status",
+    "suite-page-organization-plan-details-active-period-from-title": "From",
+    "suite-page-organization-plan-details-active-period-until-title": "Until",
+    "suite-page-organization-plan-details-active-period-pay-with-title": "Pay with",
+    "suite-page-organization-plan-details-active-period-pay-with-card-title" : "Card",
+    "suite-page-organization-plan-details-active-period-pay-with-cash-title": "Cash",
+    "suite-page-organization-plan-details-active-period-title": "Period",
+    "suite-page-organization-plan-details-active-permission-denied": "You don't have permission to access this page.",
+    "suite-page-organization-plan-details-active-price": "Price",
+    "suite-page-organization-plan-details-active-seats": "Capacity",
+    "suite-page-organization-plan-details-active-subscribe-alert": "Subscription was activated",
+    "suite-page-organization-plan-details-active-type": "Type",
+    "suite-page-organization-plan-details-active-unsubscribe-alert": "Subscription was cancelled"
+  }
+}

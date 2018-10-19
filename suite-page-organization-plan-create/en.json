@@ -1,0 +1,21 @@
+{
+  "data": {
+    "suite-page-organization-plan-create-credits": "Credits, {pointEmoji}",
+    "suite-page-organization-plan-create-description": "Plan description",
+    "suite-page-organization-plan-create-description-placeholder": "Type plan description",
+    "suite-page-organization-plan-create-free-trial-day": "Free Trial Day",
+    "suite-page-organization-plan-create-period": "Period",
+    "suite-page-organization-plan-create-plan-point-allocation-enabled-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
+    "suite-page-organization-plan-create-plan-point-allocation-disabled-desc": "Subscribers will get all credits at once.",
+    "suite-page-organization-plan-create-plan-status": "Status",
+    "suite-page-organization-plan-create-plan-title": "Plan Name",
+    "suite-page-organization-plan-create-plan-title-placeholder": "Type plan name",  
+    "suite-page-organization-plan-create-price": "Price, {currencySymbol}",
+    "suite-page-organization-plan-create-pricing-title": "Pricing",
+    "suite-page-organization-plan-create-quantity": "Quantity",
+    "suite-page-organization-plan-create-seats": "Seats",
+    "suite-page-organization-plan-create-is-public": "Public Access",
+    "suite-page-organization-plan-create-title": "Add Plan",
+    "suite-page-organization-plan-create-type": "Type"
+  }
+}

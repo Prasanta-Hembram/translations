@@ -1,8 +1,0 @@
-{
-  "data": {
-    "cards-page-organization-team-cards-update-no-cards": "No one to add. 😢",
-    "cards-page-organization-team-cards-update-nothing-found": "Ничего не найдено. 😢",
-    "cards-page-organization-team-cards-update-search": "Поиск среди {numberOfMembers} участников",
-    "cards-page-organization-team-cards-update-title": "Добавить учатников: {teamTitle}"
-  }
-}
