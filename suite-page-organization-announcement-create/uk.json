@@ -3,14 +3,10 @@
     "suite-page-organization-announcement-create-button-send": "Надіслати",
     "suite-page-organization-announcement-create-contents": "Зміст",
     "suite-page-organization-announcement-create-is-pinned": "Закріпити зверху",
-    "suite-page-organization-announcement-create-notification-push": "Push-сповіщення",
     "suite-page-organization-announcement-create-stack-title": "Створити оголошення",
-    "suite-page-organization-announcement-create-target-teams": "Цільові команди",
-    "suite-page-organization-announcement-create-target-teams-select-all": "Всі учасники",
     "suite-page-organization-announcement-create-text-placeholder": "Напишіть щось вашим резидентам...",
     "suite-page-organization-announcement-create-title": "Назва",
     "suite-page-organization-announcement-create-title-placeholder": "Додайте заголовок",
-    "suite-page-organization-announcement-create-validation-error-teams": "Оберіть хто отримає це оголошення.",
     "suite-page-organization-announcement-create-validation-error-title": "Уведіть назву оголошення.",
     "suite-page-organization-announcement-create-validation-error-text": "Уведіть текст оголошення."
   }
