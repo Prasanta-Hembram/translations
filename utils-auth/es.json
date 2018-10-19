@@ -1,0 +1,22 @@
+{
+  "data": {
+    "utils-countries-back-to-login-methods": "Regresar",
+    "utils-countries-back-to-number": "Regresar",
+    "utils-countries-code": "Código",
+    "utils-countries-country": "País",
+    "utils-countries-country-selector-title": "Escoger país",
+    "utils-countries-country-selector-type-here": "Escriba para buscar",
+    "utils-countries-agree-to-policies": "Al proceder afirmo que tengo al menos 14 años de edad, y estoy de acuerdo con los {termsOfUse}, las políticas {privacyPolicy} y las políticas {cookiePolicy}. Podré retirar este consentimiento en cualquier momento en la configuración de Ajustes.",
+    "utils-countries-link-terms-of-use": "Términos de uso",
+    "utils-countries-link-privacy-policy": "Poíticas de Privacidad",
+    "utils-countries-link-cookies-policy": "Políticas de Cookies",
+    "utils-countries-next-step": "Estoy de acuerdo, continuar",
+    "utils-countries-number": "Número",
+    "utils-countries-number-invalid": "Agregar un número de teléfono válido",
+    "utils-countries-login-with-google": "Continuar con Google",
+    "utils-countries-login-with-facebook": "Continuar con Facebook",
+    "utils-countries-login-with-phone-number": "Continuar con número de teléfono",
+    "utils-countries-type-phone-number-here": "Inserte número de teléfono aquí",
+    "utils-countries-type-sms-code-here": "Inserte el código SMS aquí"
+  }
+}

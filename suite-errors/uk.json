@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-errors-booking-conflict": "Інша резервація вже існує у вибраний час.",
+    "suite-errors-card-number-is-invalid": "Номер картки порожній або недійсний",
+    "suite-errors-card-cvv-is-invalid": "CVV-код порожній або недійсний",
+    "suite-errors-card-expiration-is-invalid": "Термін дії картки порожній або недійсний",
+    "suite-errors-card-is-missing": "Картка не пройшла.",
+    "suite-errors-last-integration-delete": "Останній метод входу не може бути видалений",
+    "suite-errors-no-enough-cash": "Недостатньо готівки",
+    "suite-errors-no-internet": "Немає інтернет-з'єднання",
+    "suite-errors-plan-delete-reject": "Неможливо видалити: план використовується",
+    "suite-errors-plan-periods-empty": "Потрібно вибрати хоча б один період",
+    "suite-errors-plan-sold-out": "План розпродано",
+    "suite-errors-payment-failure": "Оплата не пройшла",
+    "suite-errors-sns-user-exists": "Цей акаунт вже використовується"
+  }
+}

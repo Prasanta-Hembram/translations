@@ -1,0 +1,14 @@
+{
+  "data": {
+    "utils-plans-period-day": "día",
+    "utils-plans-period-week": "semana",
+    "utils-plans-period-month": "mes",
+    "utils-plans-period-month-3": "3 meses",
+    "utils-plans-period-month-6": "6 meses",
+    "utils-plans-period-year": "1 año",
+    "utils-plans-title-fixed-desk": "Escritorio Fijo",
+    "utils-plans-title-hot-desk": "Escritorio Caliente",
+    "utils-plans-title-pass": "Pase",
+    "utils-plans-title-private-office": "Oficina Privada"
+  }
+}

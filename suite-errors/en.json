@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-errors-booking-conflict": "Another booking already exists at the same time.",
+    "suite-errors-card-number-is-invalid": "Card number is empty or invalid",
+    "suite-errors-card-cvv-is-invalid": "CVV is empty or invalid",
+    "suite-errors-card-expiration-is-invalid": "Expiration date is empty or invalid",
+    "suite-errors-card-is-missing": "Card didn't work.",
+    "suite-errors-last-integration-delete": "Last login method cannot be deleted",
+    "suite-errors-no-enough-cash": "Not enough cash",
+    "suite-errors-no-internet": "No internet connection",
+    "suite-errors-plan-delete-reject": "Unable to delete: plan in use",
+    "suite-errors-plan-periods-empty": "Plan must have at least 1 period",
+    "suite-errors-payment-failure": "Payment failure",
+    "suite-errors-plan-sold-out": "Plan is sold out",
+    "suite-errors-sns-user-exists": "This account is already in use"
+  }
+}

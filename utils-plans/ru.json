@@ -1,0 +1,14 @@
+{
+  "data": {
+    "utils-plans-period-day": "1 день",
+    "utils-plans-period-week": "1 неделя",
+    "utils-plans-period-month": "1 месяц",
+    "utils-plans-period-month-3": "3 месяца",
+    "utils-plans-period-month-6": "6 месяцев",
+    "utils-plans-period-year": "1 год",
+    "utils-plans-title-fixed-desk": "Закрепленное место",
+    "utils-plans-title-hot-desk": "Незакрепленное место",
+    "utils-plans-title-pass": "Входной билет",
+    "utils-plans-title-private-office": "Отдельный офис"
+  }
+}

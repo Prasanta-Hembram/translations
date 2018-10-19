@@ -1,0 +1,10 @@
+{
+  "data": {
+    "utils-fields-first-name": "Nombre",
+    "utils-fields-last-name": "Apellido",
+    "utils-fields-phone-number": "Número telefónico",
+    "utils-fields-email": "Correo electrónico",
+    "utils-fields-title": "Título",
+    "utils-fields-organization": "Organización"
+  }
+}

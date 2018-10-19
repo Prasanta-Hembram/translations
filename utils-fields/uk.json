@@ -1,0 +1,10 @@
+{
+  "data": {
+    "utils-fields-first-name": "Ім'я",
+    "utils-fields-last-name": "Прізвище",
+    "utils-fields-phone-number": "Телефон",
+    "utils-fields-email": "Email",
+    "utils-fields-title": "Посада",
+    "utils-fields-organization": "Організація"
+  }
+}

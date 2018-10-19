@@ -1,0 +1,22 @@
+{
+  "data": {
+    "utils-countries-back-to-login-methods": "Назад",
+    "utils-countries-back-to-number": "Назад",
+    "utils-countries-code": "Код",
+    "utils-countries-country": "Країна",
+    "utils-countries-country-selector-title": "Вибір країни",
+    "utils-countries-country-selector-type-here": "Шукати країну",
+    "utils-countries-agree-to-policies": "Я підтверджую, що мені не менше 14 років, і я погоджуюсь з {termsOfUse}, політиками {privacyPolicy} та {cookiePolicy}. Погодження можна абиколи відкликати в Налаштуваннях.",
+    "utils-countries-link-terms-of-use": "умовами надання послуг",
+    "utils-countries-link-privacy-policy": "приватності",
+    "utils-countries-link-cookies-policy": "кукі-файлів",
+    "utils-countries-next-step": "Погодитись і продовжити",
+    "utils-countries-number": "Номер",
+    "utils-countries-number-invalid": "Перевірте чи вірно введено номер телефону",
+    "utils-countries-login-with-google": "Продовжити з Google",
+    "utils-countries-login-with-facebook": "Продовжити з Facebook",
+    "utils-countries-login-with-phone-number": "Продовжити з номером телефону",
+    "utils-countries-type-phone-number-here": "Введіть номер",
+    "utils-countries-type-sms-code-here": "Введіть СМС пароль"
+  }
+}

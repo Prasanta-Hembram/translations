@@ -1,0 +1,14 @@
+{
+  "data": {
+    "utils-plans-period-day": "1 day",
+    "utils-plans-period-week": "1 week",
+    "utils-plans-period-month": "1 month",
+    "utils-plans-period-month-3": "3 months",
+    "utils-plans-period-month-6": "6 months",
+    "utils-plans-period-year": "1 year",
+    "utils-plans-title-fixed-desk": "Fixed Desk",
+    "utils-plans-title-hot-desk": "Hot Desk",
+    "utils-plans-title-pass": "Pass",
+    "utils-plans-title-private-office": "Private Office"
+  }
+}

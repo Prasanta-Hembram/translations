@@ -1,0 +1,10 @@
+{
+  "data": {
+    "utils-fields-first-name": "이름",
+    "utils-fields-last-name": "성",
+    "utils-fields-phone-number": "휴대전화",
+    "utils-fields-email": "이메일",
+    "utils-fields-title": "호칭",
+    "utils-fields-organization": "직장"
+  }
+}

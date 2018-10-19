@@ -1,0 +1,14 @@
+{
+  "data": {
+    "utils-plans-period-day": "1 день",
+    "utils-plans-period-week": "1 тиждень",
+    "utils-plans-period-month": "1 місяць",
+    "utils-plans-period-month-3": "3 місяці",
+    "utils-plans-period-month-6": "6 місяців",
+    "utils-plans-period-year": "1 рік",
+    "utils-plans-title-fixed-desk": "Фіксоване місце",
+    "utils-plans-title-hot-desk": "Нефіксоване місце",
+    "utils-plans-title-pass": "Квиток на вхід",
+    "utils-plans-title-private-office": "Приватний офіс"
+  }
+}

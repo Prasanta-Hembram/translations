@@ -1,0 +1,22 @@
+{
+  "data": {
+    "utils-countries-back-to-login-methods": "Назад",
+    "utils-countries-back-to-number": "Назад",
+    "utils-countries-code": "Код",
+    "utils-countries-country": "Страна",
+    "utils-countries-country-selector-title": "Выбор страны",
+    "utils-countries-country-selector-type-here": "Искать страну",
+    "utils-countries-agree-to-policies": "Я подтверждаю, что мне не менее 14 лет, и я соглашаюсь с {termsOfUse}, политиками {privacyPolicy} и {cookiePolicy}. Cогласие можно отозвать в Настройках.",
+    "utils-countries-link-terms-of-use": "условиями использования",
+    "utils-countries-link-privacy-policy": "конфиденциальности",
+    "utils-countries-link-cookies-policy": "куки-файлов",
+    "utils-countries-next-step": "Принять и продолжить",
+    "utils-countries-number": "Номер",
+    "utils-countries-number-invalid": "Проверьте правильность номера телефона",
+    "utils-countries-login-with-google": "Продолжить с помощью Google",
+    "utils-countries-login-with-facebook": "Продолжить с помощью Facebook",
+    "utils-countries-login-with-phone-number": "Продолжить с помощью номера телефона",
+    "utils-countries-type-phone-number-here": "Введите номер",
+    "utils-countries-type-sms-code-here": "Введите СМС пароль"
+  }
+}
