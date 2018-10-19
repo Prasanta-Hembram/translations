@@ -39,6 +39,7 @@
     "cards-page-organization-booking-create-section-people": "People",
     "cards-page-organization-booking-create-section-people-capacity": "This room can fit up to {numberOfSeats} people.",
     "cards-page-organization-booking-create-section-payment": "Payment",
+    "cards-page-organization-booking-create-section-payment-card-types-accepted": "Accepted card types:",
     "cards-page-organization-booking-create-section-payment-cash-title": "Status",
     "cards-page-organization-booking-create-section-payment-cash-desc": "Payment received",
     "cards-page-organization-booking-create-section-purpose": "Purpose",

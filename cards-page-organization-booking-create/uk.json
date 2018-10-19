@@ -39,6 +39,7 @@
     "cards-page-organization-booking-create-section-people": "Люди",
     "cards-page-organization-booking-create-section-people-capacity": "Ця кімната може вмістити до {numberOfSeats} гостей.",
     "cards-page-organization-booking-create-section-payment": "Оплата",
+    "cards-page-organization-booking-create-section-payment-card-types-accepted": "Підтримувані типи карток: ",
     "cards-page-organization-booking-create-section-payment-cash-title": "Статус",
     "cards-page-organization-booking-create-section-payment-cash-desc": "Оплачено",
     "cards-page-organization-booking-create-section-purpose": "Мета",

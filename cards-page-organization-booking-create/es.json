@@ -39,6 +39,7 @@
     "cards-page-organization-booking-create-section-people": "People",
     "cards-page-organization-booking-create-section-people-capacity": "Esta sala puede acomodar hasta {numberOfSeats} personas.",
     "cards-page-organization-booking-create-section-payment": "Pago",
+    "cards-page-organization-booking-create-section-payment-card-types-accepted": "Tipos de tarjetas aceptadas:",
     "cards-page-organization-booking-create-section-payment-cash-title": "Estado",
     "cards-page-organization-booking-create-section-payment-cash-desc": "Pago recibido",
     "cards-page-organization-booking-create-section-purpose": "Propósito",
