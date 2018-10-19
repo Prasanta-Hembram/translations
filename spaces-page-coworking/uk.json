@@ -1,0 +1,30 @@
+{
+  "data": {
+    "spaces-page-coworking-title": "{coworkingTitle}, {city} коворкінг | andCards",
+    "spaces-page-coworking-description": "{coworkingTitle}, {city} - фото, ціни, тарифи, резервація онлайн",
+    "spaces-page-coworking-amenities": "Зручності",
+    "spaces-page-coworking-amenities-kitchen": "Кухня",
+    "spaces-page-coworking-amenities-unlimited-drinks": "Кава/чай без обмежень",
+    "spaces-page-coworking-amenities-phone-booth": "Кімната для дзвінків",
+    "spaces-page-coworking-amenities-24-7-access": "Цілодобово",
+    "spaces-page-coworking-amenities-parking": "Паркінг",
+    "spaces-page-coworking-amenities-printer-scanner": "Принтер/сканер",
+    "spaces-page-coworking-amenities-lockers": "Шафки",
+    "spaces-page-coworking-contact-email-body": "Привіт! Я знайшов(-ла) ваш коворкінг на {url}, і хотів(-ла) би зробити резервацію місця.",
+    "spaces-page-coworking-contact-email-subject": "Резервація місця в коворкінгу",
+    "spaces-page-coworking-contact-options": "Контакти",
+    "spaces-page-coworking-location": "Локація",
+    "spaces-page-coworking-navigation-world": "Світ",
+    "spaces-page-coworking-plans": "Тарифні плани",
+    "spaces-page-coworking-running-this-space-contact-us": "andCards Suite",
+    "spaces-page-coworking-running-this-space-text": "🕹️ Керуєте цим закладом? Відкрити {suiteWorkspaceUrl} щоб покращити цю сторінку.",
+    "spaces-page-coworking-service-meeting-room": "Кімната для переговорів",
+    "spaces-page-coworking-service-meeting-rooms": "Кімнати для переговорів",
+    "spaces-page-coworking-service-plans-price-from": "Від {price}",
+    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats} доступно",
+    "spaces-page-coworking-service-plans-seats-only-left": "Залишилось лише {numberOfSeats}",
+    "spaces-page-coworking-service-plans-seats-sold-out": "Продано",
+    "spaces-page-coworking-share": "Поділитися",
+    "spaces-page-coworking-view-photos": "Переглянути фото"
+  }
+}

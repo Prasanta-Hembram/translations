@@ -1,0 +1,30 @@
+{
+  "data": {
+    "spaces-page-coworking-title": "{coworkingTitle}, {city} coworking space | andCards",
+    "spaces-page-coworking-description": "{coworkingTitle}, {city} coworking space - photos, reviews and book online",
+    "spaces-page-coworking-amenities": "Amenities",
+    "spaces-page-coworking-amenities-kitchen": "Kitchen",
+    "spaces-page-coworking-amenities-unlimited-drinks": "Unlimited coffee/tea",
+    "spaces-page-coworking-amenities-phone-booth": "Phone Booth",
+    "spaces-page-coworking-amenities-24-7-access": "24/7 access",
+    "spaces-page-coworking-amenities-parking": "Parking",
+    "spaces-page-coworking-amenities-printer-scanner": "Printer/scanner",
+    "spaces-page-coworking-amenities-lockers": "Lockers",
+    "spaces-page-coworking-contact-email-body": "Hi, I found your coworking space on {url}, and would like to make a reservation.",
+    "spaces-page-coworking-contact-email-subject": "Coworking Space Reservation Request",
+    "spaces-page-coworking-contact-options": "Contact Options",
+    "spaces-page-coworking-location": "Location",
+    "spaces-page-coworking-navigation-world": "World",
+    "spaces-page-coworking-plans": "Membership Plans",
+    "spaces-page-coworking-running-this-space-contact-us": "andCards Suite",
+    "spaces-page-coworking-running-this-space-text": "🕹️ Running this space? Open {suiteWorkspaceUrl} to improve this page.",
+    "spaces-page-coworking-service-meeting-room": "Meeting Room",
+    "spaces-page-coworking-service-meeting-rooms": "Meeting Rooms",
+    "spaces-page-coworking-service-plans-price-from": "From {price}",
+    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats} available",
+    "spaces-page-coworking-service-plans-seats-only-left": "Only {numberOfSeats} left",
+    "spaces-page-coworking-service-plans-seats-sold-out": "Sold out",
+    "spaces-page-coworking-share": "Share",
+    "spaces-page-coworking-view-photos": "View Photos"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "spaces-page-home-title": "Un espacio de trabajo que desee | andCards",
+    "spaces-page-home-description": "¡Descubre los mejores espacios de coworking en todo el mundo! ¡Reserva espacios con unos pocos clics y trabaja en cualquier lugar!",
+    "spaces-page-home-search-placeholder": "Encuentra Coworkings por ubicación o nombre",
+    "spaces-page-home-section-explore-coworkings-nearby": "Lugares para trabajar cerca de ti que amarás ❤️",
+    "spaces-page-home-section-explore-coworkings-event": "Espacios de Coworking cerca de la playa 🏝 — ¡Ve a nadar y realiza tu trabajo!",
+    "spaces-page-home-section-explore-coworkings-new": "Bienvenido a los espacios de coworking recientemente agregados 🎉",
+    "spaces-page-home-section-get-inspiration": "¡Inspírate para tu siguiente viaje! 💡",
+    "spaces-page-home-section-get-inspiration-text": "Descubre nuevos destinos y obtén acceso a ofertas especiales 🎁",
+    "spaces-page-home-section-get-inspiration-email-placeholder": "Sólo necesitamos tu email",
+    "spaces-page-home-section-get-inspiration-subscribe": "Suscríbete",
+    "spaces-page-home-section-explore-cities": "Destinos de coworking populares 🔥",
+    "spaces-page-home-section-explore-world": "Espacios de Coworking alrededor del mundo 🗺",
+    "spaces-page-home-section-suite-title": "A cargo de un espacio de coworking?",
+    "spaces-page-home-section-suite-subtitle": "¡Administre miembros y envíe avisos, completamente gratis! Mejora tu juego con funciones premium: pagos en la aplicación, sistema de reserva de habitaciones e integraciones potentes.",
+    "spaces-page-home-section-suite-button": "Características de andCards Suite y demostración gratis",
+    "spaces-page-home-work-anywhere": "Espacio de trabajo donde sea",
+    "spaces-page-home-work-anywhere-subtitle": "{numberOfSpaces}+ espacios de Coworking en {numberOfCountries} países.",
+    "spaces-page-home-work-anywhere-subtitle-last-digit-one": "{numberOfSpaces}+ espacios de Coworking en {numberOfCountries} países."
+  }
+}

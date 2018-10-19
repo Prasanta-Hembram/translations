@@ -1,0 +1,30 @@
+{
+  "data": {
+    "spaces-page-coworking-title": "{coworkingTitle}, {city} коворкинг | andCards",
+    "spaces-page-coworking-description": "{coworkingTitle}, {city} - фото, цены, тарифы, бронирование онлайн",
+    "spaces-page-coworking-amenities": "Удобства",
+    "spaces-page-coworking-amenities-kitchen": "Кухня",
+    "spaces-page-coworking-amenities-unlimited-drinks": "Неограниченный кофе/чай",
+    "spaces-page-coworking-amenities-phone-booth": "Комната для дзвонков",
+    "spaces-page-coworking-amenities-24-7-access": "Круглосуточно",
+    "spaces-page-coworking-amenities-parking": "Паркинг",
+    "spaces-page-coworking-amenities-printer-scanner": "Принтер/сканнер",
+    "spaces-page-coworking-amenities-lockers": "Шкафчики",
+    "spaces-page-coworking-contact-email-body": "Здравствуйте! Я нашел(-ла) ваш коворкинг на {url} и хотел(-а) бы забронировать у вас место.",
+    "spaces-page-coworking-contact-email-subject": "Бронирование места в коворкинге",
+    "spaces-page-coworking-contact-options": "Контакты",
+    "spaces-page-coworking-location": "Локация",
+    "spaces-page-coworking-navigation-world": "Мир",
+    "spaces-page-coworking-plans": "Тарифные планы",
+    "spaces-page-coworking-running-this-space-contact-us": "andCards Suite",
+    "spaces-page-coworking-running-this-space-text": "🕹️ Управляете этим заведением? Открыть {suiteWorkspaceUrl} чтобы улучшить эту страницу.",
+    "spaces-page-coworking-service-meeting-room": "Переговорная",
+    "spaces-page-coworking-service-meeting-rooms": "Комнаты для переговоров",
+    "spaces-page-coworking-service-plans-price-from": "От {price}",
+    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats} доступно",
+    "spaces-page-coworking-service-plans-seats-only-left": "Осталось всего {numberOfSeats}",
+    "spaces-page-coworking-service-plans-seats-sold-out": "Продано",
+    "spaces-page-coworking-share": "Поделиться",
+    "spaces-page-coworking-view-photos": "Посмотреть фото"
+  }
+}

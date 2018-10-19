@@ -1,0 +1,28 @@
+{
+  "data": {
+    "spaces-page-search-title": "The Best Coworking Spaces in the World | andCards",
+    "spaces-page-search-city-title": "The Best Coworking Spaces in {city}, {country} | andCards",
+    "spaces-page-search-country-title": "The Best Coworking Spaces in {country} | andCards",
+    "spaces-page-search-description": "Discover the best coworking spaces around the world. Book hot desk, fixed desk, private office, meeting room or event hall in a few clicks.",
+    "spaces-page-search-city-description": "Discover the best coworking spaces in {city}, {country}. Book hot desk, fixed desk, private office, meeting room or event hall in a few clicks.",
+    "spaces-page-search-country-description": "Discover the best coworking spaces in {country}! Book hot desk, fixed desk, private office, meeting room or event hall in a few clicks!",
+    "spaces-page-search-amenities": "Amenities",
+    "spaces-page-search-amenities-kitchen": "Kitchen",
+    "spaces-page-search-amenities-unlimited-drinks": "Unlimited coffee/tea",
+    "spaces-page-search-amenities-phone-booth": "Phone Booth",
+    "spaces-page-search-amenities-24-7-access": "24/7 access",
+    "spaces-page-search-amenities-parking": "Parking",
+    "spaces-page-search-amenities-printer-scanner": "Printer/scanner",
+    "spaces-page-search-amenities-lockers": "Lockers",
+    "spaces-page-search-navigation-world": "World",
+    "spaces-page-search-offers": "Services",
+    "spaces-page-search-search-placeholder": "Find coworking by location or name",
+    "spaces-page-search-section-results-city": "Coworking spaces in {city}, {country}",
+    "spaces-page-search-section-results-country": "Coworking spaces in {country}",
+    "spaces-page-search-section-results": "Coworking spaces",
+    "spaces-page-search-service-hot-desk": "Hot Desk",
+    "spaces-page-search-service-fixed-desk": "Fixed Desk",
+    "spaces-page-search-service-meeting-room": "Meeting Room",
+    "spaces-page-search-service-office": "Private Office"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "spaces-page-home-title": "Знайти робоче місце | andCards",
+    "spaces-page-home-description": "Найкращі коворкінги в світі! Забронювати робоче місце онлайн за кілька кліків!",
+    "spaces-page-home-search-placeholder": "Шукайте за місцем або назвою коворкінгу",
+    "spaces-page-home-section-explore-coworkings-nearby": "Коворкінги неподалік, у які ви закохаєтесь ❤️",
+    "spaces-page-home-section-explore-coworkings-event": "Коворкінги на пляжі 🏝 — як поєднати приємне з корисним",
+    "spaces-page-home-section-explore-coworkings-new": "Вітаємо новододані коворкінги 🎉",
+    "spaces-page-home-section-get-inspiration": "Отримайте натхнення для наступної подорожі 💡",
+    "spaces-page-home-section-get-inspiration-text": "Дізнавайтеся про нові круті коворкінги та отримуйте спеціальні пропозиції на пошту 🎁",
+    "spaces-page-home-section-get-inspiration-email-placeholder": "Введіть ваш email",
+    "spaces-page-home-section-get-inspiration-subscribe": "Підписатися",
+    "spaces-page-home-section-explore-cities": "Найпопулярніші напрямки 🔥",
+    "spaces-page-home-section-explore-world": "Коворкінги з усього світу 🗺",
+    "spaces-page-home-section-suite-title": "Керуєте коворкінг-центром?",
+    "spaces-page-home-section-suite-subtitle": "Керування резидентами та надсилання повідомлень - абсолютно безкоштовно! Додаткові переваги з преміум-функціями: платежі через додаток, система бронювання переговорних та потужні інтеграції!",
+    "spaces-page-home-section-suite-button": "Безкоштовна програма для коворкінгів",
+    "spaces-page-home-work-anywhere": "Улюблене робоче місце",
+    "spaces-page-home-work-anywhere-subtitle": "{numberOfSpaces}+ коворкінгів з {numberOfCountries} країн",
+    "spaces-page-home-work-anywhere-subtitle-last-digit-one": "{numberOfSpaces}+ коворкінгів з {numberOfCountries} країни"
+  }
+}
