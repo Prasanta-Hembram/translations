@@ -1,4 +1,40 @@
-## Adding a new locale
+## Naming principles
+
+### Folders
+
+- Follow the component name.
+- Words are lower-cased and separated with dashes.
+
+Example:
+
+- Component name: `PageOrganizationCompanyProfile`.
+- Folder with translations name: `page-organization-company-profile`.
+
+### Translation keys
+
+- Sorted in alphabetical order.
+
+- Follow it's position on a page.
+
+Example: 
+
+`"suite-page-organization-company-profile-section-amenities": "Amenities"`
+
+`"suite-page-organization-company-profile-section-amenities-parking": "Parking"`
+
+- Include the component name as part of the key.
+
+Example:
+
+`"suite-page-organization-company-profile-section-amenities-button-add": "Add amenities"`
+
+- The alert translations begins with an `alert` word. 
+
+Example:
+
+`"alert-confirmation-organization-leave-no": "Cancel"`
+
+## Want to add a new locale?
 
 1. Fork this repository.
 2. Create a file with a name of a language code in each folder right next to existing translations. For example, for a Spanish language you need to create a `es.json` file in each folder.
