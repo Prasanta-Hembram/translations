@@ -1,6 +1,11 @@
 # translations
 
-Translations for [andCards Spaces](https://andcards.com) web site, [andCards Suite Web App](https://andcards.com/suite), [andCards Suite Android App](https://play.google.com/store/apps/details?id=com.cardscorp.contacts) and [andCards Suite iOS App](https://itunes.apple.com/us/app/andcards-suite/id1291226540?mt=8).
+Translations for:
+
+- [andCards Suite web app](https://andcards.com).
+- [andCards Suite Android app](https://play.google.com/store/apps/details?id=com.cardscorp.contacts).
+- [andCards Suite iOS app](https://itunes.apple.com/us/app/andcards-suite/id1291226540?mt=8).
+- [andCards Spaces web site](https://andcards.com/s).
 
 ### Want to contribute?
 
