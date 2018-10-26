@@ -6,6 +6,7 @@
     "suite-page-organization-booking-edit-balance-action-button-point": "Кредитами ({balance})",
     "suite-page-organization-booking-edit-booked-by": "Власник",
     "suite-page-organization-booking-edit-end-time": "Кінець",
+    "suite-page-organization-booking-edit-label-start-date": "Початок",
     "suite-page-organization-booking-edit-lock-code": "Код доступу",
     "suite-page-organization-booking-edit-lock-code-desc": "Двері кімнати оснащені розумним замком. Щоб відкрити двері, введіть код, що відображається вище, а потім #. Код для входу дійсний лише під час резервації.",
     "suite-page-organization-booking-edit-memo": "Нотатка",
