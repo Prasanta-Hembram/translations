@@ -1,9 +1,7 @@
 {
   "data": {
     "suite-page-organization-property-main-book-button": "Резервувати",
-    "suite-page-organization-property-main-date-prev-week": "Мин. тижд.",
     "suite-page-organization-property-main-date-today": "Сьогодні",
-    "suite-page-organization-property-main-date-next-week": "Наст. тижд.",
     "suite-page-organization-property-main-default-booking-purpose": "Резервація",
     "suite-page-organization-property-main-error-not-found": "Кімнату не можливо відобразити. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-property-main-hour" : "год.",

@@ -1,9 +1,7 @@
 {
   "data": {
     "suite-page-organization-property-main-book-button": "Reservar",
-    "suite-page-organization-property-main-date-prev-week": "Sem. pas.",
     "suite-page-organization-property-main-date-today": "Hoy",
-    "suite-page-organization-property-main-date-next-week": "Sem. próx.",
     "suite-page-organization-property-main-default-booking-purpose": "Reservación",
     "suite-page-organization-property-main-error-not-found": "No se pudo mostrar una habitación ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-property-main-hour" : "hora",

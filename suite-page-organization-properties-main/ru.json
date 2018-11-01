@@ -1,9 +1,7 @@
 {
   "data": {
     "suite-page-organization-property-main-book-button": "Бронировать",
-    "suite-page-organization-property-main-date-prev-week": "Прошл. нед.",
     "suite-page-organization-property-main-date-today": "Сегодня",
-    "suite-page-organization-property-main-date-next-week": "След. нед.",
     "suite-page-organization-property-main-default-booking-purpose": "Бронь",
     "suite-page-organization-property-main-error-not-found": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
     "suite-page-organization-property-main-hour" : "ч.",
