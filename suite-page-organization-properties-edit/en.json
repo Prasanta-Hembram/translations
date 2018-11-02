@@ -8,7 +8,7 @@
     "suite-page-organization-property-edit-name": "Name",
     "suite-page-organization-property-edit-name-placeholder": "Add name",
     "suite-page-organization-property-edit-number-of-seats": "Seats",
-    "suite-page-organization-property-edit-price-money": "Price, {currencySymbol}/hr", 
+    "suite-page-organization-property-edit-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-property-edit-price-points": "Credits, {pointEmoji}/hr",
     "suite-page-organization-property-edit-title-edit": "Edit room"
   }

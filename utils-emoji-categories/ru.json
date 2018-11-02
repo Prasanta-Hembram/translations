@@ -1,13 +1,13 @@
 {
   "data": {
-    "utils-emoji-categories-frequently-used": "Часто используемые",
-    "utils-emoji-categories-smiley-and-people": "Смайлики и люди",
-    "utils-emoji-categories-animals-and-nature": "Животные и природа",
-    "utils-emoji-categories-food-and-drink": "Еда и напитки",
     "utils-emoji-categories-activity": "Активности",
-    "utils-emoji-categories-travel-and-places": "Путешествия и места",
+    "utils-emoji-categories-animals-and-nature": "Животные и природа",
+    "utils-emoji-categories-flags": "Флаги",
+    "utils-emoji-categories-food-and-drink": "Еда и напитки",
+    "utils-emoji-categories-frequently-used": "Часто используемые",
     "utils-emoji-categories-objects": "Объекты",
+    "utils-emoji-categories-smiley-and-people": "Смайлики и люди",
     "utils-emoji-categories-symbols": "Символы",
-    "utils-emoji-categories-flags": "Флаги"
+    "utils-emoji-categories-travel-and-places": "Путешествия и места"
   }
 }

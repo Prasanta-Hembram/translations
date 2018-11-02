@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-settings-main-title": "Налаштування",
     "suite-page-settings-main-account": "Обліковий запис",
     "suite-page-settings-main-cards": "Мій профіль",
     "suite-page-settings-main-cookies-policy-title": "Політика кукі-файлів",
@@ -16,7 +17,6 @@
     "suite-page-settings-main-sign-out": "Вийти з системи",
     "suite-page-settings-main-support": "Підтримка",
     "suite-page-settings-main-terms-title": "Умови надання послуг",
-    "suite-page-settings-main-title": "Налаштування",
     "suite-page-settings-main-version": "Версія"
   }
 }

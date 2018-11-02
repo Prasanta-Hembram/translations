@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-settings-main-title": "Настройки",
     "suite-page-settings-main-account": "Учетная запись",
     "suite-page-settings-main-cards": "Мой профиль",
     "suite-page-settings-main-cookies-policy-title": "Политика куки-файлов",
@@ -16,7 +17,6 @@
     "suite-page-settings-main-sign-out": "Выйти из системы",
     "suite-page-settings-main-support": "Поддержка",
     "suite-page-settings-main-terms-title": "Условия использования",
-    "suite-page-settings-main-title": "Настройки",
     "suite-page-settings-main-version": "Версия"
   }
 }

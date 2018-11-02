@@ -1,8 +1,8 @@
 {
   "data": {
+    "suite-page-settings-profile-card-title": "Mi perfil",
     "suite-page-settings-profile-card-photo-crop": "Cortar foto",
     "suite-page-settings-profile-card-photo-delete": "Eliminar foto",
-    "suite-page-settings-profile-card-shared-basic-information-placeholder": "Ingresa información",
-    "suite-page-settings-profile-card-title": "Mi perfil"
+    "suite-page-settings-profile-card-shared-basic-information-placeholder": "Ingresa información"
   }
 }

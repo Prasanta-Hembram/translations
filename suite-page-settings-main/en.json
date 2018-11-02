@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-settings-main-title": "Settings",
     "suite-page-settings-main-account": "Account",
     "suite-page-settings-main-cards": "My Profile",
     "suite-page-settings-main-cookies-policy-title": "Cookies Policy",
@@ -16,7 +17,6 @@
     "suite-page-settings-main-sign-out": "Log out",
     "suite-page-settings-main-support": "Support",
     "suite-page-settings-main-terms-title": "Terms of Use",
-    "suite-page-settings-main-title": "Settings",
     "suite-page-settings-main-version": "Version"
   }
 }

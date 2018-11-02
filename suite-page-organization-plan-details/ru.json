@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-plan-details-title": "Подписаться на план",
+    "suite-page-organization-plan-details-title-for-admin": "Детали тарифа",
+    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Детали тарифа: {title}",
+    "suite-page-organization-plan-details-title-with-plan-title": "Подписаться на план: {title}",
     "suite-page-organization-plan-details-add-card": "Добавить карту",
     "suite-page-organization-plan-details-auto-renew": "Продлевать автоматически",
     "suite-page-organization-plan-details-auto-renew-description": "Деньги будут сниматься автоматически, пока вы не отмените подписку.",
@@ -41,9 +44,6 @@
     "suite-page-organization-plan-details-subscribe": "Подписаться",
     "suite-page-organization-plan-details-subscribe-for-free": "Подписаться бесплатно",
     "suite-page-organization-plan-details-subscribe-for-price": "Подписаться за {price}",
-    "suite-page-organization-plan-details-title-for-admin": "Детали тарифа",
-    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Детали тарифа: {title}",
-    "suite-page-organization-plan-details-title-with-plan-title": "Подписаться на план: {title}",
     "suite-page-organization-plan-details-type": "Тип"
   }
 }

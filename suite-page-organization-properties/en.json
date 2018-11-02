@@ -1,16 +1,16 @@
 {
   "data": {
+    "suite-page-organization-properties-title": "Bookings",
     "suite-page-organization-properties-availability-available": "Available",
     "suite-page-organization-properties-availability-in-minutes": "Available {time}",
     "suite-page-organization-properties-availability-unavailable": "Unavailable",
     "suite-page-organization-properties-bookings-button-export-title": "Export to Calendar",
     "suite-page-organization-properties-bookings-button-my-title": "All My Bookings",
+    "suite-page-organization-properties-calendar-button-title": "All Rooms",
     "suite-page-organization-properties-default-booking-purpose": "Reservation",
     "suite-page-organization-properties-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
     "suite-page-organization-properties-my-bookings": "My Bookings",
     "suite-page-organization-properties-no-properties": "There are no any available rooms. 😢",
-    "suite-page-organization-properties-calendar-button-title": "All Rooms",
-    "suite-page-organization-properties-rooms": "Rooms",
-    "suite-page-organization-properties-title": "Bookings"
+    "suite-page-organization-properties-rooms": "Rooms"
   }
 }

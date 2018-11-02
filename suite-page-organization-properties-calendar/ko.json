@@ -1,11 +1,11 @@
 {
   "data": {
-      "suite-page-organization-properties-calendar-alert-past-day": "과거에 예약 할 수 없습니다.",
-      "suite-page-organization-properties-calendar-alert-period": "선택한 기간이 최소 예약시간 보다 낮습니다.",
-      "suite-page-organization-properties-calendar-date": "날짜",
-      "suite-page-organization-properties-calendar-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-      "suite-page-organization-properties-calendar-my": "나의 예약",
-      "suite-page-organization-properties-calendar-no-properties": "아직 이용가능한 시설이 없습니다. 😢",
-      "suite-page-organization-properties-calendar-title": "모든 시설"
+    "suite-page-organization-properties-calendar-title": "모든 시설",
+    "suite-page-organization-properties-calendar-alert-past-day": "과거에 예약 할 수 없습니다.",
+    "suite-page-organization-properties-calendar-alert-period": "선택한 기간이 최소 예약시간 보다 낮습니다.",
+    "suite-page-organization-properties-calendar-date": "날짜",
+    "suite-page-organization-properties-calendar-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-properties-calendar-my": "나의 예약",
+    "suite-page-organization-properties-calendar-no-properties": "아직 이용가능한 시설이 없습니다. 😢"
   }
 }

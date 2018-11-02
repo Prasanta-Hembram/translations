@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-user-balance-history-title": "결제 내역",
     "suite-page-organization-user-balance-history-default-transaction": "거래",
     "suite-page-organization-user-balance-history-fetch-failure": "결제 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-organization-user-balance-history-list-empty": "결제 내역이 없습니다 😢",
@@ -9,21 +10,20 @@
     "suite-page-organization-user-balance-history-money-transaction-book-refund-cash": "시설 예약 취소 (현금)",
     "suite-page-organization-user-balance-history-money-transaction-membership-by-card": "멤버십 플랜 구매 (카드)",
     "suite-page-organization-user-balance-history-money-transaction-membership-by-cash": "멤버십 플랜 구매 (현금)",
-    "suite-page-organization-user-balance-history-money-transaction-membership-by-cash-with-admin-name":  "{name} 멤버십 플랜 구매 (현금)",
+    "suite-page-organization-user-balance-history-money-transaction-membership-by-cash-with-admin-name": "{name} 멤버십 플랜 구매 (현금)",
     "suite-page-organization-user-balance-history-money-transaction-status-approved": "승인 완료",
     "suite-page-organization-user-balance-history-money-transaction-status-canceled": "승인 취소",
     "suite-page-organization-user-balance-history-money-transaction-status-pending": "승인 필요",
     "suite-page-organization-user-balance-history-money-transaction-status-unpaid": "결제 예정",
     "suite-page-organization-user-balance-history-permission-denied": "볼 수있는 권한이 없습니다.",
     "suite-page-organization-user-balance-history-point-transaction-book-by-points": "시설 예약 (크레딧)",
-    "suite-page-organization-user-balance-history-point-transaction-book-refund-points": "시설 예약 취소 (크레딧)",
     "suite-page-organization-user-balance-history-point-transaction-book-by-points-with-admin-name": "{name} 시설 예약 (크레딧)",
+    "suite-page-organization-user-balance-history-point-transaction-book-refund-points": "시설 예약 취소 (크레딧)",
     "suite-page-organization-user-balance-history-point-transaction-charge-by-admin": "관리자/중간관리자 수동 회수",
     "suite-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "크레딧 수동 회수 ({name})",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "멤버십 플랜 만료",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "멤버십 플랜 갱신",
     "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin": "관리자/중간관리자 수동 추가",
-    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "크레딧 수동 추가 ({name})",
-    "suite-page-organization-user-balance-history-title": "결제 내역"
+    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "크레딧 수동 추가 ({name})"
   }
 }

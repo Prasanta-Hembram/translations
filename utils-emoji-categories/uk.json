@@ -1,13 +1,13 @@
 {
   "data": {
-    "utils-emoji-categories-frequently-used": "Часто використовувані",
-    "utils-emoji-categories-smiley-and-people": "Смайлики та люди",
-    "utils-emoji-categories-animals-and-nature": "Тварини та природа",
-    "utils-emoji-categories-food-and-drink": "Їжа та напої",
     "utils-emoji-categories-activity": "Активності",
-    "utils-emoji-categories-travel-and-places": "Подорожі та місця",
+    "utils-emoji-categories-animals-and-nature": "Тварини та природа",
+    "utils-emoji-categories-flags": "Прапори",
+    "utils-emoji-categories-food-and-drink": "Їжа та напої",
+    "utils-emoji-categories-frequently-used": "Часто використовувані",
     "utils-emoji-categories-objects": "Об’єкти",
+    "utils-emoji-categories-smiley-and-people": "Смайлики та люди",
     "utils-emoji-categories-symbols": "Символи",
-    "utils-emoji-categories-flags": "Прапори"
+    "utils-emoji-categories-travel-and-places": "Подорожі та місця"
   }
 }

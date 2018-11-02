@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-user-balance-history-title": "Balance History",
     "suite-page-organization-user-balance-history-default-transaction": "Transaction",
     "suite-page-organization-user-balance-history-fetch-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
     "suite-page-organization-user-balance-history-list-empty": "There are no transactions. 😢",
@@ -9,7 +10,7 @@
     "suite-page-organization-user-balance-history-money-transaction-book-refund-cash": "Cancelled room booking (cash)",
     "suite-page-organization-user-balance-history-money-transaction-membership-by-card": "Purchased membership plan (card)",
     "suite-page-organization-user-balance-history-money-transaction-membership-by-cash": "Purchased membership plan (cash)",
-    "suite-page-organization-user-balance-history-money-transaction-membership-by-cash-with-admin-name":  "Purchased membership plan (cash) by {name}",
+    "suite-page-organization-user-balance-history-money-transaction-membership-by-cash-with-admin-name": "Purchased membership plan (cash) by {name}",
     "suite-page-organization-user-balance-history-money-transaction-status-approved": "Approved",
     "suite-page-organization-user-balance-history-money-transaction-status-canceled": "Canceled",
     "suite-page-organization-user-balance-history-money-transaction-status-pending": "Pending",
@@ -23,7 +24,6 @@
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Expired with membership plan",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Received with membership plan",
     "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Credits added by admin/moderator",
-    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Credits added by {name}",
-    "suite-page-organization-user-balance-history-title": "Balance History"
+    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Credits added by {name}"
   }
 }

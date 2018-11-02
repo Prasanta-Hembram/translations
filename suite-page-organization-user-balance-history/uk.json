@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-user-balance-history-title": "Історія транзакцій",
     "suite-page-organization-user-balance-history-default-transaction": "Транзакція",
     "suite-page-organization-user-balance-history-fetch-failure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-user-balance-history-list-empty": "Немає жодних транзакцій. 😢",
@@ -23,7 +24,6 @@
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Закінчились з тарифним планом",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Отримано з тарифним планом",
     "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Нараховано кредити адміністратором/модератором",
-    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Нараховано кредити ({name})",
-    "suite-page-organization-user-balance-history-title": "Історія транзакцій"
+    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Нараховано кредити ({name})"
   }
 }

@@ -8,7 +8,7 @@
     "suite-page-organization-property-edit-name": "시설 명",
     "suite-page-organization-property-edit-name-placeholder": "시설 명 입력하기",
     "suite-page-organization-property-edit-number-of-seats": "좌석 수",
-    "suite-page-organization-property-edit-price-money": "시간당 {currencySymbol}", 
+    "suite-page-organization-property-edit-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-edit-price-points": "시간당 {pointEmoji}",
     "suite-page-organization-property-edit-title-edit": "시설설정"
   }

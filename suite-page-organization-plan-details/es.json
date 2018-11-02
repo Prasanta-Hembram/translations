@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-plan-details-title": "Adquirir un plan de membresía",
+    "suite-page-organization-plan-details-title-for-admin": "Detalles del plan",
+    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Detalles del plan: {title}",
+    "suite-page-organization-plan-details-title-with-plan-title": "Adquirir un plan de membresía: {title}",
     "suite-page-organization-plan-details-add-card": "Agregar tarjeta",
     "suite-page-organization-plan-details-auto-renew": "Renovar subscripción automáticamente",
     "suite-page-organization-plan-details-auto-renew-description": "Seguirá recibiendo cobros regularmente a menos que cancele la subscripción.",
@@ -41,9 +44,6 @@
     "suite-page-organization-plan-details-subscribe": "Subscribirse",
     "suite-page-organization-plan-details-subscribe-for-free": "Subscribirse gratis",
     "suite-page-organization-plan-details-subscribe-for-price": "Subscribirse por {price}",
-    "suite-page-organization-plan-details-title-for-admin": "Detalles del plan",
-    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Detalles del plan: {title}",
-    "suite-page-organization-plan-details-title-with-plan-title": "Adquirir un plan de membresía: {title}",
     "suite-page-organization-plan-details-type": "Insertar"
   }
 }

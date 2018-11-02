@@ -1,12 +1,12 @@
 {
   "data": {
+    "suite-page-sessions-title": "Active Sessions",
+    "suite-page-sessions-description": "This is the list of devices you logged into andCards. If you do not recognize any of active sessions, remove it.",
     "suite-page-sessions-alert-delete-success": "Session successfully deleted",
     "suite-page-sessions-current": "Current session",
     "suite-page-sessions-current-cannot-load": "Cannot load current session details. Please check the internet connection.",
-    "suite-page-sessions-description": "This is the list of devices you logged into andCards. If you do not recognize any of active sessions, remove it.",
     "suite-page-sessions-other": "Active sessions",
     "suite-page-sessions-other-cannot-load": "Cannot load active sessions details. Please check the internet connection.",
-    "suite-page-sessions-other-empty": "No active sessions.",
-    "suite-page-sessions-title": "Active Sessions"
+    "suite-page-sessions-other-empty": "No active sessions."
   }
 }

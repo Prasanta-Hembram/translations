@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-privacy-policy-withdraw-consent": "Відкликати згоду",
+    "suite-page-privacy-policy-title": "Політика приватності",
     "suite-page-privacy-policy-error-no-internet-action": "Перезавантажити",
     "suite-page-privacy-policy-error-no-internet-description": "Перевірте з'єднання з інтернетом.",
-    "suite-page-privacy-policy-title": "Політика приватності"
+    "suite-page-privacy-policy-withdraw-consent": "Відкликати згоду"
   }
 }

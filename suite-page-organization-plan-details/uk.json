@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-plan-details-title": "Підписатись на план",
+    "suite-page-organization-plan-details-title-for-admin": "Деталі плану",
+    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Підписатись на план: {title}",
+    "suite-page-organization-plan-details-title-with-plan-title": "Деталі плану: {title}",
     "suite-page-organization-plan-details-add-card": "Додати картку",
     "suite-page-organization-plan-details-auto-renew": "Поновлювати автоматично",
     "suite-page-organization-plan-details-auto-renew-description": "Гроші зніматимуться автоматично, допоки ви не скасуєте підписку.",
@@ -41,9 +44,6 @@
     "suite-page-organization-plan-details-subscribe": "Підписатись",
     "suite-page-organization-plan-details-subscribe-for-free": "Підписатись безкоштовно",
     "suite-page-organization-plan-details-subscribe-for-price": "Підписатись за {price}",
-    "suite-page-organization-plan-details-title-for-admin": "Деталі плану",
-    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Підписатись на план: {title}",
-    "suite-page-organization-plan-details-title-with-plan-title": "Деталі плану: {title}",
     "suite-page-organization-plan-details-type": "Тип"
   }
 }

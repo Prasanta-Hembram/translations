@@ -1,15 +1,15 @@
 {
   "data": {
+    "suite-page-organization-property-details-title": "Більше про {propertyName}",
+    "suite-page-organization-property-details-title-default": "Більше",
     "suite-page-organization-property-details-description-title": "Опис",
     "suite-page-organization-property-details-no-property": "Кімнату не можливо відобразити. Перевірте, чи все добре з інтернет-з'єднанням.",
-    "suite-page-organization-property-details-overview-title": "Огляд",
-    "suite-page-organization-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
+    "suite-page-organization-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Ця кімната може вмістити до {numberOfSeats} гостей.",
+    "suite-page-organization-property-details-overview-title": "Огляд",
     "suite-page-organization-property-details-price-money": "- Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-property-details-price-points": "- Резервація коштує {priceCredits} за годину.",
-    "suite-page-organization-property-details-price-points-and-money": "- Резервація коштує {priceMoney} або {priceCredits} за годину",
-    "suite-page-organization-property-details-title": "Більше про {propertyName}",
-    "suite-page-organization-property-details-title-default": "Більше"
+    "suite-page-organization-property-details-price-points-and-money": "- Резервація коштує {priceMoney} або {priceCredits} за годину"
   }
 }

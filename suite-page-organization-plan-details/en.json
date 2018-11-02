@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-plan-details-title": "Purchase plan",
+    "suite-page-organization-plan-details-title-for-admin": "Plan details",
+    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Plan details: {title}",
+    "suite-page-organization-plan-details-title-with-plan-title": "Purchase plan: {title}",
     "suite-page-organization-plan-details-add-card": "Add card",
     "suite-page-organization-plan-details-auto-renew": "Auto-renew",
     "suite-page-organization-plan-details-auto-renew-description": "You will be charged every month unless you cancel the subscription.",
@@ -41,9 +44,6 @@
     "suite-page-organization-plan-details-subscribe": "Subscribe",
     "suite-page-organization-plan-details-subscribe-for-free": "Subscribe for free",
     "suite-page-organization-plan-details-subscribe-for-price": "Subscribe for {price}",
-    "suite-page-organization-plan-details-title-for-admin": "Plan details",
-    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Plan details: {title}",
-    "suite-page-organization-plan-details-title-with-plan-title": "Purchase plan: {title}",
     "suite-page-organization-plan-details-type": "Type"
   }
 }

@@ -1,21 +1,21 @@
 {
   "data": {
+    "utils-auth-agree-to-policies": "Я підтверджую, що мені не менше 14 років, і я погоджуюсь з {termsOfUse}, політиками {privacyPolicy} та {cookiePolicy}. Погодження можна абиколи відкликати в Налаштуваннях.",
     "utils-auth-back-to-login-methods": "Назад",
     "utils-auth-back-to-number": "Назад",
     "utils-auth-code": "Код",
     "utils-auth-country": "Країна",
     "utils-auth-country-selector-title": "Вибір країни",
     "utils-auth-country-selector-type-here": "Шукати країну",
-    "utils-auth-agree-to-policies": "Я підтверджую, що мені не менше 14 років, і я погоджуюсь з {termsOfUse}, політиками {privacyPolicy} та {cookiePolicy}. Погодження можна абиколи відкликати в Налаштуваннях.",
-    "utils-auth-link-terms-of-use": "умовами надання послуг",
-    "utils-auth-link-privacy-policy": "приватності",
     "utils-auth-link-cookies-policy": "кукі-файлів",
+    "utils-auth-link-privacy-policy": "приватності",
+    "utils-auth-link-terms-of-use": "умовами надання послуг",
+    "utils-auth-login-with-facebook": "Продовжити з Facebook",
+    "utils-auth-login-with-google": "Продовжити з Google",
+    "utils-auth-login-with-phone-number": "Продовжити з номером телефону",
     "utils-auth-next-step": "Погодитись і продовжити",
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Перевірте чи вірно введено номер телефону",
-    "utils-auth-login-with-google": "Продовжити з Google",
-    "utils-auth-login-with-facebook": "Продовжити з Facebook",
-    "utils-auth-login-with-phone-number": "Продовжити з номером телефону",
     "utils-auth-type-phone-number-here": "Введіть номер",
     "utils-auth-type-sms-code-here": "Введіть СМС пароль"
   }

@@ -1,8 +1,8 @@
 {
   "data": {
+    "suite-page-organization-team-cards-update-title": "Добавить учатников: {teamTitle}",
     "suite-page-organization-team-cards-update-no-cards": "No one to add. 😢",
     "suite-page-organization-team-cards-update-nothing-found": "Ничего не найдено. 😢",
-    "suite-page-organization-team-cards-update-search": "Поиск среди {numberOfMembers} участников",
-    "suite-page-organization-team-cards-update-title": "Добавить учатников: {teamTitle}"
+    "suite-page-organization-team-cards-update-search": "Поиск среди {numberOfMembers} участников"
   }
 }

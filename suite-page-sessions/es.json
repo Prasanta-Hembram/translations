@@ -1,12 +1,12 @@
 {
   "data": {
+    "suite-page-sessions-title": "Sesiones activas",
+    "suite-page-sessions-description": "Esta es la lista de dispositivos que han iniciado sesión en andCards. Si no reconoce alguna de las sesiones activas, eliminela.",
     "suite-page-sessions-alert-delete-success": "Sesión eliminada con éxito",
     "suite-page-sessions-current": "Sesión actual",
     "suite-page-sessions-current-cannot-load": "No se pueden cargar los detalles actuales de la sesión. Por favor verifique su conexión a internet.",
-    "suite-page-sessions-description": "Esta es la lista de dispositivos que han iniciado sesión en andCards. Si no reconoce alguna de las sesiones activas, eliminela.",
     "suite-page-sessions-other": "Sesiones activas",
     "suite-page-sessions-other-cannot-load": "No se pueden cargar los detalles de las sesiones activas. Por favor verifique su conexión a internet.",
-    "suite-page-sessions-other-empty": "No hay sesiones activas.", 
-    "suite-page-sessions-title": "Sesiones activas"
+    "suite-page-sessions-other-empty": "No hay sesiones activas."
   }
 }

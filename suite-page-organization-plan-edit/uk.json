@@ -1,13 +1,15 @@
 {
   "data": {
-    "suite-page-organization-plan-edit-credits": "Кредити, {pointEmoji}",
+    "suite-page-organization-plan-edit-title": "Редагувати план",
     "suite-page-organization-plan-edit-description": "Новий тариф буде застосовано з наступного платіжного періоду.",
+    "suite-page-organization-plan-edit-credits": "Кредити, {pointEmoji}",
     "suite-page-organization-plan-edit-free-trial-day": "Безкоштовний пробний день",
+    "suite-page-organization-plan-edit-is-public": "Публічно доступний",
     "suite-page-organization-plan-edit-note": "Опис планy",
     "suite-page-organization-plan-edit-note-placeholder": "Додати опис плану",
     "suite-page-organization-plan-edit-period": "Період",
-    "suite-page-organization-plan-edit-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "suite-page-organization-plan-edit-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",
+    "suite-page-organization-plan-edit-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "suite-page-organization-plan-edit-plan-status": "Статус",
     "suite-page-organization-plan-edit-plan-title": "Назва плану",
     "suite-page-organization-plan-edit-plan-title-placeholder": "Уведіть назву плану",
@@ -15,8 +17,6 @@
     "suite-page-organization-plan-edit-pricing-title": "Тарифи",
     "suite-page-organization-plan-edit-quantity": "Кількість",
     "suite-page-organization-plan-edit-seats": "Роб. місць",
-    "suite-page-organization-plan-edit-is-public": "Публічно доступний",
-    "suite-page-organization-plan-edit-title": "Редагувати план",
     "suite-page-organization-plan-edit-type": "Тип"
   }
 }

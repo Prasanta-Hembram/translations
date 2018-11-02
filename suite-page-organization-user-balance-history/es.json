@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-user-balance-history-title": "Balance de Historia",
     "suite-page-organization-user-balance-history-default-transaction": "Transacción",
     "suite-page-organization-user-balance-history-fetch-failure": "No se pudo mostrar el historial de saldo. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-user-balance-history-list-empty": "No hay transacciones. 😢",
@@ -9,21 +10,20 @@
     "suite-page-organization-user-balance-history-money-transaction-book-refund-cash": "Reserva de sala de reuniones cancelada (efectivo)",
     "suite-page-organization-user-balance-history-money-transaction-membership-by-card": "Compra de plan de membresia (tarjeta)",
     "suite-page-organization-user-balance-history-money-transaction-membership-by-cash": "Compra de plan de membresia (efectivo)",
-    "suite-page-organization-user-balance-history-money-transaction-membership-by-cash-with-admin-name":  "Compra de plan de membresia (efectivo) a través de {name}",
+    "suite-page-organization-user-balance-history-money-transaction-membership-by-cash-with-admin-name": "Compra de plan de membresia (efectivo) a través de {name}",
     "suite-page-organization-user-balance-history-money-transaction-status-approved": "Aprobado",
     "suite-page-organization-user-balance-history-money-transaction-status-canceled": "Cancelado",
     "suite-page-organization-user-balance-history-money-transaction-status-pending": "Pendiente",
     "suite-page-organization-user-balance-history-money-transaction-status-unpaid": "No pagado",
     "suite-page-organization-user-balance-history-permission-denied": "No tienes permiso para acceder a esta página.",
     "suite-page-organization-user-balance-history-point-transaction-book-by-points": "Reserva de sala de reuniones (créditos)",
-    "suite-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de sala de reuniones cancelada (créditos)",
     "suite-page-organization-user-balance-history-point-transaction-book-by-points-with-admin-name": "Reserva de sala de reuniones (créditos) a través de {name}",
+    "suite-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de sala de reuniones cancelada (créditos)",
     "suite-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manualmente agregado por admin / moderator",
     "suite-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Manualmente agregado por {name}",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Vencido con un plan de membresía",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Recibido con plan de membresía",
     "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Cargado manualmente por el administrador / moderador",
-    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Cargado manualmente por {name}",
-    "suite-page-organization-user-balance-history-title": "Balance de Historia"
+    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Cargado manualmente por {name}"
   }
 }
