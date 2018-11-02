@@ -1,12 +1,12 @@
 {
-  "data":{
+  "data": {
+    "alert-confirmation-organization-membership-settings-credits-charge-title": "Cobrar créditos",
+    "alert-confirmation-organization-membership-settings-credits-give-title": "Dar créditos",
+    "alert-confirmation-organization-membership-settings-credits-charge-message": "Ingrese la cantidad de monedas de crédito para cobrarle al miembro.",
     "alert-confirmation-organization-membership-settings-credits-charge-no": "Cancelar",
     "alert-confirmation-organization-membership-settings-credits-charge-yes": "Cobrar",
-    "alert-confirmation-organization-membership-settings-credits-charge-message": "Ingrese la cantidad de monedas de crédito para cobrarle al miembro.",
-    "alert-confirmation-organization-membership-settings-credits-charge-title": "Cobrar créditos",
-    "alert-confirmation-organization-membership-settings-credits-give-no": "Cancelar",
-    "alert-confirmation-organization-membership-settings-credits-give-yes": "Dar",
     "alert-confirmation-organization-membership-settings-credits-give-message": "Ingrese la cantidad de monedas de crédito para darle al miembro.",
-    "alert-confirmation-organization-membership-settings-credits-give-title": "Dar créditos"
+    "alert-confirmation-organization-membership-settings-credits-give-no": "Cancelar",
+    "alert-confirmation-organization-membership-settings-credits-give-yes": "Dar"
   }
 }

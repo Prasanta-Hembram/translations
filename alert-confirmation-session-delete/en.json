@@ -1,8 +1,8 @@
 {
   "data":{
+    "alert-confirmation-session-delete-title": "Delete session",
     "alert-confirmation-session-delete-no": "Cancel",
     "alert-confirmation-session-delete-text": "Are you sure you want to delete this session? This action is irreversible.",
-    "alert-confirmation-session-delete-title": "Delete session",
     "alert-confirmation-session-delete-yes": "Yes, delete"
   }
 }

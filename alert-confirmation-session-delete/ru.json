@@ -1,8 +1,8 @@
 {
   "data":{
+    "alert-confirmation-session-delete-title": "Удалить сеанс",
     "alert-confirmation-session-delete-no": "Отменить",
     "alert-confirmation-session-delete-text": "Вы уверены, что хотите удалить этот сеанс? Это действие необратимо.",
-    "alert-confirmation-session-delete-title": "Удалить сеанс",
     "alert-confirmation-session-delete-yes": "Да, удалить"
   }
 }

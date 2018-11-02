@@ -1,12 +1,12 @@
 {
-  "data":{
+  "data": {
+    "alert-confirmation-organization-membership-settings-credits-charge-title": "Списати кредити",
+    "alert-confirmation-organization-membership-settings-credits-give-title": "Нарахувати кредити",
+    "alert-confirmation-organization-membership-settings-credits-charge-message": "Уведіть кількість кредитів для списання з рахунку клієнта.",
     "alert-confirmation-organization-membership-settings-credits-charge-no": "Скасувати",
     "alert-confirmation-organization-membership-settings-credits-charge-yes": "Списати",
-    "alert-confirmation-organization-membership-settings-credits-charge-message": "Уведіть кількість кредитів для списання з рахунку клієнта.",
-    "alert-confirmation-organization-membership-settings-credits-charge-title": "Списати кредити",
-    "alert-confirmation-organization-membership-settings-credits-give-no": "Скасувати",
-    "alert-confirmation-organization-membership-settings-credits-give-yes": "Нарахувати",
     "alert-confirmation-organization-membership-settings-credits-give-message": "Уведіть кількість кредитів для нарахування на рахунок клієнта.",
-    "alert-confirmation-organization-membership-settings-credits-give-title": "Нарахувати кредити"
+    "alert-confirmation-organization-membership-settings-credits-give-no": "Скасувати",
+    "alert-confirmation-organization-membership-settings-credits-give-yes": "Нарахувати"
   }
 }
