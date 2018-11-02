@@ -1,8 +1,8 @@
 {
   "data": {
+    "suite-page-cookies-policy-title": "Cookies Policy",
     "suite-page-cookies-policy-error-no-internet-action": "Reload",
     "suite-page-cookies-policy-error-no-internet-description": "No internet.",
-    "suite-page-cookies-policy-title": "Cookies Policy",
     "suite-page-cookies-policy-withdraw-consent": "Withdraw Consent"
   }
 }

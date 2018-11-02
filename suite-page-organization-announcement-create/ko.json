@@ -1,13 +1,13 @@
 {
   "data": {
+    "suite-page-organization-announcement-create-title": "제목",
     "suite-page-organization-announcement-create-button-send": "만들기",
     "suite-page-organization-announcement-create-contents": "내용",
     "suite-page-organization-announcement-create-is-pinned": "상단고정",
     "suite-page-organization-announcement-create-stack-title": "공지사항 만들기",
     "suite-page-organization-announcement-create-text-placeholder": "내용을 입력하세요",
-    "suite-page-organization-announcement-create-title": "제목",
     "suite-page-organization-announcement-create-title-placeholder": "제목 입력하기",
-    "suite-page-organization-announcement-create-validation-error-title": "공지 제목을 입력하세요.",
-    "suite-page-organization-announcement-create-validation-error-text": "공지를 입력하세요."
+    "suite-page-organization-announcement-create-validation-error-text": "공지를 입력하세요.",
+    "suite-page-organization-announcement-create-validation-error-title": "공지 제목을 입력하세요."
   }
 }

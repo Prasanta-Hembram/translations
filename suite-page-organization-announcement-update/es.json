@@ -1,10 +1,10 @@
 {
   "data": {
+    "suite-page-organization-announcement-update-title": "Título",
     "suite-page-organization-announcement-update-contents": "Contenidos",
     "suite-page-organization-announcement-update-is-pinned": "Alfiler en la parte superior",
     "suite-page-organization-announcement-update-stack-title": "Editar aviso",
     "suite-page-organization-announcement-update-text-placeholder": "Dile algo a tu comunidad...",
-    "suite-page-organization-announcement-update-title": "Título",
     "suite-page-organization-announcement-update-title-placeholder": "Añadir título"
   }
 }

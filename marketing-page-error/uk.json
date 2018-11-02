@@ -2,9 +2,9 @@
   "data": {
     "marketing-page-error-title": "Помилка - {errorCode}",
     "marketing-page-error-description": "andCards — сервіс для розбудови коворкінгів та організацій",
-    "marketing-page-error-something-is-missing": "Щось пішло не так",
-    "marketing-page-error-visit-our-support-page-or-forums-for-help-or-return-home": "Відвідайте {supportPage} для допомоги, або поверніться {homePage}",
     "marketing-page-error-help-page": "довідку",
-    "marketing-page-error-home": "додому"
+    "marketing-page-error-home": "додому",
+    "marketing-page-error-something-is-missing": "Щось пішло не так",
+    "marketing-page-error-visit-our-support-page-or-forums-for-help-or-return-home": "Відвідайте {supportPage} для допомоги, або поверніться {homePage}"
   }
 }

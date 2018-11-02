@@ -2,9 +2,9 @@
   "data": {
     "marketing-page-error-title": "Error - {errorCode}",
     "marketing-page-error-description": "andCards — community software for organizations and coworkings",
-    "marketing-page-error-something-is-missing": "Something is missing",
-    "marketing-page-error-visit-our-support-page-or-forums-for-help-or-return-home": "Visit our {supportPage} for help or return {homePage}",
     "marketing-page-error-help-page": "help page",
-    "marketing-page-error-home": "home"
+    "marketing-page-error-home": "home",
+    "marketing-page-error-something-is-missing": "Something is missing",
+    "marketing-page-error-visit-our-support-page-or-forums-for-help-or-return-home": "Visit our {supportPage} for help or return {homePage}"
   }
 }

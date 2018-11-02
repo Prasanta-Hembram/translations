@@ -1,10 +1,11 @@
 {
   "data": {
+    "suite-page-organization-booking-edit-title": "예약 수정",
     "suite-page-organization-booking-edit-balance-action-button-for-free": "무료",
-    "suite-page-organization-booking-edit-balance-action-button-money-cash": "현금 ({price})",
     "suite-page-organization-booking-edit-balance-action-button-money-card": "카드 ({price})",
+    "suite-page-organization-booking-edit-balance-action-button-money-cash": "현금 ({price})",
     "suite-page-organization-booking-edit-balance-action-button-point": "크레딧 ({balance})",
-    "suite-page-organization-booking-edit-booked-by": "예약자", 
+    "suite-page-organization-booking-edit-booked-by": "예약자",
     "suite-page-organization-booking-edit-end-time": "종료",
     "suite-page-organization-booking-edit-label-start-date": "시작일",
     "suite-page-organization-booking-edit-lock-code": "비밀번호",
@@ -12,19 +13,18 @@
     "suite-page-organization-booking-edit-memo": "메모",
     "suite-page-organization-booking-edit-memo-placeholder": "메모 입력하기 (예약자와 관리자만 확인 가능)",
     "suite-page-organization-booking-edit-payed-with": "결제 수단",
-    "suite-page-organization-booking-edit-payment-cash-title": "결제 사항",
     "suite-page-organization-booking-edit-payment-cash-desc": "결제 완료",
     "suite-page-organization-booking-edit-payment-cash-paid": "결제 완료",
+    "suite-page-organization-booking-edit-payment-cash-title": "결제 사항",
     "suite-page-organization-booking-edit-payment-cash-unpaid": "결제 예정",
     "suite-page-organization-booking-edit-purpose": "제목",
     "suite-page-organization-booking-edit-purpose-placeholder": "제목 입력하기 (모든 회원 확인 가능)",
     "suite-page-organization-booking-edit-section-access": "출입",
-    "suite-page-organization-booking-edit-section-time": "시간",
+    "suite-page-organization-booking-edit-section-payment": "결제",
     "suite-page-organization-booking-edit-section-people": "예약자",
     "suite-page-organization-booking-edit-section-purpose": "목적",
-    "suite-page-organization-booking-edit-section-payment": "결제",
+    "suite-page-organization-booking-edit-section-time": "시간",
     "suite-page-organization-booking-edit-share-link-title": "예약 링크",
-    "suite-page-organization-booking-edit-start-time": "시작",
-    "suite-page-organization-booking-edit-title": "예약 수정"
+    "suite-page-organization-booking-edit-start-time": "시작"
   }
 }

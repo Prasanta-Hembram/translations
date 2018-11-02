@@ -1,14 +1,14 @@
 {
   "data": {
-    "suite-page-my-coworkings-button-join": "Join",
-    "suite-page-my-coworkings-button-search": "Search",
-    "suite-page-my-coworkings-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "suite-page-my-coworkings-no-coworkings": "To join a workspace you need to know its tag. Usually it's printed on a workspace label.",
     "suite-page-my-coworkings-main-title": "My workspaces",
+    "suite-page-my-coworkings-action-button-requested": "Requested",
+    "suite-page-my-coworkings-button-join": "Join",
     "suite-page-my-coworkings-button-open-organization": "Open",
     "suite-page-my-coworkings-button-request": "Request to join",
-    "suite-page-my-coworkings-action-button-requested": "Requested",
+    "suite-page-my-coworkings-button-search": "Search",
     "suite-page-my-coworkings-create-alert-submit-success": "Your request was sent",
+    "suite-page-my-coworkings-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
+    "suite-page-my-coworkings-no-coworkings": "To join a workspace you need to know its tag. Usually it's printed on a workspace label.",
     "suite-page-my-coworkings-search-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
     "suite-page-my-coworkings-search-nothing-found": "Nothing found. 😢",
     "suite-page-my-coworkings-search-placeholder": "workspace tag"

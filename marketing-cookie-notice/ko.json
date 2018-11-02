@@ -1,7 +1,7 @@
 {
   "data": {
-    "marketing-cookie-notice-text": "andCards는 당신의 방문 정보를 개인화 하기위해 쿠키를 사용합니다. 계속하시면 {cookiePolicy}에 동의하게 됩니다.",
+    "marketing-cookie-notice-i-accept": "동의",
     "marketing-cookie-notice-link-to-policy": "쿠키정책",
-    "marketing-cookie-notice-i-accept": "동의"
+    "marketing-cookie-notice-text": "andCards는 당신의 방문 정보를 개인화 하기위해 쿠키를 사용합니다. 계속하시면 {cookiePolicy}에 동의하게 됩니다."
   }
 }

@@ -1,10 +1,10 @@
 {
   "data": {
+    "suite-page-organization-announcement-update-title": "Название",
     "suite-page-organization-announcement-update-contents": "Содержание",
     "suite-page-organization-announcement-update-is-pinned": "Прикрепить наверху",
     "suite-page-organization-announcement-update-stack-title": "Редактирование уведомления",
     "suite-page-organization-announcement-update-text-placeholder": "Напишите что-то вашим резидентам...",
-    "suite-page-organization-announcement-update-title": "Название",
     "suite-page-organization-announcement-update-title-placeholder": "Добавьте заголовок"
   }
 }

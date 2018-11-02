@@ -1,7 +1,7 @@
 {
   "data": {
-    "marketing-cookie-notice-text": "andCards використовує кукі-файли щоб персоналізувати ваш досвід. Подальше користування сайтом означає вашу згоду з {cookiePolicy}.",
+    "marketing-cookie-notice-i-accept": "Погоджуюсь",
     "marketing-cookie-notice-link-to-policy": "політикою кукі-файлів",
-    "marketing-cookie-notice-i-accept": "Погоджуюсь"
+    "marketing-cookie-notice-text": "andCards використовує кукі-файли щоб персоналізувати ваш досвід. Подальше користування сайтом означає вашу згоду з {cookiePolicy}."
   }
 }

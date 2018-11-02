@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-errors-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다",
-    "suite-errors-card-number-is-invalid": "카드번호를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-cvv-is-invalid": "CVV를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-expiration-is-invalid": "유효기간을 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-is-missing": "카드 승인 실패",
+    "suite-errors-card-number-is-invalid": "카드번호를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-last-integration-delete": "마지막 로그인 방법을 삭제할 수 없습니다",
     "suite-errors-no-enough-cash": "현금 부족",
     "suite-errors-no-internet": "인터넷에 연결되지 않음",
+    "suite-errors-payment-failure": "결제 실패",
     "suite-errors-plan-delete-reject": "삭제 실패 : 플랜 사용 중",
     "suite-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요",
     "suite-errors-plan-sold-out": "플랜 품절",
-    "suite-errors-payment-failure": "결제 실패",
     "suite-errors-sns-user-exists": "이 계정은 사용 중입니다"
   }
 }

@@ -1,8 +1,8 @@
 {
   "data": {
+    "suite-page-cookies-policy-title": "Политика куки-файлов",
     "suite-page-cookies-policy-error-no-internet-action": "Перезагрузить",
     "suite-page-cookies-policy-error-no-internet-description": "Проверьте соединение с интернетом.",
-    "suite-page-cookies-policy-title": "Политика куки-файлов",
     "suite-page-cookies-policy-withdraw-consent": "Отозвать согласие"
   }
 }

@@ -1,14 +1,14 @@
 {
   "data": {
-    "suite-page-my-coworkings-button-join": "Долучитися",
-    "suite-page-my-coworkings-button-search": "Пошук",
-    "suite-page-my-coworkings-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
-    "suite-page-my-coworkings-no-coworkings": "Щоб приєднатися до коворкінгу потрібно знати його тег. Зазвичай його надруковано на позначці коворкінга.",
     "suite-page-my-coworkings-main-title": "Мої коворкінги",
+    "suite-page-my-coworkings-action-button-requested": "Запит надіслано",
+    "suite-page-my-coworkings-button-join": "Долучитися",
     "suite-page-my-coworkings-button-open-organization": "Відкрити",
     "suite-page-my-coworkings-button-request": "Приєднатись",
-    "suite-page-my-coworkings-action-button-requested": "Запит надіслано",
+    "suite-page-my-coworkings-button-search": "Пошук",
     "suite-page-my-coworkings-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг",
+    "suite-page-my-coworkings-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "suite-page-my-coworkings-no-coworkings": "Щоб приєднатися до коворкінгу потрібно знати його тег. Зазвичай його надруковано на позначці коворкінга.",
     "suite-page-my-coworkings-search-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-my-coworkings-search-nothing-found": "Нічого не знайдено. 😢",
     "suite-page-my-coworkings-search-placeholder": "тег коворкінгу"

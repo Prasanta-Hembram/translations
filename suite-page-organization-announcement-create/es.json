@@ -1,13 +1,13 @@
 {
   "data": {
+    "suite-page-organization-announcement-create-title": "Título",
     "suite-page-organization-announcement-create-button-send": "Enviar",
     "suite-page-organization-announcement-create-contents": "Contenidos",
     "suite-page-organization-announcement-create-is-pinned": "Alfiler en la parte superior",
     "suite-page-organization-announcement-create-stack-title": "Crear Anuncio",
     "suite-page-organization-announcement-create-text-placeholder": "Dile algo a tu comunidad...",
-    "suite-page-organization-announcement-create-title": "Título",
     "suite-page-organization-announcement-create-title-placeholder": "Añadir título",
-    "suite-page-organization-announcement-create-validation-error-title": "Agregue el título del aviso.",
-    "suite-page-organization-announcement-create-validation-error-text": "Escriba el aviso."
+    "suite-page-organization-announcement-create-validation-error-text": "Escriba el aviso.",
+    "suite-page-organization-announcement-create-validation-error-title": "Agregue el título del aviso."
   }
 }

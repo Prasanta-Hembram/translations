@@ -1,13 +1,13 @@
 {
   "data": {
+    "suite-page-organization-announcement-create-title": "Назва",
     "suite-page-organization-announcement-create-button-send": "Надіслати",
     "suite-page-organization-announcement-create-contents": "Зміст",
     "suite-page-organization-announcement-create-is-pinned": "Закріпити зверху",
     "suite-page-organization-announcement-create-stack-title": "Створити оголошення",
     "suite-page-organization-announcement-create-text-placeholder": "Напишіть щось вашим резидентам...",
-    "suite-page-organization-announcement-create-title": "Назва",
     "suite-page-organization-announcement-create-title-placeholder": "Додайте заголовок",
-    "suite-page-organization-announcement-create-validation-error-title": "Уведіть назву оголошення.",
-    "suite-page-organization-announcement-create-validation-error-text": "Уведіть текст оголошення."
+    "suite-page-organization-announcement-create-validation-error-text": "Уведіть текст оголошення.",
+    "suite-page-organization-announcement-create-validation-error-title": "Уведіть назву оголошення."
   }
 }

@@ -1,7 +1,7 @@
 {
   "data": {
+    "suite-page-organization-announcements-title": "공지사항",
     "suite-page-organization-announcements-fetch-failure": "공지 사항을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organization-announcements-list-empty": "공지사항이 없습니다.",
-    "suite-page-organization-announcements-list-title": "공지사항"
+    "suite-page-organization-announcements-list-empty": "공지사항이 없습니다."
   }
 }

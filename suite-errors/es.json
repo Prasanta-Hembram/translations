@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo",
-    "suite-errors-card-number-is-invalid": "El número de la tarjeta está vacío o inválido",
     "suite-errors-card-cvv-is-invalid": "CVV está vacío o no es válido",
     "suite-errors-card-expiration-is-invalid": "La fecha de caducidad está vacía o no es válida",
     "suite-errors-card-is-missing": "La tarjeta no funcionó.",
+    "suite-errors-card-number-is-invalid": "El número de la tarjeta está vacío o inválido",
     "suite-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión",
     "suite-errors-no-enough-cash": "No hay suficiente efectivo",
     "suite-errors-no-internet": "Sin conexión a Internet",
+    "suite-errors-payment-failure": "Fracaso de pago",
     "suite-errors-plan-delete-reject": "No se puede eliminar: plan en uso",
     "suite-errors-plan-periods-empty": "El plan debe tener al menos 1 período",
     "suite-errors-plan-sold-out": "El plan está agotado",
-    "suite-errors-payment-failure": "Fracaso de pago",
     "suite-errors-sns-user-exists": "Esta cuenta ya existe"
   }
 }

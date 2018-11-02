@@ -1,14 +1,13 @@
 {
   "data": {
+    "suite-page-organization-announcement-create-title": "Title",
     "suite-page-organization-announcement-create-button-send": "Send",
     "suite-page-organization-announcement-create-contents": "Contents",
     "suite-page-organization-announcement-create-is-pinned": "Pin to Top",
     "suite-page-organization-announcement-create-stack-title": "New notice",
     "suite-page-organization-announcement-create-text-placeholder": "Say something to your community...",
-    "suite-page-organization-announcement-create-title": "Title",
     "suite-page-organization-announcement-create-title-placeholder": "Add title",
-    "suite-page-organization-announcement-create-validation-error-title": "Add the notice title.",
-    "suite-page-organization-announcement-create-validation-error-text": "Type the notice."
-
+    "suite-page-organization-announcement-create-validation-error-text": "Type the notice.",
+    "suite-page-organization-announcement-create-validation-error-title": "Add the notice title."
   }
 }

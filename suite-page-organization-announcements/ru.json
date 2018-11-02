@@ -1,7 +1,7 @@
 {
   "data": {
+    "suite-page-organization-announcements-title": "Уведомления",
     "suite-page-organization-announcements-fetch-failure": "Уведомления не отображаются. Проверьте, все ли хорошо с интернет соединением.",
-    "suite-page-organization-announcements-list-empty": "Нет никаких уведомлений. 😢",
-    "suite-page-organization-announcements-list-title": "Уведомления"
+    "suite-page-organization-announcements-list-empty": "Нет никаких уведомлений. 😢"
   }
 }
