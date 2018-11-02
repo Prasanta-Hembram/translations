@@ -14,6 +14,14 @@ Example:
 
 - Sorted in alphabetical order.
 
+- Titles and descriptions should be on the top of the file.
+
+Example: 
+
+`"marketing-page-about-title": "About andCards - who we are and what we do | andCards"`,
+`"marketing-page-about-description": "Who is the developer of andCards? Learn about the coworking space marketplace and software.",`
+...
+
 - Follow it's position on a page.
 
 Example: 
