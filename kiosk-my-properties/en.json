@@ -1,6 +1,9 @@
 {
   "data": {
     "kiosk-page-my-properties-title": "My Rooms",
+    "kiosk-page-my-properties-availability-available": "Available",
+    "kiosk-page-my-properties-availability-in-minutes": "Available {time}",
+    "kiosk-page-my-properties-availability-unavailable": "Unavailable",
     "kiosk-page-my-properties-button-logout": "Logout",
     "kiosk-page-my-properties-error-no-internet": "Couldn't show workspaces. Are you sure there is an internet connection?",
     "kiosk-page-my-properties-error-no-properties-in-organization": "There no any room in organization yet. 😕",
