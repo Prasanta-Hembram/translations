@@ -2,8 +2,8 @@
   "data": {
     "suite-page-feed-post-main-action-sheet-delete": "Видалити",
     "suite-page-feed-post-main-date": "{createDate}, ред. {updateDate}",
-    "suite-page-feed-post-main-delete-failure": "Не вдалося видалити post. 🙁",
+    "suite-page-feed-post-main-delete-failure": "Не вдалося видалити пост. 🙁",
     "suite-page-feed-post-main-delete-repeat": "Спробувати ще раз",
-    "suite-page-feed-post-main-empty": " Це post не існує або було видалено. 😕"
+    "suite-page-feed-post-main-empty": "Цей пост не існує або був видалений. 😕"
   }
 }

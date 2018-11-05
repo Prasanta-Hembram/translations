@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-feed-post-create-button-send": "Отправить",
+    "suite-page-feed-post-create-button-send": "Запостить",
     "suite-page-feed-post-create-contents": "Содержание",
     "suite-page-feed-post-create-is-pinned": "Прикрепить наверху",
-    "suite-page-feed-post-create-stack-title": "Создать Post",
-    "suite-page-feed-post-create-text-placeholder": "Напишите что-то вашим резидентам...",
-    "suite-page-feed-post-create-validation-error-text": "Введите текст Post."
+    "suite-page-feed-post-create-stack-title": "Создать пост",
+    "suite-page-feed-post-create-text-placeholder": "Напишите что-то сообществу...",
+    "suite-page-feed-post-create-validation-error-text": "Введите текст поста."
   }
 }

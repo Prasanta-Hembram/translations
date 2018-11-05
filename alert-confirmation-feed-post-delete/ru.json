@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-feed-post-delete-title": "Удалить post",
+    "alert-confirmation-feed-post-delete-title": "Удалить пост",
     "alert-confirmation-feed-post-delete-no": "Отменить",
-    "alert-confirmation-feed-post-delete-text": "Вы действительно хотите удалить это post? Это действие необратимо.",
+    "alert-confirmation-feed-post-delete-text": "Вы действительно хотите удалить этот пост? Это действие необратимо.",
     "alert-confirmation-feed-post-delete-yes": "Да, удалить"
   }
 }
