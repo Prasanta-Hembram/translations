@@ -1,13 +1,10 @@
 {
   "data": {
-    "suite-page-feed-post-create-title": "제목",
     "suite-page-feed-post-create-button-send": "만들기",
     "suite-page-feed-post-create-contents": "내용",
     "suite-page-feed-post-create-is-pinned": "상단고정",
     "suite-page-feed-post-create-stack-title": "Post",
     "suite-page-feed-post-create-text-placeholder": "내용을 입력하세요",
-    "suite-page-feed-post-create-title-placeholder": "제목 입력하기",
-    "suite-page-feed-post-create-validation-error-text": "Type the post.",
-    "suite-page-feed-post-create-validation-error-title": "Add the post title."
+    "suite-page-feed-post-create-validation-error-text": "Type the post."
   }
 }
