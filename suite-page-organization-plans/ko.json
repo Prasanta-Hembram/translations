@@ -19,7 +19,7 @@
     "suite-page-organization-plans-renews": "{daysLeft} 갱신",
     "suite-page-organization-plans-renews-last-day": "종료 일",
     "suite-page-organization-plans-seats-available": "{numberOfSeats}개 구매 가능",
-    "suite-page-organization-plans-seats-in-left": "재고 {available}개 / 총 {quantity}개",
+    "suite-page-organization-plans-seats-in-left": "재고 {available}개/총 {quantity}개",
     "suite-page-organization-plans-seats-only-left": "재고 {numberOfSeats}개",
     "suite-page-organization-plans-seats-sold-out": "매진",
     "suite-page-organization-plans-status-3d-secure": "3-D 보안 인증 필요",

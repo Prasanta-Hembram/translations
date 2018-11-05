@@ -19,11 +19,11 @@
     "suite-page-organization-user-balance-history-point-transaction-book-by-points": "Reserva de sala de reuniones (créditos)",
     "suite-page-organization-user-balance-history-point-transaction-book-by-points-with-admin-name": "Reserva de sala de reuniones (créditos) a través de {name}",
     "suite-page-organization-user-balance-history-point-transaction-book-refund-points": "Reserva de sala de reuniones cancelada (créditos)",
-    "suite-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manualmente agregado por admin / moderator",
+    "suite-page-organization-user-balance-history-point-transaction-charge-by-admin": "Manualmente agregado por admin/moderator",
     "suite-page-organization-user-balance-history-point-transaction-charge-by-admin-with-name": "Manualmente agregado por {name}",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-expiration": "Vencido con un plan de membresía",
     "suite-page-organization-user-balance-history-point-transaction-monthly-subscription-renewal": "Recibido con plan de membresía",
-    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Cargado manualmente por el administrador / moderador",
+    "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin": "Cargado manualmente por el administrador/moderador",
     "suite-page-organization-user-balance-history-point-transaction-transfer-by-admin-with-name": "Cargado manualmente por {name}"
   }
 }

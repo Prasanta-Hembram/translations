@@ -19,7 +19,7 @@
     "suite-page-organization-plans-renews": "Продление через: {daysLeft}",
     "suite-page-organization-plans-renews-last-day": "Последний день",
     "suite-page-organization-plans-seats-available": "{numberOfSeats} доступно",
-    "suite-page-organization-plans-seats-in-left": "{available} / {quantity} доступно",
+    "suite-page-organization-plans-seats-in-left": "{available}/{quantity} доступно",
     "suite-page-organization-plans-seats-only-left": "Осталось всего {numberOfSeats}",
     "suite-page-organization-plans-seats-sold-out": "Продано",
     "suite-page-organization-plans-status-3d-secure": "Статус: необходимо подтвердить платеж",

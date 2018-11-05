@@ -19,7 +19,7 @@
     "suite-page-organization-plans-renews": "Поновлення: {daysLeft}",
     "suite-page-organization-plans-renews-last-day": "Останній день",
     "suite-page-organization-plans-seats-available": "{numberOfSeats} доступно",
-    "suite-page-organization-plans-seats-in-left": "{available} / {quantity} доступно",
+    "suite-page-organization-plans-seats-in-left": "{available}/{quantity} доступно",
     "suite-page-organization-plans-seats-only-left": "Залишилось лише {numberOfSeats}",
     "suite-page-organization-plans-seats-sold-out": "Продано",
     "suite-page-organization-plans-status-3d-secure": "Статус: необхідно підтвердити платіж",

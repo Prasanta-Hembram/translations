@@ -19,7 +19,7 @@
     "suite-page-organization-plans-renews": "Se renueva en {daysLeft}",
     "suite-page-organization-plans-renews-last-day": "Último día",
     "suite-page-organization-plans-seats-available": "{numberOfSeats} disponibles",
-    "suite-page-organization-plans-seats-in-left": "{available} / {quantity} disponibles",
+    "suite-page-organization-plans-seats-in-left": "{available}/{quantity} disponibles",
     "suite-page-organization-plans-seats-only-left": "Solo quedan {numberOfSeats}",
     "suite-page-organization-plans-seats-sold-out": "Agotado",
     "suite-page-organization-plans-status-3d-secure": "Estado: Seguro 3-D requerido",
