@@ -27,9 +27,9 @@
     "suite-page-organization-company-settings-section-billing-switch-label": "Enable Billing System",
     "suite-page-organization-company-settings-section-billing-system-description": "Billing system enables in-app payments for room booking and membership plans. To change this setting, contact support@andcards.com.",
     "suite-page-organization-company-settings-section-billing-title": "Billing Settings",
-    "suite-page-organization-company-settings-section-notice-settings-switch-label": "Allow members to post",
-    "suite-page-organization-company-settings-section-notice-settings-text-description": "When turned on all coworking space members will be able to create posts.",
-    "suite-page-organization-company-settings-section-notice-settings-title": "Notices Settings",
+    "suite-page-organization-company-settings-section-feed-settings-switch-label": "Allow members to post",
+    "suite-page-organization-company-settings-section-feed-settings-text-description": "When turned on all coworking space members will be able to create posts.",
+    "suite-page-organization-company-settings-section-feed-settings-title": "Feed Settings",
     "suite-page-organization-company-settings-section-property-title": "Booking Settings"
   }
 }

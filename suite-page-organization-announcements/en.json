@@ -1,7 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-announcements-title": "Notices",
-    "suite-page-organization-announcements-fetch-failure": "Couldn't show notices. Are you sure there is an internet connection?",
-    "suite-page-organization-announcements-list-empty": "There are no notices. 😢"
-  }
-}

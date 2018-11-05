@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-feed-post-create-title": "Título",
+    "suite-page-feed-post-create-button-send": "Enviar",
+    "suite-page-feed-post-create-contents": "Contenidos",
+    "suite-page-feed-post-create-is-pinned": "Alfiler en la parte superior",
+    "suite-page-feed-post-create-stack-title": "Crear Post",
+    "suite-page-feed-post-create-text-placeholder": "Dile algo a tu comunidad...",
+    "suite-page-feed-post-create-title-placeholder": "Añadir título",
+    "suite-page-feed-post-create-validation-error-text": "Escriba el post.",
+    "suite-page-feed-post-create-validation-error-title": "Agregue el título del post."
+  }
+}

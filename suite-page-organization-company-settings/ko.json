@@ -27,9 +27,9 @@
     "suite-page-organization-company-settings-section-billing-switch-label": "결제 기능",
     "suite-page-organization-company-settings-section-billing-system-description": "결제 기능은 유료 회의실 예약 및 멤버십 플랜 구매를 제공합니다. 결제 기능 설정하기에 support@andcards.com한테 연락해주시기 바랍니다.",
     "suite-page-organization-company-settings-section-billing-title": "결제 시스템",
-    "suite-page-organization-company-settings-section-notice-settings-switch-label": "회원 포스팅 가능",
-    "suite-page-organization-company-settings-section-notice-settings-text-description": "이 기능을 켜시먼, 모든 코워킹 스페이스의 회원들이 포스팅을 할 수 있습니다.",
-    "suite-page-organization-company-settings-section-notice-settings-title": "공지 사항",
+    "suite-page-organization-company-settings-section-feed-settings-switch-label": "회원 포스팅 가능",
+    "suite-page-organization-company-settings-section-feed-settings-text-description": "이 기능을 켜시먼, 모든 코워킹 스페이스의 회원들이 포스팅을 할 수 있습니다.",
+    "suite-page-organization-company-settings-section-feed-settings-title": "Feed Settings",
     "suite-page-organization-company-settings-section-property-title": "예약 시스템"
   }
 }

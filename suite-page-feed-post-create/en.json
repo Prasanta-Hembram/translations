@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-feed-post-create-title": "Title",
+    "suite-page-feed-post-create-button-send": "Send",
+    "suite-page-feed-post-create-contents": "Contents",
+    "suite-page-feed-post-create-is-pinned": "Pin to Top",
+    "suite-page-feed-post-create-stack-title": "New Post",
+    "suite-page-feed-post-create-text-placeholder": "Say something to your community...",
+    "suite-page-feed-post-create-title-placeholder": "Add title",
+    "suite-page-feed-post-create-validation-error-text": "Type the post.",
+    "suite-page-feed-post-create-validation-error-title": "Add the post title."
+  }
+}

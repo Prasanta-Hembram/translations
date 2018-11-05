@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-feed-post-main-action-sheet-delete": "삭제",
+    "suite-page-feed-post-main-date": "{createDate}, 변경일 : {updateDate}",
+    "suite-page-feed-post-main-delete-failure": "Error al eliminar post. 🙁",
+    "suite-page-feed-post-main-delete-repeat": "다시시도",
+    "suite-page-feed-post-main-empty": "This post may not exist or may have been removed. 😕"
+  }
+}

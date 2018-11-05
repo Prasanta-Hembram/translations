@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-feed-post-update-title": "Title",
+    "suite-page-feed-post-update-contents": "Contents",
+    "suite-page-feed-post-update-is-pinned": "Pin to Top",
+    "suite-page-feed-post-update-stack-title": "Edit post",
+    "suite-page-feed-post-update-text-placeholder": "Say something to your community...",
+    "suite-page-feed-post-update-title-placeholder": "Add title"
+  }
+}

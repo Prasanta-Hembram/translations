@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-feed-post-create-title": "Назва",
+    "suite-page-feed-post-create-button-send": "Надіслати",
+    "suite-page-feed-post-create-contents": "Зміст",
+    "suite-page-feed-post-create-is-pinned": "Закріпити зверху",
+    "suite-page-feed-post-create-stack-title": "Створити Post",
+    "suite-page-feed-post-create-text-placeholder": "Напишіть щось вашим резидентам...",
+    "suite-page-feed-post-create-title-placeholder": "Додайте заголовок",
+    "suite-page-feed-post-create-validation-error-text": "Уведіть текст Post.",
+    "suite-page-feed-post-create-validation-error-title": "Уведіть назву Post."
+  }
+}
