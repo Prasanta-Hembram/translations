@@ -3,6 +3,6 @@
     "suite-page-feed-title": "Feed",
     "suite-page-feed-fetch-failure": "Couldn't show feed. Are you sure there is an internet connection?",
     "suite-page-feed-list-empty": "There are no posts. 😢",
-    "suite-page-feed-user-admin": "Admin"
+    "suite-page-feed-user-admin": "Admin/moderator"
   }
 }
