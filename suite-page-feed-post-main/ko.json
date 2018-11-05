@@ -4,6 +4,7 @@
     "suite-page-feed-post-main-date": "{createDate}, 변경일 : {updateDate}",
     "suite-page-feed-post-main-delete-failure": "게시물을 삭제하지 못했습니다 🙁",
     "suite-page-feed-post-main-delete-repeat": "다시시도",
-    "suite-page-feed-post-main-empty": "이 게시물은 존재하지 않거나 제거되었을 수 있습니다. 😕"
+    "suite-page-feed-post-main-empty": "이 게시물은 존재하지 않거나 제거되었을 수 있습니다. 😕",
+    "suite-page-feed-post-main-user-admin": "Admin"
   }
 }
