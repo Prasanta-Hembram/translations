@@ -27,9 +27,9 @@
     "suite-page-organization-company-settings-section-billing-switch-label": "Платежная система",
     "suite-page-organization-company-settings-section-billing-system-description": "Платежная система позволяет оплачивать бронь комнат и подписки на план в приложении. Чтобы настроить платежную систему, обратитесь к support@andcards.com",
     "suite-page-organization-company-settings-section-billing-title": "Рассчеты",
-    "suite-page-organization-company-settings-section-notice-settings-switch-label": "Разрешить участникам постить",
-    "suite-page-organization-company-settings-section-notice-settings-text-description": "Если эта настройка включена, то все участники смогут создавать уведомления.",
-    "suite-page-organization-company-settings-section-notice-settings-title": "Уведомления",
+    "suite-page-organization-company-settings-section-feed-settings-switch-label": "Разрешить участникам постить",
+    "suite-page-organization-company-settings-section-feed-settings-text-description": "Если эта настройка включена, то все участники смогут постить в ленту.",
+    "suite-page-organization-company-settings-section-feed-settings-title": "Лента сообщества",
     "suite-page-organization-company-settings-section-property-title": "Система бронирования"
   }
 }

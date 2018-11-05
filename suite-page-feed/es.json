@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-feed-title": "Feed",
+    "suite-page-feed-fetch-failure": "No se pudo mostrar el feed. ¿Seguro que hay conexión a internet?",
+    "suite-page-feed-list-empty": "No hay publicaciones. 😢"
+  }
+}

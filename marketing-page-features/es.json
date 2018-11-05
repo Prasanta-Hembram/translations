@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-features-title": "Características del software de coworking | andCards Suite",
-    "marketing-page-features-description": "La mejor herramienta para gestionar el espacio de coworking. Sistema de reserva de salas de reuniones, avisos, facturación, gestión de membresía y mucho más.",
+    "marketing-page-features-description": "La mejor herramienta para gestionar el espacio de coworking. Sistema de reserva de salas de reuniones, feed con publicación, facturación, gestión de membresía y mucho más.",
     "marketing-page-features-button-igloohome-website": "Sitio web de igloohome",
     "marketing-page-features-button-paymentwall-website": "Sitio web de Paymentwall",
     "marketing-page-features-button-spaces-website": "andCards Spaces",
@@ -18,8 +18,8 @@
     "marketing-page-features-section-features-directory-title": "Directorio de clientes",
     "marketing-page-features-section-features-kiosk-text": "Previsualice el horario de reserva de la sala de reuniones en la puerta de la sala de reuniones. Control de presencia: check-in obligatorio y condiciones de cancelación automática. Ver disponibilidad de salas de reunión a distancia. Viene sin costo adicional con el sistema de reserva de habitaciones.",
     "marketing-page-features-section-features-kiosk-title": "Kiosk exhibición de la sala de reunión",
-    "marketing-page-features-section-features-notice-text": "Mantener informados a los miembros enviándoles mensajes. Enviar notificaciones push a dispositivos móviles y la aplicación web. Avisos de destino a equipos o personas individuales.",
-    "marketing-page-features-section-features-notice-title": "Sistema de aviso",
+    "marketing-page-features-section-features-notice-text": "Mantener informados a los miembros enviándoles mensajes. Enviar notificaciones push a dispositivos móviles y la aplicación web.",
+    "marketing-page-features-section-features-notice-title": "Feed",
     "marketing-page-features-section-features-plans-text": "Crear escritorio caliente, escritorio fijo, oficina privada o pase. Establecer un precio, cantidad, cantidad de edición y descripción. Los residentes pueden comprar el plan de membresía con tarjetas de crédito. El administrador puede asignar manualmente un plan de membresía a cualquier usuario. Si se hace público, los planes de membresía estarán disponibles en Spaces para vista previa y compra (próximamente)",
     "marketing-page-features-section-features-plans-title": "Planes de membresia",
     "marketing-page-features-section-features-text": "Comenzar con el software de coworking de andCards Suite es fácil y no tardará en ver lo básico.",

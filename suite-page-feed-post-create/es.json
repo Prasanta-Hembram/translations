@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-feed-post-create-button-send": "Compartir",
+    "suite-page-feed-post-create-contents": "Contenidos",
+    "suite-page-feed-post-create-is-pinned": "Alfiler en la parte superior",
+    "suite-page-feed-post-create-stack-title": "Crear publicación",
+    "suite-page-feed-post-create-text-placeholder": "Dile algo a tu comunidad...",
+    "suite-page-feed-post-create-validation-error-text": "Escriba publicación."
+  }
+}

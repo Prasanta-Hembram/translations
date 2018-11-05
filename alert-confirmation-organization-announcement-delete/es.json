@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-announcement-delete-title": "Eliminar anuncio",
-    "alert-confirmation-organization-announcement-delete-no": "Cancelar",
-    "alert-confirmation-organization-announcement-delete-text": "¿Seguro que quieres eliminar este anuncio? Esta acción es irreversible.",
-    "alert-confirmation-organization-announcement-delete-yes": "Sí, eliminar"
-  }
-}

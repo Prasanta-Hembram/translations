@@ -27,9 +27,9 @@
     "suite-page-organization-company-settings-section-billing-switch-label": "Habilitar el sistema de facturación",
     "suite-page-organization-company-settings-section-billing-system-description": "El sistema de facturación permite pagos dentro de la aplicación para la reserva de habitaciones y planes de membresía. Para cambiar esta configuración, póngase en contacto con support@andcards.com.",
     "suite-page-organization-company-settings-section-billing-title": "Configuración de facturación",
-    "suite-page-organization-company-settings-section-notice-settings-switch-label": "Permitir a los miembros publicar",
-    "suite-page-organization-company-settings-section-notice-settings-text-description": "When turned on all coworking space members will be able to create posts.",
-    "suite-page-organization-company-settings-section-notice-settings-title": "Configuración de avisos",
+    "suite-page-organization-company-settings-section-feed-settings-switch-label": "Permitir a los miembros publicar",
+    "suite-page-organization-company-settings-section-feed-settings-text-description": "Si está activado, todos los miembros del espacio de coworking podrán hacer una publicación.",
+    "suite-page-organization-company-settings-section-feed-settings-title": "Configuración de Feed",
     "suite-page-organization-company-settings-section-property-title": "Configuración de reserva"
   }
 }

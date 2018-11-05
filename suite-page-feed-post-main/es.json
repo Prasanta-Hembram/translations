@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-feed-post-main-action-sheet-delete": "Eliminar",
+    "suite-page-feed-post-main-date": "{createDate}, editado en {updateDate}",
+    "suite-page-feed-post-main-delete-failure": "Error al eliminar publicación. 🙁",
+    "suite-page-feed-post-main-delete-repeat": "Reintentar borrar",
+    "suite-page-feed-post-main-empty": "Este publicación puede no existir o puede haberse eliminado. 😕"
+  }
+}

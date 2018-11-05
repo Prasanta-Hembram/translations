@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-feed-title": "피드",
+    "suite-page-feed-fetch-failure": "피드를 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-feed-list-empty": "아무것도 없습니다. 😢"
+  }
+}
