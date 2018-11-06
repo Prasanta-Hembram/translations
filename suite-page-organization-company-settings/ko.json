@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-company-settings-title": "회시 시스템 설정",
-    "suite-page-organization-company-error-permission-denied": "보기 권한이 없습니다. ",
+    "suite-page-organization-company-error-permission-denied": "보기 권한이 없습니다.",
     "suite-page-organization-company-settings-booking-from": "시작시간",
     "suite-page-organization-company-settings-booking-from-until-desc": "회원은 선택한 시간 동안 회의실을 예약 할 수 있습니다.",
     "suite-page-organization-company-settings-booking-period": "정기예약",

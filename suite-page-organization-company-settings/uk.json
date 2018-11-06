@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-company-settings-title": "Налаштування організації",
-    "suite-page-organization-company-error-permission-denied": "На жаль, у вас немає доступу. ",
+    "suite-page-organization-company-error-permission-denied": "На жаль, у вас немає доступу.",
     "suite-page-organization-company-settings-booking-from": "Від",
     "suite-page-organization-company-settings-booking-from-until-desc": "Учасники зможуть зарезервувати кімнати в межах вказаних годин.",
     "suite-page-organization-company-settings-booking-period": "Період доступності",
