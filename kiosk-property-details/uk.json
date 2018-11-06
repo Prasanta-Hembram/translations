@@ -1,0 +1,7 @@
+{
+  "data": {
+    "kiosk-page-property-details-availability-available": "Доступно протягом {time}",
+    "kiosk-page-property-details-availability-in-minutes": "Доступно {time}",
+    "kiosk-page-property-details-availability-unavailable": "Недоступно"
+  }
+}
