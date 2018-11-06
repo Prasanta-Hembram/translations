@@ -1,12 +1,12 @@
 {
   "data": {
-    "kiosk-page-my-properties-title": "My Rooms",
+    "kiosk-page-my-properties-title": "나의 시설",
     "kiosk-page-my-properties-availability-available": "Available",
     "kiosk-page-my-properties-availability-in-minutes": "Available {time}",
     "kiosk-page-my-properties-availability-unavailable": "Unavailable",
-    "kiosk-page-my-properties-button-logout": "Logout",
-    "kiosk-page-my-properties-error-no-internet": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "kiosk-page-my-properties-error-no-properties-in-organization": "There no any room in organization yet. 😕",
-    "kiosk-page-my-properties-error-properties-empty": "There are no any organization. Please, use AndCards Suite to join to a workspace"
+    "kiosk-page-my-properties-button-logout": "로그아웃",
+    "kiosk-page-my-properties-error-no-internet": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "kiosk-page-my-properties-error-no-properties-in-organization": "공간에 시설이 없습니다. 😕",
+    "kiosk-page-my-properties-error-properties-empty": "표시 할 공간이 없습니다. andCards Suite를 사용하여 공간에 가입하고 다시 오세요."
   }
 }

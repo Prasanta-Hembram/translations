@@ -1,12 +1,12 @@
 {
   "data": {
-    "kiosk-page-my-properties-title": "My Rooms",
-    "kiosk-page-my-properties-availability-available": "Available",
-    "kiosk-page-my-properties-availability-in-minutes": "Available {time}",
-    "kiosk-page-my-properties-availability-unavailable": "Unavailable",
-    "kiosk-page-my-properties-button-logout": "Logout",
-    "kiosk-page-my-properties-error-no-internet": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "kiosk-page-my-properties-error-no-properties-in-organization": "There no any room in organization yet. 😕",
-    "kiosk-page-my-properties-error-properties-empty": "There are no any organization. Please, use AndCards Suite to join to a workspace"
+    "kiosk-page-my-properties-title": "Мої кімнати",
+    "kiosk-page-my-properties-availability-available": "Доступно",
+    "kiosk-page-my-properties-availability-in-minutes": "Доступно {time}",
+    "kiosk-page-my-properties-availability-unavailable": "Недоступно",
+    "kiosk-page-my-properties-button-logout": "Вийти з системи",
+    "kiosk-page-my-properties-error-no-internet": "Коворкінги не відображаються. Перевірте інтернет-з'єднання.",
+    "kiosk-page-my-properties-error-no-properties-in-organization": "У коворкінгу немає кімнат. 😕",
+    "kiosk-page-my-properties-error-properties-empty": "У вас немає коворкінгів. Приєднайтесь до коворкінгу через andCards Suite та поверніться."
   }
 }

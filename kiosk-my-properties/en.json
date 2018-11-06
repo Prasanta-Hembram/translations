@@ -4,9 +4,9 @@
     "kiosk-page-my-properties-availability-available": "Available",
     "kiosk-page-my-properties-availability-in-minutes": "Available {time}",
     "kiosk-page-my-properties-availability-unavailable": "Unavailable",
-    "kiosk-page-my-properties-button-logout": "Logout",
-    "kiosk-page-my-properties-error-no-internet": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "kiosk-page-my-properties-error-no-properties-in-organization": "There no any room in organization yet. 😕",
-    "kiosk-page-my-properties-error-properties-empty": "There are no any organization. Please, use AndCards Suite to join to a workspace"
+    "kiosk-page-my-properties-button-logout": "Log out",
+    "kiosk-page-my-properties-error-no-internet": "Couldn't load workspaces. Check the internet and try again.",
+    "kiosk-page-my-properties-error-no-properties-in-organization": "There are no rooms in your workspace. 😕",
+    "kiosk-page-my-properties-error-properties-empty": "There are no workspaces to show. Join a workspace using andCards Suite and come back."
   }
 }
