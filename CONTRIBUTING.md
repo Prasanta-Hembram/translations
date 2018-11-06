@@ -19,13 +19,9 @@ Example:
 Example:
 
 `"data": {`
-
 `"marketing-page-about-title": "About andCards - who we are and what we do | andCards"`,
-
 `"marketing-page-about-description": "Who is the developer of andCards? Learn about the coworking space marketplace and software.",`
-
 `...`
-
 `}`
 
 
