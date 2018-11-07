@@ -3,6 +3,6 @@
     "kiosk-page-property-details-availability-available": "Доступно следующих {time}",
     "kiosk-page-property-details-availability-in-minutes": "Доступно {time}",
     "kiosk-page-property-details-availability-unavailable": "Недоступно",
-    "kiosk-page-property-details-next-bookings-label": "Next bookings"
+    "kiosk-page-property-details-next-bookings-label": "Следующие резервации"
   }
 }
