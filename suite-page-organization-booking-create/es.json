@@ -47,7 +47,7 @@
     "suite-page-organization-booking-create-section-time-min": "El tiempo mínimo de reserva es {duration}.",
     "suite-page-organization-booking-create-service-details-available-info": "El servicio estará disponible para usar a partir de la fecha y hora anterior.",
     "suite-page-organization-booking-create-service-details-desc": "El software es desarrollado por Cards Corp., 109 Cheongpa-ro, Yongsan-gu, Seúl, República de Corea, 04370. Los servicios son cumplidos por {organizationName}, {organizationAddress}.",
-    "suite-page-organization-booking-create-service-details-extra-notice": "El pago es procesado por Paymentwall, Unidad 701-702 7/F, 8 Jordan road, Yaumati Kowloon, Hong Kong.",
+    "suite-page-organization-booking-create-service-details-extra-notice": "El pago es procesado por Paymentwall, Unidad 701-702 7/F, 8 Jordan road, Yaumati Kowloon, Hong Kong. El monto real cobrado puede ser ligeramente diferente según el país emisor, el banco y la moneda de su tarjeta.",
     "suite-page-organization-booking-create-service-details-terms-cookie-policy": "Política de Cookies",
     "suite-page-organization-booking-create-service-details-terms-desc": "{termsOfUse}, {privacyPolicy} y {cookiePolicy} se aplican.",
     "suite-page-organization-booking-create-service-details-terms-privacy-policy": "Políticas de Privacidad",
