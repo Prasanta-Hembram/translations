@@ -47,7 +47,7 @@
     "suite-page-organization-booking-create-section-time-min": "Минимальная продолжительность резервации — {duration}.",
     "suite-page-organization-booking-create-service-details-available-info": "Сервис будет доступен начиная с указанных выше даты и времени.",
     "suite-page-organization-booking-create-service-details-desc": "Программное обеспечение разработано компанией Card Corp., зарегистрированной по адресу 109 Cheongpa-ro, Yongsan-gu, г. Сеул, Республика Корея, 04370. Услуги предоставляются {organizationName}, {organizationAddress}.",
-    "suite-page-organization-booking-create-service-details-extra-notice": "Платеж обрабатывается компанией Paymentwall, Юнит 701-702 7/F, 8 Джордан роуд, Яумати Коулун, Гонконг.",
+    "suite-page-organization-booking-create-service-details-extra-notice": "Платеж обрабатывается компанией Paymentwall, Юнит 701-702 7/F, 8 Джордан роуд, Яумати Коулун, Гонконг. Списанная с вашего счета сумма может несколько отличаться в зависимости от страны выпуска, банка и валюты вашей карты.",
     "suite-page-organization-booking-create-service-details-terms-cookie-policy": "куки-файлов",
     "suite-page-organization-booking-create-service-details-terms-desc": "Действуют {termsOfUse}, политики {privacyPolicy} и {cookiePolicy}.",
     "suite-page-organization-booking-create-service-details-terms-privacy-policy": "конфиденциальности",
