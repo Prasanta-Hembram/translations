@@ -1,9 +1,10 @@
 {
   "data": {
     "marketing-page-home-title": "Найкраще програмне забезпечення для коворкінгів | andCards",
-    "marketing-page-home-description": "Єдиний додаток для автоматизації коворкінг центру: бронювання кімнат, інтеграція з календарем Google, дисплей для кімнат Kiosk, CRM, платіжна система з підтримкою кредитних карток, система сповіщень, мобільні додатки.",
+    "marketing-page-home-description": "Єдиний додаток для автоматизації коворкінг центру: бронювання кімнат, інтеграція з календарем Google, дисплей для кімнат Kiosk, CRM, платіжна система з підтримкою кредитних карток, стрічка спільноти, мобільні додатки.",
     "marketing-page-home-badge-free": "Безкоштовно",
     "marketing-page-home-badge-soon": "Скоро",
+    "marketing-page-home-badge-new": "Нове",
     "marketing-page-home-button-explore-all-features": "Всі функції",
     "marketing-page-home-button-list-for-free": "Розмістити безкоштовно",
     "marketing-page-home-button-schedule-demo": "Запланувати демо-сесію",
@@ -45,7 +46,7 @@
     "marketing-page-home-features-external-booking": "Інтеграція з маркетплейсом",
     "marketing-page-home-features-kiosk": "Дисплей для переговорних",
     "marketing-page-home-features-membership": "Керування резидентами",
-    "marketing-page-home-features-notice": "Система оголошень",
+    "marketing-page-home-features-notice": "Стрічка спільноти",
     "marketing-page-home-features-personal-calendar": "Інтеграція з особистим календарем",
     "marketing-page-home-features-room-booking": "Система бронювання кімнат",
     "marketing-page-home-features-smart-lock": "Інтеграція з розумними замками",
