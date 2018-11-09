@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-home-title": "The Best Coworking Software | andCards",
-    "marketing-page-home-description": "One app to automate coworking space routines: meeting room booking system, Google Calendar integration, Kiosk room display app, coworking membership CRM, payment system to accept credit cards, notice system, mobile apps.",
+    "marketing-page-home-description": "One app to automate coworking space routines: meeting room booking system, Google Calendar integration, Kiosk room display app, coworking membership CRM, payment system to accept credit cards, community feed, mobile apps.",
     "marketing-page-home-badge-free": "Free",
     "marketing-page-home-badge-soon": "Soon",
     "marketing-page-home-button-explore-all-features": "Explore all features",
@@ -45,7 +45,7 @@
     "marketing-page-home-features-external-booking": "Marketplace Integration",
     "marketing-page-home-features-kiosk": "Room display app",
     "marketing-page-home-features-membership": "Membership Management",
-    "marketing-page-home-features-notice": "Notice System",
+    "marketing-page-home-features-notice": "Community Feed",
     "marketing-page-home-features-personal-calendar": "Personal Calendar Integration",
     "marketing-page-home-features-room-booking": "Room Booking System",
     "marketing-page-home-features-smart-lock": "Smart Lock Integration",
