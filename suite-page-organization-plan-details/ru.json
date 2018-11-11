@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-plan-details-title": "Подписаться на план",
+    "suite-page-organization-plan-details-title": "Приобрести план",
     "suite-page-organization-plan-details-title-for-admin": "Детали тарифа",
     "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Детали тарифа: {title}",
-    "suite-page-organization-plan-details-title-with-plan-title": "Подписаться на план: {title}",
+    "suite-page-organization-plan-details-title-with-plan-title": "Приобрести план: {title}",
     "suite-page-organization-plan-details-add-card": "Добавить карту",
     "suite-page-organization-plan-details-auto-renew": "Продлевать автоматически",
     "suite-page-organization-plan-details-auto-renew-description": "Деньги будут сниматься автоматически, пока вы не отмените подписку.",
@@ -34,16 +34,16 @@
     "suite-page-organization-plan-details-quantity": "Кол-во",
     "suite-page-organization-plan-details-seats": "Раб. мест",
     "suite-page-organization-plan-details-section-payment": "Оплата",
-    "suite-page-organization-plan-details-section-payment-card-types-accepted": "Поддерживаемые типы карточек:",
+    "suite-page-organization-plan-details-section-payment-card-types-accepted": "Поддерживаемые типы платежных карт:",
     "suite-page-organization-plan-details-service-details-desc": "Программное обеспечение разработано компанией Card Corp., 109 Cheongpa-ro, Yongsan-gu, г. Сеул, Республика Корея, 04370. Услуги предоставляются {organizationName}, {organizationAddress}.",
     "suite-page-organization-plan-details-service-details-extra-notice": "Платеж обрабатывается компанией Paymentwall, Юнит 701-702 7/F, 8 Джордан роуд, Яумати Коулун, Гонконг. Списанная с вашего счета сумма может несколько отличаться в зависимости от страны выпуска, банка и валюты вашей карты.",
     "suite-page-organization-plan-details-service-details-terms-cookie-policy": "куки-файлов",
     "suite-page-organization-plan-details-service-details-terms-desc": "Действуют {termsOfUse}, политики {privacyPolicy} и {cookiePolicy}.",
     "suite-page-organization-plan-details-service-details-terms-privacy-policy": "конфиденциальности",
     "suite-page-organization-plan-details-service-details-terms-terms-of-use": "условия использования",
-    "suite-page-organization-plan-details-subscribe": "Подписаться",
-    "suite-page-organization-plan-details-subscribe-for-free": "Подписаться бесплатно",
-    "suite-page-organization-plan-details-subscribe-for-price": "Подписаться за {price}",
+    "suite-page-organization-plan-details-subscribe": "Приобрести",
+    "suite-page-organization-plan-details-subscribe-for-free": "Приобрести бесплатно",
+    "suite-page-organization-plan-details-subscribe-for-price": "Оплатить {price}",
     "suite-page-organization-plan-details-type": "Тип"
   }
 }
