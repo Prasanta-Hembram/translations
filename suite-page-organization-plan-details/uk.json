@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-plan-details-title": "Підписатись на план",
+    "suite-page-organization-plan-details-title": "Придбати план",
     "suite-page-organization-plan-details-title-for-admin": "Деталі плану",
-    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Підписатись на план: {title}",
+    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Придбати план: {title}",
     "suite-page-organization-plan-details-title-with-plan-title": "Деталі плану: {title}",
     "suite-page-organization-plan-details-add-card": "Додати картку",
     "suite-page-organization-plan-details-auto-renew": "Поновлювати автоматично",
@@ -34,16 +34,16 @@
     "suite-page-organization-plan-details-quantity": "Кількість",
     "suite-page-organization-plan-details-seats": "Роб. місць",
     "suite-page-organization-plan-details-section-payment": "Оплата",
-    "suite-page-organization-plan-details-section-payment-card-types-accepted": "Підтримувані типи карток:",
+    "suite-page-organization-plan-details-section-payment-card-types-accepted": "Типи платіжних карток, що підтримуються:",
     "suite-page-organization-plan-details-service-details-desc": "Програмне забезпечення розроблено компанією Cards Corp., 109 Чхонпа-ро, Йонгсан-гу, м. Сеул, Республіка Корея, 04370. Сервіси надаються {organizationName}, {organizationAddress}.",
     "suite-page-organization-plan-details-service-details-extra-notice": "Платіж обробляється компанією Paymentwall, Unit 701-702 7/F, 8 Джордан роуд, Яуматі Коулун, Гонконг. Списана з вашого рахунку сума може дещо відрізнятися в залежності від країни випуску, банку і валюти вашої карти.",
     "suite-page-organization-plan-details-service-details-terms-cookie-policy": "кукі-файлів",
     "suite-page-organization-plan-details-service-details-terms-desc": "Діють {termsOfUse}, політики {privacyPolicy} та {cookiePolicy}.",
     "suite-page-organization-plan-details-service-details-terms-privacy-policy": "приватності",
     "suite-page-organization-plan-details-service-details-terms-terms-of-use": "умови надання послуг",
-    "suite-page-organization-plan-details-subscribe": "Підписатись",
-    "suite-page-organization-plan-details-subscribe-for-free": "Підписатись безкоштовно",
-    "suite-page-organization-plan-details-subscribe-for-price": "Підписатись за {price}",
+    "suite-page-organization-plan-details-subscribe": "Придбати",
+    "suite-page-organization-plan-details-subscribe-for-free": "Отримати безкоштовно",
+    "suite-page-organization-plan-details-subscribe-for-price": "Сплатити {price}",
     "suite-page-organization-plan-details-type": "Тип"
   }
 }
