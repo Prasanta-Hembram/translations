@@ -41,9 +41,9 @@
     "suite-page-organization-plan-details-service-details-terms-desc": "{termsOfUse}, {privacyPolicy} y {cookiePolicy} se aplican.",
     "suite-page-organization-plan-details-service-details-terms-privacy-policy": "Políticas de Privacidad",
     "suite-page-organization-plan-details-service-details-terms-terms-of-use": "Normas y Términos de Uso",
-    "suite-page-organization-plan-details-subscribe": "Subscribirse",
-    "suite-page-organization-plan-details-subscribe-for-free": "Subscribirse gratis",
-    "suite-page-organization-plan-details-subscribe-for-price": "Subscribirse por {price}",
+    "suite-page-organization-plan-details-subscribe": "Obtén",
+    "suite-page-organization-plan-details-subscribe-for-free": "Obtén un gratis",
+    "suite-page-organization-plan-details-subscribe-for-price": "Pagar {price}",
     "suite-page-organization-plan-details-type": "Insertar"
   }
 }
