@@ -41,9 +41,9 @@
     "suite-page-organization-plan-details-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy} 적용.",
     "suite-page-organization-plan-details-service-details-terms-privacy-policy": "개인정보 보호정책",
     "suite-page-organization-plan-details-service-details-terms-terms-of-use": "이용약관",
-    "suite-page-organization-plan-details-subscribe": "구독하기",
-    "suite-page-organization-plan-details-subscribe-for-free": "무료로 구독하기",
-    "suite-page-organization-plan-details-subscribe-for-price": "{price}로 구독하기",
+    "suite-page-organization-plan-details-subscribe": "받기",
+    "suite-page-organization-plan-details-subscribe-for-free": "무료로 받기",
+    "suite-page-organization-plan-details-subscribe-for-price": "{price} 결제하기",
     "suite-page-organization-plan-details-type": "유형"
   }
 }
