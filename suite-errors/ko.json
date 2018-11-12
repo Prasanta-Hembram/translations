@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-errors-announcement-missing": "Feed is missing or have been deleted.",
     "suite-errors-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다",
     "suite-errors-card-cvv-is-invalid": "CVV를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-expiration-is-invalid": "유효기간을 유효 확인 혹은 입력해주시기 바랍니다",
@@ -12,6 +13,7 @@
     "suite-errors-plan-delete-reject": "삭제 실패 : 플랜 사용 중",
     "suite-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요",
     "suite-errors-plan-sold-out": "플랜 품절",
-    "suite-errors-sns-user-exists": "이 계정은 사용 중입니다"
+    "suite-errors-sns-user-exists": "이 계정은 사용 중입니다",
+    "suite-errors-user-have-no-permission": "User have no permission"
   }
 }

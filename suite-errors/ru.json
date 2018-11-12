@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-errors-announcement-missing": "Пост недоступен или был удален",
     "suite-errors-booking-conflict": "Другое бронирование уже существует в выбранное время",
     "suite-errors-card-cvv-is-invalid": "CVV пуст или недействителен",
     "suite-errors-card-expiration-is-invalid": "Дата истечения срока действия пуста или недействительна.",
@@ -12,6 +13,7 @@
     "suite-errors-plan-delete-reject": "Невозможно удалить: план используется",
     "suite-errors-plan-periods-empty": "Нужно выбрать хотя бы один период",
     "suite-errors-plan-sold-out": "План распродан",
-    "suite-errors-sns-user-exists": "Этот аккаунт уже используется"
+    "suite-errors-sns-user-exists": "Этот метод входа уже используется в другой учетной записи",
+    "suite-errors-user-have-no-permission": "Нет прав редактирования"
   }
 }

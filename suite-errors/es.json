@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-errors-announcement-missing": "Falta la publicación o se ha eliminado",
     "suite-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo",
     "suite-errors-card-cvv-is-invalid": "CVV está vacío o no es válido",
     "suite-errors-card-expiration-is-invalid": "La fecha de caducidad está vacía o no es válida",
@@ -12,6 +13,7 @@
     "suite-errors-plan-delete-reject": "No se puede eliminar: plan en uso",
     "suite-errors-plan-periods-empty": "El plan debe tener al menos 1 período",
     "suite-errors-plan-sold-out": "El plan está agotado",
-    "suite-errors-sns-user-exists": "Esta cuenta ya existe"
+    "suite-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta",
+    "suite-errors-user-have-no-permission": "No tienes permiso de edición"
   }
 }
