@@ -29,6 +29,7 @@
     "suite-page-organization-plan-details-period-title": "Період",
     "suite-page-organization-plan-details-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",
     "suite-page-organization-plan-details-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
+    "suite-page-organization-plan-details-plans-all-title": "Усі тарифні плани",
     "suite-page-organization-plan-details-price": "Тарифний план коштує {price} на {period}.",
     "suite-page-organization-plan-details-pricing": "Ціни",
     "suite-page-organization-plan-details-quantity": "Кількість",

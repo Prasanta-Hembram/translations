@@ -29,6 +29,7 @@
     "suite-page-organization-plan-details-period-title": "Period",
     "suite-page-organization-plan-details-plan-point-allocation-disabled-desc": "Subscribers will get all credits at once.",
     "suite-page-organization-plan-details-plan-point-allocation-enabled-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
+    "suite-page-organization-plan-details-plans-all-title": "All membership plans",
     "suite-page-organization-plan-details-price": "Membership plan price is {price} for {period}.",
     "suite-page-organization-plan-details-pricing": "Pricing",
     "suite-page-organization-plan-details-quantity": "Quantity",

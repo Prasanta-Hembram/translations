@@ -1,0 +1,14 @@
+{
+  "data": {
+    "suite-page-organization-plans-all-title": "Усі тарифні плани",
+    "suite-page-organization-plans-all-create": "Додати план",
+    "suite-page-organization-plans-all-error-plans-empty": "Тут поки що нічого немає. 😢",
+    "suite-page-organization-plans-all-price-from": "Від {price}",
+    "suite-page-organization-plans-all-seats-available": "{numberOfSeats} доступно",
+    "suite-page-organization-plans-all-seats-in-left": "{available}/{quantity} доступно",
+    "suite-page-organization-plans-all-seats-only-left": "Залишилось лише {numberOfSeats}",
+    "suite-page-organization-plans-all-seats-sold-out": "Продано",
+    "suite-page-organization-plans-all-status-3d-secure": "Статус: необхідно підтвердити платіж",
+    "suite-page-organization-plans-all-status-pending": "Статус: обробка"
+  }
+}
