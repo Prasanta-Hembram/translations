@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-errors-announcement-missing": "해당 게시물은 찾을 수 없거나 삭제되었습니다.",
+    "suite-errors-announcement-missing": "해당 게시물은 찾을 수 없거나 삭제되었습니다",
     "suite-errors-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다",
     "suite-errors-card-cvv-is-invalid": "CVV를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-expiration-is-invalid": "유효기간을 유효 확인 혹은 입력해주시기 바랍니다",
@@ -14,6 +14,6 @@
     "suite-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요",
     "suite-errors-plan-sold-out": "플랜 품절",
     "suite-errors-sns-user-exists": "다른 계정에 의해 로그인 되었습니다",
-    "suite-errors-user-have-no-permission": "수정권한이 없습니다."
+    "suite-errors-user-have-no-permission": "필요한 권한이 없습니다"
   }
 }
