@@ -14,6 +14,6 @@
     "suite-errors-plan-periods-empty": "El plan debe tener al menos 1 período",
     "suite-errors-plan-sold-out": "El plan está agotado",
     "suite-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta",
-    "suite-errors-user-have-no-permission": "No tienes permiso de edición"
+    "suite-errors-user-have-no-permission": "No tienes permiso para completar la acción"
   }
 }
