@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-team-edit-title": "팀 설정",
     "suite-page-organization-team-edit-action-delete": "팀 삭제",
     "suite-page-organization-team-edit-delete-failure": "팀 삭제 불가. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "다시 시도",
@@ -8,7 +7,7 @@
     "suite-page-organization-team-edit-name": "팀 명",
     "suite-page-organization-team-edit-name-placeholder": "팀 명 입력하기",
     "suite-page-organization-team-edit-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.😕",
-    "suite-page-organization-team-edit-permission-denied": "볼 수있는 권한이 없습니다.",
+    "suite-page-organization-team-edit-section-team-members": "팀원",
     "suite-page-organization-team-edit-select-icon-title": "에모지 선택하기",
     "suite-page-organization-team-edit-select-team-members-title": "팀원 선택하기"
   }
