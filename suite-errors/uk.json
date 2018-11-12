@@ -14,6 +14,6 @@
     "suite-errors-plan-periods-empty": "Потрібно вибрати хоча б один період",
     "suite-errors-plan-sold-out": "План розпродано",
     "suite-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі",
-    "suite-errors-user-have-no-permission": "Відсутні права на редагування"
+    "suite-errors-user-have-no-permission": "Відсутні права доступу для завершення дії"
   }
 }
