@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-plan-details-title": "멤버십 구독",
+    "suite-page-organization-plan-details-title": "멤버십 플랜 받기",
     "suite-page-organization-plan-details-title-for-admin": "플랜 정보",
-    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "멤버십 구독: {title}",
-    "suite-page-organization-plan-details-title-with-plan-title": "멤버십 구독: {title}",
+    "suite-page-organization-plan-details-title-for-admin-with-plan-title": "멤버십 플랜 : {title}",
+    "suite-page-organization-plan-details-title-with-plan-title": "멤버십 플랜 : {title}",
     "suite-page-organization-plan-details-add-card": "카드 추가",
-    "suite-page-organization-plan-details-auto-renew": "멤버십 구독 자동갱신",
+    "suite-page-organization-plan-details-auto-renew": "멤버십 플랜 자동갱신",
     "suite-page-organization-plan-details-auto-renew-description": "구독 취소를 하지 않는 한, 지속적으로 요금이 부과됩니다.",
     "suite-page-organization-plan-details-button-3d-secure": "결제 확인 진행하기",
     "suite-page-organization-plan-details-card-title-cvv": "CVV",
@@ -41,9 +41,9 @@
     "suite-page-organization-plan-details-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy} 적용.",
     "suite-page-organization-plan-details-service-details-terms-privacy-policy": "개인정보 보호정책",
     "suite-page-organization-plan-details-service-details-terms-terms-of-use": "이용약관",
-    "suite-page-organization-plan-details-subscribe": "구독하기",
-    "suite-page-organization-plan-details-subscribe-for-free": "무료로 구독하기",
-    "suite-page-organization-plan-details-subscribe-for-price": "{price}로 구독하기",
+    "suite-page-organization-plan-details-subscribe": "받기",
+    "suite-page-organization-plan-details-subscribe-for-free": "무료로 받기",
+    "suite-page-organization-plan-details-subscribe-for-price": "{price} 결제하기",
     "suite-page-organization-plan-details-type": "유형"
   }
 }

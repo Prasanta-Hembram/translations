@@ -25,7 +25,7 @@
     "suite-page-organization-plan-details-period-pay-for-free": "Free",
     "suite-page-organization-plan-details-period-pay-with-title": "Pay with",
     "suite-page-organization-plan-details-period-payed-with-card": "Card",
-    "suite-page-organization-plan-details-period-payed-with-title": "Payed with",
+    "suite-page-organization-plan-details-period-payed-with-title": "Paid with",
     "suite-page-organization-plan-details-period-title": "Period",
     "suite-page-organization-plan-details-plan-point-allocation-disabled-desc": "Subscribers will get all credits at once.",
     "suite-page-organization-plan-details-plan-point-allocation-enabled-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
@@ -41,9 +41,9 @@
     "suite-page-organization-plan-details-service-details-terms-desc": "{termsOfUse}, {privacyPolicy} and {cookiePolicy} apply.",
     "suite-page-organization-plan-details-service-details-terms-privacy-policy": "Privacy Policy",
     "suite-page-organization-plan-details-service-details-terms-terms-of-use": "Terms of Use",
-    "suite-page-organization-plan-details-subscribe": "Subscribe",
-    "suite-page-organization-plan-details-subscribe-for-free": "Subscribe for free",
-    "suite-page-organization-plan-details-subscribe-for-price": "Subscribe for {price}",
+    "suite-page-organization-plan-details-subscribe": "Get",
+    "suite-page-organization-plan-details-subscribe-for-free": "Get for free",
+    "suite-page-organization-plan-details-subscribe-for-price": "Pay {price}",
     "suite-page-organization-plan-details-type": "Type"
   }
 }
