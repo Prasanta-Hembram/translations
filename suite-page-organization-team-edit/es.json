@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-team-edit-title": "Editar grupo",
     "suite-page-organization-team-edit-action-delete": "Borrar",
     "suite-page-organization-team-edit-delete-failure": "Error al eliminar el grupo. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "Inténtalo de nuevo",
@@ -8,7 +7,7 @@
     "suite-page-organization-team-edit-name": "Nombre",
     "suite-page-organization-team-edit-name-placeholder": "Ingrese su nombre",
     "suite-page-organization-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado. 😕",
-    "suite-page-organization-team-edit-permission-denied": "No tienes permiso para acceder a esta página.",
+    "suite-page-organization-team-edit-section-team-members": "Miembros del equipo",
     "suite-page-organization-team-edit-select-icon-title": "Seleccionar Ícono",
     "suite-page-organization-team-edit-select-team-members-title": "Seleccionar miembros del equipo"
   }
