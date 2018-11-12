@@ -14,6 +14,6 @@
     "suite-errors-plan-periods-empty": "Plan must have at least 1 period",
     "suite-errors-plan-sold-out": "Plan is sold out",
     "suite-errors-sns-user-exists": "The login method is used by another account",
-    "suite-errors-user-have-no-permission": "You don't have permission to complete the action"
+    "suite-errors-user-have-no-permission": "You don't have a permission to complete the action"
   }
 }
