@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-facebook-disconnect-title": "Від'єднати Google",
-    "alert-confirmation-facebook-disconnect-no": "Скасувати",
-    "alert-confirmation-facebook-disconnect-text": "Якщо ви продовжите, то більше не зможете логуватися за допомоги Google.",
-    "alert-confirmation-facebook-disconnect-yes": "Так, від'єднати"
+    "alert-confirmation-google-disconnect-title": "Від'єднати Google",
+    "alert-confirmation-google-disconnect-no": "Скасувати",
+    "alert-confirmation-google-disconnect-text": "Якщо ви продовжите, то більше не зможете логуватися за допомоги Google.",
+    "alert-confirmation-google-disconnect-yes": "Так, від'єднати"
   }
 }
