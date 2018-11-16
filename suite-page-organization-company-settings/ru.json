@@ -16,6 +16,7 @@
     "suite-page-organization-company-settings-booking-purpose-required-desc": "Если эта опция включена, то участники обязательно должны указать название бронирования.",
     "suite-page-organization-company-settings-booking-until": "Конец",
     "suite-page-organization-company-settings-email-required": "Email",
+    "suite-page-organization-company-settings-first-name-required": "Имя",
     "suite-page-organization-company-settings-last-name-required": "Фамилия",
     "suite-page-organization-company-settings-phone-number-required": "Телефон",
     "suite-page-organization-company-settings-point-allocation-desc": "Если тарифный план длится дольше месяца, кредиты будут начисляться ежемесячно, а не единоразово.",

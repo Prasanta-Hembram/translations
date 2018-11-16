@@ -16,6 +16,7 @@
     "suite-page-organization-company-settings-booking-purpose-required-desc": "Якщо цю опцію увімкнено, то учасники зобов’язані вказати назву резервації.",
     "suite-page-organization-company-settings-booking-until": "До",
     "suite-page-organization-company-settings-email-required": "Email",
+    "suite-page-organization-company-settings-first-name-required": "Ім'я",
     "suite-page-organization-company-settings-last-name-required": "Прізвище",
     "suite-page-organization-company-settings-phone-number-required": "Телефон",
     "suite-page-organization-company-settings-point-allocation-desc": "Якщо тарифний план триває довше місяця, кредити будуть нараховуватися щомісяця, а не одноразово.",
