@@ -2,7 +2,6 @@
   "data": {
     "suite-page-settings-profile-card-title": "Мой профиль",
     "suite-page-settings-profile-card-photo-crop": "Кадрировать фото",
-    "suite-page-settings-profile-card-photo-delete": "Удалить фото",
-    "suite-page-settings-profile-card-shared-basic-information-placeholder": "Добавьте информацию"
+    "suite-page-settings-profile-card-photo-delete": "Удалить фото"
   }
 }
