@@ -1,6 +1,6 @@
 {
   "data": {
-    "kiosk-page-property-details-availability-available": "{time} 동안 이용 가능",
+    "kiosk-page-property-details-availability-available": "{time} 동안 예약 가능",
     "kiosk-page-property-details-availability-in-minutes": "{time} 예약 가능",
     "kiosk-page-property-details-availability-unavailable": "예약 불가",
     "kiosk-page-property-details-next-bookings-label": "다음 예약"
