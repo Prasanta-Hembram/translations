@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-user-membership-settings-title": "Ajustes de Membresía",
+    "suite-page-organization-user-membership-settings-account-actions-title": "Acciones de cuenta", 
     "suite-page-organization-user-membership-settings-active-plan-title": "Plan activo",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-desc": "Estos créditos nunca caducan.",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-title": "Créditos",
@@ -19,6 +20,9 @@
     "suite-page-organization-user-membership-settings-leave-organization": "Salir del espacio de trabajo",
     "suite-page-organization-user-membership-settings-leave-repeat": "Inténtalo de nuevo",
     "suite-page-organization-user-membership-settings-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
+    "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
+    "suite-page-organization-user-membership-settings-link-none": "Ninguna",
+    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Vincular cuenta virtual",
     "suite-page-organization-user-membership-settings-no-plan": "Aún no tiene ningún plan. 😢",
     "suite-page-organization-user-membership-settings-plans-ends": "Finaliza en {daysLeft}",
     "suite-page-organization-user-membership-settings-plans-renews": "Se renueva en {daysLeft}",

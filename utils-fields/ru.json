@@ -1,10 +1,16 @@
 {
   "data": {
-    "utils-fields-title": "Должность",
     "utils-fields-email": "Email",
+    "utils-fields-email-placeholder": "Ввести email",
     "utils-fields-first-name": "Имя",
+    "utils-fields-first-name-placeholder": "Ввести имя",
     "utils-fields-last-name": "Фамилия",
+    "utils-fields-last-name-placeholder": "Ввести фамилию",
     "utils-fields-organization": "Организация",
-    "utils-fields-phone-number": "Телефон"
+    "utils-fields-organization-placeholder": "Ввести организацию",
+    "utils-fields-phone-number": "Телефон",
+    "utils-fields-phone-number-placeholder": "Ввести телефон",
+    "utils-fields-title": "Должность",
+    "utils-fields-title-placeholder": "Ввести должность"
   }
 }

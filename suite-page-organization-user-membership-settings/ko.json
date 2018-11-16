@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-user-membership-settings-title": "회원설정",
+    "suite-page-organization-user-membership-settings-account-actions-title": "계정 관리", 
     "suite-page-organization-user-membership-settings-active-plan-title": "회원의 멤버십 플랜",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-desc": "이 크레딧은 만료되지 않습니다.",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-title": "크레딧",
@@ -19,6 +20,9 @@
     "suite-page-organization-user-membership-settings-leave-organization": "이 조직 나가기",
     "suite-page-organization-user-membership-settings-leave-repeat": "다시시도",
     "suite-page-organization-user-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
+    "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
+    "suite-page-organization-user-membership-settings-link-none": "선택 않음",
+    "suite-page-organization-user-membership-settings-link-virtual-account-label": "가상 계정 연결",
     "suite-page-organization-user-membership-settings-no-plan": "아직 플랜이 없습니다. 😢",
     "suite-page-organization-user-membership-settings-plans-ends": "{daysLeft} 종료",
     "suite-page-organization-user-membership-settings-plans-renews": "{daysLeft} 갱신",
