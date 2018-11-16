@@ -15,7 +15,7 @@
     "utils-auth-login-with-phone-number": "Continuar con número de teléfono",
     "utils-auth-next-step": "Estoy de acuerdo, continuar",
     "utils-auth-number": "Número",
-    "utils-auth-number-invalid": "Agregar un número de teléfono válido",
+    "utils-auth-number-invalid": "El número de teléfono es incorrecto o está conectado a otra cuenta.",
     "utils-auth-type-phone-number-here": "Inserte número de teléfono aquí",
     "utils-auth-type-sms-code-here": "Inserte el código SMS aquí"
   }

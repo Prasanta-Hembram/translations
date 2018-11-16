@@ -15,7 +15,7 @@
     "utils-auth-login-with-phone-number": "Продолжить с помощью номера телефона",
     "utils-auth-next-step": "Принять и продолжить",
     "utils-auth-number": "Номер",
-    "utils-auth-number-invalid": "Проверьте правильность номера телефона",
+    "utils-auth-number-invalid": "Номер телефона неверен или подключен к другой учетной записи.",
     "utils-auth-type-phone-number-here": "Введите номер",
     "utils-auth-type-sms-code-here": "Введите СМС пароль"
   }
