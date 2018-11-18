@@ -18,7 +18,7 @@
     "spaces-page-coworking-message-us-agree-and-send-button": "Погодитись та відправити",
     "spaces-page-coworking-message-us-email": "Email",
     "spaces-page-coworking-message-us-name": "Ім'я",
-    "spaces-page-coworking-message-us-notice": "andCards надішле інформацію до організації {coworkingTitle}, в якій діють окремі політики приватності. andCards не зберігає дані, що ідентифікують особистість. Діють {termsOfUse}, {privacyPolicy} та {cookiePolicy}.",
+    "spaces-page-coworking-message-us-notice": "andCards надішле інформацію до організації {coworkingTitle}, в якій діють окремі політики приватності. andCards не зберігає дані, що ідентифікують особистість. Ознайомтесь з {termsOfUse}, {privacyPolicy} та {cookiePolicy}.",
     "spaces-page-coworking-message-us-text": "Повідомлення",
     "spaces-page-coworking-message-us-type-email": "Уведіть email",
     "spaces-page-coworking-message-us-type-name": "Уведіть ім'я",
