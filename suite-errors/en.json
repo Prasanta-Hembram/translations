@@ -1,10 +1,11 @@
 {
   "data": {
     "suite-errors-announcement-missing": "The post is missing or has been deleted",
+    "suite-errors-available-balance-error": "Contact your card issuer to check available balance",
     "suite-errors-booking-conflict": "Another booking already exists at the same time",
     "suite-errors-card-cvv-is-invalid": "CVV is empty or invalid",
     "suite-errors-card-expiration-is-invalid": "Expiration date is empty or invalid",
-    "suite-errors-card-is-missing": "Card didn't work.",
+    "suite-errors-card-is-missing": "Card didn't work",
     "suite-errors-card-number-is-invalid": "Card number is empty or invalid",
     "suite-errors-last-integration-delete": "Last login method cannot be deleted",
     "suite-errors-no-enough-cash": "Not enough cash",
@@ -14,6 +15,7 @@
     "suite-errors-plan-periods-empty": "Plan must have at least 1 period",
     "suite-errors-plan-sold-out": "Plan is sold out",
     "suite-errors-sns-user-exists": "The login method is used by another account",
+    "suite-errors-transaction-declined": "Transaction declined",
     "suite-errors-user-have-no-permission": "You don't have a permission to complete the action"
   }
 }

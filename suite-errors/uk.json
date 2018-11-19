@@ -1,10 +1,11 @@
 {
   "data": {
     "suite-errors-announcement-missing": "Пост відсутній або видалений",
+    "suite-errors-available-balance-error": "Зв'яжіться з банком, аби перевірити доступний баланс",
     "suite-errors-booking-conflict": "Інша резервація вже існує у вибраний час",
     "suite-errors-card-cvv-is-invalid": "CVV-код порожній або недійсний",
     "suite-errors-card-expiration-is-invalid": "Термін дії картки порожній або недійсний",
-    "suite-errors-card-is-missing": "Картка не пройшла.",
+    "suite-errors-card-is-missing": "Картка не пройшла",
     "suite-errors-card-number-is-invalid": "Номер картки порожній або недійсний",
     "suite-errors-last-integration-delete": "Останній метод входу не може бути видалений",
     "suite-errors-no-enough-cash": "Недостатньо готівки",
@@ -14,6 +15,7 @@
     "suite-errors-plan-periods-empty": "Потрібно вибрати хоча б один період",
     "suite-errors-plan-sold-out": "План розпродано",
     "suite-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі",
+    "suite-errors-transaction-declined": "Відмова у транзакції",
     "suite-errors-user-have-no-permission": "Відсутні права доступу для завершення дії"
   }
 }

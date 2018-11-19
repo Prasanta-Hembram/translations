@@ -1,11 +1,12 @@
 {
   "data": {
     "suite-errors-announcement-missing": "Пост недоступен или был удален",
+    "suite-errors-available-balance-error": "Свяжитесь с банком, чтобы проверить лимит на карточке",
     "suite-errors-booking-conflict": "Другое бронирование уже существует в выбранное время",
     "suite-errors-card-cvv-is-invalid": "CVV пуст или недействителен",
-    "suite-errors-card-expiration-is-invalid": "Дата истечения срока действия пуста или недействительна.",
-    "suite-errors-card-is-missing": "Карточка не прошла.",
-    "suite-errors-card-number-is-invalid": "Номер карты пуст или недействителен.",
+    "suite-errors-card-expiration-is-invalid": "Дата истечения срока действия пуста или недействительна",
+    "suite-errors-card-is-missing": "Карточка не прошла",
+    "suite-errors-card-number-is-invalid": "Номер карты пуст или недействителен",
     "suite-errors-last-integration-delete": "Последний метод входа не может быть удален",
     "suite-errors-no-enough-cash": "Недостаточно наличных",
     "suite-errors-no-internet": "Нет интернет-соединения",
@@ -14,6 +15,7 @@
     "suite-errors-plan-periods-empty": "Нужно выбрать хотя бы один период",
     "suite-errors-plan-sold-out": "План распродан",
     "suite-errors-sns-user-exists": "Этот метод входа уже используется в другой учетной записи",
+    "suite-errors-transaction-declined": "Транзакция не удалась",
     "suite-errors-user-have-no-permission": "Отсутствуют права доступа для завершения действия"
   }
 }
