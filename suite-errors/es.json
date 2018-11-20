@@ -3,6 +3,7 @@
     "suite-errors-announcement-missing": "Falta la publicación o se ha eliminado",
     "suite-errors-available-balance-error": "Comuníquese con el emisor de su tarjeta para verificar su saldo disponible",
     "suite-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo",
+    "suite-errors-booking-unallowed-period": "El período de reserva no es válido",
     "suite-errors-card-cvv-is-invalid": "CVV está vacío o no es válido",
     "suite-errors-card-expiration-is-invalid": "La fecha de caducidad está vacía o no es válida",
     "suite-errors-card-is-missing": "La tarjeta no funcionó",

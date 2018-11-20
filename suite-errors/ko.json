@@ -3,6 +3,7 @@
     "suite-errors-announcement-missing": "해당 게시물은 찾을 수 없거나 삭제되었습니다",
     "suite-errors-available-balance-error": "카드 한도 확인하려면 카드 발급 기관에 문의하세요",
     "suite-errors-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다",
+    "suite-errors-booking-unallowed-period": "예약 기간이 유효하지 않습니다.",
     "suite-errors-card-cvv-is-invalid": "CVV를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-expiration-is-invalid": "유효기간을 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-is-missing": "카드 승인 실패",
