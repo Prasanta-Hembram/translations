@@ -3,7 +3,7 @@
     "suite-errors-announcement-missing": "Пост недоступен или был удален",
     "suite-errors-available-balance-error": "Свяжитесь с банком, чтобы проверить лимит на карточке",
     "suite-errors-booking-conflict": "Другое бронирование уже существует в выбранное время",
-    "suite-errors-booking-unallowed-period": "The booking period is invalid",
+    "suite-errors-booking-unallowed-period": "Период бронирования недействителен",
     "suite-errors-card-cvv-is-invalid": "CVV пуст или недействителен",
     "suite-errors-card-expiration-is-invalid": "Дата истечения срока действия пуста или недействительна",
     "suite-errors-card-is-missing": "Карточка не прошла",
