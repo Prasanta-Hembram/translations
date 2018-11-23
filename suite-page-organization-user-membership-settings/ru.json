@@ -22,7 +22,7 @@
     "suite-page-organization-user-membership-settings-leave-user-failure": "Не удалось удалить участника. 🙁",
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
     "suite-page-organization-user-membership-settings-link-none": "Не выбрано",
-    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Связать виртуальную запись",
+    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Связать с",
     "suite-page-organization-user-membership-settings-no-plan": "Пока нет тарифного плана. 😢",
     "suite-page-organization-user-membership-settings-plans-ends": "Заканчивается через {daysLeft}",
     "suite-page-organization-user-membership-settings-plans-renews": "Возобновление: {daysLeft}",

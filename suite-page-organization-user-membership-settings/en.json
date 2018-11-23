@@ -22,7 +22,7 @@
     "suite-page-organization-user-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
     "suite-page-organization-user-membership-settings-link-none": "None",
-    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Link Virtual Account",
+    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Link to",
     "suite-page-organization-user-membership-settings-no-plan": "There is no plan yet. 😢",
     "suite-page-organization-user-membership-settings-plans-ends": "Ends {daysLeft}",
     "suite-page-organization-user-membership-settings-plans-renews": "Renews {daysLeft}",

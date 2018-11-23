@@ -22,7 +22,7 @@
     "suite-page-organization-user-membership-settings-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
     "suite-page-organization-user-membership-settings-link-none": "Ninguna",
-    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Vincular cuenta virtual",
+    "suite-page-organization-user-membership-settings-link-virtual-account-label": "Enlace a",
     "suite-page-organization-user-membership-settings-no-plan": "Aún no tiene ningún plan. 😢",
     "suite-page-organization-user-membership-settings-plans-ends": "Finaliza en {daysLeft}",
     "suite-page-organization-user-membership-settings-plans-renews": "Se renueva en {daysLeft}",
