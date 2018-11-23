@@ -2,23 +2,26 @@
   "data": {
     "suite-page-organization-plans-title": "Участь",
     "suite-page-organization-plans-active-plan-ends": "Закінчується {daysLeft}",
-    "suite-page-organization-plans-balance-title": "Баланс",
+    "suite-page-organization-plans-balance-personal-title": "Особисті кредити",
+    "suite-page-organization-plans-balance-team-title": "Команда {teamName}",
+    "suite-page-organization-plans-balance-title": "Бонусні кредити",
     "suite-page-organization-plans-button-all-plans-open": "Усі тарифні плани",
-    "suite-page-organization-plans-button-balance-title": "Історія транзакцій",
+    "suite-page-organization-plans-button-balance-personal-title": "Історія особистих транзакцій",
+    "suite-page-organization-plans-button-balance-team-title": "Історія транзакцій команди",
     "suite-page-organization-plans-button-create-new-plan": "Створити новий план",
     "suite-page-organization-plans-button-get-new-plan": "Придбати тарифний план",
+    "suite-page-organization-plans-coworking-membership-title": "Тарифні плани",
     "suite-page-organization-plans-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-plans-credits-how-to-use": "Використовуйте ці кредити для резервації кімнат.",
     "suite-page-organization-plans-description-text-for-admins": "Продавайте тарифні плани через andCards. Учасники зможуть придбати план просто в додатку, автоматично отримати нагадування про наближення дати його спливу, а також кредити.",
     "suite-page-organization-plans-description-text-for-members": "У вас поки що немає тарифного плану. Придбайте план, щоб отримати більше кредитів та додаткові переваги!",
     "suite-page-organization-plans-income": "Прибуток з продажів тарифних планів та резервацій кімнат по картках та готівкою (цей місяць).",
     "suite-page-organization-plans-kpi-detail": "Ключові показники місяця",
-    "suite-page-organization-plans-my-membership": "Мій тарифний план",
     "suite-page-organization-plans-occupancy": "Заповненість простору — частка зайнятих місць у загальній кількості місць.",
+    "suite-page-organization-plans-personal-title": "Особистий план",
     "suite-page-organization-plans-price-from": "Від {price}",
     "suite-page-organization-plans-renews": "Поновлення: {daysLeft}",
     "suite-page-organization-plans-renews-last-day": "Останній день",
-    "suite-page-organization-plans-status-3d-secure": "Статус: необхідно підтвердити платіж",
-    "suite-page-organization-plans-status-pending": "Статус: обробка"
+    "suite-page-organization-plans-status-3d-secure": "Статус: необхідно підтвердити платіж"
   }
 }

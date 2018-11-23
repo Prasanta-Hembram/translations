@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-user-balance-history-title": "Balance de Historia",
+    "suite-page-organization-user-balance-history-title-personal": "Historial de saldo personal",
     "suite-page-organization-user-balance-history-default-transaction": "Transacción",
     "suite-page-organization-user-balance-history-fetch-failure": "No se pudo mostrar el historial de saldo. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-user-balance-history-list-empty": "No hay transacciones. 😢",

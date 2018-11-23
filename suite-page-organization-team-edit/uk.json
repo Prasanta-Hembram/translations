@@ -1,14 +1,21 @@
 {
   "data": {
     "suite-page-organization-team-edit-action-delete": "Видалити",
+    "suite-page-organization-team-edit-button-charge-title": "Списати",
+    "suite-page-organization-team-edit-button-give-title": "Нарахувати",
     "suite-page-organization-team-edit-delete-failure": "Не вдалося видалити команду. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "Спробувати знову",
     "suite-page-organization-team-edit-icon": "Емодзі",
     "suite-page-organization-team-edit-name": "Назва",
     "suite-page-organization-team-edit-name-placeholder": "Введіть назву",
     "suite-page-organization-team-edit-not-found-error": "Ця команда не існує або ж була видалена. 😕",
+    "suite-page-organization-team-edit-section-membership-actions": "Участь",
+    "suite-page-organization-team-edit-section-membership-balance-permanent-credits-desc": "Термін дії цього виду кредитів ніколи не стікає.",
+    "suite-page-organization-team-edit-section-membership-permanent-balance-title": "Кредити",
+    "suite-page-organization-team-edit-section-team-actions": "Додаткові дії",
     "suite-page-organization-team-edit-section-team-members": "Члени команди",
     "suite-page-organization-team-edit-select-icon-title": "Обрати емодзі",
-    "suite-page-organization-team-edit-select-team-members-title": "Обрати учасників команди"
+    "suite-page-organization-team-edit-select-team-members-title": "Обрати учасників команди",
+    "suite-page-organization-team-edit-update-failure": "Не вдалося оновити"
   }
 }

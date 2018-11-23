@@ -1,14 +1,21 @@
 {
   "data": {
     "suite-page-organization-team-edit-action-delete": "Delete",
+    "suite-page-organization-team-edit-button-charge-title": "Charge",
+    "suite-page-organization-team-edit-button-give-title": "Give",
     "suite-page-organization-team-edit-delete-failure": "Failed to delete team. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "Retry deleting",
     "suite-page-organization-team-edit-icon": "Team Emoji",
     "suite-page-organization-team-edit-name": "Team Name",
     "suite-page-organization-team-edit-name-placeholder": "Add team name",
     "suite-page-organization-team-edit-not-found-error": "This team may not exist or may have been removed. 😕",
+    "suite-page-organization-team-edit-section-membership-actions": "Membership",
+    "suite-page-organization-team-edit-section-membership-balance-permanent-credits-desc": "These credits never expire.",
+    "suite-page-organization-team-edit-section-membership-permanent-balance-title": "Credits",
+    "suite-page-organization-team-edit-section-team-actions": "Team Actions",
     "suite-page-organization-team-edit-section-team-members": "Team Members",
     "suite-page-organization-team-edit-select-icon-title": "Select Emoji",
-    "suite-page-organization-team-edit-select-team-members-title": "Select Team Members"
+    "suite-page-organization-team-edit-select-team-members-title": "Select Team Members",
+    "suite-page-organization-team-edit-update-failure": "Failed to update"
   }
 }

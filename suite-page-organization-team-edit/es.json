@@ -1,14 +1,21 @@
 {
   "data": {
     "suite-page-organization-team-edit-action-delete": "Borrar",
+    "suite-page-organization-team-edit-button-charge-title": "Cargar",
+    "suite-page-organization-team-edit-button-give-title": "Dar",
     "suite-page-organization-team-edit-delete-failure": "Error al eliminar el grupo. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-team-edit-icon": "Ícono",
     "suite-page-organization-team-edit-name": "Nombre",
     "suite-page-organization-team-edit-name-placeholder": "Ingrese su nombre",
     "suite-page-organization-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado. 😕",
+    "suite-page-organization-team-edit-section-membership-actions": "Afiliación",
+    "suite-page-organization-team-edit-section-membership-balance-permanent-credits-desc": "Estos créditos nunca caducan.",
+    "suite-page-organization-team-edit-section-membership-permanent-balance-title": "Creditos permanentes",
+    "suite-page-organization-team-edit-section-team-actions": "Acciones de equipo",
     "suite-page-organization-team-edit-section-team-members": "Miembros del equipo",
     "suite-page-organization-team-edit-select-icon-title": "Seleccionar Ícono",
-    "suite-page-organization-team-edit-select-team-members-title": "Seleccionar miembros del equipo"
+    "suite-page-organization-team-edit-select-team-members-title": "Seleccionar miembros del equipo",
+    "suite-page-organization-team-edit-update-failure": "Error al actualizar"
   }
 }
