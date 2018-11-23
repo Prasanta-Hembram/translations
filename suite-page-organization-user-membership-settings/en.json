@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-user-membership-settings-title": "Membership Settings",
-    "suite-page-organization-user-membership-settings-account-actions-title": "Account actions", 
+    "suite-page-organization-user-membership-settings-account-actions-title": "Account Actions",
     "suite-page-organization-user-membership-settings-active-plan-title": "Active Plan",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-desc": "These credits never expire.",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-title": "Credits",
@@ -15,6 +15,7 @@
     "suite-page-organization-user-membership-settings-button-plan-assign": "Assign plan",
     "suite-page-organization-user-membership-settings-cash-balance-title": "Cash Balance",
     "suite-page-organization-user-membership-settings-delete-user-action-sheet": "Remove user from workspace",
+    "suite-page-organization-user-membership-settings-error-user-not-found": "This user may not exist or may have been removed. 😕",
     "suite-page-organization-user-membership-settings-leave-failure": "Failed to leave the workspace. 🙁",
     "suite-page-organization-user-membership-settings-leave-organization": "Leave workspace",
     "suite-page-organization-user-membership-settings-leave-repeat": "Try again",

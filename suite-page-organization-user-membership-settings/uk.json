@@ -15,6 +15,7 @@
     "suite-page-organization-user-membership-settings-button-plan-assign": "Призначити план",
     "suite-page-organization-user-membership-settings-cash-balance-title": "Баланс готівки",
     "suite-page-organization-user-membership-settings-delete-user-action-sheet": "Видалити учасника",
+    "suite-page-organization-user-membership-settings-error-user-not-found": "Учасник не існує або ж був видалений 😕",
     "suite-page-organization-user-membership-settings-leave-failure": "Не вдалося покинути коворкінг. 🙁",
     "suite-page-organization-user-membership-settings-leave-organization": "Покинути коворкінг",
     "suite-page-organization-user-membership-settings-leave-repeat": "Спробувати знову",

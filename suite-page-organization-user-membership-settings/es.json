@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-user-membership-settings-title": "Ajustes de Membresía",
-    "suite-page-organization-user-membership-settings-account-actions-title": "Acciones de cuenta", 
+    "suite-page-organization-user-membership-settings-account-actions-title": "Acciones de cuenta",
     "suite-page-organization-user-membership-settings-active-plan-title": "Plan activo",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-desc": "Estos créditos nunca caducan.",
     "suite-page-organization-user-membership-settings-balance-permanent-credits-title": "Créditos",
@@ -15,6 +15,7 @@
     "suite-page-organization-user-membership-settings-button-plan-assign": "Asignar plan",
     "suite-page-organization-user-membership-settings-cash-balance-title": "Balance en efectivo",
     "suite-page-organization-user-membership-settings-delete-user-action-sheet": "Eliminar del área de trabajo",
+    "suite-page-organization-user-membership-settings-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado. 😕",
     "suite-page-organization-user-membership-settings-leave-failure": "Error al salir del espacio de trabajo. 🙁",
     "suite-page-organization-user-membership-settings-leave-organization": "Salir del espacio de trabajo",
     "suite-page-organization-user-membership-settings-leave-repeat": "Inténtalo de nuevo",
