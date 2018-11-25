@@ -23,7 +23,7 @@
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
     "suite-page-organization-user-membership-settings-link-none": "선택 않음",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "가상 계정 연결",
-    "suite-page-organization-user-membership-settings-no-plan": "아직 플랜이 없습니다. 😢",
+    "suite-page-organization-user-membership-settings-no-plan": "이 회원은 멤버십 플랜이 없습니다. 회원은 andCards로 쉽게 공간 서비스를 구매할 수 있고, 자동으로 크레딧을 받고, 연장 알림을 받을 수 있습니다.",
     "suite-page-organization-user-membership-settings-plans-ends": "{daysLeft} 종료",
     "suite-page-organization-user-membership-settings-plans-renews": "{daysLeft} 갱신",
     "suite-page-organization-user-membership-settings-plans-renews-last-day": "종료 일",

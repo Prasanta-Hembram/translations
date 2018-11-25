@@ -23,7 +23,7 @@
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
     "suite-page-organization-user-membership-settings-link-none": "Не выбрано",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "Связать с",
-    "suite-page-organization-user-membership-settings-no-plan": "Пока нет тарифного плана. 😢",
+    "suite-page-organization-user-membership-settings-no-plan": "У цього учасника немає тарифного плану. Плани дозволяють учасникам купувати ваші сервіси через andCards, нараховувати кредити автоматично, а також отримувати сповіщення про подовження участі.",
     "suite-page-organization-user-membership-settings-plans-ends": "Заканчивается через {daysLeft}",
     "suite-page-organization-user-membership-settings-plans-renews": "Возобновление: {daysLeft}",
     "suite-page-organization-user-membership-settings-plans-renews-last-day": "Последний день",
