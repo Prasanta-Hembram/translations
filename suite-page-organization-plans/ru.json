@@ -2,8 +2,9 @@
   "data": {
     "suite-page-organization-plans-title": "Участие",
     "suite-page-organization-plans-active-plan-ends": "Заканчивается {daysLeft}",
-    "suite-page-organization-plans-balance-personal-title": "Личные кредиты",
+    "suite-page-organization-plans-balance-personal-title": "Личный счет",
     "suite-page-organization-plans-balance-team-title": "Команда {teamName}",
+    "suite-page-organization-plans-balance-team-credits-title": "Кредиты команды {teamName}",
     "suite-page-organization-plans-balance-title": "Баланс",
     "suite-page-organization-plans-button-all-plans-open": "Все тарифные планы",
     "suite-page-organization-plans-button-balance-personal-title": "История личных транзакций",
@@ -19,6 +20,7 @@
     "suite-page-organization-plans-kpi-detail": "Ключевые показатели месяца",
     "suite-page-organization-plans-occupancy": "Заполненность пространства — пропорция занятых мест в общем кол-ве мест.",
     "suite-page-organization-plans-personal-title": "Личный план",
+    "suite-page-organization-plans-personal-credits-title": "Кредиты личные",
     "suite-page-organization-plans-price-from": "От {price}",
     "suite-page-organization-plans-renews": "Продление через: {daysLeft}",
     "suite-page-organization-plans-renews-last-day": "Последний день",

@@ -2,8 +2,9 @@
   "data": {
     "suite-page-organization-plans-title": "Участь",
     "suite-page-organization-plans-active-plan-ends": "Закінчується {daysLeft}",
-    "suite-page-organization-plans-balance-personal-title": "Особисті кредити",
+    "suite-page-organization-plans-balance-personal-title": "Особистий рахунок",
     "suite-page-organization-plans-balance-team-title": "Команда {teamName}",
+    "suite-page-organization-plans-balance-team-credits-title": "Кредити команди {teamName}",
     "suite-page-organization-plans-balance-title": "Баланс",
     "suite-page-organization-plans-button-all-plans-open": "Усі тарифні плани",
     "suite-page-organization-plans-button-balance-personal-title": "Історія особистих транзакцій",
@@ -19,6 +20,7 @@
     "suite-page-organization-plans-kpi-detail": "Ключові показники місяця",
     "suite-page-organization-plans-occupancy": "Заповненість простору — частка зайнятих місць у загальній кількості місць.",
     "suite-page-organization-plans-personal-title": "Особистий план",
+    "suite-page-organization-plans-personal-credits-title": "Кредити особисті",
     "suite-page-organization-plans-price-from": "Від {price}",
     "suite-page-organization-plans-renews": "Поновлення: {daysLeft}",
     "suite-page-organization-plans-renews-last-day": "Останній день",
