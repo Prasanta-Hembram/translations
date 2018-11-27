@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-plans-title": "Membresía",
-    "suite-page-organization-plans-active-plan-ends": "Finaliza en {daysLeft}",
     "suite-page-organization-plans-balance-personal-title": "Personal",
     "suite-page-organization-plans-balance-personal-credits-title": "Creditos personales",
     "suite-page-organization-plans-balance-team-title": "{teamName} Equipo",
@@ -22,8 +21,6 @@
     "suite-page-organization-plans-occupancy": "Utilización del espacio: total de asientos ocupados dividido por el total de asientos disponibles.",
     "suite-page-organization-plans-personal-title": "Personal",
     "suite-page-organization-plans-price-from": "Desde {price}",
-    "suite-page-organization-plans-renews": "Se renueva en {daysLeft}",
-    "suite-page-organization-plans-renews-last-day": "Último día",
     "suite-page-organization-plans-status-3d-secure": "Estado: Seguro 3-D requerido",
     "suite-page-organization-plans-status-pending": "Estado: Pendiente"
   }

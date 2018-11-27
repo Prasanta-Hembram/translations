@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-plans-title": "Membership",
-    "suite-page-organization-plans-active-plan-ends": "Ends {daysLeft}",
     "suite-page-organization-plans-balance-personal-title": "Personal Account",
     "suite-page-organization-plans-balance-personal-credits-title": "Personal Credits",
     "suite-page-organization-plans-balance-team-title": "{teamName} Team",
@@ -22,8 +21,6 @@
     "suite-page-organization-plans-occupancy": "Space utilization — the fraction of occupied seats in the total number of seats.",
     "suite-page-organization-plans-personal-title": "Personal",
     "suite-page-organization-plans-price-from": "From {price}",
-    "suite-page-organization-plans-renews": "Renews {daysLeft}",
-    "suite-page-organization-plans-renews-last-day": "Last day",
     "suite-page-organization-plans-status-3d-secure": "Status: 3-D Secure Required",
     "suite-page-organization-plans-status-pending": "Status: Pending"
   }
