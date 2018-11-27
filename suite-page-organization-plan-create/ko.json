@@ -13,6 +13,7 @@
     "suite-page-organization-plan-create-plan-title": "플랜 명",
     "suite-page-organization-plan-create-plan-title-placeholder": "플랜 명 입력하기",
     "suite-page-organization-plan-create-price": "가격, {currencySymbol}",
+    "suite-page-organization-plan-create-price-limits-desc": "회원들은 US$0.50와 US$5,000 사이의 금액, 혹은 현지통화 기준 해당하는 범위 안의 금액에서만 카드를 사용할 수 있습니다.",
     "suite-page-organization-plan-create-pricing-title": "가격 정책",
     "suite-page-organization-plan-create-quantity": "판매 수",
     "suite-page-organization-plan-create-seats": "좌석 수",

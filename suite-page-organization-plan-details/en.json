@@ -31,6 +31,7 @@
     "suite-page-organization-plan-details-plan-point-allocation-enabled-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
     "suite-page-organization-plan-details-plans-all-title": "All membership plans",
     "suite-page-organization-plan-details-price": "Membership plan price is {price} for {period}.",
+    "suite-page-organization-plan-details-price-limits-desc": "Members will be able to use cards for any sum between US$0.50 and US$5,000, or your local currency equivalent.",
     "suite-page-organization-plan-details-pricing": "Pricing",
     "suite-page-organization-plan-details-quantity": "Quantity",
     "suite-page-organization-plan-details-seats": "Seats",

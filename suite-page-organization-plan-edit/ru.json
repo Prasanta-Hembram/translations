@@ -14,6 +14,7 @@
     "suite-page-organization-plan-edit-plan-title": "Название плана",
     "suite-page-organization-plan-edit-plan-title-placeholder": "Введите название плана",
     "suite-page-organization-plan-edit-price": "Цена, {currencySymbol}",
+    "suite-page-organization-plan-edit-price-limits-desc": "Учасники смогут использовать карты на любую сумму от 0,50 до 5000 долл. США, или эквивалент в вашей местной валюте.",
     "suite-page-organization-plan-edit-pricing-title": "Тарифы",
     "suite-page-organization-plan-edit-quantity": "Кол-во",
     "suite-page-organization-plan-edit-seats": "Раб. мест",

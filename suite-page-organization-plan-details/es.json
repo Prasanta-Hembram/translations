@@ -31,6 +31,7 @@
     "suite-page-organization-plan-details-plan-point-allocation-enabled-desc": "Los suscriptores de 1 mes o menos recibirán todos los créditos a la vez. Más de 3 meses los suscriptores obtendrán créditos cada mes.",
     "suite-page-organization-plan-details-plans-all-title": "Todos los planes de membresía",
     "suite-page-organization-plan-details-price": "El precio del plan de membresía es {precio} por {period}.",
+    "suite-page-organization-plan-details-price-limits-desc": "Los miembros podrán usar tarjetas de crédito por cualquier suma entre US $ 0,50 y US $ 5000, o su equivalente en la moneda local.",
     "suite-page-organization-plan-details-pricing": "Precios",
     "suite-page-organization-plan-details-quantity": "Cantidad",
     "suite-page-organization-plan-details-seats": "Asientos",

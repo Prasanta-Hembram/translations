@@ -12,6 +12,8 @@
     "suite-errors-no-enough-cash": "Недостатньо готівки",
     "suite-errors-no-internet": "Немає інтернет-з'єднання",
     "suite-errors-payment-failure": "Оплата не пройшла",
+    "suite-errors-payment-price-high": "Сума занадто велика. Максимум становить 5000 доларів США.",
+    "suite-errors-payment-price-low": "Сума занадто мала. Мінімум становить 0,5 долара США.",
     "suite-errors-plan-delete-reject": "Неможливо видалити: план використовується",
     "suite-errors-plan-periods-empty": "Потрібно вибрати хоча б один період",
     "suite-errors-plan-sold-out": "План розпродано",

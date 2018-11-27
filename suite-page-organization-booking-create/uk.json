@@ -27,6 +27,7 @@
     "suite-page-organization-booking-create-no-property": "Неможливо відобразити сторінку. Перевірте інтернет-з'єднання.",
     "suite-page-organization-booking-create-pay-with": "Оплатити",
     "suite-page-organization-booking-create-pay-with-validation-error": "Недостатньо кредитів для резервації. Скористайтесь іншим методом оплати.",
+    "suite-page-organization-booking-create-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
     "suite-page-organization-booking-create-price-money": "Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-booking-create-price-points": "Резервація коштує {priceCredits} за годину.",
     "suite-page-organization-booking-create-price-points-and-money": "Резервація коштує {priceMoney} або {priceCredits} за годину.",

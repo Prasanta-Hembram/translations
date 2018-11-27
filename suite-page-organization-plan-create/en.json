@@ -13,6 +13,7 @@
     "suite-page-organization-plan-create-plan-title": "Plan Name",
     "suite-page-organization-plan-create-plan-title-placeholder": "Type plan name",
     "suite-page-organization-plan-create-price": "Price, {currencySymbol}",
+    "suite-page-organization-plan-create-price-limits-desc": "Members will be able to use cards for any sum between US$0.50 and US$5,000, or your local currency equivalent.",
     "suite-page-organization-plan-create-pricing-title": "Pricing",
     "suite-page-organization-plan-create-quantity": "Quantity",
     "suite-page-organization-plan-create-seats": "Seats",

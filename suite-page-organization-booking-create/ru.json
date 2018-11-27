@@ -27,6 +27,7 @@
     "suite-page-organization-booking-create-no-property": "Невозможно отобразить страницу. Проверьте интернет-соединение.",
     "suite-page-organization-booking-create-pay-with": "Оплатить",
     "suite-page-organization-booking-create-pay-with-validation-error": "Недостаточно кредитов для бронирования. Воспользуйтесь другим методом оплаты.",
+    "suite-page-organization-booking-create-price-limits-desc": "Учасники смогут использовать карты на любую сумму от 0,50 до 5000 долл. США, или эквивалент в вашей местной валюте.",
     "suite-page-organization-booking-create-price-money": "Цена бронирования — {priceMoney} в час.",
     "suite-page-organization-booking-create-price-points": "Цена бронирования — {priceCredits} в час.",
     "suite-page-organization-booking-create-price-points-and-money": "Цена бронирования — {priceMoney} или {priceCredits} в час.",

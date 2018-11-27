@@ -8,6 +8,7 @@
     "suite-page-organization-property-edit-name": "Назва",
     "suite-page-organization-property-edit-name-placeholder": "Додайте назву",
     "suite-page-organization-property-edit-number-of-seats": "Місць",
+    "suite-page-organization-property-edit-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
     "suite-page-organization-property-edit-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-property-edit-price-points": "Ціна, {pointEmoji}/год",
     "suite-page-organization-property-edit-title-edit": "Редагувати кімнату"

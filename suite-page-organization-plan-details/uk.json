@@ -31,6 +31,7 @@
     "suite-page-organization-plan-details-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "suite-page-organization-plan-details-plans-all-title": "Усі тарифні плани",
     "suite-page-organization-plan-details-price": "Тарифний план коштує {price} на {period}.",
+    "suite-page-organization-plan-details-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
     "suite-page-organization-plan-details-pricing": "Ціни",
     "suite-page-organization-plan-details-quantity": "Кількість",
     "suite-page-organization-plan-details-seats": "Роб. місць",
