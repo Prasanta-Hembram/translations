@@ -1,8 +1,10 @@
 {
   "data": {
     "suite-page-organization-team-edit-action-delete": "Видалити",
+    "suite-page-organization-team-edit-button-balance-history": "Історія транзакцій",
     "suite-page-organization-team-edit-button-charge-title": "Списати",
     "suite-page-organization-team-edit-button-give-title": "Нарахувати",
+    "suite-page-organization-team-edit-cash-balance-title": "Баланс готівки",
     "suite-page-organization-team-edit-delete-failure": "Не вдалося видалити команду. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "Спробувати знову",
     "suite-page-organization-team-edit-icon": "Емодзі",

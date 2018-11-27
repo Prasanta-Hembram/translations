@@ -1,8 +1,10 @@
 {
   "data": {
     "suite-page-organization-team-edit-action-delete": "팀 삭제",
+    "suite-page-organization-team-edit-button-balance-history": "결제 내역",
     "suite-page-organization-team-edit-button-charge-title": "회수",
     "suite-page-organization-team-edit-button-give-title": "추가",
+    "suite-page-organization-team-edit-cash-balance-title": "현금 잔액",
     "suite-page-organization-team-edit-delete-failure": "팀 삭제 불가. 🙁",
     "suite-page-organization-team-edit-delete-repeat": "다시 시도",
     "suite-page-organization-team-edit-icon": "팀 에모지",
