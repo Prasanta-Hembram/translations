@@ -2,8 +2,6 @@
   "data": {
     "suite-page-feed-post-main-action-sheet-delete": "Delete",
     "suite-page-feed-post-main-date": "{createDate}, edited on {updateDate}",
-    "suite-page-feed-post-main-delete-failure": "Failed to delete the post. 🙁",
-    "suite-page-feed-post-main-delete-repeat": "Retry deleting",
     "suite-page-feed-post-main-empty": "This post may not exist or may have been removed. 😕",
     "suite-page-feed-post-main-user-admin": "Admin/moderator"
   }
