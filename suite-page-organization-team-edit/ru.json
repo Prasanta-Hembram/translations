@@ -12,12 +12,17 @@
     "suite-page-organization-team-edit-name-placeholder": "Введите название",
     "suite-page-organization-team-edit-not-found-error": "Эта команда не существует или же была удалена. 😕",
     "suite-page-organization-team-edit-section-membership-actions": "Участие",
-    "suite-page-organization-team-edit-section-membership-balance-permanent-credits-desc": "Срок действия этого вида кредитов никогда не истекает.",
+    "suite-page-organization-team-edit-section-membership-permanent-credits-description": "Срок действия этого вида кредитов никогда не истекает.",
     "suite-page-organization-team-edit-section-membership-permanent-balance-title": "Кредиты",
     "suite-page-organization-team-edit-section-team-actions": "Дополнительные действия",
     "suite-page-organization-team-edit-section-team-members": "Члены команды",
     "suite-page-organization-team-edit-select-icon-title": "Выбрать эмодзи",
     "suite-page-organization-team-edit-select-team-members-title": "Выбрать участников команды",
-    "suite-page-organization-team-edit-update-failure": "Невозможно обновить"
+    "suite-page-organization-team-edit-update-failure": "Невозможно обновить",
+    "suite-page-organization-team-edit-section-membership-expiring-balance-description": "Срок действия истекает вместе с тарифным планом {date}.",
+    "suite-page-organization-team-edit-section-membership-expiring-balance-title": "Кредиты с ограниченным сроком действия",
+    "suite-page-organization-team-edit-section-plan-no-plan": "This team doesn't have a membership plan. Plans allow team members to purchase your services easily through andCards, receive credits automatically, and get reminders to extend membership.",
+    "suite-page-organization-team-edit-section-plan-button-assign": "Присвоить план",
+    "suite-page-organization-team-edit-section-plan-title": "План"
   }
 }

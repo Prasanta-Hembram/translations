@@ -1,0 +1,23 @@
+{
+  "data": {
+    "suite-page-organization-plan-assign-team-title": "Присвоить план",
+    "suite-page-organization-plan-assign-team-button-add-plan": "Создать план",
+    "suite-page-organization-plan-assign-team-button-for-free": "Присвоить бесплатно",
+    "suite-page-organization-plan-assign-team-button-for-price": "Присвоить за {price}",
+    "suite-page-organization-plan-assign-team-button-label": "Присвоить",
+    "suite-page-organization-plan-assign-team-error-empty-plans": "Отсутствуют тарифные планы. 😕",
+    "suite-page-organization-plan-assign-team-error-not-found": "Эта страница не существует или же была удалена. 😕",
+    "suite-page-organization-plan-assign-team-error-selected-admin": "Невозможно присвоить план администратору или модератору.",
+    "suite-page-organization-plan-assign-team-payment-cash-desc": "Сплачено",
+    "suite-page-organization-plan-assign-team-payment-cash-title": "Статус",
+    "suite-page-organization-plan-assign-team-period-from-title": "Начало",
+    "suite-page-organization-plan-assign-team-period-title": "Период",
+    "suite-page-organization-plan-assign-team-permission-denied": "Нет прав доступа для просмотра этой страницы.",
+    "suite-page-organization-plan-assign-team-plan-description": "Описание плана",
+    "suite-page-organization-plan-assign-team-plan-point-allocation-desc": "1 month and shorter team members will get all credits at once. Over 3 months team members will get credits every month.",
+    "suite-page-organization-plan-assign-team-plan-price-money": "Цена, {currencySymbol}",
+    "suite-page-organization-plan-assign-team-plan-price-points": "Кредиты, {pointEmoji}",
+    "suite-page-organization-plan-assign-team-plan-title": "План",
+    "suite-page-organization-plan-assign-team-seats": "Раб. мест"
+  }
+}

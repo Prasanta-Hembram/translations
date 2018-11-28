@@ -20,6 +20,7 @@
     "suite-page-organization-plans-kpi-detail": "당 월 KPI",
     "suite-page-organization-plans-occupancy": "공간 활용 : 총 점유좌석을 총 유효좌석으로 나눈 것",
     "suite-page-organization-plans-personal-title": "개인 플랜",
+    "suite-page-organization-plans-plan-team-title": "{teamName} 팀",
     "suite-page-organization-plans-price-from": "{price}부터",
     "suite-page-organization-plans-status-3d-secure": "3-D 보안 인증 필요",
     "suite-page-organization-plans-status-pending": "대기 중"
