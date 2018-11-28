@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-team-balance-history-title": "Payment History",
+    "suite-page-organization-team-balance-history-fetch-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
+    "suite-page-organization-team-balance-history-list-empty": "There are no transactions. 😢",
+    "suite-page-organization-team-balance-history-permission-denied": "You don't have permission to access this page."
+  }
+}

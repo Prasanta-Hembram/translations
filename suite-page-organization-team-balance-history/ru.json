@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-team-balance-history-title": "История транзакций",
+    "suite-page-organization-team-balance-history-fetch-failure": "Невозможно отобразить историю транзакций. Проверьте, все ли хорошо с интернет-соединением.",
+    "suite-page-organization-team-balance-history-list-empty": "Нет ни одной транзакции. 😢",
+    "suite-page-organization-team-balance-history-permission-denied": "Нет прав доступа для просмотра этой страницы."
+  }
+}
