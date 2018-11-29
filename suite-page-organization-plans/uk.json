@@ -22,6 +22,7 @@
     "suite-page-organization-plans-personal-title": "Особистий план",
     "suite-page-organization-plans-plan-team-title": "Команда {teamName}",
     "suite-page-organization-plans-price-from": "Від {price}",
-    "suite-page-organization-plans-status-3d-secure": "Статус: необхідно підтвердити платіж"
+    "suite-page-organization-plans-status-3d-secure": "Статус: необхідно підтвердити платіж",
+    "suite-page-organization-plans-status-pending": "Статус: обробка"
   }
 }

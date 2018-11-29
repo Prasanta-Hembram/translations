@@ -7,8 +7,6 @@
     "suite-page-organization-plans-all-seats-available": "{numberOfSeats} available",
     "suite-page-organization-plans-all-seats-in-left": "{available}/{quantity} left",
     "suite-page-organization-plans-all-seats-only-left": "Only {numberOfSeats} left",
-    "suite-page-organization-plans-all-seats-sold-out": "Sold out",
-    "suite-page-organization-plans-all-status-3d-secure": "Status: 3-D Secure Required",
-    "suite-page-organization-plans-all-status-pending": "Status: Pending"
+    "suite-page-organization-plans-all-seats-sold-out": "Sold out"
   }
 }

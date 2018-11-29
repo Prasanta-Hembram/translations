@@ -7,8 +7,6 @@
     "suite-page-organization-plans-all-seats-available": "{numberOfSeats}개 구매 가능",
     "suite-page-organization-plans-all-seats-in-left": "재고 {available}개/총 {quantity}개",
     "suite-page-organization-plans-all-seats-only-left": "재고 {numberOfSeats}개",
-    "suite-page-organization-plans-all-seats-sold-out": "매진",
-    "suite-page-organization-plans-all-status-3d-secure": "3-D 보안 인증 필요",
-    "suite-page-organization-plans-all-status-pending": "대기 중"
+    "suite-page-organization-plans-all-seats-sold-out": "매진"
   }
 }

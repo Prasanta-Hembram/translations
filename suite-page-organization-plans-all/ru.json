@@ -7,8 +7,6 @@
     "suite-page-organization-plans-all-seats-available": "{numberOfSeats} доступно",
     "suite-page-organization-plans-all-seats-in-left": "{available}/{quantity} доступно",
     "suite-page-organization-plans-all-seats-only-left": "Осталось всего {numberOfSeats}",
-    "suite-page-organization-plans-all-seats-sold-out": "Продано",
-    "suite-page-organization-plans-all-status-3d-secure": "Статус: необходимо подтвердить платеж",
-    "suite-page-organization-plans-all-status-pending": "Статус: обработка"
+    "suite-page-organization-plans-all-seats-sold-out": "Продано"
   }
 }
