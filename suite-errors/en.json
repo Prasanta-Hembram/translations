@@ -9,7 +9,7 @@
     "suite-errors-card-is-missing": "Card didn't work",
     "suite-errors-card-number-is-invalid": "Card number is empty or invalid",
     "suite-errors-last-integration-delete": "Last login method cannot be deleted",
-    "suite-errors-invalid-params": "Reject to update. Params is invalid.",
+    "suite-errors-invalid-params": "Something went wrong. Please try again.",
     "suite-errors-no-enough-cash": "Not enough cash",
     "suite-errors-no-internet": "No internet connection",
     "suite-errors-payment-failure": "Payment failure",

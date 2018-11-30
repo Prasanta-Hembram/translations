@@ -9,7 +9,7 @@
     "suite-errors-card-is-missing": "Картка не пройшла",
     "suite-errors-card-number-is-invalid": "Номер картки порожній або недійсний",
     "suite-errors-last-integration-delete": "Останній метод входу не може бути видалений",
-    "suite-errors-invalid-params": "Відмова. Параметри недійсні.",
+    "suite-errors-invalid-params": "Щось пішло не так. Будь ласка спробуйте ще раз.",
     "suite-errors-no-enough-cash": "Недостатньо готівки",
     "suite-errors-no-internet": "Немає інтернет-з'єднання",
     "suite-errors-payment-failure": "Оплата не пройшла",

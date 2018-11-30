@@ -9,7 +9,7 @@
     "suite-errors-card-is-missing": "Карточка не прошла",
     "suite-errors-card-number-is-invalid": "Номер карты пуст или недействителен",
     "suite-errors-last-integration-delete": "Последний метод входа не может быть удален",
-    "suite-errors-invalid-params": "Не удалось обновить. Параметры недействительны.",
+    "suite-errors-invalid-params": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
     "suite-errors-no-enough-cash": "Недостаточно наличных",
     "suite-errors-no-internet": "Нет интернет-соединения",
     "suite-errors-payment-failure": "Платеж не прошел",
