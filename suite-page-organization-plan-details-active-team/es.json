@@ -1,0 +1,22 @@
+{
+  "data": {
+    "suite-page-organization-plan-details-active-team-title": "Plan activo",
+    "suite-page-organization-plan-details-active-team-title-with-plan-title": "Plan activo: {title}",
+    "suite-page-organization-plan-details-active-team-credits": "Créditos",
+    "suite-page-organization-plan-details-active-team-deactivate": "Desactivar",
+    "suite-page-organization-plan-details-active-team-empty": "Este plan no existe o puede haber sido eliminado 😕",
+    "suite-page-organization-plan-details-active-team-payment-cash-desc": "Pago recibido",
+    "suite-page-organization-plan-details-active-team-payment-cash-paid": "Pagado",
+    "suite-page-organization-plan-details-active-team-payment-cash-title": "Estado",
+    "suite-page-organization-plan-details-active-team-payment-cash-unpaid": "No pagado",
+    "suite-page-organization-plan-details-active-team-period-from-title": "Desde",
+    "suite-page-organization-plan-details-active-team-period-pay-with-cash-title": "Dinero",
+    "suite-page-organization-plan-details-active-team-period-pay-with-title": "Page con",
+    "suite-page-organization-plan-details-active-team-period-title": "Periodo",
+    "suite-page-organization-plan-details-active-team-period-until-title": "Hasta",
+    "suite-page-organization-plan-details-active-team-permission-denied": "No tienes permiso para acceder a esta página.",
+    "suite-page-organization-plan-details-active-team-price": "Precio",
+    "suite-page-organization-plan-details-active-team-seats": "Asientos",
+    "suite-page-organization-plan-details-active-team-type": "Insertar"
+  }
+}
