@@ -9,6 +9,7 @@
     "suite-errors-card-is-missing": "La tarjeta no funcionó",
     "suite-errors-card-number-is-invalid": "El número de la tarjeta está vacío o inválido",
     "suite-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión",
+    "suite-errors-invalid-params": "Rechazar para actualizar. Los parámetros no son válidos.",
     "suite-errors-no-enough-cash": "No hay suficiente efectivo",
     "suite-errors-no-internet": "Sin conexión a Internet",
     "suite-errors-payment-failure": "Fracaso de pago",
