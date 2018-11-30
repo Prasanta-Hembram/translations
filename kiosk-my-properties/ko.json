@@ -1,9 +1,6 @@
 {
   "data": {
     "kiosk-page-my-properties-title": "나의 시설",
-    "kiosk-page-my-properties-availability-available": "예약 가능",
-    "kiosk-page-my-properties-availability-in-minutes": "{time} 예약 가능",
-    "kiosk-page-my-properties-availability-unavailable": "예약 불가",
     "kiosk-page-my-properties-button-logout": "로그아웃",
     "kiosk-page-my-properties-error-no-internet": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "kiosk-page-my-properties-error-no-properties-in-organization": "공간에 시설이 없습니다. 😕",

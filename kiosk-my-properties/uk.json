@@ -1,9 +1,6 @@
 {
   "data": {
     "kiosk-page-my-properties-title": "Мої кімнати",
-    "kiosk-page-my-properties-availability-available": "Доступно",
-    "kiosk-page-my-properties-availability-in-minutes": "Доступно {time}",
-    "kiosk-page-my-properties-availability-unavailable": "Недоступно",
     "kiosk-page-my-properties-button-logout": "Вийти з системи",
     "kiosk-page-my-properties-error-no-internet": "Коворкінги не відображаються. Перевірте інтернет-з'єднання.",
     "kiosk-page-my-properties-error-no-properties-in-organization": "У коворкінгу немає кімнат. 😕",
