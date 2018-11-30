@@ -13,7 +13,7 @@
     "suite-utils-transactions-money-transaction-status-pending": "Обработка",
     "suite-utils-transactions-money-transaction-status-unpaid": "Неоплачено",
     "suite-utils-transactions-point-transaction-book-by-points": "Бронь переговорной (кредиты)",
-    "suite-utils-transactions-point-transaction-book-by-points-with-admin-name": "Бронь переговорной (кредиты) через {name}",
+    "suite-utils-transactions-point-transaction-book-by-points-with-name": "Бронь переговорной (кредиты) через {name}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Отмена брони переговорной (кредиты)",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Списано кредиты администратором/модератором",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списано кредиты ({name})",

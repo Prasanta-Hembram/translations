@@ -13,7 +13,7 @@
     "suite-utils-transactions-money-transaction-status-pending": "Pending",
     "suite-utils-transactions-money-transaction-status-unpaid": "Unpaid",
     "suite-utils-transactions-point-transaction-book-by-points": "Booked room (credits)",
-    "suite-utils-transactions-point-transaction-book-by-points-with-admin-name": "Booked room (credits) by {name}",
+    "suite-utils-transactions-point-transaction-book-by-points-with-name": "Booked room (credits) by {name}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Cancelled room booking (credits)",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Credits charged by admin/moderator",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Credits charged by {name}",

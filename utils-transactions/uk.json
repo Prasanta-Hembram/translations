@@ -13,7 +13,7 @@
     "suite-utils-transactions-money-transaction-status-pending": "Обробка",
     "suite-utils-transactions-money-transaction-status-unpaid": "Неоплачено",
     "suite-utils-transactions-point-transaction-book-by-points": "Резервація кімнати (кредити)",
-    "suite-utils-transactions-point-transaction-book-by-points-with-admin-name": "Резервація кімнати (кредити) через {name}",
+    "suite-utils-transactions-point-transaction-book-by-points-with-name": "Резервація кімнати (кредити) через {name}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Списано кредити адміністратором/модератором",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списано кредити ({name})",
