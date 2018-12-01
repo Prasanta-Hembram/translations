@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-plan-details-active-team-title": "Plan activo",
+    "suite-page-organization-plan-details-active-team-title-details": "Detalles del plan",
     "suite-page-organization-plan-details-active-team-title-with-plan-title": "Plan activo: {title}",
     "suite-page-organization-plan-details-active-team-credits": "Créditos",
     "suite-page-organization-plan-details-active-team-deactivate": "Desactivar",
@@ -16,6 +17,7 @@
     "suite-page-organization-plan-details-active-team-period-until-title": "Hasta",
     "suite-page-organization-plan-details-active-team-permission-denied": "No tienes permiso para acceder a esta página.",
     "suite-page-organization-plan-details-active-team-price": "Precio",
+    "suite-page-organization-plan-details-active-team-pricing": "Precios",
     "suite-page-organization-plan-details-active-team-seats": "Asientos",
     "suite-page-organization-plan-details-active-team-type": "Insertar"
   }

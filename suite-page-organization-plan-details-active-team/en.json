@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-plan-details-active-team-title": "Active plan",
+    "suite-page-organization-plan-details-active-team-title-details": "Plan details",
     "suite-page-organization-plan-details-active-team-title-with-plan-title": "Active plan: {title}",
     "suite-page-organization-plan-details-active-team-credits": "Credits",
     "suite-page-organization-plan-details-active-team-deactivate": "Deactivate",
@@ -16,6 +17,7 @@
     "suite-page-organization-plan-details-active-team-period-until-title": "Until",
     "suite-page-organization-plan-details-active-team-permission-denied": "You don't have permission to access this page.",
     "suite-page-organization-plan-details-active-team-price": "Price",
+    "suite-page-organization-plan-details-active-team-pricing": "Pricing",
     "suite-page-organization-plan-details-active-team-seats": "Capacity",
     "suite-page-organization-plan-details-active-team-type": "Type"
   }
