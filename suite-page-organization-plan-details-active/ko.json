@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-plan-details-active-title": "나의 멤버십 플랜",
+    "suite-page-organization-plan-details-active-title-details": "플랜 정보",
     "suite-page-organization-plan-details-active-title-with-plan-title": "나의 멤버십 플랜: {title}",
     "suite-page-organization-plan-details-active-auto-renew": "멤버십 구독 자동갱신",
     "suite-page-organization-plan-details-active-credits": "크레딧",
@@ -18,6 +19,7 @@
     "suite-page-organization-plan-details-active-period-until-title": "종료시간",
     "suite-page-organization-plan-details-active-permission-denied": "볼 수있는 권한이 없습니다.",
     "suite-page-organization-plan-details-active-price": "가격",
+    "suite-page-organization-plan-details-active-pricing": "가격 정책",
     "suite-page-organization-plan-details-active-seats": "좌석 수",
     "suite-page-organization-plan-details-active-subscribe-alert": "멤버십 플랜 연장 완료",
     "suite-page-organization-plan-details-active-type": "유형",

@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-plan-details-active-title": "Текущий план",
+    "suite-page-organization-plan-details-active-title-details": "Детали тарифа",
     "suite-page-organization-plan-details-active-title-with-plan-title": "Текущий план: {title}",
     "suite-page-organization-plan-details-active-auto-renew": "Продлевать автоматически",
     "suite-page-organization-plan-details-active-credits": "Кредиты",
@@ -18,6 +19,7 @@
     "suite-page-organization-plan-details-active-period-until-title": "Конец",
     "suite-page-organization-plan-details-active-permission-denied": "Нет прав доступа для просмотра этой страницы.",
     "suite-page-organization-plan-details-active-price": "Цена",
+    "suite-page-organization-plan-details-active-pricing": "Цены",
     "suite-page-organization-plan-details-active-seats": "Раб. мест",
     "suite-page-organization-plan-details-active-subscribe-alert": "Подписка активирована",
     "suite-page-organization-plan-details-active-type": "Тип",

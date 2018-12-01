@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-plan-details-active-title": "Plan activo",
+    "suite-page-organization-plan-details-active-title-details": "Detalles del plan",
     "suite-page-organization-plan-details-active-title-with-plan-title": "Plan activo: {title}",
     "suite-page-organization-plan-details-active-auto-renew": "Renovar subscripción automáticamente",
     "suite-page-organization-plan-details-active-credits": "Créditos",
@@ -18,6 +19,7 @@
     "suite-page-organization-plan-details-active-period-until-title": "Hasta",
     "suite-page-organization-plan-details-active-permission-denied": "No tienes permiso para acceder a esta página.",
     "suite-page-organization-plan-details-active-price": "Precio",
+    "suite-page-organization-plan-details-active-pricing": "Precios",
     "suite-page-organization-plan-details-active-seats": "Asientos",
     "suite-page-organization-plan-details-active-subscribe-alert": "La subscripción ha sido activada",
     "suite-page-organization-plan-details-active-type": "Insertar",
