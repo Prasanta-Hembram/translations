@@ -16,8 +16,6 @@
     "suite-page-organization-user-membership-settings-cash-balance-title": "현금 잔액",
     "suite-page-organization-user-membership-settings-delete-user-action-sheet": "사용자 삭제",
     "suite-page-organization-user-membership-settings-error-user-not-found": "회원이 존재하지 않거나 삭제되었을 수 있습니다.😕",
-    "suite-page-organization-user-membership-settings-leave-failure": "조직을 떠나지 못했습니다. 🙁",
-    "suite-page-organization-user-membership-settings-leave-organization": "이 조직 나가기",
     "suite-page-organization-user-membership-settings-leave-repeat": "다시시도",
     "suite-page-organization-user-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",

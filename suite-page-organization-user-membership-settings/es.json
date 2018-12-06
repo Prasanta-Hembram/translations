@@ -16,8 +16,6 @@
     "suite-page-organization-user-membership-settings-cash-balance-title": "Balance en efectivo",
     "suite-page-organization-user-membership-settings-delete-user-action-sheet": "Eliminar del área de trabajo",
     "suite-page-organization-user-membership-settings-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado. 😕",
-    "suite-page-organization-user-membership-settings-leave-failure": "Error al salir del espacio de trabajo. 🙁",
-    "suite-page-organization-user-membership-settings-leave-organization": "Salir del espacio de trabajo",
     "suite-page-organization-user-membership-settings-leave-repeat": "Inténtalo de nuevo",
     "suite-page-organization-user-membership-settings-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",

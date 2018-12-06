@@ -16,8 +16,6 @@
     "suite-page-organization-user-membership-settings-cash-balance-title": "Cash Balance",
     "suite-page-organization-user-membership-settings-delete-user-action-sheet": "Remove user from workspace",
     "suite-page-organization-user-membership-settings-error-user-not-found": "This user may not exist or may have been removed. 😕",
-    "suite-page-organization-user-membership-settings-leave-failure": "Failed to leave the workspace. 🙁",
-    "suite-page-organization-user-membership-settings-leave-organization": "Leave workspace",
     "suite-page-organization-user-membership-settings-leave-repeat": "Try again",
     "suite-page-organization-user-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
     "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
