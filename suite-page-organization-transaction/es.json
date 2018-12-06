@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-transaction-amount-label": "Cantidad",
+    "suite-page-organization-transaction-date-label": "Fecha",
+    "suite-page-organization-transaction-not-found": "Esta transacción puede no existir o puede haber sido eliminada. 😕",
+    "suite-page-organization-transaction-paid-with-label": "Pagado con",
+    "suite-page-organization-transaction-paid-with-card": "Tarjeta",
+    "suite-page-organization-transaction-paid-with-cash": "Efectivo",
+    "suite-page-organization-transaction-paid-with-for-free": "Gratis",
+    "suite-page-organization-transaction-status-label": "Estado",
+    "suite-page-organization-transaction-status-desc": "Pago recibido",
+    "suite-page-organization-transaction-type-label": "Insertar",
+    "suite-page-organization-transaction-title": "Detalles de la transacción"
+  }
+}

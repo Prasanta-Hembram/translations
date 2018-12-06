@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-transaction-amount-label": "Сума",
+    "suite-page-organization-transaction-date-label": "Дата",
+    "suite-page-organization-transaction-not-found": "Ця транзакція не існує або була видалена. 😕",
+    "suite-page-organization-transaction-paid-with-label": "Оплачено",
+    "suite-page-organization-transaction-paid-with-card": "Карткою",
+    "suite-page-organization-transaction-paid-with-cash": "Готівкою",
+    "suite-page-organization-transaction-paid-with-for-free": "Безкоштовно",
+    "suite-page-organization-transaction-status-label": "Статус",
+    "suite-page-organization-transaction-status-desc": "Оплачено",
+    "suite-page-organization-transaction-type-label": "Тип",
+    "suite-page-organization-transaction-title": "Деталі транзакції"
+  }
+}
