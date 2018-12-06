@@ -21,8 +21,6 @@
     "suite-page-organization-plans-occupancy": "Utilización del espacio: total de asientos ocupados dividido por el total de asientos disponibles.",
     "suite-page-organization-plans-personal-title": "Personal",
     "suite-page-organization-plans-plan-team-title": "{teamName} Equipo",
-    "suite-page-organization-plans-price-from": "Desde {price}",
-    "suite-page-organization-plans-status-3d-secure": "Estado: Seguro 3-D requerido",
-    "suite-page-organization-plans-status-pending": "Estado: Pendiente"
+    "suite-page-organization-plans-price-from": "Desde {price}"
   }
 }

@@ -9,6 +9,7 @@
     "utils-plans-period-ends": "{daysLeft} 종료",
     "utils-plans-period-last-day": "종료 일",
     "utils-plans-period-renews": "{daysLeft} 갱신",
+    "utils-plans-period-status-pending": "대기 중",
     "utils-plans-title-fixed-desk": "전용 데스크",
     "utils-plans-title-hot-desk": "핫 데스크",
     "utils-plans-title-pass": "패스",

@@ -21,8 +21,6 @@
     "suite-page-organization-plans-occupancy": "Заполненность пространства — пропорция занятых мест в общем кол-ве мест.",
     "suite-page-organization-plans-personal-title": "Личный план",
     "suite-page-organization-plans-plan-team-title": "Команда {teamName}",
-    "suite-page-organization-plans-price-from": "От {price}",
-    "suite-page-organization-plans-status-3d-secure": "Статус: необходимо подтвердить платеж",
-    "suite-page-organization-plans-status-pending": "Статус: обработка"
+    "suite-page-organization-plans-price-from": "От {price}"
   }
 }

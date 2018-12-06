@@ -9,6 +9,7 @@
     "utils-plans-period-ends": "Ends {daysLeft}",
     "utils-plans-period-last-day": "Last day",
     "utils-plans-period-renews": "Renews {daysLeft}",
+    "utils-plans-period-status-pending": "Status: Pending",
     "utils-plans-title-fixed-desk": "Fixed Desk",
     "utils-plans-title-hot-desk": "Hot Desk",
     "utils-plans-title-pass": "Pass",
