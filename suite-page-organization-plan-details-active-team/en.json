@@ -6,6 +6,7 @@
     "suite-page-organization-plan-details-active-team-credits": "Credits",
     "suite-page-organization-plan-details-active-team-deactivate": "Deactivate",
     "suite-page-organization-plan-details-active-team-empty": "This plan may not exist or may have been removed. 😕",
+    "suite-page-organization-plan-details-active-team-error-user-not-found": "This team may not exists or may have been removed. 😕",
     "suite-page-organization-plan-details-active-team-payment-cash-desc": "Payment received",
     "suite-page-organization-plan-details-active-team-payment-cash-paid": "Paid",
     "suite-page-organization-plan-details-active-team-payment-cash-title": "Status",

@@ -6,6 +6,7 @@
     "suite-page-organization-plan-details-active-team-credits": "크레딧",
     "suite-page-organization-plan-details-active-team-deactivate": "해지하기",
     "suite-page-organization-plan-details-active-team-empty": "이 사항은 변경되거나 없어질 수 있습니다 😕",
+    "suite-page-organization-plan-details-active-team-error-user-not-found": "팀이 존재하지 않거나 삭제되었을 수 있습니다.😕",
     "suite-page-organization-plan-details-active-team-payment-cash-desc": "결제 완료",
     "suite-page-organization-plan-details-active-team-payment-cash-paid": "결제 완료",
     "suite-page-organization-plan-details-active-team-payment-cash-title": "결제 사항",

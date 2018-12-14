@@ -7,6 +7,7 @@
     "suite-page-organization-plan-details-active-credits": "Créditos",
     "suite-page-organization-plan-details-active-deactivate": "Desactivar",
     "suite-page-organization-plan-details-active-empty": "Este plan no existe o puede haber sido eliminado 😕",
+    "suite-page-organization-plan-details-active-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado. 😕",
     "suite-page-organization-plan-details-active-payment-cash-desc": "Pago recibido",
     "suite-page-organization-plan-details-active-payment-cash-paid": "Pagado",
     "suite-page-organization-plan-details-active-payment-cash-title": "Estado",

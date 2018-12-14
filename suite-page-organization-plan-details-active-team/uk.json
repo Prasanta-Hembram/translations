@@ -6,6 +6,7 @@
     "suite-page-organization-plan-details-active-team-credits": "Кредити",
     "suite-page-organization-plan-details-active-team-deactivate": "Деактивувати",
     "suite-page-organization-plan-details-active-team-empty": "Цього плану не існує, або ж він був видалений. 😕",
+    "suite-page-organization-plan-details-active-team-error-user-not-found": "Ця команда не існує або ж була видалена. 😕",
     "suite-page-organization-plan-details-active-team-payment-cash-desc": "Оплачено",
     "suite-page-organization-plan-details-active-team-payment-cash-paid": "Оплачено",
     "suite-page-organization-plan-details-active-team-payment-cash-title": "Статус",
