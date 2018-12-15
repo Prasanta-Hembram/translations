@@ -7,6 +7,7 @@
     "suite-page-organization-plan-details-active-credits": "Кредиты",
     "suite-page-organization-plan-details-active-deactivate": "Отменить",
     "suite-page-organization-plan-details-active-empty": "Этого плана не существует, или же он был удален. 😕",
+    "suite-page-organization-plan-details-active-error-user-not-found": "Участника не существует или же он был удален.😕",
     "suite-page-organization-plan-details-active-payment-cash-desc": "Сплачено",
     "suite-page-organization-plan-details-active-payment-cash-paid": "Сплачено",
     "suite-page-organization-plan-details-active-payment-cash-title": "Статус",

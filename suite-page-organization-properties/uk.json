@@ -3,6 +3,7 @@
     "suite-page-organization-properties-title": "Резервації",
     "suite-page-organization-properties-availability-available": "Доступно",
     "suite-page-organization-properties-availability-in-minutes": "Доступно {time}",
+    "suite-page-organization-properties-availability-in-use": "Використовується",
     "suite-page-organization-properties-availability-unavailable": "Недоступно",
     "suite-page-organization-properties-bookings-button-export-title": "Експорт у календар",
     "suite-page-organization-properties-bookings-button-my-title": "Усі мої резервації",
