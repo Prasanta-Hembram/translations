@@ -9,6 +9,7 @@
     "suite-page-my-coworkings-create-alert-submit-success": "가입 요청 완료",
     "suite-page-my-coworkings-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-my-coworkings-no-coworkings": "공간에 가입하기 위해서는 태그를 입력해야 합니다. 보통 워크스페이스 라벨에 게시되어 있으니 확인해주세요.",
+    "suite-page-my-coworkings-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved.",
     "suite-page-my-coworkings-search-internet-error": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-my-coworkings-search-nothing-found": "아무것도 없습니다. 😢",
     "suite-page-my-coworkings-search-placeholder": "공간 태그"

@@ -9,6 +9,7 @@
     "suite-page-my-coworkings-create-alert-submit-success": "Su solicitud fue enviada para su aprobación",
     "suite-page-my-coworkings-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-my-coworkings-no-coworkings": "Para unirte a un espacio de trabajo, necesitas conocer su etiqueta. Por lo general, está impreso en una etiqueta de espacio de trabajo.",
+    "suite-page-my-coworkings-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved.",
     "suite-page-my-coworkings-search-internet-error": "No se pudo obtener el espacio de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-my-coworkings-search-nothing-found": "No se ha encontrado nada. 😢",
     "suite-page-my-coworkings-search-placeholder": "etiqueta del espacio de trabajo"

@@ -9,6 +9,7 @@
     "suite-page-my-coworkings-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг",
     "suite-page-my-coworkings-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-my-coworkings-no-coworkings": "Щоб приєднатися до коворкінгу потрібен особливий код. Його надруковано на позначці коворкінга, яка схожа на мініатюру зверху. 👆",
+    "suite-page-my-coworkings-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved.",
     "suite-page-my-coworkings-search-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-my-coworkings-search-nothing-found": "Нічого не знайдено. 😢",
     "suite-page-my-coworkings-search-placeholder": "тег коворкінгу"
