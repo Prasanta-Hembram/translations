@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-my-coworking-search-main-title": "Мои коворкинги",
+    "suite-page-my-coworking-search-action-button-requested": "Запрос отправлен",
+    "suite-page-my-coworking-search-button-join": "Присоединиться",
+    "suite-page-my-coworking-search-button-open-organization": "Открыть",
+    "suite-page-my-coworking-search-button-request": "Вступить",
+    "suite-page-my-coworking-search-button-search": "Поиск",
+    "suite-page-my-coworking-search-create-alert-submit-success": "Запрос успешно отправлен на рассмотрение",
+    "suite-page-my-coworking-search-get-failure": "Коворкинги не отображаются. Проверьте, все ли хорошо с интернет соединением.",
+    "suite-page-my-coworking-search-no-coworkings": "Чтобы присоединиться к коворкингу нужен специальный код. Обычно он напечатан на отметке, похожей на миниатюру изображенную над этим текстом. 👆",
+    "suite-page-my-coworking-search-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved.",
+    "suite-page-my-coworking-search-search-internet-error": "Невозможно отобразить список. Проверьте соединение с интернетом.",
+    "suite-page-my-coworking-search-search-nothing-found": "Ничего не найдено. 😢",
+    "suite-page-my-coworking-search-search-placeholder": "тег коворкинга"
+  }
+}

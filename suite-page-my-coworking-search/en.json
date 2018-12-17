@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-my-coworking-search-main-title": "My workspaces",
+    "suite-page-my-coworking-search-action-button-requested": "Requested",
+    "suite-page-my-coworking-search-button-join": "Join",
+    "suite-page-my-coworking-search-button-open-organization": "Open",
+    "suite-page-my-coworking-search-button-request": "Request to join",
+    "suite-page-my-coworking-search-button-search": "Search",
+    "suite-page-my-coworking-search-create-alert-submit-success": "Your request was sent",
+    "suite-page-my-coworking-search-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
+    "suite-page-my-coworking-search-no-coworkings": "To join a workspace you need to enter a special tag. Usually it's printed on a label that looks like image above. 👆",
+    "suite-page-my-coworking-search-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved.",
+    "suite-page-my-coworking-search-search-internet-error": "Couldn't get workspace. Are you sure there is an internet connection?",
+    "suite-page-my-coworking-search-search-nothing-found": "Nothing found. 😢",
+    "suite-page-my-coworking-search-search-placeholder": "workspace tag"
+  }
+}
