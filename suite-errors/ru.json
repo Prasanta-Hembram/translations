@@ -15,6 +15,7 @@
     "suite-errors-payment-failure": "Платеж не прошел",
     "suite-errors-payment-price-high": "Сумма слишком большая. Максимальная сумма составляет 5000 долларов США.",
     "suite-errors-payment-price-low": "Сумма слишком мала. Минимальная сумма составляет 0,5 доллара США.",
+    "suite-errors-plan-assign-in-future": "Cannot assign plan for future date.",
     "suite-errors-plan-delete-reject": "Невозможно удалить: план используется",
     "suite-errors-plan-periods-empty": "Нужно выбрать хотя бы один период",
     "suite-errors-plan-sold-out": "План распродан",

@@ -15,6 +15,7 @@
     "suite-errors-payment-failure": "결제 실패",
     "suite-errors-payment-price-high": "금액이 너무 높습니다. 최대 결제 가능금액은 US$5,000입니다.",
     "suite-errors-payment-price-low": "금액이 너무 낮습니다. 최소 결제 가능금액은 US$0.50입니다.",
+    "suite-errors-plan-assign-in-future": "Cannot assign plan for future date.",
     "suite-errors-plan-delete-reject": "삭제 실패 : 플랜 사용 중",
     "suite-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요",
     "suite-errors-plan-sold-out": "플랜 품절",
