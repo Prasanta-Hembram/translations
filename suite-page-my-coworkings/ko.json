@@ -5,6 +5,6 @@
     "suite-page-my-coworkings-button-search": "검색",
     "suite-page-my-coworkings-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-my-coworkings-no-coworkings": "공간에 가입하기 위해서는 태그를 입력해야 합니다. 보통 워크스페이스 라벨에 게시되어 있으니 확인해주세요.",
-    "suite-page-my-coworkings-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved."
+    "suite-page-my-coworkings-requested-text": "관리자가 요청을 검토하고 있습니다. 검토가 완료되는 대로 알려 드리겠습니다."
   }
 }
