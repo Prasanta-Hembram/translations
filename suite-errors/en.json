@@ -15,6 +15,7 @@
     "suite-errors-payment-failure": "Payment failure",
     "suite-errors-payment-price-high": "The amount is too high. The maximum charge is US$5,000 equivalent.",
     "suite-errors-payment-price-low": "The amount is too small. The minimum charge is US$0.5 equivalent.",
+    "suite-errors-plan-assign-in-future": "Can't assign a plan starting a date in the future.",
     "suite-errors-plan-delete-reject": "Unable to delete: plan in use",
     "suite-errors-plan-periods-empty": "Plan must have at least 1 period",
     "suite-errors-plan-sold-out": "Plan is sold out",
