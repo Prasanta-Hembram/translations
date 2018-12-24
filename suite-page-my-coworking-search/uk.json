@@ -5,9 +5,10 @@
     "suite-page-my-coworking-search-button-open-organization": "Відкрити",
     "suite-page-my-coworking-search-button-request": "Приєднатись",
     "suite-page-my-coworking-search-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг",
-    "suite-page-my-coworking-search-no-coworkings": "Щоб приєднатися до коворкінгу потрібен особливий тег. Його надруковано на позначці коворкінга, що зображено на картинці.",
     "suite-page-my-coworking-search-search-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-my-coworking-search-search-nothing-found": "Нічого не знайдено. 😢",
-    "suite-page-my-coworking-search-search-placeholder": "Тег коворкінгу"
+    "suite-page-my-coworking-search-search-placeholder": "Тег коворкінгу",
+    "suite-page-my-coworking-search-section-look-around-text": "Щоб приєднатися до коворкінгу потрібен особливий тег. Його надруковано на позначці коворкінга, що зображено на картинці.",
+    "suite-page-my-coworking-search-section-look-around-title": "Подивіться навколо"
   }
 }
