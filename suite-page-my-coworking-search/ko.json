@@ -8,6 +8,8 @@
     "suite-page-my-coworking-search-no-coworkings": "공간에 가입하기 위해서는 특별 태그를 입력해야 합니다. 보통 워크스페이스 라벨에 게시되어 있으니 확인해주세요.",
     "suite-page-my-coworking-search-search-internet-error": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-my-coworking-search-search-nothing-found": "아무것도 없습니다. 😢",
-    "suite-page-my-coworking-search-search-placeholder": "공간 태그"
+    "suite-page-my-coworking-search-search-placeholder": "공간 태그",
+    "suite-page-my-coworking-search-section-look-around-text": "To join coworking space, enter its unique tag below. You can find it printed on a label that looks like the image.",
+    "suite-page-my-coworking-search-section-look-around-title": "Look around"
   }
 }
