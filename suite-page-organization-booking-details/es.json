@@ -17,7 +17,6 @@
     "suite-page-organization-booking-details-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-booking-details-empty": "Esta reserva puede no existir o puede haber sido eliminada. 😕",
     "suite-page-organization-booking-details-end-time": "Finalización",
-    "suite-page-organization-booking-details-fetch-failure": "No se pudo mostrar la reserva ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-booking-details-lock-code": "Código PIN",
     "suite-page-organization-booking-details-lock-code-desc": "La puerta de la sala de reuniones está equipada con una cerradura inteligente. Para abrir la puerta, ingrese el código que se muestra arriba seguido de #. El código de bloqueo es válido solo durante el tiempo de reserva.",
     "suite-page-organization-booking-details-memo": "Nota",

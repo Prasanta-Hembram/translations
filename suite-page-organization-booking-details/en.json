@@ -17,7 +17,6 @@
     "suite-page-organization-booking-details-delete-repeat": "Try again",
     "suite-page-organization-booking-details-empty": "This booking may not exist or may have been removed. 😕",
     "suite-page-organization-booking-details-end-time": "Ending",
-    "suite-page-organization-booking-details-fetch-failure": "Couldn't show booking. Are you sure there is an internet connection?",
     "suite-page-organization-booking-details-lock-code": "Lock code",
     "suite-page-organization-booking-details-lock-code-desc": "The meeting room door is equipped with a smart lock. To open the door, enter the code displayed above followed by #. The lock code is valid only during the booking time.",
     "suite-page-organization-booking-details-memo": "Memo",
