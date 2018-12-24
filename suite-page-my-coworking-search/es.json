@@ -5,11 +5,10 @@
     "suite-page-my-coworking-search-button-open-organization": "Abierto",
     "suite-page-my-coworking-search-button-request": "Solicitud de ingreso",
     "suite-page-my-coworking-search-create-alert-submit-success": "Su solicitud fue enviada para su aprobación",
-    "suite-page-my-coworking-search-no-coworkings": "Para unirse al espacio de coworking, ingrese su etiqueta única a continuación. Puede encontrarlo impreso en una etiqueta que se parece a la imagen.",
     "suite-page-my-coworking-search-search-internet-error": "No se pudo obtener el espacio de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-my-coworking-search-search-nothing-found": "No se ha encontrado nada. 😢",
     "suite-page-my-coworking-search-search-placeholder": "Etiqueta del espacio de trabajo",
-    "suite-page-my-coworking-search-section-look-around-text": "To join coworking space, enter its unique tag below. You can find it printed on a label that looks like the image.",
+    "suite-page-my-coworking-search-section-look-around-text": "Para unirse al espacio de coworking, ingrese su etiqueta única a continuación. Puede encontrarlo impreso en una etiqueta que se parece a la imagen.",
     "suite-page-my-coworking-search-section-look-around-title": "Look around"
   }
 }
