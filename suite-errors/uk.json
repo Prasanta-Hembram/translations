@@ -3,6 +3,7 @@
     "suite-errors-announcement-missing": "Пост відсутній або видалений",
     "suite-errors-available-balance-error": "Зв'яжіться з банком, аби перевірити доступний баланс",
     "suite-errors-booking-conflict": "Інша резервація вже існує у вибраний час",
+    "suite-errors-booking-point-balance-invalid": "Вичерпано доступний баланс кредитів.",
     "suite-errors-booking-unallowed-time-period": "Вибраний період бронювання недійсний",
     "suite-errors-card-cvv-is-invalid": "CVV-код порожній або недійсний",
     "suite-errors-card-expiration-is-invalid": "Термін дії картки порожній або недійсний",
