@@ -34,7 +34,7 @@
     "suite-page-organization-booking-create-purpose": "Title",
     "suite-page-organization-booking-create-purpose-placeholder": "Add title (public)",
     "suite-page-organization-booking-create-query-params": "Couldn't show the page. Please, try again. 😕",
-    "suite-page-organization-booking-create-quite-description": "{pointQuote}% of your credits are available for booking at {organizationName}",
+    "suite-page-organization-booking-create-quite-description": "{pointQuote}% of your credits are available for booking at {organizationName}.",
     "suite-page-organization-booking-create-role-admin": "Administrator",
     "suite-page-organization-booking-create-role-member": "Member",
     "suite-page-organization-booking-create-role-moderator": "Moderator",
