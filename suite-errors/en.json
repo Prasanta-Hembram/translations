@@ -3,7 +3,7 @@
     "suite-errors-announcement-missing": "The post is missing or has been deleted",
     "suite-errors-available-balance-error": "Contact your card issuer to check available balance",
     "suite-errors-booking-conflict": "Another booking already exists at the same time",
-    "suite-errors-booking-point-balance-invalid": "Allowed point balance has been spent.",
+    "suite-errors-booking-point-balance-invalid": "No available credits.",
     "suite-errors-booking-unallowed-time-period": "The booking period is invalid",
     "suite-errors-card-cvv-is-invalid": "CVV is empty or invalid",
     "suite-errors-card-expiration-is-invalid": "Expiration date is empty or invalid",
