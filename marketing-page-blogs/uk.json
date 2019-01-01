@@ -2,6 +2,9 @@
   "data": {
     "marketing-page-blogs-title": "Блоґи — рекомендації коворкінг центрів та цікаві історії | andCards",
     "marketing-page-blogs-description": "Блоґ про коворкінги andCards рекомендує найкращі коворкінги, цікаві місця для віддаленої роботи, а також поради в пригодах цифрових номадів.",
-    "marketing-page-blogs-h1": "Блоґи"
+    "marketing-page-blogs-h1": "Блоґи",
+    "marketing-page-blogs-subscribe-button": "Subscribe",
+    "marketing-page-blogs-subscribe-headline": "The best coworking spaces in your inbox",
+    "marketing-page-blogs-subscribe-email-placeholder": "Type your email"
   }
 }
