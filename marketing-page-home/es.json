@@ -49,6 +49,8 @@
     "marketing-page-home-features-smart-lock": "Integración de bloqueo inteligente",
     "marketing-page-home-headline": "Una aplicación para gestionar el espacio de coworking",
     "marketing-page-home-headline-2": "andCards Suite es un software de coworking creado para ayudarlo a automatizar las rutinas de administración, desde la membresía, los pagos, las reservas de salas hasta el marketing.",
+    "marketing-page-home-main-already-using-andcards": "Already using andCards Suite? {signInUrl}.",
+    "marketing-page-home-main-sign-in": "Sign in",
     "marketing-page-home-request-demo-button": "Obtener andCards Suite",
     "marketing-page-home-request-demo-email-placeholder": "Escribe tu email",
     "marketing-page-home-request-demo-title": "Power your space with andCards"
