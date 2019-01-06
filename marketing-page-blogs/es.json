@@ -2,6 +2,9 @@
   "data": {
     "marketing-page-blogs-title": "Blogs: recomendaciones e historias espaciales de Coworking | andCards",
     "marketing-page-blogs-description": "El blog de descubrimientos coworking de andCards recomienda los mejores espacios de coworking, destinos de coworking y consejos de coworking para sus aventuras nómadas digitales en todo el mundo.",
-    "marketing-page-blogs-h1": "Blogs"
+    "marketing-page-blogs-h1": "Blogs",
+    "marketing-page-blogs-subscribe-button": "Subscribe",
+    "marketing-page-blogs-subscribe-headline": "The best coworking spaces in your inbox",
+    "marketing-page-blogs-subscribe-email-placeholder": "Type your email"
   }
 }

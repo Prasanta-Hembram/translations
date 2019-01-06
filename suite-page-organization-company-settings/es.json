@@ -17,6 +17,8 @@
     "suite-page-organization-company-settings-booking-until": "Hasta",
     "suite-page-organization-company-settings-point-allocation-desc": "Si el plan de membresía dura más de 1 mes, los créditos se otorgarán mensualmente en lugar de todos a la vez.",
     "suite-page-organization-company-settings-point-allocation-label": "Dar Créditos Mensuales",
+    "suite-page-organization-company-settings-point-branch-quote-desc": "Elija qué porcentaje de créditos pueden usar los residentes de otras sucursales para reservar habitaciones en su sucursal.",
+    "suite-page-organization-company-settings-point-branch-quote-label": "Límite de crédito externo,%",
     "suite-page-organization-company-settings-point-desc": "Los miembros pueden usar créditos para reservar salas de reuniones. Los créditos se pueden recibir a través de la compra de un plan de membresía o se pueden agregar manualmente por el administrador.",
     "suite-page-organization-company-settings-point-label": "Habilitar sistema de crédito",
     "suite-page-organization-company-settings-required-fields-description": "Requerir que todos los miembros compartan la siguiente información personal:",

@@ -17,6 +17,8 @@
     "suite-page-organization-company-settings-booking-until": "Until",
     "suite-page-organization-company-settings-point-allocation-desc": "If membership plan lasts over 1 month, credits will be given monthly rather than all at once.",
     "suite-page-organization-company-settings-point-allocation-label": "Give Credits Monthly",
+    "suite-page-organization-company-settings-point-branch-quote-desc":  "Choose what percentage of credits can residents of another branches use to book rooms in your branch.",
+    "suite-page-organization-company-settings-point-branch-quote-label": "External Credit Limit, %",
     "suite-page-organization-company-settings-point-desc": "Bonus credits will be used for room booking. Admin/moderator can freely give credits to members.",
     "suite-page-organization-company-settings-point-label": "Enable Credit System",
     "suite-page-organization-company-settings-required-fields-description": "Require all members to share the following personal information:",
