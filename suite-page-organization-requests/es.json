@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-requests-title": "Unirse a las solicitudes",
-    "suite-page-organization-requests-approve": "Aprobar",
-    "suite-page-organization-requests-decline": "Rechazar",
     "suite-page-organization-requests-no-requests": "Nada que aprobar. ¡Buen trabajo! 🎉",
     "suite-page-organization-requests-permission-denied": "You don't have permission to access this page."
   }
