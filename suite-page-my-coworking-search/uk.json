@@ -2,7 +2,7 @@
   "data": {
     "suite-page-my-coworking-search-main-title": "Долучитися",
     "suite-page-my-coworking-search-action-button-requested": "Запит надіслано",
-    "suite-page-my-coworking-search-button-open-organization": "Відкрити",
+    "suite-page-my-coworking-search-button-already-joined": "Ви вже приєдналися",
     "suite-page-my-coworking-search-button-request": "Приєднатись",
     "suite-page-my-coworking-search-create-alert-submit-success": "Запит на затвердження надіслано в коворкінг",
     "suite-page-my-coworking-search-search-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",

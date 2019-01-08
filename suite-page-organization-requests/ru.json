@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-requests-title": "Запросы на присоединение",
-    "suite-page-organization-requests-approve": "Утвердить",
-    "suite-page-organization-requests-decline": "Отказать",
     "suite-page-organization-requests-no-requests": "Нечего утверждать. Хорошо постарались! 🎉",
     "suite-page-organization-requests-permission-denied": "Нет прав доступа для просмотра этой страницы."
   }

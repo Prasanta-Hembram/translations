@@ -2,7 +2,7 @@
   "data": {
     "suite-page-my-coworking-search-main-title": "공간을 참여하기",
     "suite-page-my-coworking-search-action-button-requested": "가입 요청 됨",
-    "suite-page-my-coworking-search-button-open-organization": "들어가기",
+    "suite-page-my-coworking-search-button-already-joined": "이미 가입된 공간입니다",
     "suite-page-my-coworking-search-button-request": "가입 요청",
     "suite-page-my-coworking-search-create-alert-submit-success": "가입 요청 완료",
     "suite-page-my-coworking-search-search-internet-error": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",

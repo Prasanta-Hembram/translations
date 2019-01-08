@@ -2,7 +2,7 @@
   "data": {
     "suite-page-my-coworking-search-main-title": "Присоединиться",
     "suite-page-my-coworking-search-action-button-requested": "Запрос отправлен",
-    "suite-page-my-coworking-search-button-open-organization": "Открыть",
+    "suite-page-my-coworking-search-button-already-joined": "Вы уже присоединились",
     "suite-page-my-coworking-search-button-request": "Вступить",
     "suite-page-my-coworking-search-create-alert-submit-success": "Запрос успешно отправлен на рассмотрение",
     "suite-page-my-coworking-search-search-internet-error": "Невозможно отобразить список. Проверьте соединение с интернетом.",

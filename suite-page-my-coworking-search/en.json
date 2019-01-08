@@ -2,7 +2,7 @@
   "data": {
     "suite-page-my-coworking-search-main-title": "Join Space",
     "suite-page-my-coworking-search-action-button-requested": "Requested",
-    "suite-page-my-coworking-search-button-open-organization": "Open",
+    "suite-page-my-coworking-search-button-already-joined": "You've already joined",
     "suite-page-my-coworking-search-button-request": "Request to join",
     "suite-page-my-coworking-search-create-alert-submit-success": "Your request was sent.",
     "suite-page-my-coworking-search-search-internet-error": "Couldn't get workspace. Check Internet connection and try again.",
