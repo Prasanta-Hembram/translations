@@ -6,7 +6,7 @@
     "suite-page-organization-plan-details-active-auto-renew": "Auto-renew",
     "suite-page-organization-plan-details-active-credits": "Credits",
     "suite-page-organization-plan-details-active-deactivate": "Deactivate",
-    "suite-page-organization-plan-details-active-empty": "This plan may not exist or may have been removed. 😕",
+    "suite-page-organization-plan-details-active-empty": "This plan may not exist or may have been expired. 😕",
     "suite-page-organization-plan-details-active-error-user-not-found": "This user may not exist or may have been removed. 😕",
     "suite-page-organization-plan-details-active-payment-cash-desc": "Payment received",
     "suite-page-organization-plan-details-active-payment-cash-paid": "Paid",

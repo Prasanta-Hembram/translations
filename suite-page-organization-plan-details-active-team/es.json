@@ -5,7 +5,7 @@
     "suite-page-organization-plan-details-active-team-title-with-plan-title": "Plan activo: {title}",
     "suite-page-organization-plan-details-active-team-credits": "Créditos",
     "suite-page-organization-plan-details-active-team-deactivate": "Desactivar",
-    "suite-page-organization-plan-details-active-team-empty": "Este plan no existe o puede haber sido eliminado 😕",
+    "suite-page-organization-plan-details-active-team-empty": "Este plan puede no existir o puede haber caducado. 😕",
     "suite-page-organization-plan-details-active-team-error-user-not-found": "Este grupo puede no existir o puede haber sido eliminado. 😕",
     "suite-page-organization-plan-details-active-team-payment-cash-desc": "Pago recibido",
     "suite-page-organization-plan-details-active-team-payment-cash-paid": "Pagado",

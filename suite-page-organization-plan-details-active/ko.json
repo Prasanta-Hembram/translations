@@ -6,7 +6,7 @@
     "suite-page-organization-plan-details-active-auto-renew": "멤버십 구독 자동갱신",
     "suite-page-organization-plan-details-active-credits": "크레딧",
     "suite-page-organization-plan-details-active-deactivate": "해지하기",
-    "suite-page-organization-plan-details-active-empty": "이 사항은 변경되거나 없어질 수 있습니다 😕",
+    "suite-page-organization-plan-details-active-empty": "이 플랜은 존재하지 않거나 만기되었습니다. 😕",
     "suite-page-organization-plan-details-active-error-user-not-found": "회원이 존재하지 않거나 삭제되었을 수 있습니다.😕",
     "suite-page-organization-plan-details-active-payment-cash-desc": "결제 완료",
     "suite-page-organization-plan-details-active-payment-cash-paid": "결제 완료",

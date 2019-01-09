@@ -6,7 +6,7 @@
     "suite-page-organization-plan-details-active-auto-renew": "Поновлювати автоматично",
     "suite-page-organization-plan-details-active-credits": "Кредити",
     "suite-page-organization-plan-details-active-deactivate": "Деактивувати",
-    "suite-page-organization-plan-details-active-empty": "Цього плану не існує, або ж він був видалений. 😕",
+    "suite-page-organization-plan-details-active-empty": "Цього плану не існує, або термін дії плану вже закінчився. 😕",
     "suite-page-organization-plan-details-active-error-user-not-found": "Учасник не існує або ж був видалений 😕",
     "suite-page-organization-plan-details-active-payment-cash-desc": "Оплачено",
     "suite-page-organization-plan-details-active-payment-cash-paid": "Оплачено",
