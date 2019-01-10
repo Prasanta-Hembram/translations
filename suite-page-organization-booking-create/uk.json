@@ -44,7 +44,7 @@
     "suite-page-organization-booking-create-section-payment-cash-desc": "Оплачено",
     "suite-page-organization-booking-create-section-payment-cash-title": "Статус",
     "suite-page-organization-booking-create-section-people": "Люди",
-    "suite-page-organization-booking-create-section-people-capacity": "Ця кімната може вмістити до {numberOfSeats} гостей.",
+    "suite-page-organization-booking-create-section-people-capacity": "Максимальна кількість місць: {numberOfSeats}.",
     "suite-page-organization-booking-create-section-purpose": "Мета",
     "suite-page-organization-booking-create-section-time": "Час",
     "suite-page-organization-booking-create-section-time-max": "Максимальна тривалість резервації — {duration}.",

@@ -44,7 +44,7 @@
     "suite-page-organization-booking-create-section-payment-cash-desc": "Сплачено",
     "suite-page-organization-booking-create-section-payment-cash-title": "Статус",
     "suite-page-organization-booking-create-section-people": "Люди",
-    "suite-page-organization-booking-create-section-people-capacity": "Эта комната может вместить до {numberOfSeats} гостей.",
+    "suite-page-organization-booking-create-section-people-capacity": "Максимальное количество мест: {numberOfSeats}.",
     "suite-page-organization-booking-create-section-purpose": "Цeль",
     "suite-page-organization-booking-create-section-time": "Время",
     "suite-page-organization-booking-create-section-time-max": "Максимальная продолжительность резервации — {duration}.",
