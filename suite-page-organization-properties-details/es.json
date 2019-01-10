@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-property-details-title": "Acerca de: {propertyName}",
+    "suite-page-organization-property-details-title": "Acerca de {propertyName}",
     "suite-page-organization-property-details-title-default": "Acerca",
     "suite-page-organization-property-details-description-title": "Descripción",
     "suite-page-organization-property-details-no-property": "No se pudo mostrar una habitación ¿Estás seguro de que hay una conexión a Internet?",
