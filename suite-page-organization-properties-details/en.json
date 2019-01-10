@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-property-details-title": "About: {propertyName}",
-    "suite-page-organization-property-details-title-default": "About: {propertyName}",
+    "suite-page-organization-property-details-title": "About {propertyName}",
+    "suite-page-organization-property-details-title-default": "About {propertyName}",
     "suite-page-organization-property-details-description-title": "Description",
     "suite-page-organization-property-details-no-property": "Couldn't show the room. Are you sure there is an internet connection?",
     "suite-page-organization-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
