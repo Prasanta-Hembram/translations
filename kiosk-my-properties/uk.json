@@ -3,7 +3,6 @@
     "kiosk-page-my-properties-title": "Мої кімнати",
     "kiosk-page-my-properties-button-logout": "Вийти з системи",
     "kiosk-page-my-properties-error-no-internet": "Коворкінги не відображаються. Перевірте інтернет-з'єднання.",
-    "kiosk-page-my-properties-error-no-properties-in-organization": "У коворкінгу немає кімнат. 😕",
-    "kiosk-page-my-properties-error-properties-empty": "У вас немає коворкінгів. Приєднайтесь до коворкінгу через andCards Suite та поверніться."
+    "kiosk-page-my-properties-error-no-properties": "Кімнати відсутні. 😕"
   }
 }

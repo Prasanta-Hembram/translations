@@ -3,7 +3,6 @@
     "kiosk-page-my-properties-title": "Мои переговорные",
     "kiosk-page-my-properties-button-logout": "Выйти из системы",
     "kiosk-page-my-properties-error-no-internet": "Коворкинги не отображаются. Проверьте интернет-соединение.",
-    "kiosk-page-my-properties-error-no-properties-in-organization": "В коворкинге нет переговорных. 😕",
-    "kiosk-page-my-properties-error-properties-empty": "У вас нет коворкингов. Присоединитесь к коворкингу через andCards Suite и вернитесь."
+    "kiosk-page-my-properties-error-no-properties": "Переговорные отсутствуют. 😕"
   }
 }
