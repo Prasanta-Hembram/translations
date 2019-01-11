@@ -2,7 +2,7 @@
   "data": {
     "kiosk-page-my-properties-title": "Mis salas de reuniones",
     "kiosk-page-my-properties-button-logout": "Cerrar Sesión",
-    "kiosk-page-my-properties-error-no-internet": "Couldn't load workspaces. Check the internet and try again.",
-    "kiosk-page-my-properties-error-no-properties": "There are no rooms in your workspace. 😕"
+    "kiosk-page-my-properties-error-no-internet": "No se pudieron cargar espacios de trabajo. Revisa internet y vuelve a intentarlo.",
+    "kiosk-page-my-properties-error-no-properties": "No hay salas de reuniones en su espacio de trabajo. 😕"
   }
 }
