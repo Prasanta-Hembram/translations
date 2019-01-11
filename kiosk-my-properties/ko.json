@@ -3,7 +3,6 @@
     "kiosk-page-my-properties-title": "나의 시설",
     "kiosk-page-my-properties-button-logout": "로그아웃",
     "kiosk-page-my-properties-error-no-internet": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "kiosk-page-my-properties-error-no-properties-in-organization": "공간에 시설이 없습니다. 😕",
-    "kiosk-page-my-properties-error-properties-empty": "표시 할 공간이 없습니다. andCards Suite를 사용하여 공간에 가입하고 다시 오세요."
+    "kiosk-page-my-properties-error-no-properties": "공간에 시설이 없습니다. 😕"
   }
 }
