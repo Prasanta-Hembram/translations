@@ -4,7 +4,7 @@
     "suite-page-my-coworkings-button-join": "Join",
     "suite-page-my-coworkings-button-search": "Search",
     "suite-page-my-coworkings-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "suite-page-my-coworkings-no-coworkings": "To join a workspace you need to enter a special tag. Usually it's printed on a label that looks like image above. 👆",
+    "suite-page-my-coworkings-no-coworkings": "You haven't joined any workspace yet. Go ahead and join one!",
     "suite-page-my-coworkings-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved."
   }
 }
