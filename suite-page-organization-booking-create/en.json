@@ -25,7 +25,6 @@
     "suite-page-organization-booking-create-memo": "Memo",
     "suite-page-organization-booking-create-memo-placeholder": "Add memo (private)",
     "suite-page-organization-booking-create-no-property": "Couldn't show the page. Are you sure there is an internet connection?",
-    "suite-page-organization-booking-create-pay-with": "Available Payment Methods",
     "suite-page-organization-booking-create-pay-with-validation-error": "Not enough credits to make this booking. Please use another payment method.",
     "suite-page-organization-booking-create-price-limits-desc": "Members will be able to use cards for any sum between US$0.50 and US$5,000, or your local currency equivalent.",
     "suite-page-organization-booking-create-price-money": "The price is {priceMoney} per hour.",
