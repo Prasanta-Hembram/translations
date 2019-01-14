@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-properties-subscribe-title": "Експорт у календар",
-    "suite-page-organization-properties-subscribe-description": "Скористайтеся цим посиланням для того, щоб переглядати свої andCards резервації в особистому календарі. Інструкції для налаштування популярних сервісів:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-organization-properties-subscribe-description": "Скористайтеся цим посиланням для того, щоб переглядати свої andcards резервації в особистому календарі. Інструкції для налаштування популярних сервісів:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
     "suite-page-organization-properties-subscribe-copied-to-clipboard": "Скопійовано в буфер обміну",
     "suite-page-organization-properties-subscribe-generate-new-url-button": "Згенерувати нове посилання",
     "suite-page-organization-properties-subscribe-service-apple-calendar": "Календар Apple",

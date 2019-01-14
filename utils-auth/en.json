@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-auth-agree-to-policies": "By proceeding I verify that I am at least 14 years old, and consent to be bound by andCards {termsOfUse}, {privacyPolicy} and {cookiePolicy} policies. I may withdraw this consent at any time in Settings.",
+    "utils-auth-agree-to-policies": "By proceeding I verify that I am at least 14 years old, and consent to be bound by andcards {termsOfUse}, {privacyPolicy} and {cookiePolicy} policies. I may withdraw this consent at any time in Settings.",
     "utils-auth-back-to-login-methods": "Back",
     "utils-auth-back-to-number": "Back",
     "utils-auth-code": "Code",
