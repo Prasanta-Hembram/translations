@@ -5,6 +5,7 @@
     "suite-tab-navigation-organization-booking": "Bookings",
     "suite-tab-navigation-organization-directory": "Directory",
     "suite-tab-navigation-organization-membership": "Membership",
-    "suite-tab-navigation-organization-settings": "Profile"
+    "suite-tab-navigation-organization-settings": "Settings",
+    "suite-tab-navigation-profile": "Profile"
   }
 }
