@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-properties-subscribe-title": "Export to Calendar",
-    "suite-page-organization-properties-subscribe-description": "Use this link to view all bookings made on andCards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-organization-properties-subscribe-description": "Use this link to view all bookings made on andcards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
     "suite-page-organization-properties-subscribe-copied-to-clipboard": "Copied to clipboard",
     "suite-page-organization-properties-subscribe-generate-new-url-button": "Generate a new link",
     "suite-page-organization-properties-subscribe-service-apple-calendar": "Apple Calendar",
