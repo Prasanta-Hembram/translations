@@ -33,7 +33,7 @@
     "suite-page-organization-booking-create-purpose": "Título",
     "suite-page-organization-booking-create-purpose-placeholder": "Agregar título (públicamente visible)",
     "suite-page-organization-booking-create-query-params": "No se pudo mostrar la página. Inténtalo de nuevo. 😕",
-    "suite-page-organization-booking-create-quite-description": "{pointQuote}% de tus créditos están disponibles para reservar en {organizationName}",
+    "suite-page-organization-booking-create-quite-description": "El {pointQuote}% de sus créditos están disponibles en {organizationName}  para la reserva.",
     "suite-page-organization-booking-create-role-admin": "Administrador",
     "suite-page-organization-booking-create-role-member": "Miembro",
     "suite-page-organization-booking-create-role-moderator": "Moderador",

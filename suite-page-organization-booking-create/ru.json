@@ -33,7 +33,7 @@
     "suite-page-organization-booking-create-purpose": "Название",
     "suite-page-organization-booking-create-purpose-placeholder": "Добавить название (видно всем участникам)",
     "suite-page-organization-booking-create-query-params": "Невозможно отобразить страницу. Повторите попытку. 😕",
-    "suite-page-organization-booking-create-quite-description": "{PointQuote}% ваших кредитов доступны для бронирования с {organizationName}.",
+    "suite-page-organization-booking-create-quite-description": "{pointQuote}% ваших кредитов доступны для бронирования с {organizationName}.",
     "suite-page-organization-booking-create-role-admin": "Администратор",
     "suite-page-organization-booking-create-role-member": "Участник",
     "suite-page-organization-booking-create-role-moderator": "Модератор",
