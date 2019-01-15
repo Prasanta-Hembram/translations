@@ -3,6 +3,7 @@
     "suite-page-feed-post-main-action-sheet-delete": "Eliminar",
     "suite-page-feed-post-main-date": "{createDate}, editado en {updateDate}",
     "suite-page-feed-post-main-empty": "Este publicación puede no existir o puede haberse eliminado. 😕",
+    "suite-page-feed-post-main-title": "Enviar",
     "suite-page-feed-post-main-user-admin": "Admin/moderator"
   }
 }
