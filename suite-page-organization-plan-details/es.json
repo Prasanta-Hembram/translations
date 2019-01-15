@@ -5,8 +5,6 @@
     "suite-page-organization-plan-details-title-for-admin-with-plan-title": "Detalles del plan: {title}",
     "suite-page-organization-plan-details-title-with-plan-title": "Adquirir un plan de membresía: {title}",
     "suite-page-organization-plan-details-add-card": "Agregar tarjeta",
-    "suite-page-organization-plan-details-auto-renew": "Renovar subscripción automáticamente",
-    "suite-page-organization-plan-details-auto-renew-description": "Seguirá recibiendo cobros regularmente a menos que cancele la subscripción.",
     "suite-page-organization-plan-details-button-3d-secure": "Confirmar pago",
     "suite-page-organization-plan-details-card-title-cvv": "CVV",
     "suite-page-organization-plan-details-card-title-email": "Email",
