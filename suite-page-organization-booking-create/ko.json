@@ -33,7 +33,7 @@
     "suite-page-organization-booking-create-purpose": "제목",
     "suite-page-organization-booking-create-purpose-placeholder": "제목 입력하기 (모든 회원 확인 가능)",
     "suite-page-organization-booking-create-query-params": "페이지를 표시할 수 없습니다. 다시 시도하세요. 😕",
-    "suite-page-organization-booking-create-quite-description": "{pointQuote}%의 크레딧으로 {organizationName}의 예약이 가능합니다.",
+    "suite-page-organization-booking-create-quite-description": "{organizationName}에 있는 {pointQuote}%의 크레딧으로 예약이 가능합니다.",
     "suite-page-organization-booking-create-role-admin": "관리자",
     "suite-page-organization-booking-create-role-member": "회원",
     "suite-page-organization-booking-create-role-moderator": "중간관리자",

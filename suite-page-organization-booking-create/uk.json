@@ -33,7 +33,7 @@
     "suite-page-organization-booking-create-purpose": "Назва",
     "suite-page-organization-booking-create-purpose-placeholder": "Додати назву (видно всім учасникам)",
     "suite-page-organization-booking-create-query-params": "Неможливо відобразити сторінку. Повторіть спробу. 😕",
-    "suite-page-organization-booking-create-quite-description": "{pointQuote}% ваших кредитів є доступні для бронювання у {organizationName}.",
+    "suite-page-organization-booking-create-quite-description": "{pointQuote}% ваших кредитів є доступні для бронювання з {organizationName}.",
     "suite-page-organization-booking-create-role-admin": "Адміністратор",
     "suite-page-organization-booking-create-role-member": "Учасник",
     "suite-page-organization-booking-create-role-moderator": "Модератор",
