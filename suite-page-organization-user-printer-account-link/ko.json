@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-user-printer-account-title": "프린터 계정 연결",
+    "suite-page-organization-user-printer-account-no-users": "아무것도 없습니다. 😢",
+    "suite-page-organization-user-printer-account-nothing-found": "아무것도 없습니다. 😢",
+    "suite-page-organization-user-printer-account-search": "{numberOfUsers}명 중 검색하기"
+  }
+}

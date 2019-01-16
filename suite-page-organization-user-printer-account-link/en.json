@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-user-printer-account-title": "Link printer account",
+    "suite-page-organization-user-printer-account-no-users": "No one to add. 😢",
+    "suite-page-organization-user-printer-account-nothing-found": "Nothing found. 😢",
+    "suite-page-organization-user-printer-account-search": "Search {numberOfUsers} members"
+  }
+}

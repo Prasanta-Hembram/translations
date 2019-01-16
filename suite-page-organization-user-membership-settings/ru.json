@@ -22,6 +22,8 @@
     "suite-page-organization-user-membership-settings-link-none": "Не выбрано",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "Связать с",
     "suite-page-organization-user-membership-settings-no-plan": "У этого участника нет тарифного плана. Планы позволяют участникам покупать ваши сервисы через andcards, начислять кредиты автоматически, а также получать оповещения о продлении участия.",
+    "suite-page-organization-user-membership-settings-pages-printed-account": "Связать с",
+    "suite-page-organization-user-membership-settings-pages-printed-title": "Напечатанных страниц",
     "suite-page-organization-user-membership-settings-role": "Роль",
     "suite-page-organization-user-membership-settings-role-admin": "Администратор",
     "suite-page-organization-user-membership-settings-role-info-admin": "Администратор может настраивать и управлять всем в коворкинге.",

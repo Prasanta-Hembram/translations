@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-user-printer-account-title": "Зв'язати з",
+    "suite-page-organization-user-printer-account-no-users": "Нікого додавати. 😢",
+    "suite-page-organization-user-printer-account-nothing-found": "Нічого не знайдено. 😢",
+    "suite-page-organization-user-printer-account-search": "Пошук серед {numberOfUsers} учасників"
+  }
+}
