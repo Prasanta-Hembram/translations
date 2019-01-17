@@ -18,8 +18,6 @@
     "suite-page-organization-user-membership-settings-error-user-not-found": "This user may not exist or may have been removed. 😕",
     "suite-page-organization-user-membership-settings-leave-repeat": "Try again",
     "suite-page-organization-user-membership-settings-leave-user-failure": "Failed to remove user from workspace. 🙁",
-    "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
-    "suite-page-organization-user-membership-settings-link-none": "None",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "Link to",
     "suite-page-organization-user-membership-settings-no-plan": "This member doesn't have a membership plan. Plans allow members to purchase your services easily through andcards, receive credits automatically, and get reminders to extend membership.",
     "suite-page-organization-user-membership-settings-pages-printed-account": "Link printer account",

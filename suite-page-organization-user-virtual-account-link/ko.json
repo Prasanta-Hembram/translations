@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-user-virtual-account-title": "프린터 계정 연결",
+    "suite-page-organization-user-virtual-account-no-none": "선택 않음",
+    "suite-page-organization-user-virtual-account-no-users": "아무것도 없습니다. 😢",
+    "suite-page-organization-user-virtual-account-nothing-found": "아무것도 없습니다. 😢",
+    "suite-page-organization-user-virtual-account-search": "{numberOfUsers}명 중 검색하기"
+  }
+}

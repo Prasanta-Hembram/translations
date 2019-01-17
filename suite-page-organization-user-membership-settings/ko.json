@@ -18,8 +18,6 @@
     "suite-page-organization-user-membership-settings-error-user-not-found": "회원이 존재하지 않거나 삭제되었을 수 있습니다.😕",
     "suite-page-organization-user-membership-settings-leave-repeat": "다시시도",
     "suite-page-organization-user-membership-settings-leave-user-failure": "사용자 삭제 실패 🙁",
-    "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
-    "suite-page-organization-user-membership-settings-link-none": "선택 않음",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "가상 계정 연결",
     "suite-page-organization-user-membership-settings-no-plan": "이 회원은 멤버십 플랜이 없습니다. 회원은 andcards로 쉽게 공간 서비스를 구매할 수 있고, 자동으로 크레딧을 받고, 연장 알림을 받을 수 있습니다.",
     "suite-page-organization-user-membership-settings-pages-printed-account": "프린터 계정 연결",

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-user-virtual-account-title": "Vincular cuenta de impresora",
+    "suite-page-organization-user-virtual-account-no-none": "Ninguna",
+    "suite-page-organization-user-virtual-account-no-users": "Nadie para agregar. 😢",
+    "suite-page-organization-user-virtual-account-nothing-found": "Nada Encontrado. 😢",
+    "suite-page-organization-user-virtual-account-search": "Buscar {numberOfUsers} miembros"
+  }
+}

@@ -18,8 +18,6 @@
     "suite-page-organization-user-membership-settings-error-user-not-found": "Учасник не існує або ж був видалений 😕",
     "suite-page-organization-user-membership-settings-leave-repeat": "Спробувати знову",
     "suite-page-organization-user-membership-settings-leave-user-failure": "Не вдалося видалити учасника. 🙁",
-    "suite-page-organization-user-membership-settings-link-me": "{fullName} (me)",
-    "suite-page-organization-user-membership-settings-link-none": "Не обрано",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "Зв'язати з",
     "suite-page-organization-user-membership-settings-no-plan": "У цього учасника немає тарифного плану. Плани дозволяють учасникам купувати ваші сервіси через andcards, нараховувати кредити автоматично, а також отримувати сповіщення про подовження участі.",
     "suite-page-organization-user-membership-settings-pages-printed-account": "Зв'язати з",
