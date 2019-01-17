@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-settings-privacy-policy-title": "Политика конфиденциальности",
+    "suite-page-settings-privacy-policy-error-no-internet-action": "Перезагрузить",
+    "suite-page-settings-privacy-policy-error-no-internet-description": "Проверьте соединение с интернетом.",
+    "suite-page-settings-privacy-policy-withdraw-consent": "Отозвать согласие"
+  }
+}

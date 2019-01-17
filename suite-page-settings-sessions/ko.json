@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-settings-sessions-title": "활성 세션",
+    "suite-page-settings-sessions-description": "앤카즈에 로그인 한 장치의 목록입니다. 활성 세션을 인식하지 못하면 제거하십시오.",
+    "suite-page-settings-sessions-alert-delete-success": "세션이 제거 완료되었습니다",
+    "suite-page-settings-sessions-current": "현제 세션",
+    "suite-page-settings-sessions-current-cannot-load": "세션 정보를 불러올 수 없습니다. 인터넷 연결을 확인해주세요.",
+    "suite-page-settings-sessions-other": "활성 세션",
+    "suite-page-settings-sessions-other-cannot-load": "세션 정보를 불러올 수 없습니다. 인터넷 연결을 확인해주세요.",
+    "suite-page-settings-sessions-other-empty": "활성 세션이 없습니다."
+  }
+}

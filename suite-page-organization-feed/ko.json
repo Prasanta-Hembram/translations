@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-feed-title": "피드",
+    "suite-page-organization-feed-fetch-failure": "피드를 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-feed-list-empty": "아무것도 없습니다. 😢",
+    "suite-page-organization-feed-user-admin": "관리자/중간관리자"
+  }
+}

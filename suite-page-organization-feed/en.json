@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-feed-title": "Feed",
+    "suite-page-organization-feed-fetch-failure": "Couldn't show feed. Are you sure there is an internet connection?",
+    "suite-page-organization-feed-list-empty": "There are no posts. 😢",
+    "suite-page-organization-feed-user-admin": "Admin/moderator"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-feed-post-main-action-sheet-delete": "Удалить",
-    "suite-page-feed-post-main-date": "{createDate}, ред. {updateDate}",
-    "suite-page-feed-post-main-empty": "Этот пост не существует или же был удален. 😕",
-    "suite-page-feed-post-main-title": "Запись",
-    "suite-page-feed-post-main-user-admin": "Администратор/модератор"
-  }
-}
