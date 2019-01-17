@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-teams-button-review-requests": "승인요청",
     "suite-page-organization-teams-directory-title": "회원 찾기",
     "suite-page-organization-teams-error-not-found": "인터넷이 없습니다.",
     "suite-page-organization-teams-individuals-title": "개인",
+    "suite-page-organization-teams-join-requests-title": "가입 요청",
     "suite-page-organization-teams-search-placeholder": "{numberOfTeams}팀 및 {numberOfMembers}명 중 검색하기",
     "suite-page-organization-teams-teams-title": "팀",
     "suite-page-organization-teams-end": "종료",
