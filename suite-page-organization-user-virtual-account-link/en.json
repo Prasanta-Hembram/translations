@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-user-virtual-account-title": "Link virtual account",
-    "suite-page-organization-user-virtual-account-no-none": "None",
-    "suite-page-organization-user-virtual-account-no-users": "No one to add. 😢",
-    "suite-page-organization-user-virtual-account-nothing-found": "Nothing found. 😢",
-    "suite-page-organization-user-virtual-account-search": "Search {numberOfUsers} members"
+    "suite-page-organization-user-virtual-account-link-title": "Link virtual account",
+    "suite-page-organization-user-virtual-account-link-no-none": "None",
+    "suite-page-organization-user-virtual-account-link-no-users": "No one to add. 😢",
+    "suite-page-organization-user-virtual-account-link-nothing-found": "Nothing found. 😢",
+    "suite-page-organization-user-virtual-account-link-search": "Search {numberOfUsers} members"
   }
 }

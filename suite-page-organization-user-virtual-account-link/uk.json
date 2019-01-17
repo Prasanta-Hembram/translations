@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-user-virtual-account-title": "Зв'язати з",
-    "suite-page-organization-user-virtual-account-no-none": "Не обрано",
-    "suite-page-organization-user-virtual-account-no-users": "Нікого додавати. 😢",
-    "suite-page-organization-user-virtual-account-nothing-found": "Нічого не знайдено. 😢",
-    "suite-page-organization-user-virtual-account-search": "Пошук серед {numberOfUsers} учасників"
+    "suite-page-organization-user-virtual-account-link-title": "Зв'язати з",
+    "suite-page-organization-user-virtual-account-link-no-none": "Не обрано",
+    "suite-page-organization-user-virtual-account-link-no-users": "Нікого додавати. 😢",
+    "suite-page-organization-user-virtual-account-link-nothing-found": "Нічого не знайдено. 😢",
+    "suite-page-organization-user-virtual-account-link-search": "Пошук серед {numberOfUsers} учасників"
   }
 }
