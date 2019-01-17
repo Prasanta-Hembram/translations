@@ -1,0 +1,33 @@
+{
+  "data": {
+    "suite-page-organization-settings-spaces-title": "회사 일반정보",
+    "suite-page-organization-settings-spaces-address": "주소",
+    "suite-page-organization-settings-spaces-address-placeholder": "주소 입력하기",
+    "suite-page-organization-settings-spaces-code": "태그",
+    "suite-page-organization-settings-spaces-code-description": "회원은 아래의 테그를 통해서 회원가입 요청할 수 있습니다.",
+    "suite-page-organization-settings-spaces-contact-to-support": "또 andcards.com/s에서 공간의 링크로 이용됩니다. 변경하려면 support@andcards.com으로 문의하십시오.",
+    "suite-page-organization-settings-spaces-copied-to-clipboard": "텍스트가 클립보드로 복사되었습니다.",
+    "suite-page-organization-settings-spaces-description": "설명",
+    "suite-page-organization-settings-spaces-email": "이메일",
+    "suite-page-organization-settings-spaces-email-placeholder": "이메일 주소 입력하기",
+    "suite-page-organization-settings-spaces-link": "링크",
+    "suite-page-organization-settings-spaces-link-placeholder": "링크 입력하기",
+    "suite-page-organization-settings-spaces-name": "이름",
+    "suite-page-organization-settings-spaces-name-placeholder": "이름 입력하기",
+    "suite-page-organization-settings-spaces-section-amenities-24-7-access": "24시간",
+    "suite-page-organization-settings-spaces-section-amenities-kitchen": "부엌",
+    "suite-page-organization-settings-spaces-section-amenities-lockers": "로커",
+    "suite-page-organization-settings-spaces-section-amenities-parking": "주차장",
+    "suite-page-organization-settings-spaces-section-amenities-phone-booth": "전화실",
+    "suite-page-organization-settings-spaces-section-amenities-printer-scanner": "복사실",
+    "suite-page-organization-settings-spaces-section-amenities-title": "편의시설",
+    "suite-page-organization-settings-spaces-section-amenities-unlimited-drinks": "무제한 커피/차",
+    "suite-page-organization-settings-spaces-section-invite-members-title": "회원초대",
+    "suite-page-organization-settings-spaces-section-invite-members-via-link-description": "회원은 아래의 링크를 통해서 초대하세요.",
+    "suite-page-organization-settings-spaces-section-services-meeting-room": "회의실",
+    "suite-page-organization-settings-spaces-section-services-title": "이용 안내",
+    "suite-page-organization-settings-spaces-user-leave-failure": "사용자 삭제 실패 🙁",
+    "suite-page-organization-settings-spaces-user-leave-organization": "이 조직 나가기",
+    "suite-page-organization-settings-spaces-user-leave-repeat": "다시시도"
+  }
+}

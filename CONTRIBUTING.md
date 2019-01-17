@@ -24,20 +24,19 @@ Example:
 `...`
 `}`
 
-
 - Follow it's position on a page.
 
 Example:
 
-`"suite-page-organization-company-profile-section-amenities": "Amenities"`
+`"suite-page-organization-settings-spaces-section-amenities": "Amenities"`
 
-`"suite-page-organization-company-profile-section-amenities-parking": "Parking"`
+`"suite-page-organization-settings-spaces-section-amenities-parking": "Parking"`
 
 - Include the component name as part of the key.
 
 Example:
 
-`"suite-page-organization-company-profile-section-amenities-button-add": "Add amenities"`
+`"suite-page-organization-settings-spaces-section-amenities-button-add": "Add amenities"`
 
 - The alert translations begins with an `alert` word.
 
