@@ -18,6 +18,7 @@
     "suite-page-organization-user-membership-settings-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado. 😕",
     "suite-page-organization-user-membership-settings-leave-repeat": "Inténtalo de nuevo",
     "suite-page-organization-user-membership-settings-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
+    "suite-page-organization-user-membership-settings-link-none-label": "Ninguna",
     "suite-page-organization-user-membership-settings-link-virtual-account-label": "Enlace a",
     "suite-page-organization-user-membership-settings-no-plan": "Este miembro no tiene un plan de membresía. Los planes permiten a los miembros comprar sus servicios fácilmente a través de las tarjetas, recibir créditos automáticamente y recibir recordatorios para extender la membresía.",
     "suite-page-organization-user-membership-settings-pages-printed-account": "Vincular cuenta de impresora",
