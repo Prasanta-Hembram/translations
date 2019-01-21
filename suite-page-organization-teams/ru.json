@@ -2,11 +2,13 @@
   "data": {
     "suite-page-organization-teams-directory-title": "Каталог",
     "suite-page-organization-teams-error-not-found": "Проверьте соединение с интернетом.",
+    "suite-page-organization-teams-individuals-empty": "Учасники отсутствуют.",
     "suite-page-organization-teams-individuals-title": "Индивидуальные участники",
     "suite-page-organization-teams-join-requests-title": "Запросы на присоединение",
     "suite-page-organization-teams-search-placeholder": "Поиск среди {numberOfTeams} команд и {numberOfMembers} участников",
     "suite-page-organization-teams-teams-title": "Команды",
     "suite-page-organization-teams-end": "До",
+    "suite-page-organization-teams-empty": "Команды отсутствуют.",
     "suite-page-organization-teams-cash-balance": "Баланс наличных",
     "suite-page-organization-teams-credit-balance": "Баланс кредитов",
     "suite-page-organization-teams-name": "Имя",
