@@ -4,7 +4,8 @@
     "suite-page-my-coworkings-button-join": "Buscar",
     "suite-page-my-coworkings-button-search": "Buscar",
     "suite-page-my-coworkings-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-my-coworkings-no-coworkings": "Aún no te has unido a ningún espacio de trabajo. ¡Sigue adelante y únete a uno!",
+    "suite-page-my-coworkings-no-coworkings": "Para usar andcards, deberás unirte a un espacio de trabajo.",
+    "suite-page-my-coworkings-no-coworkings-title": "Empecemos!",
     "suite-page-my-coworkings-requested-text": "Su solicitud está siendo revisada por el administrador. Te avisaremos una vez que se resuelva."
   }
 }

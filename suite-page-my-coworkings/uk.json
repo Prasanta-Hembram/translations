@@ -4,7 +4,8 @@
     "suite-page-my-coworkings-button-join": "Долучитися",
     "suite-page-my-coworkings-button-search": "Пошук",
     "suite-page-my-coworkings-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
-    "suite-page-my-coworkings-no-coworkings": "Ви ще не приєдналися до жодного коворкінгу. Натисніть кнопку, щоб долучитись!",
+    "suite-page-my-coworkings-no-coworkings": "Щоб скористатися andcards, долучіться до коворкінгу.",
+    "suite-page-my-coworkings-no-coworkings-title": "Розпочнімо!",
     "suite-page-my-coworkings-requested-text": "Ваш запит розглядається адміністратором. Щойно рішення буде прийнято, ми вам повідомимо."
   }
 }
