@@ -1,5 +1,10 @@
 {
   "data": {
-    "suite-page-organization-iot-devices-title": "Інтернет пристрої"
+    "suite-page-organization-iot-devices-title": "Сенсори IoT",
+    "suite-page-organization-iot-devices-no-group": "Цей коворкінг немає сенсорів.",
+    "suite-page-organization-iot-devices-no-integration": "Цей коворкінг немає сенсорів",
+    "suite-page-organization-iot-devices-no-sensor-in-group": "Немає сенсорів",
+    "suite-page-organization-iot-devices-toilette-vacant": "Вільно",
+    "suite-page-organization-iot-devices-toilette-occupied": "Зайнято"
   }
 }

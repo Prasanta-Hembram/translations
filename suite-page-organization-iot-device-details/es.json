@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-iot-device-details-humidity": "Humedad",
+    "suite-page-organization-iot-device-details-illuminance": "Iluminancia",
+    "suite-page-organization-iot-device-details-no-integration": "El espacio de trabajo no tiene sensores para mostrar.",
+    "suite-page-organization-iot-device-details-no-sensors": "No hay sensores.",
+    "suite-page-organization-iot-device-details-temperature": "Temperatura"
+  }
+}

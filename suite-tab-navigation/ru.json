@@ -4,9 +4,9 @@
     "suite-tab-navigation-organization-feed": "Лента",
     "suite-tab-navigation-organization-booking": "Резервации",
     "suite-tab-navigation-organization-directory": "Каталог",
-    "suite-tab-navigation-organization-iot-devices": "Интернет устройства",
+    "suite-tab-navigation-organization-iot-devices": "Датчики IoT",
     "suite-tab-navigation-organization-membership": "Участие",
-    "suite-tab-navigation-organization-settings": "Настройки",
+    "suite-tab-navigation-organization-settings": "Информация",
     "suite-tab-navigation-profile": "Профиль"
   }
 }
