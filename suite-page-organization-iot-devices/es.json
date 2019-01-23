@@ -1,5 +1,10 @@
 {
   "data": {
-    "suite-page-organization-iot-devices-title": "Dispositivos IoT"
+    "suite-page-organization-iot-devices-title": "Dispositivos IoT",
+    "suite-page-organization-iot-devices-no-group": "El espacio de trabajo no tiene sensores para mostrar.",
+    "suite-page-organization-iot-devices-no-integration": "El espacio de trabajo no tiene sensores para mostrar.",
+    "suite-page-organization-iot-devices-no-sensor-in-group": "No hay sensores.",
+    "suite-page-organization-iot-devices-toilette-vacant": "Vacante",
+    "suite-page-organization-iot-devices-toilette-occupied": "Ocupado"
   }
 }

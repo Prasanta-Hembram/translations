@@ -1,5 +1,10 @@
 {
   "data": {
-    "suite-page-organization-iot-devices-title": "Датчики IoT"
+    "suite-page-organization-iot-devices-title": "Датчики IoT",
+    "suite-page-organization-iot-devices-no-group": "В коворгинге нет сенсоров.",
+    "suite-page-organization-iot-devices-no-integration": "В коворгинге нет сенсоров.",
+    "suite-page-organization-iot-devices-no-sensor-in-group": "Нет сенсоров.",
+    "suite-page-organization-iot-devices-toilette-vacant": "Свободно",
+    "suite-page-organization-iot-devices-toilette-occupied": "Занято"
   }
 }
