@@ -31,7 +31,7 @@
     "suite-page-organization-booking-create-price-points": "Резервація коштує {priceCredits} за годину.",
     "suite-page-organization-booking-create-price-points-and-money": "Резервація коштує {priceMoney} або {priceCredits} за годину.",
     "suite-page-organization-booking-create-purpose": "Назва",
-    "suite-page-organization-booking-create-purpose-placeholder": "Додати назву (видно всім учасникам)",
+    "suite-page-organization-booking-create-purpose-placeholder": "Додати назву (публічно)",
     "suite-page-organization-booking-create-query-params": "Неможливо відобразити сторінку. Повторіть спробу. 😕",
     "suite-page-organization-booking-create-quite-description": "{pointQuote}% ваших кредитів є доступні для бронювання з {organizationName}.",
     "suite-page-organization-booking-create-role-admin": "Адміністратор",
