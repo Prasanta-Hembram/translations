@@ -23,7 +23,7 @@
     "suite-page-organization-booking-create-free": "Gratis",
     "suite-page-organization-booking-create-full-day-description": "El período mínimo de reserva es de 1 día.",
     "suite-page-organization-booking-create-memo": "Nota",
-    "suite-page-organization-booking-create-memo-placeholder": "Añadir nota (visible solo para booker y admin)",
+    "suite-page-organization-booking-create-memo-placeholder": "Añadir memo (privado)",
     "suite-page-organization-booking-create-no-property": "No se pudo mostrar la página. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-booking-create-pay-with-validation-error": "No hay suficientes créditos para hacer esta reserva. Por favor use otro método de pago.",
     "suite-page-organization-booking-create-price-limits-desc": "Los miembros podrán usar tarjetas de crédito por cualquier suma entre US $ 0,50 y US $ 5000, o su equivalente en la moneda local",
