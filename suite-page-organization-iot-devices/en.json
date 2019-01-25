@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-iot-devices-title": "IoT Devices",
-    "suite-page-organization-iot-devices-no-group": "The workspace has no sensors to display.",
-    "suite-page-organization-iot-devices-no-integration": "The workspace has no sensors to display.",
-    "suite-page-organization-iot-devices-no-sensor-in-group": "There are no sensors.",
+    "suite-page-organization-iot-devices-no-group": "The workspace has no devices to display.",
+    "suite-page-organization-iot-devices-no-integration": "The workspace has no devices to display.",
+    "suite-page-organization-iot-devices-no-devices-in-group": "There are no devices.",
     "suite-page-organization-iot-devices-toilette-vacant": "Vacant",
     "suite-page-organization-iot-devices-toilette-occupied": "Occupied"
   }

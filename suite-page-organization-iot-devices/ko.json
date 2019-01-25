@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-iot-devices-title": "IoT 센서",
-    "suite-page-organization-iot-devices-no-group": "공간에 센서가 없습니다.",
-    "suite-page-organization-iot-devices-no-integration": "공간에 센서가 없습니다.",
-    "suite-page-organization-iot-devices-no-sensor-in-group": "센서가 없습니다.",
+    "suite-page-organization-iot-devices-title": "IoT 장치",
+    "suite-page-organization-iot-devices-no-group": "공간에 장치가 없습니다.",
+    "suite-page-organization-iot-devices-no-integration": "공간에 장치가 없습니다.",
+    "suite-page-organization-iot-devices-no-devices-in-group": "장치가 없습니다.",
     "suite-page-organization-iot-devices-toilette-vacant": "사용가능",
     "suite-page-organization-iot-devices-toilette-occupied": "사용중"
   }
