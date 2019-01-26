@@ -5,12 +5,20 @@
     "marketing-page-home-button-explore-all-features": "모든 기능을 경험해보세요",
     "marketing-page-home-button-list-for-free": "무료 항목",
     "marketing-page-home-coworking-space-size-headline": "모든 규모에 맞추어 만들어졌습니다",
+    "marketing-page-home-get-customers-time-title": "Get more customers for your coworking space",
+    "marketing-page-home-get-customers-description": "andcards allows to showcase your coworking space to the world through integrated andcards Spaces coworking space directory. Display available membership plans, meeting rooms, photos and video of your space interior.",
     "marketing-page-home-headline": "Incredibly Easy to Use Coworking Space Software",
-    "marketing-page-home-headline-2": "andcards Suite는 자동화 운영 및 관리를 도와줄 수 있는 코워킹 소프트웨어입니다 - 멤버십, 결제, 마케팅을 통한 시설예약.",
+    "marketing-page-home-headline-2": "andcards Suite is the app for coworking spaces built to help you automate management routines - from membership, payments, room bookings through to marketing.",
     "marketing-page-home-main-already-using-andcards": "이미 andcards Suite 사용중이신가요? {signInUrl}.",
     "marketing-page-home-main-sign-in": "로그인",
+    "marketing-page-home-one-app-time-title": "Use just one app for coworking space",
+    "marketing-page-home-one-app-description": "andcards Suite covers all basic needs of your coworking space. Meeting room bookings, membership plan management, IoT devices, community feed with push notifications, card payments — all features are grouped into simple categories.",
     "marketing-page-home-request-demo-button": "andcards Suite 이용하기",
-    "marketing-page-home-request-demo-description": "Sign up for free and start using andcards in just a few minutes or request a demo call to see andcards in action.",
-    "marketing-page-home-request-demo-title": "andcards와 함께 강력한 공간을 만들어보세요"
+    "marketing-page-home-request-demo-description": "Sign up for free and start using andcards in just a few minutes.",
+    "marketing-page-home-request-demo-note": "Most features are free. We also offer {paidFeaturesUrl}.",
+    "marketing-page-home-request-demo-note-paid-features": "paid features",
+    "marketing-page-home-request-demo-title": "andcards와 함께 강력한 공간을 만들어보세요",
+    "marketing-page-home-save-time-title": "Save time managing coworking space",
+    "marketing-page-home-save-time-description": "Setting everything up, inviting members, and using andcards Suite is super simple and easy. Save yourself a lot of time with 1-click meeting room booking, automatic bonus credit allocation, and in-app card payments."
   }
 }
