@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-feed-post-create-button-send": "Share",
-    "suite-page-organization-feed-post-create-contents": "Contents",
     "suite-page-organization-feed-post-create-is-pinned": "Pin to Top",
     "suite-page-organization-feed-post-create-stack-title": "New Post",
-    "suite-page-organization-feed-post-create-text-placeholder": "Say something to your community...",
-    "suite-page-organization-feed-post-create-validation-error-text": "Type the post."
+    "suite-page-organization-feed-post-create-text-placeholder": "Say something to your community..."
   }
 }
