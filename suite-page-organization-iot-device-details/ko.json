@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-iot-device-details-humidity": "습도",
-    "suite-page-organization-iot-device-details-illuminance": "조도",
-    "suite-page-organization-iot-device-details-no-integration": "공간에 장치가 없습니다.",
-    "suite-page-organization-iot-device-details-no-devices": "장치가 없습니다.",
-    "suite-page-organization-iot-device-details-temperature": "온도"
-  }
-}

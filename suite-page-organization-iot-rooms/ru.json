@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-iot-rooms-title": "Устройства IoT",
+    "suite-page-organization-iot-rooms-no-group": "В коворгинге нет устройств.",
+    "suite-page-organization-iot-rooms-no-integration": "В коворгинге нет устройств.",
+    "suite-page-organization-iot-rooms-no-rooms-in-group": "Нет устройств.",
+    "suite-page-organization-iot-rooms-toilette-vacant": "Свободно",
+    "suite-page-organization-iot-rooms-toilette-occupied": "Занято"
+  }
+}
