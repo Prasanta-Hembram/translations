@@ -8,8 +8,6 @@
     "suite-page-organization-plan-assign-error-empty-plans": "There are no plans yet. 😕",
     "suite-page-organization-plan-assign-error-not-found": "This page may not exist or may have been removed. 😕",
     "suite-page-organization-plan-assign-error-selected-admin": "Can't assign a plan to admin or moderator.",
-    "suite-page-organization-plan-assign-payment-cash-desc": "Payment received",
-    "suite-page-organization-plan-assign-payment-cash-title": "Status",
     "suite-page-organization-plan-assign-period-from-title": "Starting",
     "suite-page-organization-plan-assign-period-title": "Period",
     "suite-page-organization-plan-assign-permission-denied": "You don't have permission to access this page.",

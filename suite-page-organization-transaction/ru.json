@@ -7,8 +7,6 @@
     "suite-page-organization-transaction-paid-with-card": "Карточкой",
     "suite-page-organization-transaction-paid-with-cash": "Наличными",
     "suite-page-organization-transaction-paid-with-for-free": "Бесплатно",
-    "suite-page-organization-transaction-status-label": "Статус",
-    "suite-page-organization-transaction-status-desc": "Оплачено",
     "suite-page-organization-transaction-type-label": "Тип",
     "suite-page-organization-transaction-title": "Детали транзакции"
   }
