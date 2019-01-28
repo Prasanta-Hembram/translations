@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-iot-device-details-humidity": "Влажность",
-    "suite-page-organization-iot-device-details-illuminance": "Освещенность",
-    "suite-page-organization-iot-device-details-no-integration": "В коворгинге нет устройств.",
-    "suite-page-organization-iot-device-details-no-devices": "Нет устройств.",
-    "suite-page-organization-iot-device-details-temperature": "Температура"
-  }
-}

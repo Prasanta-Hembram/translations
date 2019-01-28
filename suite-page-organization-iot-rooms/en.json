@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-iot-rooms-title": "IoT Devices",
+    "suite-page-organization-iot-rooms-no-group": "The workspace has no devices to display.",
+    "suite-page-organization-iot-rooms-no-integration": "The workspace has no devices to display.",
+    "suite-page-organization-iot-rooms-no-rooms-in-group": "There are no devices.",
+    "suite-page-organization-iot-rooms-toilette-vacant": "Vacant",
+    "suite-page-organization-iot-rooms-toilette-occupied": "Occupied"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-iot-rooms-title": "IoT 장치",
+    "suite-page-organization-iot-rooms-no-group": "공간에 장치가 없습니다.",
+    "suite-page-organization-iot-rooms-no-integration": "공간에 장치가 없습니다.",
+    "suite-page-organization-iot-rooms-no-rooms-in-group": "장치가 없습니다.",
+    "suite-page-organization-iot-rooms-toilette-vacant": "사용가능",
+    "suite-page-organization-iot-rooms-toilette-occupied": "사용중"
+  }
+}
