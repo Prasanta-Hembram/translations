@@ -1,0 +1,7 @@
+{
+  "data": {
+    "utils-payment-cash-status-paid": "Оплачено",
+    "utils-payment-cash-status-unpaid": "Неоплачено",
+    "utils-payment-cash-status-title": "Статус"
+  }
+}

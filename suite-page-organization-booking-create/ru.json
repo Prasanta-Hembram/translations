@@ -40,8 +40,6 @@
     "suite-page-organization-booking-create-section-organization-select-label": "Учетная запись",
     "suite-page-organization-booking-create-section-payment": "Оплата",
     "suite-page-organization-booking-create-section-payment-card-types-accepted": "Поддерживаемые типы карточек:",
-    "suite-page-organization-booking-create-section-payment-cash-desc": "Сплачено",
-    "suite-page-organization-booking-create-section-payment-cash-title": "Статус",
     "suite-page-organization-booking-create-section-people": "Люди",
     "suite-page-organization-booking-create-section-people-capacity": "Максимальное количество мест: {numberOfSeats}.",
     "suite-page-organization-booking-create-section-purpose": "Цeль",

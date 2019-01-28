@@ -7,8 +7,6 @@
     "suite-page-organization-transaction-paid-with-card": "카드",
     "suite-page-organization-transaction-paid-with-cash": "현금",
     "suite-page-organization-transaction-paid-with-for-free": "무료",
-    "suite-page-organization-transaction-status-label": "결제 사항",
-    "suite-page-organization-transaction-status-desc": "결제 완료",
     "suite-page-organization-transaction-type-label": "유형",
     "suite-page-organization-transaction-title": "거래 상세내역"
   }
