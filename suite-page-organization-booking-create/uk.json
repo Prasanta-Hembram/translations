@@ -40,8 +40,6 @@
     "suite-page-organization-booking-create-section-organization-select-label": "Обліковий запис",
     "suite-page-organization-booking-create-section-payment": "Оплата",
     "suite-page-organization-booking-create-section-payment-card-types-accepted": "Підтримувані типи карток:",
-    "suite-page-organization-booking-create-section-payment-cash-desc": "Оплачено",
-    "suite-page-organization-booking-create-section-payment-cash-title": "Статус",
     "suite-page-organization-booking-create-section-people": "Люди",
     "suite-page-organization-booking-create-section-people-capacity": "Максимальна кількість місць: {numberOfSeats}.",
     "suite-page-organization-booking-create-section-purpose": "Мета",
