@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-page-organization-iot-room-details-error-no-internet": "Пристрої не відображаються. Перевірте інтернет-з'єднання.",
+    "suite-page-organization-iot-room-details-error-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "suite-page-organization-iot-room-details-humidity": "Вологість",
     "suite-page-organization-iot-room-details-illuminance": "Освітленість",
     "suite-page-organization-iot-room-details-no-integration": "Цей коворкінг не має пристроїв.",
