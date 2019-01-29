@@ -7,8 +7,6 @@
     "suite-page-organization-transaction-paid-with-card": "Card",
     "suite-page-organization-transaction-paid-with-cash": "Cash",
     "suite-page-organization-transaction-paid-with-for-free": "Free",
-    "suite-page-organization-transaction-status-label": "Status",
-    "suite-page-organization-transaction-status-desc": "Payment received",
     "suite-page-organization-transaction-type-label": "Type",
     "suite-page-organization-transaction-title": "Transaction details"
   }

@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-iot-rooms-title": "Пристрої IoT",
+    "suite-page-organization-iot-rooms-no-group": "Цей коворкінг не має пристроїв.",
+    "suite-page-organization-iot-rooms-no-integration": "Цей коворкінг не має пристроїв.",
+    "suite-page-organization-iot-rooms-no-rooms-in-group": "Немає пристроїв.",
+    "suite-page-organization-iot-rooms-toilette-vacant": "Вільно",
+    "suite-page-organization-iot-rooms-toilette-occupied": "Зайнято"
+  }
+}

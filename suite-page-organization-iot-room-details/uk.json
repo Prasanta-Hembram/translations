@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-iot-room-details-humidity": "Вологість",
+    "suite-page-organization-iot-room-details-illuminance": "Освітленість",
+    "suite-page-organization-iot-room-details-no-integration": "Цей коворкінг не має пристроїв.",
+    "suite-page-organization-iot-room-details-no-devices": "Немає пристроїв.",
+    "suite-page-organization-iot-room-details-temperature": "Температура"
+  }
+}

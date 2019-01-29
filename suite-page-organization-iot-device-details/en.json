@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-iot-device-details-humidity": "Humidity",
-    "suite-page-organization-iot-device-details-illuminance": "Illuminance",
-    "suite-page-organization-iot-device-details-no-integration": "The workspace has no devices to display.",
-    "suite-page-organization-iot-device-details-no-devices": "There are no devices.",
-    "suite-page-organization-iot-device-details-temperature": "Temperature"
-  }
-}

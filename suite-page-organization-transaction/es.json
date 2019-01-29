@@ -7,8 +7,6 @@
     "suite-page-organization-transaction-paid-with-card": "Tarjeta",
     "suite-page-organization-transaction-paid-with-cash": "Efectivo",
     "suite-page-organization-transaction-paid-with-for-free": "Gratis",
-    "suite-page-organization-transaction-status-label": "Estado",
-    "suite-page-organization-transaction-status-desc": "Pago recibido",
     "suite-page-organization-transaction-type-label": "Insertar",
     "suite-page-organization-transaction-title": "Detalles de la transacción"
   }
