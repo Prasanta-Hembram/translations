@@ -22,6 +22,7 @@
     "suite-errors-plan-sold-out": "El plan está agotado",
     "suite-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta",
     "suite-errors-transaction-declined": "Transacción declinada",
+    "suite-errors-trial-already-started": "Tu espacio de trabajo ya tiene el sistema de reservas completo habilitado.",
     "suite-errors-user-have-no-permission": "No tienes permiso para completar la acción"
   }
 }

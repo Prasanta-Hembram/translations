@@ -22,6 +22,7 @@
     "suite-errors-plan-sold-out": "Plan is sold out",
     "suite-errors-sns-user-exists": "The login method is used by another account",
     "suite-errors-transaction-declined": "Transaction declined",
+    "suite-errors-trial-already-started": "Your workspace already has the full booking system enabled.",
     "suite-errors-user-have-no-permission": "You don't have a permission to complete the action"
   }
 }
