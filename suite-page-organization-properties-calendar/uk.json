@@ -3,6 +3,7 @@
     "suite-page-organization-properties-calendar-title": "Усі кімнати",
     "suite-page-organization-properties-calendar-alert-past-day": "Не можливо резервувати у минулому.",
     "suite-page-organization-properties-calendar-alert-period": "Обраний проміжок часу менший, ніж мінімально допустимий.",
+    "suite-page-organization-properties-calendar-create-property": "Додати кімнату",
     "suite-page-organization-properties-calendar-date": "Дата",
     "suite-page-organization-properties-calendar-get-failure": "Кімнати не відображаються. Перевірте, чи все добре з інтернет-з'єднанням",
     "suite-page-organization-properties-calendar-my": "Моя резервація"
