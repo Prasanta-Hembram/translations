@@ -22,6 +22,7 @@
     "suite-errors-plan-sold-out": "План розпродано",
     "suite-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі",
     "suite-errors-transaction-declined": "Відмова у транзакції",
+    "suite-errors-trial-already-started": "У вашому коворкінгу вже включена система бронювання.",
     "suite-errors-user-have-no-permission": "Відсутні права доступу для завершення дії"
   }
 }

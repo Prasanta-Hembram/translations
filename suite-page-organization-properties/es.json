@@ -8,10 +8,10 @@
     "suite-page-organization-properties-bookings-button-export-title": "Exportar a Calendario",
     "suite-page-organization-properties-bookings-button-my-title": "Todas Mis Reservas",
     "suite-page-organization-properties-calendar-button-title": "Todas las Sala de Reuniones",
+    "suite-page-organization-properties-create-property": "Nuevo Cuarto",
     "suite-page-organization-properties-default-booking-purpose": "Reserva",
     "suite-page-organization-properties-get-failure": "No se pudieron mostrar las habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-properties-my-bookings": "Mis reservas",
-    "suite-page-organization-properties-no-properties": "No hay habitaciones disponibles. 😢",
     "suite-page-organization-properties-rooms": "Sala de Reuniones"
   }
 }

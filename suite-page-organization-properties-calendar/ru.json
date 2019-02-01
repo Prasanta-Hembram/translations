@@ -5,7 +5,6 @@
     "suite-page-organization-properties-calendar-alert-period": "Выбранный период времени меньше минимально допустимого.",
     "suite-page-organization-properties-calendar-date": "Дата",
     "suite-page-organization-properties-calendar-get-failure": "Переговорные не отображаются. Проверьте интернет-соединение.",
-    "suite-page-organization-properties-calendar-my": "Мое бронирование",
-    "suite-page-organization-properties-calendar-no-properties": "Нет доступных переговорных. 😢"
+    "suite-page-organization-properties-calendar-my": "Мое бронирование"
   }
 }
