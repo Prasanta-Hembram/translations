@@ -11,6 +11,6 @@
     "suite-page-organization-property-create-price-limits-desc": "Los miembros podrán usar tarjetas de crédito por cualquier suma entre US $ 0,50 y US $ 5000, o su equivalente en la moneda local",
     "suite-page-organization-property-create-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-property-create-price-points": "Precio, {pointEmoji}/hora",
-    "suite-page-organization-property-create-title-create": "Crear Sala"
+    "suite-page-organization-property-create-title-create": "Nuevo Cuarto"
   }
 }

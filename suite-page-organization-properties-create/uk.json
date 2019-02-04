@@ -11,6 +11,6 @@
     "suite-page-organization-property-create-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
     "suite-page-organization-property-create-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-property-create-price-points": "Ціна, {pointEmoji}/год",
-    "suite-page-organization-property-create-title-create": "Створити кімнату"
+    "suite-page-organization-property-create-title-create": "Нова кімната"
   }
 }

@@ -11,6 +11,6 @@
     "suite-page-organization-property-create-price-limits-desc": "Учасники смогут использовать карты на любую сумму от 0,50 до 5000 долл. США, или эквивалент в вашей местной валюте.",
     "suite-page-organization-property-create-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-property-create-price-points": "Цена, {pointEmoji}/час",
-    "suite-page-organization-property-create-title-create": "Создать комнату"
+    "suite-page-organization-property-create-title-create": "Новая комната"
   }
 }
