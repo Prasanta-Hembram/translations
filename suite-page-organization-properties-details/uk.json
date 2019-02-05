@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-details-title": "Більше про {propertyName}",
     "suite-page-organization-property-details-title-default": "Більше",
+    "suite-page-organization-property-details-delete-failure": "Не вдалося видалити кімнату. 🙁",
+    "suite-page-organization-property-details-delete-repeat": "Спробувати знову",
     "suite-page-organization-property-details-description-title": "Опис",
     "suite-page-organization-property-details-no-property": "Кімнату не можливо відобразити. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
@@ -10,6 +12,8 @@
     "suite-page-organization-property-details-overview-title": "Огляд",
     "suite-page-organization-property-details-price-money": "- Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-property-details-price-points": "- Резервація коштує {priceCredits} за годину.",
-    "suite-page-organization-property-details-price-points-and-money": "- Резервація коштує {priceMoney} або {priceCredits} за годину"
+    "suite-page-organization-property-details-price-points-and-money": "- Резервація коштує {priceMoney} або {priceCredits} за годину",
+    "suite-page-organization-property-details-property-actions": "Додаткові дії",
+    "suite-page-organization-property-details-property-action-delete": "Удалить"
   }
 }

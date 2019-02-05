@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-details-title": "{propertyName} 정보",
     "suite-page-organization-property-details-title-default": "정보",
+    "suite-page-organization-property-details-delete-failure": "Failed to delete room. 🙁",
+    "suite-page-organization-property-details-delete-repeat": "다시시도",
     "suite-page-organization-property-details-description-title": "설명",
     "suite-page-organization-property-details-no-property": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-organization-property-details-overview-max-booking-time": "- 최대 예약 시간 {duration}입니다.",
@@ -10,6 +12,8 @@
     "suite-page-organization-property-details-overview-title": "안내",
     "suite-page-organization-property-details-price-money": "- 이용료는 시간 당 {priceMoney}입니다.",
     "suite-page-organization-property-details-price-points": "- 이용료는 시간 당 {priceCredits}입니다.",
-    "suite-page-organization-property-details-price-points-and-money": "- 이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다."
+    "suite-page-organization-property-details-price-points-and-money": "- 이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다.",
+    "suite-page-organization-property-details-property-actions": "Property Actions",
+    "suite-page-organization-property-details-property-action-delete": "Delete room"
   }
 }

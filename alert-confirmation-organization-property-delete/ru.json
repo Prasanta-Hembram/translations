@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-property-delete-title": "Удалить комнату",
+    "alert-confirmation-organization-property-delete-no": "Отменить",
+    "alert-confirmation-organization-property-delete-text": "Are you sure you want to delete this room? This action is irreversible.",
+    "alert-confirmation-organization-property-delete-yes": "Да, удалить"
+  }
+}
