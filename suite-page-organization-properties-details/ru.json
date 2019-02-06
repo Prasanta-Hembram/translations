@@ -2,10 +2,10 @@
   "data": {
     "suite-page-organization-property-details-title": "Подробно о {propertyName}",
     "suite-page-organization-property-details-title-default": "Подробно",
-    "suite-page-organization-property-details-delete-failure": "Не удалось удалить комнату.",
+    "suite-page-organization-property-details-delete-failure": "Не удалось удалить переговорную.",
     "suite-page-organization-property-details-delete-repeat": "Попробовать еще раз",
     "suite-page-organization-property-details-description-title": "Описание",
-    "suite-page-organization-property-details-no-property": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
+    "suite-page-organization-property-details-no-property": "Переговорная не отображается. Проверьте, все ли хорошо с интернет-соединением.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность резервации {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность резервации {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Эта комната может вместить до {numberOfSeats} гостей.",
@@ -14,6 +14,6 @@
     "suite-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
     "suite-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час.",
     "suite-page-organization-property-details-property-actions": "Дополнительные действия",
-    "suite-page-organization-property-details-property-action-delete": "Удалить"
+    "suite-page-organization-property-details-property-action-delete": "Удалить переговорную"
   }
 }
