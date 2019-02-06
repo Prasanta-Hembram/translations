@@ -13,7 +13,7 @@
     "suite-page-organization-property-details-price-money": "- 이용료는 시간 당 {priceMoney}입니다.",
     "suite-page-organization-property-details-price-points": "- 이용료는 시간 당 {priceCredits}입니다.",
     "suite-page-organization-property-details-price-points-and-money": "- 이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다.",
-    "suite-page-organization-property-details-property-actions": "Property Actions",
-    "suite-page-organization-property-details-property-action-delete": "Delete room"
+    "suite-page-organization-property-details-property-actions": "시설 관리",
+    "suite-page-organization-property-details-property-action-delete": "시설 삭제하기"
   }
 }
