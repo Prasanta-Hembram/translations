@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-iot-rooms-get-failure": "Couldn't show IoT devices. Are you sure there is an internet connection?",
     "suite-page-organization-iot-rooms-title": "IoT Devices",
     "suite-page-organization-iot-rooms-no-group": "The workspace has no devices to display.",
     "suite-page-organization-iot-rooms-no-integration": "The workspace has no devices to display.",

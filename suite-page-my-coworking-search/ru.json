@@ -5,7 +5,7 @@
     "suite-page-my-coworking-search-button-already-joined": "Вы уже присоединились",
     "suite-page-my-coworking-search-button-request": "Вступить",
     "suite-page-my-coworking-search-create-alert-submit-success": "Запрос успешно отправлен на рассмотрение",
-    "suite-page-my-coworking-search-search-internet-error": "Невозможно отобразить список. Проверьте соединение с интернетом.",
+    "suite-page-my-coworking-search-search-internet-error": "Не удалось отобразить список. Проверьте интернет-соединение.",
     "suite-page-my-coworking-search-search-nothing-found": "Отсутствуют коворкинги с таким тегом",
     "suite-page-my-coworking-search-search-nothing-found-title": "Ой, ничего не найдено!",
     "suite-page-my-coworking-search-search-placeholder": "тег коворкинга",

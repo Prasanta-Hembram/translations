@@ -3,7 +3,7 @@
     "suite-page-organization-property-details-title": "Подробно о {propertyName}",
     "suite-page-organization-property-details-title-default": "Подробно",
     "suite-page-organization-property-details-description-title": "Описание",
-    "suite-page-organization-property-details-no-property": "Комната не отображается. Проверьте, все ли хорошо с интернет-соединением.",
+    "suite-page-organization-property-details-no-property": "Не удалось отобразить переговорные. Проверьте интернет-соединение.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность резервации {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность резервации {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Эта комната может вместить до {numberOfSeats} гостей.",

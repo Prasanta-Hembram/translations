@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-user-booking-history-title": "Все мои бронирования",
     "suite-page-organization-user-booking-history-default-booking-purpose": "Бронь",
-    "suite-page-organization-user-booking-history-fetch-failure": "Все мои бронирования не отображаются. Проверьте, все ли хорошо с интернет-соединением.",
+    "suite-page-organization-user-booking-history-fetch-failure": "Не удалось отобразить все мои бронирования. Проверьте интернет-соединение.",
     "suite-page-organization-user-booking-history-history-title": "История бронирования",
     "suite-page-organization-user-booking-history-list-empty": "Ничего не найдено. 😢",
     "suite-page-organization-user-booking-history-permission-denied": "Нет прав доступа для просмотра этой страницы."
