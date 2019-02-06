@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-property-details-title": "{propertyName} 정보",
     "suite-page-organization-property-details-title-default": "정보",
-    "suite-page-organization-property-details-delete-failure": "Failed to delete room. 🙁",
+    "suite-page-organization-property-details-delete-failure": "Не удалось удалить комнату.",
     "suite-page-organization-property-details-delete-repeat": "다시시도",
     "suite-page-organization-property-details-description-title": "설명",
     "suite-page-organization-property-details-no-property": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
