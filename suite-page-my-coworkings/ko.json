@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-my-coworkings-main-title": "나의 공간",
+    "suite-page-my-coworkings-button-create": "등록하기",
     "suite-page-my-coworkings-button-join": "참여하기",
     "suite-page-my-coworkings-button-search": "검색",
     "suite-page-my-coworkings-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",

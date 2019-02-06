@@ -13,6 +13,7 @@
     "suite-errors-invalid-params": "Something went wrong. Please try again.",
     "suite-errors-no-enough-cash": "Not enough cash",
     "suite-errors-no-internet": "No internet connection",
+    "suite-errors-organization-code-invalid": "Looks like this workspace name is already taken. Try another one.",
     "suite-errors-payment-failure": "Payment failure",
     "suite-errors-payment-price-high": "The amount is too high. The maximum charge is US$5,000 equivalent.",
     "suite-errors-payment-price-low": "The amount is too small. The minimum charge is US$0.5 equivalent.",

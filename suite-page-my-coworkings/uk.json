@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-my-coworkings-main-title": "Мої коворкінги",
+    "suite-page-my-coworkings-button-create": "Створити",
     "suite-page-my-coworkings-button-join": "Долучитися",
     "suite-page-my-coworkings-button-search": "Пошук",
     "suite-page-my-coworkings-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",

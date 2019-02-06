@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-my-coworkings-main-title": "My Workspaces",
+    "suite-page-my-coworkings-button-create": "Create",
     "suite-page-my-coworkings-button-join": "Join",
     "suite-page-my-coworkings-button-search": "Search",
     "suite-page-my-coworkings-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
