@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-edit-description": "Описание",
     "suite-page-organization-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
+    "suite-page-organization-property-edit-error-number-of-people": "Please indicate how many people can fit in the room.",
+    "suite-page-organization-property-edit-error-room-name": "Please enter a room name.",
     "suite-page-organization-property-edit-is-public": "Публично доступно",
     "suite-page-organization-property-edit-max-time": "Макс. время",
     "suite-page-organization-property-edit-min-time": "Мин. время",

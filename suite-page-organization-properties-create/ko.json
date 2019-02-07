@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-create-description": "설명",
     "suite-page-organization-property-create-description-placeholder": "설명입력(선택사항)",
+    "suite-page-organization-property-create-error-number-of-people": "시설의 수용가능인원 입력.",
+    "suite-page-organization-property-create-error-room-name": "시설 명 입력하기.",
     "suite-page-organization-property-create-is-public": "외부인 구매 가능",
     "suite-page-organization-property-create-max-time": "최대예약시간",
     "suite-page-organization-property-create-min-time": "최소예약시간",
@@ -11,6 +13,6 @@
     "suite-page-organization-property-create-price-limits-desc": "회원들은 US$0.50와 US$5,000 사이의 금액, 혹은 현지통화 기준 해당하는 범위 안의 금액에서만 카드를 사용할 수 있습니다.",
     "suite-page-organization-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-create-price-points": "시간당 {pointEmoji}",
-    "suite-page-organization-property-create-title-create": "시설 만들기"
+    "suite-page-organization-property-create-title-create": "시설 추가"
   }
 }

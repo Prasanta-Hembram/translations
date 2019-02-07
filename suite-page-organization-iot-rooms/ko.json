@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-iot-rooms-get-failure": "IoT 장치를 볼 수 없습니다. 인터넷 연결 상태를 확인해주세요.",
     "suite-page-organization-iot-rooms-title": "IoT 장치",
     "suite-page-organization-iot-rooms-no-group": "공간에 장치가 없습니다.",
     "suite-page-organization-iot-rooms-no-integration": "공간에 장치가 없습니다.",

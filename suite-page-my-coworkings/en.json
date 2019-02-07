@@ -1,10 +1,11 @@
 {
   "data": {
     "suite-page-my-coworkings-main-title": "My Workspaces",
-    "suite-page-my-coworkings-button-join": "Join",
+    "suite-page-my-coworkings-button-create": "Create New Workspace",
+    "suite-page-my-coworkings-button-join": "Join Existing Workspace",
     "suite-page-my-coworkings-button-search": "Search",
     "suite-page-my-coworkings-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "suite-page-my-coworkings-no-coworkings": "To use andcards, you'll need to join a workspace.",
+    "suite-page-my-coworkings-no-coworkings": "If you're a resident, join an existing workspace. If you're a community manager, create a new workspace.",
     "suite-page-my-coworkings-no-coworkings-title": "Let's get started",
     "suite-page-my-coworkings-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved."
   }

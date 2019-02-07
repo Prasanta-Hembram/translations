@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-create-description": "Descripción",
     "suite-page-organization-property-create-description-placeholder": "Descripción del tipo de su sala de reuniones (opcional)",
+    "suite-page-organization-property-create-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
+    "suite-page-organization-property-create-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
     "suite-page-organization-property-create-is-public": "Acceso Público",
     "suite-page-organization-property-create-max-time": "Tiempo máximo",
     "suite-page-organization-property-create-min-time": "Tiempo mínimo",
@@ -11,6 +13,6 @@
     "suite-page-organization-property-create-price-limits-desc": "Los miembros podrán usar tarjetas de crédito por cualquier suma entre US $ 0,50 y US $ 5000, o su equivalente en la moneda local",
     "suite-page-organization-property-create-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-property-create-price-points": "Precio, {pointEmoji}/hora",
-    "suite-page-organization-property-create-title-create": "Crear Sala"
+    "suite-page-organization-property-create-title-create": "Nuevo Cuarto"
   }
 }

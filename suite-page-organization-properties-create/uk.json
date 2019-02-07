@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-create-description": "Опис",
     "suite-page-organization-property-create-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
+    "suite-page-organization-property-create-error-number-of-people": "Вкажіть, скільки людей може містити кімната.",
+    "suite-page-organization-property-create-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-property-create-is-public": "Публічно доступний",
     "suite-page-organization-property-create-max-time": "Макс. час",
     "suite-page-organization-property-create-min-time": "Мін. час",
@@ -11,6 +13,6 @@
     "suite-page-organization-property-create-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
     "suite-page-organization-property-create-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-property-create-price-points": "Ціна, {pointEmoji}/год",
-    "suite-page-organization-property-create-title-create": "Створити кімнату"
+    "suite-page-organization-property-create-title-create": "Нова кімната"
   }
 }
