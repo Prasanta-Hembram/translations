@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-edit-description": "설명",
     "suite-page-organization-property-edit-description-placeholder": "설명입력(선택사항)",
+    "suite-page-organization-property-edit-error-number-of-people": "Please indicate how many people can fit in the room.",
+    "suite-page-organization-property-edit-error-room-name": "Please enter a room name.",
     "suite-page-organization-property-edit-is-public": "외부인 구매 가능",
     "suite-page-organization-property-edit-max-time": "최대예약시간",
     "suite-page-organization-property-edit-min-time": "최소예약시간",

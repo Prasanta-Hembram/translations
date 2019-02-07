@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-create-description": "Description",
     "suite-page-organization-property-create-description-placeholder": "Type description for your room (optional)",
+    "suite-page-organization-property-create-error-number-of-people": "Please indicate how many people can fit in the room.",
+    "suite-page-organization-property-create-error-room-name": "Please enter a room name.",
     "suite-page-organization-property-create-is-public": "Public Access",
     "suite-page-organization-property-create-max-time": "Max time",
     "suite-page-organization-property-create-min-time": "Min time",

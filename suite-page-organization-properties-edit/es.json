@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-edit-description": "Descripción",
     "suite-page-organization-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
+    "suite-page-organization-property-edit-error-number-of-people": "Please indicate how many people can fit in the room.",
+    "suite-page-organization-property-edit-error-room-name": "Please enter a room name.",
     "suite-page-organization-property-edit-is-public": "Acceso Público",
     "suite-page-organization-property-edit-max-time": "Tiempo máximo",
     "suite-page-organization-property-edit-min-time": "Tiempo mínimo",

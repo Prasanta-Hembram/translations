@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-create-description": "Descripción",
     "suite-page-organization-property-create-description-placeholder": "Descripción del tipo de su sala de reuniones (opcional)",
+    "suite-page-organization-property-create-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
+    "suite-page-organization-property-create-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
     "suite-page-organization-property-create-is-public": "Acceso Público",
     "suite-page-organization-property-create-max-time": "Tiempo máximo",
     "suite-page-organization-property-create-min-time": "Tiempo mínimo",

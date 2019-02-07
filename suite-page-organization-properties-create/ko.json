@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-create-description": "설명",
     "suite-page-organization-property-create-description-placeholder": "설명입력(선택사항)",
+    "suite-page-organization-property-create-error-number-of-people": "시설의 수용가능인원 입력.",
+    "suite-page-organization-property-create-error-room-name": "시설 명 입력하기.",
     "suite-page-organization-property-create-is-public": "외부인 구매 가능",
     "suite-page-organization-property-create-max-time": "최대예약시간",
     "suite-page-organization-property-create-min-time": "최소예약시간",
