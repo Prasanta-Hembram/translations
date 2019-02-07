@@ -1,5 +1,11 @@
 {
   "data": {
+    "suite-page-organization-user-virtual-create-error-email": "Please enter a correct email.",
+    "suite-page-organization-user-virtual-create-error-first-name": "Please enter a first name.",
+    "suite-page-organization-user-virtual-create-error-last-name": "Please enter a last name.",
+    "suite-page-organization-user-virtual-create-error-organization": "Please enter a organization.",
+    "suite-page-organization-user-virtual-create-error-phone-number": "Please enter a phone number.",
+    "suite-page-organization-user-virtual-create-error-title": "Please enter a title.",
     "suite-page-organization-user-virtual-create-title": "Create Virtual User",
     "suite-page-organization-user-virtual-create-error-permission-denied": "You don't have permission to access this page."
   }
