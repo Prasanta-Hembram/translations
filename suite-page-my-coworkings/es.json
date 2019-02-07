@@ -1,11 +1,11 @@
 {
   "data": {
     "suite-page-my-coworkings-main-title": "Mis espacios de trabajo",
-    "suite-page-my-coworkings-button-create": "Crear",
-    "suite-page-my-coworkings-button-join": "Buscar",
+    "suite-page-my-coworkings-button-create": "Crear nuevo espacio de trabajo",
+    "suite-page-my-coworkings-button-join": "Buscar espacio de trabajo existente",
     "suite-page-my-coworkings-button-search": "Buscar",
     "suite-page-my-coworkings-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-my-coworkings-no-coworkings": "Para usar andcards, deberás unirte a un espacio de trabajo.",
+    "suite-page-my-coworkings-no-coworkings": "Si eres residente, únete a un área de trabajo existente. Si eres un administrador de la comunidad, crea una nueva área de trabajo.",
     "suite-page-my-coworkings-no-coworkings-title": "Empecemos!",
     "suite-page-my-coworkings-requested-text": "Su solicitud está siendo revisada por el administrador. Te avisaremos una vez que se resuelva."
   }
