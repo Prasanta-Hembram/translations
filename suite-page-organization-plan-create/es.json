@@ -4,7 +4,6 @@
     "suite-page-organization-plan-create-credits": "Créditos, {pointEmoji}",
     "suite-page-organization-plan-create-description": "Descripción del plan",
     "suite-page-organization-plan-create-description-placeholder": "Agregar descripción del plan",
-    "suite-page-organization-plan-create-is-public": "Acceso Público",
     "suite-page-organization-plan-create-plan-point-allocation-disabled-desc": "Los suscriptores recibirán todos los créditos a la vez.",
     "suite-page-organization-plan-create-plan-point-allocation-enabled-desc": "Los suscriptores de 1 mes o menos recibirán todos los créditos a la vez. Más de 3 meses los suscriptores obtendrán créditos cada mes.",
     "suite-page-organization-plan-create-plan-title": "Nombre del plan",

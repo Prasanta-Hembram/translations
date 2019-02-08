@@ -3,7 +3,6 @@
     "suite-page-organization-plan-edit-title": "Editar un Plan",
     "suite-page-organization-plan-edit-description": "Los cambios en el monto del crédito se aplicarán a partir del próximo período de facturación.",
     "suite-page-organization-plan-edit-credits": "Créditos, {pointEmoji}",
-    "suite-page-organization-plan-edit-is-public": "Acceso Público",
     "suite-page-organization-plan-edit-note": "Descripción del plan",
     "suite-page-organization-plan-edit-note-placeholder": "Agregar descripción del plan",
     "suite-page-organization-plan-edit-plan-point-allocation-disabled-desc": "Los suscriptores recibirán todos los créditos a la vez.",
