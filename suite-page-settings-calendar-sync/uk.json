@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-settings-calendar-sync-title": "Експорт у календар",
+    "suite-page-settings-calendar-sync-description": "Скористайтеся цим посиланням для того, щоб переглядати свої andcards резервації в особистому календарі. Інструкції для налаштування популярних сервісів:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-settings-calendar-sync-copied-to-clipboard": "Скопійовано в буфер обміну",
+    "suite-page-settings-calendar-sync-generate-new-url-button": "Згенерувати нове посилання",
+    "suite-page-settings-calendar-sync-service-apple-calendar": "Календар Apple",
+    "suite-page-settings-calendar-sync-service-google-calendar": "Календар Google",
+    "suite-page-settings-calendar-sync-service-outlook": "Календар Outlook",
+    "suite-page-settings-calendar-sync-url-security-warning": "ВАЖЛИВО! Тримайте це посилання в секреті. Будь-хто з доступом до цього посилання зможе побачити ваші бронювання."
+  }
+}
