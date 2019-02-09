@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-settings-calendar-sync-title": "Експорт у календар",
+    "suite-page-settings-calendar-sync-title": "Синхронізація з календарем",
     "suite-page-settings-calendar-sync-description": "Скористайтеся цим посиланням для того, щоб переглядати свої andcards резервації в особистому календарі. Інструкції для налаштування популярних сервісів:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
     "suite-page-settings-calendar-sync-copied-to-clipboard": "Скопійовано в буфер обміну",
     "suite-page-settings-calendar-sync-generate-new-url-button": "Згенерувати нове посилання",

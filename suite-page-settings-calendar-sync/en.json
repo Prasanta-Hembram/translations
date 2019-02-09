@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-settings-calendar-sync-title": "Export to Calendar",
+    "suite-page-settings-calendar-sync-title": "Calendar Sync",
     "suite-page-settings-calendar-sync-description": "Use this link to view all bookings made on andcards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
     "suite-page-settings-calendar-sync-copied-to-clipboard": "Copied to clipboard",
     "suite-page-settings-calendar-sync-generate-new-url-button": "Generate a new link",
