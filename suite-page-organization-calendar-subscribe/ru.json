@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-calendar-subscribe-title": "Экспорт в календарь",
+    "suite-page-organization-calendar-subscribe-description": "Воспользуйтесь этой ссылкой чтобы видеть свои andcards бронирования в личном календаре. Инструкции по настройке популярных сервисов:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-organization-calendar-subscribe-copied-to-clipboard": "Скопировано в буфер обмена",
+    "suite-page-organization-calendar-subscribe-generate-new-url-button": "Сгенерировать новую ссылку",
+    "suite-page-organization-calendar-subscribe-service-apple-calendar": "Календарь Apple",
+    "suite-page-organization-calendar-subscribe-service-google-calendar": "Календарь Google",
+    "suite-page-organization-calendar-subscribe-service-outlook": "Календарь Outlook",
+    "suite-page-organization-calendar-subscribe-url-security-warning": "ВАЖНО! Держите ссылку в секрете. Любой с доступом к этой ссылке увидит все ваши бронирования."
+  }
+}
