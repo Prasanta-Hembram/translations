@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-settings-calendar-subscribe-title": "Export to Calendar",
+    "suite-page-settings-calendar-subscribe-description": "Use this link to view all bookings made on andcards in your personal calendar. Here are instructions for common calendar apps:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-settings-calendar-subscribe-copied-to-clipboard": "Copied to clipboard",
+    "suite-page-settings-calendar-subscribe-generate-new-url-button": "Generate a new link",
+    "suite-page-settings-calendar-subscribe-service-apple-calendar": "Apple Calendar",
+    "suite-page-settings-calendar-subscribe-service-google-calendar": "Google Calendar",
+    "suite-page-settings-calendar-subscribe-service-outlook": "Outlook Calendar",
+    "suite-page-settings-calendar-subscribe-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
+  }
+}

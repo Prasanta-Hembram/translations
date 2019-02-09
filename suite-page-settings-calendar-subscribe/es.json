@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-settings-calendar-subscribe-title": "Exportar a Calendario",
+    "suite-page-settings-calendar-subscribe-description": "Use este enlace para ver todas las reservas realizadas en andcards en su calendario personal. Aquí hay instrucciones para aplicaciones de calendario comunes:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-settings-calendar-subscribe-copied-to-clipboard": "Copiado al portapapeles",
+    "suite-page-settings-calendar-subscribe-generate-new-url-button": "Generar un nuevo enlace",
+    "suite-page-settings-calendar-subscribe-service-apple-calendar": "Apple Calendario",
+    "suite-page-settings-calendar-subscribe-service-google-calendar": "Google Calendario",
+    "suite-page-settings-calendar-subscribe-service-outlook": "Outlook Calendario",
+    "suite-page-settings-calendar-subscribe-url-security-warning": "¡Importante! Mantenga este enlace privado. Cualquier persona con este enlace puede ver tu feed."
+  }
+}
