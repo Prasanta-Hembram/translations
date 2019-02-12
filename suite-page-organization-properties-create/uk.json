@@ -9,7 +9,7 @@
     "suite-page-organization-property-create-name": "Назва",
     "suite-page-organization-property-create-name-placeholder": "Додайте назву",
     "suite-page-organization-property-create-number-of-seats": "Місць",
-    "suite-page-organization-property-create-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
+    "suite-page-organization-property-create-price-currency-changing-notice": "Щоб змінити валюту, зверніться до support@andcards.com.",
     "suite-page-organization-property-create-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-property-create-price-points": "Ціна, {pointEmoji}/год",
     "suite-page-organization-property-create-title-create": "Нова кімната"
