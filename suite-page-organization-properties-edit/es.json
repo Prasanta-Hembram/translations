@@ -9,7 +9,7 @@
     "suite-page-organization-property-edit-name": "Nombre",
     "suite-page-organization-property-edit-name-placeholder": "Ingrese su nombre",
     "suite-page-organization-property-edit-number-of-seats": "Asientos",
-    "suite-page-organization-property-edit-price-limits-desc": "Los miembros podrán usar tarjetas de crédito por cualquier suma entre US $ 0,50 y US $ 5000, o su equivalente en la moneda local",
+    "suite-page-organization-property-edit-price-currency-changing-notice": "Para cambiar de moneda, póngase en contacto con support@andcards.com",
     "suite-page-organization-property-edit-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-property-edit-price-points": "Precio, {pointEmoji}/hora",
     "suite-page-organization-property-edit-title-edit": "Editar Habitación"
