@@ -1,0 +1,5 @@
+{
+  "data": {
+    "component-button-booking-interval-now-until": "Сейчас, до {timeUntil}"
+  }
+}
