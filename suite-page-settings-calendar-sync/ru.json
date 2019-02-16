@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-settings-calendar-sync-title": "Синхронизация с календарем",
-    "suite-page-settings-calendar-sync-description": "Воспользуйтесь этой ссылкой чтобы видеть свои andcards бронирования в личном календаре. Инструкции по настройке популярных сервисов:\n\n- {googleCalendar}\n- {outlook}\n- {appleCalendar}",
+    "suite-page-settings-calendar-sync-description": "Воспользуйтесь этой ссылкой чтобы видеть свои andcards бронирования в личном календаре. Инструкции по настройке популярных сервисов:",
     "suite-page-settings-calendar-sync-copied-to-clipboard": "Скопировано в буфер обмена",
     "suite-page-settings-calendar-sync-generate-new-url-button": "Сгенерировать новую ссылку",
     "suite-page-settings-calendar-sync-service-apple-calendar": "Календарь Apple",
