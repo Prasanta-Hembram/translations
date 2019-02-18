@@ -5,6 +5,7 @@
     "suite-page-settings-sessions-alert-delete-success": "Сеанс удалён",
     "suite-page-settings-sessions-current": "Текущий сеанс",
     "suite-page-settings-sessions-current-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
+    "suite-page-settings-sessions-log-out": "Выйти из системы",
     "suite-page-settings-sessions-other": "Активные сеансы",
     "suite-page-settings-sessions-other-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
     "suite-page-settings-sessions-other-empty": "Нет активных сеансов или интернета."
