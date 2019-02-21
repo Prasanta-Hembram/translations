@@ -6,6 +6,8 @@
     "suite-page-organization-property-statistics-bookings-times": "Tiempos de reserva",
     "suite-page-organization-property-statistics-difference": "Diferencia",
     "suite-page-organization-property-statistics-end-date-title": "Fin",
+    "suite-page-organization-property-statistics-error-end-date": "Por favor indique la fecha de finalización correcta.",
+    "suite-page-organization-property-statistics-error-start-date": "Por favor indique la fecha de inicio correcta.",
     "suite-page-organization-property-statistics-facility": "Total (esta sala)",
     "suite-page-organization-property-statistics-internet-error-chart": "No se pudo mostrar un gráfico. ¿Estás seguro de que hay una conexión a Internet??",
     "suite-page-organization-property-statistics-internet-error-general": "No se pudo mostrar una estadística ¿Estás seguro de que hay una conexión a Internet??",
