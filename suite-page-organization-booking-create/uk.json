@@ -20,6 +20,7 @@
     "suite-page-organization-booking-create-card-expiry": "Термін дії",
     "suite-page-organization-booking-create-card-phone-number": "Номер картки",
     "suite-page-organization-booking-create-end-time": "Кінець",
+    "suite-page-organization-booking-create-error-booking-purpose-empty": "Уведіть назву резервації.",
     "suite-page-organization-booking-create-free": "Безкоштовно",
     "suite-page-organization-booking-create-full-day-description": "Мінімальний період резервації - 1 день.",
     "suite-page-organization-booking-create-memo": "Нотатка",
