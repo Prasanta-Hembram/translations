@@ -2,6 +2,7 @@
   "data": {
     "suite-page-settings-main-title": "Профиль",
     "suite-page-settings-main-account": "Учетная запись",
+    "suite-page-settings-main-calendar-sync": "Синхронизация с календарем",
     "suite-page-settings-main-cards": "Личные данные",
     "suite-page-settings-main-cookies-policy-title": "Политика куки-файлов",
     "suite-page-settings-main-help-title": "Помощь",
@@ -11,7 +12,6 @@
     "suite-page-settings-main-privacy-policy-title": "Политика конфиденциальности",
     "suite-page-settings-main-report-problem-title": "Сообщить о проблеме",
     "suite-page-settings-main-sessions-title": "Активные сеансы",
-    "suite-page-settings-main-sign-out": "Выйти из системы",
     "suite-page-settings-main-support": "Поддержка",
     "suite-page-settings-main-terms-title": "Условия использования",
     "suite-page-settings-main-version": "Версия"

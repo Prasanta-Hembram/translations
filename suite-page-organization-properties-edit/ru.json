@@ -2,13 +2,14 @@
   "data": {
     "suite-page-organization-property-edit-description": "Описание",
     "suite-page-organization-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
-    "suite-page-organization-property-edit-is-public": "Публично доступно",
+    "suite-page-organization-property-edit-error-number-of-people": "Please indicate how many people can fit in the room.",
+    "suite-page-organization-property-edit-error-room-name": "Please enter a room name.",
     "suite-page-organization-property-edit-max-time": "Макс. время",
     "suite-page-organization-property-edit-min-time": "Мин. время",
     "suite-page-organization-property-edit-name": "Название",
     "suite-page-organization-property-edit-name-placeholder": "Добавьте название",
     "suite-page-organization-property-edit-number-of-seats": "Мест",
-    "suite-page-organization-property-edit-price-limits-desc": "Учасники смогут использовать карты на любую сумму от 0,50 до 5000 долл. США, или эквивалент в вашей местной валюте.",
+    "suite-page-organization-property-edit-price-currency-changing-notice": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-property-edit-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-property-edit-price-points": "Цена, {pointEmoji}/час",
     "suite-page-organization-property-edit-title-edit": "Редактировать комнату"

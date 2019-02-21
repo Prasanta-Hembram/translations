@@ -2,13 +2,14 @@
   "data": {
     "suite-page-organization-property-edit-description": "설명",
     "suite-page-organization-property-edit-description-placeholder": "설명입력(선택사항)",
-    "suite-page-organization-property-edit-is-public": "외부인 구매 가능",
+    "suite-page-organization-property-edit-error-number-of-people": "Please indicate how many people can fit in the room.",
+    "suite-page-organization-property-edit-error-room-name": "Please enter a room name.",
     "suite-page-organization-property-edit-max-time": "최대예약시간",
     "suite-page-organization-property-edit-min-time": "최소예약시간",
     "suite-page-organization-property-edit-name": "시설 명",
     "suite-page-organization-property-edit-name-placeholder": "시설 명 입력하기",
     "suite-page-organization-property-edit-number-of-seats": "좌석 수",
-    "suite-page-organization-property-edit-price-limits-desc": "회원들은 US$0.50와 US$5,000 사이의 금액, 혹은 현지통화 기준 해당하는 범위 안의 금액에서만 카드를 사용할 수 있습니다.",
+    "suite-page-organization-property-edit-price-currency-changing-notice": "화폐단위를 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-property-edit-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-edit-price-points": "시간당 {pointEmoji}",
     "suite-page-organization-property-edit-title-edit": "시설설정"

@@ -5,6 +5,7 @@
     "suite-page-settings-sessions-alert-delete-success": "Сеанс видалено",
     "suite-page-settings-sessions-current": "Поточний сеанс",
     "suite-page-settings-sessions-current-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
+    "suite-page-settings-sessions-log-out": "Вийти з системи",
     "suite-page-settings-sessions-other": "Активні сеанси",
     "suite-page-settings-sessions-other-cannot-load": "Неможливо показати дані. Перевірте з'єднання з інтернетом.",
     "suite-page-settings-sessions-other-empty": "Немає активних сеансів."

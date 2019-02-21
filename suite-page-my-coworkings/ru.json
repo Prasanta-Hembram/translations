@@ -1,10 +1,11 @@
 {
   "data": {
     "suite-page-my-coworkings-main-title": "Мои коворкинги",
+    "suite-page-my-coworkings-button-create": "Создать новый",
     "suite-page-my-coworkings-button-join": "Присоединиться",
     "suite-page-my-coworkings-button-search": "Поиск",
-    "suite-page-my-coworkings-get-failure": "Коворкинги не отображаются. Проверьте, все ли хорошо с интернет соединением.",
-    "suite-page-my-coworkings-no-coworkings": "Чтобы воспользоваться andcards, присоединитесь к коворкингу.",
+    "suite-page-my-coworkings-get-failure": "Не удалось отобразить коворкинги. Проверьте интернет-соединение.",
+    "suite-page-my-coworkings-no-coworkings": "Если вы резидент, присоединитесь к существующему коворкингу. Если вы менеджер коворингу, создайте новый коворкинг.",
     "suite-page-my-coworkings-no-coworkings-title": "Поехали!",
     "suite-page-my-coworkings-requested-text": "Ваш запрос рассматривается администратором. Мы сообщим когда решение будет принято."
   }

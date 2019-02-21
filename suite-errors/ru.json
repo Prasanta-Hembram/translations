@@ -13,6 +13,8 @@
     "suite-errors-invalid-params": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
     "suite-errors-no-enough-cash": "Недостаточно наличных",
     "suite-errors-no-internet": "Нет интернет-соединения",
+    "suite-errors-no-printers-connections": "В коворкинга нет данных о пользователей принтеров.",
+    "suite-errors-organization-code-invalid": "Кажется, коворкинг с таким названием уже существует. Попробуйте другое название.",
     "suite-errors-payment-failure": "Платеж не прошел",
     "suite-errors-payment-price-high": "Сумма слишком большая. Максимальная сумма составляет 5000 долларов США.",
     "suite-errors-payment-price-low": "Сумма слишком мала. Минимальная сумма составляет 0,5 доллара США.",

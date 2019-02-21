@@ -2,6 +2,7 @@
   "data": {
     "suite-page-settings-main-title": "Профіль",
     "suite-page-settings-main-account": "Обліковий запис",
+    "suite-page-settings-main-calendar-sync": "Синхронізація з календарем",
     "suite-page-settings-main-cards": "Особисті дані",
     "suite-page-settings-main-cookies-policy-title": "Політика кукі-файлів",
     "suite-page-settings-main-help-title": "Допомога",
@@ -11,7 +12,6 @@
     "suite-page-settings-main-privacy-policy-title": "Політика приватності",
     "suite-page-settings-main-report-problem-title": "Повідомити про проблему",
     "suite-page-settings-main-sessions-title": "Активні сеанси",
-    "suite-page-settings-main-sign-out": "Вийти з системи",
     "suite-page-settings-main-support": "Підтримка",
     "suite-page-settings-main-terms-title": "Умови надання послуг",
     "suite-page-settings-main-version": "Версія"

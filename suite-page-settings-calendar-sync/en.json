@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-settings-calendar-sync-title": "Calendar Sync",
+    "suite-page-settings-calendar-sync-description": "Use this link to view all bookings made on andcards in your personal calendar. Here are instructions for common calendar apps:",
+    "suite-page-settings-calendar-sync-copied-to-clipboard": "Copied to clipboard",
+    "suite-page-settings-calendar-sync-generate-new-url-button": "Generate a new link",
+    "suite-page-settings-calendar-sync-link-title": "Link",
+    "suite-page-settings-calendar-sync-service-apple-calendar": "Apple Calendar",
+    "suite-page-settings-calendar-sync-service-google-calendar": "Google Calendar",
+    "suite-page-settings-calendar-sync-service-outlook": "Outlook Calendar",
+    "suite-page-settings-calendar-sync-url-security-warning": "Important! Keep this link private. Anyone with this link can view your feed."
+  }
+}

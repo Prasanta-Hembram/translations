@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-iot-rooms-get-failure": "Неможливо відобразити пристрої. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-iot-rooms-title": "Пристрої IoT",
     "suite-page-organization-iot-rooms-no-group": "Цей коворкінг не має пристроїв.",
     "suite-page-organization-iot-rooms-no-integration": "Цей коворкінг не має пристроїв.",

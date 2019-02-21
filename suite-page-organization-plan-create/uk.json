@@ -4,7 +4,6 @@
     "suite-page-organization-plan-create-credits": "Кредити, {pointEmoji}",
     "suite-page-organization-plan-create-description": "Опис планy",
     "suite-page-organization-plan-create-description-placeholder": "Додати опис плану",
-    "suite-page-organization-plan-create-is-public": "Публічно доступний",
     "suite-page-organization-plan-create-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",
     "suite-page-organization-plan-create-plan-point-allocation-enabled-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "suite-page-organization-plan-create-plan-title": "Назва плану",

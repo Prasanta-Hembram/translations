@@ -1,5 +1,11 @@
 {
   "data": {
+    "suite-page-organization-user-virtual-create-error-email": "Введіть правильний email.",
+    "suite-page-organization-user-virtual-create-error-first-name": "Введіть ім'я.",
+    "suite-page-organization-user-virtual-create-error-last-name": "Введіть прізвище.",
+    "suite-page-organization-user-virtual-create-error-organization": "Введіть організацію.",
+    "suite-page-organization-user-virtual-create-error-phone-number": "Введіть номер телефону.",
+    "suite-page-organization-user-virtual-create-error-title": "Введіть посаду.",
     "suite-page-organization-user-virtual-create-title": "Створити віртуальний обліковий запис",
     "suite-page-organization-user-virtual-create-error-permission-denied": "Немає прав доступу для перегляду цієї сторінки."
   }
