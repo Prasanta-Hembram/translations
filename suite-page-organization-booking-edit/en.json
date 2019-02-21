@@ -7,7 +7,7 @@
     "suite-page-organization-booking-edit-balance-action-button-point": "Credits ({balance})",
     "suite-page-organization-booking-edit-booked-by": "Booker",
     "suite-page-organization-booking-edit-end-time": "Ending",
-    "suite-page-organization-booking-edit-error-purpose-empty": "Please enter a title of booking.",
+    "suite-page-organization-booking-edit-error-purpose-empty": "Please enter the booking title.",
     "suite-page-organization-booking-edit-error-date-invalid": "Please enter a correct date.",
     "suite-page-organization-booking-edit-error-time-invalid": "Please enter a correct time.",
     "suite-page-organization-booking-edit-label-start-date": "Start date",
