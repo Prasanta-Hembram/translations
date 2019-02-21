@@ -6,6 +6,8 @@
     "suite-page-organization-property-statistics-bookings-times": "예약 횟수",
     "suite-page-organization-property-statistics-difference": "차이값",
     "suite-page-organization-property-statistics-end-date-title": "종료일",
+    "suite-page-organization-property-statistics-error-end-date": "Please indicate correct end date.",
+    "suite-page-organization-property-statistics-error-start-date": "Please indicate correct start date.",
     "suite-page-organization-property-statistics-facility": "총 (이 시설)",
     "suite-page-organization-property-statistics-internet-error-chart": "차트를 찾을 수 없습니다. 인터넷 연결을 확인해 주세요",
     "suite-page-organization-property-statistics-internet-error-general": "통계를 찾을 수 없습니다. 인터넷 연결을 확인해 주세요",
