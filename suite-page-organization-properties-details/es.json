@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-details-title": "Acerca de {propertyName}",
     "suite-page-organization-property-details-title-default": "Acerca",
+    "suite-page-organization-property-details-delete-failure": "Error al eliminar la sala de reuniones.",
+    "suite-page-organization-property-details-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-property-details-description-title": "Descripción",
     "suite-page-organization-property-details-no-property": "No se pudo mostrar una habitación ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-property-details-overview-max-booking-time": "- El tiempo máximo de reserva es {duration}.",
@@ -10,6 +12,8 @@
     "suite-page-organization-property-details-overview-title": "visión general",
     "suite-page-organization-property-details-price-money": "- El precio es {priceMoney} por hora.",
     "suite-page-organization-property-details-price-points": "- El precio es {priceCredits} por hora.",
-    "suite-page-organization-property-details-price-points-and-money": "- El precio es {priceMoney} o {priceCredits} por hora."
+    "suite-page-organization-property-details-price-points-and-money": "- El precio es {priceMoney} o {priceCredits} por hora.",
+    "suite-page-organization-property-details-property-actions": "Acciones de propiedad",
+    "suite-page-organization-property-details-property-action-delete": "Borrar"
   }
 }

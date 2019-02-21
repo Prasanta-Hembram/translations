@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-details-title": "About {propertyName}",
     "suite-page-organization-property-details-title-default": "About",
+    "suite-page-organization-property-details-delete-failure": "Failed to delete the room.",
+    "suite-page-organization-property-details-delete-repeat": "Try again",
     "suite-page-organization-property-details-description-title": "Description",
     "suite-page-organization-property-details-no-property": "Couldn't show the room. Are you sure there is an internet connection?",
     "suite-page-organization-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
@@ -10,6 +12,8 @@
     "suite-page-organization-property-details-overview-title": "Overview",
     "suite-page-organization-property-details-price-money": "- The price of a booking is {priceMoney} per hour.",
     "suite-page-organization-property-details-price-points": "- The price of a booking is {priceCredits} per hour.",
-    "suite-page-organization-property-details-price-points-and-money": "- The price of a booking is {priceMoney} or {priceCredits} per hour."
+    "suite-page-organization-property-details-price-points-and-money": "- The price of a booking is {priceMoney} or {priceCredits} per hour.",
+    "suite-page-organization-property-details-property-actions": "Room Actions",
+    "suite-page-organization-property-details-property-action-delete": "Delete"
   }
 }

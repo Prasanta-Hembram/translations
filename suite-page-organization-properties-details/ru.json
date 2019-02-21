@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-property-details-title": "Подробно о {propertyName}",
     "suite-page-organization-property-details-title-default": "Подробно",
+    "suite-page-organization-property-details-delete-failure": "Не удалось удалить переговорную.",
+    "suite-page-organization-property-details-delete-repeat": "Попробовать еще раз",
     "suite-page-organization-property-details-description-title": "Описание",
     "suite-page-organization-property-details-no-property": "Не удалось отобразить переговорные. Проверьте интернет-соединение.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность резервации {duration}.",
@@ -10,6 +12,8 @@
     "suite-page-organization-property-details-overview-title": "Обзор",
     "suite-page-organization-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
     "suite-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
-    "suite-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час."
+    "suite-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час.",
+    "suite-page-organization-property-details-property-actions": "Дополнительные действия",
+    "suite-page-organization-property-details-property-action-delete": "Удалить переговорную"
   }
 }
