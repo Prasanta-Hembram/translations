@@ -20,6 +20,7 @@
     "suite-page-organization-booking-create-card-expiry": "Expiry",
     "suite-page-organization-booking-create-card-phone-number": "Card number",
     "suite-page-organization-booking-create-end-time": "Ending",
+    "suite-page-organization-booking-create-error-booking-purpose-empty": "Por favor, introduzca un título de su reserva.",
     "suite-page-organization-booking-create-free": "Free",
     "suite-page-organization-booking-create-full-day-description": "Minimum booking period is 1 day.",
     "suite-page-organization-booking-create-memo": "Memo",
