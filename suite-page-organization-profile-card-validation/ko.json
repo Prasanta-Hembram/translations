@@ -1,6 +1,13 @@
 {
   "data": {
     "suite-page-organization-profile-card-validation-organizations-card-validation-title": "필수입력",
+    "suite-page-organization-profile-card-validation-error-email": "이메일을 입력하기.",
+    "suite-page-organization-profile-card-validation-error-first-name": "이름 입력하기.",
+    "suite-page-organization-profile-card-validation-error-last-name": "성 입력하기.",
+    "suite-page-organization-profile-card-validation-error-organization": "조직 입력하기.",
+    "suite-page-organization-profile-card-validation-error-phone-number": "핸드폰 번호 입력하기.",
+    "suite-page-organization-profile-card-validation-error-title": "타이틀 입력하기.",
+    "suite-page-organization-profile-card-validation-title": "가상 계정 만들기",
     "suite-page-organization-profile-card-validation-my-cards-edit-fields-shared-basic-information": "기본정보"
   }
 }
