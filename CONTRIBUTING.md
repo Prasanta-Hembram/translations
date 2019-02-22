@@ -28,15 +28,15 @@ Example:
 
 Example:
 
-`"suite-page-organization-settings-spaces-section-amenities": "Amenities"`
+`"suite-page-organization-information-spaces-section-amenities": "Amenities"`
 
-`"suite-page-organization-settings-spaces-section-amenities-parking": "Parking"`
+`"suite-page-organization-information-spaces-section-amenities-parking": "Parking"`
 
 - Include the component name as part of the key.
 
 Example:
 
-`"suite-page-organization-settings-spaces-section-amenities-button-add": "Add amenities"`
+`"suite-page-organization-information-spaces-section-amenities-button-add": "Add amenities"`
 
 - The alert translations begins with an `alert` word.
 
