@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-settings-info-title": "Личные данные",
-    "suite-page-settings-info-error-email": "Пожалуйста, введите правильный email.",
-    "suite-page-settings-info-error-first-name": "Пожалуйста, введите имя.",
-    "suite-page-settings-info-photo-crop": "Кадрировать фото",
-    "suite-page-settings-info-photo-delete": "Удалить фото"
-  }
-}

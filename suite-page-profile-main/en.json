@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-profile-main-title": "Profile",
+    "suite-page-profile-main-account": "Account",
+    "suite-page-profile-main-calendar-sync": "Calendar Sync",
+    "suite-page-profile-main-cards": "My Info",
+    "suite-page-profile-main-cookies-policy-title": "Cookies Policy",
+    "suite-page-profile-main-help-title": "Help",
+    "suite-page-profile-main-interface": "Language",
+    "suite-page-profile-main-licenses-title": "Licenses",
+    "suite-page-profile-main-login-methods-title": "Login Methods",
+    "suite-page-profile-main-privacy-policy-title": "Privacy Policy",
+    "suite-page-profile-main-report-problem-title": "Report a Problem",
+    "suite-page-profile-main-sessions-title": "Active Sessions",
+    "suite-page-profile-main-support": "Support",
+    "suite-page-profile-main-terms-title": "Terms of Use",
+    "suite-page-profile-main-version": "Version"
+  }
+}

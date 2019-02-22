@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-profile-sessions-title": "Активные сеансы",
+    "suite-page-profile-sessions-description": "Список устройств, на которых вы вошли в andcards. Если вы не узнаете какого из активных сеансов, удалите его.",
+    "suite-page-profile-sessions-alert-delete-success": "Сеанс удалён",
+    "suite-page-profile-sessions-current": "Текущий сеанс",
+    "suite-page-profile-sessions-current-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
+    "suite-page-profile-sessions-log-out": "Выйти из системы",
+    "suite-page-profile-sessions-other": "Активные сеансы",
+    "suite-page-profile-sessions-other-cannot-load": "Невозможно отобразить сеансы. Проверьте соединение с интернетом.",
+    "suite-page-profile-sessions-other-empty": "Нет активных сеансов или интернета."
+  }
+}

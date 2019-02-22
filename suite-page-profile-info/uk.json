@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-profile-info-title": "Особисті дані",
+    "suite-page-profile-info-error-email": "Введіть правильний email.",
+    "suite-page-profile-info-error-first-name": "Введіть ім'я.",
+    "suite-page-profile-info-photo-crop": "Кадрувати фото",
+    "suite-page-profile-info-photo-delete": "Видалити фото"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-profile-main-title": "Perfil",
+    "suite-page-profile-main-account": "Cuenta",
+    "suite-page-profile-main-calendar-sync": "Sincronización de calendario",
+    "suite-page-profile-main-cards": "Mi info",
+    "suite-page-profile-main-cookies-policy-title": "Política de Cookies",
+    "suite-page-profile-main-help-title": "Ayuda",
+    "suite-page-profile-main-interface": "Idioma",
+    "suite-page-profile-main-licenses-title": "Licencias",
+    "suite-page-profile-main-login-methods-title": "Métodos de ingreso",
+    "suite-page-profile-main-privacy-policy-title": "Políticas de Privacidad",
+    "suite-page-profile-main-report-problem-title": "Informar de un problema",
+    "suite-page-profile-main-sessions-title": "Sesiones activas",
+    "suite-page-profile-main-support": "Soporte",
+    "suite-page-profile-main-terms-title": "Normas y Términos de Uso",
+    "suite-page-profile-main-version": "Versión"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-settings-info-title": "My Info",
-    "suite-page-settings-info-error-email": "Please enter a correct email.",
-    "suite-page-settings-info-error-first-name": "Please enter a first name.",
-    "suite-page-settings-info-photo-crop": "Crop photo",
-    "suite-page-settings-info-photo-delete": "Delete Photo"
-  }
-}
