@@ -6,6 +6,7 @@
     "suite-page-organization-profile-card-validation-error-last-name": "Пожалуйста, введите фамилию.",
     "suite-page-organization-profile-card-validation-error-organization": "Пожалуйста, введите организацию.",
     "suite-page-organization-profile-card-validation-error-phone-number": "Пожалуйста, введите номер телефона.",
+    "suite-page-organization-profile-card-validation-error-title": "Пожалуйста, введите должность.",
     "suite-page-organization-profile-card-validation-my-cards-edit-fields-shared-basic-information": "Основная информация"
   }
 }

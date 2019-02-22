@@ -6,6 +6,7 @@
     "suite-page-organization-profile-card-validation-error-last-name": "Введіть прізвище.",
     "suite-page-organization-profile-card-validation-error-organization": "Введіть організацію.",
     "suite-page-organization-profile-card-validation-error-phone-number": "Введіть номер телефону.",
+    "suite-page-organization-profile-card-validation-error-title": "Введіть посаду.",
     "suite-page-organization-profile-card-validation-my-cards-edit-fields-shared-basic-information": "Основна інформація"
   }
 }
