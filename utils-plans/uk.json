@@ -17,6 +17,7 @@
     "utils-plans-period-ends": "Закінчується {daysLeft}",
     "utils-plans-period-last-day": "Останній день",
     "utils-plans-period-renews": "Поновлення: {daysLeft}",
+    "utils-plans-period-starts": "Починається {daysBeforeStart}",
     "utils-plans-period-status-pending": "Статус: обробка",
     "utils-plans-title-fixed-desk": "Фіксоване місце",
     "utils-plans-title-hot-desk": "Нефіксоване місце",

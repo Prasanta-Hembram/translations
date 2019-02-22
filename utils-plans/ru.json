@@ -17,6 +17,7 @@
     "utils-plans-period-ends": "Заканчивается {daysLeft}",
     "utils-plans-period-last-day": "Последний день",
     "utils-plans-period-renews": "Продление через: {daysLeft}",
+    "utils-plans-period-starts": "Начинается {daysBeforeStart}",
     "utils-plans-period-status-pending": "Статус: обработка",
     "utils-plans-title-fixed-desk": "Закрепленное место",
     "utils-plans-title-hot-desk": "Незакрепленное место",

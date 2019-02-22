@@ -17,6 +17,7 @@
     "utils-plans-period-ends": "Finaliza en {daysLeft}",
     "utils-plans-period-last-day": "Último día",
     "utils-plans-period-renews": "Se renueva en {daysLeft}",
+    "utils-plans-period-starts": "Empieza {daysBeforeStart}",
     "utils-plans-period-status-pending": "Estado: Pendiente",
     "utils-plans-title-fixed-desk": "Escritorio Fijo",
     "utils-plans-title-hot-desk": "Escritorio Caliente",
