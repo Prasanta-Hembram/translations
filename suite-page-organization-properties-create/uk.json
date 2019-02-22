@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-property-create-description": "Опис",
     "suite-page-organization-property-create-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
-    "suite-page-organization-property-create-error-number-of-people": "Вкажіть, скільки людей може містити кімната.",
+    "suite-page-organization-property-create-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
     "suite-page-organization-property-create-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-property-create-max-time": "Макс. час",
     "suite-page-organization-property-create-min-time": "Мін. час",

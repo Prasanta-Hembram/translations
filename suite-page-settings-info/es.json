@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-settings-info-title": "Mi info",
+    "suite-page-settings-info-error-email": "Por favor, introduzca un correo electrónico correcto.",
+    "suite-page-settings-info-error-first-name": "Por favor ingrese un nombre",
     "suite-page-settings-info-photo-crop": "Cortar foto",
     "suite-page-settings-info-photo-delete": "Eliminar foto"
   }

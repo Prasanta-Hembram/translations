@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-suite-title": "Налаштування організації",
-    "suite-page-organization-company-error-permission-denied": "На жаль, у вас немає доступу.",
+    "suite-page-organization-settings-suite-error-permission-denied": "На жаль, у вас немає доступу.",
+    "suite-page-organization-settings-suite-error-point-network-quote-invalid": "Укажіть правильний відсоток кредитів.",
     "suite-page-organization-settings-suite-booking-from": "Від",
     "suite-page-organization-settings-suite-booking-from-until-desc": "Учасники зможуть зарезервувати кімнати в межах вказаних годин.",
     "suite-page-organization-settings-suite-booking-period": "Період доступності",

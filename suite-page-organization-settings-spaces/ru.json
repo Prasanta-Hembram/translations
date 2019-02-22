@@ -13,6 +13,8 @@
     "suite-page-organization-settings-spaces-description-placeholder": "Добавить описание",
     "suite-page-organization-settings-spaces-email": "Email",
     "suite-page-organization-settings-spaces-email-placeholder": "Добавьте email",
+    "suite-page-organization-settings-spaces-error-organization-email": "Пожалуйста, введите правильный email.",
+    "suite-page-organization-settings-spaces-error-organization-title": "Пожалуйста, введите название коворкинга.",
     "suite-page-organization-settings-spaces-link": "Ссылка",
     "suite-page-organization-settings-spaces-link-placeholder": "Добавьте ссылку",
     "suite-page-organization-settings-spaces-name": "Название",

@@ -13,6 +13,8 @@
     "suite-page-organization-settings-spaces-description-placeholder": "Add description",
     "suite-page-organization-settings-spaces-email": "Email",
     "suite-page-organization-settings-spaces-email-placeholder": "Add Email",
+    "suite-page-organization-settings-spaces-error-organization-email": "Please enter a correct email.",
+    "suite-page-organization-settings-spaces-error-organization-title": "Please enter a name of your workspace.",
     "suite-page-organization-settings-spaces-link": "Link",
     "suite-page-organization-settings-spaces-link-placeholder": "Add Link",
     "suite-page-organization-settings-spaces-name": "Name",

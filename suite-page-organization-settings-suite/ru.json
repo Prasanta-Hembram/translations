@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-suite-title": "Настройки организации",
-    "suite-page-organization-company-error-permission-denied": "К сожалению, у вас нет доступа.",
+    "suite-page-organization-settings-suite-error-permission-denied": "К сожалению, у вас нет доступа.",
+    "suite-page-organization-settings-suite-error-point-network-quote-invalid": "Укажите правильный процент кредитов.",
     "suite-page-organization-settings-suite-booking-from": "Начало",
     "suite-page-organization-settings-suite-booking-from-until-desc": "Участники смогут забронировать переговорные в указанные часы.",
     "suite-page-organization-settings-suite-booking-period": "Период доступности",

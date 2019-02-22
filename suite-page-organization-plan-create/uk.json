@@ -2,6 +2,9 @@
   "data": {
     "suite-page-organization-plan-create-title": "Новий план",
     "suite-page-organization-plan-create-credits": "Кредити, {pointEmoji}",
+    "suite-page-organization-plan-create-error-plans-period-is-not-checked": "Укажіть принаймні один період плану.",
+    "suite-page-organization-plan-create-error-seats": "Уведіть кількість місць, включених у ціну плану.",
+    "suite-page-organization-plan-create-error-quantity": "Уведіть кількість планів.",
     "suite-page-organization-plan-create-description": "Опис планy",
     "suite-page-organization-plan-create-description-placeholder": "Додати опис плану",
     "suite-page-organization-plan-create-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",

@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-suite-title": "Company Settings",
-    "suite-page-organization-company-error-permission-denied": "Unfortunately, you have no permission to access.",
+    "suite-page-organization-settings-suite-error-permission-denied": "Unfortunately, you have no permission to access.",
+    "suite-page-organization-settings-suite-error-point-network-quote-invalid": "Please indicate correct percentage of credits can residents of another branches use to book rooms in your branch.",
     "suite-page-organization-settings-suite-booking-from": "From",
     "suite-page-organization-settings-suite-booking-from-until-desc": "Members will be able to book meeting rooms from and until the selected hours.",
     "suite-page-organization-settings-suite-booking-period": "Period",

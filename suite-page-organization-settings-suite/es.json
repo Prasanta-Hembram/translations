@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-suite-title": "Ajustes de la empresa",
-    "suite-page-organization-company-error-permission-denied": "Desafortunadamente, no tienes permiso para acceder.",
+    "suite-page-organization-settings-suite-error-permission-denied": "Desafortunadamente, no tienes permiso para acceder.",
+    "suite-page-organization-settings-suite-error-point-network-quote-invalid": "Indique el porcentaje correcto de créditos que los residentes de otras sucursales pueden utilizar para reservar salas de reuniones en su sucursal.",
     "suite-page-organization-settings-suite-booking-from": "A partir de",
     "suite-page-organization-settings-suite-booking-from-until-desc": "Los miembros podrán reservar salas de reuniones desde y hasta las horas seleccionadas.",
     "suite-page-organization-settings-suite-booking-period": "Período",

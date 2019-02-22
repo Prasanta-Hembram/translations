@@ -2,6 +2,9 @@
   "data": {
     "suite-page-organization-plan-create-title": "Nuevo plan",
     "suite-page-organization-plan-create-credits": "Créditos, {pointEmoji}",
+    "suite-page-organization-plan-create-error-plans-period-is-not-checked": "Por favor indique al menos un período de plan.",
+    "suite-page-organization-plan-create-error-seats": "Por favor ingrese el número de asientos incluidos en el precio del plan.",
+    "suite-page-organization-plan-create-error-quantity": "Por favor indique cuántos de esos planes ofrece.",
     "suite-page-organization-plan-create-description": "Descripción del plan",
     "suite-page-organization-plan-create-description-placeholder": "Agregar descripción del plan",
     "suite-page-organization-plan-create-plan-point-allocation-disabled-desc": "Los suscriptores recibirán todos los créditos a la vez.",

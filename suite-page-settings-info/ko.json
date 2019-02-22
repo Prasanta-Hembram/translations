@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-settings-info-title": "개인 정보",
+    "suite-page-settings-info-error-email": "이메일을 입력하기.",
+    "suite-page-settings-info-error-first-name": "이름 입력하기.",
     "suite-page-settings-info-photo-crop": "사진 자르기",
     "suite-page-settings-info-photo-delete": "사진 삭제"
   }
