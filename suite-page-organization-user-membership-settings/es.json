@@ -29,7 +29,6 @@
     "suite-page-organization-user-membership-settings-role-info-member": "El miembro puede ver contenido relevante y grupos en el área de trabajo. Si necesita gestionar algo, hable con el moderador o administrador.",
     "suite-page-organization-user-membership-settings-role-info-moderator": "El moderador puede administrar contenido y grupos en el área de trabajo. Si necesita hacer algún cambio en los ajuste, hable con el administrador.",
     "suite-page-organization-user-membership-settings-role-member": "Miembro",
-    "suite-page-organization-user-membership-settings-role-moderator": "Moderador",
-    "suite-page-organization-user-membership-settings-update-failure": "Error al actualizar"
+    "suite-page-organization-user-membership-settings-role-moderator": "Moderador"
   }
 }

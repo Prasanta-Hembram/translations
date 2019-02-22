@@ -29,7 +29,6 @@
     "suite-page-organization-user-membership-settings-role-info-member": "Учасник може переглядати контент в коворкінгу.",
     "suite-page-organization-user-membership-settings-role-info-moderator": "Модератор може керувати контентом та командами в коворкінгу.",
     "suite-page-organization-user-membership-settings-role-member": "Учасник",
-    "suite-page-organization-user-membership-settings-role-moderator": "Модератор",
-    "suite-page-organization-user-membership-settings-update-failure": "Не вдалося оновити"
+    "suite-page-organization-user-membership-settings-role-moderator": "Модератор"
   }
 }

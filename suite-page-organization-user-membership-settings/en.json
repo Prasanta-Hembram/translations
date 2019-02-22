@@ -29,7 +29,6 @@
     "suite-page-organization-user-membership-settings-role-info-member": "Member can view relevant content and teams in the workspace.",
     "suite-page-organization-user-membership-settings-role-info-moderator": "Moderator can manage content and teams in the workspace.",
     "suite-page-organization-user-membership-settings-role-member": "Member",
-    "suite-page-organization-user-membership-settings-role-moderator": "Moderator",
-    "suite-page-organization-user-membership-settings-update-failure": "Failed to update"
+    "suite-page-organization-user-membership-settings-role-moderator": "Moderator"
   }
 }
