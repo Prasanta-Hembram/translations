@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-user-booking-history-title": "All My Bookings",
     "suite-page-organization-user-booking-history-default-booking-purpose": "Reservation",
     "suite-page-organization-user-booking-history-fetch-failure": "Couldn't show bookings. Are you sure there is an internet connection?",
     "suite-page-organization-user-booking-history-history-title": "Booking History",

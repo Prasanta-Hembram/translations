@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-user-booking-history-title": "Усі мої резервації",
     "suite-page-organization-user-booking-history-default-booking-purpose": "Резервація",
     "suite-page-organization-user-booking-history-fetch-failure": "Неможливо відобразити резервації. Перевірте, чи все добре з інтернет-з'єднанням",
     "suite-page-organization-user-booking-history-history-title": "Історія резервації",
