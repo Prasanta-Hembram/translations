@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-property-details-title": "Подробно о {propertyName}",
-    "suite-page-organization-property-details-title-default": "Подробно",
     "suite-page-organization-property-details-delete-failure": "Не удалось удалить переговорную.",
     "suite-page-organization-property-details-delete-repeat": "Попробовать еще раз",
     "suite-page-organization-property-details-description-title": "Описание",

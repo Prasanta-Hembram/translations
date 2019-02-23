@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-property-details-title": "Acerca de {propertyName}",
-    "suite-page-organization-property-details-title-default": "Acerca",
     "suite-page-organization-property-details-delete-failure": "Error al eliminar la sala de reuniones.",
     "suite-page-organization-property-details-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-property-details-description-title": "Descripción",

@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-property-details-title": "About {propertyName}",
-    "suite-page-organization-property-details-title-default": "About",
     "suite-page-organization-property-details-delete-failure": "Failed to delete the room.",
     "suite-page-organization-property-details-delete-repeat": "Try again",
     "suite-page-organization-property-details-description-title": "Description",

@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-property-details-title": "Більше про {propertyName}",
-    "suite-page-organization-property-details-title-default": "Більше",
     "suite-page-organization-property-details-delete-failure": "Не вдалося видалити кімнату.",
     "suite-page-organization-property-details-delete-repeat": "Спробувати знову",
     "suite-page-organization-property-details-description-title": "Опис",
