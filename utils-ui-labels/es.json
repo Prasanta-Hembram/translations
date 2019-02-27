@@ -1,5 +1,7 @@
 {
   "data": {
-    "utils-labels-price-free": "Gratis"
+    "utils-labels-price-free": "Gratis",
+    "utils-labels-seats-plural": "{number} asientos",
+    "utils-labels-seats-single": "{number} asiento"
   }
 }
