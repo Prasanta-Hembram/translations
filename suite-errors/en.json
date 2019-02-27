@@ -3,6 +3,7 @@
     "suite-errors-announcement-missing": "The post is missing or has been deleted",
     "suite-errors-available-balance-error": "Contact your card issuer to check available balance",
     "suite-errors-booking-conflict": "Another booking already exists at the same time",
+    "suite-errors-booking-day-unavailable": "This day is not available.",
     "suite-errors-booking-invalid": "Failed to book. Check all fields and try again.",
     "suite-errors-booking-point-balance-invalid": "No available credits.",
     "suite-errors-booking-unallowed-time-period": "The booking period is invalid",

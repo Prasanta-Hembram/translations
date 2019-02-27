@@ -3,6 +3,7 @@
     "suite-errors-announcement-missing": "Falta la publicación o se ha eliminado",
     "suite-errors-available-balance-error": "Comuníquese con el emisor de su tarjeta para verificar su saldo disponible",
     "suite-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo",
+    "suite-errors-booking-day-unavailable": "Este día no está disponible.",
     "suite-errors-booking-invalid": "No se pudo reservar. Comprueba todos los campos y vuelve a intentarlo.",
     "suite-errors-booking-point-balance-invalid": "El saldo de puntos permitido se ha gastado.",
     "suite-errors-booking-unallowed-time-period": "El período de reserva no es válido",
