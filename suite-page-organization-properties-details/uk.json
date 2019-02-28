@@ -13,6 +13,6 @@
     "suite-page-organization-property-details-price-points": "- Резервація коштує {priceCredits} за годину.",
     "suite-page-organization-property-details-price-points-and-money": "- Резервація коштує {priceMoney} або {priceCredits} за годину",
     "suite-page-organization-property-details-property-actions": "Додаткові дії",
-    "suite-page-organization-property-details-property-action-delete": "Удалить"
+    "suite-page-organization-property-details-property-action-delete": "Видалити"
   }
 }
