@@ -1,8 +1,10 @@
 {
   "data": {
-    "suite-page-organization-create-title": "새 공간",
-    "suite-page-organization-create-button-create": "등록하기",
-    "suite-page-organization-create-organization-name": "공간 명",
-    "suite-page-organization-create-organization-name-placeholder": "공간 명 입력하기"
+    "suite-page-my-coworking-create-title": "새 공간",
+    "suite-page-my-coworking-create-button-create": "등록하기",
+    "suite-page-my-coworking-create-currency-label": "화폐 단위",
+    "suite-page-my-coworking-create-organization-name": "공간 명",
+    "suite-page-my-coworking-create-organization-name-placeholder": "공간 명 입력하기",
+    "suite-page-my-coworking-create-timezone-label": "시간대"
   }
 }

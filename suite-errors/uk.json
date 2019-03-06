@@ -19,6 +19,7 @@
     "suite-errors-no-internet": "Немає інтернет-з'єднання",
     "suite-errors-no-printers-connections": "В коворкінгу немає даних про користувачів принтерів.",
     "suite-errors-organization-code-invalid": "Здається, коворкінг з такою назвою вже існує. Спробуйте іншу назву.",
+    "suite-errors-organization-params-invalid": "Не вдалося створити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-errors-payment-failure": "Оплата не пройшла",
     "suite-errors-payment-price-high": "Сума занадто велика. Максимум становить 5000 доларів США.",
     "suite-errors-payment-price-low": "Сума занадто мала. Мінімум становить 0,5 долара США.",
