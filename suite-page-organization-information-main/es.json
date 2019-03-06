@@ -2,6 +2,9 @@
   "data": {
     "suite-page-organization-information-main-title": "Información",
     "suite-page-organization-information-main-profile": "Perfil del espacio de trabajo",
-    "suite-page-organization-information-main-settings": "Configuraciones de andcards Suite"
+    "suite-page-organization-information-main-suite-bookings": "Reservas",
+    "suite-page-organization-information-main-suite-directory": "Directorio",
+    "suite-page-organization-information-main-suite-feed": "Alimentar",
+    "suite-page-organization-information-main-suite-payment": "Pago"
   }
 }
