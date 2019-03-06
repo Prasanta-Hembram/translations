@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-information-suite-payment-title": "Настройки оплаты",
-    "suite-page-organization-information-suite-payment-error-permission-denied": "К сожалению, у вас нет доступа.",
-    "suite-page-organization-information-suite-payment-switch-label": "Платежная система",
-    "suite-page-organization-information-suite-payment-text-description": "Платежная система позволяет оплачивать бронь комнат и подписки на план в приложении. Чтобы настроить платежную систему, обратитесь к support@andcards.com"
-  }
-}
