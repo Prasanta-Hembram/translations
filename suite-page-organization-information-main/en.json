@@ -2,6 +2,9 @@
   "data": {
     "suite-page-organization-information-main-title": "Information",
     "suite-page-organization-information-main-profile": "Workspace Profile",
-    "suite-page-organization-information-main-settings": "Suite Settings"
+    "suite-page-organization-information-main-suite-bookings": "Bookings",
+    "suite-page-organization-information-main-suite-directory": "Directory",
+    "suite-page-organization-information-main-suite-feed": "Feed",
+    "suite-page-organization-information-main-suite-payment": "Payment"
   }
 }

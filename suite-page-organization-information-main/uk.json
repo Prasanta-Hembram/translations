@@ -2,6 +2,9 @@
   "data": {
     "suite-page-organization-information-main-title": "Інформація",
     "suite-page-organization-information-main-profile": "Профіль коворкінгу",
-    "suite-page-organization-information-main-settings": "Налаштування Suite"
+    "suite-page-organization-information-main-suite-bookings": "Резервації",
+    "suite-page-organization-information-main-suite-directory": "Каталог",
+    "suite-page-organization-information-main-suite-feed": "Стрічка",
+    "suite-page-organization-information-main-suite-payment": "Оплата"
   }
 }
