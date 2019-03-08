@@ -13,6 +13,8 @@
     "suite-errors-card-expiration-is-invalid": "La fecha de caducidad está vacía o no es válida",
     "suite-errors-card-is-missing": "La tarjeta no funcionó",
     "suite-errors-card-number-is-invalid": "El número de la tarjeta está vacío o inválido",
+    "suite-errors-file-not-found": "El archivo no está cargado.",
+    "suite-errors-file-not-valid": "El archivo cargado contenía errores en la columna: {errorColumn}.",
     "suite-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión",
     "suite-errors-invalid-params": "Algo salió mal. Por favor intente de nuevo.",
     "suite-errors-no-enough-cash": "No hay suficiente efectivo",

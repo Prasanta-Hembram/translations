@@ -13,6 +13,8 @@
     "suite-errors-card-expiration-is-invalid": "Expiration date is empty or invalid",
     "suite-errors-card-is-missing": "Card didn't work",
     "suite-errors-card-number-is-invalid": "Card number is empty or invalid",
+    "suite-errors-file-not-found": "The file is not uploaded.",
+    "suite-errors-file-not-valid": "The uploaded file contained mistakes in column: {errorColumn}.",
     "suite-errors-last-integration-delete": "Last login method cannot be deleted",
     "suite-errors-invalid-params": "Something went wrong. Please try again.",
     "suite-errors-no-enough-cash": "Not enough cash",

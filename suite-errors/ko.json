@@ -13,6 +13,8 @@
     "suite-errors-card-expiration-is-invalid": "유효기간을 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-errors-card-is-missing": "카드 승인 실패",
     "suite-errors-card-number-is-invalid": "카드번호를 유효 확인 혹은 입력해주시기 바랍니다",
+    "suite-errors-file-not-found": "파일 업로드 오류.",
+    "suite-errors-file-not-valid": "업로드된 파일에 {errorColumn}열에 오류가 있습니다.",
     "suite-errors-last-integration-delete": "마지막 로그인 방법을 삭제할 수 없습니다",
     "suite-errors-invalid-params": "오류 발생했습니다. 다시 시도하세요.",
     "suite-errors-no-enough-cash": "현금 부족",
