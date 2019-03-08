@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-information-suite-payment-title": "Payment",
+    "suite-page-organization-information-suite-payment-error-permission-denied": "Unfortunately, you have no permission to access.",
+    "suite-page-organization-information-suite-payment-switch-label": "Enable Billing System",
+    "suite-page-organization-information-suite-payment-text-description": "Billing system enables in-app payments for room booking and membership plans. To change this setting, contact support@andcards.com."
+  }
+}

@@ -1,8 +1,10 @@
 {
   "data": {
-    "suite-page-organization-create-title": "Новий коворкінг",
-    "suite-page-organization-create-button-create": "Створити",
-    "suite-page-organization-create-organization-name": "Назва",
-    "suite-page-organization-create-organization-name-placeholder": "Додати назву"
+    "suite-page-my-coworking-create-title": "Новий коворкінг",
+    "suite-page-my-coworking-create-button-create": "Створити",
+    "suite-page-my-coworking-create-currency-label": "Валюта",
+    "suite-page-my-coworking-create-organization-name": "Назва",
+    "suite-page-my-coworking-create-organization-name-placeholder": "Додати назву",
+    "suite-page-my-coworking-create-timezone-label": "Часовой пояс"
   }
 }

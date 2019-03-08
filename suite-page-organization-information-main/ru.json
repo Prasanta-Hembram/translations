@@ -1,7 +1,10 @@
 {
   "data": {
-    "suite-page-organization-information-main-title": "Информация",
+    "suite-page-organization-information-main-title": "Настройки",
     "suite-page-organization-information-main-profile": "Профиль коворкинга",
-    "suite-page-organization-information-main-settings": "Настройки Suite"
+    "suite-page-organization-information-main-suite-bookings": "Бронирования",
+    "suite-page-organization-information-main-suite-directory": "Каталог",
+    "suite-page-organization-information-main-suite-feed": "Лента",
+    "suite-page-organization-information-main-suite-payment": "Платежи"
   }
 }

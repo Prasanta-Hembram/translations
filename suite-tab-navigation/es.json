@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-tab-navigation-my-coworkings": "Mis espacios",
-    "suite-tab-navigation-organization-feed": "Feed",
+    "suite-tab-navigation-organization-feed": "Comunidad",
     "suite-tab-navigation-organization-booking": "Reservas",
     "suite-tab-navigation-organization-directory": "Directorio",
     "suite-tab-navigation-organization-iot-devices": "Dispositivos IoT",
     "suite-tab-navigation-organization-membership": "Membresía",
-    "suite-tab-navigation-organization-settings": "Información",
+    "suite-tab-navigation-organization-settings": "Ajustes",
     "suite-tab-navigation-profile": "Perfil"
   }
 }

@@ -1,21 +1,22 @@
 {
   "data": {
-    "suite-page-organization-teams-teams-title": "Equipos",
     "suite-page-organization-teams-directory-title": "Directorio",
+    "suite-page-organization-teams-button-invite": "Invitación",
+    "suite-page-organization-teams-cash-balance": "Balance de efectivo",
+    "suite-page-organization-teams-credit-balance": "Balance de crédito",
+    "suite-page-organization-teams-empty": "No hay equipos.",
+    "suite-page-organization-teams-end": "Finalización",
     "suite-page-organization-teams-error-not-found": "No hay internet.",
     "suite-page-organization-teams-individuals-empty": "No hay miembros.",
     "suite-page-organization-teams-individuals-title": "Individuos",
     "suite-page-organization-teams-join-requests-title": "Unirse a las solicitudes",
-    "suite-page-organization-teams-search-placeholder": "Buscar {numberOfTeams} equipos y {numberOfMembers} miembros",
-    "suite-page-organization-teams-end": "Finalización",
-    "suite-page-organization-teams-empty": "No hay equipos.",
-    "suite-page-organization-teams-cash-balance": "Balance de efectivo",
-    "suite-page-organization-teams-credit-balance": "Balance de crédito",
     "suite-page-organization-teams-name": "Nombre",
     "suite-page-organization-teams-nothing-found": "Nada Encontrado. 😢",
     "suite-page-organization-teams-plan": "Plan",
     "suite-page-organization-teams-plan-not-started": "No empezado",
     "suite-page-organization-teams-price": "Precio",
+    "suite-page-organization-teams-search-placeholder": "Buscar {numberOfTeams} equipos y {numberOfMembers} miembros",
+    "suite-page-organization-teams-teams-title": "Equipos",
     "suite-page-organization-teams-user-bookings-history-title": "Historial de reservas"
   }
 }
