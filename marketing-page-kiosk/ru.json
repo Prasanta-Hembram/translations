@@ -1,10 +1,10 @@
 {
   "data": {
-    "marketing-page-kiosk-title": "Meeting room schedule right at the door | andcards",
-    "marketing-page-kiosk-description": "Signal meeting room availability, check ongoing meeting progress, and see available time — all with a highly visual and free room display app.",
-    "marketing-page-kiosk-headline": "Meeting room schedule right at the door",
-    "marketing-page-kiosk-headline-2": "Signal meeting room availability, check ongoing meeting progress, and see available time — all with a highly visual and free room display app.",
-    "marketing-page-kiosk-headline-3": "Works with {andcardsSuiteUrl}.",
+    "marketing-page-kiosk-title": "Программа для экранов в переговорных комнатах | andcards",
+    "marketing-page-kiosk-description": "Визуализация расписания бронирований для конференц залов. График бронирований переговорных комнат на планшетах iPad или Android.",
+    "marketing-page-kiosk-headline": "Расписание бронирований прямо на дверях переговорных",
+    "marketing-page-kiosk-headline-2": "Проверяйте расписание переговорных, ход текущего бронирования, а также время освобождения — все на расстоянии, просто и бесплатно с программой для дисплеев в переговорных.",
+    "marketing-page-kiosk-headline-3": "Работает с {andcardsSuiteUrl}.",
     "marketing-page-kiosk-headline-3-button": "andcards Suite"
   }
 }
