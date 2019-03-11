@@ -6,8 +6,9 @@
     "suite-page-organization-information-suite-directory-contact-to-support": "This tag is also used as a workspace username at andcards.com/s. To change it contact support@andcards.com.",
     "suite-page-organization-information-suite-directory-copied-to-clipboard": "Copied to clipboard",
     "suite-page-organization-information-suite-directory-error-permission-denied": "Unfortunately, you have no permission to access.",
-    "suite-page-organization-information-suite-directory-required-fields-description": "Require all members to share the personal information.",
     "suite-page-organization-information-suite-directory-section-invite-members-title": "Invite Members",
-    "suite-page-organization-information-suite-directory-section-invite-members-via-link-description": "Share a public link to workspace, so that anyone can request membership."
-    }
+    "suite-page-organization-information-suite-directory-section-invite-members-via-link-description": "Share a public link to workspace, so that anyone can request membership.",
+    "suite-page-organization-information-suite-directory-section-required-personal-information-title": "Required Personal Information",
+    "suite-page-organization-information-suite-directory-section-required-personal-information-description": "Require all members to share the personal information."
+  }
 }
