@@ -4,6 +4,7 @@
     "utils-auth-back-to-login-methods": "Назад",
     "utils-auth-back-to-number": "Назад",
     "utils-auth-code": "Код",
+    "utils-auth-code-invalid": "Введите правильный код из текстового сообщения.",
     "utils-auth-country": "Страна",
     "utils-auth-country-selector-title": "Выбор страны",
     "utils-auth-country-selector-type-here": "Искать страну",

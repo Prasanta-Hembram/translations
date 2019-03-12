@@ -4,6 +4,7 @@
     "utils-auth-back-to-login-methods": "Back",
     "utils-auth-back-to-number": "Back",
     "utils-auth-code": "Code",
+    "utils-auth-code-invalid": "Please enter a valid code from a text message.",
     "utils-auth-country": "Country",
     "utils-auth-country-selector-title": "Choose country",
     "utils-auth-country-selector-type-here": "Type to search",
