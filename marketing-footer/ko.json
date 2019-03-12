@@ -2,7 +2,7 @@
   "data": {
     "marketing-footer-directory-about": "회사소개",
     "marketing-footer-directory-blogs": "블로그",
-    "marketing-footer-directory-company": "Company",
+    "marketing-footer-directory-company": "회사",
     "marketing-footer-directory-cookies": "쿠키정책",
     "marketing-footer-directory-features": "세부기능",
     "marketing-footer-directory-handnook": "핸드북",
@@ -10,7 +10,7 @@
     "marketing-footer-directory-licenses": "라이센스",
     "marketing-footer-directory-pricing": "가격정책",
     "marketing-footer-directory-privacy": "개인정보 보호정책",
-    "marketing-footer-directory-resources": "Resources",
+    "marketing-footer-directory-resources": "자료",
     "marketing-footer-directory-terms": "이용약관"
   }
 }
