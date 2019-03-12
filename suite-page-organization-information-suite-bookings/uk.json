@@ -25,12 +25,9 @@
     "suite-page-organization-information-suite-bookings-booking-until": "До",
     "suite-page-organization-information-suite-bookings-credit-system": "Кредитная система",
     "suite-page-organization-information-suite-bookings-error-permission-denied": "На жаль, у вас немає доступу.",
-    "suite-page-organization-information-suite-bookings-error-point-network-quote-invalid": "Укажіть правильний відсоток кредитів.",
     "suite-page-organization-information-suite-bookings-point-allocation-desc": "Якщо тарифний план триває довше місяця, кредити будуть нараховуватися щомісяця, а не одноразово.",
     "suite-page-organization-information-suite-bookings-point-allocation-label": "Нараховувати кредити щомісяця",
     "suite-page-organization-information-suite-bookings-point-desc": "Учасники можуть використовувати кредити для резервації кімнат. Кредити можна отримати автоматично з тарифним планом або вручну від адміністратора.",
-    "suite-page-organization-information-suite-bookings-point-label": "Кредитна система для резервацій",
-    "suite-page-organization-information-suite-bookings-point-network-quote-desc": "Відсоток кредитів, що резиденти інших коворкінгів можуть використовувати у цьому коворкінгу.",
-    "suite-page-organization-information-suite-bookings-point-network-quote-label": "Ліміт зовнішніх кредитів, %"
+    "suite-page-organization-information-suite-bookings-point-label": "Кредитна система для резервацій"
   }
 }

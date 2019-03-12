@@ -25,12 +25,9 @@
     "suite-page-organization-information-suite-bookings-booking-until": "종료시간",
     "suite-page-organization-information-suite-bookings-credit-system": "크레딧 시스템",
     "suite-page-organization-information-suite-bookings-error-permission-denied": "보기 권한이 없습니다.",
-    "suite-page-organization-information-suite-bookings-error-point-network-quote-invalid": "다른 지점 이용자들이 귀하의 지점 내 방을 예약할 때 사용할 수 있는 크레딧의 정확한 비율을 표시해 주세요.",
     "suite-page-organization-information-suite-bookings-point-allocation-desc": "멤버십 플랜이 1개월 이상 지속되면 크레딧은 한 번에 아니라 매월 제공됩니다.",
     "suite-page-organization-information-suite-bookings-point-allocation-label": "월간 크레딧 제공",
     "suite-page-organization-information-suite-bookings-point-desc": "회원은 크레딧을 사용하여 회의실을 예약 할 수 있습니다. 크레딧은 멤버십 플랜 구매를 통해 받거나 관리자가 수동으로 추가 할 수 있습니다.",
-    "suite-page-organization-information-suite-bookings-point-label": "크레딧 예약체계",
-    "suite-page-organization-information-suite-bookings-point-network-quote-desc": "타지점의 이용자가 본지점의 시설물을 예약할 때 사용할 수 있는 크레딧의 비율을 선택해 주세요.",
-    "suite-page-organization-information-suite-bookings-point-network-quote-label": "외부 크레딧 제한 %"
+    "suite-page-organization-information-suite-bookings-point-label": "크레딧 예약체계"
   }
 }
