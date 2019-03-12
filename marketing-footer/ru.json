@@ -2,7 +2,7 @@
   "data": {
     "marketing-footer-directory-about": "О нас",
     "marketing-footer-directory-blogs": "Блоги",
-    "marketing-footer-directory-company": "Company",
+    "marketing-footer-directory-company": "Компания",
     "marketing-footer-directory-cookies": "Куки-файлы",
     "marketing-footer-directory-features": "Функции",
     "marketing-footer-directory-handnook": "Хэндбук",
@@ -10,7 +10,8 @@
     "marketing-footer-directory-licenses": "Лицензии",
     "marketing-footer-directory-pricing": "Цены",
     "marketing-footer-directory-privacy": "Конфиденциальность",
-    "marketing-footer-directory-resources": "Resources",
+    "marketing-footer-directory-products": "Продукты",
+    "marketing-footer-directory-resources": "Ресурсы",
     "marketing-footer-directory-terms": "Условия использования"
   }
 }
