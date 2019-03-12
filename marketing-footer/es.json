@@ -2,21 +2,13 @@
   "data": {
     "marketing-footer-directory-about": "Quiénes somos",
     "marketing-footer-directory-blogs": "Blogs",
-    "marketing-footer-directory-connect": "Redes Sociales",
+    "marketing-footer-directory-company": "Company",
     "marketing-footer-directory-cookies": "Política de Cookies",
-    "marketing-footer-directory-facebook": "Facebook",
-    "marketing-footer-directory-features": "Características",
     "marketing-footer-directory-handnook": "Handbook",
     "marketing-footer-directory-help": "Centro de Ayuda",
-    "marketing-footer-directory-kakao": "Kakao Plus Friend",
-    "marketing-footer-directory-knowledge": "Conocimiento",
-    "marketing-footer-directory-legal": "Legal",
     "marketing-footer-directory-licenses": "Licencias",
-    "marketing-footer-directory-linkedin": "LinkedIn",
-    "marketing-footer-directory-naver": "Nuestro Blog en Naver",
-    "marketing-footer-directory-open": "Aplicación Web",
-    "marketing-footer-directory-pricing": "Precios",
     "marketing-footer-directory-privacy": "Políticas de Privacidad",
+    "marketing-footer-directory-resources": "Resources",
     "marketing-footer-directory-terms": "Normas y Términos de Uso"
   }
 }
