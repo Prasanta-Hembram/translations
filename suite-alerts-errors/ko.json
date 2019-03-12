@@ -14,7 +14,7 @@
     "suite-alerts-errors-card-is-missing": "카드 승인 실패",
     "suite-alerts-errors-card-number-is-invalid": "카드번호를 유효 확인 혹은 입력해주시기 바랍니다",
     "suite-alerts-errors-file-not-found": "파일 업로드 오류.",
-    "suite-alerts-errors-file-not-valid": "업로드된 파일에 {errorColumn}열에 오류가 있습니다.",
+    "suite-alerts-errors-file-not-valid": "오류 보고서를 {email}로 발송되었습니다.",
     "suite-alerts-errors-last-integration-delete": "마지막 로그인 방법을 삭제할 수 없습니다",
     "suite-alerts-errors-invalid-params": "오류 발생했습니다. 다시 시도하세요.",
     "suite-alerts-errors-no-enough-cash": "현금 부족",

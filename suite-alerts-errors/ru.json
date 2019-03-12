@@ -14,7 +14,7 @@
     "suite-alerts-errors-card-is-missing": "Карточка не прошла",
     "suite-alerts-errors-card-number-is-invalid": "Номер карты пуст или недействителен",
     "suite-alerts-errors-file-not-found": "Файл не загружен.",
-    "suite-alerts-errors-file-not-valid": "Загруженный файл содержал ошибки в столбце: {errorColumn}.",
+    "suite-alerts-errors-file-not-valid": "Отчет об ошибках отправлен на {email}.",
     "suite-alerts-errors-last-integration-delete": "Последний метод входа не может быть удален",
     "suite-alerts-errors-invalid-params": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
     "suite-alerts-errors-no-enough-cash": "Недостаточно наличных",

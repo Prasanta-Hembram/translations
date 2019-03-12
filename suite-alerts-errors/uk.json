@@ -14,7 +14,7 @@
     "suite-alerts-errors-card-is-missing": "Картка не пройшла",
     "suite-alerts-errors-card-number-is-invalid": "Номер картки порожній або недійсний",
     "suite-alerts-errors-file-not-found": "Файл не завантажений.",
-    "suite-alerts-errors-file-not-valid": "Завантажений файл містив помилки у стовпці: {errorColumn}",
+    "suite-alerts-errors-file-not-valid": "Звіт про помилки надіслано на {email}.",
     "suite-alerts-errors-last-integration-delete": "Останній метод входу не може бути видалений",
     "suite-alerts-errors-invalid-params": "Щось пішло не так. Будь ласка спробуйте ще раз.",
     "suite-alerts-errors-no-enough-cash": "Недостатньо готівки",

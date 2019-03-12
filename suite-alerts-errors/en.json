@@ -14,7 +14,7 @@
     "suite-alerts-errors-card-is-missing": "Card didn't work",
     "suite-alerts-errors-card-number-is-invalid": "Card number is empty or invalid",
     "suite-alerts-errors-file-not-found": "The file is not uploaded.",
-    "suite-alerts-errors-file-not-valid": "The uploaded file contained mistakes in column: {errorColumn}.",
+    "suite-alerts-errors-file-not-valid": "Error report sent to {email}.",
     "suite-alerts-errors-last-integration-delete": "Last login method cannot be deleted",
     "suite-alerts-errors-invalid-params": "Something went wrong. Please try again.",
     "suite-alerts-errors-no-enough-cash": "Not enough cash",
