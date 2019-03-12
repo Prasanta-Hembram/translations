@@ -2,7 +2,6 @@
   "data": {
     "suite-page-organization-booking-create-title": "Новое бронирование",
     "suite-page-organization-booking-create-add-card": "Добавить карту",
-    "suite-page-organization-booking-create-alert-success": "Бронирование успешно совершено",
     "suite-page-organization-booking-create-balance-action-button-money": "Наличными ({price})",
     "suite-page-organization-booking-create-balance-action-button-point-personal": "Личные кредиты ({balance})",
     "suite-page-organization-booking-create-balance-action-button-point-team": "Командные кредиты ({balance})",

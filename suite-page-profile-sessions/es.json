@@ -2,7 +2,6 @@
   "data": {
     "suite-page-profile-sessions-title": "Sesiones activas",
     "suite-page-profile-sessions-description": "Esta es la lista de dispositivos que han iniciado sesión en andcards. Si no reconoce alguna de las sesiones activas, eliminela.",
-    "suite-page-profile-sessions-alert-delete-success": "Sesión eliminada con éxito",
     "suite-page-profile-sessions-current": "Sesión actual",
     "suite-page-profile-sessions-current-cannot-load": "No se pueden cargar los detalles actuales de la sesión. Por favor verifique su conexión a internet.",
     "suite-page-profile-sessions-log-out": "Cerrar Sesión",

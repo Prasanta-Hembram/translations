@@ -5,7 +5,6 @@
     "suite-page-organization-invite-button-upload": "Subir archivo",
     "suite-page-organization-invite-desc": "Cargue un archivo con formato especial con una lista de sus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
     "suite-page-organization-invite-error-permission-denied": "Desafortunadamente, no tienes permiso para acceder.",
-    "suite-page-organization-invite-label": "Misa invitar a los miembros",
-    "suite-page-organization-invite-success": "Invitaciones enviadas exitosamente."
+    "suite-page-organization-invite-label": "Misa invitar a los miembros"
   }
 }

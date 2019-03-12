@@ -2,7 +2,6 @@
   "data": {
     "suite-page-organization-booking-create-title": "New booking",
     "suite-page-organization-booking-create-add-card": "Add card",
-    "suite-page-organization-booking-create-alert-success": "Booking is made successfully",
     "suite-page-organization-booking-create-balance-action-button-money": "Cash ({price})",
     "suite-page-organization-booking-create-balance-action-button-point-personal": "Personal Credits ({balance})",
     "suite-page-organization-booking-create-balance-action-button-point-team": "Team Credits ({balance})",

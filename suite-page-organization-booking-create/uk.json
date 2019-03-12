@@ -2,7 +2,6 @@
   "data": {
     "suite-page-organization-booking-create-title": "Нова резервація",
     "suite-page-organization-booking-create-add-card": "Додати картку",
-    "suite-page-organization-booking-create-alert-success": "Резервацію здійснено успішно",
     "suite-page-organization-booking-create-balance-action-button-money": "Готівкою ({price})",
     "suite-page-organization-booking-create-balance-action-button-point-personal": "Особисті кредити ({balance})",
     "suite-page-organization-booking-create-balance-action-button-point-team": "Командні кредити ({balance})",

@@ -5,7 +5,6 @@
     "suite-page-organization-invite-button-upload": "Загрузить файл",
     "suite-page-organization-invite-desc": "Загрузите специально отформатированный файл со списком ваших участников, чтобы пригласить их присоединиться к коворкингу",
     "suite-page-organization-invite-error-permission-denied": "К сожалению, у вас нет доступа.",
-    "suite-page-organization-invite-label": "Пригласить всех участников",
-    "suite-page-organization-invite-success": "Приглашения успешно отправлены."
+    "suite-page-organization-invite-label": "Пригласить всех участников"
   }
 }

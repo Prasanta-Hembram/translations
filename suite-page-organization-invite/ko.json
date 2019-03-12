@@ -5,7 +5,6 @@
     "suite-page-organization-invite-button-upload": "파일 업로드",
     "suite-page-organization-invite-desc": "Upload a specially formatted file with a list of your members to mass invite them to join this andcards workspace.",
     "suite-page-organization-invite-error-permission-denied": "보기 권한이 없습니다.",
-    "suite-page-organization-invite-label": "한 번에 회원을 초대하세요",
-    "suite-page-organization-invite-success": "초대장이 전송되었습니다."
+    "suite-page-organization-invite-label": "한 번에 회원을 초대하세요"
   }
 }
