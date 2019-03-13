@@ -6,9 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Booking owner got 100% refund of money.",
     "suite-alerts-refund-booking-money-for-owner": "{price} successfully refunded.",
     "suite-alerts-success-booking-create": "Booking is made successfully.",
-    "suite-alerts-success-coworking-request-send": "Your request was sent.",
     "suite-alerts-success-organization-invites-send": "Invites successfully sent.",
     "suite-alerts-success-organization-plan-purchased": "Plan is purchased.",
-    "suite-alerts-success-settings-sessions-delete": "Session successfully deleted."
   }
 }

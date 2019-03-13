@@ -6,9 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Владелец брони получил 100% возврат средств.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успешно возмещено.",
     "suite-alerts-success-booking-create": "Бронирование успешно совершено.",
-    "suite-alerts-success-coworking-request-send": "Запрос успешно отправлен на рассмотрение.",
     "suite-alerts-success-organization-invites-send": "Приглашения успешно отправлены.",
     "suite-alerts-success-organization-plan-purchased": "Тарифный план успешно куплен.",
-    "suite-alerts-success-settings-sessions-delete": "Сеанс удалён."
   }
 }

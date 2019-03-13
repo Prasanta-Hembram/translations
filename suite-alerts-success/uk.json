@@ -6,9 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успішно відшкодовано.",
     "suite-alerts-success-booking-create": "Резервацію здійснено успішно.",
-    "suite-alerts-success-coworking-request-send": "Запит на затвердження надіслано в коворкінг.",
     "suite-alerts-success-organization-invites-send": "Запрошення успішно надіслані.",
     "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна.",
-    "suite-alerts-success-settings-sessions-delete": "Сеанс видалено."
   }
 }
