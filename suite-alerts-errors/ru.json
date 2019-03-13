@@ -27,7 +27,7 @@
     "suite-alerts-errors-payment-price-high": "Сумма слишком большая. Максимальная сумма составляет 5000 долларов США.",
     "suite-alerts-errors-payment-price-low": "Сумма слишком мала. Минимальная сумма составляет 0,5 доллара США.",
     "suite-alerts-errors-plan-assign-in-future": "Нельзя назначить план, который начинается в будущем.",
-    "suite-alerts-errors-plan-delete-reject": "Невозможно удалить: план используется.",
+    "suite-alerts-errors-plan-delete-reject": "Невозможно удалить. План используется.",
     "suite-alerts-errors-plan-periods-empty": "Нужно выбрать хотя бы один период.",
     "suite-alerts-errors-plan-sold-out": "План распродан.",
     "suite-alerts-errors-sns-user-exists": "Этот метод входа уже используется в другой учетной записи.",

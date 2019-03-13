@@ -27,7 +27,7 @@
     "suite-alerts-errors-payment-price-high": "The amount is too high. The maximum charge is US$5,000 equivalent.",
     "suite-alerts-errors-payment-price-low": "The amount is too small. The minimum charge is US$0.5 equivalent.",
     "suite-alerts-errors-plan-assign-in-future": "Can't assign a plan starting a date in the future.",
-    "suite-alerts-errors-plan-delete-reject": "Unable to delete: plan in use.",
+    "suite-alerts-errors-plan-delete-reject": "Unable to delete. Plan in use.",
     "suite-alerts-errors-plan-periods-empty": "Plan must have at least 1 period.",
     "suite-alerts-errors-plan-sold-out": "Plan is sold out.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
