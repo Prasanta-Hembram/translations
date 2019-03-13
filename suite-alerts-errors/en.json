@@ -5,7 +5,7 @@
     "suite-alerts-errors-booking-conflict": "Another booking already exists at the same time",
     "suite-alerts-errors-booking-day-unavailable": "This day is not available.",
     "suite-alerts-errors-booking-invalid": "Failed to book. Check all fields and try again.",
-    "suite-alerts-errors-booking-past-date": "You cannot book for past dates.",
+    "suite-alerts-errors-booking-past-date": "Unable to book in the past.",
     "suite-alerts-errors-booking-point-balance-invalid": "No available credits.",
     "suite-alerts-errors-booking-property-min-time-invalid": "Selected time period is less than the minimum allowed.",
     "suite-alerts-errors-booking-unallowed-time-period": "The booking period is invalid",

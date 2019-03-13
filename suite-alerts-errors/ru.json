@@ -5,7 +5,7 @@
     "suite-alerts-errors-booking-conflict": "Другое бронирование уже существует в выбранное время",
     "suite-alerts-errors-booking-day-unavailable": "Этот день не доступен.",
     "suite-alerts-errors-booking-invalid": "Не удалось забронировать. Проверьте все поля и попробуйте еще раз.",
-    "suite-alerts-errors-booking-past-date": "Нельзя бронировать в прошлом.",
+    "suite-alerts-errors-booking-past-date": "Невозможно бронировать в прошлом.",
     "suite-alerts-errors-booking-point-balance-invalid": "Нет доступных кредитов.",
     "suite-alerts-errors-booking-property-min-time-invalid": "Выбранный период времени меньше минимально допустимого.",
     "suite-alerts-errors-booking-unallowed-time-period": "Период бронирования недействителен",

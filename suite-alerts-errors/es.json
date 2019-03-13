@@ -5,7 +5,7 @@
     "suite-alerts-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo",
     "suite-alerts-errors-booking-day-unavailable": "Este día no está disponible.",
     "suite-alerts-errors-booking-invalid": "No se pudo reservar. Comprueba todos los campos y vuelve a intentarlo.",
-    "suite-alerts-errors-booking-past-date": "No puedes reservar para fechas pasadas.",
+    "suite-alerts-errors-booking-past-date": "No se puede reservar en el pasado.",
     "suite-alerts-errors-booking-point-balance-invalid": "El saldo de puntos permitido se ha gastado.",
     "suite-alerts-errors-booking-property-min-time-invalid": "El período de tiempo seleccionado es menor que el mínimo permitido.",
     "suite-alerts-errors-booking-unallowed-time-period": "El período de reserva no es válido",
