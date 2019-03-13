@@ -29,7 +29,7 @@
     "suite-page-organization-information-suite-bookings-point-allocation-label": "월간 크레딧 제공",
     "suite-page-organization-information-suite-bookings-point-desc": "회원은 크레딧을 사용하여 회의실을 예약 할 수 있습니다. 크레딧은 멤버십 플랜 구매를 통해 받거나 관리자가 수동으로 추가 할 수 있습니다.",
     "suite-page-organization-information-suite-bookings-point-label": "크레딧 예약체계",
-    "suite-page-organization-information-suite-bookings-point-network-quote-desc": "Percentage of credits that members of one branch can spend in other branches of a network. Contact support@andcards.com to change it.",
-    "suite-page-organization-information-suite-bookings-point-network-quote-label": "외부 크레딧 제한 %"
+    "suite-page-organization-information-suite-bookings-point-network-quote-desc": "회원이 타지점의 시설물을 예약할 때 사용할 수 있는 크레딧의 비율을 선택해 주세요. 비율을 바꾸려면 support@andcards.com으로 문의하십시오.",
+    "suite-page-organization-information-suite-bookings-point-network-quote-label": "외부 크레딧 비율"
   }
 }
