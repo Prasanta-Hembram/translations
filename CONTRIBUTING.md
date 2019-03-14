@@ -71,13 +71,13 @@ If an element appears in a section and it's meaning can be contextually implied,
 ### 3. Do not use intensifiers.
 
 - "It is really important to set a secure password." → "Set a secure password."
-- "Please enter the booking title." → "Type the title."
-- "Please indicate how many of such plans you offer." → "Type the quantity."
+- "Please enter the booking title." → "Type a title."
+- "Please indicate how many of such plans you offer." → "Type a quantity."
 
 ### 4. Avoid expletive constructions.
  
-- "There is a setting to change password in Settings." → "Change password in Settings."
-- "Looks like this workspace name is already taken. Try another one." → "This name is already taken. Try another one."
+- "There is a setting to change a password in Settings." → "Change a password in Settings."
+- "Looks like this workspace name is already taken. Try another one." → "The name is already taken. Try another one."
 - "Choose if members must indicate the title when they create bookings." → "Require members to type a title."
 
 ### 5. Avoid pronouns.
