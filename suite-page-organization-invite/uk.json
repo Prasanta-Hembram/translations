@@ -4,7 +4,7 @@
     "suite-page-organization-invite-button-download-template": "Скачати шаблон",
     "suite-page-organization-invite-button-upload": "Завантажити файл",
     "suite-page-organization-invite-desc": "Завантажте спеціально відформатований файл зі списком ваших учасників, щоб запросити їх приєднатися до коворкінгу.",
-    "suite-page-organization-invite-error-permission-denied": "Нема прав доступу.",
+    "suite-page-organization-invite-error-permission-denied": "Немає прав доступу.",
     "suite-page-organization-invite-label": "Запросити всіх учасників"
   }
 }

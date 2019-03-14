@@ -4,7 +4,7 @@
     "suite-page-organization-invite-button-download-template": "Скачать шаблон",
     "suite-page-organization-invite-button-upload": "Загрузить файл",
     "suite-page-organization-invite-desc": "Загрузите специально отформатированный файл со списком ваших участников, чтобы пригласить их присоединиться к коворкингу",
-    "suite-page-organization-invite-error-permission-denied": "Нету прав доступа.",
+    "suite-page-organization-invite-error-permission-denied": "Нет прав доступа.",
     "suite-page-organization-invite-label": "Пригласить всех участников"
   }
 }
