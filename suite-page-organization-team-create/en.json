@@ -5,6 +5,6 @@
     "suite-page-organization-team-create-icon": "Emoji",
     "suite-page-organization-team-create-name": "Name",
     "suite-page-organization-team-create-name-placeholder": "Type a team name",
-    "suite-page-organization-team-create-permission-denied": "No permission to access this page."
+    "suite-page-organization-team-create-permission-denied": "No access permission."
   }
 }

@@ -4,7 +4,7 @@
     "suite-page-organization-invite-button-download-template": "Download Template",
     "suite-page-organization-invite-button-upload": "Upload file",
     "suite-page-organization-invite-desc": "Upload a specially formatted file with a list of your members to mass invite them to join this andcards workspace.",
-    "suite-page-organization-invite-error-permission-denied": "Unfortunately, you have no permission to access.",
+    "suite-page-organization-invite-error-permission-denied": "No access permission.",
     "suite-page-organization-invite-label": "Mass invite members"
   }
 }

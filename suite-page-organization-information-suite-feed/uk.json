@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-information-suite-feed-title": "Стрічка",
-    "suite-page-organization-information-suite-feed-error-permission-denied": "На жаль, у вас немає доступу.",
+    "suite-page-organization-information-suite-feed-error-permission-denied": "Нема прав доступу.",
     "suite-page-organization-information-suite-feed-switch-label": "Учасники можуть дописувати",
     "suite-page-organization-information-suite-feed-text-description": "Якщо цю опцію увімкнено, всі учасники зможуть дописувати до стрічки спільноти."
   }
