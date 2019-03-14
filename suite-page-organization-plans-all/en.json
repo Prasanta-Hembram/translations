@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-plans-all-title": "All membership plans",
-    "suite-page-organization-plans-all-create": "Add plan",
+    "suite-page-organization-plans-all-create": "Add a plan",
     "suite-page-organization-plans-all-error-plans-empty": "There are no plans. 😢",
     "suite-page-organization-plans-all-price-from": "From {price}",
     "suite-page-organization-plans-all-seats-available": "{numberOfSeats} available",

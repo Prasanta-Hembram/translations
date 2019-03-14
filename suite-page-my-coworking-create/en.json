@@ -4,7 +4,7 @@
     "suite-page-my-coworking-create-button-create": "Create",
     "suite-page-my-coworking-create-currency-label": "Currency",
     "suite-page-my-coworking-create-organization-name": "Name",
-    "suite-page-my-coworking-create-organization-name-placeholder": "Add Name",
+    "suite-page-my-coworking-create-organization-name-placeholder": "Type a name",
     "suite-page-my-coworking-create-timezone-label": "Timezone"
   }
 }

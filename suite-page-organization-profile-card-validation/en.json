@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-profile-card-validation-organizations-card-validation-title": "Enter required data",
-    "suite-page-organization-profile-card-validation-error-email": "Please enter a correct email.",
-    "suite-page-organization-profile-card-validation-error-first-name": "Please enter a first name.",
-    "suite-page-organization-profile-card-validation-error-last-name": "Please enter a last name.",
-    "suite-page-organization-profile-card-validation-error-organization": "Please enter a organization.",
-    "suite-page-organization-profile-card-validation-error-phone-number": "Please enter a phone number.",
-    "suite-page-organization-profile-card-validation-error-title": "Please enter a title.",
+    "suite-page-organization-profile-card-validation-error-email": "Type a correct email.",
+    "suite-page-organization-profile-card-validation-error-first-name": "Type a first name.",
+    "suite-page-organization-profile-card-validation-error-last-name": "Type a last name.",
+    "suite-page-organization-profile-card-validation-error-organization": "Type a organization.",
+    "suite-page-organization-profile-card-validation-error-phone-number": "Type a phone number.",
+    "suite-page-organization-profile-card-validation-error-title": "Type a title.",
     "suite-page-organization-profile-card-validation-my-cards-edit-fields-shared-basic-information": "Basic Information"
   }
 }

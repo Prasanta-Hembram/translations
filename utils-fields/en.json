@@ -1,16 +1,16 @@
 {
   "data": {
     "utils-fields-email": "Email",
-    "utils-fields-email-placeholder": "Add email",
+    "utils-fields-email-placeholder": "Type an email",
     "utils-fields-first-name": "Name",
-    "utils-fields-first-name-placeholder": "Add name",
+    "utils-fields-first-name-placeholder": "Type a name",
     "utils-fields-last-name": "Surname",
-    "utils-fields-last-name-placeholder": "Add surname",
+    "utils-fields-last-name-placeholder": "Type a surname",
     "utils-fields-organization": "Organization",
-    "utils-fields-organization-placeholder": "Add company name",
+    "utils-fields-organization-placeholder": "Type an organization name",
     "utils-fields-phone-number": "Phone Number",
-    "utils-fields-phone-number-placeholder": "Add phone number",
-    "utils-fields-title-placeholder": "Add position",
+    "utils-fields-phone-number-placeholder": "Type a phone number",
+    "utils-fields-title-placeholder": "Type a position",
     "utils-fields-title": "Title"
   }
 }

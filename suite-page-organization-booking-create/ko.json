@@ -32,7 +32,7 @@
     "suite-page-organization-booking-create-price-points-and-money": "이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다.",
     "suite-page-organization-booking-create-purpose": "제목",
     "suite-page-organization-booking-create-purpose-placeholder": "공유 메모 입력하기",
-    "suite-page-organization-booking-create-query-params": "페이지를 표시할 수 없습니다. 다시 시도하세요. 😕",
+    "suite-page-organization-booking-create-query-params": "페이지를 표시할 수 없습니다. 다시 시도하세요.",
     "suite-page-organization-booking-create-quite-description": "{organizationName}에 있는 {pointQuote}%의 크레딧으로 예약이 가능합니다.",
     "suite-page-organization-booking-create-role-admin": "관리자",
     "suite-page-organization-booking-create-role-member": "회원",

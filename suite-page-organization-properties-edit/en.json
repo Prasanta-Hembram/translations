@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-page-organization-property-edit-description": "Description",
-    "suite-page-organization-property-edit-description-placeholder": "Type description for your room (optional)",
-    "suite-page-organization-property-edit-error-number-of-people": "Please indicate how many people can fit in the room.",
-    "suite-page-organization-property-edit-error-room-name": "Please enter a room name.",
+    "suite-page-organization-property-edit-description-placeholder": "Type a description (optional)",
+    "suite-page-organization-property-edit-error-number-of-people": "Type a number of seats.",
+    "suite-page-organization-property-edit-error-room-name": "Type a name.",
     "suite-page-organization-property-edit-max-time": "Max time",
     "suite-page-organization-property-edit-min-time": "Min time",
     "suite-page-organization-property-edit-name": "Name",
-    "suite-page-organization-property-edit-name-placeholder": "Add name",
+    "suite-page-organization-property-edit-name-placeholder": "Type a name",
     "suite-page-organization-property-edit-number-of-seats": "Seats",
-    "suite-page-organization-property-edit-price-currency-changing-notice": "To change currency, contact to support@andcards.com.",
+    "suite-page-organization-property-edit-price-currency-changing-notice": "Contact support@andcards.com to change currency.",
     "suite-page-organization-property-edit-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-property-edit-price-points": "Credits, {pointEmoji}/hr",
-    "suite-page-organization-property-edit-title-edit": "Edit room"
+    "suite-page-organization-property-edit-title-edit": "Edit Room"
   }
 }

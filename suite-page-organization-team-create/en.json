@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-team-create-title": "Create New Team",
+    "suite-page-organization-team-create-title": "New Team",
     "suite-page-organization-team-create-combobox-title": "Select Emoji",
-    "suite-page-organization-team-create-icon": "Team Emoji",
-    "suite-page-organization-team-create-name": "Team Name",
-    "suite-page-organization-team-create-name-placeholder": "Add team name",
-    "suite-page-organization-team-create-permission-denied": "You don't have permission to access this page."
+    "suite-page-organization-team-create-icon": "Emoji",
+    "suite-page-organization-team-create-name": "Name",
+    "suite-page-organization-team-create-name-placeholder": "Type a team name",
+    "suite-page-organization-team-create-permission-denied": "No permission to access this page."
   }
 }
