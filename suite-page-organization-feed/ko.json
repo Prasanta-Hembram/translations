@@ -2,7 +2,10 @@
   "data": {
     "suite-page-organization-feed-title": "피드",
     "suite-page-organization-feed-fetch-failure": "피드를 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organization-feed-list-empty": "아무것도 없습니다. 😢",
+    "suite-page-organization-feed-no-feed-button-create": "등록하기",
+    "suite-page-organization-feed-no-feed-desc": "중요한 뉴스와 공지사항을 다시 확인해보세요.",
+    "suite-page-organization-feed-no-feed-desc-admin": "뉴스를 공유하고, 질문하고, 공간 커뮤니티와 연결되어 보세요.",
+    "suite-page-organization-feed-no-feed-title": "연결하기",
     "suite-page-organization-feed-user-admin": "관리자/중간관리자"
   }
 }

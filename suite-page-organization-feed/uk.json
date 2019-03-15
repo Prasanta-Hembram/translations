@@ -2,7 +2,10 @@
   "data": {
     "suite-page-organization-feed-title": "Стрічка спільноти",
     "suite-page-organization-feed-fetch-failure": "Неможливо показати стрічку. Перевірте інтернет-з'єднання.",
-    "suite-page-organization-feed-list-empty": "Нічого не знайдено. 😢",
+    "suite-page-organization-feed-no-feed-button-create": "Створити",
+    "suite-page-organization-feed-no-feed-desc": "Перевіряйте важливі новини та оголошення на цій сторінці.",
+    "suite-page-organization-feed-no-feed-desc-admin": "Діліться новинами, задайте запитання і беріть активну участь в cпільності коворкінга.",
+    "suite-page-organization-feed-no-feed-title": "Долучайтесь",
     "suite-page-organization-feed-user-admin": "Адміністратор/модератор"
   }
 }

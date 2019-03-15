@@ -2,7 +2,10 @@
   "data": {
     "suite-page-organization-feed-title": "Feed",
     "suite-page-organization-feed-fetch-failure": "Couldn't show feed. Are you sure there is an internet connection?",
-    "suite-page-organization-feed-list-empty": "There are no posts. 😢",
+    "suite-page-organization-feed-no-feed-button-create": "Create",
+    "suite-page-organization-feed-no-feed-desc": "Check back for important news and announcements.",
+    "suite-page-organization-feed-no-feed-desc-admin": "Share news, ask a question, and connect to the workspace community.",
+    "suite-page-organization-feed-no-feed-title": "Let's connect",
     "suite-page-organization-feed-user-admin": "Admin/moderator"
   }
 }
