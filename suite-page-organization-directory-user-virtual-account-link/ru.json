@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-virtual-account-link-title": "Связать с",
+    "suite-page-organization-directory-user-virtual-account-link-no-none": "Не выбрано",
+    "suite-page-organization-directory-user-virtual-account-link-no-users": "Никого добавлять. 😢",
+    "suite-page-organization-directory-user-virtual-account-link-nothing-found": "Ничего не найдено. 😢",
+    "suite-page-organization-directory-user-virtual-account-link-search": "Поиск среди {numberOfUsers} участников"
+  }
+}

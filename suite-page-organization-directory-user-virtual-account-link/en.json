@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-virtual-account-link-title": "Link virtual account",
+    "suite-page-organization-directory-user-virtual-account-link-no-none": "None",
+    "suite-page-organization-directory-user-virtual-account-link-no-users": "No one to add. 😢",
+    "suite-page-organization-directory-user-virtual-account-link-nothing-found": "Nothing found. 😢",
+    "suite-page-organization-directory-user-virtual-account-link-search": "Search {numberOfUsers} members"
+  }
+}
