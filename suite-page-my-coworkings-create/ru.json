@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-my-coworkings-create-title": "Новый коворкинг",
+    "suite-page-my-coworkings-create-button-create": "Создать",
+    "suite-page-my-coworkings-create-currency-label": "Валюта",
+    "suite-page-my-coworkings-create-organization-name": "Название",
+    "suite-page-my-coworkings-create-organization-name-placeholder": "Добавить название",
+    "suite-page-my-coworkings-create-timezone-label": "Часовой пояс"
+  }
+}

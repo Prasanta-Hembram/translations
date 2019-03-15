@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-my-coworkings-main-main-title": "Mis espacios",
+    "suite-page-my-coworkings-main-button-create": "Crear nuevo",
+    "suite-page-my-coworkings-main-button-join": "Buscar existente",
+    "suite-page-my-coworkings-main-button-search": "Buscar",
+    "suite-page-my-coworkings-main-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
+    "suite-page-my-coworkings-main-no-coworkings": "Si eres residente, únete a un área de trabajo existente. Si eres un administrador de la comunidad, crea una nueva área de trabajo.",
+    "suite-page-my-coworkings-main-no-coworkings-title": "Empecemos!",
+    "suite-page-my-coworkings-main-requested-text": "Su solicitud está siendo revisada por el administrador. Te avisaremos una vez que se resuelva."
+  }
+}

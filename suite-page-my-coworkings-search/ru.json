@@ -1,0 +1,14 @@
+{
+  "data": {
+    "suite-page-my-coworkings-search-main-title": "Присоединиться",
+    "suite-page-my-coworkings-search-action-button-requested": "Запрос отправлен",
+    "suite-page-my-coworkings-search-button-already-joined": "Вы уже присоединились",
+    "suite-page-my-coworkings-search-button-request": "Вступить",
+    "suite-page-my-coworkings-search-search-internet-error": "Не удалось отобразить список. Проверьте интернет-соединение.",
+    "suite-page-my-coworkings-search-search-nothing-found": "Отсутствуют коворкинги с таким тегом",
+    "suite-page-my-coworkings-search-search-nothing-found-title": "Ой, ничего не найдено!",
+    "suite-page-my-coworkings-search-search-placeholder": "тег коворкинга",
+    "suite-page-my-coworkings-search-section-look-around-text": "Чтобы присоединиться к коворкингу нужен уникальный код. Обычно он напечатан на отметке, изображенной на картинке.",
+    "suite-page-my-coworkings-search-section-look-around-title": "Посмотрите вокруг"
+  }
+}

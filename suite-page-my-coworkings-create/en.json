@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-my-coworkings-create-title": "New Workspace",
+    "suite-page-my-coworkings-create-button-create": "Create",
+    "suite-page-my-coworkings-create-currency-label": "Currency",
+    "suite-page-my-coworkings-create-organization-name": "Name",
+    "suite-page-my-coworkings-create-organization-name-placeholder": "Type a name",
+    "suite-page-my-coworkings-create-timezone-label": "Timezone"
+  }
+}

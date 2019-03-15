@@ -1,0 +1,14 @@
+{
+  "data": {
+    "suite-page-my-coworkings-search-main-title": "Únete al espacio",
+    "suite-page-my-coworkings-search-action-button-requested": "Solicitado",
+    "suite-page-my-coworkings-search-button-already-joined": "Ya te has unido",
+    "suite-page-my-coworkings-search-button-request": "Solicitud de ingreso",
+    "suite-page-my-coworkings-search-search-internet-error": "No se pudo obtener el espacio de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
+    "suite-page-my-coworkings-search-search-nothing-found": "No hay espacio de trabajo que coincida con esa etiqueta",
+    "suite-page-my-coworkings-search-search-nothing-found-title": "Vaya, no se ha encontrado nada.",
+    "suite-page-my-coworkings-search-search-placeholder": "Etiqueta del espacio de trabajo",
+    "suite-page-my-coworkings-search-section-look-around-text": "Para unirse al espacio de coworking, ingrese su etiqueta única. Puede encontrarlo impreso en una etiqueta que se parece a la imagen.",
+    "suite-page-my-coworkings-search-section-look-around-title": "Mira alrededor"
+  }
+}
