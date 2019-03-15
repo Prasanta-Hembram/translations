@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-cards-update-title": "Додати учасників: {teamTitle}",
+    "suite-page-organization-directory-team-cards-update-no-cards": "Нікого додавати. 😢",
+    "suite-page-organization-directory-team-cards-update-nothing-found": "Нічого не знайдено. 😢",
+    "suite-page-organization-directory-team-cards-update-search": "Пошук серед {numberOfMembers} учасників"
+  }
+}

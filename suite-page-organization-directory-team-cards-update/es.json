@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-cards-update-title": "Agregar miembros: {teamTitle}",
+    "suite-page-organization-directory-team-cards-update-no-cards": "Nadie para agregar. 😢",
+    "suite-page-organization-directory-team-cards-update-nothing-found": "Nada Encontrado. 😢",
+    "suite-page-organization-directory-team-cards-update-search": "Buscar {numberOfMembers} miembros"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-directory-users-invite-title": "초대하기",
+    "suite-page-organization-directory-users-invite-button-download-template": "양식 다운로드",
+    "suite-page-organization-directory-users-invite-button-upload": "파일 업로드",
+    "suite-page-organization-directory-users-invite-desc": "Upload a specially formatted file with a list of your members to mass invite them to join this andcards workspace.",
+    "suite-page-organization-directory-users-invite-error-permission-denied": "보기 권한이 없습니다.",
+    "suite-page-organization-directory-users-invite-label": "한 번에 회원을 초대하세요"
+  }
+}

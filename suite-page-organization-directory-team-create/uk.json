@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-create-title": "Створити команду",
+    "suite-page-organization-directory-team-create-combobox-title": "Обрати емодзі",
+    "suite-page-organization-directory-team-create-icon": "Емодзі",
+    "suite-page-organization-directory-team-create-name": "Назва",
+    "suite-page-organization-directory-team-create-name-placeholder": "Уведіть назву команди",
+    "suite-page-organization-directory-team-create-permission-denied": "Немає прав доступу."
+  }
+}

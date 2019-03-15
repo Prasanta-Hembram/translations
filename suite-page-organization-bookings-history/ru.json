@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-booking-history-title": "Все мои бронирования",
+    "suite-page-organization-booking-history-default-booking-purpose": "Бронь",
+    "suite-page-organization-booking-history-fetch-failure": "Не удалось отобразить все бронирования. Проверьте интернет-соединение.",
+    "suite-page-organization-booking-history-list-empty": "Ничего не найдено. 😢"
+  }
+}

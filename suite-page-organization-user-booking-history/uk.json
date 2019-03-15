@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-user-booking-history-default-booking-purpose": "Резервація",
-    "suite-page-organization-user-booking-history-fetch-failure": "Неможливо відобразити резервації. Перевірте, чи все добре з інтернет-з'єднанням",
-    "suite-page-organization-user-booking-history-history-title": "Історія резервації",
-    "suite-page-organization-user-booking-history-list-empty": "Нічого не знайдено. 😢",
-    "suite-page-organization-user-booking-history-permission-denied": "Немає прав доступу для перегляду цієї сторінки."
-  }
-}

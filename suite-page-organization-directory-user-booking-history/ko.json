@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-booking-history-default-booking-purpose": "예약",
+    "suite-page-organization-directory-user-booking-history-fetch-failure": "나의 모든 예약을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-directory-user-booking-history-history-title": "예약 현황",
+    "suite-page-organization-directory-user-booking-history-list-empty": "아무것도 없습니다 😢",
+    "suite-page-organization-directory-user-booking-history-permission-denied": "볼 수있는 권한이 없습니다."
+  }
+}

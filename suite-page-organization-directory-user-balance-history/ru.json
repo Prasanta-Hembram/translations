@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-balance-history-title": "История транзакций",
+    "suite-page-organization-directory-user-balance-history-title-personal": "История личных транзакций",
+    "suite-page-organization-directory-user-balance-history-fetch-failure": "Не удалось отобразить историю транзакций. Проверьте интернет-соединение.",
+    "suite-page-organization-directory-user-balance-history-list-empty": "Нет ни одной транзакции. 😢",
+    "suite-page-organization-directory-user-balance-history-permission-denied": "Нет прав доступа для просмотра этой страницы."
+  }
+}

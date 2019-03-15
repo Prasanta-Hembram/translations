@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-user-booking-history-my-title": "Усі мої резервації",
-    "suite-page-organization-user-booking-history-my-default-booking-purpose": "Резервація",
-    "suite-page-organization-user-booking-history-my-fetch-failure": "Неможливо відобразити резервації. Перевірте, чи все добре з інтернет-з'єднанням",
-    "suite-page-organization-user-booking-history-my-list-empty": "Нічого не знайдено. 😢"
-  }
-}

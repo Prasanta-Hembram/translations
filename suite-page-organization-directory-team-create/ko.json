@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-create-title": "새 팀 만들기",
+    "suite-page-organization-directory-team-create-combobox-title": "에모지 선택하기",
+    "suite-page-organization-directory-team-create-icon": "팀 에모지",
+    "suite-page-organization-directory-team-create-name": "팀 명",
+    "suite-page-organization-directory-team-create-name-placeholder": "팀 명 입력하기",
+    "suite-page-organization-directory-team-create-permission-denied": "볼 수 있는 권한이 없습니다."
+  }
+}

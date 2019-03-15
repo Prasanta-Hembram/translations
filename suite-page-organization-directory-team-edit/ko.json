@@ -1,0 +1,29 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-edit-action-delete": "팀 삭제",
+    "suite-page-organization-directory-team-edit-button-balance-history": "결제 내역",
+    "suite-page-organization-directory-team-edit-button-charge-title": "회수",
+    "suite-page-organization-directory-team-edit-button-give-title": "추가",
+    "suite-page-organization-directory-team-edit-cash-balance-title": "현금 잔액",
+    "suite-page-organization-directory-team-edit-delete-failure": "팀 삭제 불가. 🙁",
+    "suite-page-organization-directory-team-edit-delete-repeat": "다시 시도",
+    "suite-page-organization-directory-team-edit-error-title": "팀 명을 입력하세요.",
+    "suite-page-organization-directory-team-edit-icon": "팀 에모지",
+    "suite-page-organization-directory-team-edit-name": "팀 명",
+    "suite-page-organization-directory-team-edit-name-placeholder": "팀 명 입력하기",
+    "suite-page-organization-directory-team-edit-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.😕",
+    "suite-page-organization-directory-team-edit-section-membership-actions": "멤버십",
+    "suite-page-organization-directory-team-edit-section-membership-expiring-balance-description": "{date}에 만료됩니다.",
+    "suite-page-organization-directory-team-edit-section-membership-expiring-balance-title": "만료할 크레딧",
+    "suite-page-organization-directory-team-edit-section-membership-permanent-balance-title": "크레딧",
+    "suite-page-organization-directory-team-edit-section-membership-permanent-credits-description": "만료되지 않습니다.",
+    "suite-page-organization-directory-team-edit-section-plan-button-assign": "플랜 부여하기",
+    "suite-page-organization-directory-team-edit-section-plan-no-plan": "현재 팀에 멤버십 플랜이 없습니다. 플랜은 팀 구성원에게 andcards를 통한 서비스 이용의 간편화, 자동 크레딧 부여, 그리고 멤버십 연장을 상기시켜드릴 수 있습니다.",
+    "suite-page-organization-directory-team-edit-section-plan-title": "플랜",
+    "suite-page-organization-directory-team-edit-section-team-actions": "팀 계정 관리",
+    "suite-page-organization-directory-team-edit-section-team-members": "팀원",
+    "suite-page-organization-directory-team-edit-select-icon-title": "에모지 선택하기",
+    "suite-page-organization-directory-team-edit-select-team-members-title": "팀원 선택하기",
+    "suite-page-organization-directory-team-edit-update-failure": "업데이트 실패"
+  }
+}
