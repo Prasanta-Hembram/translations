@@ -1,0 +1,31 @@
+{
+  "data": {
+    "suite-page-organization-settings-spaces-title": "Profile",
+    "suite-page-organization-settings-spaces-address": "Address",
+    "suite-page-organization-settings-spaces-address-placeholder": "Type an address",
+    "suite-page-organization-settings-spaces-currency": "Currency",
+    "suite-page-organization-settings-spaces-currency-contact-to-support": "To change currency, contact to support@andcards.com.",
+    "suite-page-organization-settings-spaces-description": "Description",
+    "suite-page-organization-settings-spaces-description-placeholder": "Type a description",
+    "suite-page-organization-settings-spaces-email": "Email",
+    "suite-page-organization-settings-spaces-email-placeholder": "Type an email",
+    "suite-page-organization-settings-spaces-error-organization-email": "Type a correct email.",
+    "suite-page-organization-settings-spaces-error-organization-title": "Type a name of your workspace.",
+    "suite-page-organization-settings-spaces-link": "Link",
+    "suite-page-organization-settings-spaces-link-placeholder": "Type a link",
+    "suite-page-organization-settings-spaces-name": "Name",
+    "suite-page-organization-settings-spaces-name-placeholder": "Type a name",
+    "suite-page-organization-settings-spaces-section-amenities-24-7-access": "24/7 access",
+    "suite-page-organization-settings-spaces-section-amenities-kitchen": "Kitchen",
+    "suite-page-organization-settings-spaces-section-amenities-lockers": "Lockers",
+    "suite-page-organization-settings-spaces-section-amenities-parking": "Parking",
+    "suite-page-organization-settings-spaces-section-amenities-phone-booth": "Phone Booth",
+    "suite-page-organization-settings-spaces-section-amenities-printer-scanner": "Printer/scanner",
+    "suite-page-organization-settings-spaces-section-amenities-title": "Amenities",
+    "suite-page-organization-settings-spaces-section-amenities-unlimited-drinks": "Unlimited coffee/tea",
+    "suite-page-organization-settings-spaces-timezone": "Timezone",
+    "suite-page-organization-settings-spaces-user-leave-failure": "Failed to leave workspace. 🙁",
+    "suite-page-organization-settings-spaces-user-leave-organization": "Leave workspace",
+    "suite-page-organization-settings-spaces-user-leave-repeat": "Try again"
+  }
+}

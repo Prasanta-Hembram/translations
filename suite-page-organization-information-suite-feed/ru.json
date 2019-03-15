@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-information-suite-feed-title": "Лента",
-    "suite-page-organization-information-suite-feed-error-permission-denied": "Нет прав доступа.",
-    "suite-page-organization-information-suite-feed-switch-label": "Участники могут постить",
-    "suite-page-organization-information-suite-feed-text-description": "Если эта настройка включена, то все участники смогут постить в ленту."
-  }
-}

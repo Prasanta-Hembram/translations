@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-settings-suite-directory-title": "Каталог",
+    "suite-page-organization-settings-suite-directory-code": "Тег",
+    "suite-page-organization-settings-suite-directory-code-description": "Поділіться унікальним тегом коворкінгу, щоб будь-хто міг сам його знайти.",
+    "suite-page-organization-settings-suite-directory-contact-to-support": "Цей тег також використовується для пошуку вашого коворкінгу на andcards.com/s. Щоб його змінити, сконтактуйтесь з нами через support@andcards.com.",
+    "suite-page-organization-settings-suite-directory-error-permission-denied": "Немає прав доступу.",
+    "suite-page-organization-settings-suite-directory-section-invite-members-title": "Запросити учасників",
+    "suite-page-organization-settings-suite-directory-section-invite-members-via-link-description": "Поділіться публічним посиланням на коворкінг, щоб дозволити будь-кому подати заявку на участь.",
+    "suite-page-organization-settings-suite-directory-section-required-personal-information-title": "Обов’язкова особиста інформація",
+    "suite-page-organization-settings-suite-directory-section-required-personal-information-description": "Усі учасники зобов'язані надавати персональну інформацію."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-settings-suite-feed-title": "피드",
+    "suite-page-organization-settings-suite-feed-error-permission-denied": "보기 권한이 없습니다.",
+    "suite-page-organization-settings-suite-feed-switch-label": "회원 포스팅 가능",
+    "suite-page-organization-settings-suite-feed-text-description": "이 기능을 켜시먼, 모든 코워킹 스페이스의 회원들이 포스팅을 할 수 있습니다."
+  }
+}

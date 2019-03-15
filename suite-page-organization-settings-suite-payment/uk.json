@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-settings-suite-payment-title": "Платежі",
+    "suite-page-organization-settings-suite-payment-error-permission-denied": "Немає прав доступу.",
+    "suite-page-organization-settings-suite-payment-switch-label": "Платіжна система",
+    "suite-page-organization-settings-suite-payment-text-description": "Платіжна система робить можливими оплати за резервації кімнат та підписки на тарифи з додатку. Щоб налаштувати платіжну систему, зверніться до support@andcards.com."
+  }
+}

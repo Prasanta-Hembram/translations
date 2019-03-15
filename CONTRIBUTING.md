@@ -28,15 +28,15 @@ Example:
 
 Example:
 
-`"suite-page-organization-information-spaces-section-amenities": "Amenities"`
+`"suite-page-organization-settings-spaces-section-amenities": "Amenities"`
 
-`"suite-page-organization-information-spaces-section-amenities-parking": "Parking"`
+`"suite-page-organization-settings-spaces-section-amenities-parking": "Parking"`
 
 - Include the component name as part of the key.
 
 Example:
 
-`"suite-page-organization-information-spaces-section-amenities-button-add": "Add amenities"`
+`"suite-page-organization-settings-spaces-section-amenities-button-add": "Add amenities"`
 
 - The alert translations begins with an `alert` word.
 
@@ -56,7 +56,7 @@ For making a translation process simpler, we recommend copy and pasting existing
 
 ## Localization Style Guide
 
-### 1. Avoid redundancies. 
+### 1. Avoid redundancies.
 
 If an element appears in a section and it's meaning can be contextually implied, don't repeat the keyword. For example, if a page is "Add Plan", there is no need to repeat the word "plan" on the page.
 
@@ -75,7 +75,7 @@ If an element appears in a section and it's meaning can be contextually implied,
 - "Please indicate how many of such plans you offer." → "Type a quantity."
 
 ### 4. Avoid expletive constructions.
- 
+
 - "There is a setting to change a password in Settings." → "Change a password in Settings."
 - "Looks like this workspace name is already taken. Try another one." → "The name is already taken. Try another one."
 - "Choose if members must indicate the title when they create bookings." → "Require members to type a title."
@@ -97,30 +97,30 @@ More about using pronouns: https://developers.google.com/style/pronouns
 
 ### 7. Use articles (English and Spanish).
 
-Include `a`, `an`, and `the` in your writing. Use `a` and `an` with singular nouns when in general context. Use `the` with a singular or plural nouns to refer to specific elements that already exist on the page. 
+Include `a`, `an`, and `the` in your writing. Use `a` and `an` with singular nouns when in general context. Use `the` with a singular or plural nouns to refer to specific elements that already exist on the page.
 
 - "Dates should match selected criteria." (general context plural nouns don't need an article)
 - "The trial is over." (referring to a singular noun, specifically a booking system trial)
-- "Type a name." (referring to a singular noun in general context) 
+- "Type a name." (referring to a singular noun in general context)
 
 More details on articles: https://developers.google.com/style/articles
 
-### 7. Capitalize the first letter of each word in titles (English only). 
+### 7. Capitalize the first letter of each word in titles (English only).
 
 - "All membership plans" → "All Membership Plans"
 - "Link printer account" → "Link Printer Account"
 
-### 8. Capitalize the first letter of each word in buttons (English only). 
+### 8. Capitalize the first letter of each word in buttons (English only).
 
 Use verbs that precisely describe the button’s action. For example, `Cancel`, `Clear History`, `Add Email`, `Select All`, etc.
 
 ### 9. Avoid professional jargon and use proper terminology.
 
-|EN|ES|UK|RU|KO|
-|---|---|---|---|---|
-|Settings|Settings|Налаштування|Настройки|설정|
-|Workspace|Espacio|Коворкінг|Коворкинг|공간|
-|Booking|Reserva|Резервація|Бронирование|예약|
-|Room|Sala|Кімната|Переговорная|시설|
+| EN        | ES       | UK           | RU           | KO   |
+| --------- | -------- | ------------ | ------------ | ---- |
+| Settings  | Settings | Налаштування | Настройки    | 설정 |
+| Workspace | Espacio  | Коворкінг    | Коворкинг    | 공간 |
+| Booking   | Reserva  | Резервація   | Бронирование | 예약 |
+| Room      | Sala     | Кімната      | Переговорная | 시설 |
 
 Never use wrong forms: organization (EN), sala de habitacion (ES), бронювання (UK), резервация (RU). In Korean, prefer "-세요" to "-하십시요": "제목을 입력하세요."

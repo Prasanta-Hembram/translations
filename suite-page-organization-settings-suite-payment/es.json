@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-settings-suite-payment-title": "Pago",
+    "suite-page-organization-settings-suite-payment-error-permission-denied": "No hay permiso de acceso.",
+    "suite-page-organization-settings-suite-payment-switch-label": "Sistema de pago",
+    "suite-page-organization-settings-suite-payment-text-description": "El sistema de facturación permite pagos dentro de la aplicación para la reserva de habitaciones y planes de membresía. Para cambiar esta configuración, póngase en contacto con support@andcards.com."
+  }
+}
