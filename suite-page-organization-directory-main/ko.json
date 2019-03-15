@@ -1,0 +1,22 @@
+{
+  "data": {
+    "suite-page-organization-directory-main-directory-title": "회원 찾기",
+    "suite-page-organization-directory-main-button-invite": "초대하기",
+    "suite-page-organization-directory-main-cash-balance": "현금 잔액",
+    "suite-page-organization-directory-main-credit-balance": "크레딧 잔액",
+    "suite-page-organization-directory-main-empty": "팀이 없습니다.",
+    "suite-page-organization-directory-main-end": "종료",
+    "suite-page-organization-directory-main-error-not-found": "인터넷이 없습니다.",
+    "suite-page-organization-directory-main-individuals-empty": "회원이 없습니다.",
+    "suite-page-organization-directory-main-individuals-title": "개인",
+    "suite-page-organization-directory-main-join-requests-title": "가입 요청",
+    "suite-page-organization-directory-main-name": "성함",
+    "suite-page-organization-directory-main-nothing-found": "아무것도 없습니다. 😢",
+    "suite-page-organization-directory-main-plan": "플랜",
+    "suite-page-organization-directory-main-plan-not-started": "시작 예정",
+    "suite-page-organization-directory-main-price": "가격",
+    "suite-page-organization-directory-main-search-placeholder": "{numberOfTeams}팀 및 {numberOfMembers}명 중 검색하기",
+    "suite-page-organization-directory-main-teams-title": "팀",
+    "suite-page-organization-directory-main-user-bookings-history-title": "예약 현황"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-directory-create-title": "Создать команду",
+    "suite-page-organization-directory-create-combobox-title": "Выбрать эмодзи",
+    "suite-page-organization-directory-create-icon": "Эмодзи",
+    "suite-page-organization-directory-create-name": "Название",
+    "suite-page-organization-directory-create-name-placeholder": "Введите название",
+    "suite-page-organization-directory-create-permission-denied": "Нет прав доступа."
+  }
+}

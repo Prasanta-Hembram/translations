@@ -1,0 +1,22 @@
+{
+  "data": {
+    "suite-page-organization-directory-main-directory-title": "Каталог",
+    "suite-page-organization-directory-main-button-invite": "Пригласить",
+    "suite-page-organization-directory-main-cash-balance": "Баланс наличных",
+    "suite-page-organization-directory-main-credit-balance": "Баланс кредитов",
+    "suite-page-organization-directory-main-empty": "Команды отсутствуют.",
+    "suite-page-organization-directory-main-end": "До",
+    "suite-page-organization-directory-main-error-not-found": "Проверьте соединение с интернетом.",
+    "suite-page-organization-directory-main-individuals-empty": "Учасники отсутствуют.",
+    "suite-page-organization-directory-main-individuals-title": "Индивидуальные участники",
+    "suite-page-organization-directory-main-join-requests-title": "Запросы на присоединение",
+    "suite-page-organization-directory-main-name": "Имя",
+    "suite-page-organization-directory-main-nothing-found": "Ничего не найдено. 😢",
+    "suite-page-organization-directory-main-plan": "План",
+    "suite-page-organization-directory-main-plan-not-started": "Не начался",
+    "suite-page-organization-directory-main-price": "Цена",
+    "suite-page-organization-directory-main-search-placeholder": "Поиск среди {numberOfTeams} команд и {numberOfMembers} участников",
+    "suite-page-organization-directory-main-teams-title": "Команды",
+    "suite-page-organization-directory-main-user-bookings-history-title": "История бронирования"
+  }
+}

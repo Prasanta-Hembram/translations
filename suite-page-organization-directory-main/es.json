@@ -1,0 +1,22 @@
+{
+  "data": {
+    "suite-page-organization-directory-main-directory-title": "Directorio",
+    "suite-page-organization-directory-main-button-invite": "Invitación",
+    "suite-page-organization-directory-main-cash-balance": "Balance de efectivo",
+    "suite-page-organization-directory-main-credit-balance": "Balance de crédito",
+    "suite-page-organization-directory-main-empty": "No hay equipos.",
+    "suite-page-organization-directory-main-end": "Finalización",
+    "suite-page-organization-directory-main-error-not-found": "No hay internet.",
+    "suite-page-organization-directory-main-individuals-empty": "No hay miembros.",
+    "suite-page-organization-directory-main-individuals-title": "Individuos",
+    "suite-page-organization-directory-main-join-requests-title": "Unirse a las solicitudes",
+    "suite-page-organization-directory-main-name": "Nombre",
+    "suite-page-organization-directory-main-nothing-found": "Nada Encontrado. 😢",
+    "suite-page-organization-directory-main-plan": "Plan",
+    "suite-page-organization-directory-main-plan-not-started": "No empezado",
+    "suite-page-organization-directory-main-price": "Precio",
+    "suite-page-organization-directory-main-search-placeholder": "Buscar {numberOfTeams} equipos y {numberOfMembers} miembros",
+    "suite-page-organization-directory-main-teams-title": "Equipos",
+    "suite-page-organization-directory-main-user-bookings-history-title": "Historial de reservas"
+  }
+}

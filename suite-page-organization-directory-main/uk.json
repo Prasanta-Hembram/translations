@@ -1,0 +1,22 @@
+{
+  "data": {
+    "suite-page-organization-directory-main-directory-title": "Каталог",
+    "suite-page-organization-directory-main-button-invite": "Запросити",
+    "suite-page-organization-directory-main-cash-balance": "Баланс готівки",
+    "suite-page-organization-directory-main-credit-balance": "Баланс кредитів",
+    "suite-page-organization-directory-main-empty": "Немає команд.",
+    "suite-page-organization-directory-main-end": "До",
+    "suite-page-organization-directory-main-error-not-found": "Перевірте з'єднання з інтернетом.",
+    "suite-page-organization-directory-main-individuals-empty": "Немає учасників.",
+    "suite-page-organization-directory-main-individuals-title": "Індивідуальні учасники",
+    "suite-page-organization-directory-main-join-requests-title": "Запити на приєднання",
+    "suite-page-organization-directory-main-name": "Ім'я",
+    "suite-page-organization-directory-main-nothing-found": "Нічого не знайдено. 😢",
+    "suite-page-organization-directory-main-plan": "План",
+    "suite-page-organization-directory-main-plan-not-started": "Не розпочато",
+    "suite-page-organization-directory-main-price": "Ціна",
+    "suite-page-organization-directory-main-search-placeholder": "Пошук серед {numberOfTeams} команд та {numberOfMembers} учасників",
+    "suite-page-organization-directory-main-teams-title": "Команди",
+    "suite-page-organization-directory-main-user-bookings-history-title": "Історія резервації"
+  }
+}
