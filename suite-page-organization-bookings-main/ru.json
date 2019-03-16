@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-bookings-main-title": "Бронирования",
+    "suite-page-organization-bookings-main-availability-available": "Доступно",
+    "suite-page-organization-bookings-main-availability-in-minutes": "Доступно {time}",
+    "suite-page-organization-bookings-main-availability-in-use": "Используется",
+    "suite-page-organization-bookings-main-availability-unavailable": "Недоступно",
+    "suite-page-organization-bookings-main-bookings-button-my-title": "Все мои бронирования",
+    "suite-page-organization-bookings-main-calendar-button-title": "Все переговорные",
+    "suite-page-organization-bookings-main-default-booking-purpose": "Бронь",
+    "suite-page-organization-bookings-main-get-failure": "Невозможно отобразить переговорные. Проверьте интернет-соединение.",
+    "suite-page-organization-bookings-main-my-bookings": "Мои бронирования",
+    "suite-page-organization-bookings-main-rooms": "Переговорные"
+  }
+}
