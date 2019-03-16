@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-feed-main-title": "Лента сообщества",
+    "suite-page-organization-feed-main-fetch-failure": "Лента не отображается. Проверьте интернет-соединение.",
+    "suite-page-organization-feed-main-no-feed-button-create": "Создать",
+    "suite-page-organization-feed-main-no-feed-desc": "Проверяйте важные новости и объявления на этой странице.",
+    "suite-page-organization-feed-main-no-feed-desc-admin": "Делитесь новостями, задайте вопросы и принимайте активное участие в сообщества коворкинга.",
+    "suite-page-organization-feed-main-no-feed-title": "Присоединяйтесь",
+    "suite-page-organization-feed-main-user-admin": "Администратор/модератор"
+  }
+}
