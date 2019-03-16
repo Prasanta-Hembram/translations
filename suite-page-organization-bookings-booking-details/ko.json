@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-bookings-booking-details-action-button-for-free": "무료",
+    "suite-page-organization-bookings-booking-details-action-button-money-card": "카드 ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-money-cash": "현금 ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-point-personal": "개인 크레딧 ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team": "팀 크레딧 ({balance})",
+    "suite-page-organization-bookings-booking-details-action-delete": "삭제",
+    "suite-page-organization-bookings-booking-details-booked-by": "예약자",
+    "suite-page-organization-bookings-booking-details-default-purpose": "예약",
+    "suite-page-organization-bookings-booking-details-delete-failure": "예약 삭제 실패. 🙁",
+    "suite-page-organization-bookings-booking-details-delete-repeat": "다시 시도해 주세요",
+    "suite-page-organization-bookings-booking-details-empty": "이 예약은 존재하지 않거나 삭제되었을 수 있습니다. 😕",
+    "suite-page-organization-bookings-booking-details-end-time": "종료",
+    "suite-page-organization-bookings-booking-details-lock-code": "비밀번호",
+    "suite-page-organization-bookings-booking-details-lock-code-desc": "회의실 문에는 스마트락 보안장치가 설치되어 있습니다. 문을 열기 위해서, 표시된 코드와 #을 입력합니다. 잠금 코드는 예약 시간 동안에만 유효합니다.",
+    "suite-page-organization-bookings-booking-details-memo": "메모",
+    "suite-page-organization-bookings-booking-details-payed-with": "결제 수단",
+    "suite-page-organization-bookings-booking-details-purpose": "제목",
+    "suite-page-organization-bookings-booking-details-section-access": "출입",
+    "suite-page-organization-bookings-booking-details-section-payment": "결제",
+    "suite-page-organization-bookings-booking-details-section-people": "예약자",
+    "suite-page-organization-bookings-booking-details-section-purpose": "목적",
+    "suite-page-organization-bookings-booking-details-section-time": "시간",
+    "suite-page-organization-bookings-booking-details-share-link-title": "예약 링크",
+    "suite-page-organization-bookings-booking-details-start-time": "시작"
+  }
+}

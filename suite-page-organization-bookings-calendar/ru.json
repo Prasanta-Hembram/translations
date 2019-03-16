@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-bookings-calendar-title": "Все переговорные",
+    "suite-page-organization-bookings-calendar-alert-past-day": "Нельзя бронировать в прошлом.",
+    "suite-page-organization-bookings-calendar-alert-period": "Выбранный период времени меньше минимально допустимого.",
+    "suite-page-organization-bookings-calendar-date": "Дата",
+    "suite-page-organization-bookings-calendar-get-failure": "Переговорные не отображаются. Проверьте интернет-соединение.",
+    "suite-page-organization-bookings-calendar-my": "Мое бронирование"
+  }
+}

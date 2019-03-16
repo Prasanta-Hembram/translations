@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-bookings-calendar-title": "Усі кімнати",
+    "suite-page-organization-bookings-calendar-alert-past-day": "Не можливо резервувати у минулому.",
+    "suite-page-organization-bookings-calendar-alert-period": "Обраний проміжок часу менший, ніж мінімально допустимий.",
+    "suite-page-organization-bookings-calendar-date": "Дата",
+    "suite-page-organization-bookings-calendar-get-failure": "Кімнати не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "suite-page-organization-bookings-calendar-my": "Моя резервація"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-bookings-properties-title": "Reservas",
+    "suite-page-organization-bookings-properties-availability-available": "Disponible",
+    "suite-page-organization-bookings-properties-availability-in-minutes": "Disponible {time}",
+    "suite-page-organization-bookings-properties-availability-in-use": "En uso",
+    "suite-page-organization-bookings-properties-availability-unavailable": "No disponible",
+    "suite-page-organization-bookings-properties-bookings-button-my-title": "Todas Mis Reservas",
+    "suite-page-organization-bookings-properties-calendar-button-title": "Todas las Sala de Reuniones",
+    "suite-page-organization-bookings-properties-default-booking-purpose": "Reserva",
+    "suite-page-organization-bookings-properties-get-failure": "No se pudieron mostrar las habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
+    "suite-page-organization-bookings-properties-my-bookings": "Mis reservas",
+    "suite-page-organization-bookings-properties-rooms": "Sala de Reuniones"
+  }
+}

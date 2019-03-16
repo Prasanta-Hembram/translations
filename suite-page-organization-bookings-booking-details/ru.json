@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-bookings-booking-details-action-button-for-free": "Бесплатно",
+    "suite-page-organization-bookings-booking-details-action-button-money-card": "Карточкой ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Наличными ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-point-personal": "Личными кредитами ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team": "Командными кредитами ({balance})",
+    "suite-page-organization-bookings-booking-details-action-delete": "Удалить",
+    "suite-page-organization-bookings-booking-details-booked-by": "Учасник",
+    "suite-page-organization-bookings-booking-details-default-purpose": "Бронь",
+    "suite-page-organization-bookings-booking-details-delete-failure": "Не удалось удалить бронирование. 🙁",
+    "suite-page-organization-bookings-booking-details-delete-repeat": "Попробуй еще раз",
+    "suite-page-organization-bookings-booking-details-empty": "Это бронирование не существует или же было удалено. 😕",
+    "suite-page-organization-bookings-booking-details-end-time": "Конец",
+    "suite-page-organization-bookings-booking-details-lock-code": "Код доступа",
+    "suite-page-organization-bookings-booking-details-lock-code-desc": "Дверь комнаты оснащена умным замком. Чтобы открыть дверь, введите код, отображаемый выше, а затем #. Код для входа действителен только во время бронирования.",
+    "suite-page-organization-bookings-booking-details-memo": "Заметка",
+    "suite-page-organization-bookings-booking-details-payed-with": "Оплачено",
+    "suite-page-organization-bookings-booking-details-purpose": "Название",
+    "suite-page-organization-bookings-booking-details-section-access": "Доступ",
+    "suite-page-organization-bookings-booking-details-section-payment": "Оплата",
+    "suite-page-organization-bookings-booking-details-section-people": "Люди",
+    "suite-page-organization-bookings-booking-details-section-purpose": "Цель",
+    "suite-page-organization-bookings-booking-details-section-time": "Время",
+    "suite-page-organization-bookings-booking-details-share-link-title": "Ссылка на бронирование",
+    "suite-page-organization-bookings-booking-details-start-time": "Начало"
+  }
+}

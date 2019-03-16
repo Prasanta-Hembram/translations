@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-bookings-booking-edit-title": "Редагувати резервацію",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-for-free": "Безкоштовно",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-money-card": "Карткою ({price})",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-money-cash": "Готівкою ({price})",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",
+    "suite-page-organization-bookings-booking-edit-booked-by": "Власник",
+    "suite-page-organization-bookings-booking-edit-end-time": "Кінець",
+    "suite-page-organization-bookings-booking-edit-error-purpose-empty": "Уведіть назву резервації.",
+    "suite-page-organization-bookings-booking-edit-error-date-invalid": "Уведіть правильну дату.",
+    "suite-page-organization-bookings-booking-edit-error-time-invalid": "Уведіть правильний час.",
+    "suite-page-organization-bookings-booking-edit-label-start-date": "Початок",
+    "suite-page-organization-bookings-booking-edit-lock-code": "Код доступу",
+    "suite-page-organization-bookings-booking-edit-lock-code-desc": "Двері кімнати оснащені розумним замком. Щоб відкрити двері, введіть код, що відображається вище, а потім #. Код для входу дійсний лише під час резервації.",
+    "suite-page-organization-bookings-booking-edit-memo": "Нотатка",
+    "suite-page-organization-bookings-booking-edit-memo-placeholder": "Додати нотатку (видно власнику й адміну)",
+    "suite-page-organization-bookings-booking-edit-payed-with": "Оплачено",
+    "suite-page-organization-bookings-booking-edit-purpose": "Назва",
+    "suite-page-organization-bookings-booking-edit-purpose-placeholder": "Додати назву (видно всім учасникам)",
+    "suite-page-organization-bookings-booking-edit-section-access": "Доступ",
+    "suite-page-organization-bookings-booking-edit-section-payment": "Оплата",
+    "suite-page-organization-bookings-booking-edit-section-people": "Люди",
+    "suite-page-organization-bookings-booking-edit-section-purpose": "Мета",
+    "suite-page-organization-bookings-booking-edit-section-time": "Час",
+    "suite-page-organization-bookings-booking-edit-start-time": "Початок"
+  }
+}

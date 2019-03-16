@@ -1,0 +1,21 @@
+{
+  "data": {
+    "suite-page-organization-membership-plan-assign-team-title": "Asignar plan",
+    "suite-page-organization-membership-plan-assign-team-button-add-plan": "Crear plan",
+    "suite-page-organization-membership-plan-assign-team-button-for-free": "Asignar gratis",
+    "suite-page-organization-membership-plan-assign-team-button-for-price": "Asignar por {price}",
+    "suite-page-organization-membership-plan-assign-team-button-label": "Asignar",
+    "suite-page-organization-membership-plan-assign-team-error-empty-plans": "No hay planes todavía. 😕",
+    "suite-page-organization-membership-plan-assign-team-error-not-found": "Esta página puede no existir o puede haber sido eliminada. 😕",
+    "suite-page-organization-membership-plan-assign-team-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
+    "suite-page-organization-membership-plan-assign-team-period-from-title": "Desde",
+    "suite-page-organization-membership-plan-assign-team-period-title": "Período",
+    "suite-page-organization-membership-plan-assign-team-permission-denied": "No tienes permiso para acceder a esta página.",
+    "suite-page-organization-membership-plan-assign-team-plan-description": "Descripción del plan",
+    "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "Los miembros del equipo de 1 mes y más cortos obtendrán todos los créditos a la vez. Más de 3 meses los miembros del equipo obtendrán créditos todos los meses",
+    "suite-page-organization-membership-plan-assign-team-plan-price-money": "Precio, {currencySymbol}",
+    "suite-page-organization-membership-plan-assign-team-plan-price-points": "Precio, {pointEmoji}",
+    "suite-page-organization-membership-plan-assign-team-plan-title": "Plan",
+    "suite-page-organization-membership-plan-assign-team-seats": "Asientos"
+  }
+}

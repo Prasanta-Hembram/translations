@@ -1,0 +1,21 @@
+{
+  "data": {
+    "suite-page-organization-membership-plan-create-title": "New Plan",
+    "suite-page-organization-membership-plan-create-credits": "Credits, {pointEmoji}",
+    "suite-page-organization-membership-plan-create-error-plans-period-is-not-checked": "Add at least one period.",
+    "suite-page-organization-membership-plan-create-error-seats": "Type the number of seats included into the price.",
+    "suite-page-organization-membership-plan-create-error-quantity": "Type a quantity.",
+    "suite-page-organization-membership-plan-create-description": "Plan description",
+    "suite-page-organization-membership-plan-create-description-placeholder": "Type a description",
+    "suite-page-organization-membership-plan-create-plan-point-allocation-disabled-desc": "Subscribers get all credits at once.",
+    "suite-page-organization-membership-plan-create-plan-point-allocation-enabled-desc": "1 month and shorter subscribers get all credits at once. Over 3 months subscribers get credits every month.",
+    "suite-page-organization-membership-plan-create-plan-title": "Plan Name",
+    "suite-page-organization-membership-plan-create-plan-title-placeholder": "Type a name",
+    "suite-page-organization-membership-plan-create-price": "Price, {currencySymbol}",
+    "suite-page-organization-membership-plan-create-price-limits-desc": "Members can use cards for any sum between US$0.50 and US$5,000, or your local currency equivalent.",
+    "suite-page-organization-membership-plan-create-pricing-title": "Pricing",
+    "suite-page-organization-membership-plan-create-quantity": "Quantity",
+    "suite-page-organization-membership-plan-create-seats": "Seats",
+    "suite-page-organization-membership-plan-create-type": "Type"
+  }
+}

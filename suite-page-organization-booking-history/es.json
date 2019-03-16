@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-booking-history-title": "Todas mis reservas",
-    "suite-page-organization-booking-history-default-booking-purpose": "Reserva",
-    "suite-page-organization-booking-history-fetch-failure": "No se pudieron mostrar todas las reservas. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-organization-booking-history-list-empty": "No hay reservas. 😢"
-  }
-}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-bookings-properties-title": "Резервації",
+    "suite-page-organization-bookings-properties-availability-available": "Доступно",
+    "suite-page-organization-bookings-properties-availability-in-minutes": "Доступно {time}",
+    "suite-page-organization-bookings-properties-availability-in-use": "Використовується",
+    "suite-page-organization-bookings-properties-availability-unavailable": "Недоступно",
+    "suite-page-organization-bookings-properties-bookings-button-my-title": "Усі мої резервації",
+    "suite-page-organization-bookings-properties-calendar-button-title": "Усі кімнати",
+    "suite-page-organization-bookings-properties-default-booking-purpose": "Резервація",
+    "suite-page-organization-bookings-properties-get-failure": "Неможливо відобразити кімнати. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "suite-page-organization-bookings-properties-my-bookings": "Мої резервації",
+    "suite-page-organization-bookings-properties-rooms": "Кімнати"
+  }
+}

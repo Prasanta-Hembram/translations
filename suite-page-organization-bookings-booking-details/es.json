@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-bookings-booking-details-action-button-for-free": "Gratis",
+    "suite-page-organization-bookings-booking-details-action-button-money-card": "Tarjeta ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Efectivo ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-point-personal": "Créditos personales ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team": "Créditos del equipo ({balance})",
+    "suite-page-organization-bookings-booking-details-action-delete": "Borrar",
+    "suite-page-organization-bookings-booking-details-booked-by": "Booker",
+    "suite-page-organization-bookings-booking-details-default-purpose": "Reservación",
+    "suite-page-organization-bookings-booking-details-delete-failure": "Error al eliminar la reserva. 🙁",
+    "suite-page-organization-bookings-booking-details-delete-repeat": "Inténtalo de nuevo",
+    "suite-page-organization-bookings-booking-details-empty": "Esta reserva puede no existir o puede haber sido eliminada. 😕",
+    "suite-page-organization-bookings-booking-details-end-time": "Finalización",
+    "suite-page-organization-bookings-booking-details-lock-code": "Código PIN",
+    "suite-page-organization-bookings-booking-details-lock-code-desc": "La puerta de la sala de reuniones está equipada con una cerradura inteligente. Para abrir la puerta, ingrese el código que se muestra arriba seguido de #. El código de bloqueo es válido solo durante el tiempo de reserva.",
+    "suite-page-organization-bookings-booking-details-memo": "Nota",
+    "suite-page-organization-bookings-booking-details-payed-with": "Pagado con",
+    "suite-page-organization-bookings-booking-details-purpose": "Título",
+    "suite-page-organization-bookings-booking-details-section-access": "Acceso",
+    "suite-page-organization-bookings-booking-details-section-payment": "Pago",
+    "suite-page-organization-bookings-booking-details-section-people": "Gente",
+    "suite-page-organization-bookings-booking-details-section-purpose": "Propósito",
+    "suite-page-organization-bookings-booking-details-section-time": "Hora",
+    "suite-page-organization-bookings-booking-details-share-link-title": "Enlace a la reserva",
+    "suite-page-organization-bookings-booking-details-start-time": "Inicio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-bookings-booking-edit-title": "Редактировать бронь",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-for-free": "Бесплатно",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-money-card": "Карточкой ({price})",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-money-cash": "Наличными ({price})",
+    "suite-page-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",
+    "suite-page-organization-bookings-booking-edit-booked-by": "Владелец",
+    "suite-page-organization-bookings-booking-edit-end-time": "Конец",
+    "suite-page-organization-bookings-booking-edit-error-purpose-empty": "Введите название бронирования.",
+    "suite-page-organization-bookings-booking-edit-error-date-invalid": "Введите правильную дату.",
+    "suite-page-organization-bookings-booking-edit-error-time-invalid": "Введите правильное время.",
+    "suite-page-organization-bookings-booking-edit-label-start-date": "Дата начала",
+    "suite-page-organization-bookings-booking-edit-lock-code": "Код доступа",
+    "suite-page-organization-bookings-booking-edit-lock-code-desc": "Дверь комнаты оснащена умным замком. Чтобы открыть дверь, введите код, отображаемый выше, а затем #. Код для входа действителен только во время бронирования.",
+    "suite-page-organization-bookings-booking-edit-memo": "Заметка",
+    "suite-page-organization-bookings-booking-edit-memo-placeholder": "Введите заметку (конфиденциально)",
+    "suite-page-organization-bookings-booking-edit-payed-with": "Оплачено",
+    "suite-page-organization-bookings-booking-edit-purpose": "Название",
+    "suite-page-organization-bookings-booking-edit-purpose-placeholder": "Введите название (публично)",
+    "suite-page-organization-bookings-booking-edit-section-access": "Доступ",
+    "suite-page-organization-bookings-booking-edit-section-payment": "Оплата",
+    "suite-page-organization-bookings-booking-edit-section-people": "Люди",
+    "suite-page-organization-bookings-booking-edit-section-purpose": "Цель",
+    "suite-page-organization-bookings-booking-edit-section-time": "Время",
+    "suite-page-organization-bookings-booking-edit-start-time": "Начало"
+  }
+}

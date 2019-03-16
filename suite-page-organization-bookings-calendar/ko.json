@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-bookings-calendar-title": "모든 시설",
+    "suite-page-organization-bookings-calendar-alert-past-day": "과거에 예약 할 수 없습니다.",
+    "suite-page-organization-bookings-calendar-alert-period": "선택한 기간이 최소 예약시간 보다 낮습니다.",
+    "suite-page-organization-bookings-calendar-date": "날짜",
+    "suite-page-organization-bookings-calendar-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-bookings-calendar-my": "나의 예약"
+  }
+}

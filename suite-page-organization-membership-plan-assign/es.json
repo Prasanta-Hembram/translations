@@ -1,0 +1,21 @@
+{
+  "data": {
+    "suite-page-organization-membership-plan-assign-title": "Asignar plan",
+    "suite-page-organization-membership-plan-assign-button-add-plan": "Crear plan",
+    "suite-page-organization-membership-plan-assign-button-for-free": "Asignar gratis",
+    "suite-page-organization-membership-plan-assign-button-for-price": "Asignar por {price}",
+    "suite-page-organization-membership-plan-assign-button-label": "Asignar",
+    "suite-page-organization-membership-plan-assign-error-empty-plans": "No hay planes todavía. 😕",
+    "suite-page-organization-membership-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada. 😕",
+    "suite-page-organization-membership-plan-assign-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
+    "suite-page-organization-membership-plan-assign-period-from-title": "Desde",
+    "suite-page-organization-membership-plan-assign-period-title": "Período",
+    "suite-page-organization-membership-plan-assign-permission-denied": "No tienes permiso para acceder a esta página.",
+    "suite-page-organization-membership-plan-assign-plan-description": "Descripción del plan",
+    "suite-page-organization-membership-plan-assign-plan-point-allocation-desc": "Los suscriptores de 1 mes o menos recibirán todos los créditos a la vez. Más de 3 meses los suscriptores obtendrán créditos cada mes.",
+    "suite-page-organization-membership-plan-assign-plan-price-money": "Precio, {currencySymbol}",
+    "suite-page-organization-membership-plan-assign-plan-price-points": "Precio, {pointEmoji}",
+    "suite-page-organization-membership-plan-assign-plan-title": "Plan",
+    "suite-page-organization-membership-plan-assign-seats": "Asientos"
+  }
+}

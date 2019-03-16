@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-bookings-properties-title": "예약",
+    "suite-page-organization-bookings-properties-availability-available": "지금 예약 가능",
+    "suite-page-organization-bookings-properties-availability-in-minutes": "{time} 예약 가능",
+    "suite-page-organization-bookings-properties-availability-in-use": "이용 중",
+    "suite-page-organization-bookings-properties-availability-unavailable": "예약 불가",
+    "suite-page-organization-bookings-properties-bookings-button-my-title": "나의 모든 예약",
+    "suite-page-organization-bookings-properties-calendar-button-title": "모든 시설",
+    "suite-page-organization-bookings-properties-default-booking-purpose": "예약",
+    "suite-page-organization-bookings-properties-get-failure": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-bookings-properties-my-bookings": "나의 예약 현황",
+    "suite-page-organization-bookings-properties-rooms": "시설"
+  }
+}
