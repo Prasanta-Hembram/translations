@@ -3,6 +3,7 @@
     "suite-page-organization-directory-team-plan-details-active-title": "Текущий план",
     "suite-page-organization-directory-team-plan-details-active-title-details": "Детали тарифа",
     "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "Текущий план: {title}",
+    "suite-page-organization-directory-team-plan-details-active-button-assign": "Присвоить",
     "suite-page-organization-directory-team-plan-details-active-credits": "Кредиты",
     "suite-page-organization-directory-team-plan-details-active-deactivate": "Отменить",
     "suite-page-organization-directory-team-plan-details-active-empty": "Этого плана не существует, или же срок действия плана уже закончился. 😕",
