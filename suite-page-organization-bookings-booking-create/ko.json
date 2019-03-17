@@ -25,7 +25,6 @@
     "suite-page-organization-bookings-booking-create-memo-placeholder": "사유 메모 입력하기",
     "suite-page-organization-bookings-booking-create-no-property": "페이지를 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-organization-bookings-booking-create-pay-with-validation-error": "크레딧 부족. 다른 결제 방법을 선택하세요.",
-    "suite-page-organization-bookings-booking-create-price-limits-desc": "회원들은 US$0.50와 US$5,000 사이의 금액, 혹은 현지통화 기준 해당하는 범위 안의 금액에서만 카드를 사용할 수 있습니다.",
     "suite-page-organization-bookings-booking-create-price-money": "이용료는 시간 당 {priceMoney}입니다.",
     "suite-page-organization-bookings-booking-create-price-points": "이용료는 시간 당 {priceCredits}입니다.",
     "suite-page-organization-bookings-booking-create-price-points-and-money": "이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다.",
@@ -45,13 +44,6 @@
     "suite-page-organization-bookings-booking-create-section-time": "시간",
     "suite-page-organization-bookings-booking-create-section-time-max": "최대 예약 시간 {duration}입니다.",
     "suite-page-organization-bookings-booking-create-section-time-min": "최저 예약 시간 {duration}입니다.",
-    "suite-page-organization-bookings-booking-create-service-details-available-info": "서비스는 선택된 시작부터 이용 가능합니다.",
-    "suite-page-organization-bookings-booking-create-service-details-desc": "소프트웨어 개발 기관: 주식회사 카드스 (주소: 대한민국 서울특별시 용산구 청파로 109 3층, 04370). 서비스제공 기관: {organizationName} (주소: {organizationAddress}).",
-    "suite-page-organization-bookings-booking-create-service-details-extra-notice": "결제처리 기관: Paymentwall (주소: 유닛 701-702 7/F, 8 조르단 로드, 야우마데이 가우룽싱 구, 홍콩). 사용하시는 카드의 발급 국가, 은행사, 통화에 따라 실 결제 금액에 조금 차이가 있을 수 있습니다.",
-    "suite-page-organization-bookings-booking-create-service-details-terms-cookie-policy": "쿠키정책이",
-    "suite-page-organization-bookings-booking-create-service-details-terms-desc": "{termsOfUse}, {privacyPolicy}, {cookiePolicy} 적용.",
-    "suite-page-organization-bookings-booking-create-service-details-terms-privacy-policy": "개인정보 보호정책",
-    "suite-page-organization-bookings-booking-create-service-details-terms-terms-of-use": "이용약관",
     "suite-page-organization-bookings-booking-create-start-time": "시작"
   }
 }

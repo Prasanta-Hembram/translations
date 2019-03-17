@@ -25,7 +25,6 @@
     "suite-page-organization-bookings-booking-create-memo-placeholder": "Додати приватнy нотатку",
     "suite-page-organization-bookings-booking-create-no-property": "Неможливо відобразити сторінку. Перевірте інтернет-з'єднання.",
     "suite-page-organization-bookings-booking-create-pay-with-validation-error": "Недостатньо кредитів для резервації. Скористайтесь іншим методом оплати.",
-    "suite-page-organization-bookings-booking-create-price-limits-desc": "Учасники зможуть використовувати картки на будь-яку суму від 0,50 до 5000 доларів США або еквівалент у вашій місцевій валюті.",
     "suite-page-organization-bookings-booking-create-price-money": "Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-bookings-booking-create-price-points": "Резервація коштує {priceCredits} за годину.",
     "suite-page-organization-bookings-booking-create-price-points-and-money": "Резервація коштує {priceMoney} або {priceCredits} за годину.",
@@ -45,13 +44,6 @@
     "suite-page-organization-bookings-booking-create-section-time": "Час",
     "suite-page-organization-bookings-booking-create-section-time-max": "Максимальна тривалість резервації — {duration}.",
     "suite-page-organization-bookings-booking-create-section-time-min": "Мінімальна тривалість резервації — {duration}.",
-    "suite-page-organization-bookings-booking-create-service-details-available-info": "Послуги надаватимуться iз вказаних вище дати й часу.",
-    "suite-page-organization-bookings-booking-create-service-details-desc": "Програмне забезпечення розроблено компанією Cards Corp., 109 Чхонпа-ро, Йонгсан-гу, м. Сеул, Республіка Корея, 04370. Сервіси надаються {organizationName}, {organizationAddress}.",
-    "suite-page-organization-bookings-booking-create-service-details-extra-notice": "Платіж обробляється компанією Paymentwall, Unit 701-702 7/F, 8 Джордан роуд, Яуматі Коулун, Гонконг. Списана з вашого рахунку сума може дещо відрізнятися в залежності від країни випуску, банку і валюти вашої карти.",
-    "suite-page-organization-bookings-booking-create-service-details-terms-cookie-policy": "кукі-файлів",
-    "suite-page-organization-bookings-booking-create-service-details-terms-desc": "Діють {termsOfUse}, політики {privacyPolicy} та {cookiePolicy}.",
-    "suite-page-organization-bookings-booking-create-service-details-terms-privacy-policy": "приватності",
-    "suite-page-organization-bookings-booking-create-service-details-terms-terms-of-use": "умови надання послуг",
     "suite-page-organization-bookings-booking-create-start-time": "Початок"
   }
 }

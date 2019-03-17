@@ -25,7 +25,6 @@
     "suite-page-organization-bookings-booking-create-memo-placeholder": "Añadir memo (privado)",
     "suite-page-organization-bookings-booking-create-no-property": "No se pudo mostrar la página. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-bookings-booking-create-pay-with-validation-error": "No hay suficientes créditos para hacer esta reserva. Por favor use otro método de pago.",
-    "suite-page-organization-bookings-booking-create-price-limits-desc": "Los miembros podrán usar tarjetas de crédito por cualquier suma entre US $ 0,50 y US $ 5000, o su equivalente en la moneda local",
     "suite-page-organization-bookings-booking-create-price-money": "El precio es {priceMoney} por hora.",
     "suite-page-organization-bookings-booking-create-price-points": "El precio es {priceCredits} por hora.",
     "suite-page-organization-bookings-booking-create-price-points-and-money": "El precio es {priceMoney} o {priceCredits} por hora.",
@@ -45,13 +44,6 @@
     "suite-page-organization-bookings-booking-create-section-time": "Hora",
     "suite-page-organization-bookings-booking-create-section-time-max": "El tiempo máximo de reserva es {duration}.",
     "suite-page-organization-bookings-booking-create-section-time-min": "El tiempo mínimo de reserva es {duration}.",
-    "suite-page-organization-bookings-booking-create-service-details-available-info": "El servicio estará disponible para usar a partir de la fecha y hora anterior.",
-    "suite-page-organization-bookings-booking-create-service-details-desc": "El software es desarrollado por Cards Corp., 109 Cheongpa-ro, Yongsan-gu, Seúl, República de Corea, 04370. Los servicios son cumplidos por {organizationName}, {organizationAddress}.",
-    "suite-page-organization-bookings-booking-create-service-details-extra-notice": "El pago es procesado por Paymentwall, Unidad 701-702 7/F, 8 Jordan road, Yaumati Kowloon, Hong Kong. El monto real cobrado puede ser ligeramente diferente según el país emisor, el banco y la moneda de su tarjeta.",
-    "suite-page-organization-bookings-booking-create-service-details-terms-cookie-policy": "Política de Cookies",
-    "suite-page-organization-bookings-booking-create-service-details-terms-desc": "{termsOfUse}, {privacyPolicy} y {cookiePolicy} se aplican.",
-    "suite-page-organization-bookings-booking-create-service-details-terms-privacy-policy": "Políticas de Privacidad",
-    "suite-page-organization-bookings-booking-create-service-details-terms-terms-of-use": "Normas y Términos de Uso",
     "suite-page-organization-bookings-booking-create-start-time": "Inicio"
   }
 }
