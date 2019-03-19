@@ -3,6 +3,8 @@
     "suite-page-organization-membership-plan-edit-title": "Edit plan",
     "suite-page-organization-membership-plan-edit-description": "Changes to credit amount will be applied from the next billing period.",
     "suite-page-organization-membership-plan-edit-credits": "Credits, {pointEmoji}",
+    "suite-page-organization-membership-plan-edit-error-plans-period-is-not-checked": "Add at least one period.",
+    "suite-page-organization-membership-plan-edit-error-quantity": "Type a quantity.",
     "suite-page-organization-membership-plan-edit-note": "Plan description",
     "suite-page-organization-membership-plan-edit-note-placeholder": "Type plan description",
     "suite-page-organization-membership-plan-edit-plan-point-allocation-disabled-desc": "Subscribers will get all credits at once.",

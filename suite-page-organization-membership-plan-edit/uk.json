@@ -3,6 +3,8 @@
     "suite-page-organization-membership-plan-edit-title": "Редагувати план",
     "suite-page-organization-membership-plan-edit-description": "Новий тариф буде застосовано з наступного платіжного періоду.",
     "suite-page-organization-membership-plan-edit-credits": "Кредити, {pointEmoji}",
+    "suite-page-organization-membership-plan-edit-error-plans-period-is-not-checked": "Укажіть принаймні один період плану.",
+    "suite-page-organization-membership-plan-edit-error-quantity": "Уведіть кількість планів.",
     "suite-page-organization-membership-plan-edit-note": "Опис планy",
     "suite-page-organization-membership-plan-edit-note-placeholder": "Додати опис плану",
     "suite-page-organization-membership-plan-edit-plan-point-allocation-disabled-desc": "Підписники отримають всі кредити одразу.",

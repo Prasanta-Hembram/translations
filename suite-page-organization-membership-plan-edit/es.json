@@ -3,6 +3,8 @@
     "suite-page-organization-membership-plan-edit-title": "Editar un Plan",
     "suite-page-organization-membership-plan-edit-description": "Los cambios en el monto del crédito se aplicarán a partir del próximo período de facturación.",
     "suite-page-organization-membership-plan-edit-credits": "Créditos, {pointEmoji}",
+    "suite-page-organization-membership-plan-edit-error-plans-period-is-not-checked": "Por favor indique al menos un período de plan.",
+    "suite-page-organization-membership-plan-edit-error-quantity": "Por favor indique cuántos de esos planes ofrece.",
     "suite-page-organization-membership-plan-edit-note": "Descripción del plan",
     "suite-page-organization-membership-plan-edit-note-placeholder": "Agregar descripción del plan",
     "suite-page-organization-membership-plan-edit-plan-point-allocation-disabled-desc": "Los suscriptores recibirán todos los créditos a la vez.",

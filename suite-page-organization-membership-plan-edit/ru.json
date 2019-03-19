@@ -3,6 +3,8 @@
     "suite-page-organization-membership-plan-edit-title": "Редактировать план",
     "suite-page-organization-membership-plan-edit-description": "Новый тариф будет применен со следующего платежного периода.",
     "suite-page-organization-membership-plan-edit-credits": "Кредиты, {pointEmoji}",
+    "suite-page-organization-membership-plan-edit-error-plans-period-is-not-checked": "Укажите по крайней мере один период плана",
+    "suite-page-organization-membership-plan-edit-error-quantity": "Пожалуйста, введите количество планов.",
     "suite-page-organization-membership-plan-edit-note": "Описание плана",
     "suite-page-organization-membership-plan-edit-note-placeholder": "Добавить описание плана",
     "suite-page-organization-membership-plan-edit-plan-point-allocation-disabled-desc": "Подписчики получат все кредиты сразу.",
