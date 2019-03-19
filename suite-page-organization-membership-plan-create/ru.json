@@ -3,7 +3,6 @@
     "suite-page-organization-membership-plan-create-title": "Новый план",
     "suite-page-organization-membership-plan-create-credits": "Кредиты, {pointEmoji}",
     "suite-page-organization-membership-plan-create-error-plans-period-is-not-checked": "Укажите по крайней мере один период плана",
-    "suite-page-organization-membership-plan-create-error-seats": "Пожалуйста, введите количество мест, включенных в цену плана.",
     "suite-page-organization-membership-plan-create-error-quantity": "Пожалуйста, введите количество планов.",
     "suite-page-organization-membership-plan-create-description": "Описание плана",
     "suite-page-organization-membership-plan-create-description-placeholder": "Добавить описание плана",
@@ -14,7 +13,6 @@
     "suite-page-organization-membership-plan-create-price": "Цена, {currencySymbol}",
     "suite-page-organization-membership-plan-create-pricing-title": "Тарифы",
     "suite-page-organization-membership-plan-create-quantity": "Кол-во",
-    "suite-page-organization-membership-plan-create-seats": "Раб. мест",
     "suite-page-organization-membership-plan-create-type": "Тип"
   }
 }

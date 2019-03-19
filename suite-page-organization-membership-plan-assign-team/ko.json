@@ -15,7 +15,6 @@
     "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "1개월 이하의 팀원에게는 모든 크레딧이 한 번에 지급됩니다. 3개월 이상의 팀원에게는 매달 크레딧이 지급됩니다.",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "가격, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "크레딧, {pointEmoji}",
-    "suite-page-organization-membership-plan-assign-team-plan-title": "플랜",
-    "suite-page-organization-membership-plan-assign-team-seats": "좌석 수"
+    "suite-page-organization-membership-plan-assign-team-plan-title": "플랜"
   }
 }

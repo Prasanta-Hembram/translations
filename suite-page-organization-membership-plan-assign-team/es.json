@@ -15,7 +15,6 @@
     "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "Los miembros del equipo de 1 mes y más cortos obtendrán todos los créditos a la vez. Más de 3 meses los miembros del equipo obtendrán créditos todos los meses",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "Precio, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "Precio, {pointEmoji}",
-    "suite-page-organization-membership-plan-assign-team-plan-title": "Plan",
-    "suite-page-organization-membership-plan-assign-team-seats": "Asientos"
+    "suite-page-organization-membership-plan-assign-team-plan-title": "Plan"
   }
 }

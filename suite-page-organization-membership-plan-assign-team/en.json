@@ -14,7 +14,6 @@
     "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "1 month and shorter team members will get all credits at once. Over 3 months team members will get credits every month.",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "Price, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "Credits, {pointEmoji}",
-    "suite-page-organization-membership-plan-assign-team-plan-title": "Plan",
-    "suite-page-organization-membership-plan-assign-team-seats": "Seats"
+    "suite-page-organization-membership-plan-assign-team-plan-title": "Plan"
   }
 }

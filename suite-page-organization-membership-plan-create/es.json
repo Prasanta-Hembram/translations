@@ -3,7 +3,6 @@
     "suite-page-organization-membership-plan-create-title": "Nuevo plan",
     "suite-page-organization-membership-plan-create-credits": "Créditos, {pointEmoji}",
     "suite-page-organization-membership-plan-create-error-plans-period-is-not-checked": "Por favor indique al menos un período de plan.",
-    "suite-page-organization-membership-plan-create-error-seats": "Por favor ingrese el número de asientos incluidos en el precio del plan.",
     "suite-page-organization-membership-plan-create-error-quantity": "Por favor indique cuántos de esos planes ofrece.",
     "suite-page-organization-membership-plan-create-description": "Descripción del plan",
     "suite-page-organization-membership-plan-create-description-placeholder": "Agregar descripción del plan",
@@ -14,7 +13,6 @@
     "suite-page-organization-membership-plan-create-price": "Precio, {currencySymbol}",
     "suite-page-organization-membership-plan-create-pricing-title": "Precios",
     "suite-page-organization-membership-plan-create-quantity": "Cantidad",
-    "suite-page-organization-membership-plan-create-seats": "Asientos",
     "suite-page-organization-membership-plan-create-type": "Insertar"
   }
 }

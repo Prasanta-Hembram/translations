@@ -15,7 +15,6 @@
     "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "Ціна, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "Кредити, {pointEmoji}",
-    "suite-page-organization-membership-plan-assign-team-plan-title": "План",
-    "suite-page-organization-membership-plan-assign-team-seats": "Роб. місць"
+    "suite-page-organization-membership-plan-assign-team-plan-title": "План"
   }
 }
