@@ -11,11 +11,11 @@
     "suite-page-organization-membership-plan-assign-period-from-title": "Начало",
     "suite-page-organization-membership-plan-assign-period-title": "Период",
     "suite-page-organization-membership-plan-assign-permission-denied": "Нет прав доступа для просмотра этой страницы.",
-    "suite-page-organization-membership-plan-assign-plan-description": "Описание плана",
+    "suite-page-organization-membership-plan-assign-plan-description": "Описание",
     "suite-page-organization-membership-plan-assign-plan-point-allocation-desc": "Подписчики на период до 1 месяца получат все кредиты сразу. Подписчики на период от 3 месяцев будут получать кредиты ежемесячно.",
     "suite-page-organization-membership-plan-assign-plan-price-money": "Цена, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-plan-price-points": "Кредиты, {pointEmoji}",
     "suite-page-organization-membership-plan-assign-plan-title": "План",
-    "suite-page-organization-membership-plan-assign-seats": "Раб. мест"
+    "suite-page-organization-membership-plan-assign-repeat-indefinitely-label": "Возобновлять каждый раз"
   }
 }

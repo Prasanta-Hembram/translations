@@ -11,11 +11,11 @@
     "suite-page-organization-membership-plan-assign-period-from-title": "Starting",
     "suite-page-organization-membership-plan-assign-period-title": "Period",
     "suite-page-organization-membership-plan-assign-permission-denied": "You don't have permission to access this page.",
-    "suite-page-organization-membership-plan-assign-plan-description": "Plan description",
+    "suite-page-organization-membership-plan-assign-plan-description": "Description",
     "suite-page-organization-membership-plan-assign-plan-point-allocation-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
     "suite-page-organization-membership-plan-assign-plan-price-money": "Price, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-plan-price-points": "Credits, {pointEmoji}",
     "suite-page-organization-membership-plan-assign-plan-title": "Plan",
-    "suite-page-organization-membership-plan-assign-seats": "Seats"
+    "suite-page-organization-membership-plan-assign-repeat-indefinitely-label": "Repeat Indefinitely"
   }
 }

@@ -11,11 +11,11 @@
     "suite-page-organization-membership-plan-assign-period-from-title": "Початок",
     "suite-page-organization-membership-plan-assign-period-title": "Період",
     "suite-page-organization-membership-plan-assign-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
-    "suite-page-organization-membership-plan-assign-plan-description": "Опис плану",
+    "suite-page-organization-membership-plan-assign-plan-description": "Опис",
     "suite-page-organization-membership-plan-assign-plan-point-allocation-desc": "Підписники на період до 1 місяця отримають всі кредити одразу. Підписники на період від 3 місяців отримуватимуть кредити щомісяця.",
     "suite-page-organization-membership-plan-assign-plan-price-money": "Ціна, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-plan-price-points": "Кредити, {pointEmoji}",
     "suite-page-organization-membership-plan-assign-plan-title": "План",
-    "suite-page-organization-membership-plan-assign-seats": "Роб. місць"
+    "suite-page-organization-membership-plan-assign-repeat-indefinitely-label": "Поновлювати щоразу"
   }
 }
