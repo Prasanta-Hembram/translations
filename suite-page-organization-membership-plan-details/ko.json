@@ -22,8 +22,6 @@
     "suite-page-organization-membership-plan-details-period-payed-with-card": "카드",
     "suite-page-organization-membership-plan-details-period-payed-with-title": "결제 수단",
     "suite-page-organization-membership-plan-details-period-title": "기간",
-    "suite-page-organization-membership-plan-details-plan-point-allocation-disabled-desc": "구매자는 모든 크레딧을 한 번에 받게됩니다.",
-    "suite-page-organization-membership-plan-details-plan-point-allocation-enabled-desc": "1개월 이하 구매자는 모든 크레딧을 한 번에 받게됩니다. 3개월 이상 구매자는 매월 크레딧을 받습니다.",
     "suite-page-organization-membership-plan-details-plans-all-title": "모든 멤버십 플랜",
     "suite-page-organization-membership-plan-details-price": "멤버십 플랜 {period} 당 가격은 {price}입니다.",
     "suite-page-organization-membership-plan-details-pricing": "가격 정책",
