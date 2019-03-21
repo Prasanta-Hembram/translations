@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-page-organization-directory-team-plan-details-active-title": "나의 멤버십 플랜",
-    "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "나의 멤버십 플랜: {title}",
+    "suite-page-organization-directory-team-plan-details-active-title": "나의 멤버십",
+    "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "나의 멤버십: {title}",
     "suite-page-organization-directory-team-plan-details-active-benefits": "베네핏",
     "suite-page-organization-directory-team-plan-details-active-button-assign": "부여하기",
     "suite-page-organization-directory-team-plan-details-active-credits": "크레딧",
     "suite-page-organization-directory-team-plan-details-active-deactivate": "해지하기",
-    "suite-page-organization-directory-team-plan-details-active-empty": "이 플랜은 존재하지 않거나 만기되었습니다. 😕",
-    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "팀이 존재하지 않거나 삭제되었을 수 있습니다.😕",
+    "suite-page-organization-directory-team-plan-details-active-empty": "이 플랜은 존재하지 않거나 만기되었습니다.",
+    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "팀이 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-directory-team-plan-details-active-payment": "결제",
     "suite-page-organization-directory-team-plan-details-active-period-from-title": "시작",
     "suite-page-organization-directory-team-plan-details-active-period-pay-with-cash-title": "현금",
@@ -16,7 +16,7 @@
     "suite-page-organization-directory-team-plan-details-active-period-until-title": "종료시간",
     "suite-page-organization-directory-team-plan-details-active-permission-denied": "볼 수있는 권한이 없습니다.",
     "suite-page-organization-directory-team-plan-details-active-plan-description": "설명",
-    "suite-page-organization-directory-team-plan-details-active-repeat-label": "플랜 정기구독",
+    "suite-page-organization-directory-team-plan-details-active-repeat-label": "정기구독",
     "suite-page-organization-directory-team-plan-details-active-price": "가격",
     "suite-page-organization-directory-team-plan-details-active-type": "유형"
   }
