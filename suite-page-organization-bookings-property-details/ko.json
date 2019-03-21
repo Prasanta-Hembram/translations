@@ -4,7 +4,7 @@
     "suite-page-organization-property-details-delete-failure": "삭제 불가.",
     "suite-page-organization-property-details-delete-repeat": "다시시도",
     "suite-page-organization-property-details-description-title": "설명",
-    "suite-page-organization-property-details-no-property": "이 시설은 존재하지 않거나 삭제되었을 수 있습니다. 😕",
+    "suite-page-organization-property-details-no-property": "이 시설은 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-property-details-overview-max-booking-time": "- 최대 예약 시간 {duration}입니다.",
     "suite-page-organization-property-details-overview-min-booking-time": "- 최저 예약 시간 {duration}입니다.",
     "suite-page-organization-property-details-overview-seats": "- 이 시설은 최대 {numberOfSeats}명 수용가능합니다.",

@@ -4,7 +4,7 @@
     "suite-page-organization-transaction-date-label": "Date",
     "suite-page-organization-transaction-date-from-label": "From",
     "suite-page-organization-transaction-date-until-label": "Until",
-    "suite-page-organization-transaction-not-found": "This transaction may not exist or may have been removed. 😕",
+    "suite-page-organization-transaction-not-found": "This transaction may not exist or may have been removed.",
     "suite-page-organization-transaction-paid-with-label": "Paid With",
     "suite-page-organization-transaction-paid-with-card": "Card",
     "suite-page-organization-transaction-paid-with-cash": "Cash",

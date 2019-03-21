@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-feed-post-main-action-sheet-delete": "삭제",
     "suite-page-organization-feed-post-main-date": "{createDate}, 변경일: {updateDate}",
-    "suite-page-organization-feed-post-main-empty": "이 게시물은 존재하지 않거나 제거되었을 수 있습니다. 😕",
+    "suite-page-organization-feed-post-main-empty": "이 게시물은 존재하지 않거나 제거되었을 수 있습니다.",
     "suite-page-organization-feed-post-main-title": "게시물",
     "suite-page-organization-feed-post-main-user-admin": "관리자/중간관리자"
   }

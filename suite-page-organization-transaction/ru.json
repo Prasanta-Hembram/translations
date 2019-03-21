@@ -4,7 +4,7 @@
     "suite-page-organization-transaction-date-label": "Дата",
     "suite-page-organization-transaction-date-from-label": "Начало",
     "suite-page-organization-transaction-date-until-label": "Конец",
-    "suite-page-organization-transaction-not-found": "Эта транзакция не существует или была удалена. 😕",
+    "suite-page-organization-transaction-not-found": "Эта транзакция не существует или была удалена.",
     "suite-page-organization-transaction-paid-with-label": "Оплачено",
     "suite-page-organization-transaction-paid-with-card": "Карточкой",
     "suite-page-organization-transaction-paid-with-cash": "Наличными",

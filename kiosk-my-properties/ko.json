@@ -3,6 +3,6 @@
     "kiosk-page-my-properties-title": "나의 시설",
     "kiosk-page-my-properties-button-logout": "로그아웃",
     "kiosk-page-my-properties-error-no-internet": "시설을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "kiosk-page-my-properties-error-no-properties": "시설이 없습니다. 😕"
+    "kiosk-page-my-properties-error-no-properties": "시설이 없습니다."
   }
 }

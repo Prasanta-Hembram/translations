@@ -4,7 +4,7 @@
     "suite-page-organization-transaction-date-label": "Fecha",
     "suite-page-organization-transaction-date-from-label": "Desde",
     "suite-page-organization-transaction-date-until-label": "Hasta",
-    "suite-page-organization-transaction-not-found": "Esta transacción puede no existir o puede haber sido eliminada. 😕",
+    "suite-page-organization-transaction-not-found": "Esta transacción puede no existir o puede haber sido eliminada.",
     "suite-page-organization-transaction-paid-with-label": "Pagado con",
     "suite-page-organization-transaction-paid-with-card": "Tarjeta",
     "suite-page-organization-transaction-paid-with-cash": "Efectivo",

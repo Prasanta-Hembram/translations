@@ -21,7 +21,7 @@
     "suite-page-organization-directory-user-main-error-organization": "Por favor ingrese una organización.",
     "suite-page-organization-directory-user-main-error-phone-number": "Por favor, ingrese un número de teléfono.",
     "suite-page-organization-directory-user-main-error-title": "Por favor, introduzca un título.",
-    "suite-page-organization-directory-user-main-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado. 😕",
+    "suite-page-organization-directory-user-main-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-user-main-leave-repeat": "Inténtalo de nuevo",
     "suite-page-organization-directory-user-main-leave-user-failure": "Error al eliminar el usuario del área de trabajo",
     "suite-page-organization-directory-user-main-link-none-label": "Ninguna",
