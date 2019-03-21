@@ -14,12 +14,13 @@
     "marketing-page-home-main-sign-in": "Iniciar sesión",
     "marketing-page-home-one-app-time-title": "Usa solo una aplicación para el espacio de coworking",
     "marketing-page-home-one-app-description": "andcards Suite cubre todas las necesidades básicas de su espacio de coworking. Reservas de salas de reuniones, gestión de planes de membresía, dispositivos IoT, noticias de la comunidad con notificaciones push, pagos con tarjeta: todas las funciones se agrupan en categorías simples.",
-    "marketing-page-home-request-demo-button": "Obtener andcards Suite",
+    "marketing-page-home-schedule-demo-button": "Schedule Demo",
     "marketing-page-home-request-demo-description": "Regístrate gratis y comienza a usar andcards en solo unos minutos.",
     "marketing-page-home-request-demo-note": "La mayoría de las características son gratuitas. También ofrecemos {pricingUrl}.",
     "marketing-page-home-request-demo-note-paid-features": "funciones de pago",
     "marketing-page-home-request-demo-title": "Potencia tu espacio con andcards",
     "marketing-page-home-save-time-title": "Ahorre tiempo administrando el espacio de trabajo",
-    "marketing-page-home-save-time-description": "Configurar todo, invitar a miembros y usar andcards Suite es super simple y fácil. Ahorre mucho tiempo con la reserva de la sala de reuniones con 1 clic, la asignación automática de créditos adicionales y los pagos con tarjeta desde la aplicación."
+    "marketing-page-home-save-time-description": "Configurar todo, invitar a miembros y usar andcards Suite es super simple y fácil. Ahorre mucho tiempo con la reserva de la sala de reuniones con 1 clic, la asignación automática de créditos adicionales y los pagos con tarjeta desde la aplicación.",
+    "marketing-page-home-try-free-button": "Try Free"
   }
 }

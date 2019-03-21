@@ -14,12 +14,13 @@
     "marketing-page-home-main-sign-in": "Войти",
     "marketing-page-home-one-app-time-title": "andcards — единственное приложение, которое потребуется вашему коворкингу",
     "marketing-page-home-one-app-description": "andcards Suite имеет в себе все, что нужно вашему коворкингу. Бронирование переговорных комнат, система управления тарифами, интеграция с устройствами IoT, лента новостей сообщества с push-оповещениями, оплаты картами из приложения — все эти функции просто и визуально организованы в несколько простых категорий.",
-    "marketing-page-home-request-demo-button": "Получить andcards Suite",
+    "marketing-page-home-schedule-demo-button": "Schedule Demo",
     "marketing-page-home-request-demo-description": "Зарегистрируйтесь бесплатно и начните пользоваться andcards прямо сейчас.",
     "marketing-page-home-request-demo-note": "Большинство функций бесплатны. Мы также предлагаем {pricingUrl}.",
     "marketing-page-home-request-demo-note-paid-features": "платные функции",
     "marketing-page-home-request-demo-title": "Повышайте свою конкурентоспособность с andcards",
     "marketing-page-home-save-time-title": "Экономьте время, управляя коворкингом",
-    "marketing-page-home-save-time-description": "Настройка приложения, приглашение участников и использование andcards Suite — очень просто и легко! Вы можете сэкономить множество времени, бронируя комнаты для переговоров в один клик, автоматически распределяя бонусные кредиты и оплачивая тарифы картами в приложении."
+    "marketing-page-home-save-time-description": "Настройка приложения, приглашение участников и использование andcards Suite — очень просто и легко! Вы можете сэкономить множество времени, бронируя комнаты для переговоров в один клик, автоматически распределяя бонусные кредиты и оплачивая тарифы картами в приложении.",
+    "marketing-page-home-try-free-button": "Try Free"
   }
 }
