@@ -17,8 +17,6 @@
     "suite-page-organization-membership-plan-details-active-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
     "suite-page-organization-membership-plan-details-active-price": "Ціна",
     "suite-page-organization-membership-plan-details-active-pricing": "Ціни",
-    "suite-page-organization-membership-plan-details-active-subscribe-alert": "Підписку активовано",
-    "suite-page-organization-membership-plan-details-active-type": "Тип",
-    "suite-page-organization-membership-plan-details-active-unsubscribe-alert": "Підписку деактивовано"
+    "suite-page-organization-membership-plan-details-active-type": "Тип"
   }
 }

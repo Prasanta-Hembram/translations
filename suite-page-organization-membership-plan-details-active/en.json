@@ -17,8 +17,6 @@
     "suite-page-organization-membership-plan-details-active-permission-denied": "You don't have permission to access this page.",
     "suite-page-organization-membership-plan-details-active-price": "Price",
     "suite-page-organization-membership-plan-details-active-pricing": "Pricing",
-    "suite-page-organization-membership-plan-details-active-subscribe-alert": "Subscription was activated",
-    "suite-page-organization-membership-plan-details-active-type": "Type",
-    "suite-page-organization-membership-plan-details-active-unsubscribe-alert": "Subscription was cancelled"
+    "suite-page-organization-membership-plan-details-active-type": "Type"
   }
 }
