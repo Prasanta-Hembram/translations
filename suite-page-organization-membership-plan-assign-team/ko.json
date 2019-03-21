@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-plan-assign-team-title": "플랜 부여하기",
+    "suite-page-organization-membership-plan-assign-team-benefits": "베네핏",
     "suite-page-organization-membership-plan-assign-team-button-add-plan": "플랜 만들기",
     "suite-page-organization-membership-plan-assign-team-button-for-free": "무료로 부여하기",
     "suite-page-organization-membership-plan-assign-team-button-for-price": "{price}로 부여하기",
@@ -8,13 +9,14 @@
     "suite-page-organization-membership-plan-assign-team-error-empty-plans": "플랜이 없습니다. 😕",
     "suite-page-organization-membership-plan-assign-team-error-not-found": "이 페이지는 존재하지 않거나 제거되었을 수 있습니다. 😕",
     "suite-page-organization-membership-plan-assign-team-error-selected-admin": "관리자 또는 중간관리자에게 플랜을 부여할 수 없습니다.",
-    "suite-page-organization-membership-plan-assign-team-period-from-title": "시작",
+    "suite-page-organization-membership-plan-assign-team-payment": "결제",
+    "suite-page-organization-membership-plan-assign-team-period-from-title": "시작일",
     "suite-page-organization-membership-plan-assign-team-period-title": "기간",
     "suite-page-organization-membership-plan-assign-team-permission-denied": "볼 수있는 권한이 없습니다.",
-    "suite-page-organization-membership-plan-assign-team-plan-description": "플랜 설명",
-    "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "1개월 이하의 팀원에게는 모든 크레딧이 한 번에 지급됩니다. 3개월 이상의 팀원에게는 매달 크레딧이 지급됩니다.",
+    "suite-page-organization-membership-plan-assign-team-plan-description": "설명",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "가격, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "크레딧, {pointEmoji}",
+    "suite-page-organization-membership-plan-assign-team-plan-repeat": "플랜 정기구독",
     "suite-page-organization-membership-plan-assign-team-plan-title": "플랜"
   }
 }

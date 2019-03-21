@@ -1,19 +1,21 @@
 {
   "data": {
     "suite-page-organization-membership-plan-assign-team-title": "Assign plan",
+    "suite-page-organization-membership-plan-assign-team-benefits": "Benefits",
     "suite-page-organization-membership-plan-assign-team-button-add-plan": "Create plan",
     "suite-page-organization-membership-plan-assign-team-button-for-free": "Assign for free",
     "suite-page-organization-membership-plan-assign-team-button-for-price": "Assign for {price}",
     "suite-page-organization-membership-plan-assign-team-button-label": "Assign",
     "suite-page-organization-membership-plan-assign-team-error-empty-plans": "There are no plans yet. 😕",
     "suite-page-organization-membership-plan-assign-team-error-not-found": "This page may not exist or may have been removed. 😕",
-    "suite-page-organization-membership-plan-assign-team-period-from-title": "Starting",
+    "suite-page-organization-membership-plan-assign-team-payment": "Payment",
+    "suite-page-organization-membership-plan-assign-team-period-from-title": "Start",
     "suite-page-organization-membership-plan-assign-team-period-title": "Period",
     "suite-page-organization-membership-plan-assign-team-permission-denied": "You don't have permission to access this page.",
-    "suite-page-organization-membership-plan-assign-team-plan-description": "Plan description",
-    "suite-page-organization-membership-plan-assign-team-plan-point-allocation-desc": "1 month and shorter team members will get all credits at once. Over 3 months team members will get credits every month.",
+    "suite-page-organization-membership-plan-assign-team-plan-description": "Description",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "Price, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "Credits, {pointEmoji}",
+    "suite-page-organization-membership-plan-assign-team-plan-repeat": "Repeat",
     "suite-page-organization-membership-plan-assign-team-plan-title": "Plan"
   }
 }
