@@ -16,7 +16,7 @@
     "suite-page-organization-membership-plan-assign-team-plan-description": "설명",
     "suite-page-organization-membership-plan-assign-team-plan-price-money": "가격, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-team-plan-price-points": "크레딧, {pointEmoji}",
-    "suite-page-organization-membership-plan-assign-team-plan-repeat": "플랜 정기구독",
+    "suite-page-organization-membership-plan-assign-team-plan-repeat": "정기구독",
     "suite-page-organization-membership-plan-assign-team-plan-title": "플랜"
   }
 }

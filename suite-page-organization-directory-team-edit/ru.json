@@ -11,7 +11,7 @@
     "suite-page-organization-directory-team-edit-icon": "Эмодзи",
     "suite-page-organization-directory-team-edit-name": "Название",
     "suite-page-organization-directory-team-edit-name-placeholder": "Введите название",
-    "suite-page-organization-directory-team-edit-not-found-error": "Эта команда не существует или же была удалена. 😕",
+    "suite-page-organization-directory-team-edit-not-found-error": "Эта команда не существует или была удалена.",
     "suite-page-organization-directory-team-edit-section-membership-actions": "Участие",
     "suite-page-organization-directory-team-edit-section-membership-expiring-balance-description": "Истекают {date}.",
     "suite-page-organization-directory-team-edit-section-membership-expiring-balance-title": "Временные кредиты",

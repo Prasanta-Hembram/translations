@@ -6,8 +6,8 @@
     "suite-page-organization-membership-plan-assign-button-for-free": "Призначити безкоштовно",
     "suite-page-organization-membership-plan-assign-button-for-price": "Призначити за {price}",
     "suite-page-organization-membership-plan-assign-button-label": "Призначити",
-    "suite-page-organization-membership-plan-assign-error-empty-plans": "Тарифні плани відсутні. 😕",
-    "suite-page-organization-membership-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено. 😕",
+    "suite-page-organization-membership-plan-assign-error-empty-plans": "Тарифні плани відсутні.",
+    "suite-page-organization-membership-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено.",
     "suite-page-organization-membership-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
     "suite-page-organization-membership-plan-assign-payment": "Оплата",
     "suite-page-organization-membership-plan-assign-period-from-title": "Початок",
@@ -17,6 +17,6 @@
     "suite-page-organization-membership-plan-assign-plan-price-money": "Ціна, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-plan-price-points": "Кредити, {pointEmoji}",
     "suite-page-organization-membership-plan-assign-plan-title": "План",
-    "suite-page-organization-membership-plan-assign-repeat-label": "Поновлювати"
+    "suite-page-organization-membership-plan-assign-repeat-label": "Поновлення"
   }
 }

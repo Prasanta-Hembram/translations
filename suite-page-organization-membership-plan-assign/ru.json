@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-plan-assign-title": "Присвоить план",
-    "suite-page-organization-membership-plan-assign-benefits-title": "Выгоды",
+    "suite-page-organization-membership-plan-assign-benefits-title": "Преимущества",
     "suite-page-organization-membership-plan-assign-button-add-plan": "Создать план",
     "suite-page-organization-membership-plan-assign-button-for-free": "Присвоить бесплатно",
     "suite-page-organization-membership-plan-assign-button-for-price": "Присвоить за {price}",
@@ -17,6 +17,6 @@
     "suite-page-organization-membership-plan-assign-plan-price-money": "Цена, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-plan-price-points": "Кредиты, {pointEmoji}",
     "suite-page-organization-membership-plan-assign-plan-title": "План",
-    "suite-page-organization-membership-plan-assign-repeat-label": "Возобновлять"
+    "suite-page-organization-membership-plan-assign-repeat-label": "Продление"
   }
 }
