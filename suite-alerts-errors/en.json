@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-alerts-errors-announcement-missing": "The post is missing or has been deleted.",
-    "suite-alerts-errors-available-balance-error": "Contact your card issuer to check available balance.",
     "suite-alerts-errors-booking-conflict": "Another booking already exists at the same time.",
     "suite-alerts-errors-booking-day-unavailable": "This day is not available.",
     "suite-alerts-errors-booking-invalid": "Failed to book. Check all fields and try again.",
@@ -9,10 +8,6 @@
     "suite-alerts-errors-booking-point-balance-invalid": "No available credits.",
     "suite-alerts-errors-booking-property-min-time-invalid": "Selected time period is less than the minimum allowed.",
     "suite-alerts-errors-booking-unallowed-time-period": "The booking period is invalid.",
-    "suite-alerts-errors-card-cvv-is-invalid": "CVV is empty or invalid.",
-    "suite-alerts-errors-card-expiration-is-invalid": "Expiration date is empty or invalid.",
-    "suite-alerts-errors-card-is-missing": "Card didn't work.",
-    "suite-alerts-errors-card-number-is-invalid": "Card number is empty or invalid.",
     "suite-alerts-errors-file-not-found": "The file was not uploaded.",
     "suite-alerts-errors-file-not-valid": "Error report sent to {email}.",
     "suite-alerts-errors-last-integration-delete": "Last login method can't be deleted.",
@@ -23,7 +18,6 @@
     "suite-alerts-errors-organization-code-invalid": "The name is already taken. Try another one.",
     "suite-alerts-errors-organization-create-params-invalid": "Failed to create workspace. Check all fields and try again.",
     "suite-alerts-errors-organization-update-params-invalid": "Failed to update workspace. Check all fields and try again.",
-    "suite-alerts-errors-payment-failure": "Payment failure.",
     "suite-alerts-errors-payment-price-high": "The amount is too high. The maximum charge is US$5,000 equivalent.",
     "suite-alerts-errors-payment-price-low": "The amount is too small. The minimum charge is US$0.5 equivalent.",
     "suite-alerts-errors-plan-assign-in-future": "Can't assign a plan starting a date in the future.",
@@ -31,7 +25,6 @@
     "suite-alerts-errors-plan-periods-empty": "Plan must have at least 1 period.",
     "suite-alerts-errors-plan-sold-out": "Plan is sold out.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
-    "suite-alerts-errors-transaction-declined": "Transaction declined.",
     "suite-alerts-errors-trial-already-started": "The workspace already has the full booking system enabled.",
     "suite-alerts-errors-user-have-no-permission": "No permission to complete the action."
   }
