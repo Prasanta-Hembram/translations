@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-plan-assign-title": "Assign plan",
+    "suite-page-organization-membership-plan-assign-benefits-title": "Benefits",
     "suite-page-organization-membership-plan-assign-button-add-plan": "Create plan",
     "suite-page-organization-membership-plan-assign-button-for-free": "Assign for free",
     "suite-page-organization-membership-plan-assign-button-for-price": "Assign for {price}",
@@ -8,14 +9,14 @@
     "suite-page-organization-membership-plan-assign-error-empty-plans": "There are no plans yet. 😕",
     "suite-page-organization-membership-plan-assign-error-not-found": "This page may not exist or may have been removed. 😕",
     "suite-page-organization-membership-plan-assign-error-selected-admin": "Can't assign a plan to admin or moderator.",
-    "suite-page-organization-membership-plan-assign-period-from-title": "Starting",
+    "suite-page-organization-membership-plan-assign-payment": "Payment",
+    "suite-page-organization-membership-plan-assign-period-from-title": "Start",
     "suite-page-organization-membership-plan-assign-period-title": "Period",
     "suite-page-organization-membership-plan-assign-permission-denied": "You don't have permission to access this page.",
     "suite-page-organization-membership-plan-assign-plan-description": "Description",
-    "suite-page-organization-membership-plan-assign-plan-point-allocation-desc": "1 month and shorter subscribers will get all credits at once. Over 3 months subscribers will get credits every month.",
     "suite-page-organization-membership-plan-assign-plan-price-money": "Price, {currencySymbol}",
     "suite-page-organization-membership-plan-assign-plan-price-points": "Credits, {pointEmoji}",
     "suite-page-organization-membership-plan-assign-plan-title": "Plan",
-    "suite-page-organization-membership-plan-assign-repeat-indefinitely-label": "Repeat Indefinitely"
+    "suite-page-organization-membership-plan-assign-repeat-label": "Repeat"
   }
 }
