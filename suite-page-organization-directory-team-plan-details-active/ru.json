@@ -1,21 +1,23 @@
 {
   "data": {
     "suite-page-organization-directory-team-plan-details-active-title": "Текущий план",
-    "suite-page-organization-directory-team-plan-details-active-title-details": "Детали тарифа",
     "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "Текущий план: {title}",
+    "suite-page-organization-directory-team-plan-details-active-benefits": "Преимущества",
     "suite-page-organization-directory-team-plan-details-active-button-assign": "Присвоить",
     "suite-page-organization-directory-team-plan-details-active-credits": "Кредиты",
     "suite-page-organization-directory-team-plan-details-active-deactivate": "Отменить",
-    "suite-page-organization-directory-team-plan-details-active-empty": "Этого плана не существует, или же срок действия плана уже закончился. 😕",
-    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Эта команда не существует или же была удалена. 😕",
-    "suite-page-organization-directory-team-plan-details-active-period-from-title": "С",
-    "suite-page-organization-directory-team-plan-details-active-period-pay-with-cash-title": "Наличными",
-    "suite-page-organization-directory-team-plan-details-active-period-pay-with-title": "Оплачено",
+    "suite-page-organization-directory-team-plan-details-active-empty": "Этого плана не существует, или срок его действия уже закончился.",
+    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Эта команда не существует или была удалена.",
+    "suite-page-organization-directory-team-plan-details-active-payment": "Оплата",
+    "suite-page-organization-directory-team-plan-details-active-period-from-title": "Начало",
+    "suite-page-organization-directory-team-plan-details-active-period-pay-with-cash-title": "Наличные",
+    "suite-page-organization-directory-team-plan-details-active-period-pay-with-title": "Метод оплаты",
     "suite-page-organization-directory-team-plan-details-active-period-title": "Период",
     "suite-page-organization-directory-team-plan-details-active-period-until-title": "Конец",
     "suite-page-organization-directory-team-plan-details-active-permission-denied": "Нет прав доступа для просмотра этой страницы.",
+    "suite-page-organization-directory-team-plan-details-active-plan-description": "Описание",
+    "suite-page-organization-directory-team-plan-details-active-repeat-label": "Продление",
     "suite-page-organization-directory-team-plan-details-active-price": "Цена",
-    "suite-page-organization-directory-team-plan-details-active-pricing": "Цены",
     "suite-page-organization-directory-team-plan-details-active-type": "Тип"
   }
 }

@@ -1,21 +1,23 @@
 {
   "data": {
     "suite-page-organization-directory-team-plan-details-active-title": "Активний план",
-    "suite-page-organization-directory-team-plan-details-active-title-details": "Деталі плану",
     "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "Активний план: {title}",
+    "suite-page-organization-directory-team-plan-details-active-benefits": "Переваги",
     "suite-page-organization-directory-team-plan-details-active-button-assign": "Призначити",
     "suite-page-organization-directory-team-plan-details-active-credits": "Кредити",
     "suite-page-organization-directory-team-plan-details-active-deactivate": "Деактивувати",
-    "suite-page-organization-directory-team-plan-details-active-empty": "Цього плану не існує, або термін дії плану вже закінчився. 😕",
-    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Ця команда не існує або ж була видалена. 😕",
-    "suite-page-organization-directory-team-plan-details-active-period-from-title": "З",
-    "suite-page-organization-directory-team-plan-details-active-period-pay-with-cash-title": "Готівкою",
-    "suite-page-organization-directory-team-plan-details-active-period-pay-with-title": "Оплачено",
+    "suite-page-organization-directory-team-plan-details-active-empty": "Цього плану не існує, або термін дії плану вже закінчився.",
+    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-directory-team-plan-details-active-payment": "Оплата",
+    "suite-page-organization-directory-team-plan-details-active-period-from-title": "Початок",
+    "suite-page-organization-directory-team-plan-details-active-period-pay-with-cash-title": "Готівка",
+    "suite-page-organization-directory-team-plan-details-active-period-pay-with-title": "Спосіб",
     "suite-page-organization-directory-team-plan-details-active-period-title": "Період",
-    "suite-page-organization-directory-team-plan-details-active-period-until-title": "До",
+    "suite-page-organization-directory-team-plan-details-active-period-until-title": "Кінець",
     "suite-page-organization-directory-team-plan-details-active-permission-denied": "Немає прав доступу для перегляду цієї сторінки.",
+    "suite-page-organization-directory-team-plan-details-active-plan-description": "Опис",
+    "suite-page-organization-directory-team-plan-details-active-repeat-label": "Поновлення",
     "suite-page-organization-directory-team-plan-details-active-price": "Ціна",
-    "suite-page-organization-directory-team-plan-details-active-pricing": "Ціни",
     "suite-page-organization-directory-team-plan-details-active-type": "Тип"
   }
 }
