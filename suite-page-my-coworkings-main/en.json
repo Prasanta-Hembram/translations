@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-page-my-coworkings-main-main-title": "My Workspaces",
-    "suite-page-my-coworkings-main-button-create": "Create New Workspace",
-    "suite-page-my-coworkings-main-button-join": "Join Existing Workspace",
+    "suite-page-my-coworkings-main-button-create": "Create New",
+    "suite-page-my-coworkings-main-button-join": "Join Existing",
     "suite-page-my-coworkings-main-button-search": "Search",
     "suite-page-my-coworkings-main-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
     "suite-page-my-coworkings-main-no-coworkings": "If you're a resident, join an existing workspace. If you're a community manager, create a new workspace.",
