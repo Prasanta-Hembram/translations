@@ -18,8 +18,6 @@
     "suite-alerts-errors-organization-code-invalid": "Parece que el nombre de este espacio de trabajo ya está tomado. Prueba otro.",
     "suite-alerts-errors-organization-create-params-invalid": "No se pudo crear el espacio de trabajo. Revise todos los campos e intente nuevamente.",
     "suite-alerts-errors-organization-update-params-invalid": "El espacio de trabajo no se pudo actualizar. Revise todos los campos e intente nuevamente.",
-    "suite-alerts-errors-payment-price-high": "El monto es demasiado alto. El cargo máximo es equivalente a US $ 5,000.",
-    "suite-alerts-errors-payment-price-low": "La cantidad es demasiado pequeña. El cargo mínimo es equivalente a US $ 0.5.",
     "suite-alerts-errors-plan-assign-in-future": "No se puede asignar el plan para una fecha futura.",
     "suite-alerts-errors-plan-delete-reject": "No se puede eliminar. Plan en uso.",
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",

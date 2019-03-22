@@ -18,8 +18,6 @@
     "suite-alerts-errors-organization-code-invalid": "Кажется, коворкинг с таким названием уже существует. Попробуйте другое название.",
     "suite-alerts-errors-organization-create-params-invalid": "Не удалось создать коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-organization-update-params-invalid": "Не удалось обновить коворкинг. Проверьте все поля и попробуйте еще раз.",
-    "suite-alerts-errors-payment-price-high": "Сумма слишком большая. Максимальная сумма составляет 5000 долларов США.",
-    "suite-alerts-errors-payment-price-low": "Сумма слишком мала. Минимальная сумма составляет 0,5 доллара США.",
     "suite-alerts-errors-plan-assign-in-future": "Нельзя назначить план, который начинается в будущем.",
     "suite-alerts-errors-plan-delete-reject": "Невозможно удалить. План используется.",
     "suite-alerts-errors-plan-periods-empty": "Нужно выбрать хотя бы один период.",
