@@ -14,12 +14,13 @@
     "marketing-page-home-main-sign-in": "로그인",
     "marketing-page-home-one-app-time-title": "코워킹 스페이스를 위한 단 하나의 앱을 이용해보세요",
     "marketing-page-home-one-app-description": "andcards Suite 코워킹 스페이스의 기본적으로 필요한 모든 것을 제공합니다. 회의실 예약, 멤버십 플랜 관리, IoT 장치, 푸시 알림 기능이 있는 커뮤니티 피드, 카드 결제 — 이 모든 기능은 간편한 카테고리로 그룹화 되어 있습니다.",
-    "marketing-page-home-request-demo-button": "andcards Suite 이용하기",
+    "marketing-page-home-schedule-demo-button": "데모 예약하기",
     "marketing-page-home-request-demo-description": "단 몇 분 안에 무료로 가입하고 andcards 이용을 시작해보세요.",
     "marketing-page-home-request-demo-note": "대부분 기능은 무료입니다. 또한 저희는 {pricingUrl} 제공합니다.",
     "marketing-page-home-request-demo-note-paid-features": "유료 기능",
     "marketing-page-home-request-demo-title": "andcards와 함께 강력한 공간을 만들어보세요",
     "marketing-page-home-save-time-title": "코워킹 스페이스를 관리하는데 시간을 절약해보세요",
-    "marketing-page-home-save-time-description": "andcards Suite를 이용하여 모든 것을 세팅하고, 회원을 초대하는 것은 매우 쉽고 간단합니다. 원클릭 회의실 예약, 보너스 크레딧 자동화, 인앱 카드 결제를 통해 당신의 시간을 절약하세요."
+    "marketing-page-home-save-time-description": "andcards Suite를 이용하여 모든 것을 세팅하고, 회원을 초대하는 것은 매우 쉽고 간단합니다. 원클릭 회의실 예약, 보너스 크레딧 자동화, 인앱 카드 결제를 통해 당신의 시간을 절약하세요.",
+    "marketing-page-home-try-free-button": "무료로 시험하기"
   }
 }

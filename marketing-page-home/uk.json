@@ -14,12 +14,13 @@
     "marketing-page-home-main-sign-in": "Увійти",
     "marketing-page-home-one-app-time-title": "andcards — все, що потрібно коворкінг-центру",
     "marketing-page-home-one-app-description": "andcards Suite має в собі всі необхідні функції для роботи коворкінг-центрів. Система бронювання кімнат, управління тарифними планами, розумними пристроями IoT, стрічка новин спільноти з push-сповіщеннями, оплати картками — всі функції зручно погруповані у прості категорії.",
-    "marketing-page-home-request-demo-button": "Отримати andcards Suite",
+    "marketing-page-home-schedule-demo-button": "Запланувати демо",
     "marketing-page-home-request-demo-description": "Зареєструйтесь безкоштовно та розпочніть користуватися andcards просто зараз.",
     "marketing-page-home-request-demo-note": "Більшість функцій безкоштовні. Ми також пропонуємо {pricingUrl}.",
     "marketing-page-home-request-demo-note-paid-features": "платні функції",
     "marketing-page-home-request-demo-title": "Розширте можливості коворкінгу з andcards",
     "marketing-page-home-save-time-title": "Збережіть купу часу у керуванні коворкінгом",
-    "marketing-page-home-save-time-description": "Налаштування програми, запрошення учасників та використання andcards Suite - все дуже просто й інтуїтивно! Заощаджуйте безліч часу, бронюючи кімнати для переговорів в один клік, автоматично розподіляючи бонусні кредити і оплачуючи тарифи картками просто з застосунку."
+    "marketing-page-home-save-time-description": "Налаштування програми, запрошення учасників та використання andcards Suite - все дуже просто й інтуїтивно! Заощаджуйте безліч часу, бронюючи кімнати для переговорів в один клік, автоматично розподіляючи бонусні кредити і оплачуючи тарифи картками просто з застосунку.",
+    "marketing-page-home-try-free-button": "Спробувати безкоштовно"
   }
 }
