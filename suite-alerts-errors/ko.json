@@ -18,6 +18,8 @@
     "suite-alerts-errors-organization-code-invalid": "입력하신 공간 명이 이미 사용된 명입니다. 다른 명을 시도하세요.",
     "suite-alerts-errors-organization-create-params-invalid": "공간을 만들지 못했습니다. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-organization-update-params-invalid": "공간 업데이트 실패. 모든 필드를 확인하고 다시 시도하세요.",
+    "suite-alerts-errors-payment-price-high": "금액이 너무 높습니다. 최대 결제 가능금액은 US$5,000입니다.",
+    "suite-alerts-errors-payment-price-low": "금액이 너무 낮습니다. 최소 결제 가능금액은 US$0.50입니다.",
     "suite-alerts-errors-plan-assign-in-future": "향후 날짜에는 플랜을 부여할 수 없습니다.",
     "suite-alerts-errors-plan-delete-reject": "삭제 실패. 플랜은 이용 중입니다.",
     "suite-alerts-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요.",
