@@ -1,5 +1,6 @@
 {
   "data": {
+    "utils-payment-cash-status-canceled": "Скасовано",
     "utils-payment-cash-status-paid": "Сплачено",
     "utils-payment-cash-status-unpaid": "Несплачено",
     "utils-payment-cash-status-title": "Статус"
