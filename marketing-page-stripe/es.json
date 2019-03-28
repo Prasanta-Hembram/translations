@@ -1,11 +1,10 @@
 {
   "data": {
-    "marketing-page-stripe-title": "Pay with Stripe | andcards Suite",
-    "marketing-page-stripe-page-title": "Pay for {item}",
-    "marketing-page-stripe-page-error": "The payment request has already completed or does not exist.",
-    "marketing-page-stripe-page-success": "The payment has succeeded.",
-    "marketing-page-stripe-pay-by-card-pay-button": "Pay {price}",
-    "marketing-page-stripe-pay-by-card-pay-title": "Pay by card",
-    "marketing-page-stripe-pay-by-card-payment-request-title": "Other ways to pay"
+    "marketing-page-stripe-title": "Pago con Stripe | andcards Suite",
+    "marketing-page-stripe-page-title": "Pago por {item}",
+    "marketing-page-stripe-page-error": "La solicitud de pago ya se ha completado o no existe.",
+    "marketing-page-stripe-page-success": "El pago ha tenido éxito.",
+    "marketing-page-stripe-pay-by-card-pay-button": "Pagar {price}",
+    "marketing-page-stripe-pay-by-card-pay-title": "Pagar con tarjeta"
   }
 }
