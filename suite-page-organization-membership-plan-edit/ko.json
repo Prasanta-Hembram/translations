@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-plan-edit-title": "플랜 수정하기",
-    "suite-page-organization-membership-plan-edit-description": "크레딧 금액을 변경시 다음 제결제 부터 적용.",
+    "suite-page-organization-membership-plan-edit-description": "크레딧 금액을 변경시 다음 재결제 부터 적용.",
     "suite-page-organization-membership-plan-edit-credits": "크레딧, {pointEmoji}",
     "suite-page-organization-membership-plan-edit-error-plans-period-is-not-checked": "최소한의 플랜 이용 기간을 표시해 주세요.",
     "suite-page-organization-membership-plan-edit-error-quantity": "등록된 플랜의 개수를 확인해주세요.",
