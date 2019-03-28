@@ -6,6 +6,6 @@
     "marketing-page-stripe-page-success": "The payment has succeeded.",
     "marketing-page-stripe-pay-by-card-pay-button": "Pay {price}",
     "marketing-page-stripe-pay-by-card-pay-title": "Pay by card",
-    "marketing-page-stripe-pay-by-card-payment-request-title": "Pay by payment request"
+    "marketing-page-stripe-pay-by-card-payment-request-title": "Other ways to pay"
   }
 }
