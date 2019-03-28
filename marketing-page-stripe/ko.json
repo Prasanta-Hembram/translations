@@ -1,11 +1,10 @@
 {
   "data": {
-    "marketing-page-stripe-title": "Pay with Stripe | andcards Suite",
-    "marketing-page-stripe-page-title": "Pay for {item}",
-    "marketing-page-stripe-page-error": "The payment request has already completed or does not exist.",
-    "marketing-page-stripe-page-success": "The payment has succeeded.",
-    "marketing-page-stripe-pay-by-card-pay-button": "Pay {price}",
-    "marketing-page-stripe-pay-by-card-pay-title": "Pay by card",
-    "marketing-page-stripe-pay-by-card-payment-request-title": "Pay by payment request"
+    "marketing-page-stripe-title": "Stripe 결제 | andcards Suite",
+    "marketing-page-stripe-page-title": "{item} 결제",
+    "marketing-page-stripe-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",
+    "marketing-page-stripe-page-success": "결제 완료되었습니다.",
+    "marketing-page-stripe-pay-by-card-pay-button": "{price} 결제하기",
+    "marketing-page-stripe-pay-by-card-pay-title": "카드 결제"
   }
 }
