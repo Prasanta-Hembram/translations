@@ -2,9 +2,10 @@
   "data": {
     "suite-tab-navigation-my-coworkings": "My Workspaces",
     "suite-tab-navigation-organization-access": "Access",
-    "suite-tab-navigation-organization-feed": "Feed",
+    "suite-tab-navigation-organization-benefits": "Benefits",
     "suite-tab-navigation-organization-booking": "Bookings",
     "suite-tab-navigation-organization-directory": "Directory",
+    "suite-tab-navigation-organization-feed": "Feed",
     "suite-tab-navigation-organization-iot-devices": "IoT Devices",
     "suite-tab-navigation-organization-membership": "Membership",
     "suite-tab-navigation-organization-settings": "Settings",

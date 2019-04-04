@@ -2,9 +2,10 @@
   "data": {
     "suite-tab-navigation-my-coworkings": "Мои коворкинги",
     "suite-tab-navigation-organization-access": "Доступ",
-    "suite-tab-navigation-organization-feed": "Лента",
+    "suite-tab-navigation-organization-benefits": "Преимущества",
     "suite-tab-navigation-organization-booking": "Бронирования",
     "suite-tab-navigation-organization-directory": "Каталог",
+    "suite-tab-navigation-organization-feed": "Лента",
     "suite-tab-navigation-organization-iot-devices": "Устройства IoT",
     "suite-tab-navigation-organization-membership": "Участие",
     "suite-tab-navigation-organization-settings": "Настройки",
