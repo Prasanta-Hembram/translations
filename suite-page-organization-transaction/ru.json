@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-transaction-amount-label": "Сумма",
     "suite-page-organization-transaction-date-label": "Дата",
     "suite-page-organization-transaction-date-from-label": "Начало",
     "suite-page-organization-transaction-date-until-label": "Конец",
@@ -11,7 +10,6 @@
     "suite-page-organization-transaction-paid-with-for-free": "Бесплатно",
     "suite-page-organization-transaction-period-label": "Период",
     "suite-page-organization-transaction-plan-details-title": "Детали тарифа",
-    "suite-page-organization-transaction-type-label": "Тип",
     "suite-page-organization-transaction-title": "Детали транзакции"
   }
 }

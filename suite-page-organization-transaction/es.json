@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-transaction-amount-label": "Cantidad",
     "suite-page-organization-transaction-date-label": "Fecha",
     "suite-page-organization-transaction-date-from-label": "Desde",
     "suite-page-organization-transaction-date-until-label": "Hasta",
@@ -11,7 +10,6 @@
     "suite-page-organization-transaction-paid-with-for-free": "Gratis",
     "suite-page-organization-transaction-period-label": "Periodo",
     "suite-page-organization-transaction-plan-details-title": "Detalles del plan",
-    "suite-page-organization-transaction-type-label": "Insertar",
     "suite-page-organization-transaction-title": "Detalles de la transacción"
   }
 }
