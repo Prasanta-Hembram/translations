@@ -5,8 +5,9 @@
     "suite-alerts-refund-booking-credits-for-owner": "{points} 환불이 완료되었습니다",
     "suite-alerts-refund-booking-money-for-admin": "예약자의 100% 환불이 완료되었습니다",
     "suite-alerts-refund-booking-money-for-owner": "{price} 환불이 완료되었습니다",
+    "suite-alerts-success-benefit-apply": "신청이 완료되었습니다.",
     "suite-alerts-success-booking-create": "예약이 완료되었습니다",
     "suite-alerts-success-organization-invites-send": "초대장이 전송되었습니다",
-    "suite-alerts-success-organization-plan-purchased": "플랜 구매 완료되었습니다",
+    "suite-alerts-success-organization-plan-purchased": "플랜 구매 완료되었습니다"
   }
 }

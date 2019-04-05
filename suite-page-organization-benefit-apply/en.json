@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-benefit-apply-title": "New Application",
+    "suite-page-organization-benefit-apply-button-apply": "Submit",
+    "suite-page-organization-benefit-apply-error-email": "Type a correct email.",
+    "suite-page-organization-benefit-apply-error-phone-number": "Type a phone number.",
+    "suite-page-organization-benefit-apply-note": "Comment",
+    "suite-page-organization-benefit-apply-note-placeholder": "Type a comment"
+  }
+}
