@@ -5,8 +5,9 @@
     "suite-alerts-refund-booking-credits-for-owner": "{points} успішно відшкодовано.",
     "suite-alerts-refund-booking-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успішно відшкодовано.",
+    "suite-alerts-success-benefit-apply": "Заявку успішно надіслано.",
     "suite-alerts-success-booking-create": "Резервацію здійснено успішно.",
     "suite-alerts-success-organization-invites-send": "Запрошення успішно надіслані.",
-    "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна.",
+    "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна."
   }
 }

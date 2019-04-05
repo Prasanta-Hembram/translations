@@ -5,8 +5,9 @@
     "suite-alerts-refund-booking-credits-for-owner": "{points} successfully refunded.",
     "suite-alerts-refund-booking-money-for-admin": "Booking owner got 100% refund of money.",
     "suite-alerts-refund-booking-money-for-owner": "{price} successfully refunded.",
+    "suite-alerts-success-benefit-apply": "Application successfully sent.",
     "suite-alerts-success-booking-create": "Booking is made successfully.",
     "suite-alerts-success-organization-invites-send": "Invites successfully sent.",
-    "suite-alerts-success-organization-plan-purchased": "Plan is purchased.",
+    "suite-alerts-success-organization-plan-purchased": "Plan is purchased."
   }
 }
