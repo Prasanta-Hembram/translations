@@ -1,12 +1,12 @@
 {
   "data": {
-    "suite-page-organization-directory-user-main-title": "Налаштування участі",
     "suite-page-organization-directory-user-main-account-actions-title": "Дії з обліковим записом",
-    "suite-page-organization-directory-user-main-active-plan-title": "Активний план",
+    "suite-page-organization-directory-user-main-active-plan-title": "План",
     "suite-page-organization-directory-user-main-balance-permanent-credits-desc": "Ніколи не стікають.",
     "suite-page-organization-directory-user-main-balance-permanent-credits-title": "Постійні кредити",
     "suite-page-organization-directory-user-main-balance-temporary-credits-desc": "Стікають {date}.",
     "suite-page-organization-directory-user-main-balance-temporary-credits-title": "Тимчасові кредити",
+    "suite-page-organization-directory-user-main-balance-title": "Баланс",
     "suite-page-organization-directory-user-main-button-booking": "Історія резервацій",
     "suite-page-organization-directory-user-main-button-charge-title": "Списати",
     "suite-page-organization-directory-user-main-button-clear-title": "Погасити",
