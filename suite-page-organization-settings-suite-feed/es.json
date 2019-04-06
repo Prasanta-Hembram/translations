@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-settings-suite-feed-title": "Alimentar",
-    "suite-page-organization-settings-suite-feed-error-permission-denied": "No hay permiso de acceso.",
     "suite-page-organization-settings-suite-feed-switch-label": "Publicación de miembros",
     "suite-page-organization-settings-suite-feed-text-description": "Si está activado, todos los miembros del espacio de coworking podrán hacer una publicación."
   }

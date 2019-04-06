@@ -3,7 +3,6 @@
     "suite-page-organization-directory-user-booking-history-default-booking-purpose": "Бронь",
     "suite-page-organization-directory-user-booking-history-fetch-failure": "Не удалось отобразить все бронирования. Проверьте интернет-соединение.",
     "suite-page-organization-directory-user-booking-history-history-title": "История бронирования",
-    "suite-page-organization-directory-user-booking-history-list-empty": "Ничего не найдено. 😢",
-    "suite-page-organization-directory-user-booking-history-permission-denied": "Нет прав доступа для просмотра этой страницы."
+    "suite-page-organization-directory-user-booking-history-list-empty": "Ничего не найдено. 😢"
   }
 }

@@ -3,7 +3,6 @@
     "suite-page-organization-directory-team-balance-history-title": "결제 내역",
     "suite-page-organization-directory-team-balance-history-title-team": "팀 계정 결제 내역",
     "suite-page-organization-directory-team-balance-history-fetch-failure": "결제 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organization-directory-team-balance-history-list-empty": "결제 내역이 없습니다 😢",
-    "suite-page-organization-directory-team-balance-history-permission-denied": "볼 수있는 권한이 없습니다."
+    "suite-page-organization-directory-team-balance-history-list-empty": "결제 내역이 없습니다 😢"
   }
 }

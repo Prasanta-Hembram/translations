@@ -6,7 +6,6 @@
     "suite-page-organization-directory-user-virtual-create-error-organization": "Type an organization.",
     "suite-page-organization-directory-user-virtual-create-error-phone-number": "Type a phone number.",
     "suite-page-organization-directory-user-virtual-create-error-title": "Type a title.",
-    "suite-page-organization-directory-user-virtual-create-title": "Create Virtual User",
-    "suite-page-organization-directory-user-virtual-create-error-permission-denied": "You don't have permission to access this page."
+    "suite-page-organization-directory-user-virtual-create-title": "Create Virtual User"
   }
 }

@@ -4,7 +4,6 @@
     "suite-page-organization-directory-team-create-combobox-title": "Выбрать эмодзи",
     "suite-page-organization-directory-team-create-icon": "Эмодзи",
     "suite-page-organization-directory-team-create-name": "Название",
-    "suite-page-organization-directory-team-create-name-placeholder": "Введите название",
-    "suite-page-organization-directory-team-create-permission-denied": "Нет прав доступа."
+    "suite-page-organization-directory-team-create-name-placeholder": "Введите название"
   }
 }

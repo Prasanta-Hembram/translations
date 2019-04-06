@@ -6,7 +6,6 @@
     "suite-page-organization-directory-user-virtual-create-error-organization": "Пожалуйста, введите организацию.",
     "suite-page-organization-directory-user-virtual-create-error-phone-number": "Пожалуйста, введите номер телефона.",
     "suite-page-organization-directory-user-virtual-create-error-title": "Пожалуйста, введите должность.",
-    "suite-page-organization-directory-user-virtual-create-title": "Создать виртуальную учетную запись",
-    "suite-page-organization-directory-user-virtual-create-error-permission-denied": "Нет прав доступа для просмотра этой страницы."
+    "suite-page-organization-directory-user-virtual-create-title": "Создать виртуальную учетную запись"
   }
 }
