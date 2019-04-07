@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-create-title": "Nueva reserva",
-    "suite-page-organization-bookings-booking-create-add-card": "Agregar tarjeta",
     "suite-page-organization-bookings-booking-create-balance-action-button-money": "Efectivo ({price})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-personal": "Creditos personales ({balance})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-team": "Créditos del equipo ({balance})",
