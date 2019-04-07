@@ -32,7 +32,6 @@
     "suite-page-organization-bookings-booking-create-role-moderator": "중간관리자",
     "suite-page-organization-bookings-booking-create-section-organization-select-label": "멤버십 계정",
     "suite-page-organization-bookings-booking-create-section-payment": "결제",
-    "suite-page-organization-bookings-booking-create-section-payment-card-types-accepted": "지원되는 카드 유형:",
     "suite-page-organization-bookings-booking-create-section-people": "예약자",
     "suite-page-organization-bookings-booking-create-section-people-capacity": "이 시설은 최대 {numberOfSeats}명 수용가능합니다.",
     "suite-page-organization-bookings-booking-create-section-purpose": "목적",
