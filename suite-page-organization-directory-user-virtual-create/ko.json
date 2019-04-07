@@ -6,7 +6,6 @@
     "suite-page-organization-directory-user-virtual-create-error-organization": "조직 입력하기.",
     "suite-page-organization-directory-user-virtual-create-error-phone-number": "핸드폰 번호 입력하기.",
     "suite-page-organization-directory-user-virtual-create-error-title": "타이틀 입력하기.",
-    "suite-page-organization-directory-user-virtual-create-title": "가상 계정 만들기",
-    "suite-page-organization-directory-user-virtual-create-error-permission-denied": "볼 수 있는 권한이 없습니다."
+    "suite-page-organization-directory-user-virtual-create-title": "가상 계정 만들기"
   }
 }

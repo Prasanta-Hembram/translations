@@ -3,7 +3,6 @@
     "suite-page-organization-directory-team-balance-history-title": "История транзакций",
     "suite-page-organization-directory-team-balance-history-title-team": "История транзакций команды",
     "suite-page-organization-directory-team-balance-history-fetch-failure": "Не удалось отобразить историю транзакций. Проверьте интернет-соединение.",
-    "suite-page-organization-directory-team-balance-history-list-empty": "Нет ни одной транзакции. 😢",
-    "suite-page-organization-directory-team-balance-history-permission-denied": "Нет прав доступа для просмотра этой страницы."
+    "suite-page-organization-directory-team-balance-history-list-empty": "Нет ни одной транзакции. 😢"
   }
 }
