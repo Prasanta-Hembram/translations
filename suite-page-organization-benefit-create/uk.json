@@ -1,0 +1,25 @@
+{
+  "data": {
+    "suite-page-organization-benefit-create-title": "Створити перевагу",
+    "suite-page-organization-benefit-create-benefit-category": "Категорія",
+    "suite-page-organization-benefit-create-description-placeholder": "Увести опис",
+    "suite-page-organization-benefit-create-description-title": "Детальний опис",
+    "suite-page-organization-benefit-create-email-manager-label": "Email менеджера",
+    "suite-page-organization-benefit-create-email-manager-placeholder": "Увести email",
+    "suite-page-organization-benefit-create-email-provider-label": "Email провайдера",
+    "suite-page-organization-benefit-create-email-provider-placeholder": "Увести email",
+    "suite-page-organization-benefit-create-error-email-manager": "Уведіть email менеджера.",
+    "suite-page-organization-benefit-create-error-email-provider": "Уведіть email провайдера.",
+    "suite-page-organization-benefit-create-error-template-email": "Уведіть текст підтвердження.",
+    "suite-page-organization-benefit-create-error-title": "Уведіть назву.",
+    "suite-page-organization-benefit-create-link-provider-label": "Посилання",
+    "suite-page-organization-benefit-create-link-provider-placeholder": "Увести посилання",
+    "suite-page-organization-benefit-create-local-label": "Мова",
+    "suite-page-organization-benefit-create-subtitle-label": "Короткий опис",
+    "suite-page-organization-benefit-create-subtitle-placeholder": "Увести опис",
+    "suite-page-organization-benefit-create-template-email-placeholder": "Увести текст",
+    "suite-page-organization-benefit-create-template-email-title": "Текст email підтвердження",
+    "suite-page-organization-benefit-create-title-label": "Назва",
+    "suite-page-organization-benefit-create-title-placeholder": "Увести назву"
+  }
+}
