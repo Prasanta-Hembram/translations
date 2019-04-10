@@ -2,6 +2,9 @@
   "data": {
     "suite-page-organization-benefit-details-button-apply": "Aplicar",
     "suite-page-organization-benefit-details-button-applied": "Aplicado",
+    "suite-page-organization-benefit-details-button-delete": "Borrar",
+    "suite-page-organization-benefit-details-button-repeat": "Inténtalo de nuevo",
+    "suite-page-organization-benefit-details-delete-failure": "Error al eliminar el beneficio.",
     "suite-page-organization-benefit-details-get-failure": "No se pudo mostrar beneficio.  Revisa internet y vuelve a intentarlo.",
     "suite-page-organization-benefit-details-link-provider": "Enlazar",
     "suite-page-organization-benefit-details-no-benefit": "No hay beneficio para mostrar."

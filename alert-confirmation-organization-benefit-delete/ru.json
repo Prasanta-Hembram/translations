@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-benefit-delete-title": "Удалить преимущество",
+    "alert-confirmation-organization-benefit-delete-no": "Отменить",
+    "alert-confirmation-organization-benefit-delete-text": "Вы действительно хотите удалить это преимущество? Это действие необратимо.",
+    "alert-confirmation-organization-benefit-delete-yes": "Да, удалить"
+  }
+}
