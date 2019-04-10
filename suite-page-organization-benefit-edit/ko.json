@@ -1,0 +1,25 @@
+{
+  "data": {
+    "suite-page-organization-benefit-edit-title": "베네핏 편집",
+    "suite-page-organization-benefit-edit-benefit-category": "부분",
+    "suite-page-organization-benefit-edit-description-placeholder": "상세 설명을 입력하기",
+    "suite-page-organization-benefit-edit-description-title": "상세 설명",
+    "suite-page-organization-benefit-edit-email-manager-label": "담당자 이메일",
+    "suite-page-organization-benefit-edit-email-manager-placeholder": "담당자 이메일을 입력하기",
+    "suite-page-organization-benefit-edit-email-provider-label": "제공자 이메일",
+    "suite-page-organization-benefit-edit-email-provider-placeholder": "제공자 이메일을 입력하기",
+    "suite-page-organization-benefit-edit-error-email-manager": "담당자 이메일을 입력하세요.",
+    "suite-page-organization-benefit-edit-error-email-provider": "제공자 이메일을 입력하세요.",
+    "suite-page-organization-benefit-edit-error-template-email": "접수 확인 메시지를 입력하세요.",
+    "suite-page-organization-benefit-edit-error-title": "제목을 입력하기",
+    "suite-page-organization-benefit-edit-link-provider-label": "링크",
+    "suite-page-organization-benefit-edit-link-provider-placeholder": "링크를 입력하기",
+    "suite-page-organization-benefit-edit-local-label": "언어",
+    "suite-page-organization-benefit-edit-subtitle-label": "한 줄 설명",
+    "suite-page-organization-benefit-edit-subtitle-placeholder": "한 줄 설명을 입력하기",
+    "suite-page-organization-benefit-edit-template-email-placeholder": "접수 확인 메시지를 입력하기",
+    "suite-page-organization-benefit-edit-template-email-title": "접수 확인 메시지",
+    "suite-page-organization-benefit-edit-title-label": "제목",
+    "suite-page-organization-benefit-edit-title-placeholder": "제목을 입력하기"
+  }
+}
