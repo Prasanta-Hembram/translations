@@ -1,7 +1,7 @@
 {
   "data": {
     "payments-page-stripe-title": "Оплата по Stripe | andcards Suite",
-    "payments-page-stripe-page-title-booking": "Сплатити за Booking",
+    "payments-page-stripe-page-title-booking": "Сплатити за резервацію",
     "payments-page-stripe-page-error": "Платіжний запит виконано або не існує.",
     "payments-page-stripe-page-success": "Платіж успешно завершений.",
     "payments-page-stripe-pay-by-card-pay-button": "Оплата {price}",
