@@ -1,7 +1,7 @@
 {
   "data": {
     "payments-page-stripe-title": "Pay with Stripe | andcards Suite",
-    "payments-page-stripe-page-title": "Pay for {item}",
+    "payments-page-stripe-page-title-booking": "Pay for Booking",
     "payments-page-stripe-page-error": "The payment request has already completed or does not exist.",
     "payments-page-stripe-page-success": "The payment has succeeded.",
     "payments-page-stripe-pay-by-card-pay-button": "Pay {price}",
