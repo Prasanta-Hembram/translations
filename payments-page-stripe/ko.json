@@ -1,7 +1,7 @@
 {
   "data": {
     "payments-page-stripe-title": "Stripe 결제 | andcards Suite",
-    "payments-page-stripe-page-title": "{item} 결제",
+    "payments-page-stripe-page-title": "예약 결제",
     "payments-page-stripe-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",
     "payments-page-stripe-page-success": "결제 완료되었습니다.",
     "payments-page-stripe-pay-by-card-pay-button": "{price} 결제하기",
