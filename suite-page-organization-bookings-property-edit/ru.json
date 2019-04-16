@@ -4,6 +4,7 @@
     "suite-page-organization-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-property-edit-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
     "suite-page-organization-property-edit-error-room-name": "Пожалуйста, введите название переговорной.",
+    "suite-page-organization-property-edit-is-private": "Limited Access",
     "suite-page-organization-property-edit-max-time": "Макс. время",
     "suite-page-organization-property-edit-min-time": "Мин. время",
     "suite-page-organization-property-edit-name": "Название",
@@ -12,6 +13,8 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-property-edit-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-property-edit-price-points": "Цена, {pointEmoji}/час",
+    "suite-page-organization-property-edit-team-name": "Team",
+    "suite-page-organization-property-edit-team-none": "None",
     "suite-page-organization-property-edit-title-edit": "Редактировать комнату"
   }
 }

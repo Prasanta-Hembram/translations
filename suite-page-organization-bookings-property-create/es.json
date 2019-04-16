@@ -4,6 +4,7 @@
     "suite-page-organization-property-create-description-placeholder": "Descripción del tipo de su sala de reuniones (opcional)",
     "suite-page-organization-property-create-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
     "suite-page-organization-property-create-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
+    "suite-page-organization-property-create-is-private": "Limited Access",
     "suite-page-organization-property-create-max-time": "Tiempo máximo",
     "suite-page-organization-property-create-min-time": "Tiempo mínimo",
     "suite-page-organization-property-create-name": "Nombre",
@@ -12,6 +13,8 @@
     "suite-page-organization-property-create-price-currency-changing-notice": "Para cambiar de moneda, póngase en contacto con support@andcards.com",
     "suite-page-organization-property-create-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-property-create-price-points": "Precio, {pointEmoji}/hora",
+    "suite-page-organization-property-create-team-name": "Team",
+    "suite-page-organization-property-create-team-none": "None",
     "suite-page-organization-property-create-title-create": "Nuevo Cuarto"
   }
 }

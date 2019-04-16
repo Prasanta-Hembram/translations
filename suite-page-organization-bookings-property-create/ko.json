@@ -4,6 +4,7 @@
     "suite-page-organization-property-create-description-placeholder": "설명입력(선택사항)",
     "suite-page-organization-property-create-error-number-of-people": "시설의 수용가능인원 입력.",
     "suite-page-organization-property-create-error-room-name": "시설 명 입력하기.",
+    "suite-page-organization-property-create-is-private": "Limited Access",
     "suite-page-organization-property-create-max-time": "최대예약시간",
     "suite-page-organization-property-create-min-time": "최소예약시간",
     "suite-page-organization-property-create-name": "시설 명",
@@ -12,6 +13,8 @@
     "suite-page-organization-property-create-price-currency-changing-notice": "화폐단위를 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-create-price-points": "시간당 {pointEmoji}",
+    "suite-page-organization-property-create-team-name": "Team",
+    "suite-page-organization-property-create-team-none": "None",
     "suite-page-organization-property-create-title-create": "시설 추가"
   }
 }
