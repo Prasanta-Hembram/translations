@@ -1,6 +1,8 @@
 {
   "data": {
     "payments-page-stripe-title": "Pago con Stripe | andcards Suite",
+    "payments-page-stripe-field-email-label": "Email",
+    "payments-page-stripe-field-email-placeholder": "Tipo de correo electrónico",
     "payments-page-stripe-page-title-booking": "Pagar por la reserva",
     "payments-page-stripe-page-error": "La solicitud de pago ya se ha completado o no existe.",
     "payments-page-stripe-page-success": "El pago ha tenido éxito.",

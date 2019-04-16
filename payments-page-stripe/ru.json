@@ -1,6 +1,8 @@
 {
   "data": {
     "payments-page-stripe-title": "Оплата по Stripe | andcards Suite",
+    "payments-page-stripe-field-email-label": "Email",
+    "payments-page-stripe-field-email-placeholder": "Ввести email",
     "payments-page-stripe-page-title-booking": "Оплатить бронирование",
     "payments-page-stripe-page-error": "Запрос на оплату уже обработан или не существует.",
     "payments-page-stripe-page-success": "Оплата прошла успешно.",
