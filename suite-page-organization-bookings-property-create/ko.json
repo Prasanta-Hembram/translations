@@ -4,7 +4,7 @@
     "suite-page-organization-property-create-description-placeholder": "설명입력(선택사항)",
     "suite-page-organization-property-create-error-number-of-people": "시설의 수용가능인원 입력.",
     "suite-page-organization-property-create-error-room-name": "시설 명 입력하기.",
-    "suite-page-organization-property-create-is-private": "유한 출입",
+    "suite-page-organization-property-create-is-private": "출입 제한",
     "suite-page-organization-property-create-max-time": "최대예약시간",
     "suite-page-organization-property-create-min-time": "최소예약시간",
     "suite-page-organization-property-create-name": "시설 명",
@@ -14,7 +14,7 @@
     "suite-page-organization-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-create-price-points": "시간당 {pointEmoji}",
     "suite-page-organization-property-create-team-name": "팀 명",
-    "suite-page-organization-property-create-team-none": "선택 않음",
+    "suite-page-organization-property-create-team-none": "선택 안 함",
     "suite-page-organization-property-create-title-create": "시설 추가"
   }
 }
