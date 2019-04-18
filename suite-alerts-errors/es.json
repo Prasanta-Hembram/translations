@@ -24,7 +24,7 @@
     "suite-alerts-errors-plan-delete-reject": "No se puede eliminar. Plan en uso.",
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",
     "suite-alerts-errors-plan-sold-out": "El plan está agotado.",
-    "suite-alerts-errors-property-is-missing": "Failed to book for this room.",
+    "suite-alerts-errors-property-is-missing": "No se pudo reservar para esta habitación.",
     "suite-alerts-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta.",
     "suite-alerts-errors-trial-already-started": "Tu espacio de trabajo ya tiene el sistema de reservas completo habilitado.",
     "suite-alerts-errors-user-have-no-permission": "No tienes permiso para completar la acción."
