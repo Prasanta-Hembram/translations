@@ -4,7 +4,7 @@
     "suite-page-organization-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
     "suite-page-organization-property-edit-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
     "suite-page-organization-property-edit-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
-    "suite-page-organization-property-edit-is-private": "Limited Access",
+    "suite-page-organization-property-edit-is-private": "Acceso limitado",
     "suite-page-organization-property-edit-max-time": "Tiempo máximo",
     "suite-page-organization-property-edit-min-time": "Tiempo mínimo",
     "suite-page-organization-property-edit-name": "Nombre",
@@ -13,8 +13,8 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "Para cambiar de moneda, póngase en contacto con support@andcards.com",
     "suite-page-organization-property-edit-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-property-edit-price-points": "Precio, {pointEmoji}/hora",
-    "suite-page-organization-property-edit-team-name": "Team",
-    "suite-page-organization-property-edit-team-none": "None",
+    "suite-page-organization-property-edit-team-name": "Equipo",
+    "suite-page-organization-property-edit-team-none": "Ninguna",
     "suite-page-organization-property-edit-title-edit": "Editar Habitación"
   }
 }

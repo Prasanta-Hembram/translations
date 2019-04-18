@@ -4,7 +4,7 @@
     "suite-page-organization-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-property-edit-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
     "suite-page-organization-property-edit-error-room-name": "Введіть назву кімнати.",
-    "suite-page-organization-property-edit-is-private": "Limited Access",
+    "suite-page-organization-property-edit-is-private": "Обмежений доступ",
     "suite-page-organization-property-edit-max-time": "Макс. час",
     "suite-page-organization-property-edit-min-time": "Мін. час",
     "suite-page-organization-property-edit-name": "Назва",
@@ -13,8 +13,8 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "Щоб змінити валюту, зверніться до support@andcards.com.",
     "suite-page-organization-property-edit-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-property-edit-price-points": "Ціна, {pointEmoji}/год",
-    "suite-page-organization-property-edit-team-name": "Team",
-    "suite-page-organization-property-edit-team-none": "None",
+    "suite-page-organization-property-edit-team-name": "Команда",
+    "suite-page-organization-property-edit-team-none": "Не обрано",
     "suite-page-organization-property-edit-title-edit": "Редагувати кімнату"
   }
 }
