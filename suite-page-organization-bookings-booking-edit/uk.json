@@ -10,7 +10,7 @@
     "suite-page-organization-bookings-booking-edit-error-purpose-empty": "Уведіть назву резервації.",
     "suite-page-organization-bookings-booking-edit-error-date-invalid": "Уведіть правильну дату.",
     "suite-page-organization-bookings-booking-edit-error-time-invalid": "Уведіть правильний час.",
-    "suite-page-organization-bookings-booking-edit-label-start-date": "Початок",
+    "suite-page-organization-bookings-booking-edit-label-start-date": "Дата початку",
     "suite-page-organization-bookings-booking-edit-lock-code": "Код доступу",
     "suite-page-organization-bookings-booking-edit-lock-code-desc": "Двері кімнати оснащені розумним замком. Щоб відкрити двері, введіть код, що відображається вище, а потім #. Код для входу дійсний лише під час резервації.",
     "suite-page-organization-bookings-booking-edit-memo": "Нотатка",
