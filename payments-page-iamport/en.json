@@ -1,0 +1,12 @@
+{
+  "data": {
+    "payments-page-iamport-title": "Pay with Iamport | andcards Suite",
+    "payments-page-iamport-field-email-label": "Email",
+    "payments-page-iamport-field-email-placeholder": "Type Email",
+    "payments-page-iamport-page-title-booking": "Pay for Booking",
+    "payments-page-iamport-page-error": "The payment request has already completed or does not exist.",
+    "payments-page-iamport-page-success": "The payment has succeeded.",
+    "payments-page-iamport-pay-by-card-pay-button": "Pay {price}",
+    "payments-page-iamport-pay-by-card-pay-title": "Pay by {paymentMethod}"
+  }
+}
