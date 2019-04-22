@@ -44,7 +44,7 @@
     "suite-page-organization-bookings-booking-create-section-time": "Hora",
     "suite-page-organization-bookings-booking-create-section-time-max": "El tiempo máximo de reserva es {duration}.",
     "suite-page-organization-bookings-booking-create-section-time-min": "El tiempo mínimo de reserva es {duration}.",
-    "suite-page-organization-bookings-booking-create-start-date": "Fecha de inicio",
+    "suite-page-organization-bookings-booking-create-start-date": "Fecha",
     "suite-page-organization-bookings-booking-create-start-time": "Inicio"
   }
 }
