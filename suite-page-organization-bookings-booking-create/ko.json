@@ -44,6 +44,7 @@
     "suite-page-organization-bookings-booking-create-section-time": "시간",
     "suite-page-organization-bookings-booking-create-section-time-max": "최대 예약 시간 {duration}입니다.",
     "suite-page-organization-bookings-booking-create-section-time-min": "최저 예약 시간 {duration}입니다.",
+    "suite-page-organization-bookings-booking-create-start-date": "시작일",
     "suite-page-organization-bookings-booking-create-start-time": "시작"
   }
 }

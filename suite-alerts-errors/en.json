@@ -24,6 +24,7 @@
     "suite-alerts-errors-plan-delete-reject": "Unable to delete. Plan in use.",
     "suite-alerts-errors-plan-periods-empty": "Plan must have at least 1 period.",
     "suite-alerts-errors-plan-sold-out": "Plan is sold out.",
+    "suite-alerts-errors-property-is-missing": "Failed to book for this room.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
     "suite-alerts-errors-trial-already-started": "The workspace already has the full booking system enabled.",
     "suite-alerts-errors-user-have-no-permission": "No permission to complete the action."

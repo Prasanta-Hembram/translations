@@ -4,6 +4,7 @@
     "suite-page-organization-property-create-description-placeholder": "Type a description (optional)",
     "suite-page-organization-property-create-error-number-of-people": "Type a number of seats.",
     "suite-page-organization-property-create-error-room-name": "Type a name.",
+    "suite-page-organization-property-create-is-private": "Limited Access",
     "suite-page-organization-property-create-max-time": "Max time",
     "suite-page-organization-property-create-min-time": "Min time",
     "suite-page-organization-property-create-name": "Name",
@@ -12,6 +13,8 @@
     "suite-page-organization-property-create-price-currency-changing-notice": "To change currency contact support@andcards.com.",
     "suite-page-organization-property-create-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-property-create-price-points": "Credits, {pointEmoji}/hr",
+    "suite-page-organization-property-create-team-name": "Team",
+    "suite-page-organization-property-create-team-none": "None",
     "suite-page-organization-property-create-title-create": "New Room"
   }
 }

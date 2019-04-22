@@ -15,7 +15,7 @@
     "suite-page-organization-bookings-booking-details-lock-code": "Lock code",
     "suite-page-organization-bookings-booking-details-lock-code-desc": "The meeting room door is equipped with a smart lock. To open the door, enter the code displayed above followed by #. The lock code is valid only during the booking time.",
     "suite-page-organization-bookings-booking-details-memo": "Memo",
-    "suite-page-organization-bookings-booking-details-payed-with": "Paid with",
+    "suite-page-organization-bookings-booking-details-payed-with": "Method",
     "suite-page-organization-bookings-booking-details-purpose": "Title",
     "suite-page-organization-bookings-booking-details-section-access": "Access",
     "suite-page-organization-bookings-booking-details-section-payment": "Payment",
