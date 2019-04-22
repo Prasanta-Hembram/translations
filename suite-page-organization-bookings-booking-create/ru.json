@@ -44,7 +44,7 @@
     "suite-page-organization-bookings-booking-create-section-time": "Время",
     "suite-page-organization-bookings-booking-create-section-time-max": "Максимальная продолжительность бронирования — {duration}.",
     "suite-page-organization-bookings-booking-create-section-time-min": "Минимальная продолжительность бронирования — {duration}.",
-    "suite-page-organization-bookings-booking-create-start-date": "Дата начала",
+    "suite-page-organization-bookings-booking-create-start-date": "Дата",
     "suite-page-organization-bookings-booking-create-start-time": "Начало"
   }
 }
