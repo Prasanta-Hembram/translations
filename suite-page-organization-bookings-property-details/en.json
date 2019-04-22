@@ -8,6 +8,7 @@
     "suite-page-organization-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Minimum booking time is {duration}.",
     "suite-page-organization-property-details-overview-seats": "- This room can fit up to {numberOfSeats} people.",
+    "suite-page-organization-property-details-overview-team-access": "- This room is for {teamTitle} team only.",
     "suite-page-organization-property-details-overview-title": "Overview",
     "suite-page-organization-property-details-price-money": "- The price of a booking is {priceMoney} per hour.",
     "suite-page-organization-property-details-price-points": "- The price of a booking is {priceCredits} per hour.",
