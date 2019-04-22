@@ -1,0 +1,12 @@
+{
+  "data": {
+    "payments-page-iamport-title": "Оплата по Iamport | andcards Suite",
+    "payments-page-iamport-field-email-label": "Email",
+    "payments-page-iamport-field-email-placeholder": "Ввести email",
+    "payments-page-iamport-page-title-booking": "Оплатить бронирование",
+    "payments-page-iamport-page-error": "Запрос на оплату уже обработан или не существует.",
+    "payments-page-iamport-page-success": "Оплата прошла успешно.",
+    "payments-page-iamport-pay-by-card-pay-button": "Оплатить {price}",
+    "payments-page-iamport-pay-by-card-pay-title": "Оплатить {paymentMethod}"
+  }
+}
