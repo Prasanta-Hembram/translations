@@ -3,7 +3,6 @@
     "suite-page-organization-property-details-title": "About {propertyName}",
     "suite-page-organization-property-details-delete-failure": "Failed to delete the room.",
     "suite-page-organization-property-details-delete-repeat": "Try again",
-    "suite-page-organization-property-details-description-title": "Description",
     "suite-page-organization-property-details-no-property": "This room may not exist or may have been removed.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Minimum booking time is {duration}.",
