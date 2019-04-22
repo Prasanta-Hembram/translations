@@ -44,6 +44,7 @@
     "suite-page-organization-bookings-booking-create-section-time": "Час",
     "suite-page-organization-bookings-booking-create-section-time-max": "Максимальна тривалість резервації — {duration}.",
     "suite-page-organization-bookings-booking-create-section-time-min": "Мінімальна тривалість резервації — {duration}.",
+    "suite-page-organization-bookings-booking-create-start-date": "Дата",
     "suite-page-organization-bookings-booking-create-start-time": "Початок"
   }
 }
