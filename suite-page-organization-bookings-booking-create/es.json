@@ -23,6 +23,7 @@
     "suite-page-organization-bookings-booking-create-payment-failure-text": "Compruebe la conexión a internet y vuelva a intentarlo.",
     "suite-page-organization-bookings-booking-create-payment-failure-title": "Reserva fallida",
     "suite-page-organization-bookings-booking-create-payment-radio-button-card": "Tarjeta",
+    "suite-page-organization-bookings-booking-create-payment-radio-button-kakao": "Kakao",
     "suite-page-organization-bookings-booking-create-payment-success-button-done": "Hecho",
     "suite-page-organization-bookings-booking-create-payment-success-text": "Te avisaremos 5 minutos antes de que empiece.",
     "suite-page-organization-bookings-booking-create-payment-success-title": "Reserva exitosa",
