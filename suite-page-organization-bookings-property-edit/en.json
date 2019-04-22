@@ -4,6 +4,7 @@
     "suite-page-organization-property-edit-description-placeholder": "Type a description (optional)",
     "suite-page-organization-property-edit-error-number-of-people": "Type a number of seats.",
     "suite-page-organization-property-edit-error-room-name": "Type a name.",
+    "suite-page-organization-property-edit-is-private": "Limited Access",
     "suite-page-organization-property-edit-max-time": "Max time",
     "suite-page-organization-property-edit-min-time": "Min time",
     "suite-page-organization-property-edit-name": "Name",
@@ -12,6 +13,8 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "To change currency contact support@andcards.com.",
     "suite-page-organization-property-edit-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-property-edit-price-points": "Credits, {pointEmoji}/hr",
+    "suite-page-organization-property-edit-team-name": "Team",
+    "suite-page-organization-property-edit-team-none": "None",
     "suite-page-organization-property-edit-title-edit": "Edit Room"
   }
 }
