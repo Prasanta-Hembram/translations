@@ -4,6 +4,7 @@
     "suite-page-organization-property-details-delete-failure": "Не вдалося видалити кімнату.",
     "suite-page-organization-property-details-delete-repeat": "Спробувати знову",
     "suite-page-organization-property-details-no-property": "Кімната не існує або ж була видалена.",
+    "suite-page-organization-property-details-overview-booking-step": "- Booking step is {bookingStep}.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Кімната може вмістити до {numberOfSeats} гостей.",

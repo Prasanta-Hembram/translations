@@ -1,8 +1,11 @@
 {
   "data": {
+    "suite-page-organization-property-create-booking-step-desc": "Members will be able to book with the time increment selected above.",
+    "suite-page-organization-property-create-booking-step-label": "Booking Step",
     "suite-page-organization-property-create-description": "Descripción",
     "suite-page-organization-property-create-description-placeholder": "Descripción del tipo de su sala de reuniones (opcional)",
     "suite-page-organization-property-create-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
+    "suite-page-organization-property-create-error-minimum-time": "Min time cannot be bigger than booking step.",
     "suite-page-organization-property-create-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
     "suite-page-organization-property-create-is-private": "Acceso limitado",
     "suite-page-organization-property-create-max-time": "Tiempo máximo",

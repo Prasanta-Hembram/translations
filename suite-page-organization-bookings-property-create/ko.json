@@ -1,8 +1,11 @@
 {
   "data": {
+    "suite-page-organization-property-create-booking-step-desc": "Members will be able to book with the time increment selected above.",
+    "suite-page-organization-property-create-booking-step-label": "Booking Step",
     "suite-page-organization-property-create-description": "설명",
     "suite-page-organization-property-create-description-placeholder": "설명입력(선택사항)",
     "suite-page-organization-property-create-error-number-of-people": "시설의 수용가능인원 입력.",
+    "suite-page-organization-property-create-error-minimum-time": "Min time cannot be bigger than booking step.",
     "suite-page-organization-property-create-error-room-name": "시설 명 입력하기.",
     "suite-page-organization-property-create-is-private": "출입 제한",
     "suite-page-organization-property-create-max-time": "최대예약시간",

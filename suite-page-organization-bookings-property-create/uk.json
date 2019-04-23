@@ -1,8 +1,11 @@
 {
   "data": {
+    "suite-page-organization-property-create-booking-step-desc": "Members will be able to book with the time increment selected above.",
+    "suite-page-organization-property-create-booking-step-label": "Booking Step",
     "suite-page-organization-property-create-description": "Опис",
     "suite-page-organization-property-create-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-property-create-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
+    "suite-page-organization-property-create-error-minimum-time": "Min time cannot be bigger than booking step.",
     "suite-page-organization-property-create-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-property-create-is-private": "Обмежений доступ",
     "suite-page-organization-property-create-max-time": "Макс. час",
