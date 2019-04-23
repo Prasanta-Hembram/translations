@@ -39,7 +39,7 @@
     "suite-page-organization-bookings-booking-create-section-organization-select-label": "멤버십 계정",
     "suite-page-organization-bookings-booking-create-section-payment": "결제",
     "suite-page-organization-bookings-booking-create-section-people": "예약자",
-    "suite-page-organization-bookings-booking-create-section-people-capacity": "이 시설은 최대 {numberOfSeats}명 수용가능합니다.",
+    "suite-page-organization-bookings-booking-create-section-people-capacity": "이 회의실은 최대 {numberOfSeats}명 수용가능합니다.",
     "suite-page-organization-bookings-booking-create-section-purpose": "목적",
     "suite-page-organization-bookings-booking-create-section-time": "시간",
     "suite-page-organization-bookings-booking-create-section-time-max": "최대 예약 시간 {duration}입니다.",

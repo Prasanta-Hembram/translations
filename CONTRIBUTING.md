@@ -121,6 +121,6 @@ Use verbs that precisely describe the button’s action. For example, `Cancel`, 
 | Settings  | Settings | Налаштування | Настройки    | 설정 |
 | Workspace | Espacio  | Коворкінг    | Коворкинг    | 공간 |
 | Booking   | Reserva  | Резервація   | Бронирование | 예약 |
-| Room      | Sala     | Кімната      | Переговорная | 시설 |
+| Room      | Sala     | Кімната      | Переговорная | 회의실 |
 
 Never use wrong forms: organization (EN), sala de habitacion (ES), бронювання (UK), резервация (RU). In Korean, prefer "-세요" to "-하십시요": "제목을 입력하세요."

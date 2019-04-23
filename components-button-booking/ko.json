@@ -1,5 +1,5 @@
 {
   "data": {
-    "component-button-booking-interval-now-until": "지금부터 {timeUntil}까지"
+    "component-button-booking-interval-now-until": "현재부터 {timeUntil}까지"
   }
 }
