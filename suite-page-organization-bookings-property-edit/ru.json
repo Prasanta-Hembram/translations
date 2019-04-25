@@ -5,7 +5,7 @@
     "suite-page-organization-property-edit-description": "Описание",
     "suite-page-organization-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-property-edit-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
-    "suite-page-organization-property-edit-error-minimum-time": "Минимальное время не может быть больше шага бронирования.",
+    "suite-page-organization-property-edit-error-minimum-time": "Минимальное время не может быть меньше шага бронирования.",
     "suite-page-organization-property-edit-error-room-name": "Пожалуйста, введите название переговорной.",
     "suite-page-organization-property-edit-is-private": "Ограниченный доступ",
     "suite-page-organization-property-edit-max-time": "Макс. время",

@@ -5,7 +5,7 @@
     "suite-page-organization-property-create-description": "Опис",
     "suite-page-organization-property-create-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-property-create-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
-    "suite-page-organization-property-create-error-minimum-time": "Мінімальний час не може перевищувати крок бронювання.",
+    "suite-page-organization-property-create-error-minimum-time": "Мінімальний час не може бути меншим за крок бронювання.",
     "suite-page-organization-property-create-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-property-create-is-private": "Обмежений доступ",
     "suite-page-organization-property-create-max-time": "Макс. час",

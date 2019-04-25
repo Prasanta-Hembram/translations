@@ -5,7 +5,7 @@
     "suite-page-organization-property-create-description": "Description",
     "suite-page-organization-property-create-description-placeholder": "Type a description (optional)",
     "suite-page-organization-property-create-error-number-of-people": "Type a number of seats.",
-    "suite-page-organization-property-create-error-minimum-time": "Min time cannot be bigger than booking step.",
+    "suite-page-organization-property-create-error-minimum-time": "Min time cannot be smaller than booking step.",
     "suite-page-organization-property-create-error-room-name": "Type a name.",
     "suite-page-organization-property-create-is-private": "Limited Access",
     "suite-page-organization-property-create-max-time": "Max time",
