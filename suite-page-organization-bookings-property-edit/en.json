@@ -1,8 +1,11 @@
 {
   "data": {
+    "suite-page-organization-property-edit-booking-step-desc": "Members will be able to book with the time increment selected above.",
+    "suite-page-organization-property-edit-booking-step-label": "Booking Step",
     "suite-page-organization-property-edit-description": "Description",
     "suite-page-organization-property-edit-description-placeholder": "Type a description (optional)",
     "suite-page-organization-property-edit-error-number-of-people": "Type a number of seats.",
+    "suite-page-organization-property-edit-error-minimum-time": "Min time cannot be bigger than booking step.",
     "suite-page-organization-property-edit-error-room-name": "Type a name.",
     "suite-page-organization-property-edit-is-private": "Limited Access",
     "suite-page-organization-property-edit-max-time": "Max time",
