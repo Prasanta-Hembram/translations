@@ -27,6 +27,7 @@
     "suite-page-organization-bookings-booking-create-payment-success-button-done": "Hecho",
     "suite-page-organization-bookings-booking-create-payment-success-text": "Te avisaremos 5 minutos antes de que empiece.",
     "suite-page-organization-bookings-booking-create-payment-success-title": "Reserva exitosa",
+    "suite-page-organization-bookings-booking-create-price": "Precio, {currency}",
     "suite-page-organization-bookings-booking-create-price-money": "El precio es {priceMoney} por hora.",
     "suite-page-organization-bookings-booking-create-price-points": "El precio es {priceCredits} por hora.",
     "suite-page-organization-bookings-booking-create-price-points-and-money": "El precio es {priceMoney} o {priceCredits} por hora.",

@@ -27,6 +27,7 @@
     "suite-page-organization-bookings-booking-create-payment-success-button-done": "Готово",
     "suite-page-organization-bookings-booking-create-payment-success-text": "Нагадаємо за 5 хвилин до початку резервації.",
     "suite-page-organization-bookings-booking-create-payment-success-title": "Резервація успішна",
+    "suite-page-organization-bookings-booking-create-price": "Ціна, {currency}",
     "suite-page-organization-bookings-booking-create-price-money": "Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-bookings-booking-create-price-points": "Резервація коштує {priceCredits} за годину.",
     "suite-page-organization-bookings-booking-create-price-points-and-money": "Резервація коштує {priceMoney} або {priceCredits} за годину.",
