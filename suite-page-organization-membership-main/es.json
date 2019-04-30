@@ -1,16 +1,14 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Membresía",
-    "suite-page-organization-membership-main-balance-personal-title": "Personal",
-    "suite-page-organization-membership-main-balance-personal-credits-title": "Creditos personales",
-    "suite-page-organization-membership-main-balance-team-title": "{teamName} Equipo",
+    "suite-page-organization-membership-main-balance-personal-credits-title": "Créditos personales",
     "suite-page-organization-membership-main-balance-team-credits-title": "Créditos del equipo {teamName}",
     "suite-page-organization-membership-main-balance-title": "Balance",
     "suite-page-organization-membership-main-button-all-plans-open": "Todos los planes de membresía",
     "suite-page-organization-membership-main-button-balance-personal-title": "Historial de saldo personal",
     "suite-page-organization-membership-main-button-balance-team-title": "Historial de balance de equipo",
     "suite-page-organization-membership-main-button-get-new-plan": "Obtener un plan de membresía",
-    "suite-page-organization-membership-main-coworking-membership-title": "Membresía de coworking",
+    "suite-page-organization-membership-main-coworking-membership-title": "Plans",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expira el {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Utilice estos créditos para reservar una sala de reuniones.",
     "suite-page-organization-membership-main-description-text-for-admins": "Vende tu membresía al espacio de coworking a través de yCards. Los miembros podrán pagar directamente desde la aplicación, obtener recordatorios de vencimiento del plan y créditos automáticamente.",
@@ -21,8 +19,8 @@
     "suite-page-organization-membership-main-occupancy-title": "Utilización del espacio",
     "suite-page-organization-membership-main-occupancy": "Total de asientos ocupados dividido por el total de asientos disponibles.",
     "suite-page-organization-membership-main-pages-printed-title": "Páginas impresas",
-    "suite-page-organization-membership-main-personal-title": "Personal",
-    "suite-page-organization-membership-main-plan-team-title": "{teamName} Equipo",
+    "suite-page-organization-membership-main-personal-title": "Membresía personal",
+    "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}",
     "suite-page-organization-membership-main-price-from": "Desde {price}"
   }
 }

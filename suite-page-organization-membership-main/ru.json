@@ -1,9 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Участие",
-    "suite-page-organization-membership-main-balance-personal-title": "Личный счет",
     "suite-page-organization-membership-main-balance-personal-credits-title": "Кредиты личные",
-    "suite-page-organization-membership-main-balance-team-title": "Команда {teamName}",
     "suite-page-organization-membership-main-balance-team-credits-title": "Кредиты команды {teamName}",
     "suite-page-organization-membership-main-balance-title": "Баланс",
     "suite-page-organization-membership-main-button-all-plans-open": "Все тарифные планы",

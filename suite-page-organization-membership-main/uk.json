@@ -1,9 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Участь",
-    "suite-page-organization-membership-main-balance-personal-title": "Особистий рахунок",
     "suite-page-organization-membership-main-balance-personal-credits-title": "Кредити особисті",
-    "suite-page-organization-membership-main-balance-team-title": "Команда {teamName}",
     "suite-page-organization-membership-main-balance-team-credits-title": "Кредити команди {teamName}",
     "suite-page-organization-membership-main-balance-title": "Баланс",
     "suite-page-organization-membership-main-button-all-plans-open": "Усі тарифні плани",

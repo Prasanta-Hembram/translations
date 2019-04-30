@@ -1,16 +1,14 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "멤버십",
-    "suite-page-organization-membership-main-balance-personal-title": "개인",
     "suite-page-organization-membership-main-balance-personal-credits-title": "개인 크레딧",
-    "suite-page-organization-membership-main-balance-team-title": "{teamName} 팀",
     "suite-page-organization-membership-main-balance-team-credits-title": "{teamName} 팀 크레딧",
     "suite-page-organization-membership-main-balance-title": "전액",
     "suite-page-organization-membership-main-button-all-plans-open": "전체 멤버십 플랜",
     "suite-page-organization-membership-main-button-balance-personal-title": "개인 계정 결제 내역",
     "suite-page-organization-membership-main-button-balance-team-title": "팀 계정 결제 내역",
     "suite-page-organization-membership-main-button-get-new-plan": "멤버십 플랜 보기",
-    "suite-page-organization-membership-main-coworking-membership-title": "멤버십 플랜",
+    "suite-page-organization-membership-main-coworking-membership-title": "플랜",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring}은 {date}에 만료됩니다.",
     "suite-page-organization-membership-main-credits-how-to-use": "회의실을 예약할 때 크레딧을 이용하세요.",
     "suite-page-organization-membership-main-description-text-for-admins": "andcards를 통해 여러분의 코워킹 스페이스 멤버십을 판매해보세요. 회원들은 앱에서 결제, 만료일 알림, 자동 크레딧 제공 등 모든 기능을 이용 할 수 있습니다.",
@@ -21,8 +19,8 @@
     "suite-page-organization-membership-main-occupancy-title": "공간 이용률",
     "suite-page-organization-membership-main-occupancy": "총 점유좌석을 총 유효좌석으로 나눈 것",
     "suite-page-organization-membership-main-pages-printed-title": "프린트 내역",
-    "suite-page-organization-membership-main-personal-title": "개인 플랜",
-    "suite-page-organization-membership-main-plan-team-title": "{teamName} 팀",
+    "suite-page-organization-membership-main-personal-title": "개인 멤버십 플랜",
+    "suite-page-organization-membership-main-plan-team-title": "{teamName} 팀 멤버십 플랜",
     "suite-page-organization-membership-main-price-from": "{price}부터"
   }
 }

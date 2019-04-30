@@ -1,16 +1,14 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Membership",
-    "suite-page-organization-membership-main-balance-personal-title": "Personal Account",
     "suite-page-organization-membership-main-balance-personal-credits-title": "Personal Credits",
-    "suite-page-organization-membership-main-balance-team-title": "{teamName} Team",
     "suite-page-organization-membership-main-balance-team-credits-title": "{teamName} Team Credits",
     "suite-page-organization-membership-main-balance-title": "Balance",
     "suite-page-organization-membership-main-button-all-plans-open": "All membership plans",
     "suite-page-organization-membership-main-button-balance-personal-title": "Personal Balance History",
     "suite-page-organization-membership-main-button-balance-team-title": "Team Balance History",
     "suite-page-organization-membership-main-button-get-new-plan": "Get a membership plan",
-    "suite-page-organization-membership-main-coworking-membership-title": "Coworking Membership",
+    "suite-page-organization-membership-main-coworking-membership-title": "Plans",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expire on {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Use these credits to book a meeting room.",
     "suite-page-organization-membership-main-description-text-for-admins": "Sell your coworking space membership through andcards. Members will be able to pay right from the app, get plan expiration reminders and credits automatically.",
@@ -21,8 +19,8 @@
     "suite-page-organization-membership-main-occupancy-title": "Space Utilization",
     "suite-page-organization-membership-main-occupancy": "The fraction of occupied seats in the total number of seats.",
     "suite-page-organization-membership-main-pages-printed-title": "Pages printed",
-    "suite-page-organization-membership-main-personal-title": "Personal",
-    "suite-page-organization-membership-main-plan-team-title": "{teamName} Team",
+    "suite-page-organization-membership-main-personal-title": "Personal Membership",
+    "suite-page-organization-membership-main-plan-team-title": "{teamName} Team Membership",
     "suite-page-organization-membership-main-price-from": "From {price}"
   }
 }
