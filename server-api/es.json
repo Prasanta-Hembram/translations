@@ -1,5 +1,28 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} publicado en {organizationTitle}"
+    "announcement-notification-title": "{userName} publicado en {organizationTitle}",
+    "benefit-apply-email-application-comment": "Comentario: {comment}",
+    "benefit-apply-email-application-email": "Email: {email}",
+    "benefit-apply-email-application-full-name": "Nombre completo: {userFullName}",
+    "benefit-apply-email-application-membership-full": "Información de membresía: {membershipInformation}",
+    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} (equipo {teamTitle})",
+    "benefit-apply-email-application-phone-number": "Número de teléfono: {phoneNumber}",
+    "benefit-apply-email-application-title": "Información de solicitud de beneficios",
+    "benefit-apply-email-subject": "Has solicitado el beneficio {benefitTitle}",
+    "benefit-apply-email-title": "¡Gracias por solicitar el beneficio {benefitTitle}!",
+    "booking-ends-in-five-minutes-notification-body": "La reserva termina en 5 minutos. Mantener la sala limpia.",
+    "booking-start-notification-body": "La reserva comienza ahora. Ver detalles.",
+    "booking-start-with-code-notification-body": "La reserva comienza ahora. Usa el código {code} para ingresar. Ver detalles.",
+    "membership-plan-ends-in-five-days-notification-body": "Su plan de membresía termina en 5 días. Compre un nuevo plan para quedarse.",
+    "membership-plan-ends-tomorrow-notification-body": "Su plan de membresía termina mañana. Compre un nuevo plan para quedarse.",
+    "membership-plan-renew-in-five-days-notification-body": "Su plan de membresía se extenderá automáticamente en 5 días.",
+    "membership-plan-renew-tomorrow-notification-body": "Su plan de membresía se extenderá automáticamente mañana.",
+    "membership-request-approve-notification-body": "Solicitud para unirse a {organizationTitle} fue aprobada.",
+    "membership-request-approve-notification-title": "Solicitud de Membresía",
+    "membership-request-reject-notification-body": "Solicitud para unirse a {organizationTitle} fue rechazada.",
+    "membership-request-reject-notification-title": "Solicitud de Membresía",
+    "membership-request-review-notification-body": "Nueva solicitud para unirse a {organizationTitle}. Revisar y resolver.",
+    "membership-request-review-notification-title": "Solicitud de Membresía",
+    "powered-by-andcards": "Desarrollado por andcards"
   }
 }

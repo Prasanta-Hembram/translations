@@ -1,5 +1,28 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} posted to {organizationTitle}"
+    "announcement-notification-title": "{userName} posted to {organizationTitle}",
+    "benefit-apply-email-application-comment": "Comment: {comment}",
+    "benefit-apply-email-application-email": "Email: {email}",
+    "benefit-apply-email-application-full-name": "Full name: {userFullName}",
+    "benefit-apply-email-application-membership-full": "Membership information: {membershipInformation}",
+    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} team)",
+    "benefit-apply-email-application-phone-number": "Phone number: {phoneNumber}",
+    "benefit-apply-email-application-title": "Benefit Application Information",
+    "benefit-apply-email-subject": "You've applied for {benefitTitle} benefit",
+    "benefit-apply-email-title": "Thank you for applying for {benefitTitle} benefit!",
+    "booking-ends-in-five-minutes-notification-body": "Your booking ends in 5 minutes. Please keep the room clean.",
+    "booking-start-notification-body": "Your booking starts now. Tap for details.",
+    "booking-start-with-code-notification-body": "Your booking starts now. Use {code} to enter. Tap for details.",
+    "membership-plan-ends-in-five-days-notification-body": "Your membership plan ends in 5 days. Buy a new plan to stay.",
+    "membership-plan-ends-tomorrow-notification-body": "Your membership plan ends tomorrow. Buy a new plan to stay.",
+    "membership-plan-renew-in-five-days-notification-body": "Your membership plan will be automatically extended in 5 days.",
+    "membership-plan-renew-tomorrow-notification-body": "Your membership plan will be automatically extended tomorrow.",
+    "membership-request-approve-notification-body": "Request to join {organizationTitle} was approved.",
+    "membership-request-approve-notification-title": "Membership Request",
+    "membership-request-reject-notification-body": "Request to join {organizationTitle} was rejected.",
+    "membership-request-reject-notification-title": "Membership Request",
+    "membership-request-review-notification-body": "New request to join {organizationTitle}. Review and resolve.",
+    "membership-request-review-notification-title": "Membership Request",
+    "powered-by-andcards": "Powered by andcards"
   }
 }

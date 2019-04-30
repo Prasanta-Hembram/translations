@@ -1,5 +1,28 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다"
+    "announcement-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다",
+    "benefit-apply-email-application-comment": "내용: {comment}",
+    "benefit-apply-email-application-email": "이메일: {email}",
+    "benefit-apply-email-application-full-name": "성함: {userFullName}",
+    "benefit-apply-email-application-membership-full": "멤버십: {membershipInformation}",
+    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} 팀)",
+    "benefit-apply-email-application-phone-number": "전화번호: {phoneNumber}",
+    "benefit-apply-email-application-title": "베네핏 신청 정보",
+    "benefit-apply-email-subject": "{benefitTitle} 베네핏 신청 완료되었습니다",
+    "benefit-apply-email-title": "{benefitTitle} 베네핏을 신청해주셔서 감사합니다.",
+    "booking-ends-in-five-minutes-notification-body": "시설 예약은 5분 후 종료됩니다. 시설을 정리하세요.",
+    "booking-start-notification-body": "시설 예약이 시작되었습니다. 상세 정보를 확인하세요.",
+    "booking-start-with-code-notification-body": "시설 예약이 시작되었습니다. 출입 임시 비밀번호: {code}. 상세 정보를 확인하세요.",
+    "membership-plan-ends-in-five-days-notification-body": "5일 후에 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
+    "membership-plan-ends-tomorrow-notification-body": "내일 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
+    "membership-plan-renew-in-five-days-notification-body": "5일 후에 멤버십 플랜이 자동으로 연장됩니다.",
+    "membership-plan-renew-tomorrow-notification-body": "내일 멤버십 플랜이 자동으로 연장됩니다.",
+    "membership-request-approve-notification-body": "{organizationTitle}의 가입이 완료되었습니다.",
+    "membership-request-approve-notification-title": "회원가입 요청",
+    "membership-request-reject-notification-body": "{organizationTitle}의 가입이 거절되었습니다.",
+    "membership-request-reject-notification-title": "회원가입 요청",
+    "membership-request-review-notification-body": "{organizationTitle}에 회원가입 요청이 있습니다. 지금 확인해보세요.",
+    "membership-request-review-notification-title": "회원가입 요청",
+    "powered-by-andcards": "andcards 제공"
   }
 }

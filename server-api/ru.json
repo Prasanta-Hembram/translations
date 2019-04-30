@@ -1,5 +1,28 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} запостили в {organizationTitle}"
+    "announcement-notification-title": "{userName} запостили в {organizationTitle}",
+    "benefit-apply-email-application-comment": "Комментарий: {comment}",
+    "benefit-apply-email-application-email": "Email: {email}",
+    "benefit-apply-email-application-full-name": "Полное имя: {userFullName}",
+    "benefit-apply-email-application-membership-full": "Участие: {membershipInformation}",
+    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} (команда {teamTitle})",
+    "benefit-apply-email-application-phone-number": "Телефон: {phoneNumber}",
+    "benefit-apply-email-application-title": "Детали заявки",
+    "benefit-apply-email-subject": "Подтверждение заявки на {benefitTitle}",
+    "benefit-apply-email-title": "Ваша заявка на {benefitTitle} принята!",
+    "booking-ends-in-five-minutes-notification-body": "Ваше бронирование закончится через 5 минут. Оставьте комнату в чистоте.",
+    "booking-start-notification-body": "Ваше бронирование началось. Проверьте детали.",
+    "booking-start-with-code-notification-body": "Ваше бронирование началось. Код для входа: {code}. Проверьте детали.",
+    "membership-plan-ends-in-five-days-notification-body": "Ваш тарифный план истекает через 5 дней. Купите новый план, чтобы остаться.",
+    "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
+    "membership-plan-renew-in-five-days-notification-body": "Ваш тарифный план будет автоматически продлен через 5 дней.",
+    "membership-plan-renew-tomorrow-notification-body": "Ваш тарифный план будет автоматически продлен завтра.",
+    "membership-request-approve-notification-body": "Запрос на присоединение к {organizationTitle} был утвержден.",
+    "membership-request-approve-notification-title": "Запрос на присоединение",
+    "membership-request-reject-notification-body": "Запрос на присоединение к {organizationTitle} был отклонен.",
+    "membership-request-reject-notification-title": "Запрос на присоединение",
+    "membership-request-review-notification-body": "Новый запрос на присоединение к {organizationTitle}. Просмотреть и разрешить.",
+    "membership-request-review-notification-title": "Запрос на присоединение",
+    "powered-by-andcards": "Сервис от andcards"
   }
 }

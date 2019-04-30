@@ -1,5 +1,28 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} запостили до {organizationTitle}"
+    "announcement-notification-title": "{userName} запостили до {organizationTitle}",
+    "benefit-apply-email-application-comment": "Коментарій: {comment}",
+    "benefit-apply-email-application-email": "Email: {email}",
+    "benefit-apply-email-application-full-name": "Повне ім'я: {userFullName}",
+    "benefit-apply-email-application-membership-full": "Участь: {membershipInformation}",
+    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} (команда {teamTitle})",
+    "benefit-apply-email-application-phone-number": "Телефон: {phoneNumber}",
+    "benefit-apply-email-application-title": "Деталі запиту",
+    "benefit-apply-email-subject": "Підтвердження запиту на {benefitTitle}",
+    "benefit-apply-email-title": "Ваш запит на ${benefitTitle} отримано!",
+    "booking-ends-in-five-minutes-notification-body": "Ваша резервація закінчується за 5 хвилин. Залиште кімнату в чистоті.",
+    "booking-start-notification-body": "Ваша резервація розпочалася. Перегляньте деталі.",
+    "booking-start-with-code-notification-body": "Ваша резервація розпочалася. Код для входу: {code}. Перегляньте деталі.",
+    "membership-plan-ends-in-five-days-notification-body": "Ваш тарифний план стікає за 5 днів. Купіть новий план, щоб залишитися.",
+    "membership-plan-ends-tomorrow-notification-body": "Ваш тарифний план стікає вже завтра. Купіть новий план, щоб залишитися.",
+    "membership-plan-renew-in-five-days-notification-body": "Ваш тарифний план буде автоматично подовжено за 5 днів.",
+    "membership-plan-renew-tomorrow-notification-body": "Ваш тарифний план буде автоматично подовжено завтра.",
+    "membership-request-approve-notification-body": "Запит приєднатись до {organizationTitle} схвалено.",
+    "membership-request-approve-notification-title": "Запит на приєднання",
+    "membership-request-reject-notification-body": "Запит приєднатись до {organizationTitle} відхилено.",
+    "membership-request-reject-notification-title": "Запит на приєднання",
+    "membership-request-review-notification-body": "Новий запит приєднатись до {organizationTitle}. Переглянути та вирішити.",
+    "membership-request-review-notification-title": "Запит на приєднання",
+    "powered-by-andcards": "Сервіс від andcards"
   }
 }
