@@ -32,6 +32,11 @@
     "membership-request-reject-notification-title": "회원가입 요청",
     "membership-request-review-notification-body": "{organizationTitle}에 회원가입 요청이 있습니다. 지금 확인해보세요.",
     "membership-request-review-notification-title": "회원가입 요청",
+    "payment-receipt-email-customer-number": "Customer No.: {customerId}",
+    "payment-receipt-email-issue-date": "Issue Date: {receiptDate}",
+    "payment-receipt-email-room-reservation-item": "{organizationTitle} room reservation",
+    "payment-receipt-email-subject": "{organizationTitle} receipt",
+    "payment-receipt-email-title": "Receipt {receiptId}",
     "powered-by-andcards": "andcards 제공"
   }
 }

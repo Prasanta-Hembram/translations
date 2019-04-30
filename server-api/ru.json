@@ -32,6 +32,11 @@
     "membership-request-reject-notification-title": "Запрос на присоединение",
     "membership-request-review-notification-body": "Новый запрос на присоединение к {organizationTitle}. Просмотреть и разрешить.",
     "membership-request-review-notification-title": "Запрос на присоединение",
+    "payment-receipt-email-customer-number": "Customer No.: {customerId}",
+    "payment-receipt-email-issue-date": "Issue Date: {receiptDate}",
+    "payment-receipt-email-room-reservation-item": "{organizationTitle} room reservation",
+    "payment-receipt-email-subject": "{organizationTitle} receipt",
+    "payment-receipt-email-title": "Receipt {receiptId}",
     "powered-by-andcards": "Сервис от andcards"
   }
 }
