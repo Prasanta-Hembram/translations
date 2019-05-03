@@ -3,6 +3,6 @@
     "suite-page-organization-directory-user-balance-history-title": "Історія транзакцій",
     "suite-page-organization-directory-user-balance-history-title-personal": "Історія особистих транзакцій",
     "suite-page-organization-directory-user-balance-history-fetch-failure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
-    "suite-page-organization-directory-user-balance-history-list-empty": "Немає жодних транзакцій. 😢"
+    "suite-page-organization-directory-user-balance-history-list-empty": "Немає жодних транзакцій."
   }
 }
