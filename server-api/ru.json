@@ -1,6 +1,5 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} запостили в {organizationTitle}",
     "benefit-apply-email-application-comment": "Комментарий: {comment}",
     "benefit-apply-email-application-email": "Email: {email}",
     "benefit-apply-email-application-full-name": "Полное имя: {userFullName}",
@@ -27,6 +26,7 @@
     "bulk-invite-success-email-activation-note": "Активируйте свою учетную запись {organizationTitle} с помощью мобильного номера телефона {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Активировать",
     "bulk-invite-success-email-subject": "Приглашаем присоединиться к приложению {organizationTitle}",
+    "feed-post-notification-title": "{userName} запостили в {organizationTitle}",
     "membership-plan-ends-in-five-days-notification-body": "Ваш тарифный план истекает через 5 дней. Купите новый план, чтобы остаться.",
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифный план будет автоматически продлен через 5 дней.",
