@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-alerts-errors-announcement-missing": "Пост відсутній або видалений.",
     "suite-alerts-errors-booking-conflict": "Інша резервація вже існує у вибраний час.",
     "suite-alerts-errors-booking-day-unavailable": "Цей день недоступний.",
     "suite-alerts-errors-booking-invalid": "Не вдалося забронювати. Перевірте всі поля та спробуйте знов.",
@@ -8,6 +7,7 @@
     "suite-alerts-errors-booking-point-balance-invalid": "Вичерпано доступний баланс кредитів.",
     "suite-alerts-errors-booking-property-min-time-invalid": "Обраний проміжок часу менший, ніж мінімально допустимий.",
     "suite-alerts-errors-booking-unallowed-time-period": "Вибраний період бронювання недійсний.",
+    "suite-alerts-errors-feed-post-missing": "Пост відсутній або видалений.",
     "suite-alerts-errors-file-not-found": "Файл не завантажено.",
     "suite-alerts-errors-file-not-valid": "Звіт про помилки надіслано на {email}.",
     "suite-alerts-errors-last-integration-delete": "Останній метод входу не може бути видалений.",

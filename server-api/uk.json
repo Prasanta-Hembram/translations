@@ -1,6 +1,5 @@
 {
   "data": {
-    "announcement-notification-title": "{userName} запостили до {organizationTitle}",
     "benefit-apply-email-application-comment": "Коментарій: {comment}",
     "benefit-apply-email-application-email": "Email: {email}",
     "benefit-apply-email-application-full-name": "Повне ім'я: {userFullName}",
@@ -27,6 +26,7 @@
     "bulk-invite-success-email-activation-note": "Активуйте свій обліковий запис {organizationTitle} за номером телефону {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Активувати",
     "bulk-invite-success-email-subject": "Запрошуємо долучитися до застосунку {organizationTitle}",
+    "feed-post-notification-title": "{userName} запостили до {organizationTitle}",
     "membership-plan-ends-in-five-days-notification-body": "Ваш тарифний план стікає за 5 днів. Купіть новий план, щоб залишитися.",
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифний план стікає вже завтра. Купіть новий план, щоб залишитися.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифний план буде автоматично подовжено за 5 днів.",

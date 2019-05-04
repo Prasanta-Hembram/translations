@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-alerts-errors-announcement-missing": "Falta la publicación o se ha eliminado.",
     "suite-alerts-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo.",
     "suite-alerts-errors-booking-day-unavailable": "Este día no está disponible.",
     "suite-alerts-errors-booking-invalid": "No se pudo reservar. Comprueba todos los campos y vuelve a intentarlo.",
@@ -8,6 +7,7 @@
     "suite-alerts-errors-booking-point-balance-invalid": "El saldo de puntos permitido se ha gastado.",
     "suite-alerts-errors-booking-property-min-time-invalid": "El período de tiempo seleccionado es menor que el mínimo permitido.",
     "suite-alerts-errors-booking-unallowed-time-period": "El período de reserva no es válido.",
+    "suite-alerts-errors-feed-post-missing": "Falta la publicación o se ha eliminado.",
     "suite-alerts-errors-file-not-found": "El archivo no está cargado.",
     "suite-alerts-errors-file-not-valid": "Informe de error fue enviado a {email}.",
     "suite-alerts-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión.",
