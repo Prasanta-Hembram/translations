@@ -1,0 +1,12 @@
+{
+  "data": {
+    "payments-page-kakaopay-title": "Оплата по KakaoPay | andcards Suite",
+    "payments-page-kakaopay-field-email-label": "Email",
+    "payments-page-kakaopay-field-email-placeholder": "Ввести email",
+    "payments-page-kakaopay-page-title-booking": "Оплатить бронирование",
+    "payments-page-kakaopay-page-error": "Запрос на оплату уже обработан или не существует.",
+    "payments-page-kakaopay-page-success": "Оплата прошла успешно.",
+    "payments-page-kakaopay-pay-by-card-pay-button": "Оплатить {price}",
+    "payments-page-kakaopay-pay-by-card-pay-title": "Оплатить {paymentMethod}"
+  }
+}
