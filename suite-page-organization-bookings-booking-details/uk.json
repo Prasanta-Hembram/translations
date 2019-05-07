@@ -5,6 +5,7 @@
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Готівкою ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Особистими кредитами ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Командними кредитами ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Командними ({teamName}) кредитами ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
     "suite-page-organization-bookings-booking-details-booked-by": "Власник",
     "suite-page-organization-bookings-booking-details-default-purpose": "Резервація",
