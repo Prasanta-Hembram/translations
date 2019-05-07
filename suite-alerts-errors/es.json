@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-booking-booker-invalid": "Booker no tiene permiso para reservar en una habitación privada.",
     "suite-alerts-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo.",
     "suite-alerts-errors-booking-day-unavailable": "Este día no está disponible.",
     "suite-alerts-errors-booking-invalid": "No se pudo reservar. Comprueba todos los campos y vuelve a intentarlo.",
