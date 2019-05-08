@@ -38,7 +38,6 @@
     "suite-page-organization-bookings-booking-create-role-admin": "Administrator",
     "suite-page-organization-bookings-booking-create-role-member": "Member",
     "suite-page-organization-bookings-booking-create-role-moderator": "Moderator",
-    "suite-page-organization-bookings-booking-create-section-organization-select-label": "Membership Account",
     "suite-page-organization-bookings-booking-create-section-payment": "Payment",
     "suite-page-organization-bookings-booking-create-section-people": "People",
     "suite-page-organization-bookings-booking-create-section-people-capacity": "This room can fit up to {numberOfSeats} people.",

@@ -38,7 +38,6 @@
     "suite-page-organization-bookings-booking-create-role-admin": "Адміністратор",
     "suite-page-organization-bookings-booking-create-role-member": "Учасник",
     "suite-page-organization-bookings-booking-create-role-moderator": "Модератор",
-    "suite-page-organization-bookings-booking-create-section-organization-select-label": "Обліковий запис",
     "suite-page-organization-bookings-booking-create-section-payment": "Оплата",
     "suite-page-organization-bookings-booking-create-section-people": "Люди",
     "suite-page-organization-bookings-booking-create-section-people-capacity": "Максимальна кількість місць: {numberOfSeats}.",
