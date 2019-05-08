@@ -5,7 +5,7 @@
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Наличные ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Личные кредиты ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Командные кредиты ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Командные кредиты {teamName} ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредиты {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Удалить",
     "suite-page-organization-bookings-booking-details-booked-by": "Учасник",
     "suite-page-organization-bookings-booking-details-default-purpose": "Бронь",
