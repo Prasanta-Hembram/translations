@@ -34,7 +34,7 @@
     "suite-page-organization-bookings-booking-create-purpose": "Title",
     "suite-page-organization-bookings-booking-create-purpose-placeholder": "Type a title (public)",
     "suite-page-organization-bookings-booking-create-query-params": "Couldn't show the page. Try again.",
-    "suite-page-organization-bookings-booking-create-quite-description": "{pointQuote}% of your credits are available from {organizationName} for booking.",
+    "suite-page-organization-bookings-booking-create-quite-description": "{pointQuote}% of your credits are available from {organizationName} for booking. You have {pointBalanceInBranch} left.",
     "suite-page-organization-bookings-booking-create-role-admin": "Administrator",
     "suite-page-organization-bookings-booking-create-role-member": "Member",
     "suite-page-organization-bookings-booking-create-role-moderator": "Moderator",

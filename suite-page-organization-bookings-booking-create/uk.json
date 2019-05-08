@@ -34,7 +34,7 @@
     "suite-page-organization-bookings-booking-create-purpose": "Назва",
     "suite-page-organization-bookings-booking-create-purpose-placeholder": "Додати назву",
     "suite-page-organization-bookings-booking-create-query-params": "Неможливо відобразити сторінку. Повторіть спробу.",
-    "suite-page-organization-bookings-booking-create-quite-description": "{pointQuote}% ваших кредитів є доступні для бронювання з {organizationName}.",
+    "suite-page-organization-bookings-booking-create-quite-description": "{pointQuote}% ваших кредитів є доступні для бронювання з {organizationName}. You have {pointBalanceInBranch} left.",
     "suite-page-organization-bookings-booking-create-role-admin": "Адміністратор",
     "suite-page-organization-bookings-booking-create-role-member": "Учасник",
     "suite-page-organization-bookings-booking-create-role-moderator": "Модератор",
