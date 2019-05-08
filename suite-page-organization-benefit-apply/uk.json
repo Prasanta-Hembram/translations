@@ -3,8 +3,9 @@
     "suite-page-organization-benefit-apply-title": "Нова заявка",
     "suite-page-organization-benefit-apply-button-apply": "Відправити",
     "suite-page-organization-benefit-apply-error-email": "Уведіть правильний email.",
+    "suite-page-organization-benefit-apply-error-phone-number": "Уведіть номер телефону.",
+    "suite-page-organization-benefit-apply-name": "Ім'я",
     "suite-page-organization-benefit-apply-note": "Коментар",
-    "suite-page-organization-benefit-apply-note-placeholder": "Уведіть коментар",
-    "suite-page-organization-benefit-apply-error-phone-number": "Уведіть номер телефону."
+    "suite-page-organization-benefit-apply-note-placeholder": "Уведіть коментар"
   }
 }
