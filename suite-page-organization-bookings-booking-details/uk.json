@@ -5,7 +5,7 @@
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Готівка ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Особисті кредити ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Командні кредити ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Командні кредити {teamName} ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредити {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
     "suite-page-organization-bookings-booking-details-booked-by": "Власник",
     "suite-page-organization-bookings-booking-details-default-purpose": "Резервація",
