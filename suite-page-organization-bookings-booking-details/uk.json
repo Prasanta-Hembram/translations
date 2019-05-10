@@ -1,10 +1,11 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Безкоштовно",
-    "suite-page-organization-bookings-booking-details-action-button-money-card": "Карткою ({price})",
-    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Готівкою ({price})",
-    "suite-page-organization-bookings-booking-details-action-button-point-personal": "Особистими кредитами ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team": "Командними кредитами ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-money-card": "Картка ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Готівка ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-point-personal": "Особисті кредити ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team": "Командні кредити ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредити {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
     "suite-page-organization-bookings-booking-details-booked-by": "Власник",
     "suite-page-organization-bookings-booking-details-default-purpose": "Резервація",

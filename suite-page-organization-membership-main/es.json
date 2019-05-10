@@ -17,7 +17,7 @@
     "suite-page-organization-membership-main-income": "Ingresos totales (hasta la fecha).",
     "suite-page-organization-membership-main-kpi-detail": "KPIs mes a la fecha",
     "suite-page-organization-membership-main-occupancy-title": "Utilización del espacio",
-    "suite-page-organization-membership-main-occupancy": "Total de asientos ocupados dividido por el total de asientos disponibles.",
+    "suite-page-organization-membership-main-occupancy": "Porcentaje de asientos ocupados en el espacio de trabajo.",
     "suite-page-organization-membership-main-pages-printed-title": "Páginas impresas",
     "suite-page-organization-membership-main-personal-title": "Membresía personal",
     "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}",
