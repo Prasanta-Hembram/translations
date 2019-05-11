@@ -42,6 +42,6 @@
     "payment-receipt-email-room-reservation-item": "{organizationTitle} room reservation",
     "payment-receipt-email-subject": "{organizationTitle} receipt",
     "payment-receipt-email-title": "Receipt {receiptId}",
-    "powered-by-andcards": "Сервіс від andcards"
+    "powered-by-andcards": "Сервіс від {andcardsUrl}"
   }
 }
