@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-users-update-title": "Додати учасників: {teamTitle}",
-    "suite-page-organization-directory-team-users-update-no-cards": "Нікого додавати.",
+    "suite-page-organization-directory-team-users-update-no-users": "Нікого додавати.",
     "suite-page-organization-directory-team-users-update-nothing-found": "Нічого не знайдено.",
     "suite-page-organization-directory-team-users-update-search": "Пошук серед {numberOfMembers} учасників"
   }

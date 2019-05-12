@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-users-update-title": "Добавить учатников: {teamTitle}",
-    "suite-page-organization-directory-team-users-update-no-cards": "Никого добавлять.",
+    "suite-page-organization-directory-team-users-update-no-users": "Никого добавлять.",
     "suite-page-organization-directory-team-users-update-nothing-found": "Ничего не найдено.",
     "suite-page-organization-directory-team-users-update-search": "Поиск среди {numberOfMembers} участников"
   }

@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-user-info-validation-organizations-card-validation-title": "Ingrese los datos requeridos",
+    "suite-page-organization-user-info-validation-title": "Ingrese los datos requeridos",
     "suite-page-organization-user-info-validation-error-email": "Por favor, introduzca un correo electrónico correcto.",
     "suite-page-organization-user-info-validation-error-first-name": "Por favor ingrese un nombre",
     "suite-page-organization-user-info-validation-error-last-name": "Por favor ingrese un apellido",
@@ -8,6 +8,6 @@
     "suite-page-organization-user-info-validation-error-phone-number": "Por favor, ingrese un número de teléfono.",
     "suite-page-organization-user-info-validation-error-title": "Por favor, introduzca un título.",
     "suite-page-organization-user-info-validation-title": "Crear cuenta virtual",
-    "suite-page-organization-user-info-validation-my-cards-edit-fields-shared-basic-information": "Información básica"
+    "suite-page-organization-user-info-validation-section-information": "Información básica"
   }
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-users-update-title": "{teamTitle} 팀멤버를 추가",
-    "suite-page-organization-directory-team-users-update-no-cards": "아무것도 없습니다.",
+    "suite-page-organization-directory-team-users-update-no-users": "아무것도 없습니다.",
     "suite-page-organization-directory-team-users-update-nothing-found": "아무것도 없습니다.",
     "suite-page-organization-directory-team-users-update-search": "{numberOfMembers}명 중 검색하기"
   }
