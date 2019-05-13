@@ -5,11 +5,10 @@
     "suite-page-organization-bookings-main-availability-in-minutes": "{time} 예약 가능",
     "suite-page-organization-bookings-main-availability-in-use": "사용 중",
     "suite-page-organization-bookings-main-availability-unavailable": "사용 중",
-    "suite-page-organization-bookings-main-bookings-button-my-title": "전체 예약 내역",
-    "suite-page-organization-bookings-main-calendar-button-title": "전체 회의실 예약 현황",
     "suite-page-organization-bookings-main-default-booking-purpose": "예약",
     "suite-page-organization-bookings-main-get-failure": "회의실을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organization-bookings-main-my-bookings": "나의 예약 현황",
+    "suite-page-organization-bookings-main-my-bookings-no-upcoming": "다가오는 예약이 없습니다.",
+    "suite-page-organization-bookings-main-my-bookings-title": "나의 예약 현황",
     "suite-page-organization-bookings-main-rooms": "회의실"
   }
 }

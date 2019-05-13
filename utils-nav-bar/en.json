@@ -4,6 +4,7 @@
     "utils-nav-bar-button-cancel": "Cancel",
     "utils-nav-bar-button-create": "Create",
     "utils-nav-bar-button-edit": "Edit",
-    "utils-nav-bar-button-save": "Save"
+    "utils-nav-bar-button-save": "Save",
+    "utils-nav-bar-button-see-all": "See All"
   }
 }

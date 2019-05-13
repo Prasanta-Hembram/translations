@@ -4,6 +4,7 @@
     "utils-nav-bar-button-cancel": "Отменить",
     "utils-nav-bar-button-create": "Создать",
     "utils-nav-bar-button-edit": "Изменить",
-    "utils-nav-bar-button-save": "Сохранить"
+    "utils-nav-bar-button-save": "Сохранить",
+    "utils-nav-bar-button-see-all": "Смотреть все"
   }
 }
