@@ -12,7 +12,7 @@
     "suite-alerts-errors-file-not-found": "Файл не загружен.",
     "suite-alerts-errors-file-not-valid": "Отчет об ошибках отправлен на {email}.",
     "suite-alerts-errors-last-integration-delete": "Последний метод входа не может быть удален.",
-    "suite-alerts-errors-invalid-params": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
+    "suite-alerts-errors-internal-error": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
     "suite-alerts-errors-no-enough-cash": "Недостаточно наличных.",
     "suite-alerts-errors-no-internet": "Нет интернет-соединения.",
     "suite-alerts-errors-no-printers-connections": "В коворкинга нет данных о пользователей принтеров.",

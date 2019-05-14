@@ -12,7 +12,7 @@
     "suite-alerts-errors-file-not-found": "The file was not uploaded.",
     "suite-alerts-errors-file-not-valid": "Error report sent to {email}.",
     "suite-alerts-errors-last-integration-delete": "Last login method can't be deleted.",
-    "suite-alerts-errors-invalid-params": "Something went wrong. Try again.",
+    "suite-alerts-errors-internal-error": "Something went wrong. Try again.",
     "suite-alerts-errors-no-enough-cash": "Not enough cash.",
     "suite-alerts-errors-no-internet": "No internet connection.",
     "suite-alerts-errors-no-printers-connections": "The workspace has no printer integration.",

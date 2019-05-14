@@ -12,7 +12,7 @@
     "suite-alerts-errors-file-not-found": "Файл не завантажено.",
     "suite-alerts-errors-file-not-valid": "Звіт про помилки надіслано на {email}.",
     "suite-alerts-errors-last-integration-delete": "Останній метод входу не може бути видалений.",
-    "suite-alerts-errors-invalid-params": "Щось пішло не так. Будь ласка спробуйте ще раз.",
+    "suite-alerts-errors-internal-error": "Щось пішло не так. Будь ласка спробуйте ще раз.",
     "suite-alerts-errors-no-enough-cash": "Недостатньо готівки.",
     "suite-alerts-errors-no-internet": "Немає інтернет-з'єднання.",
     "suite-alerts-errors-no-printers-connections": "В коворкінгу немає даних про користувачів принтерів.",
