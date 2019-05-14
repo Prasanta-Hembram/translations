@@ -2,10 +2,13 @@
   "data": {
     "suite-page-organization-benefit-apply-title": "베네핏 신청",
     "suite-page-organization-benefit-apply-button-apply": "제출하기",
+    "suite-page-organization-benefit-apply-button-done": "확인",
     "suite-page-organization-benefit-apply-error-email": "이메일을 입력하세요.",
     "suite-page-organization-benefit-apply-error-phone-number": "전화번호를 입력하세요.",
     "suite-page-organization-benefit-apply-name": "성함",
     "suite-page-organization-benefit-apply-note": "내용",
-    "suite-page-organization-benefit-apply-note-placeholder": "내용을 입력하기"
+    "suite-page-organization-benefit-apply-note-placeholder": "내용을 입력하기",
+    "suite-page-organization-benefit-apply-success-text": "Application is successful. The confirmation email is on its way.",
+    "suite-page-organization-benefit-apply-success-title": "Good job!"
   }
 }
