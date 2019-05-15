@@ -1,0 +1,21 @@
+{
+  "data": {
+    "suite-page-organization-membership-plan-assign-user-title": "Призначити план",
+    "suite-page-organization-membership-plan-assign-user-benefits-title": "Переваги",
+    "suite-page-organization-membership-plan-assign-user-button-add-plan": "Створити план",
+    "suite-page-organization-membership-plan-assign-user-button-for-free": "Призначити безкоштовно",
+    "suite-page-organization-membership-plan-assign-user-button-for-price": "Призначити за {price}",
+    "suite-page-organization-membership-plan-assign-user-button-label": "Призначити",
+    "suite-page-organization-membership-plan-assign-user-error-empty-plans": "Тарифні плани відсутні.",
+    "suite-page-organization-membership-plan-assign-user-error-not-found": "Ця сторінка не існує або її було видалено.",
+    "suite-page-organization-membership-plan-assign-user-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
+    "suite-page-organization-membership-plan-assign-user-payment": "Оплата",
+    "suite-page-organization-membership-plan-assign-user-period-from-title": "Початок",
+    "suite-page-organization-membership-plan-assign-user-period-title": "Період",
+    "suite-page-organization-membership-plan-assign-user-plan-description": "Опис",
+    "suite-page-organization-membership-plan-assign-user-plan-price-money": "Ціна, {currencySymbol}",
+    "suite-page-organization-membership-plan-assign-user-plan-price-points": "Кредити, {pointEmoji}",
+    "suite-page-organization-membership-plan-assign-user-plan-title": "План",
+    "suite-page-organization-membership-plan-assign-user-repeat-label": "Поновлення"
+  }
+}

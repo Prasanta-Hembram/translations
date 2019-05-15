@@ -1,0 +1,21 @@
+{
+  "data": {
+    "suite-page-organization-membership-plan-assign-user-title": "Asignar plan",
+    "suite-page-organization-membership-plan-assign-user-benefits-title": "Beneficios",
+    "suite-page-organization-membership-plan-assign-user-button-add-plan": "Crear plan",
+    "suite-page-organization-membership-plan-assign-user-button-for-free": "Asignar gratis",
+    "suite-page-organization-membership-plan-assign-user-button-for-price": "Asignar por {price}",
+    "suite-page-organization-membership-plan-assign-user-button-label": "Asignar",
+    "suite-page-organization-membership-plan-assign-user-error-empty-plans": "No hay planes todavía.",
+    "suite-page-organization-membership-plan-assign-user-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
+    "suite-page-organization-membership-plan-assign-user-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
+    "suite-page-organization-membership-plan-assign-user-payment": "Pago",
+    "suite-page-organization-membership-plan-assign-user-period-from-title": "Comienzo",
+    "suite-page-organization-membership-plan-assign-user-period-title": "Período",
+    "suite-page-organization-membership-plan-assign-user-plan-description": "Descripción",
+    "suite-page-organization-membership-plan-assign-user-plan-price-money": "Precio, {currencySymbol}",
+    "suite-page-organization-membership-plan-assign-user-plan-price-points": "Precio, {pointEmoji}",
+    "suite-page-organization-membership-plan-assign-user-plan-title": "Plan",
+    "suite-page-organization-membership-plan-assign-user-repeat-label": "Repetir"
+  }
+}
