@@ -1,0 +1,23 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-plan-details-active-title": "Текущий план",
+    "suite-page-organization-directory-user-plan-details-active-title-with-plan-title": "Текущий план: {title}",
+    "suite-page-organization-directory-user-plan-details-active-benefits-title": "Преимущества",
+    "suite-page-organization-directory-user-plan-details-active-button-assign": "Присвоить",
+    "suite-page-organization-directory-user-plan-details-active-credits": "Кредиты",
+    "suite-page-organization-directory-user-plan-details-active-deactivate": "Отменить",
+    "suite-page-organization-directory-user-plan-details-active-empty": "Этого плана не существует, или срок его действия уже закончился.",
+    "suite-page-organization-directory-user-plan-details-active-error-user-not-found": "Участника не существует или же он был удален.",
+    "suite-page-organization-directory-user-plan-details-active-payment": "Оплата",
+    "suite-page-organization-directory-user-plan-details-active-period-from-title": "Начало",
+    "suite-page-organization-directory-user-plan-details-active-period-pay-with-card-title": "Карточкой",
+    "suite-page-organization-directory-user-plan-details-active-period-pay-with-cash-title": "Наличные",
+    "suite-page-organization-directory-user-plan-details-active-period-pay-with-title": "Метод оплаты",
+    "suite-page-organization-directory-user-plan-details-active-period-title": "Период",
+    "suite-page-organization-directory-user-plan-details-active-period-until-title": "Конец",
+    "suite-page-organization-directory-user-plan-details-active-plan-description": "Описание",
+    "suite-page-organization-directory-user-plan-details-active-price": "Цена",
+    "suite-page-organization-directory-user-plan-details-active-repeat": "Продление",
+    "suite-page-organization-directory-user-plan-details-active-type": "Тип"
+  }
+}
