@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-my-workspaces-create-title": "새 공간",
+    "suite-page-my-workspaces-create-button-create": "등록하기",
+    "suite-page-my-workspaces-create-currency-label": "화폐 단위",
+    "suite-page-my-workspaces-create-organization-name": "공간 명",
+    "suite-page-my-workspaces-create-organization-name-placeholder": "공간 명 입력하기",
+    "suite-page-my-workspaces-create-timezone-label": "시간대"
+  }
+}

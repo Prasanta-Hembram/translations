@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-my-workspaces-main-main-title": "Мои коворкинги",
+    "suite-page-my-workspaces-main-button-create": "Создать новый",
+    "suite-page-my-workspaces-main-button-join": "Присоединиться",
+    "suite-page-my-workspaces-main-button-search": "Поиск",
+    "suite-page-my-workspaces-main-get-failure": "Не удалось отобразить коворкинги. Проверьте интернет-соединение.",
+    "suite-page-my-workspaces-main-no-coworkings": "Присоединяйтесь к существующему или открывайте новый коворкинг за считанные секунды.",
+    "suite-page-my-workspaces-main-no-coworkings-title": "Поехали!",
+    "suite-page-my-workspaces-main-requested-text": "Ваш запрос рассматривается администратором. Мы сообщим когда решение будет принято."
+  }
+}

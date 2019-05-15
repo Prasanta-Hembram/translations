@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-my-workspaces-main-main-title": "Mis espacios",
+    "suite-page-my-workspaces-main-button-create": "Crear nuevo",
+    "suite-page-my-workspaces-main-button-join": "Buscar existente",
+    "suite-page-my-workspaces-main-button-search": "Buscar",
+    "suite-page-my-workspaces-main-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
+    "suite-page-my-workspaces-main-no-coworkings": "Unirse a existente o abrir un nuevo espacio de trabajo en segundos.",
+    "suite-page-my-workspaces-main-no-coworkings-title": "Empecemos!",
+    "suite-page-my-workspaces-main-requested-text": "Su solicitud está siendo revisada por el administrador. Te avisaremos una vez que se resuelva."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-my-workspaces-create-title": "Nuevo espacio de trabajo",
+    "suite-page-my-workspaces-create-button-create": "Crear",
+    "suite-page-my-workspaces-create-currency-label": "La moneda",
+    "suite-page-my-workspaces-create-organization-name": "Nombre",
+    "suite-page-my-workspaces-create-organization-name-placeholder": "Ingrese su nombre",
+    "suite-page-my-workspaces-create-timezone-label": "Zona horaria"
+  }
+}
