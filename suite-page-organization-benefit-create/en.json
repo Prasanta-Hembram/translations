@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "New Benefit",
+    "suite-page-organization-benefit-create-benefit-application-type-label": "Application",
     "suite-page-organization-benefit-create-benefit-category": "Category",
     "suite-page-organization-benefit-create-description-placeholder": "Type a description",
     "suite-page-organization-benefit-create-description-title": "Description",
