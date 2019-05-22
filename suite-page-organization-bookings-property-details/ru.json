@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-property-details-title": "Подробно о {propertyName}",
-    "suite-page-organization-property-details-delete-failure": "Не удалось удалить переговорную.",
-    "suite-page-organization-property-details-delete-repeat": "Попробовать еще раз",
     "suite-page-organization-property-details-no-property": "Переговорная не существует или же была удалена.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность бронирования {duration}.",
@@ -12,7 +10,5 @@
     "suite-page-organization-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
     "suite-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
     "suite-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час.",
-    "suite-page-organization-property-details-property-actions": "Дополнительные действия",
-    "suite-page-organization-property-details-property-action-delete": "Удалить переговорную"
   }
 }

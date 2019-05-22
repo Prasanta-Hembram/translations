@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-property-details-title": "Більше про {propertyName}",
-    "suite-page-organization-property-details-delete-failure": "Не вдалося видалити кімнату.",
-    "suite-page-organization-property-details-delete-repeat": "Спробувати знову",
     "suite-page-organization-property-details-no-property": "Кімната не існує або ж була видалена.",
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
@@ -12,7 +10,5 @@
     "suite-page-organization-property-details-price-money": "- Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-property-details-price-points": "- Резервація коштує {priceCredits} за годину.",
     "suite-page-organization-property-details-price-points-and-money": "- Резервація коштує {priceMoney} або {priceCredits} за годину.",
-    "suite-page-organization-property-details-property-actions": "Додаткові дії",
-    "suite-page-organization-property-details-property-action-delete": "Видалити"
   }
 }
