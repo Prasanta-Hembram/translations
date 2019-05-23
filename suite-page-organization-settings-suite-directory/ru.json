@@ -1,9 +1,6 @@
 {
   "data": {
     "suite-page-organization-settings-suite-directory-title": "Каталог",
-    "suite-page-organization-settings-suite-directory-code": "Тег",
-    "suite-page-organization-settings-suite-directory-code-description": "Поделитесь уникальным тегом коворкинга, чтобы участники могли сами его найти.",
-    "suite-page-organization-settings-suite-directory-contact-to-support": "Этот тег также используется для поиска вашего коворкинга на andcards.com/s. Чтобы его изменить, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-suite-directory-permission-admin-moderator": "Администраторы и модераторы",
     "suite-page-organization-settings-suite-directory-permission-all-members": "Все участники",
     "suite-page-organization-settings-suite-directory-permission-label": "Доступ",
