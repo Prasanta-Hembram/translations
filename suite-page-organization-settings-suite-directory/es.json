@@ -4,8 +4,6 @@
     "suite-page-organization-settings-suite-directory-permission-admin-moderator": "Administradores y moderadores",
     "suite-page-organization-settings-suite-directory-permission-all-members": "Todos los miembros",
     "suite-page-organization-settings-suite-directory-permission-label": "Visibilidad",
-    "suite-page-organization-settings-suite-directory-section-invite-members-title": "Invitar a los miembros",
-    "suite-page-organization-settings-suite-directory-section-invite-members-via-link-description": "Comparta un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
     "suite-page-organization-settings-suite-directory-section-required-personal-information-title": "Información personal requerida",
     "suite-page-organization-settings-suite-directory-section-required-personal-information-description": "Requiera que todos los miembros compartan la información personal."
   }

@@ -3,6 +3,8 @@
     "suite-page-organization-directory-users-invite-title": "Пригласить",
     "suite-page-organization-directory-users-invite-button-download-template": "Скачать шаблон",
     "suite-page-organization-directory-users-invite-button-upload": "Загрузить файл",
+    "suite-page-organization-directory-users-invite-by-link-title": "Пригласить участников",
+    "suite-page-organization-directory-users-invite-by-link-via-link-description": "Поделитесь публичной ссылкой на коворкинг, чтобы пригласить участников.",
     "suite-page-organization-directory-users-invite-desc": "Загрузите специально отформатированный файл со списком ваших участников, чтобы пригласить их присоединиться к коворкингу",
     "suite-page-organization-directory-users-invite-label": "Пригласить всех участников"
   }

@@ -3,6 +3,8 @@
     "suite-page-organization-directory-users-invite-title": "초대하기",
     "suite-page-organization-directory-users-invite-button-download-template": "양식 다운로드",
     "suite-page-organization-directory-users-invite-button-upload": "파일 업로드",
+    "suite-page-organization-directory-users-invite-by-link-title": "회원초대",
+    "suite-page-organization-directory-users-invite-by-link-via-link-description": "회원은 아래의 링크를 통해서 초대하세요.",
     "suite-page-organization-directory-users-invite-desc": "andcards 공간에 많은 회원들을 한 번에 초대하고 싶으시다면 회원 목록을 특별히 형식된 파일에 추가하여 업로드해주세요.",
     "suite-page-organization-directory-users-invite-label": "한 번에 회원을 초대하세요"
   }

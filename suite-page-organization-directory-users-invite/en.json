@@ -3,6 +3,8 @@
     "suite-page-organization-directory-users-invite-title": "Invite",
     "suite-page-organization-directory-users-invite-button-download-template": "Download Template",
     "suite-page-organization-directory-users-invite-button-upload": "Upload File",
+    "suite-page-organization-directory-users-invite-by-link-title": "Invite Members",
+    "suite-page-organization-directory-users-invite-by-link-via-link-description": "Share a public link to workspace, so that anyone can request membership.",
     "suite-page-organization-directory-users-invite-desc": "Upload a specially formatted file with a list of your members to mass invite them to join this andcards workspace.",
     "suite-page-organization-directory-users-invite-label": "Mass invite members"
   }

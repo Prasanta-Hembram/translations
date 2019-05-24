@@ -3,6 +3,8 @@
     "suite-page-organization-directory-users-invite-title": "Invitación",
     "suite-page-organization-directory-users-invite-button-download-template": "Descargar plantilla",
     "suite-page-organization-directory-users-invite-button-upload": "Subir archivo",
+    "suite-page-organization-directory-users-invite-by-link-title": "Invitar a los miembros",
+    "suite-page-organization-directory-users-invite-by-link-via-link-description": "Comparta un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
     "suite-page-organization-directory-users-invite-desc": "Cargue un archivo con formato especial con una lista de sus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
     "suite-page-organization-directory-users-invite-label": "Misa invitar a los miembros"
   }

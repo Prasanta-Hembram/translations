@@ -3,6 +3,8 @@
     "suite-page-organization-directory-users-invite-title": "Запросити",
     "suite-page-organization-directory-users-invite-button-download-template": "Скачати шаблон",
     "suite-page-organization-directory-users-invite-button-upload": "Завантажити файл",
+    "suite-page-organization-directory-users-invite-by-link-title": "Запросити учасників",
+    "suite-page-organization-directory-users-invite-by-link-via-link-description": "Поділіться публічним посиланням на коворкінг, щоб дозволити будь-кому подати заявку на участь.",
     "suite-page-organization-directory-users-invite-desc": "Завантажте спеціально відформатований файл зі списком ваших учасників, щоб запросити їх приєднатися до коворкінгу.",
     "suite-page-organization-directory-users-invite-label": "Запросити всіх учасників"
   }
