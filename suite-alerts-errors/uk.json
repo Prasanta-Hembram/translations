@@ -21,6 +21,7 @@
     "suite-alerts-errors-organization-update-params-invalid": "Не вдалося оновити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-payment-price-high": "Сума занадто велика. Максимум становить 5000 доларів США.",
     "suite-alerts-errors-payment-price-low": "Сума занадто мала. Мінімум становить 0,5 долара США.",
+    "suite-alerts-errors-payment-price-invalid": "Сума неправильна. Мінімальна та максимальна допустима сума становить 0,5 та 500 доларів США відповідно.",
     "suite-alerts-errors-plan-assign-in-future": "Неможливо призначити план, що починається у майбутньому.",
     "suite-alerts-errors-plan-delete-reject": "Неможливо видалити. План використовується.",
     "suite-alerts-errors-plan-periods-empty": "Потрібно вибрати хоча б один період.",

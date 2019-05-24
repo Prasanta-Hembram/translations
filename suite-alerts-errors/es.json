@@ -21,6 +21,7 @@
     "suite-alerts-errors-organization-update-params-invalid": "El espacio de trabajo no se pudo actualizar. Revise todos los campos e intente nuevamente.",
     "suite-alerts-errors-payment-price-high": "El monto es demasiado alto. El cargo máximo es equivalente a US $ 5,000.",
     "suite-alerts-errors-payment-price-low": "La cantidad es demasiado pequeña. El cargo mínimo es equivalente a US $ 0.5.",
+    "suite-alerts-errors-payment-price-invalid": "El precio no es válido. El cargo mínimo y máximo es de US $ 0.5 y equivalente de US $ 500 respectivamente.",
     "suite-alerts-errors-plan-assign-in-future": "No se puede asignar el plan para una fecha futura.",
     "suite-alerts-errors-plan-delete-reject": "No se puede eliminar. Plan en uso.",
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",
