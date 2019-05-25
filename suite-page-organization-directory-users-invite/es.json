@@ -1,13 +1,16 @@
 {
   "data": {
     "suite-page-organization-directory-users-invite-title": "Invitación",
-    "suite-page-organization-directory-users-invite-button-download-template": "Descargar plantilla",
-    "suite-page-organization-directory-users-invite-button-upload": "Subir archivo",
     "suite-page-organization-directory-users-invite-by-link-label": "Invitar a los miembros",
     "suite-page-organization-directory-users-invite-by-link-description": "Comparta un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
     "suite-page-organization-directory-users-invite-by-tag-label": "Etiqueta",
     "suite-page-organization-directory-users-invite-by-tag-description": "Comparta esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía.",
-    "suite-page-organization-directory-users-invite-desc": "Cargue un archivo con formato especial con una lista de sus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
-    "suite-page-organization-directory-users-invite-label": "Misa invitar a los miembros"
+    "suite-page-organization-directory-users-invite-mass-button-download-template": "Descargar plantilla",
+    "suite-page-organization-directory-users-invite-mass-button-upload": "Subir archivo",
+    "suite-page-organization-directory-users-invite-mass-desc": "Cargue un archivo con formato especial con una lista de sus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
+    "suite-page-organization-directory-users-invite-mass-error-description": "User invitation went wrong. The file you uploaded has several problems in the following elements:",
+    "suite-page-organization-directory-users-invite-mass-error-list-item-label": "{fieldColumnName} at row {fieldRowNumber} ({fieldValue}).",
+    "suite-page-organization-directory-users-invite-mass-error-note": "Please, fix the errors and upload the file again.",
+    "suite-page-organization-directory-users-invite-mass-label": "Misa invitar a los miembros"
   }
 }
