@@ -1,7 +1,7 @@
 {
   "data": {
     "utils-nav-bar-button-back": "Regresar",
-    "utils-nav-bar-button-cancel": "Cancelar",
+    "utils-nav-bar-button-close": "Cancelar",
     "utils-nav-bar-button-create": "Crear",
     "utils-nav-bar-button-edit": "Editar",
     "utils-nav-bar-button-save": "Guardar",
