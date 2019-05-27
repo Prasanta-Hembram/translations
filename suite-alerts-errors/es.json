@@ -25,6 +25,7 @@
     "suite-alerts-errors-plan-assign-in-future": "No se puede asignar el plan para una fecha futura.",
     "suite-alerts-errors-plan-delete-reject": "No se puede eliminar. Plan en uso.",
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",
+    "suite-alerts-errors-plan-price-invalid": "El precio no es válido. Verifique todos los precios del plan e intente nuevamente.",
     "suite-alerts-errors-plan-sold-out": "El plan está agotado.",
     "suite-alerts-errors-property-is-missing": "No se pudo reservar para esta habitación.",
     "suite-alerts-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta.",
