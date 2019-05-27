@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Безкоштовно",
+    "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Team Invoice ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Картка ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Готівка ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Особисті кредити ({balance})",

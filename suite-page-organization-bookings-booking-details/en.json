@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Free",
+    "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Team Invoice ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Card ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Cash ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Personal Credits ({balance})",
