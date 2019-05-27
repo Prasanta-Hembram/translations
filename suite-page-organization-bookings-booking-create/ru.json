@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-create-title": "Новое бронирование",
-    "suite-page-organization-bookings-booking-create-balance-action-button-invoice-team": "Team Invoice",
+    "suite-page-organization-bookings-booking-create-balance-action-button-invoice-team": "Инвойс команды",
     "suite-page-organization-bookings-booking-create-balance-action-button-money": "Наличными ({price})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-personal": "Личные кредиты ({balance})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-team": "Командные кредиты ({balance})",
