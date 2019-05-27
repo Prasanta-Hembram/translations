@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-create-title": "Nueva reserva",
-    "suite-page-organization-bookings-booking-create-balance-action-button-invoice-team": "Team Invoice",
+    "suite-page-organization-bookings-booking-create-balance-action-button-invoice-team": "Factura de equipo",
     "suite-page-organization-bookings-booking-create-balance-action-button-money": "Efectivo ({price})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-personal": "Créditos personales ({balance})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-team": "Créditos del equipo ({balance})",
