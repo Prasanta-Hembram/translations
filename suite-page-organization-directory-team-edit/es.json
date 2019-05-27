@@ -11,6 +11,7 @@
     "suite-page-organization-directory-team-edit-icon": "Ícono",
     "suite-page-organization-directory-team-edit-name": "Nombre",
     "suite-page-organization-directory-team-edit-name-placeholder": "Ingrese su nombre",
+    "suite-page-organization-directory-team-edit-no-members-in-team": "Este equipo aún no tiene miembros.",
     "suite-page-organization-directory-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-team-edit-section-balance-expiring-balance-description": "Expira el {date}.",
     "suite-page-organization-directory-team-edit-section-balance-expiring-balance-title": "Créditos que expira",
