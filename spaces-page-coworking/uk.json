@@ -25,14 +25,7 @@
     "spaces-page-coworking-message-us-type-name": "Уведіть ім'я",
     "spaces-page-coworking-message-us-type-text": "Уведіть повідомлення",
     "spaces-page-coworking-navigation-world": "Світ",
-    "spaces-page-coworking-plans": "Тарифні плани",
     "spaces-page-coworking-running-this-space-text": "🕹️ Керуєте цим закладом? Відкрити {suiteWorkspaceUrl} щоб покращити цю сторінку.",
-    "spaces-page-coworking-service-meeting-room": "Кімната для переговорів",
-    "spaces-page-coworking-service-meeting-rooms": "Кімнати для переговорів",
-    "spaces-page-coworking-service-plans-price-from": "Від {price}",
-    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats} доступно",
-    "spaces-page-coworking-service-plans-seats-only-left": "Залишилось лише {numberOfSeats}",
-    "spaces-page-coworking-service-plans-seats-sold-out": "Продано",
     "spaces-page-coworking-share": "Поділитися",
     "spaces-page-coworking-view-photos": "Переглянути фото"
   }

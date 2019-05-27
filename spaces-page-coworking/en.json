@@ -25,14 +25,7 @@
     "spaces-page-coworking-message-us-type-name": "Type Name",
     "spaces-page-coworking-message-us-type-text": "Type Text",
     "spaces-page-coworking-navigation-world": "World",
-    "spaces-page-coworking-plans": "Membership Plans",
     "spaces-page-coworking-running-this-space-text": "🕹️ Running this space? Open {suiteWorkspaceUrl} to improve this page.",
-    "spaces-page-coworking-service-meeting-room": "Meeting Room",
-    "spaces-page-coworking-service-meeting-rooms": "Meeting Rooms",
-    "spaces-page-coworking-service-plans-price-from": "From {price}",
-    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats} available",
-    "spaces-page-coworking-service-plans-seats-only-left": "Only {numberOfSeats} left",
-    "spaces-page-coworking-service-plans-seats-sold-out": "Sold out",
     "spaces-page-coworking-share": "Share",
     "spaces-page-coworking-view-photos": "View Photos"
   }

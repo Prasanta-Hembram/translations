@@ -25,14 +25,7 @@
     "spaces-page-coworking-message-us-type-name": "성함 입력하기",
     "spaces-page-coworking-message-us-type-text": "내용 입력하기",
     "spaces-page-coworking-navigation-world": "세계",
-    "spaces-page-coworking-plans": "멤버십 플랜",
     "spaces-page-coworking-running-this-space-text": "🕹️ 본 공간의 매니저님이신가요? 이 페이지를 개선하기 위해 {suiteWorkspaceUrl} 앱으로 들어가세요.",
-    "spaces-page-coworking-service-meeting-room": "회의실",
-    "spaces-page-coworking-service-meeting-rooms": "모임공간",
-    "spaces-page-coworking-service-plans-price-from": "{price} 이상",
-    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats}개 구매 가능",
-    "spaces-page-coworking-service-plans-seats-only-left": "재고 {numberOfSeats}개",
-    "spaces-page-coworking-service-plans-seats-sold-out": "매진",
     "spaces-page-coworking-share": "공유하기",
     "spaces-page-coworking-view-photos": "사진 보기"
   }

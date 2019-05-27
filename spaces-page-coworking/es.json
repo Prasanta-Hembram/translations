@@ -25,14 +25,7 @@
     "spaces-page-coworking-message-us-type-name": "Tipo un nombre",
     "spaces-page-coworking-message-us-type-text": "Tipo el texto",
     "spaces-page-coworking-navigation-world": "Mundo",
-    "spaces-page-coworking-plans": "Planes de membresía",
     "spaces-page-coworking-running-this-space-text": "🕹️ ¿Administrando este espacio? Abre la suiteWorkspaceUrl} para mejorar esta página.",
-    "spaces-page-coworking-service-meeting-room": "Sala de Reuniones",
-    "spaces-page-coworking-service-meeting-rooms": "Salas de Reuniones",
-    "spaces-page-coworking-service-plans-price-from": "Desde {price}",
-    "spaces-page-coworking-service-plans-seats-available": "{numberOfSeats} disponibles",
-    "spaces-page-coworking-service-plans-seats-only-left": "Solo quedan {numberOfSeats}",
-    "spaces-page-coworking-service-plans-seats-sold-out": "Agotado",
     "spaces-page-coworking-share": "Compartir",
     "spaces-page-coworking-view-photos": "Ver fotos"
   }
