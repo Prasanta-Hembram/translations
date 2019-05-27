@@ -9,6 +9,6 @@
     "suite-page-organization-property-details-overview-title": "안내",
     "suite-page-organization-property-details-price-money": "- 이용료는 시간 당 {priceMoney}입니다.",
     "suite-page-organization-property-details-price-points": "- 이용료는 시간 당 {priceCredits}입니다.",
-    "suite-page-organization-property-details-price-points-and-money": "- 이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다.",
+    "suite-page-organization-property-details-price-points-and-money": "- 이용료는 시간 당 {priceMoney} 혹은 {priceCredits}입니다."
   }
 }

@@ -9,6 +9,6 @@
     "suite-page-organization-property-details-overview-title": "Overview",
     "suite-page-organization-property-details-price-money": "- The price of a booking is {priceMoney} per hour.",
     "suite-page-organization-property-details-price-points": "- The price of a booking is {priceCredits} per hour.",
-    "suite-page-organization-property-details-price-points-and-money": "- The price of a booking is {priceMoney} or {priceCredits} per hour.",
+    "suite-page-organization-property-details-price-points-and-money": "- The price of a booking is {priceMoney} or {priceCredits} per hour."
   }
 }
