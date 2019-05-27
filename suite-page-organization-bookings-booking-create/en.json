@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-create-title": "New booking",
+    "suite-page-organization-bookings-booking-create-balance-action-button-invoice-team": "Team Invoice",
     "suite-page-organization-bookings-booking-create-balance-action-button-money": "Cash ({price})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-personal": "Personal Credits ({balance})",
     "suite-page-organization-bookings-booking-create-balance-action-button-point-team": "Team Credits ({balance})",
