@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-booking-create-by-team-invoice-yes": "OK",
-    "alert-confirmation-organization-booking-create-by-team-invoice-no": "Cancel",
-    "alert-confirmation-organization-booking-create-by-team-invoice-title": "Additional charge incurred",
-    "alert-confirmation-organization-booking-create-by-team-invoice-text": "The expense will be added to the team invoice. At the end of the month, admin will send the invoice to your team manager to pay."
+    "alert-confirmation-organization-booking-create-by-team-invoice-yes": "확인",
+    "alert-confirmation-organization-booking-create-by-team-invoice-no": "취소",
+    "alert-confirmation-organization-booking-create-by-team-invoice-title": "추가 비용 발생",
+    "alert-confirmation-organization-booking-create-by-team-invoice-text": "비용은 팀 인보이스에 추가됩니다. 월말에, 관리자가 당신의 팀 매니저에게 인보이스를 보내어 지불하겠습니다."
   }
 }
