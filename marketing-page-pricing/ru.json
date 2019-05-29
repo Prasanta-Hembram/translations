@@ -2,13 +2,6 @@
   "data": {
     "marketing-page-pricing-title": "Цены — сколько стоит andcards для коворкингов | andcards Suite",
     "marketing-page-pricing-description": "Бесплатно для индивидуальных пользователей, недорого для коворкингов и доступная подписка для компаний. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
-    "marketing-page-pricing-contact-us": "Связаться с нами",
-    "marketing-page-pricing-features-benefits": "Позвольте участникам находить и бронировать специальные предложения.",
-    "marketing-page-pricing-features-booking": "Бронирование переговорные и помещения для мероприятий.",
-    "marketing-page-pricing-features-membership": "Управление доступным офисным пространством.",
-    "marketing-page-pricing-features-directory": "Управление контактами и активностью клиентов.",
-    "marketing-page-pricing-features-feed": "Комуникация с резидентами новостями и обновлениями.",
-    "marketing-page-pricing-features-iot-devices": "Просмотр всех умных офисных устройств в одной панели.",
     "marketing-page-pricing-free": "Бесплатно",
     "marketing-page-pricing-headline": "Не переплачивайте за рост",
     "marketing-page-pricing-notice": "Все цены являются ориентировочными, подлежат налогообложению в вашей стране, и не включают комиссию платежной системы. Все цены указаны за переговорную в месяц до налогообложения. Если вашей страны нет в списке, пожалуйста свяжитесь с нами.",
@@ -16,7 +9,7 @@
     "marketing-page-pricing-per-room": "переговорная",
     "marketing-page-pricing-questions-title": "Возникли вопросы?",
     "marketing-page-pricing-questions-description": "Свяжитесь с нами. Мы доступны 24/7, даже в праздничные дни.",
-    "marketing-page-pricing-subheadline": "Вы платите только за систему бронирования. Все остальное на нас :)",
+    "marketing-page-pricing-subheadline": "All essentials, white label and premium support.",
     "marketing-page-pricing-try-andcards-suite-button": "Попробовать andcards Suite",
     "marketing-page-pricing-try-andcards-suite-no-credit-card-required": "Кредитная карта не нужна."
   }
