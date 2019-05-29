@@ -11,18 +11,18 @@
     "marketing-page-pricing-features-meeting-room-booking": "Meeting room booking",
     "marketing-page-pricing-features-meeting-credit-system": "Credit system",
     "marketing-page-pricing-features-meeting-stripe-payments": "Stripe payments",
-    "marketing-page-pricing-free": "Gratis",
     "marketing-page-pricing-headline": "No se vuelve más caro a medida que creces",
-    "marketing-page-pricing-notice": "Todos los precios son indicativos y están sujetos a los impuestos aplicables en su país y a las tarifas del método de pago.",
     "marketing-page-pricing-per-month": "por mes",
     "marketing-page-pricing-per-room": "por sala",
     "marketing-page-pricing-plan-basic-sign-up-button": "Sign Up",
     "marketing-page-pricing-plan-basic-title": "Basic",
     "marketing-page-pricing-plan-standard-schedule-demo-button": "Schedule Demo",
     "marketing-page-pricing-plan-standard-title": "Standard",
+    "marketing-page-pricing-price-free": "Gratis",
+    "marketing-page-pricing-price-no-credit-card-required": "No se requiere tarjeta de crédito.",
+    "marketing-page-pricing-price-notice": "Todos los precios son indicativos y están sujetos a los impuestos aplicables en su país y a las tarifas del método de pago.",
     "marketing-page-pricing-questions-title": "¿Tienes alguna pregunta?",
     "marketing-page-pricing-questions-description": "Contáctenos. Estamos disponibles 24/7, incluso durante las vacaciones.",
-    "marketing-page-pricing-subheadline": "All essentials, white label and premium support.",
-    "marketing-page-pricing-try-andcards-suite-no-credit-card-required": "No se requiere tarjeta de crédito."
+    "marketing-page-pricing-subheadline": "All essentials, white label and premium support."
   }
 }

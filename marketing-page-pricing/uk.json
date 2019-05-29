@@ -11,18 +11,18 @@
     "marketing-page-pricing-features-meeting-room-booking": "Meeting room booking",
     "marketing-page-pricing-features-meeting-credit-system": "Credit system",
     "marketing-page-pricing-features-meeting-stripe-payments": "Stripe payments",
-    "marketing-page-pricing-free": "Безкоштовно",
     "marketing-page-pricing-headline": "Не платіть більше коли зростаєте",
-    "marketing-page-pricing-notice": "Усі ціни є орієнтовними, підлягають оподаткуванню в вашій країні, та не враховують комісії платіжної системи.",
     "marketing-page-pricing-per-month": "в місяць",
     "marketing-page-pricing-per-room": "за кімнату",
     "marketing-page-pricing-plan-basic-sign-up-button": "Sign Up",
     "marketing-page-pricing-plan-basic-title": "Basic",
     "marketing-page-pricing-plan-standard-schedule-demo-button": "Schedule Demo",
     "marketing-page-pricing-plan-standard-title": "Standard",
+    "marketing-page-pricing-price-free": "Безкоштовно",
+    "marketing-page-pricing-price-no-credit-card-required": "Кредитна картка не потрібна.",
+    "marketing-page-pricing-price-notice": "Усі ціни є орієнтовними, підлягають оподаткуванню в вашій країні, та не враховують комісії платіжної системи.",
     "marketing-page-pricing-questions-title": "Маєте питання?",
     "marketing-page-pricing-questions-description": "Зв'яжіться з нами. Ми доступні 24/7, навіть у вихідні дні.",
-    "marketing-page-pricing-subheadline": "All essentials, white label and premium support.",
-    "marketing-page-pricing-try-andcards-suite-no-credit-card-required": "Кредитна картка не потрібна."
+    "marketing-page-pricing-subheadline": "All essentials, white label and premium support."
   }
 }
