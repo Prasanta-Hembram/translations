@@ -2,15 +2,24 @@
   "data": {
     "marketing-page-pricing-title": "Ціни — скільки коштує andcards для коворкінгів | andcards Suite",
     "marketing-page-pricing-description": "Безкоштовно для індивідуальних користувачів, невисока вартість для коворкінгів та доступна підписка для компаній. Почніть будувати спільноту просто зараз із безкоштовною пробною версією!",
+    "marketing-page-pricing-features-unlimited-members-and-teams": "Unlimited members & teams",
+    "marketing-page-pricing-features-membership-subscriptions": "Membership subscriptions",
+    "marketing-page-pricing-features-member-directory": "Member directory",
+    "marketing-page-pricing-features-community-feed": "Community feed",
+    "marketing-page-pricing-features-benefit-catalog": "Benefit catalog",
+    "marketing-page-pricing-features-meeting-room-booking": "Meeting room booking",
+    "marketing-page-pricing-features-meeting-credit-system": "Credit system",
+    "marketing-page-pricing-features-meeting-stripe-payments": "Stripe payments",
     "marketing-page-pricing-free": "Безкоштовно",
     "marketing-page-pricing-headline": "Не платіть більше коли зростаєте",
     "marketing-page-pricing-notice": "Усі ціни є орієнтовними, підлягають оподаткуванню в вашій країні, та не враховують комісії платіжної системи. Усі ціни вказані з розрахунку на одну кімнату для переговорів у місяць до оподаткування. Якщо вашої країни немає в списку, будь ласка зв'яжіться з нами.",
     "marketing-page-pricing-per-month": "в місяць",
     "marketing-page-pricing-per-room": "за кімнату",
+    "marketing-page-pricing-plan-schedule-demo-button": "Schedule Demo",
+    "marketing-page-pricing-plan-sign-up-button": "Sign Up",
     "marketing-page-pricing-questions-title": "Маєте питання?",
     "marketing-page-pricing-questions-description": "Зв'яжіться з нами. Ми доступні 24/7, навіть у вихідні дні.",
     "marketing-page-pricing-subheadline": "All essentials, white label and premium support.",
-    "marketing-page-pricing-try-andcards-suite-button": "Спробувати andcards Suite",
     "marketing-page-pricing-try-andcards-suite-no-credit-card-required": "Кредитна картка не потрібна."
   }
 }
