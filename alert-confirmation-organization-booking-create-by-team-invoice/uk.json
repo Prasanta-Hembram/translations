@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-booking-create-by-team-invoice-yes": "OK",
-    "alert-confirmation-organization-booking-create-by-team-invoice-no": "Cancel",
-    "alert-confirmation-organization-booking-create-by-team-invoice-title": "Additional charge incurred",
-    "alert-confirmation-organization-booking-create-by-team-invoice-text": "The expense will be added to the team invoice. At the end of the month, admin will send the invoice to your team manager to pay."
+    "alert-confirmation-organization-booking-create-by-team-invoice-no": "Скасувати",
+    "alert-confirmation-organization-booking-create-by-team-invoice-title": "Додаткові витрати",
+    "alert-confirmation-organization-booking-create-by-team-invoice-text": "Витрати будуть додані до інвойсу команди. Наприкінці місяця адміністратор надішле рахунок менеджеру команди для оплати."
   }
 }
