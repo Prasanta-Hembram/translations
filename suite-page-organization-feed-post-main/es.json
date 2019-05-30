@@ -4,6 +4,6 @@
     "suite-page-organization-feed-post-main-date": "{createDate}, editado en {updateDate}",
     "suite-page-organization-feed-post-main-empty": "Este publicación puede no existir o puede haberse eliminado.",
     "suite-page-organization-feed-post-main-title": "Enviar",
-    "suite-page-organization-feed-post-main-user-admin": "Admin/moderator"
+    "suite-page-organization-feed-post-main-user-unknown": "Miembro desconocido"
   }
 }
