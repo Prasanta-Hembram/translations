@@ -1,6 +1,11 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "팀 삭제",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "팀 인보이스 기능 권한",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "전체 팀원",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "전체 팀원들이 팀 인보이스 결제 방법을 이용 가능합니다.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-team-admins": "팀 매니저들 만 팀 인보이스 결제 방법을 이용 가능합니다.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-team-admins": "팀 매니저 만",
     "suite-page-organization-directory-team-edit-button-balance-history": "결제 내역",
     "suite-page-organization-directory-team-edit-button-charge-title": "회수",
     "suite-page-organization-directory-team-edit-button-give-title": "추가",

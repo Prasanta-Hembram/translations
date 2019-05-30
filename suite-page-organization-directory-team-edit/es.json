@@ -1,6 +1,11 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Borrar",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Acceso a la factura del equipo.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "Todos los miembros del equipo",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "Todos los miembros del equipo pueden reservar habitaciones por factura del equipo.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-team-admins": "Solo los gerentes de equipo pueden reservar habitaciones por factura de equipo.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-team-admins": "Solo gerentes de equipo",
     "suite-page-organization-directory-team-edit-button-balance-history": "Balance de Historia",
     "suite-page-organization-directory-team-edit-button-charge-title": "Cargar",
     "suite-page-organization-directory-team-edit-button-give-title": "Dar",

@@ -1,6 +1,11 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Видалити",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Резервації по інвойсах",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "Усі учасники команди",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "Усі учасники команди можуть резервувати кімнати по інвойсах.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-team-admins": "Лише менеджери команди можуть резервувати кімнати по інвойсах.",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-team-admins": "Лише менеджери команди",
     "suite-page-organization-directory-team-edit-button-balance-history": "Історія транзакцій",
     "suite-page-organization-directory-team-edit-button-charge-title": "Списати",
     "suite-page-organization-directory-team-edit-button-give-title": "Нарахувати",
