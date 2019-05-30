@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-bookings-booking-edit-title": "Редагувати резервацію",
     "suite-page-organization-bookings-booking-edit-balance-action-button-for-free": "Безкоштовно",
+    "suite-page-organization-bookings-booking-edit-action-button-invoice-team": "Інвойс команди ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-money-card": "Карткою ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-money-cash": "Готівкою ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",

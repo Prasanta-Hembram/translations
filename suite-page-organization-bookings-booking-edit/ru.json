@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-bookings-booking-edit-title": "Редактировать бронь",
     "suite-page-organization-bookings-booking-edit-balance-action-button-for-free": "Бесплатно",
+    "suite-page-organization-bookings-booking-edit-action-button-invoice-team": "Инвойс команды ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-money-card": "Карточкой ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-money-cash": "Наличными ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",
