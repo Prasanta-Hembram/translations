@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-bookings-booking-edit-title": "Edit booking",
     "suite-page-organization-bookings-booking-edit-balance-action-button-for-free": "Free",
+    "suite-page-organization-bookings-booking-edit-action-button-invoice-team": "Team Invoice ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-money-card": "Card ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-money-cash": "Cash ({price})",
     "suite-page-organization-bookings-booking-edit-balance-action-button-point": "Credits ({balance})",
