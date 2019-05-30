@@ -1,6 +1,11 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Delete",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Team invoice permission",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "All members",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "All members can book rooms by team invoice",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-team-admins": "Only team admins can book rooms by team invoice",
+    "suite-page-organization-directory-team-edit-book-by-invoice-permission-team-admins": "Only team admins",
     "suite-page-organization-directory-team-edit-button-balance-history": "Balance History",
     "suite-page-organization-directory-team-edit-button-charge-title": "Charge",
     "suite-page-organization-directory-team-edit-button-give-title": "Give",
