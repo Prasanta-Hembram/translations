@@ -1,8 +1,9 @@
 {
   "data": {
     "kiosk-page-my-properties-title": "나의 회의실",
-    "kiosk-page-my-properties-button-logout": "로그아웃",
+    "kiosk-page-my-properties-andcards-suite-button": "Open andcards Suite",
     "kiosk-page-my-properties-error-no-internet": "회의실을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "kiosk-page-my-properties-error-no-properties": "회의실이 없습니다."
+    "kiosk-page-my-properties-error-no-properties": "회의실이 없습니다.",
+    "kiosk-page-my-properties-logout-button": "로그아웃"
   }
 }

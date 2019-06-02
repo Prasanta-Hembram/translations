@@ -1,8 +1,9 @@
 {
   "data": {
     "kiosk-page-my-properties-title": "Мої кімнати",
-    "kiosk-page-my-properties-button-logout": "Вийти з системи",
+    "kiosk-page-my-properties-andcards-suite-button": "Open andcards Suite",
     "kiosk-page-my-properties-error-no-internet": "Кімнати не відображаються. Перевірте інтернет-з'єднання.",
-    "kiosk-page-my-properties-error-no-properties": "Кімнати відсутні."
+    "kiosk-page-my-properties-error-no-properties": "Кімнати відсутні.",
+    "kiosk-page-my-properties-logout-button": "Вийти з системи"
   }
 }
