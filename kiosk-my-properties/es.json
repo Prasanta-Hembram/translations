@@ -1,8 +1,9 @@
 {
   "data": {
     "kiosk-page-my-properties-title": "Mis salas de reuniones",
-    "kiosk-page-my-properties-button-logout": "Cerrar Sesión",
+    "kiosk-page-my-properties-andcards-suite-button": "Open andcards Suite",
     "kiosk-page-my-properties-error-no-internet": "No se pudieron cargar salas de reuniones. Revisa internet y vuelve a intentarlo.",
-    "kiosk-page-my-properties-error-no-properties": "No hay salas de reuniones."
+    "kiosk-page-my-properties-error-no-properties": "Debe ser un administrador del cowork para ver las salas aquí.",
+    "kiosk-page-my-properties-logout-button": "Cerrar Sesión"
   }
 }
