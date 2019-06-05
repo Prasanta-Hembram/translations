@@ -8,6 +8,7 @@
     "suite-page-organization-transaction-paid-with-card": "Карткою",
     "suite-page-organization-transaction-paid-with-cash": "Готівкою",
     "suite-page-organization-transaction-paid-with-for-free": "Безкоштовно",
+    "suite-page-organization-transaction-paid-with-invoice": "Invoice",
     "suite-page-organization-transaction-period-label": "Період",
     "suite-page-organization-transaction-plan-details-title": "Деталі плану",
     "suite-page-organization-transaction-title": "Деталі транзакції"
