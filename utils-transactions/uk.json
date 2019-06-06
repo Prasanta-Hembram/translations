@@ -8,7 +8,7 @@
     "suite-utils-transactions-money-transaction-membership-by-card": "Купівля тарифного плану (картка)",
     "suite-utils-transactions-money-transaction-membership-by-cash": "Купівля тарифного плану (готівка)",
     "suite-utils-transactions-money-transaction-membership-by-cash-with-admin-name": "Купівля тарифного плану (готівка) через {name}",
-    "suite-utils-transactions-money-transaction-payment-invoice-bank-transfer": "Інвойс (Bank transfer)",
+    "suite-utils-transactions-money-transaction-payment-invoice-bank-transfer": "Інвойс (банківський переказ)",
     "suite-utils-transactions-money-transaction-payment-invoice-card": "Інвойс (картка)",
     "suite-utils-transactions-money-transaction-payment-invoice-default": "Інвойс",
     "suite-utils-transactions-money-transaction-status-approved": "Підтверджено",
