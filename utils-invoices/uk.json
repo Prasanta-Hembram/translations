@@ -1,5 +1,8 @@
 {
   "data": {
-    "suite-utils-invoices-is-unfinished": "{date} (незавершений)"
+    "suite-utils-invoice-item-type-booking-payment-type": "Резервація кімнати",
+    "suite-utils-invoice-item-type-booking-payment-type-with-name": "Резервація кімнати через {name}",
+    "suite-utils-invoice-is-unfinished": "{date} (незавершений)",
+    "suite-utils-invoice-item-type-default": "Інший"
   }
 }

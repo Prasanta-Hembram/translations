@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-edit-team-invoice-main-get-failure": "Элементы инвойса не отображаются. Проверьте интернет-соединение.",
+    "suite-page-organization-directory-team-edit-team-invoice-main-not-found": "Инвойс недоступен или был удален.",
+    "suite-page-organization-directory-team-edit-team-invoice-main-no-invoices": "Инвойс пуст."
+  }
+}

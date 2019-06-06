@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-edit-team-invoice-main-get-failure": "인보이스 아이템을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-directory-team-edit-team-invoice-main-not-found": "해당 인보이스는 찾을 수 없거나 삭제되었습니다.",
+    "suite-page-organization-directory-team-edit-team-invoice-main-no-invoices": "인보이스에 아이템이 없습니다."
+  }
+}
