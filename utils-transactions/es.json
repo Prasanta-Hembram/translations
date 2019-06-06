@@ -8,7 +8,7 @@
     "suite-utils-transactions-money-transaction-membership-by-card": "Compra de plan de membresia (tarjeta)",
     "suite-utils-transactions-money-transaction-membership-by-cash": "Compra de plan de membresia (efectivo)",
     "suite-utils-transactions-money-transaction-membership-by-cash-with-admin-name": "Compra de plan de membresia (efectivo) a través de {name}",
-    "suite-utils-transactions-money-transaction-payment-invoice-bank-transfer": "Factura (Bank transfer)",
+    "suite-utils-transactions-money-transaction-payment-invoice-bank-transfer": "Factura (transferencia)",
     "suite-utils-transactions-money-transaction-payment-invoice-card": "Factura (tarjeta)",
     "suite-utils-transactions-money-transaction-payment-invoice-default": "Factura",
     "suite-utils-transactions-money-transaction-status-approved": "Aprobado",
