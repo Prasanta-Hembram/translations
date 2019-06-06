@@ -16,6 +16,7 @@
     "spaces-page-search-country-description": "Descubre los mejores espacios de coworking en {country}! Reserve escritorio caliente, escritorio fijo o oficina privada en unos pocos clics!",
     "spaces-page-search-navigation-world": "Mundo",
     "spaces-page-search-offers": "Servicios",
+    "spaces-page-search-search-no-result": "No hay resultados. Intenta ajustar tu búsqueda cambiando los servicios, las comodidades.",
     "spaces-page-search-search-placeholder": "Encuentra coworkings por ubicación o nombre",
     "spaces-page-search-section-results": "Espacios de coworking",
     "spaces-page-search-section-results-city": "Espacios de coworking en {city}, {country}",
