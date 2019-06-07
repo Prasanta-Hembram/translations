@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-page-organization-directory-team-invoice-main-download-pdf": "Descargar PDF",
+    "suite-page-organization-directory-team-invoice-main-finalize": "Finalizar",
     "suite-page-organization-directory-team-invoice-main-get-failure": "No se pudieron mostrar los artículos de la factura. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-directory-team-invoice-main-not-found": "Falta la factura o se ha eliminado.",
     "suite-page-organization-directory-team-invoice-main-no-invoices": "La factura no tiene artículos."
