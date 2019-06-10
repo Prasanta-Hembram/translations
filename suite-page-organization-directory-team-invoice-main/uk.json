@@ -4,6 +4,6 @@
     "suite-page-organization-directory-team-invoice-main-finalize": "Завершити",
     "suite-page-organization-directory-team-invoice-main-get-failure": "Неможливо показати елементи інвойсу. Перевірте інтернет-з'єднання.",
     "suite-page-organization-directory-team-invoice-main-not-found": "Інвойс відсутній або видалений.",
-    "suite-page-organization-directory-team-invoice-main-no-invoices": "Інвойс порожній."
+    "suite-page-organization-directory-team-invoice-main-no-invoices": "Елементи інвойсу будуть відображатись, як тільки учасники команди скористаються відповідним методом оплати."
   }
 }
