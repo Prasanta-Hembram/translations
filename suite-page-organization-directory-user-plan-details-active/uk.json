@@ -6,7 +6,7 @@
     "suite-page-organization-directory-user-plan-details-active-button-assign": "Призначити",
     "suite-page-organization-directory-user-plan-details-active-credits": "Кредити",
     "suite-page-organization-directory-user-plan-details-active-deactivate": "Деактивувати",
-    "suite-page-organization-directory-user-plan-details-active-empty": "Цього плану не існує, або термін дії плану вже закінчився.",
+    "suite-page-organization-directory-user-plan-details-active-empty": "Немає активного плану. Зверніться до адміністратора або модератора щоб отримати план.",
     "suite-page-organization-directory-user-plan-details-active-error-user-not-found": "Учасник не існує або ж був видалений.",
     "suite-page-organization-directory-user-plan-details-active-payment": "Оплата",
     "suite-page-organization-directory-user-plan-details-active-period-from-title": "Початок",

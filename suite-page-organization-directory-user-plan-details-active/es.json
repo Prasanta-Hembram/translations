@@ -6,7 +6,7 @@
     "suite-page-organization-directory-user-plan-details-active-button-assign": "Asignar",
     "suite-page-organization-directory-user-plan-details-active-credits": "Créditos",
     "suite-page-organization-directory-user-plan-details-active-deactivate": "Desactivar",
-    "suite-page-organization-directory-user-plan-details-active-empty": "Este plan puede no existir o puede haber caducado.",
+    "suite-page-organization-directory-user-plan-details-active-empty": "No hay plan de membresía. Póngase en contacto con el administrador o moderador del área de trabajo para obtener uno.",
     "suite-page-organization-directory-user-plan-details-active-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-user-plan-details-active-payment": "Pago",
     "suite-page-organization-directory-user-plan-details-active-period-from-title": "Inicio",
