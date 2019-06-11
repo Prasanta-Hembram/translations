@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-utils-invoice-item-type-booking-payment-type": "Бронь переговорной",
+    "suite-utils-invoice-item-type-booking-payment-type-with-name": "Бронь переговорной через {name}",
+    "suite-utils-invoice-is-unfinished": "{date} (незакрытый)",
+    "suite-utils-invoice-item-type-default": "Другой"
+  }
+}

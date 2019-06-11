@@ -7,6 +7,7 @@
     "suite-alerts-refund-booking-money-for-owner": "{price} успешно возмещено.",
     "suite-alerts-success-benefit-apply": "Заявка успешно отправлена.",
     "suite-alerts-success-booking-create": "Бронирование успешно совершено.",
+    "suite-alerts-success-invoice-finalized": "Инвойс успешно завершен.",
     "suite-alerts-success-organization-invites-send": "Приглашения успешно отправлены.",
     "suite-alerts-success-organization-plan-purchased": "Тарифный план успешно куплен."
   }

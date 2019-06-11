@@ -16,6 +16,7 @@
     "spaces-page-search-country-description": "Лучшие коворкинги в {country}. Бронируйте место, офис, переговорную или аудиторию в коворкинге.",
     "spaces-page-search-navigation-world": "Мир",
     "spaces-page-search-offers": "Услуги",
+    "spaces-page-search-search-no-result": "Ничего не найдено. Попробуйте еще раз, уточнив поисковой запрос.",
     "spaces-page-search-search-placeholder": "Найдите коворкинг по месту или названию",
     "spaces-page-search-section-results": "Коворкинги по всему миру",
     "spaces-page-search-section-results-city": "Коворкинги в г. {city}, {country}",

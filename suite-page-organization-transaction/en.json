@@ -8,6 +8,7 @@
     "suite-page-organization-transaction-paid-with-card": "Card",
     "suite-page-organization-transaction-paid-with-cash": "Cash",
     "suite-page-organization-transaction-paid-with-for-free": "Free",
+    "suite-page-organization-transaction-paid-with-invoice": "Invoice",
     "suite-page-organization-transaction-period-label": "Period",
     "suite-page-organization-transaction-plan-details-title": "Plan Details",
     "suite-page-organization-transaction-title": "Transaction details"

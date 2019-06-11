@@ -7,6 +7,7 @@
     "suite-alerts-refund-booking-money-for-owner": "{price} reembolsado exitosamente.",
     "suite-alerts-success-benefit-apply": "La aplicación ha sido enviada con éxito.",
     "suite-alerts-success-booking-create": "La reserva se realiza con éxito.",
+    "suite-alerts-success-invoice-finalized": "Factura finalizada con éxito.",
     "suite-alerts-success-organization-invites-send": "Invitaciones enviadas exitosamente.",
     "suite-alerts-success-organization-plan-purchased": "Plan es comprado."
   }
