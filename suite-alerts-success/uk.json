@@ -8,6 +8,7 @@
     "suite-alerts-success-benefit-apply": "Заявку успішно надіслано.",
     "suite-alerts-success-booking-create": "Резервацію здійснено успішно.",
     "suite-alerts-success-invoice-finalized": "Інвойс успішно завершено.",
+    "suite-alerts-success-invoice-money-transaction-saved": "Invoice transaction updated.",
     "suite-alerts-success-organization-invites-send": "Запрошення успішно надіслані.",
     "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна."
   }
