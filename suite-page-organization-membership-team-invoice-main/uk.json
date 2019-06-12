@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoice-main-download-pdf": "Завантажити PDF",
-    "suite-page-organization-membership-team-invoice-main-finalize": "Завершити",
     "suite-page-organization-membership-team-invoice-main-get-failure": "Неможливо показати елементи інвойсу. Перевірте інтернет-з'єднання.",
     "suite-page-organization-membership-team-invoice-main-not-found": "Інвойс відсутній або видалений.",
     "suite-page-organization-membership-team-invoice-main-no-invoices": "Інвойс порожній."
