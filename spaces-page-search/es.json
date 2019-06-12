@@ -1,7 +1,7 @@
 {
   "data": {
     "spaces-page-search-title": "Los mejores espacios de Coworking alrededor del mundo | andcards",
-    "spaces-page-search-description": "¡Descubre los mejores espacios de coworking en todo el mundo! Reserve escritorio caliente, escritorio fijo o oficina privada con unos pocos clics y trabaje en cualquier lugar!",
+    "spaces-page-search-description": "¡Descubre los mejores espacios de coworking en todo el mundo! Reserve escritorio flex, escritorio fijo o oficina privada con unos pocos clics y trabaje en cualquier lugar!",
     "spaces-page-search-amenities": "Comodidades",
     "spaces-page-search-amenities-24-7-access": "Acceso 24/7",
     "spaces-page-search-amenities-kitchen": "Cocina",
@@ -10,10 +10,10 @@
     "spaces-page-search-amenities-phone-booth": "Cabina telefónica",
     "spaces-page-search-amenities-printer-scanner": "Impresora/escáner",
     "spaces-page-search-amenities-unlimited-drinks": "Café/té ilimitados",
-    "spaces-page-search-city-description": "Descubre los mejores espacios de coworking en {city}, {country}! Reserve escritorio caliente, escritorio fijo o oficina privada en unos pocos clics!",
+    "spaces-page-search-city-description": "Descubre los mejores espacios de coworking en {city}, {country}! Reserve escritorio flex, escritorio fijo o oficina privada en unos pocos clics!",
     "spaces-page-search-city-title": "Los mejores espacios de Coworking en {city}, {country} | andcards",
     "spaces-page-search-country-title": "Los mejores espacios de Coworking en {country} | andcards",
-    "spaces-page-search-country-description": "Descubre los mejores espacios de coworking en {country}! Reserve escritorio caliente, escritorio fijo o oficina privada en unos pocos clics!",
+    "spaces-page-search-country-description": "Descubre los mejores espacios de coworking en {country}! Reserve escritorio flex, escritorio fijo o oficina privada en unos pocos clics!",
     "spaces-page-search-navigation-world": "Mundo",
     "spaces-page-search-offers": "Servicios",
     "spaces-page-search-search-no-result": "No hay resultados. Intenta ajustar tu búsqueda cambiando los servicios, las comodidades.",
@@ -22,7 +22,7 @@
     "spaces-page-search-section-results-city": "Espacios de coworking en {city}, {country}",
     "spaces-page-search-section-results-country": "Espacios de coworking en {country}",
     "spaces-page-search-service-fixed-desk": "Escritorio fijo",
-    "spaces-page-search-service-hot-desk": "Escritorio caliente",
+    "spaces-page-search-service-hot-desk": "Escritorio flex",
     "spaces-page-search-service-meeting-room": "Sala de Reuniones",
     "spaces-page-search-service-office": "Oficina"
   }

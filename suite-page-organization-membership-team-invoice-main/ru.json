@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoice-main-download-pdf": "Скачать PDF",
-    "suite-page-organization-membership-team-invoice-main-finalize": "Завершить",
     "suite-page-organization-membership-team-invoice-main-get-failure": "Элементы инвойса не отображаются. Проверьте интернет-соединение.",
     "suite-page-organization-membership-team-invoice-main-not-found": "Инвойс недоступен или был удален.",
     "suite-page-organization-membership-team-invoice-main-no-invoices": "Елементи інвойсу будуть відображатись, як тільки учасники команди скористаються відповідним методом оплати."
