@@ -8,7 +8,7 @@
     "suite-alerts-success-benefit-apply": "La aplicación ha sido enviada con éxito.",
     "suite-alerts-success-booking-create": "La reserva se realiza con éxito.",
     "suite-alerts-success-invoice-finalized": "Factura finalizada con éxito.",
-    "suite-alerts-success-invoice-money-transaction-saved": "Invoice transaction updated.",
+    "suite-alerts-success-invoice-money-transaction-saved": "Transacción de factura actualizada.",
     "suite-alerts-success-organization-invites-send": "Invitaciones enviadas exitosamente.",
     "suite-alerts-success-organization-plan-purchased": "Plan es comprado."
   }
