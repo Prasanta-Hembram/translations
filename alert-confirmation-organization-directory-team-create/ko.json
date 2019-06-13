@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-directory-team-create-no": "Cancel",
-    "alert-confirmation-organization-directory-team-create-yes": "Add",
-    "alert-confirmation-organization-directory-team-create-message": "Type a team name",
-    "alert-confirmation-organization-directory-team-create-title": "Create new team"
+    "alert-confirmation-organization-directory-team-create-no": "취소",
+    "alert-confirmation-organization-directory-team-create-yes": "확인",
+    "alert-confirmation-organization-directory-team-create-message": "팀 명을 입력하세요",
+    "alert-confirmation-organization-directory-team-create-title": "새 팀 만들기"
   }
 }
