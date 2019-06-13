@@ -7,13 +7,10 @@
     "suite-page-organization-membership-main-button-all-plans-open": "All membership plans",
     "suite-page-organization-membership-main-button-balance-personal-title": "Personal Balance History",
     "suite-page-organization-membership-main-button-balance-team-title": "Team Balance History",
-    "suite-page-organization-membership-main-button-get-new-plan": "Get a membership plan",
     "suite-page-organization-membership-main-button-team-invoices": "Invoices",
     "suite-page-organization-membership-main-coworking-membership-title": "Plans",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expire on {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Use these credits to book a meeting room.",
-    "suite-page-organization-membership-main-description-text-for-admins": "Sell your coworking space membership through andcards. Members will be able to pay right from the app, get plan expiration reminders and credits automatically.",
-    "suite-page-organization-membership-main-description-text-for-members": "You don't have a membership plan yet. Get one below to obtain more credits and gain extra advantages!",
     "suite-page-organization-membership-main-income-title": "Income",
     "suite-page-organization-membership-main-income": "Total revenue this month.",
     "suite-page-organization-membership-main-kpi-detail": "KPIs Month to Date",
@@ -22,7 +19,6 @@
     "suite-page-organization-membership-main-pages-printed-title": "Pages printed",
     "suite-page-organization-membership-main-pages-printer-user-id": "Sindoh Login",
     "suite-page-organization-membership-main-personal-title": "Personal Membership",
-    "suite-page-organization-membership-main-plan-team-title": "{teamName} Team Membership",
-    "suite-page-organization-membership-main-price-from": "From {price}"
+    "suite-page-organization-membership-main-plan-team-title": "{teamName} Team Membership"
   }
 }

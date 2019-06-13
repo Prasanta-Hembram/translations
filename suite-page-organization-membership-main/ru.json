@@ -7,13 +7,10 @@
     "suite-page-organization-membership-main-button-all-plans-open": "Все тарифные планы",
     "suite-page-organization-membership-main-button-balance-personal-title": "История личных транзакций",
     "suite-page-organization-membership-main-button-balance-team-title": "История транзакций команды",
-    "suite-page-organization-membership-main-button-get-new-plan": "Приобрести тарифный план",
     "suite-page-organization-membership-main-button-team-invoices": "Инвойсы",
     "suite-page-organization-membership-main-coworking-membership-title": "Тарифный план",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} истекают {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Используйте эти кредиты для бронирования переговорных.",
-    "suite-page-organization-membership-main-description-text-for-admins": "Продавайте свои тарифные планы через andcards. Участники смогут оплачивать прямо из приложения, автоматически получать напоминания об истечении срока действия плана и кредиты.",
-    "suite-page-organization-membership-main-description-text-for-members": "У вас еще нет тарифного плана. Приобретите план, чтобы получить больше кредитов и получить дополнительные преимущества!",
     "suite-page-organization-membership-main-income-title": "Прибыль",
     "suite-page-organization-membership-main-income": "Прибыль с продаж в этом месяце.",
     "suite-page-organization-membership-main-kpi-detail": "Ключевые показатели месяца",
@@ -22,7 +19,6 @@
     "suite-page-organization-membership-main-pages-printed-title": "Напечатанных страниц",
     "suite-page-organization-membership-main-pages-printer-user-id": "Логин Sindoh",
     "suite-page-organization-membership-main-personal-title": "Личный план",
-    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}",
-    "suite-page-organization-membership-main-price-from": "От {price}"
+    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}"
   }
 }
