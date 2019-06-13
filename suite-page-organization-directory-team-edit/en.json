@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Delete",
+    "suite-page-organization-directory-team-edit-billing-address-title": "Business Information",
+    "suite-page-organization-directory-team-edit-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
+    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Type information",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Booking by Team Invoice",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "All team members",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "All team members can book rooms by team invoice.",

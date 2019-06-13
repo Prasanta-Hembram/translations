@@ -19,7 +19,6 @@
     "suite-page-organization-membership-main-pages-printed-title": "Páginas impresas",
     "suite-page-organization-membership-main-pages-printer-user-id": "Sindoh Login",
     "suite-page-organization-membership-main-personal-title": "Membresía personal",
-    "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}",
-    "suite-page-organization-membership-main-price-from": "Desde {price}"
+    "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}"
   }
 }

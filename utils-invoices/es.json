@@ -2,7 +2,8 @@
   "data": {
     "suite-utils-invoice-item-type-booking-payment-type": "Reserva de sala de reuniones",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "Reserva de sala de reuniones a través de {name}",
-    "suite-utils-invoice-is-unfinished": "{date} (no finalizado)",
+    "suite-utils-invoice-is-unfinished": "No finalizado",
+    "suite-utils-invoice-is-unfinished-with-date": "{date} (no finalizado)",
     "suite-utils-invoice-item-type-default": "Otro"
   }
 }

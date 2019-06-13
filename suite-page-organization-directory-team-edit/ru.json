@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Удалить",
+    "suite-page-organization-directory-team-edit-billing-address-title": "Информация о компании",
+    "suite-page-organization-directory-team-edit-billing-address-desc": "Укажите название компании, адрес и любую другую юридическую информацию, указанную в инвойсах.",
+    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Введите информацию",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Бронирование по инвойсу",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "Все участники команды",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "Все участники команды могут бронировать переговорные с помощью инвойса.",
