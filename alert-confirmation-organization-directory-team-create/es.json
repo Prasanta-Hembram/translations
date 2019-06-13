@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-directory-team-create-no": "Cancelar",
-    "alert-confirmation-organization-directory-team-create-yes": "Añadir",
-    "alert-confirmation-organization-directory-team-create-message": "Agregar nombre",
-    "alert-confirmation-organization-directory-team-create-title": "Crear grupo"
+    "alert-confirmation-organization-directory-team-create-yes": "Crear",
+    "alert-confirmation-organization-directory-team-create-message": "Escribe un nombre de equipo",
+    "alert-confirmation-organization-directory-team-create-title": "Crear un nuevo equipo"
   }
 }
