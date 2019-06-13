@@ -2,7 +2,7 @@
   "data": {
     "suite-utils-invoice-item-type-booking-payment-type": "Booked room",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "Booked room by {name}",
-    "suite-utils-invoice-is-unfinished": "{date} (not finalized)",
+    "suite-utils-invoice-is-unfinished": "Not finalized",
     "suite-utils-invoice-item-type-default": "Other"
   }
 }
