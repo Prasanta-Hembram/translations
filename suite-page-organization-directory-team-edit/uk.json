@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Видалити",
+    "suite-page-organization-directory-team-edit-billing-address-title": "Інформація про компанію",
+    "suite-page-organization-directory-team-edit-billing-address-desc": "Вкажіть назву компанії, адресу та будь-яку іншу юридичну інформацію, яка буде відображатися в інвойсах.",
+    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Увести інформацію",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Резервації по інвойсах",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission-all-members": "Усі учасники команди",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission-info-all-members": "Усі учасники команди можуть резервувати кімнати по інвойсах.",
@@ -16,7 +19,7 @@
     "suite-page-organization-directory-team-edit-error-title": "Уведіть назву команди.",
     "suite-page-organization-directory-team-edit-icon": "Емодзі",
     "suite-page-organization-directory-team-edit-name": "Назва",
-    "suite-page-organization-directory-team-edit-name-placeholder": "Введіть назву",
+    "suite-page-organization-directory-team-edit-name-placeholder": "Увести назву",
     "suite-page-organization-directory-team-edit-no-members-in-team": "У цієї команди ще немає учасників.",
     "suite-page-organization-directory-team-edit-not-found-error": "Ця команда не існує або ж була видалена.",
     "suite-page-organization-directory-team-edit-section-balance-expiring-balance-description": "Стікають {date}.",
