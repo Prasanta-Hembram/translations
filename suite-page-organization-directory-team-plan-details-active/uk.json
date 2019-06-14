@@ -1,12 +1,10 @@
 {
   "data": {
-    "suite-page-organization-directory-team-plan-details-active-title": "Активний план",
-    "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "Активний план: {title}",
+    "suite-page-organization-directory-team-plan-details-active-title": "План",
+    "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "План: {title}",
     "suite-page-organization-directory-team-plan-details-active-benefits": "Переваги",
-    "suite-page-organization-directory-team-plan-details-active-button-assign": "Призначити",
     "suite-page-organization-directory-team-plan-details-active-credits": "Кредити",
     "suite-page-organization-directory-team-plan-details-active-deactivate": "Деактивувати",
-    "suite-page-organization-directory-team-plan-details-active-empty": "Немає активного плану. Зверніться до адміністратора або модератора щоб отримати план.",
     "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Ця команда не існує або ж була видалена.",
     "suite-page-organization-directory-team-plan-details-active-payment": "Оплата",
     "suite-page-organization-directory-team-plan-details-active-period-from-title": "Початок",

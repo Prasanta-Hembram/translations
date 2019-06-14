@@ -1,0 +1,7 @@
+{
+  "data": {
+    "components-page-body-empty-plan-active-title": "Нет активного плана. Обратитесь к администратору или модератору чтобы получить план.",
+    "components-page-body-empty-plan-active-title-for-admin": "Назначьте план для автоматического зачисления кредитов и отслеживание платежей.",
+    "components-page-body-empty-plan-active-button-assign": "Присвоить"
+  }
+}
