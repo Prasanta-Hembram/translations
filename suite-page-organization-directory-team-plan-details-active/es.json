@@ -1,12 +1,10 @@
 {
   "data": {
-    "suite-page-organization-directory-team-plan-details-active-title": "Plan activo",
-    "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "Plan activo: {title}",
+    "suite-page-organization-directory-team-plan-details-active-title": "Plan",
+    "suite-page-organization-directory-team-plan-details-active-title-with-plan-title": "Plan: {title}",
     "suite-page-organization-directory-team-plan-details-active-benefits": "Beneficios",
-    "suite-page-organization-directory-team-plan-details-active-button-assign": "Asignar",
     "suite-page-organization-directory-team-plan-details-active-credits": "Créditos",
     "suite-page-organization-directory-team-plan-details-active-deactivate": "Desactivar",
-    "suite-page-organization-directory-team-plan-details-active-empty": "No hay plan de membresía. Póngase en contacto con el administrador o moderador del área de trabajo para obtener uno.",
     "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-team-plan-details-active-payment": "Pago",
     "suite-page-organization-directory-team-plan-details-active-period-from-title": "Inicio",
