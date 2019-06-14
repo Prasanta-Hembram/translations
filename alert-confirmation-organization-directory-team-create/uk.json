@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-directory-team-create-no": "Скасувати",
+    "alert-confirmation-organization-directory-team-create-yes": "Додати",
+    "alert-confirmation-organization-directory-team-create-message": "Уведіть назву команди",
+    "alert-confirmation-organization-directory-team-create-title": "Створити команду"
+  }
+}
