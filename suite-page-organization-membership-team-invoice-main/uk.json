@@ -9,10 +9,10 @@
     "suite-page-organization-membership-team-invoice-main-no-invoices": "Інвойс порожній.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Повернутися",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Перевірте інтернет-з'єднання та спробуйте знов.",
-    "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Payment Failed",
+    "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Платіж не вдався",
     "suite-page-organization-membership-team-invoice-main-payment-success-button-done": "Готово",
-    "suite-page-organization-membership-team-invoice-main-payment-success-text": "We'll notify administrator about your payment.",
-    "suite-page-organization-membership-team-invoice-main-payment-success-title": "Invoice Payment Success",
+    "suite-page-organization-membership-team-invoice-main-payment-success-text": "Інвойс успішно оплачено.",
+    "suite-page-organization-membership-team-invoice-main-payment-success-title": "Успішний платіж інвойсу",
     "suite-page-organization-membership-team-invoice-main-section-payment": "Оплата",
     "suite-page-organization-membership-team-invoice-main-section-payment-button": "Продовжити"
   }

@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-message": "Are you sure you want to transfer the amount manually? This selection is irreversible.",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-no": "Cancel",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-title": "Confirm Manual Transfer",
+    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-message": "Ви впевнені, що хочете переказати суму самостійно? Цей вибір є незворотнім.",
+    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-no": "Відміна",
+    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-title": "Підтвердження самостійного переказу",
     "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-yes": "Так"
   }
 }

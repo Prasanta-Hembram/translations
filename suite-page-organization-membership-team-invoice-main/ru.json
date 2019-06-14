@@ -9,10 +9,10 @@
     "suite-page-organization-membership-team-invoice-main-no-invoices": "Елементи інвойсу будуть відображатись, як тільки учасники команди скористаються відповідним методом оплати.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Назад",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Проверьте интернет-соединение и повторите попытку.",
-    "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Payment Failed",
+    "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Оплата не прошла",
     "suite-page-organization-membership-team-invoice-main-payment-success-button-done": "Готово",
-    "suite-page-organization-membership-team-invoice-main-payment-success-text": "We'll notify administrator about your payment.",
-    "suite-page-organization-membership-team-invoice-main-payment-success-title": "Invoice Payment Success",
+    "suite-page-organization-membership-team-invoice-main-payment-success-text": "Инвойс был успешно оплачен.",
+    "suite-page-organization-membership-team-invoice-main-payment-success-title": "Успешная оплата инвойса",
     "suite-page-organization-membership-team-invoice-main-section-payment": "Оплата",
     "suite-page-organization-membership-team-invoice-main-section-payment-button": "Продолжить"
   }
