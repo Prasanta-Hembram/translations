@@ -18,8 +18,11 @@
     "marketing-page-home-request-demo-note": "또한 저희는 {pricingUrl} 제공합니다.",
     "marketing-page-home-request-demo-note-paid-features": "유료 기능",
     "marketing-page-home-request-demo-title": "Unlimited users, unlimited teams",
-    "marketing-page-home-save-time-title": "코워킹 스페이스를 관리하는데 시간을 절약해보세요",
-    "marketing-page-home-save-time-description": "andcards Suite를 이용하여 모든 것을 세팅하고, 회원을 초대하는 것은 매우 쉽고 간단합니다. 원클릭 회의실 예약, 보너스 크레딧 자동화, 인앱 카드 결제를 통해 당신의 시간을 절약하세요.",
+    "marketing-page-home-save-time-button": "Start saving time",
+    "marketing-page-home-save-time-description": "Don't waste time on manual routines. Let andcards handle room bookings, plans, and payments automatically.",
+    "marketing-page-home-save-time-testimonial-doers-quote": "We saved a ton of time with andcards. It's simple, visual, and has convenient mobile apps.",
+    "marketing-page-home-save-time-testimonial-sparkplus-quote": "andcards apps put us ahead of the cometition. Thousands of customers now have our coworking in their pockets. We couldn't be happier!",
+    "marketing-page-home-save-time-title": "Radical time saving",
     "marketing-page-home-try-andcards-suite-button": "andcards Suite 시험하기"
   }
 }

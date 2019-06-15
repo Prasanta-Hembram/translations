@@ -18,8 +18,11 @@
     "marketing-page-home-request-demo-note": "Мы также предлагаем {pricingUrl}.",
     "marketing-page-home-request-demo-note-paid-features": "платные функции",
     "marketing-page-home-request-demo-title": "Unlimited users, unlimited teams",
-    "marketing-page-home-save-time-title": "Экономьте время, управляя коворкингом",
-    "marketing-page-home-save-time-description": "Настройка приложения, приглашение участников и использование andcards Suite — очень просто и легко! Вы можете сэкономить множество времени, бронируя комнаты для переговоров в один клик, автоматически распределяя бонусные кредиты и оплачивая тарифы картами в приложении.",
+    "marketing-page-home-save-time-button": "Start saving time",
+    "marketing-page-home-save-time-description": "Don't waste time on manual routines. Let andcards handle room bookings, plans, and payments automatically.",
+    "marketing-page-home-save-time-testimonial-doers-quote": "We saved a ton of time with andcards. It's simple, visual, and has convenient mobile apps.",
+    "marketing-page-home-save-time-testimonial-sparkplus-quote": "andcards apps put us ahead of the cometition. Thousands of customers now have our coworking in their pockets. We couldn't be happier!",
+    "marketing-page-home-save-time-title": "Radical time saving",
     "marketing-page-home-try-andcards-suite-button": "Попробовать andcards Suite"
   }
 }

@@ -18,8 +18,11 @@
     "marketing-page-home-request-demo-note": "We also offer {pricingUrl}.",
     "marketing-page-home-request-demo-note-paid-features": "paid features",
     "marketing-page-home-request-demo-title": "Unlimited users, unlimited teams",
-    "marketing-page-home-save-time-title": "Save time managing coworking space",
-    "marketing-page-home-save-time-description": "Setting everything up, inviting members, and using andcards Suite is super simple and easy. Save yourself a lot of time with 1-click meeting room booking, automatic bonus credit allocation, and in-app card payments.",
+    "marketing-page-home-save-time-button": "Start saving time",
+    "marketing-page-home-save-time-description": "Don't waste time on manual routines. Let andcards handle room bookings, plans, and payments automatically.",
+    "marketing-page-home-save-time-testimonial-doers-quote": "We saved a ton of time with andcards. It's simple, visual, and has convenient mobile apps.",
+    "marketing-page-home-save-time-testimonial-sparkplus-quote": "andcards apps put us ahead of the cometition. Thousands of customers now have our coworking in their pockets. We couldn't be happier!",
+    "marketing-page-home-save-time-title": "Radical time saving",
     "marketing-page-home-try-andcards-suite-button": "Try andcards Suite"
   }
 }
