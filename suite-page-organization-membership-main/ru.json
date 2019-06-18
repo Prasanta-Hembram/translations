@@ -8,6 +8,7 @@
     "suite-page-organization-membership-main-button-balance-personal-title": "История личных транзакций",
     "suite-page-organization-membership-main-button-balance-team-title": "История транзакций команды",
     "suite-page-organization-membership-main-button-team-invoices": "Инвойсы",
+    "suite-page-organization-membership-main-button-user-printed-pages": "Напечатаных страниц",
     "suite-page-organization-membership-main-coworking-membership-title": "Тарифный план",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} истекают {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Используйте эти кредиты для бронирования переговорных.",
@@ -17,8 +18,8 @@
     "suite-page-organization-membership-main-occupancy-title": "Заполненность",
     "suite-page-organization-membership-main-occupancy": "Процент занятых мест в коворкингe.",
     "suite-page-organization-membership-main-pages-printed-title": "Напечатанных страниц",
-    "suite-page-organization-membership-main-pages-printer-user-id": "Логин Sindoh",
     "suite-page-organization-membership-main-personal-title": "Личный план",
-    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}"
+    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}",
+    "suite-page-organization-membership-main-printers-title": "Принтеры"
   }
 }
