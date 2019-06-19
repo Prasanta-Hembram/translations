@@ -8,7 +8,7 @@
     "suite-page-organization-membership-main-button-balance-personal-title": "Історія особистих транзакцій",
     "suite-page-organization-membership-main-button-balance-team-title": "Історія транзакцій команди",
     "suite-page-organization-membership-main-button-team-invoices": "Інвойси",
-    "suite-page-organization-membership-main-button-user-printed-pages": "Надрукованих сторінок",
+    "suite-page-organization-membership-main-button-user-printed-pages": "Принтери",
     "suite-page-organization-membership-main-coworking-membership-title": "Тарифні плани",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Використовуйте ці кредити для резервації кімнат.",
@@ -19,7 +19,6 @@
     "suite-page-organization-membership-main-occupancy": "Відсоток зайнятих місць в коворкінгу.",
     "suite-page-organization-membership-main-pages-printed-title": "Надрукованих сторінок",
     "suite-page-organization-membership-main-personal-title": "Особистий план",
-    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}",
-    "suite-page-organization-membership-main-printers-title": "Принтери"
+    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}"
   }
 }

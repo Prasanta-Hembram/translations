@@ -8,7 +8,7 @@
     "suite-page-organization-membership-main-button-balance-personal-title": "Personal Balance History",
     "suite-page-organization-membership-main-button-balance-team-title": "Team Balance History",
     "suite-page-organization-membership-main-button-team-invoices": "Invoices",
-    "suite-page-organization-membership-main-button-user-printed-pages": "Printed pages",
+    "suite-page-organization-membership-main-button-user-printed-pages": "Printers",
     "suite-page-organization-membership-main-coworking-membership-title": "Plans",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expire on {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Use these credits to book a meeting room.",
@@ -19,7 +19,6 @@
     "suite-page-organization-membership-main-occupancy": "Percentage of occupied seats in the workspace.",
     "suite-page-organization-membership-main-pages-printed-title": "Pages printed",
     "suite-page-organization-membership-main-personal-title": "Personal Membership",
-    "suite-page-organization-membership-main-plan-team-title": "{teamName} Team Membership",
-    "suite-page-organization-membership-main-printers-title": "Printers"
+    "suite-page-organization-membership-main-plan-team-title": "{teamName} Team Membership"
   }
 }
