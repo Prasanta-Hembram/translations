@@ -1,25 +1,16 @@
 {
   "data": {
-    "suite-page-organization-membership-plan-details-title": "Buy",
     "suite-page-organization-membership-plan-details-title-for-admin": "About",
     "suite-page-organization-membership-plan-details-title-for-admin-with-plan-title": "About {title}",
-    "suite-page-organization-membership-plan-details-title-with-plan-title": "Buy {title}",
-    "suite-page-organization-membership-plan-details-credits": "Credits",
     "suite-page-organization-membership-plan-details-delete-failure": "Failed to delete plan.",
     "suite-page-organization-membership-plan-details-delete-plan": "Delete plan",
     "suite-page-organization-membership-plan-details-delete-repeat": "Try again",
     "suite-page-organization-membership-plan-details-description": "Description",
     "suite-page-organization-membership-plan-details-empty": "This plan may not exist or may have been removed.",
-    "suite-page-organization-membership-plan-details-period-from-info": "Service will be available to use starting the date above.",
-    "suite-page-organization-membership-plan-details-period-from-title": "From",
-    "suite-page-organization-membership-plan-details-period-payed-with-card": "Card",
-    "suite-page-organization-membership-plan-details-period-payed-with-title": "Paid with",
     "suite-page-organization-membership-plan-details-period-title": "Period",
     "suite-page-organization-membership-plan-details-plans-all-title": "All membership plans",
-    "suite-page-organization-membership-plan-details-price": "Membership plan price is {price} for {period}.",
     "suite-page-organization-membership-plan-details-pricing": "Pricing",
     "suite-page-organization-membership-plan-details-quantity": "Quantity",
-    "suite-page-organization-membership-plan-details-section-payment": "Payment",
     "suite-page-organization-membership-plan-details-type": "Type"
   }
 }

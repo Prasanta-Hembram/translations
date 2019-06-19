@@ -15,7 +15,6 @@
     "suite-page-organization-bookings-booking-create-end-time": "Ending",
     "suite-page-organization-bookings-booking-create-error-booking-purpose-empty": "Type the booking title.",
     "suite-page-organization-bookings-booking-create-free": "Free",
-    "suite-page-organization-bookings-booking-create-full-day-description": "Minimum booking period is 1 day.",
     "suite-page-organization-bookings-booking-create-memo": "Memo",
     "suite-page-organization-bookings-booking-create-memo-placeholder": "Type a memo (private)",
     "suite-page-organization-bookings-booking-create-no-property": "Couldn't show the page. Are you sure there is an internet connection?",
@@ -44,8 +43,6 @@
     "suite-page-organization-bookings-booking-create-section-people-capacity": "This room can fit up to {numberOfSeats} people.",
     "suite-page-organization-bookings-booking-create-section-purpose": "Purpose",
     "suite-page-organization-bookings-booking-create-section-time": "Time",
-    "suite-page-organization-bookings-booking-create-section-time-max": "Maximum booking time is {duration}.",
-    "suite-page-organization-bookings-booking-create-section-time-min": "Minimum booking time is {duration}.",
     "suite-page-organization-bookings-booking-create-start-date": "Date",
     "suite-page-organization-bookings-booking-create-start-time": "Starting"
   }
