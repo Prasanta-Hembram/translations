@@ -22,7 +22,7 @@
     "bulk-invite-success-email-activate-link": "Активировать",
     "bulk-invite-success-email-subject": "Приглашаем присоединиться к приложению {organizationTitle}",
     "feed-post-notification-title": "{userName} запостили в {organizationTitle}",
-    "invoice-finalize-notification-body": "Your invoice for {invoiceMonth} is ready! View and pay right away.",
+    "invoice-finalize-notification-body": "{teamTitle} invoice for {invoiceMonth} is ready! View and pay right away.",
     "invoice-finalize-notification-title": "{organizationTitle} billing",
     "membership-plan-ends-in-five-days-notification-body": "Ваш тарифный план истекает через 5 дней. Купите новый план, чтобы остаться.",
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
