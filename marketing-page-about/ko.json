@@ -12,6 +12,12 @@
     "marketing-page-about-team-title": "Who We Are",
     "marketing-page-about-team-description": "One of our core values is transparency: we keep no secrets from each other and from the world. See how we run our company in {handbookUrl}.",
     "marketing-page-about-team-handbook-link": "핸드북",
+    "marketing-page-about-team-position-ceo": "Chief Executive Officer",
+    "marketing-page-about-team-position-cto": "Chief Technology Officer",
+    "marketing-page-about-team-position-se": "Software Engineer",
+    "marketing-page-about-team-position-qa": "Quality Engineer",
+    "marketing-page-about-team-position-rm-latam": "Regional Manager - LATAM",
+    "marketing-page-about-team-position-rm-europe": "Regional Manager - Europe",
     "marketing-page-about-what-we-do-kiosk-description": "회의실 디스플레이를 위한 태블릿 앱.",
     "marketing-page-about-what-we-do-suite-description": "코워킹 스페이스 운영 소프트웨어",
     "marketing-page-about-what-we-do-title": "사업 내용"

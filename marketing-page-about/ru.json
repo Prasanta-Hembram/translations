@@ -12,6 +12,12 @@
     "marketing-page-about-team-title": "Who We Are",
     "marketing-page-about-team-description": "One of our core values is transparency: we keep no secrets from each other and from the world. See how we run our company in {handbookUrl}.",
     "marketing-page-about-team-handbook-link": "Хэндбуке",
+    "marketing-page-about-team-position-ceo": "Chief Executive Officer",
+    "marketing-page-about-team-position-cto": "Chief Technology Officer",
+    "marketing-page-about-team-position-se": "Software Engineer",
+    "marketing-page-about-team-position-qa": "Quality Engineer",
+    "marketing-page-about-team-position-rm-latam": "Regional Manager - LATAM",
+    "marketing-page-about-team-position-rm-europe": "Regional Manager - Europe",
     "marketing-page-about-what-we-do-kiosk-description": "Приложение для планшетов в переговорных комнатах.",
     "marketing-page-about-what-we-do-suite-description": "Программное обеспечение для автоматизации коворкингов.",
     "marketing-page-about-what-we-do-title": "Чем мы занимаемся"
