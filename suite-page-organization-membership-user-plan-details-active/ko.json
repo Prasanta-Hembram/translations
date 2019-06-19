@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-membership-user-plan-details-active-title": "멤버십 플랜",
+    "suite-page-organization-membership-user-plan-details-active-title-with-plan-title": "멤버십 플랜 : {title}",
+    "suite-page-organization-membership-user-plan-details-active-benefits-title": "베네핏",
+    "suite-page-organization-membership-user-plan-details-active-credits": "크레딧",
+    "suite-page-organization-membership-user-plan-details-active-payment": "결제",
+    "suite-page-organization-membership-user-plan-details-active-period-from-title": "시작",
+    "suite-page-organization-membership-user-plan-details-active-period-pay-with-card-title": "카드",
+    "suite-page-organization-membership-user-plan-details-active-period-pay-with-cash-title": "현금",
+    "suite-page-organization-membership-user-plan-details-active-period-pay-with-title": "결제 수단",
+    "suite-page-organization-membership-user-plan-details-active-period-title": "기간",
+    "suite-page-organization-membership-user-plan-details-active-period-until-title": "종료시간",
+    "suite-page-organization-membership-user-plan-details-active-plan-description": "설명",
+    "suite-page-organization-membership-user-plan-details-active-price": "가격",
+    "suite-page-organization-membership-user-plan-details-active-repeat": "정기구독",
+    "suite-page-organization-membership-user-plan-details-active-type": "유형"
+  }
+}

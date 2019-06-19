@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-membership-user-plan-details-active-title": "План",
+    "suite-page-organization-membership-user-plan-details-active-title-with-plan-title": "План: {title}",
+    "suite-page-organization-membership-user-plan-details-active-benefits-title": "Переваги",
+    "suite-page-organization-membership-user-plan-details-active-credits": "Кредити",
+    "suite-page-organization-membership-user-plan-details-active-payment": "Оплата",
+    "suite-page-organization-membership-user-plan-details-active-period-from-title": "Початок",
+    "suite-page-organization-membership-user-plan-details-active-period-pay-with-card-title": "Карткою",
+    "suite-page-organization-membership-user-plan-details-active-period-pay-with-cash-title": "Готівка",
+    "suite-page-organization-membership-user-plan-details-active-period-pay-with-title": "Спосіб",
+    "suite-page-organization-membership-user-plan-details-active-period-title": "Період",
+    "suite-page-organization-membership-user-plan-details-active-period-until-title": "Кінець",
+    "suite-page-organization-membership-user-plan-details-active-plan-description": "Опис",
+    "suite-page-organization-membership-user-plan-details-active-price": "Ціна",
+    "suite-page-organization-membership-user-plan-details-active-repeat": "Поновлення",
+    "suite-page-organization-membership-user-plan-details-active-type": "Тип"
+  }
+}
