@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-auth-agree-to-privacy": "I agree to {privacyPolicy}",
-    "utils-auth-agree-to-terms": "I agree to {termsOfUse}",
+    "utils-auth-agree-to-privacy": "{privacyPolicy} 동의",
+    "utils-auth-agree-to-terms": "{termsOfUse} 동의",
     "utils-auth-back-to-number": "번호 변경",
     "utils-auth-back-to-phone-number": "휴대전화번호로 뒤로가기",
     "utils-auth-code": "인증번호",
