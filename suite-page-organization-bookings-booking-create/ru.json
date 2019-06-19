@@ -15,7 +15,6 @@
     "suite-page-organization-bookings-booking-create-end-time": "Конец",
     "suite-page-organization-bookings-booking-create-error-booking-purpose-empty": "Введите название бронирования.",
     "suite-page-organization-bookings-booking-create-free": "Бесплатно",
-    "suite-page-organization-bookings-booking-create-full-day-description": "Минимальный период бронирования - 1 день.",
     "suite-page-organization-bookings-booking-create-memo": "Заметка",
     "suite-page-organization-bookings-booking-create-memo-placeholder": "Добавить личную заметку",
     "suite-page-organization-bookings-booking-create-no-property": "Невозможно отобразить страницу. Проверьте интернет-соединение.",
@@ -44,8 +43,6 @@
     "suite-page-organization-bookings-booking-create-section-people-capacity": "Максимальное количество мест: {numberOfSeats}.",
     "suite-page-organization-bookings-booking-create-section-purpose": "Цeль",
     "suite-page-organization-bookings-booking-create-section-time": "Время",
-    "suite-page-organization-bookings-booking-create-section-time-max": "Максимальная продолжительность бронирования — {duration}.",
-    "suite-page-organization-bookings-booking-create-section-time-min": "Минимальная продолжительность бронирования — {duration}.",
     "suite-page-organization-bookings-booking-create-start-date": "Дата",
     "suite-page-organization-bookings-booking-create-start-time": "Начало"
   }

@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-membership-user-balance-history-title": "История личных транзакций",
+    "suite-page-organization-membership-user-balance-history-fetch-failure": "Не удалось отобразить историю транзакций. Проверьте интернет-соединение.",
+    "suite-page-organization-membership-user-balance-history-list-empty": "Нет ни одной транзакции."
+  }
+}

@@ -1,25 +1,16 @@
 {
   "data": {
-    "suite-page-organization-membership-plan-details-title": "Придбати",
     "suite-page-organization-membership-plan-details-title-for-admin": "Більше",
     "suite-page-organization-membership-plan-details-title-for-admin-with-plan-title": "Більше про {title}",
-    "suite-page-organization-membership-plan-details-title-with-plan-title": "Придбати {title}",
-    "suite-page-organization-membership-plan-details-credits": "Кредити",
     "suite-page-organization-membership-plan-details-delete-failure": "Не вдалося видалити план.",
     "suite-page-organization-membership-plan-details-delete-plan": "Видалити план",
     "suite-page-organization-membership-plan-details-delete-repeat": "Спробувати знову",
     "suite-page-organization-membership-plan-details-description": "Опис",
     "suite-page-organization-membership-plan-details-empty": "Цього плану не існує, або ж він був видалений.",
-    "suite-page-organization-membership-plan-details-period-from-info": "Послуги надаватимуться з вказаної вище дати.",
-    "suite-page-organization-membership-plan-details-period-from-title": "Початок",
-    "suite-page-organization-membership-plan-details-period-payed-with-card": "Карткою",
-    "suite-page-organization-membership-plan-details-period-payed-with-title": "Оплачено",
     "suite-page-organization-membership-plan-details-period-title": "Період",
     "suite-page-organization-membership-plan-details-plans-all-title": "Усі тарифні плани",
-    "suite-page-organization-membership-plan-details-price": "Тарифний план коштує {price} на {period}.",
     "suite-page-organization-membership-plan-details-pricing": "Ціни",
     "suite-page-organization-membership-plan-details-quantity": "Кількість",
-    "suite-page-organization-membership-plan-details-section-payment": "Оплата",
     "suite-page-organization-membership-plan-details-type": "Тип"
   }
 }
