@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-membership-admin-statistic-income-title": "Income",
+    "suite-page-organization-membership-admin-statistic-income": "Total revenue this month.",
+    "suite-page-organization-membership-admin-statistic-kpi": "KPIs Month to Date",
+    "suite-page-organization-membership-admin-statistic-occupancy-title": "Space Utilization",
+    "suite-page-organization-membership-admin-statistic-occupancy": "Percentage of occupied seats in the workspace."
+  }
+}
