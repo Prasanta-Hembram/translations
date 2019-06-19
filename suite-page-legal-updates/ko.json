@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-page-legal-updates-agree-title": "정책변경 안내",
-    "suite-page-legal-updates-agree-to-privacy": "I accept andcards Privacy Policy",
-    "suite-page-legal-updates-agree-to-terms": "I accept andcards Terms of Use",
+    "suite-page-legal-updates-agree-to-privacy": "개인정보 동의 (필수)",
+    "suite-page-legal-updates-agree-to-terms": "이용약관 동의 (필수)",
     "suite-page-legal-updates-agree-action": "동의하기",
     "suite-page-legal-updates-disagree-action": "취소하기",
     "suite-page-legal-updates-error-no-internet-action": "다시 시도",
