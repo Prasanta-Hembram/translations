@@ -15,7 +15,6 @@
     "suite-page-organization-bookings-booking-create-end-time": "Finalización",
     "suite-page-organization-bookings-booking-create-error-booking-purpose-empty": "Introduzca un título de su reserva.",
     "suite-page-organization-bookings-booking-create-free": "Gratis",
-    "suite-page-organization-bookings-booking-create-full-day-description": "El período mínimo de reserva es de 1 día.",
     "suite-page-organization-bookings-booking-create-memo": "Nota",
     "suite-page-organization-bookings-booking-create-memo-placeholder": "Añadir memo (privado)",
     "suite-page-organization-bookings-booking-create-no-property": "No se pudo mostrar la página. ¿Estás seguro de que hay una conexión a Internet?",
@@ -44,8 +43,6 @@
     "suite-page-organization-bookings-booking-create-section-people-capacity": "Esta sala puede acomodar hasta {numberOfSeats} personas.",
     "suite-page-organization-bookings-booking-create-section-purpose": "Propósito",
     "suite-page-organization-bookings-booking-create-section-time": "Hora",
-    "suite-page-organization-bookings-booking-create-section-time-max": "El tiempo máximo de reserva es {duration}.",
-    "suite-page-organization-bookings-booking-create-section-time-min": "El tiempo mínimo de reserva es {duration}.",
     "suite-page-organization-bookings-booking-create-start-date": "Fecha",
     "suite-page-organization-bookings-booking-create-start-time": "Inicio"
   }

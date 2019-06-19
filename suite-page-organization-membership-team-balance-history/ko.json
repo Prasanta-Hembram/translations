@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-membership-team-balance-history-title": "팀 계정 결제 내역",
+    "suite-page-organization-membership-team-balance-history-fetch-failure": "결제 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-membership-team-balance-history-list-empty": "결제 내역이 없습니다"
+  }
+}

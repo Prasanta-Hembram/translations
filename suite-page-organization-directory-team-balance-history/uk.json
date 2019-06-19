@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-directory-team-balance-history-title": "Історія транзакцій",
-    "suite-page-organization-directory-team-balance-history-title-team": "Історія транзакцій команди",
     "suite-page-organization-directory-team-balance-history-fetch-failure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-directory-team-balance-history-list-empty": "Немає жодних транзакцій."
   }

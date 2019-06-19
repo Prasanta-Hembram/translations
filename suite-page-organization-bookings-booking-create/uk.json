@@ -15,7 +15,6 @@
     "suite-page-organization-bookings-booking-create-end-time": "Кінець",
     "suite-page-organization-bookings-booking-create-error-booking-purpose-empty": "Уведіть назву резервації.",
     "suite-page-organization-bookings-booking-create-free": "Безкоштовно",
-    "suite-page-organization-bookings-booking-create-full-day-description": "Мінімальний період резервації - 1 день.",
     "suite-page-organization-bookings-booking-create-memo": "Нотатка",
     "suite-page-organization-bookings-booking-create-memo-placeholder": "Додати приватнy нотатку",
     "suite-page-organization-bookings-booking-create-no-property": "Неможливо відобразити сторінку. Перевірте інтернет-з'єднання.",
@@ -44,8 +43,6 @@
     "suite-page-organization-bookings-booking-create-section-people-capacity": "Максимальна кількість місць: {numberOfSeats}.",
     "suite-page-organization-bookings-booking-create-section-purpose": "Мета",
     "suite-page-organization-bookings-booking-create-section-time": "Час",
-    "suite-page-organization-bookings-booking-create-section-time-max": "Максимальна тривалість резервації — {duration}.",
-    "suite-page-organization-bookings-booking-create-section-time-min": "Мінімальна тривалість резервації — {duration}.",
     "suite-page-organization-bookings-booking-create-start-date": "Дата",
     "suite-page-organization-bookings-booking-create-start-time": "Початок"
   }
