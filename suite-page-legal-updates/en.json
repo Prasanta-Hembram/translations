@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-legal-updates-agree-title": "Policy Changes",
+    "suite-page-legal-updates-agree-to-privacy": "I accept andcards Privacy Policy",
+    "suite-page-legal-updates-agree-to-terms": "I accept andcards Terms of Use",
     "suite-page-legal-updates-agree-action": "Agree",
     "suite-page-legal-updates-disagree-action": "Disagree",
     "suite-page-legal-updates-error-no-internet-action": "Reload",

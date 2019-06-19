@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-legal-updates-agree-title": "Зміна політики",
+    "suite-page-legal-updates-agree-to-privacy": "I accept andcards Privacy Policy",
+    "suite-page-legal-updates-agree-to-terms": "I accept andcards Terms of Use",
     "suite-page-legal-updates-agree-action": "Погодитись",
     "suite-page-legal-updates-disagree-action": "Відхилити",
     "suite-page-legal-updates-error-no-internet-action": "Перезавантажити",
