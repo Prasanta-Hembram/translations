@@ -9,6 +9,6 @@
     "payments-page-stripe-page-success": "Оплата прошла успешно.",
     "payments-page-stripe-pay-by-card-pay-button": "Оплатить {price}",
     "payments-page-stripe-pay-by-card-pay-title": "Оплатить картой",
-    "payments-page-stripe-pay-by-card-policy-details": "Refund Notice"
+    "payments-page-stripe-pay-by-card-policy-details": "Политика возврата"
   }
 }
