@@ -1,12 +1,12 @@
 {
   "data": {
-    "utils-auth-agree-to-policies": "본인은 만 14세 이상이며, 앤카즈 {termsOfUse}, {cookiePolicy} 그리고 {privacyPolicy} 의 수집, 이용 및 제공에 대한 내용을 확인하였으며, 동의합니다.",
+    "utils-auth-agree-to-privacy": "{privacyPolicy} 동의 (필수)",
+    "utils-auth-agree-to-terms": "{termsOfUse} 동의 (필수)",
     "utils-auth-back-to-number": "번호 변경",
     "utils-auth-back-to-phone-number": "휴대전화번호로 뒤로가기",
     "utils-auth-code": "인증번호",
     "utils-auth-code-invalid": "문자로 받으신 임시 코드를 입력해주세요.",
     "utils-auth-country": "국가",
-    "utils-auth-link-cookies-policy": "쿠키정책",
     "utils-auth-link-privacy-policy": "개인정보",
     "utils-auth-link-terms-of-use": "이용약관",
     "utils-auth-login-options": "로그인 방법",
