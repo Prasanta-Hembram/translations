@@ -9,6 +9,6 @@
     "payments-page-stripe-page-success": "Платіж успешно завершений.",
     "payments-page-stripe-pay-by-card-pay-button": "Оплата {price}",
     "payments-page-stripe-pay-by-card-pay-title": "Оплата карткою",
-    "payments-page-stripe-pay-by-card-policy-details": "Refund Notice"
+    "payments-page-stripe-pay-by-card-policy-details": "Політика повернення"
   }
 }
