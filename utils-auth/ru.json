@@ -1,13 +1,13 @@
 {
   "data": {
-    "utils-auth-agree-to-policies": "Я подтверждаю, что мне не менее 14 лет, и я соглашаюсь с {termsOfUse}, политиками {privacyPolicy} и {cookiePolicy}. Cогласие можно отозвать в Настройках.",
+    "utils-auth-agree-to-privacy": "Соглашаюсь с {privacyPolicy}",
+    "utils-auth-agree-to-terms": "Соглашаюсь с {termsOfUse}",
     "utils-auth-back-to-number": "Назад",
     "utils-auth-back-to-phone-number": "Назад к номеру телефона",
     "utils-auth-code": "Код",
     "utils-auth-code-invalid": "Введите правильный код из текстового сообщения.",
     "utils-auth-country": "Страна",
-    "utils-auth-link-cookies-policy": "куки-файлов",
-    "utils-auth-link-privacy-policy": "конфиденциальности",
+    "utils-auth-link-privacy-policy": "политикой конфиденциальности",
     "utils-auth-link-terms-of-use": "условиями использования",
     "utils-auth-login-options": "Опции входа",
     "utils-auth-login-with-facebook": "Продолжить с помощью Facebook",
