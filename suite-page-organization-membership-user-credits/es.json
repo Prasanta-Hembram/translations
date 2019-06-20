@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-membership-user-credits-title": "Creditos personales",
+    "suite-page-organization-membership-user-credits-error-credit-system-off": "El sistema de crédito del área de trabajo está deshabilitado.",
+    "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} expira el {date}.",
+    "suite-page-organization-membership-user-credits-policy-details": "Aviso de reembolso de crédito"
+  }
+}
