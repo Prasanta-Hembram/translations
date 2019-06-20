@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-membership-team-credits-title": "Team Credits",
+    "suite-page-organization-membership-team-credits-error-credit-system-off": "The workspace does not use a credit system.",
+    "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} expire on {date}.",
+    "suite-page-organization-membership-team-credits-policy-details": "Credit Refund Notice"
+  }
+}
