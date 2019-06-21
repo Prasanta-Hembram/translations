@@ -1,23 +1,18 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Membresía",
-    "suite-page-organization-membership-main-balance-personal-credits-title": "Créditos personales",
-    "suite-page-organization-membership-main-balance-team-credits-title": "Créditos del equipo {teamName}",
-    "suite-page-organization-membership-main-balance-title": "Balance",
-    "suite-page-organization-membership-main-button-all-plans-open": "Todos los planes de membresía",
-    "suite-page-organization-membership-main-button-balance-personal-title": "Historial de saldo personal",
-    "suite-page-organization-membership-main-button-balance-team-title": "Historial de balance de equipo",
-    "suite-page-organization-membership-main-button-personal-credits-title": "Creditos personales",
-    "suite-page-organization-membership-main-button-statistic": "Estadística",
-    "suite-page-organization-membership-main-button-team-credits-title": "Créditos del equipo",
-    "suite-page-organization-membership-main-button-team-invoices": "Facturas",
-    "suite-page-organization-membership-main-button-user-printed-pages": "Impresoras",
-    "suite-page-organization-membership-main-coworking-membership-title": "Plans",
-    "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expira el {date}.",
-    "suite-page-organization-membership-main-credits-how-to-use": "Utilice estos créditos para reservar una sala de reuniones.",
-    "suite-page-organization-membership-main-button-kpi-statistic": "KPIs mes a la fecha",
-    "suite-page-organization-membership-main-pages-printed-title": "Páginas impresas",
-    "suite-page-organization-membership-main-personal-title": "Membresía personal",
-    "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}"
+    "suite-page-organization-membership-main-section-admin-title": "Admin",
+    "suite-page-organization-membership-main-section-admin-plans-button": "All plans",
+    "suite-page-organization-membership-main-section-admin-statistics-button": "Estadística",
+    "suite-page-organization-membership-main-section-personal-title": "Personal",
+    "suite-page-organization-membership-main-section-personal-balance-history-button": "Balance History",
+    "suite-page-organization-membership-main-section-personal-credits-button": "Credits",
+    "suite-page-organization-membership-main-section-personal-plan-button": "Plan",
+    "suite-page-organization-membership-main-section-personal-printing-button": "Printing",
+    "suite-page-organization-membership-main-section-team-title": "Team",
+    "suite-page-organization-membership-main-section-team-balance-history-button": "Balance History",
+    "suite-page-organization-membership-main-section-team-credits-button": "Credits",
+    "suite-page-organization-membership-main-section-team-invoices-button": "Facturas",
+    "suite-page-organization-membership-main-section-team-plan-button": "Plan"
   }
 }
