@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-membership-team-edit-button-balance-history": "Історія транзакцій",
+    "suite-page-organization-membership-team-edit-button-credits": "Кредити команди",
+    "suite-page-organization-membership-team-edit-button-invoices": "Інвойси",
+    "suite-page-organization-membership-team-edit-cash-balance-title": "Баланс готівки",
+    "suite-page-organization-membership-team-edit-icon": "Емодзі",
+    "suite-page-organization-membership-team-edit-name": "Назва",
+    "suite-page-organization-membership-team-edit-no-members-in-team": "У цієї команди ще немає учасників.",
+    "suite-page-organization-membership-team-edit-not-found-error": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-membership-team-edit-section-balance-title": "Баланс",
+    "suite-page-organization-membership-team-edit-section-plan-title": "План",
+    "suite-page-organization-membership-team-edit-section-team-members": "Члени команди",
+    "suite-page-organization-membership-team-edit-title": "Команда"
+  }
+}
