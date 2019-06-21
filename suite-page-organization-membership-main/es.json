@@ -6,9 +6,11 @@
     "suite-page-organization-membership-main-balance-title": "Balance",
     "suite-page-organization-membership-main-button-all-plans-open": "Todos los planes de membresía",
     "suite-page-organization-membership-main-button-balance-personal-title": "Historial de saldo personal",
+    "suite-page-organization-membership-main-button-personal-credits-title": "Creditos personales",
     "suite-page-organization-membership-main-button-balance-team-title": "Historial de balance de equipo",
+    "suite-page-organization-membership-main-button-team-credits-title": "Créditos del equipo",
     "suite-page-organization-membership-main-button-team-invoices": "Facturas",
-    "suite-page-organization-membership-main-button-team-title": "Team Profile",
+    "suite-page-organization-membership-main-button-user-printed-pages": "Printers",
     "suite-page-organization-membership-main-coworking-membership-title": "Plans",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expira el {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Utilice estos créditos para reservar una sala de reuniones.",
@@ -18,7 +20,6 @@
     "suite-page-organization-membership-main-occupancy-title": "Utilización del espacio",
     "suite-page-organization-membership-main-occupancy": "Porcentaje de asientos ocupados en el espacio de trabajo.",
     "suite-page-organization-membership-main-pages-printed-title": "Páginas impresas",
-    "suite-page-organization-membership-main-pages-printer-user-id": "Sindoh Login",
     "suite-page-organization-membership-main-personal-title": "Membresía personal",
     "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}"
   }

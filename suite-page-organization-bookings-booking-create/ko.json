@@ -41,7 +41,6 @@
     "suite-page-organization-bookings-booking-create-section-payment": "결제",
     "suite-page-organization-bookings-booking-create-section-people": "예약자",
     "suite-page-organization-bookings-booking-create-section-people-capacity": "이 회의실은 최대 {numberOfSeats}명 수용가능합니다.",
-    "suite-page-organization-bookings-booking-create-section-purpose": "목적",
     "suite-page-organization-bookings-booking-create-section-time": "시간",
     "suite-page-organization-bookings-booking-create-start-date": "시작일",
     "suite-page-organization-bookings-booking-create-start-time": "시작"
