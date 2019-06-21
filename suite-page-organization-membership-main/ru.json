@@ -1,19 +1,19 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Участие",
-    "suite-page-organization-membership-main-section-admin-title": "Admin",
-    "suite-page-organization-membership-main-section-admin-plans-button": "All plans",
+    "suite-page-organization-membership-main-section-admin-title": "Администратор",
+    "suite-page-organization-membership-main-section-admin-plans-button": "Все тарифные планы",
     "suite-page-organization-membership-main-section-admin-statistics-button": "Статистика",
-    "suite-page-organization-membership-main-section-personal-title": "Personal",
-    "suite-page-organization-membership-main-section-personal-balance-history-button": "Balance History",
-    "suite-page-organization-membership-main-section-personal-credits-button": "Credits",
-    "suite-page-organization-membership-main-section-personal-plan-button": "Plan",
-    "suite-page-organization-membership-main-section-personal-printing-button": "Printing",
-    "suite-page-organization-membership-main-section-team-title": "Team",
-    "suite-page-organization-membership-main-section-team-balance-history-button": "Balance History",
-    "suite-page-organization-membership-main-section-team-credits-button": "Credits",
+    "suite-page-organization-membership-main-section-personal-title": "Личное",
+    "suite-page-organization-membership-main-section-personal-balance-history-button": "История тразакций",
+    "suite-page-organization-membership-main-section-personal-credits-button": "Кредиты",
+    "suite-page-organization-membership-main-section-personal-plan-button": "План",
+    "suite-page-organization-membership-main-section-personal-printing-button": "Принтеры",
+    "suite-page-organization-membership-main-section-team-title": "Команда",
+    "suite-page-organization-membership-main-section-team-balance-history-button": "История транзакций",
+    "suite-page-organization-membership-main-section-team-credits-button": "Кредиты",
     "suite-page-organization-membership-main-section-team-invoices-button": "Инвойсы",
-    "suite-page-organization-membership-main-section-team-plan-button": "Plan",
+    "suite-page-organization-membership-main-section-team-plan-button": "План",
     "suite-page-organization-membership-main-section-team-profile-button": "Профиль"
   }
 }
