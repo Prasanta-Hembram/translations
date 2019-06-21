@@ -7,8 +7,8 @@
     "payments-page-kakaopay-page-title-invoice": "Оплатить инвойс",
     "payments-page-kakaopay-page-error": "Запрос на оплату уже обработан или не существует.",
     "payments-page-kakaopay-page-success": "Оплата прошла успешно.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "By providing your card details and email for processing the payment and sending receipt, you agree to the {privacyPolicy}. Additionally, your data is subject to policies of your service provider.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "andcards Privacy Policy",
+    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "Предоставляя данные своей карты и адрес электронной почты для обработки платежа и отправки квитанции, вы соглашаетесь с {privacyPolicy}. Кроме того, ваши данные подпадают под политику вашего поставщика услуг.",
+    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "Политика Конфиденциальности andcards",
     "payments-page-kakaopay-pay-by-card-pay-button": "Оплатить {price}",
     "payments-page-kakaopay-pay-by-card-pay-title": "Оплатить {paymentMethod}"
   }
