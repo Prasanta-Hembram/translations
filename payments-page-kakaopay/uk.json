@@ -10,6 +10,7 @@
     "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "Надаючи дані своєї картки та електронну пошту для обробки платежу та надсилання квитанції, ви погоджуєтеся з {privacyPolicy}. Крім того, ваші дані підлягають політиці вашого постачальника послуг.",
     "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "Політика Приватності andcards",
     "payments-page-kakaopay-pay-by-card-pay-button": "Оплата {price}",
-    "payments-page-kakaopay-pay-by-card-pay-title": "Оплата {paymentMethod}"
+    "payments-page-kakaopay-pay-by-card-pay-title": "Оплата {paymentMethod}",
+    "payments-page-kakaopay-pay-by-card-policy-details": "Політика повернення коштів"
   }
 }
