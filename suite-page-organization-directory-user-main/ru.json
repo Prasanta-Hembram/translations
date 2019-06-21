@@ -24,8 +24,6 @@
     "suite-page-organization-directory-user-main-error-user-not-found": "Участника не существует или же он был удален.",
     "suite-page-organization-directory-user-main-leave-repeat": "Попробовать еще раз",
     "suite-page-organization-directory-user-main-leave-user-failure": "Не удалось удалить участника.",
-    "suite-page-organization-directory-user-main-link-none-label": "Не выбрано",
-    "suite-page-organization-directory-user-main-pages-printed-account": "Связать с",
     "suite-page-organization-directory-user-main-role": "Роль",
     "suite-page-organization-directory-user-main-role-admin": "Администратор",
     "suite-page-organization-directory-user-main-role-guest": "Гость",

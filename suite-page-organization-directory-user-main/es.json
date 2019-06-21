@@ -24,8 +24,6 @@
     "suite-page-organization-directory-user-main-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-user-main-leave-repeat": "Inténtalo de nuevo",
     "suite-page-organization-directory-user-main-leave-user-failure": "No se pudo eliminar al usuario del espacio de trabajo.",
-    "suite-page-organization-directory-user-main-link-none-label": "Ninguna",
-    "suite-page-organization-directory-user-main-pages-printed-account": "Vincular cuenta de impresora",
     "suite-page-organization-directory-user-main-role": "Función",
     "suite-page-organization-directory-user-main-role-admin": "Administrador",
     "suite-page-organization-directory-user-main-role-guest": "Invitado",
