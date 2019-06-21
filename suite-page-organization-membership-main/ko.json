@@ -1,17 +1,19 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "멤버십",
-    "suite-page-organization-membership-main-balance-title": "전액",
-    "suite-page-organization-membership-main-button-all-plans-open": "전체 멤버십 플랜",
-    "suite-page-organization-membership-main-button-balance-personal-title": "개인 계정 결제 내역",
-    "suite-page-organization-membership-main-button-balance-team-title": "팀 계정 결제 내역",
-    "suite-page-organization-membership-main-button-personal-credits-title": "개인 크레딧",
-    "suite-page-organization-membership-main-button-statistic": "통계 자료",
-    "suite-page-organization-membership-main-button-team-title": "Team profile",
-    "suite-page-organization-membership-main-button-user-printed-pages": "프린터",
-    "suite-page-organization-membership-main-coworking-membership-title": "플랜",
-    "suite-page-organization-membership-main-pages-printed-title": "프린트 내역",
-    "suite-page-organization-membership-main-personal-title": "개인 멤버십 플랜",
-    "suite-page-organization-membership-main-plan-team-title": "{teamName} 팀 멤버십 플랜"
+    "suite-page-organization-membership-main-section-admin-title": "관리자",
+    "suite-page-organization-membership-main-section-admin-plans-button": "전체 플랜",
+    "suite-page-organization-membership-main-section-admin-statistics-button": "통계 자료",
+    "suite-page-organization-membership-main-section-personal-title": "Personal",
+    "suite-page-organization-membership-main-section-personal-balance-history-button": "결제 내역",
+    "suite-page-organization-membership-main-section-personal-credits-button": "Credits",
+    "suite-page-organization-membership-main-section-personal-plan-button": "플랜",
+    "suite-page-organization-membership-main-section-personal-printing-button": "프린터",
+    "suite-page-organization-membership-main-section-team-title": "팀",
+    "suite-page-organization-membership-main-section-team-balance-history-button": "결제 내역",
+    "suite-page-organization-membership-main-section-team-credits-button": "크레딧",
+    "suite-page-organization-membership-main-section-team-invoices-button": "인보이스",
+    "suite-page-organization-membership-main-section-team-plan-button": "플랜",
+    "suite-page-organization-membership-main-section-team-profile-button": "프로필"
   }
 }
