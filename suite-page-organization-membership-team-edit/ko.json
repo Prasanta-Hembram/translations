@@ -9,10 +9,8 @@
     "suite-page-organization-membership-team-edit-button-credits": "팀 크레딧",
     "suite-page-organization-membership-team-edit-button-invoices": "인보이스",
     "suite-page-organization-membership-team-edit-cash-balance-title": "현금 잔액",
-    "suite-page-organization-membership-team-edit-error-title": "팀 명을 입력하세요.",
     "suite-page-organization-membership-team-edit-icon": "팀 에모지",
     "suite-page-organization-membership-team-edit-name": "팀 명",
-    "suite-page-organization-membership-team-edit-name-placeholder": "팀 명 입력하기",
     "suite-page-organization-membership-team-edit-no-members-in-team": "이 팀에 아직 팀원이 없습니다.",
     "suite-page-organization-membership-team-edit-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-membership-team-edit-section-balance-title": "전액",
@@ -20,10 +18,8 @@
     "suite-page-organization-membership-team-edit-section-plan-title": "플랜",
     "suite-page-organization-membership-team-edit-section-team-actions": "팀 계정 관리",
     "suite-page-organization-membership-team-edit-section-team-members": "팀원",
-    "suite-page-organization-membership-team-edit-select-icon-title": "에모지 선택하기",
     "suite-page-organization-membership-team-edit-team-invoice": "팀 인보이스",
     "suite-page-organization-membership-team-edit-team-invoice-description": "이 기능을 켜시면, 팀 인보이스 결제 방법은 이용 할 수 있습니다.",
-    "suite-page-organization-membership-team-edit-title": "팀",
-    "suite-page-organization-membership-team-edit-update-failure": "업데이트 실패"
+    "suite-page-organization-membership-team-edit-title": "팀"
   }
 }

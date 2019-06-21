@@ -9,10 +9,8 @@
     "suite-page-organization-membership-team-edit-button-credits": "Кредиты команды",
     "suite-page-organization-membership-team-edit-button-invoices": "Инвойсы",
     "suite-page-organization-membership-team-edit-cash-balance-title": "Баланс наличных",
-    "suite-page-organization-membership-team-edit-error-title": "Введите название команды.",
     "suite-page-organization-membership-team-edit-icon": "Эмодзи",
     "suite-page-organization-membership-team-edit-name": "Название",
-    "suite-page-organization-membership-team-edit-name-placeholder": "Введите название",
     "suite-page-organization-membership-team-edit-no-members-in-team": "В этой команде еще нет участников.",
     "suite-page-organization-membership-team-edit-not-found-error": "Эта команда не существует или была удалена.",
     "suite-page-organization-membership-team-edit-section-balance-title": "Баланс",
@@ -20,10 +18,8 @@
     "suite-page-organization-membership-team-edit-section-plan-title": "План",
     "suite-page-organization-membership-team-edit-section-team-actions": "Дополнительные действия",
     "suite-page-organization-membership-team-edit-section-team-members": "Участники команды",
-    "suite-page-organization-membership-team-edit-select-icon-title": "Выбрать эмодзи",
     "suite-page-organization-membership-team-edit-team-invoice": "Инвойс команды",
     "suite-page-organization-membership-team-edit-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
-    "suite-page-organization-membership-team-edit-title": "Команда",
-    "suite-page-organization-membership-team-edit-update-failure": "Невозможно обновить"
+    "suite-page-organization-membership-team-edit-title": "Команда"
   }
 }

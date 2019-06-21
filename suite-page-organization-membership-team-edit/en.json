@@ -9,10 +9,8 @@
     "suite-page-organization-membership-team-edit-button-credits": "Team Credits",
     "suite-page-organization-membership-team-edit-button-invoices": "Invoices",
     "suite-page-organization-membership-team-edit-cash-balance-title": "Cash Balance",
-    "suite-page-organization-membership-team-edit-error-title": "Type a team name.",
     "suite-page-organization-membership-team-edit-icon": "Emoji",
     "suite-page-organization-membership-team-edit-name": "Name",
-    "suite-page-organization-membership-team-edit-name-placeholder": "Type a name",
     "suite-page-organization-membership-team-edit-no-members-in-team": "This team doesn't have members yet.",
     "suite-page-organization-membership-team-edit-not-found-error": "This team may not exist or may have been removed.",
     "suite-page-organization-membership-team-edit-section-balance-title": "Balance",
@@ -20,10 +18,8 @@
     "suite-page-organization-membership-team-edit-section-plan-title": "Plan",
     "suite-page-organization-membership-team-edit-section-team-actions": "Team Actions",
     "suite-page-organization-membership-team-edit-section-team-members": "Team Members",
-    "suite-page-organization-membership-team-edit-select-icon-title": "Select Emoji",
     "suite-page-organization-membership-team-edit-team-invoice": "Team Invoice",
     "suite-page-organization-membership-team-edit-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
-    "suite-page-organization-membership-team-edit-title": "Team",
-    "suite-page-organization-membership-team-edit-update-failure": "Failed to update"
+    "suite-page-organization-membership-team-edit-title": "Team"
   }
 }

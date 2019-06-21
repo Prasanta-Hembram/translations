@@ -9,10 +9,8 @@
     "suite-page-organization-membership-team-edit-button-credits": "Créditos del equipo",
     "suite-page-organization-membership-team-edit-button-invoices": "Facturas",
     "suite-page-organization-membership-team-edit-cash-balance-title": "Balance en efectivo",
-    "suite-page-organization-membership-team-edit-error-title": "Añade el título del equipo.",
     "suite-page-organization-membership-team-edit-icon": "Ícono",
     "suite-page-organization-membership-team-edit-name": "Nombre",
-    "suite-page-organization-membership-team-edit-name-placeholder": "Ingrese su nombre",
     "suite-page-organization-membership-team-edit-no-members-in-team": "Este equipo aún no tiene miembros.",
     "suite-page-organization-membership-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-membership-team-edit-section-balance-title": "Balance",
@@ -20,10 +18,8 @@
     "suite-page-organization-membership-team-edit-section-plan-title": "Plan",
     "suite-page-organization-membership-team-edit-section-team-actions": "Acciones de equipo",
     "suite-page-organization-membership-team-edit-section-team-members": "Miembros del equipo",
-    "suite-page-organization-membership-team-edit-select-icon-title": "Seleccionar Ícono",
     "suite-page-organization-membership-team-edit-team-invoice": "Factura de equipo",
     "suite-page-organization-membership-team-edit-team-invoice-description": "Habilitar el método de pago de facturas del equipo queda disponible para el equipo.",
-    "suite-page-organization-membership-team-edit-title": "Equipo",
-    "suite-page-organization-membership-team-edit-update-failure": "Error al actualizar"
+    "suite-page-organization-membership-team-edit-title": "Equipo"
   }
 }
