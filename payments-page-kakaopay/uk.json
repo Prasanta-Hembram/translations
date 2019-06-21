@@ -8,6 +8,7 @@
     "payments-page-kakaopay-page-error": "Платіжний запит виконано або не існує.",
     "payments-page-kakaopay-page-success": "Платіж успешно завершений.",
     "payments-page-kakaopay-pay-by-card-pay-button": "Оплата {price}",
-    "payments-page-kakaopay-pay-by-card-pay-title": "Оплата {paymentMethod}"
+    "payments-page-kakaopay-pay-by-card-pay-title": "Оплата {paymentMethod}",
+    "payments-page-kakaopay-pay-by-card-policy-details": "Політика повернення коштів"
   }
 }
