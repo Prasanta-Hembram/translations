@@ -8,6 +8,7 @@
     "payments-page-kakaopay-page-error": "The payment request has already completed or does not exist.",
     "payments-page-kakaopay-page-success": "The payment has succeeded.",
     "payments-page-kakaopay-pay-by-card-pay-button": "Pay {price}",
-    "payments-page-kakaopay-pay-by-card-pay-title": "Pay by {paymentMethod}"
+    "payments-page-kakaopay-pay-by-card-pay-title": "Pay by {paymentMethod}",
+    "payments-page-kakaopay-pay-by-card-policy-details": "Refund Notice"
   }
 }
