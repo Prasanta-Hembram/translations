@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Membresía",
-    "suite-page-organization-membership-main-balance-personal-credits-title": "Créditos personales",
-    "suite-page-organization-membership-main-balance-team-credits-title": "Créditos del equipo {teamName}",
     "suite-page-organization-membership-main-balance-title": "Balance",
     "suite-page-organization-membership-main-button-all-plans-open": "Todos los planes de membresía",
     "suite-page-organization-membership-main-button-balance-personal-title": "Historial de saldo personal",
@@ -12,8 +10,6 @@
     "suite-page-organization-membership-main-button-team-title": "Perfil del Equipo",
     "suite-page-organization-membership-main-button-user-printed-pages": "Impresoras",
     "suite-page-organization-membership-main-coworking-membership-title": "Plans",
-    "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} expira el {date}.",
-    "suite-page-organization-membership-main-credits-how-to-use": "Utilice estos créditos para reservar una sala de reuniones.",
     "suite-page-organization-membership-main-pages-printed-title": "Páginas impresas",
     "suite-page-organization-membership-main-personal-title": "Membresía personal",
     "suite-page-organization-membership-main-plan-team-title": "Membresía del equipo {teamName}"

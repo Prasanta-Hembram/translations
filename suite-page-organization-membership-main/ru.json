@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Участие",
-    "suite-page-organization-membership-main-balance-personal-credits-title": "Кредиты личные",
-    "suite-page-organization-membership-main-balance-team-credits-title": "Кредиты команды {teamName}",
     "suite-page-organization-membership-main-balance-title": "Баланс",
     "suite-page-organization-membership-main-button-all-plans-open": "Все тарифные планы",
     "suite-page-organization-membership-main-button-balance-personal-title": "История личных транзакций",
@@ -12,8 +10,6 @@
     "suite-page-organization-membership-main-button-team-title": "Профиль Команды",
     "suite-page-organization-membership-main-button-user-printed-pages": "Принтеры",
     "suite-page-organization-membership-main-coworking-membership-title": "Тарифный план",
-    "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} истекают {date}.",
-    "suite-page-organization-membership-main-credits-how-to-use": "Используйте эти кредиты для бронирования переговорных.",
     "suite-page-organization-membership-main-pages-printed-title": "Напечатанных страниц",
     "suite-page-organization-membership-main-personal-title": "Личный план",
     "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}"
