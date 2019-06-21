@@ -1,10 +1,5 @@
 {
   "data": {
-    "suite-page-organization-membership-team-edit-book-by-invoice-permission": "Бронирование по инвойсу",
-    "suite-page-organization-membership-team-edit-book-by-invoice-permission-all-members": "Все участники команды",
-    "suite-page-organization-membership-team-edit-book-by-invoice-permission-info-all-members": "Все участники команды могут бронировать переговорные с помощью инвойса.",
-    "suite-page-organization-membership-team-edit-book-by-invoice-permission-info-team-admins": "Только менеджеры команды могут бронировать переговорные с помощью инвойса.",
-    "suite-page-organization-membership-team-edit-book-by-invoice-permission-team-admins": "Только менеджеры команды",
     "suite-page-organization-membership-team-edit-button-balance-history": "История транзакций",
     "suite-page-organization-membership-team-edit-button-credits": "Кредиты команды",
     "suite-page-organization-membership-team-edit-button-invoices": "Инвойсы",
@@ -14,12 +9,8 @@
     "suite-page-organization-membership-team-edit-no-members-in-team": "В этой команде еще нет участников.",
     "suite-page-organization-membership-team-edit-not-found-error": "Эта команда не существует или была удалена.",
     "suite-page-organization-membership-team-edit-section-balance-title": "Баланс",
-    "suite-page-organization-membership-team-edit-section-plan-button-assign": "Присвоить план",
     "suite-page-organization-membership-team-edit-section-plan-title": "План",
-    "suite-page-organization-membership-team-edit-section-team-actions": "Дополнительные действия",
     "suite-page-organization-membership-team-edit-section-team-members": "Участники команды",
-    "suite-page-organization-membership-team-edit-team-invoice": "Инвойс команды",
-    "suite-page-organization-membership-team-edit-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
     "suite-page-organization-membership-team-edit-title": "Команда"
   }
 }
