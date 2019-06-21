@@ -2,8 +2,8 @@
   "data": {
     "suite-page-organization-transaction-booking-details-end-date": "종료",
     "suite-page-organization-transaction-booking-details-start-date": "시작",
-    "suite-page-organization-transaction-booking-details-property-name": "Room",
-    "suite-page-organization-transaction-booking-details-title": "Booking Details",
+    "suite-page-organization-transaction-booking-details-property-name": "회의실",
+    "suite-page-organization-transaction-booking-details-title": "예약 내역",
     "suite-page-organization-transaction-date-label": "날짜",
     "suite-page-organization-transaction-date-from-label": "시작일",
     "suite-page-organization-transaction-date-until-label": "종료시간",
