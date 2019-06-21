@@ -1,5 +1,9 @@
 {
   "data": {
+    "suite-page-organization-transaction-booking-details-end-date": "Ending",
+    "suite-page-organization-transaction-booking-details-start-date": "Starting",
+    "suite-page-organization-transaction-booking-details-property-name": "Room",
+    "suite-page-organization-transaction-booking-details-title": "Booking Details",
     "suite-page-organization-transaction-date-label": "Fecha",
     "suite-page-organization-transaction-date-from-label": "Desde",
     "suite-page-organization-transaction-date-until-label": "Hasta",
