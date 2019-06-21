@@ -10,6 +10,7 @@
     "suite-page-organization-membership-main-button-personal-credits-title": "Кредити особисті",
     "suite-page-organization-membership-main-button-team-credits-title": "Кредити команди",
     "suite-page-organization-membership-main-button-team-invoices": "Інвойси",
+    "suite-page-organization-membership-main-button-user-printed-pages": "Принтери",
     "suite-page-organization-membership-main-coworking-membership-title": "Тарифні плани",
     "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-membership-main-credits-how-to-use": "Використовуйте ці кредити для резервації кімнат.",
@@ -19,7 +20,6 @@
     "suite-page-organization-membership-main-occupancy-title": "Заповненість",
     "suite-page-organization-membership-main-occupancy": "Відсоток зайнятих місць в коворкінгу.",
     "suite-page-organization-membership-main-pages-printed-title": "Надрукованих сторінок",
-    "suite-page-organization-membership-main-pages-printer-user-id": "Логін Sindoh",
     "suite-page-organization-membership-main-personal-title": "Особистий план",
     "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}"
   }
