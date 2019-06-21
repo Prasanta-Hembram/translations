@@ -22,6 +22,8 @@
     "bulk-invite-success-email-reservations-list-item": "🕙 회의실 예약",
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
     "feed-post-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다",
+    "invoice-finalize-notification-body": "{teamTitle}의 {invoiceMonth} 인보이스는 준비하였습니다! 상세 내용을 확인하시고 결제해주세요.",
+    "invoice-finalize-notification-title": "{organizationTitle} 결제 요청",
     "membership-plan-ends-in-five-days-notification-body": "5일 후에 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
     "membership-plan-ends-tomorrow-notification-body": "내일 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
     "membership-plan-renew-in-five-days-notification-body": "5일 후에 멤버십 플랜이 자동으로 연장됩니다.",

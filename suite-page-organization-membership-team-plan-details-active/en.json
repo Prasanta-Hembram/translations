@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-plan-details-active-title": "Plan",
-    "suite-page-organization-membership-team-plan-details-active-title-with-plan-title": "Plan: {title}",
     "suite-page-organization-membership-team-plan-details-active-benefits": "Benefits",
     "suite-page-organization-membership-team-plan-details-active-credits": "Credits",
     "suite-page-organization-membership-team-plan-details-active-error-team-not-found": "This team may not exists or may have been removed.",
