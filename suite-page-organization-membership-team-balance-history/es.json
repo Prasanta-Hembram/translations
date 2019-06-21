@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-membership-team-balance-history-title": "Historial de balance de equipo",
+    "suite-page-organization-membership-team-balance-history-title": "Historial de balance",
     "suite-page-organization-membership-team-balance-history-fetch-failure": "No se pudo mostrar el historial de saldo. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-membership-team-balance-history-list-empty": "No hay transacciones."
   }

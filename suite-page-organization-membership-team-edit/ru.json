@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-membership-team-edit-button-balance-history": "История транзакций",
+    "suite-page-organization-membership-team-edit-button-credits": "Кредиты команды",
+    "suite-page-organization-membership-team-edit-button-invoices": "Инвойсы",
+    "suite-page-organization-membership-team-edit-cash-balance-title": "Баланс наличных",
+    "suite-page-organization-membership-team-edit-icon": "Эмодзи",
+    "suite-page-organization-membership-team-edit-name": "Название",
+    "suite-page-organization-membership-team-edit-no-members-in-team": "В этой команде еще нет участников.",
+    "suite-page-organization-membership-team-edit-not-found-error": "Эта команда не существует или была удалена.",
+    "suite-page-organization-membership-team-edit-section-balance-title": "Баланс",
+    "suite-page-organization-membership-team-edit-section-plan-title": "План",
+    "suite-page-organization-membership-team-edit-section-team-members": "Участники команды",
+    "suite-page-organization-membership-team-edit-title": "Команда"
+  }
+}
