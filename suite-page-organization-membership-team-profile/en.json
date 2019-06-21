@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-membership-team-profile-icon": "Emoji",
+    "suite-page-organization-membership-team-profile-name": "Name",
+    "suite-page-organization-membership-team-profile-no-members-in-team": "This team doesn't have members yet.",
+    "suite-page-organization-membership-team-profile-not-found-error": "This team may not exist or may have been removed.",
+    "suite-page-organization-membership-team-profile-section-team-members": "Team Members",
+    "suite-page-organization-membership-team-profile-title": "Team"
+  }
+}
