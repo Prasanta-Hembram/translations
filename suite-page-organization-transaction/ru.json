@@ -1,5 +1,9 @@
 {
   "data": {
+    "suite-page-organization-transaction-booking-details-end-date": "Конец",
+    "suite-page-organization-transaction-booking-details-start-date": "Начало",
+    "suite-page-organization-transaction-booking-details-property-name": "Комната",
+    "suite-page-organization-transaction-booking-details-title": "Детали бронирования",
     "suite-page-organization-transaction-date-label": "Дата",
     "suite-page-organization-transaction-date-from-label": "Начало",
     "suite-page-organization-transaction-date-until-label": "Конец",
