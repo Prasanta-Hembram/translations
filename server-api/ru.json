@@ -47,7 +47,8 @@
     "payment-receipt-email-header-tax": "Tax",
     "payment-receipt-email-header-total-amount": "Total Amount",
     "payment-receipt-email-issue-date": "Issue Date: {receiptDate}",
-    "payment-receipt-email-room-reservation-default": "Room reservation",
+    "payment-receipt-email-room-booking-default": "Room Booking",
+    "payment-receipt-email-room-booking": "Room Booking {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
     "payment-receipt-email-subject": "{organizationTitle} receipt",
     "payment-receipt-email-title": "Receipt #{receiptId}",
     "powered-by-andcards": "Сервис от {andcardsUrl}"
