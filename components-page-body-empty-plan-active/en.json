@@ -1,7 +1,6 @@
 {
   "data": {
-      "components-page-body-empty-plan-active-title": "No membership plan. Contact workspace administrator or moderator to get one.",
-      "components-page-body-empty-plan-active-title-for-admin": "Assign a membership plan to give credits automatically and track payments.",
-      "components-page-body-empty-plan-active-button-assign": "Assign"
+    "components-page-body-empty-plan-active-title": "No membership plan.",
+    "components-page-body-empty-plan-active-button-assign": "Assign"
   }
 }
