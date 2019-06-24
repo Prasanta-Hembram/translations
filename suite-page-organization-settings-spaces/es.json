@@ -12,6 +12,7 @@
     "suite-page-organization-settings-spaces-description-placeholder": "Agregar descripción",
     "suite-page-organization-settings-spaces-email": "Correo electrónico",
     "suite-page-organization-settings-spaces-email-placeholder": "Ingrese correo electrónico",
+    "suite-page-organization-settings-spaces-error-organization-code": "Type a tag of your workspace.",
     "suite-page-organization-settings-spaces-error-organization-email": "Por favor, introduzca un correo electrónico correcto.",
     "suite-page-organization-settings-spaces-error-organization-title": "Por favor ingrese un nombre de su espacio de trabajo.",
     "suite-page-organization-settings-spaces-link": "Enlazar",
