@@ -1,7 +1,6 @@
 {
   "data": {
-    "components-page-body-empty-plan-active-title": "No hay plan de membresía. Póngase en contacto con el administrador o moderador del área de trabajo para obtener uno.",
-    "components-page-body-empty-plan-active-title-for-admin": "Asigne un plan de membresía para otorgar créditos automáticamente y realizar un seguimiento de los pagos.",
+    "components-page-body-empty-plan-active-title": "No hay plan de membresía.",
     "components-page-body-empty-plan-active-button-assign": "Asignar"
   }
 }
