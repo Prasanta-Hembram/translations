@@ -34,7 +34,7 @@
     "membership-request-reject-notification-title": "Membership Request",
     "membership-request-review-notification-body": "New request to join {organizationTitle}. Review and resolve.",
     "membership-request-review-notification-title": "Membership Request",
-    "payment-receipt-email-customer-number": "Customer No.: {customerId}",
+    "payment-receipt-email-customer-number": "Customer {customerName}",
     "payment-receipt-email-footer-net-amount": "Net Amount",
     "payment-receipt-email-footer-paid-amount": "Paid Amount",
     "payment-receipt-email-footer-payment-method": "Payment Method",
@@ -49,7 +49,7 @@
     "payment-receipt-email-issue-date": "Issue Date: {receiptDate}",
     "payment-receipt-email-room-reservation-item": "{organizationTitle} room reservation",
     "payment-receipt-email-subject": "{organizationTitle} receipt",
-    "payment-receipt-email-title": "Receipt {receiptId}",
+    "payment-receipt-email-title": "Receipt #{receiptId}",
     "powered-by-andcards": "Powered by {andcardsUrl}"
   }
 }

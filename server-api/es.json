@@ -34,7 +34,7 @@
     "membership-request-reject-notification-title": "Solicitud de Membresía",
     "membership-request-review-notification-body": "Nueva solicitud para unirse a {organizationTitle}. Revisar y resolver.",
     "membership-request-review-notification-title": "Solicitud de Membresía",
-    "payment-receipt-email-customer-number": "Cliente No.: {customerId}",
+    "payment-receipt-email-customer-number": "Cliente {customerName}",
     "payment-receipt-email-footer-net-amount": "Net Amount",
     "payment-receipt-email-footer-paid-amount": "Paid Amount",
     "payment-receipt-email-footer-payment-method": "Payment Method",
@@ -49,7 +49,7 @@
     "payment-receipt-email-issue-date": "Fecha de emisión: {receiptDate}",
     "payment-receipt-email-room-reservation-item": "{organizationTitle} reserva de sala",
     "payment-receipt-email-subject": "{organizationTitle} comprobante",
-    "payment-receipt-email-title": "Comprobante {receiptId}",
+    "payment-receipt-email-title": "Comprobante #{receiptId}",
     "powered-by-andcards": "Desarrollado por {andcardsUrl}"
   }
 }
