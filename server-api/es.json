@@ -40,7 +40,7 @@
     "payment-receipt-email-footer-payment-method": "Payment Method",
     "payment-receipt-email-footer-tax": "Tax ({taxPercent}%)",
     "payment-receipt-email-footer-total-amount": "Total Amount",
-    "payment-receipt-email-footer-total-amount-in-words": "Total Amount in Words",
+    "payment-receipt-email-footer-total-amount-in-words": "Total Amount in Words: ",
     "payment-receipt-email-header-description": "Description",
     "payment-receipt-email-header-net-amount": "Net Amount",
     "payment-receipt-email-header-quantity": "Quantity",
