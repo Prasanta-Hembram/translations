@@ -3,10 +3,10 @@
     "suite-page-organization-feed-main-title": "Comunidad",
     "suite-page-organization-feed-main-fetch-failure": "No se pudo mostrar el feed. ¿Seguro que hay conexión a internet?",
     "suite-page-organization-feed-main-no-feed-button-create": "Crear",
-    "suite-page-organization-feed-main-no-feed-desc": "Vuelve para noticias y anuncios importantes.",
-    "suite-page-organization-feed-main-no-feed-desc-admin": "Comparta noticias, haga una pregunta y conéctese a la comunidad del área de trabajo.",
+    "suite-page-organization-feed-main-no-feed-description-admin": "Comparta noticias, haga una pregunta y conéctese a la comunidad del área de trabajo.",
+    "suite-page-organization-feed-main-no-feed-description-member": "Vuelve para noticias y anuncios importantes.",
     "suite-page-organization-feed-main-no-feed-title": "Vamos a conectar",
-    "suite-page-organization-feed-main-read-more": "Read More",
+    "suite-page-organization-feed-main-post-view": "View post",
     "suite-page-organization-feed-main-user-unknown": "Miembro desconocido"
   }
 }

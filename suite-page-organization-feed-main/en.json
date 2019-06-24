@@ -3,10 +3,10 @@
     "suite-page-organization-feed-main-title": "Feed",
     "suite-page-organization-feed-main-fetch-failure": "Couldn't show feed. Are you sure there is an internet connection?",
     "suite-page-organization-feed-main-no-feed-button-create": "Create",
-    "suite-page-organization-feed-main-no-feed-desc": "Check back for important news and announcements.",
-    "suite-page-organization-feed-main-no-feed-desc-admin": "Share news, ask a question, and connect to the workspace community.",
+    "suite-page-organization-feed-main-no-feed-description-admin": "Share news, ask a question, and connect to the workspace community.",
+    "suite-page-organization-feed-main-no-feed-description-member": "Check back for important news and announcements.",
     "suite-page-organization-feed-main-no-feed-title": "Let's connect",
-    "suite-page-organization-feed-main-read-more": "Read More",
+    "suite-page-organization-feed-main-post-view": "View post",
     "suite-page-organization-feed-main-user-unknown": "Unknown Member"
   }
 }
