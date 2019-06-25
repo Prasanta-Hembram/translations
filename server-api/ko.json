@@ -50,7 +50,7 @@
     "payment-receipt-email-room-booking-default": "회의실 예약",
     "payment-receipt-email-room-booking": "회의실 예약 {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
     "payment-receipt-email-subject": "{organizationTitle} 영수증",
-    "payment-receipt-email-title": "등록번호 #{receiptId}",
+    "payment-receipt-email-title": "영수증 #{receiptId}",
     "powered-by-andcards": "{andcardsUrl} 제공"
   }
 }
