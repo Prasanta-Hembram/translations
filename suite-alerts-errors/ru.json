@@ -31,8 +31,8 @@
     "suite-alerts-errors-plan-price-invalid": "Цена недействительна. Проверьте все цены в плане и попробуйте еще раз.",
     "suite-alerts-errors-plan-sold-out": "План распродан.",
     "suite-alerts-errors-property-is-missing": "Не удалось забронировать эту комнату.",
-    "suite-alerts-errors-sign-in-facebook-error": "To log in with Facebook, use a phone number first and connect your Facebook account in Profile.",
-    "suite-alerts-errors-sign-in-google-error": "To log in with Google, use a phone number first and connect your Google account in Profile.",
+    "suite-alerts-errors-sign-in-facebook-error": "Щоб увійти за допомогою Facebook акаутну, увійдіть через телефон спершу та прив'яжіть Facebook до свого акаунту у налаштуваннях свого профайлу.",
+    "suite-alerts-errors-sign-in-google-error": "Щоб увійти за допомогою Google акаутну, увійдіть через телефон спершу та прив'яжіть Google до свого акаунту у налаштуваннях свого профайлу.",
     "suite-alerts-errors-sns-user-exists": "Этот метод входа уже используется в другой учетной записи.",
     "suite-alerts-errors-trial-already-started": "В вашем коворкинге уже включена система бронирования.",
     "suite-alerts-errors-user-have-no-permission": "Отсутствуют права доступа для завершения действия."
