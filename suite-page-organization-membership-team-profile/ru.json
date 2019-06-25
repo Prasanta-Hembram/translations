@@ -1,12 +1,20 @@
 {
   "data": {
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Бронирование по инвойсу",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-all-members": "Все участники команды",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-all-members": "Все участники команды могут бронировать переговорные с помощью инвойса.",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-team-managers": "Только менеджеры команды могут бронировать переговорные с помощью инвойса.",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-team-managers": "Только менеджеры команды",
     "suite-page-organization-membership-team-profile-icon": "Эмодзи",
     "suite-page-organization-membership-team-profile-name": "Название",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "У этой команды еще нет менеджеров.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "В этой команде еще нет участников.",
     "suite-page-organization-membership-team-profile-not-found-error": "Эта команда не существует или была удалена.",
+    "suite-page-organization-membership-team-profile-section-team-actions": "Дополнительные действия",
     "suite-page-organization-membership-team-profile-section-team-managers": "Менеджеры команды",
     "suite-page-organization-membership-team-profile-section-team-members": "Участники команды",
+    "suite-page-organization-membership-team-profile-team-invoice": "Инвойс команды",
+    "suite-page-organization-membership-team-profile-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
     "suite-page-organization-membership-team-profile-title": "Команда"
   }
 }

@@ -1,12 +1,20 @@
 {
   "data": {
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Acceso a la factura del equipo.",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-all-members": "Todos los miembros del equipo",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-all-members": "Todos los miembros del equipo pueden reservar habitaciones por factura del equipo.",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-team-managers": "Solo los gerentes de equipo pueden reservar habitaciones por factura de equipo.",
+    "suite-page-organization-membership-team-profile-book-by-invoice-permission-team-managers": "Solo gerentes de equipo",
     "suite-page-organization-membership-team-profile-icon": "Ícono",
     "suite-page-organization-membership-team-profile-name": "Nombre",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "Este equipo aún no tiene administradores de equipo.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "Este equipo aún no tiene miembros.",
     "suite-page-organization-membership-team-profile-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-membership-team-profile-section-team-actions": "Acciones de equipo",
     "suite-page-organization-membership-team-profile-section-team-managers": "Administradores del equipo",
     "suite-page-organization-membership-team-profile-section-team-members": "Miembros del equipo",
+    "suite-page-organization-membership-team-profile-team-invoice": "Factura de equipo",
+    "suite-page-organization-membership-team-profile-team-invoice-description": "Habilitar el método de pago de facturas del equipo queda disponible para el equipo.",
     "suite-page-organization-membership-team-profile-title": "Equipo"
   }
 }
