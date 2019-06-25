@@ -2,10 +2,10 @@
   "data": {
     "suite-page-organization-membership-team-profile-icon": "Эмодзи",
     "suite-page-organization-membership-team-profile-name": "Название",
-    "suite-page-organization-membership-team-profile-no-managers-in-team": "This team doesn't have team managers yet.",
+    "suite-page-organization-membership-team-profile-no-managers-in-team": "У этой команды еще нету руководителей.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "В этой команде еще нет участников.",
     "suite-page-organization-membership-team-profile-not-found-error": "Эта команда не существует или была удалена.",
-    "suite-page-organization-membership-team-profile-section-team-managers": "Team Managers",
+    "suite-page-organization-membership-team-profile-section-team-managers": "Руководители Команды",
     "suite-page-organization-membership-team-profile-section-team-members": "Участники команды",
     "suite-page-organization-membership-team-profile-title": "Команда"
   }
