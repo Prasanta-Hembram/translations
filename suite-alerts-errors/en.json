@@ -31,8 +31,8 @@
     "suite-alerts-errors-plan-price-invalid": "The price is invalid. Check all plan prices and try again.",
     "suite-alerts-errors-plan-sold-out": "Plan is sold out.",
     "suite-alerts-errors-property-is-missing": "Failed to book for this room.",
-    "suite-alerts-errors-sign-in-facebook-error": "To log in with Facebook, sign up with a phone number first.",
-    "suite-alerts-errors-sign-in-google-error": "To log in with Google, sign up with a phone number first.",
+    "suite-alerts-errors-sign-in-facebook-error": "To log in with Facebook, use a phone number first and connect your Facebook account in Profile.",
+    "suite-alerts-errors-sign-in-google-error": "To log in with Google, use a phone number first and connect your Google account in Profile.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
     "suite-alerts-errors-trial-already-started": "The workspace already has the full booking system enabled.",
     "suite-alerts-errors-user-have-no-permission": "No permission to complete the action."
