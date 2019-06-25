@@ -15,6 +15,7 @@
     "suite-page-organization-membership-team-profile-section-team-members": "Team Members",
     "suite-page-organization-membership-team-profile-team-invoice": "Team Invoice",
     "suite-page-organization-membership-team-profile-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
-    "suite-page-organization-membership-team-profile-title": "Team"
+    "suite-page-organization-membership-team-profile-title": "Team",
+    "suite-page-organization-membership-team-profile-update-failure": "Failed to update"
   }
 }

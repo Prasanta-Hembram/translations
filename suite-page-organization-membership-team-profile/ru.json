@@ -15,6 +15,7 @@
     "suite-page-organization-membership-team-profile-section-team-members": "Участники команды",
     "suite-page-organization-membership-team-profile-team-invoice": "Инвойс команды",
     "suite-page-organization-membership-team-profile-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
-    "suite-page-organization-membership-team-profile-title": "Команда"
+    "suite-page-organization-membership-team-profile-title": "Команда",
+    "suite-page-organization-membership-team-profile-update-failure": "Невозможно обновить"
   }
 }
