@@ -1,10 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-profile-book-by-invoice-permission": "팀 인보이스 기능 권한",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-all-members": "전체 팀원",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-all-members": "전체 팀원들이 팀 인보이스 결제 방법을 이용 가능합니다.",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-team-managers": "팀 매니저들 만 팀 인보이스 결제 방법을 이용 가능합니다.",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-team-managers": "팀 매니저 만",
     "suite-page-organization-membership-team-profile-icon": "팀 에모지",
     "suite-page-organization-membership-team-profile-name": "팀 명",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "이 팀에 아직 팀매니저가 없습니다.",

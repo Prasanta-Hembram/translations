@@ -1,10 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Team invoice permission",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-all-members": "All team members",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-all-members": "All team members can book rooms by team invoice",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-info-team-managers": "Only team managers can book rooms by team invoice",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission-team-managers": "Only team managers",
     "suite-page-organization-membership-team-profile-icon": "Emoji",
     "suite-page-organization-membership-team-profile-name": "Name",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "This team doesn't have team managers yet.",
