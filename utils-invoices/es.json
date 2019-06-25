@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-utils-book-by-invoice-permission-all-members": "Todos los miembros del equipo",
-    "suite-utils-book-by-invoice-permission-info-all-members": "Todos los miembros del equipo pueden reservar habitaciones por factura del equipo.",
-    "suite-utils-book-by-invoice-permission-info-team-managers": "Solo los gerentes de equipo pueden reservar habitaciones por factura de equipo.",
-    "suite-utils-book-by-invoice-permission-team-managers": "Solo gerentes de equipo",
+    "suite-utils-invoice-book-by-invoice-permission-all-members": "Todos los miembros del equipo",
+    "suite-utils-invoice-book-by-invoice-permission-info-all-members": "Todos los miembros del equipo pueden reservar habitaciones por factura del equipo.",
+    "suite-utils-invoice-book-by-invoice-permission-info-team-managers": "Solo los gerentes de equipo pueden reservar habitaciones por factura de equipo.",
+    "suite-utils-invoice-book-by-invoice-permission-team-managers": "Solo gerentes de equipo",
     "suite-utils-invoice-item-type-booking-payment-type": "Reserva de sala de reuniones",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "Reserva de sala de reuniones a través de {name}",
     "suite-utils-invoice-is-unfinished": "No finalizado",
