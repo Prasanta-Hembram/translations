@@ -2,10 +2,10 @@
   "data": {
     "suite-page-organization-membership-team-profile-icon": "Емодзі",
     "suite-page-organization-membership-team-profile-name": "Назва",
-    "suite-page-organization-membership-team-profile-no-managers-in-team": "This team doesn't have team managers yet.",
+    "suite-page-organization-membership-team-profile-no-managers-in-team": "У цієї команди ще немає керівників.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "У цієї команди ще немає учасників.",
     "suite-page-organization-membership-team-profile-not-found-error": "Ця команда не існує або ж була видалена.",
-    "suite-page-organization-membership-team-profile-section-team-managers": "Team Managers",
+    "suite-page-organization-membership-team-profile-section-team-managers": "Керівники Команди",
     "suite-page-organization-membership-team-profile-section-team-members": "Члени команди",
     "suite-page-organization-membership-team-profile-title": "Команда"
   }
