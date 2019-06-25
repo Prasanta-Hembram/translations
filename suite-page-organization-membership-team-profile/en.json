@@ -1,5 +1,8 @@
 {
   "data": {
+    "suite-page-organization-membership-team-profile-billing-address-title":"Business Information",
+    "suite-page-organization-membership-team-profile-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
+    "suite-page-organization-membership-team-profile-billing-address-placeholder": "Type an information",
     "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Team invoice permission",
     "suite-page-organization-membership-team-profile-icon": "Emoji",
     "suite-page-organization-membership-team-profile-name": "Name",
