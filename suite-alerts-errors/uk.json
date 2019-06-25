@@ -31,6 +31,8 @@
     "suite-alerts-errors-plan-price-invalid": "Ціна недійсна. Перевірте всі ціни в плані і спробyйтe знову.",
     "suite-alerts-errors-plan-sold-out": "План розпродано.",
     "suite-alerts-errors-property-is-missing": "Не вдалося забронювати цю кімнату.",
+    "suite-alerts-errors-sign-in-facebook-error": "To log in with Facebook, sign up with a phone number first.",
+    "suite-alerts-errors-sign-in-google-error": "To log in with Google, sign up with a phone number first.",
     "suite-alerts-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі.",
     "suite-alerts-errors-trial-already-started": "У вашому коворкінгу вже включена система бронювання.",
     "suite-alerts-errors-user-have-no-permission": "Відсутні права доступу для завершення дії."
