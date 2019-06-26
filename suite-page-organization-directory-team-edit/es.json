@@ -17,6 +17,7 @@
     "suite-page-organization-directory-team-edit-invoice-locale": "Idioma de la factura",
     "suite-page-organization-directory-team-edit-name": "Nombre",
     "suite-page-organization-directory-team-edit-name-placeholder": "Ingresa tu nombre",
+    "suite-page-organization-directory-team-edit-no-managers-in-team": "Este equipo aún no tiene administradores de equipo.",
     "suite-page-organization-directory-team-edit-no-members-in-team": "Este equipo aún no tiene miembros.",
     "suite-page-organization-directory-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-team-edit-section-balance-expiring-balance-description": "Expira el {date}.",
@@ -27,11 +28,13 @@
     "suite-page-organization-directory-team-edit-section-plan-button-assign": "Asignar plan",
     "suite-page-organization-directory-team-edit-section-plan-title": "Plan",
     "suite-page-organization-directory-team-edit-section-team-actions": "Acciones de equipo",
+    "suite-page-organization-directory-team-edit-section-team-managers": "Administradores del equipo",
     "suite-page-organization-directory-team-edit-section-team-members": "Miembros del equipo",
     "suite-page-organization-directory-team-edit-select-icon-title": "Seleccionar Ícono",
-    "suite-page-organization-directory-team-edit-select-team-members-title": "Seleccionar miembros del equipo",
+    "suite-page-organization-directory-team-edit-select-team-managers-title": "Seleccionar los gerentes de equipo",
+    "suite-page-organization-directory-team-edit-select-team-members-title": "Seleccionar miembros de equipo",
     "suite-page-organization-directory-team-edit-team-invoice": "Factura de equipo",
-    "suite-page-organization-directory-team-edit-team-invoice-description": "Cuando está activado, el método de pago de las facturas del equipo está disponible para el equipo.",
+    "suite-page-organization-directory-team-edit-team-invoice-description": "Cuando está activado, el método de pago de las facturas de equipo está disponible para el equipo.",
     "suite-page-organization-directory-team-edit-update-failure": "No se ha podido actualizar"
   }
 }
