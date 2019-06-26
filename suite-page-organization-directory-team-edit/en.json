@@ -20,7 +20,7 @@
     "suite-page-organization-directory-team-edit-icon": "Emoji",
     "suite-page-organization-directory-team-edit-name": "Name",
     "suite-page-organization-directory-team-edit-name-placeholder": "Type a name",
-    "suite-page-organization-directory-team-edit-no-managers-in-team": "This team doesn't have managers yet.",
+    "suite-page-organization-directory-team-edit-no-managers-in-team": "This team doesn't have team managers yet.",
     "suite-page-organization-directory-team-edit-no-members-in-team": "This team doesn't have members yet.",
     "suite-page-organization-directory-team-edit-not-found-error": "This team may not exist or may have been removed.",
     "suite-page-organization-directory-team-edit-section-balance-expiring-balance-description": "Expire on {date}.",
