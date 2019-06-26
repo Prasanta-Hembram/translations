@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-users-managers-update-title": "Add managers: {teamTitle}",
+    "suite-page-organization-directory-team-users-managers-update-no-users": "Никого добавлять.",
+    "suite-page-organization-directory-team-users-managers-update-nothing-found": "Ничего не найдено.",
+    "suite-page-organization-directory-team-users-managers-update-search": "Поиск среди {numberOfMembers} участников"
+  }
+}
