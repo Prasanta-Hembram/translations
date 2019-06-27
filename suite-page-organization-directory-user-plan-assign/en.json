@@ -5,7 +5,7 @@
     "suite-page-organization-directory-user-plan-assign-button-for-free": "Assign for free",
     "suite-page-organization-directory-user-plan-assign-button-for-price": "Assign for {price}",
     "suite-page-organization-directory-user-plan-assign-button-label": "Assign",
-    "suite-page-organization-directory-user-plan-assign-error-empty-plans": "There are no any plans yet. You need to create a new one first.",
+    "suite-page-organization-directory-user-plan-assign-error-empty-plans": "There are no any plans yet.",
     "suite-page-organization-directory-user-plan-assign-error-not-found": "This page may not exist or may have been removed.",
     "suite-page-organization-directory-user-plan-assign-error-selected-admin": "Can't assign a plan to admin or moderator.",
     "suite-page-organization-directory-user-plan-assign-payment": "Payment",
