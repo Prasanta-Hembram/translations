@@ -1,24 +1,19 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Участие",
-    "suite-page-organization-membership-main-balance-personal-credits-title": "Кредиты личные",
-    "suite-page-organization-membership-main-balance-team-credits-title": "Кредиты команды {teamName}",
-    "suite-page-organization-membership-main-balance-title": "Баланс",
-    "suite-page-organization-membership-main-button-all-plans-open": "Все тарифные планы",
-    "suite-page-organization-membership-main-button-balance-personal-title": "История личных транзакций",
-    "suite-page-organization-membership-main-button-balance-team-title": "История транзакций команды",
-    "suite-page-organization-membership-main-button-team-invoices": "Инвойсы",
-    "suite-page-organization-membership-main-coworking-membership-title": "Тарифный план",
-    "suite-page-organization-membership-main-credits-expire": "{pointsExpiring} истекают {date}.",
-    "suite-page-organization-membership-main-credits-how-to-use": "Используйте эти кредиты для бронирования переговорных.",
-    "suite-page-organization-membership-main-income-title": "Прибыль",
-    "suite-page-organization-membership-main-income": "Прибыль с продаж в этом месяце.",
-    "suite-page-organization-membership-main-kpi-detail": "Ключевые показатели месяца",
-    "suite-page-organization-membership-main-occupancy-title": "Заполненность",
-    "suite-page-organization-membership-main-occupancy": "Процент занятых мест в коворкингe.",
-    "suite-page-organization-membership-main-pages-printed-title": "Напечатанных страниц",
-    "suite-page-organization-membership-main-pages-printer-user-id": "Логин Sindoh",
-    "suite-page-organization-membership-main-personal-title": "Личный план",
-    "suite-page-organization-membership-main-plan-team-title": "Команда {teamName}"
+    "suite-page-organization-membership-main-section-admin-title": "Администратор",
+    "suite-page-organization-membership-main-section-admin-plans-button": "Все тарифные планы",
+    "suite-page-organization-membership-main-section-admin-statistics-button": "Статистика",
+    "suite-page-organization-membership-main-section-personal-title": "Личное",
+    "suite-page-organization-membership-main-section-personal-balance-history-button": "История транзакций",
+    "suite-page-organization-membership-main-section-personal-credits-button": "Кредиты",
+    "suite-page-organization-membership-main-section-personal-plan-button": "План",
+    "suite-page-organization-membership-main-section-personal-printing-button": "Принтеры",
+    "suite-page-organization-membership-main-section-team-title": "Команда",
+    "suite-page-organization-membership-main-section-team-balance-history-button": "История транзакций",
+    "suite-page-organization-membership-main-section-team-credits-button": "Кредиты",
+    "suite-page-organization-membership-main-section-team-invoices-button": "Инвойсы",
+    "suite-page-organization-membership-main-section-team-plan-button": "План",
+    "suite-page-organization-membership-main-section-team-profile-button": "Профиль"
   }
 }

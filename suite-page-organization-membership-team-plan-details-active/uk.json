@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-page-organization-membership-team-plan-details-active-title": "План",
+    "suite-page-organization-membership-team-plan-details-active-benefits": "Переваги",
+    "suite-page-organization-membership-team-plan-details-active-credits": "Кредити",
+    "suite-page-organization-membership-team-plan-details-active-error-team-not-found": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-membership-team-plan-details-active-payment": "Оплата",
+    "suite-page-organization-membership-team-plan-details-active-period-from-title": "Початок",
+    "suite-page-organization-membership-team-plan-details-active-period-pay-with-cash-title": "Готівка",
+    "suite-page-organization-membership-team-plan-details-active-period-pay-with-title": "Спосіб",
+    "suite-page-organization-membership-team-plan-details-active-period-title": "Період",
+    "suite-page-organization-membership-team-plan-details-active-period-until-title": "Кінець",
+    "suite-page-organization-membership-team-plan-details-active-plan-description": "Опис",
+    "suite-page-organization-membership-team-plan-details-active-price": "Ціна",
+    "suite-page-organization-membership-team-plan-details-active-repeat-label": "Поновлення",
+    "suite-page-organization-membership-team-plan-details-active-type": "Тип"
+  }
+}
