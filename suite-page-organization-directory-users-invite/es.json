@@ -2,15 +2,15 @@
   "data": {
     "suite-page-organization-directory-users-invite-title": "Invitación",
     "suite-page-organization-directory-users-invite-by-link-label": "Enlace",
-    "suite-page-organization-directory-users-invite-by-link-description": "Comparta un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
+    "suite-page-organization-directory-users-invite-by-link-description": "Comparte un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
     "suite-page-organization-directory-users-invite-by-tag-label": "Etiqueta",
-    "suite-page-organization-directory-users-invite-by-tag-description": "Comparta esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía.",
+    "suite-page-organization-directory-users-invite-by-tag-description": "Comparte esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía.",
     "suite-page-organization-directory-users-invite-mass-button-download-template": "Descargar plantilla",
     "suite-page-organization-directory-users-invite-mass-button-upload": "Subir archivo",
-    "suite-page-organization-directory-users-invite-mass-desc": "Cargue un archivo con formato especial con una lista de sus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
+    "suite-page-organization-directory-users-invite-mass-desc": "Carga un archivo con formato especial con una lista de tus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
     "suite-page-organization-directory-users-invite-mass-error-description": "La invitación del usuario salió mal. El archivo que subiste tiene varios problemas en los siguientes elementos:",
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "La columna {fieldColumnName} fila {fieldRowNumber} valor {fieldValue} es incorrecta.",
     "suite-page-organization-directory-users-invite-mass-error-note": "Arregla los errores y vuelve a intentarlo.",
-    "suite-page-organization-directory-users-invite-mass-label": "Misa invitar a los miembros"
+    "suite-page-organization-directory-users-invite-mass-label": "Invitar a los miembros en masa"
   }
 }
