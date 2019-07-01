@@ -5,7 +5,7 @@
     "suite-page-organization-directory-team-plan-assign-button-for-free": "Asignar gratis",
     "suite-page-organization-directory-team-plan-assign-button-for-price": "Asignar por {price}",
     "suite-page-organization-directory-team-plan-assign-button-label": "Asignar",
-    "suite-page-organization-directory-team-plan-assign-error-empty-plans": "No hay planes todavía.",
+    "suite-page-organization-directory-team-plan-assign-error-empty-plans": "No hay planes todavía. Create a plan first on Membership page.",
     "suite-page-organization-directory-team-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
     "suite-page-organization-directory-team-plan-assign-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
     "suite-page-organization-directory-team-plan-assign-payment": "Pago",
