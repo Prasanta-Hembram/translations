@@ -9,8 +9,6 @@
     "payments-page-stripe-page-success": "El pago ha tenido éxito.",
     "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "By providing your card details and email for processing the payment and sending receipt, you agree to the {privacyPolicy}. Additionally, your data is subject to policies of your service provider.",
     "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "andcards Privacy Policy",
-    "payments-page-stripe-pay-by-card-pay-button": "Pagar {price}",
-    "payments-page-stripe-pay-by-card-pay-title": "Pagar con tarjeta",
-    "payments-page-stripe-pay-by-card-policy-details": "Aviso de reembolso"
+    "payments-page-stripe-pay-by-card-pay-button": "Pagar {price}"
   }
 }
