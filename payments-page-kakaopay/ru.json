@@ -9,8 +9,6 @@
     "payments-page-kakaopay-page-success": "Оплата прошла успешно.",
     "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "Предоставляя данные своей карты и адрес электронной почты для обработки платежа и отправки квитанции, вы соглашаетесь с {privacyPolicy}. Кроме того, ваши данные подпадают под политику вашего поставщика услуг.",
     "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "Политика Конфиденциальности andcards",
-    "payments-page-kakaopay-pay-by-card-pay-button": "Оплатить {price}",
-    "payments-page-kakaopay-pay-by-card-pay-title": "Оплатить {paymentMethod}",
-    "payments-page-kakaopay-pay-by-card-policy-details": "Политика возврата средств"
+    "payments-page-kakaopay-pay-by-card-pay-button": "Оплатить {price}"
   }
 }
