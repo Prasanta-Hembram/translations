@@ -5,7 +5,7 @@
     "suite-page-organization-directory-user-plan-assign-button-for-free": "Призначити безкоштовно",
     "suite-page-organization-directory-user-plan-assign-button-for-price": "Призначити за {price}",
     "suite-page-organization-directory-user-plan-assign-button-label": "Призначити",
-    "suite-page-organization-directory-user-plan-assign-error-empty-plans": "Тарифні плани відсутні.",
+    "suite-page-organization-directory-user-plan-assign-error-empty-plans": "Тарифні плани відсутні. Створіть план на сторінці участі.",
     "suite-page-organization-directory-user-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено.",
     "suite-page-organization-directory-user-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
     "suite-page-organization-directory-user-plan-assign-payment": "Оплата",
