@@ -4,6 +4,7 @@
     "suite-page-organization-property-edit-booking-step-label": "Крок бронювання",
     "suite-page-organization-property-edit-description": "Опис",
     "suite-page-organization-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
+    "suite-page-organization-property-edit-error-no-property": "Кімната не існує або ж була видалена.",
     "suite-page-organization-property-edit-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
     "suite-page-organization-property-edit-error-minimum-time": "Мінімальний час не може бути меншим за крок бронювання.",
     "suite-page-organization-property-edit-error-room-name": "Введіть назву кімнати.",

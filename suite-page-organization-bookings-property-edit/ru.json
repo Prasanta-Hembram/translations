@@ -4,6 +4,7 @@
     "suite-page-organization-property-edit-booking-step-label": "Шаг бронирования",
     "suite-page-organization-property-edit-description": "Описание",
     "suite-page-organization-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
+    "suite-page-organization-property-edit-error-no-property": "Переговорная не существует или же была удалена.",
     "suite-page-organization-property-edit-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
     "suite-page-organization-property-edit-error-minimum-time": "Минимальное время не может быть меньше шага бронирования.",
     "suite-page-organization-property-edit-error-room-name": "Пожалуйста, введите название переговорной.",
