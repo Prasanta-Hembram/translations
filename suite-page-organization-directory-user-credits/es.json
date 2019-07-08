@@ -1,11 +1,8 @@
 {
   "data": {
-    "suite-page-organization-directory-user-credits-balance-permanent-desc": "Nunca expira.",
-    "suite-page-organization-directory-user-credits-balance-permanent-title": "Créditos",
-    "suite-page-organization-directory-user-credits-balance-temporary-desc": "Expira el {date}.",
-    "suite-page-organization-directory-user-credits-balance-temporary-title": "Créditos que expira",
-    "suite-page-organization-directory-user-credits-button-charge-title": "Cobrar",
-    "suite-page-organization-directory-user-credits-button-clear-title": "Claro",
-    "suite-page-organization-directory-user-credits-button-give-title": "Dar"
+    "suite-page-organization-directory-user-credits-title": "Creditos personales",
+    "suite-page-organization-directory-user-credits-error-credit-system-off": "El sistema de crédito del área de trabajo está deshabilitado.",
+    "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} expira el {date}.",
+    "suite-page-organization-directory-user-credits-policy-details": "Aviso de reembolso de crédito"
   }
 }
