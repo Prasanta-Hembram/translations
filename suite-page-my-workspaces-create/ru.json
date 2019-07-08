@@ -3,7 +3,7 @@
     "suite-page-my-workspaces-create-title": "Новый коворкинг",
     "suite-page-my-workspaces-create-button-create": "Создать",
     "suite-page-my-workspaces-create-currency-label": "Валюта",
-    "suite-page-my-workspaces-create-invoice-locale": "Язык инвойсов",
+    "suite-page-my-workspaces-create-default-locale": "Default language",
     "suite-page-my-workspaces-create-organization-name": "Название",
     "suite-page-my-workspaces-create-organization-name-placeholder": "Добавить название",
     "suite-page-my-workspaces-create-timezone-label": "Часовой пояс"
