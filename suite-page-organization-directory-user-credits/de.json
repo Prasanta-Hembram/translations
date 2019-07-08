@@ -1,8 +1,10 @@
 {
   "data": {
-    "suite-page-organization-directory-user-credits-title": "Personal Credits",
+    "suite-page-organization-directory-user-credits-button-charge-title": "Charge",
+    "suite-page-organization-directory-user-credits-button-give-title": "Give",
     "suite-page-organization-directory-user-credits-error-credit-system-off": "The workspace`s credit system is disabled.",
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} expire on {date}.",
-    "suite-page-organization-directory-user-credits-policy-details": "Credit Refund Notice"
+    "suite-page-organization-directory-user-credits-policy-details": "Credit Refund Notice",
+    "suite-page-organization-directory-user-credits-title": "Personal Credits"
   }
 }
