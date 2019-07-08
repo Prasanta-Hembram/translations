@@ -40,6 +40,8 @@
     "invoice-item-booking": "회의실 예약 {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "결제 {paymentDate}",
     "invoice-title": "인보이스 #{invoiceId}",
+    "kakaopay-payment-intent-booking-description": "회의실 예약 {bookingDate}",
+    "kakaopay-payment-intent-invoice-description": "인보이스 ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "5일 후에 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
     "membership-plan-ends-tomorrow-notification-body": "내일 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
     "membership-plan-renew-in-five-days-notification-body": "5일 후에 멤버십 플랜이 자동으로 연장됩니다.",

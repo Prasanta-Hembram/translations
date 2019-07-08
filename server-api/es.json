@@ -40,6 +40,8 @@
     "invoice-item-booking": "Rerserva de salas {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Pago {paymentDate}",
     "invoice-title": "Factura #{invoiceId}",
+    "kakaopay-payment-intent-booking-description": "Rerserva de salas {bookingDate}",
+    "kakaopay-payment-intent-invoice-description": "Factura ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "Tu plan de membresía termina en 5 días. Compra un nuevo plan para quedarte.",
     "membership-plan-ends-tomorrow-notification-body": "Tu plan de membresía termina mañana. Compra un nuevo plan para quedarte.",
     "membership-plan-renew-in-five-days-notification-body": "Tu plan de membresía se extenderá automáticamente en 5 días.",
