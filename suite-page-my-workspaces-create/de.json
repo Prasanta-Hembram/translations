@@ -3,6 +3,7 @@
     "suite-page-my-workspaces-create-title": "New Workspace",
     "suite-page-my-workspaces-create-button-create": "Create",
     "suite-page-my-workspaces-create-currency-label": "Currency",
+    "suite-page-my-workspaces-create-default-locale": "Default Language",
     "suite-page-my-workspaces-create-organization-name": "Name",
     "suite-page-my-workspaces-create-organization-name-placeholder": "Type a name",
     "suite-page-my-workspaces-create-timezone-label": "Timezone"
