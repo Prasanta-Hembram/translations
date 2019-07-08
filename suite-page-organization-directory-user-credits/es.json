@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-credits-balance-permanent-desc": "Nunca expira.",
+    "suite-page-organization-directory-user-credits-balance-permanent-title": "Créditos",
+    "suite-page-organization-directory-user-credits-balance-temporary-desc": "Expira el {date}.",
+    "suite-page-organization-directory-user-credits-balance-temporary-title": "Créditos que expira",
+    "suite-page-organization-directory-user-credits-button-charge-title": "Cobrar",
+    "suite-page-organization-directory-user-credits-button-clear-title": "Claro",
+    "suite-page-organization-directory-user-credits-button-give-title": "Dar"
+  }
+}

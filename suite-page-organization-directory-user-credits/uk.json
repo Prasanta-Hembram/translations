@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-credits-balance-permanent-desc": "Ніколи не стікають.",
+    "suite-page-organization-directory-user-credits-balance-permanent-title": "Постійні кредити",
+    "suite-page-organization-directory-user-credits-balance-temporary-desc": "Стікають {date}.",
+    "suite-page-organization-directory-user-credits-balance-temporary-title": "Тимчасові кредити",
+    "suite-page-organization-directory-user-credits-button-charge-title": "Списати",
+    "suite-page-organization-directory-user-credits-button-clear-title": "Погасити",
+    "suite-page-organization-directory-user-credits-button-give-title": "Нарахувати"
+  }
+}

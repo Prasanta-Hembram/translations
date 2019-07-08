@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-credits-balance-permanent-desc": "만료되지 않습니다.",
+    "suite-page-organization-directory-user-credits-balance-permanent-title": "크레딧",
+    "suite-page-organization-directory-user-credits-balance-temporary-desc": "{date}에 만료됩니다.",
+    "suite-page-organization-directory-user-credits-balance-temporary-title": "만료할 크레딧",
+    "suite-page-organization-directory-user-credits-button-charge-title": "회수",
+    "suite-page-organization-directory-user-credits-button-clear-title": "취소",
+    "suite-page-organization-directory-user-credits-button-give-title": "추가"
+  }
+}
