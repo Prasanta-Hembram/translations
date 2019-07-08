@@ -41,6 +41,7 @@
     "invoice-item-default": "Оплата за {paymentDate}",
     "invoice-title": "Инвойс #{invoiceId}",
     "kakaopay-payment-intent-booking-description": "Бронирование переговорной {bookingDate}",
+    "kakaopay-payment-intent-default-description": "Оплата за {paymentDate}",
     "kakaopay-payment-intent-invoice-description": "Инвойс ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "Ваш тарифный план истекает через 5 дней. Купите новый план, чтобы остаться.",
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
