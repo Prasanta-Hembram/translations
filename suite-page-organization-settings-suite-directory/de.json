@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-settings-suite-directory-title": "Directory",
+    "suite-page-organization-settings-suite-directory-permission-admin-moderator": "Admins and moderators",
+    "suite-page-organization-settings-suite-directory-permission-all-members": "All members",
+    "suite-page-organization-settings-suite-directory-permission-label": "Visibility",
+    "suite-page-organization-settings-suite-directory-section-required-personal-information-title": "Required Personal Information",
+    "suite-page-organization-settings-suite-directory-section-required-personal-information-description": "Require all members to share the personal information."
+  }
+}

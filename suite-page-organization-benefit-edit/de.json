@@ -1,0 +1,26 @@
+{
+  "data": {
+    "suite-page-organization-benefit-edit-title": "Edit Benefit",
+    "suite-page-organization-benefit-edit-benefit-application-type-label": "Application",
+    "suite-page-organization-benefit-edit-benefit-category": "Category",
+    "suite-page-organization-benefit-edit-description-placeholder": "Type a description",
+    "suite-page-organization-benefit-edit-description-title": "Description",
+    "suite-page-organization-benefit-edit-email-manager-label": "Manager email",
+    "suite-page-organization-benefit-edit-email-manager-placeholder": "Type an email",
+    "suite-page-organization-benefit-edit-email-provider-label": "Provider email",
+    "suite-page-organization-benefit-edit-email-provider-placeholder": "Type an email",
+    "suite-page-organization-benefit-edit-error-email-manager": "Type a manager email.",
+    "suite-page-organization-benefit-edit-error-email-provider": "Type a provider email.",
+    "suite-page-organization-benefit-edit-error-title": "Type a title.",
+    "suite-page-organization-benefit-edit-link-provider-label": "Link",
+    "suite-page-organization-benefit-edit-link-provider-placeholder": "Type a link",
+    "suite-page-organization-benefit-edit-local-label": "Language",
+    "suite-page-organization-benefit-edit-permission-label": "Visibility",
+    "suite-page-organization-benefit-edit-subtitle-label": "Subtitle",
+    "suite-page-organization-benefit-edit-subtitle-placeholder": "Type a subtitle",
+    "suite-page-organization-benefit-edit-template-email-placeholder": "Type a message",
+    "suite-page-organization-benefit-edit-template-email-title": "Email Confirmation Message",
+    "suite-page-organization-benefit-edit-title-label": "Title",
+    "suite-page-organization-benefit-edit-title-placeholder": "Type a title"
+  }
+}

@@ -4,6 +4,7 @@
     "suite-page-organization-property-edit-booking-step-label": "Paso de reserva",
     "suite-page-organization-property-edit-description": "Descripción",
     "suite-page-organization-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
+    "suite-page-organization-property-edit-error-no-property": "Esta sala puede no existir o puede haber sido eliminada.",
     "suite-page-organization-property-edit-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
     "suite-page-organization-property-edit-error-minimum-time": "El tiempo mínimo no puede ser más pequeño que el paso de reserva.",
     "suite-page-organization-property-edit-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
