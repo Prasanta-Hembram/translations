@@ -4,6 +4,7 @@
     "suite-page-organization-property-edit-booking-step-label": "예약시간 단위",
     "suite-page-organization-property-edit-description": "설명",
     "suite-page-organization-property-edit-description-placeholder": "설명입력(선택사항)",
+    "suite-page-organization-property-edit-error-no-property": "이 회의실은 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-property-edit-error-number-of-people": "회의실의 수용가능인원 입력.",
     "suite-page-organization-property-edit-error-minimum-time": "최소 예약 시간은 지정된 예약시간 단위를 적을 수 없습니다.",
     "suite-page-organization-property-edit-error-room-name": "회의실 명 입력하기.",
