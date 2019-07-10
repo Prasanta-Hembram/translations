@@ -31,8 +31,8 @@
     "suite-page-organization-directory-team-edit-section-team-managers": "Team Managers",
     "suite-page-organization-directory-team-edit-section-team-members": "Team Members",
     "suite-page-organization-directory-team-edit-select-icon-title": "Select Emoji",
-    "suite-page-organization-directory-team-edit-select-team-managers-title": "Select Team Managers",
-    "suite-page-organization-directory-team-edit-select-team-members-title": "Select Team Members",
+    "suite-page-organization-directory-team-edit-select-team-managers-title": "Add Team Managers",
+    "suite-page-organization-directory-team-edit-select-team-members-title": "Add Team Members",
     "suite-page-organization-directory-team-edit-team-invoice": "Team Invoice",
     "suite-page-organization-directory-team-edit-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
     "suite-page-organization-directory-team-edit-update-failure": "Failed to update"
