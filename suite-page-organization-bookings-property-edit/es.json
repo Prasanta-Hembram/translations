@@ -9,7 +9,7 @@
     "suite-page-organization-property-edit-error-minimum-time": "El tiempo mínimo no puede ser más pequeño que el paso de reserva.",
     "suite-page-organization-property-edit-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
     "suite-page-organization-property-edit-is-private": "Acceso limitado",
-    "suite-page-organization-property-edit-limited-access-title": "Limited Access",
+    "suite-page-organization-property-edit-limited-access-title": "Acceso limitado",
     "suite-page-organization-property-edit-limited-access-desc": "Allow only certain teams to access the meeting room.",
     "suite-page-organization-property-edit-max-time": "Tiempo máximo",
     "suite-page-organization-property-edit-min-time": "Tiempo mínimo",
