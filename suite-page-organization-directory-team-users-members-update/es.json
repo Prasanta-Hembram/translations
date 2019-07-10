@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-directory-team-users-members-update-title": "Add Team Members",
-    "suite-page-organization-directory-team-users-members-update-no-users": "Nadie para agregar.",
-    "suite-page-organization-directory-team-users-members-update-nothing-found": "Nada Encontrado.",
+    "suite-page-organization-directory-team-users-members-update-title": "Añadir miembros del equipo",
+    "suite-page-organization-directory-team-users-members-update-no-users": "Nadie a quien añadir.",
+    "suite-page-organization-directory-team-users-members-update-nothing-found": "No se ha encontrado nada.",
     "suite-page-organization-directory-team-users-members-update-search": "Buscar {numberOfMembers} miembros"
   }
 }
