@@ -20,7 +20,7 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "화폐단위를 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-property-edit-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-edit-price-points": "시간당 {pointEmoji}",
-    "suite-page-organization-property-edit-team-add-team": "팀 추가하기",
+    "suite-page-organization-property-edit-team-add-team": "팀 선택하기",
     "suite-page-organization-property-edit-team-none": "선택 안 함",
     "suite-page-organization-property-edit-title-edit": "회의실설정"
   }

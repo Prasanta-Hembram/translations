@@ -20,7 +20,7 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-property-edit-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-property-edit-price-points": "Цена, {pointEmoji}/час",
-    "suite-page-organization-property-edit-team-add-team": "Добавить команды",
+    "suite-page-organization-property-edit-team-add-team": "Выбрать команды",
     "suite-page-organization-property-edit-team-none": "Не выбрано",
     "suite-page-organization-property-edit-title-edit": "Редактировать комнату"
   }

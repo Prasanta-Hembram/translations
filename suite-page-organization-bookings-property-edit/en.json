@@ -20,7 +20,7 @@
     "suite-page-organization-property-edit-price-currency-changing-notice": "To change currency contact support@andcards.com.",
     "suite-page-organization-property-edit-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-property-edit-price-points": "Credits, {pointEmoji}/hr",
-    "suite-page-organization-property-edit-team-add-team": "Add Team",
+    "suite-page-organization-property-edit-team-add-team": "Select Team",
     "suite-page-organization-property-edit-team-none": "None",
     "suite-page-organization-property-edit-title-edit": "Edit Room"
   }
