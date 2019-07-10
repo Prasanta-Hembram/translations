@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-bookings-property-team-update-title": "Añadir equipos",
+    "suite-page-organization-bookings-property-team-update-no-teams": "Nadie a quien añadir.",
+    "suite-page-organization-bookings-property-team-update-nothing-found": "No se ha encontrado nada.",
+    "suite-page-organization-bookings-property-team-update-search": "Buscar {numberOfTeams} equipos"
+  }
+}

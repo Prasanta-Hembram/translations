@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-bookings-property-team-update-title": "Добавить команды",
+    "suite-page-organization-bookings-property-team-update-no-teams": "Некого добавлять.",
+    "suite-page-organization-bookings-property-team-update-nothing-found": "Ничего не найдено.",
+    "suite-page-organization-bookings-property-team-update-search": "Поиск среди {numberOfTeams} команд"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-bookings-property-team-update-title": "Add Teams",
+    "suite-page-organization-bookings-property-team-update-no-teams": "No one to add.",
+    "suite-page-organization-bookings-property-team-update-nothing-found": "Nothing found.",
+    "suite-page-organization-bookings-property-team-update-search": "Search {numberOfTeams} teams"
+  }
+}
