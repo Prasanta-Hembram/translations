@@ -5,7 +5,7 @@
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность бронирования {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Комната может вместить до {numberOfSeats} гостей.",
-    "suite-page-organization-property-details-overview-team-access": "- Комната доступна только для {teamTitle} команд.",
+    "suite-page-organization-property-details-overview-team-access": "- Комната доступна только для {teamTitles} команд.",
     "suite-page-organization-property-details-overview-title": "Обзор",
     "suite-page-organization-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
     "suite-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
