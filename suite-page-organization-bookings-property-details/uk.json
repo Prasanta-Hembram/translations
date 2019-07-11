@@ -5,7 +5,7 @@
     "suite-page-organization-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Кімната може вмістити до {numberOfSeats} гостей.",
-    "suite-page-organization-property-details-overview-team-access": "- Кімната доступна тільки для {teamTitles} команд.",
+    "suite-page-organization-property-details-overview-team-access": "- Кімната доступна тільки для {teamTitles} команд(-и).",
     "suite-page-organization-property-details-overview-title": "Огляд",
     "suite-page-organization-property-details-price-money": "- Резервація коштує {priceMoney} за годину.",
     "suite-page-organization-property-details-price-points": "- Резервація коштує {priceCredits} за годину.",
