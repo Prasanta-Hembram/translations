@@ -5,7 +5,7 @@
     "suite-page-organization-property-details-overview-max-booking-time": "- El tiempo máximo de reserva es {duration}.",
     "suite-page-organization-property-details-overview-min-booking-time": "- El tiempo mínimo de reserva es {duration}.",
     "suite-page-organization-property-details-overview-seats": "- Esta sala puede acomodar hasta {numberOfSeats} personas.",
-    "suite-page-organization-property-details-overview-team-access": "- Esta sala es sólo para {teamTitles} equipos.",
+    "suite-page-organization-property-details-overview-team-access": "- Esta sala es sólo para {teamTitles} equipo(-s).",
     "suite-page-organization-property-details-overview-title": "Resumen",
     "suite-page-organization-property-details-price-money": "- El precio es {priceMoney} por hora.",
     "suite-page-organization-property-details-price-points": "- El precio es {priceCredits} por hora.",
