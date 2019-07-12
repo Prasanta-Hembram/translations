@@ -18,7 +18,7 @@
     "bulk-invite-success-email-membership-list-item": "💳 Перевіряти тарифний план",
     "bulk-invite-success-email-directory-list-item": "👥 Знаходити інших учасників",
     "bulk-invite-success-email-feed-list-item": "💬 Залишатися проінформованим",
-    "bulk-invite-success-email-activation-note": "Активуйте свій обліковий запис {organizationTitle} за номером телефону {userPhoneNumber}.",
+    "bulk-invite-success-email-activation-note": "Активуйте свій обліковий запис {organizationTitle} за email {userEmail}.",
     "bulk-invite-success-email-activate-link": "Активувати",
     "bulk-invite-success-email-subject": "Запрошуємо долучитися до застосунку {organizationTitle}",
     "bulk-invite-success-email-title": "Ласкаво просимо",

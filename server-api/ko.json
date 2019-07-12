@@ -13,7 +13,7 @@
     "booking-start-notification-body": "시설 예약이 시작되었습니다. 상세 정보를 확인하세요.",
     "booking-start-with-code-notification-body": "시설 예약이 시작되었습니다. 출입 임시 비밀번호: {code}. 상세 정보를 확인하세요.",
     "bulk-invite-success-email-activate-link": "활성화하기",
-    "bulk-invite-success-email-activation-note": "{userPhoneNumber} 번호로 {organizationTitle} 계정을 활성화시키세요.",
+    "bulk-invite-success-email-activation-note": "{userEmail} 번호로 {organizationTitle} 계정을 활성화시키세요.",
     "bulk-invite-success-email-directory-list-item": "👥 모든 회원 검색",
     "bulk-invite-success-email-feed-list-item": "💬 공지 사항 알림 받기",
     "bulk-invite-success-email-greeting": "안녕하세요 {userFullName}님,",
