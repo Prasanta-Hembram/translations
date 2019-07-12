@@ -17,8 +17,8 @@
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Номер телефону введено невірно або вже долучено до іншого облікового запису.",
     "utils-auth-phone-number": "Phone Number",
+    "utils-auth-type-code": "Type code",
     "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "Введіть номер",
-    "utils-auth-type-sms-code-here": "Введіть СМС пароль"
+    "utils-auth-type-phone-number-here": "Введіть номер"
   }
 }

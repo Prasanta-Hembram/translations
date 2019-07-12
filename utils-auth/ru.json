@@ -17,8 +17,8 @@
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Номер телефона неверен или подключен к другой учетной записи.",
     "utils-auth-phone-number": "Phone Number",
+    "utils-auth-type-code": "Type code",
     "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "Введите номер",
-    "utils-auth-type-sms-code-here": "Введите СМС пароль"
+    "utils-auth-type-phone-number-here": "Введите номер"
   }
 }

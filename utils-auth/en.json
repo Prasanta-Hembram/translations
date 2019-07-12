@@ -17,8 +17,8 @@
     "utils-auth-number": "Number",
     "utils-auth-number-invalid": "The phone number is incorrect or connected to another account.",
     "utils-auth-phone-number": "Phone Number",
+    "utils-auth-type-code": "Type code",
     "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "Type number",
-    "utils-auth-type-sms-code-here": "Type SMS code"
+    "utils-auth-type-phone-number-here": "Type number"
   }
 }

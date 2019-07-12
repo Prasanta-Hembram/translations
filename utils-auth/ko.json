@@ -17,8 +17,8 @@
     "utils-auth-number": "휴대전화번호",
     "utils-auth-number-invalid": "휴대전화번호가 올바르지 않거나 다른 계정이 로그인 되어있습니다.",
     "utils-auth-phone-number": "Phone Number",
+    "utils-auth-type-code": "Type code",
     "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "예)1012345678",
-    "utils-auth-type-sms-code-here": "인증번호 입력"
+    "utils-auth-type-phone-number-here": "예)1012345678"
   }
 }
