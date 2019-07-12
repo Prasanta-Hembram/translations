@@ -23,7 +23,7 @@
     "bulk-invite-success-email-subject": "You're invited to join {organizationTitle} app",
     "email-confirmation-subject": "Sign in to {title}",
     "email-confirmation-text": "Here is your {title} confirmation code.",
-    "email-confirmation-title": "Confirmation code",
+    "email-confirmation-title": "Confirmation Code",
     "feed-post-notification-title": "{userName} posted to {organizationTitle}",
     "invoice-finalize-notification-body": "{teamTitle} invoice for {invoiceMonth} is ready! View and pay right away.",
     "invoice-finalize-notification-title": "{organizationTitle} Billing",
