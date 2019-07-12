@@ -23,7 +23,7 @@
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
     "bulk-invite-success-email-title": "환영합니다",
     "email-confirmation-subject": "{title}에 로그인하세요",
-    "email-confirmation-text": "{title}에 확인 코드로 로그인하세요.",
+    "email-confirmation-text": "5분 동안 위에 코드로 로그인하세요.",
     "email-confirmation-title": "확인 코드",
     "feed-post-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다",
     "invoice-finalize-notification-body": "{teamTitle}의 {invoiceMonth} 인보이스는 준비하였습니다! 상세 내용을 확인하시고 결제해주세요.",
