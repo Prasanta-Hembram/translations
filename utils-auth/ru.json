@@ -2,11 +2,12 @@
   "data": {
     "utils-auth-agree-to-privacy": "Соглашаюсь с {privacyPolicy}",
     "utils-auth-agree-to-terms": "Соглашаюсь с {termsOfUse}",
-    "utils-auth-back-to-number": "Назад",
-    "utils-auth-back-to-phone-number": "Назад к номеру телефона",
+    "utils-auth-back": "Назад",
     "utils-auth-code": "Код",
     "utils-auth-code-invalid": "Введите правильный код из текстового сообщения.",
     "utils-auth-country": "Страна",
+    "utils-auth-email": "Email",
+    "utils-auth-email-invalid": "Email неверен или подключен к другой учетной записи.",
     "utils-auth-link-privacy-policy": "политикой конфиденциальности",
     "utils-auth-link-terms-of-use": "условиями использования",
     "utils-auth-login-options": "Опции входа",
@@ -15,7 +16,9 @@
     "utils-auth-next-step": "Принять и продолжить",
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Номер телефона неверен или подключен к другой учетной записи.",
-    "utils-auth-type-phone-number-here": "Введите номер",
-    "utils-auth-type-sms-code-here": "Введите СМС пароль"
+    "utils-auth-phone-number": "Номер телефона",
+    "utils-auth-type-code": "Ввести код",
+    "utils-auth-type-email-here": "Ввести email",
+    "utils-auth-type-phone-number-here": "Ввести номер"
   }
 }
