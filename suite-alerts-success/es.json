@@ -10,6 +10,7 @@
     "suite-alerts-success-invoice-finalized": "Factura finalizada con éxito.",
     "suite-alerts-success-invoice-money-transaction-saved": "Transacción de factura actualizada.",
     "suite-alerts-success-organization-invites-send": "Invitaciones enviadas exitosamente.",
+    "suite-alerts-success-organization-plan-deactivated": "El plan se desactiva con éxito.",
     "suite-alerts-success-organization-plan-purchased": "Plan es comprado."
   }
 }
