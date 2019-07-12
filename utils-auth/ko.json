@@ -2,8 +2,7 @@
   "data": {
     "utils-auth-agree-to-privacy": "{privacyPolicy} 동의 (필수)",
     "utils-auth-agree-to-terms": "{termsOfUse} 동의 (필수)",
-    "utils-auth-back-to-number": "번호 변경",
-    "utils-auth-back-to-email": "Back to Email",
+    "utils-auth-back": "번호 변경",
     "utils-auth-code": "인증번호",
     "utils-auth-code-invalid": "문자로 받으신 임시 코드를 입력해주세요.",
     "utils-auth-country": "국가",

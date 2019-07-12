@@ -2,8 +2,7 @@
   "data": {
     "utils-auth-agree-to-privacy": "Погоджуюсь з {privacyPolicy}",
     "utils-auth-agree-to-terms": "Погоджуюсь з {termsOfUse}",
-    "utils-auth-back-to-number": "Назад",
-    "utils-auth-back-to-email": "Back to Email",
+    "utils-auth-back": "Назад",
     "utils-auth-code": "Код",
     "utils-auth-code-invalid": "Уведіть правильний код з текстового повідомлення.",
     "utils-auth-country": "Країна",
