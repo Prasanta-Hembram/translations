@@ -10,6 +10,7 @@
     "suite-alerts-success-invoice-finalized": "Інвойс успішно завершено.",
     "suite-alerts-success-invoice-money-transaction-saved": "Транзакцію інвойсу оновлено.",
     "suite-alerts-success-organization-invites-send": "Запрошення успішно надіслані.",
-    "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна."
+    "suite-alerts-success-organization-plan-deactivated": "План успішно деактивовано.",
+"suite-alerts-success-organization-plan-purchased": "Купівля плану успішна."
   }
 }
