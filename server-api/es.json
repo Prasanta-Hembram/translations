@@ -18,7 +18,7 @@
     "bulk-invite-success-email-membership-list-item": "💳 Seguimiento de la membresía",
     "bulk-invite-success-email-directory-list-item": "👥 Descubre a otros miembros",
     "bulk-invite-success-email-feed-list-item": "💬 Obtener avisos",
-    "bulk-invite-success-email-activation-note": "Activa tu cuenta de {organizationTitle} utilizando el email {userEmail}.",
+    "bulk-invite-success-email-activation-note": "Activa tu cuenta de {organizationTitle} utilizando tu email {userEmail}.",
     "bulk-invite-success-email-activate-link": "Activar",
     "bulk-invite-success-email-subject": "Te invitamos a registrarte para la aplicación {organizationTitle}",
     "bulk-invite-success-email-title": "Bienvenidos",
