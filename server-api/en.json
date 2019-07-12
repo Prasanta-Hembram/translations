@@ -21,7 +21,7 @@
     "bulk-invite-success-email-activation-note": "Activate your {organizationTitle} account using mobile phone number {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Activate",
     "bulk-invite-success-email-subject": "You're invited to join {organizationTitle} app",
-    "email-confirmation-subject": "{code} is your {title} login code",
+    "email-confirmation-subject": "Sign in to {title}",
     "email-confirmation-text": "Here is your {title} confirmation code.",
     "email-confirmation-title": "Confirmation code",
     "feed-post-notification-title": "{userName} posted to {organizationTitle}",
