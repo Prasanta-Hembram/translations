@@ -21,6 +21,7 @@
     "bulk-invite-success-email-activation-note": "Activate your {organizationTitle} account using mobile phone number {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Activate",
     "bulk-invite-success-email-subject": "You're invited to join {organizationTitle} app",
+    "bulk-invite-success-email-title": "Welcome",
     "feed-post-notification-title": "{userName} posted to {organizationTitle}",
     "invoice-finalize-notification-body": "{teamTitle} invoice for {invoiceMonth} is ready! View and pay right away.",
     "invoice-finalize-notification-title": "{organizationTitle} Billing",

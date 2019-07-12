@@ -21,6 +21,7 @@
     "bulk-invite-success-email-activation-note": "Активируйте свою учетную запись {organizationTitle} с помощью мобильного номера телефона {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Активировать",
     "bulk-invite-success-email-subject": "Приглашаем присоединиться к приложению {organizationTitle}",
+    "bulk-invite-success-email-title": "Добро пожаловать",
     "feed-post-notification-title": "{userName} запостили в {organizationTitle}",
     "invoice-finalize-notification-body": "Инвойс команды {teamTitle} за {invoiceMonth} готов. Просмотреть и оплатить.",
     "invoice-finalize-notification-title": "Платежи {organizationTitle}",
