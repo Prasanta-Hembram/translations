@@ -21,7 +21,7 @@
     "bulk-invite-success-email-membership-list-item": "💳 멤버십 확인",
     "bulk-invite-success-email-reservations-list-item": "🕙 회의실 예약",
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
-    "email-confirmation-subject": "Sign in to {title}",
+    "email-confirmation-subject": "{code} is your {title} login code",
     "email-confirmation-text": "Here is your {title} confirmation code.",
     "email-confirmation-title": "Confirmation code",
     "feed-post-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다",

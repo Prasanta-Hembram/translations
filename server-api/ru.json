@@ -21,7 +21,7 @@
     "bulk-invite-success-email-activation-note": "Активируйте свою учетную запись {organizationTitle} с помощью мобильного номера телефона {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Активировать",
     "bulk-invite-success-email-subject": "Приглашаем присоединиться к приложению {organizationTitle}",
-    "email-confirmation-subject": "Sign in to {title}",
+    "email-confirmation-subject": "{code} is your {title} login code",
     "email-confirmation-text": "Here is your {title} confirmation code.",
     "email-confirmation-title": "Confirmation code",
     "feed-post-notification-title": "{userName} запостили в {organizationTitle}",
