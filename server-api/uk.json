@@ -21,7 +21,7 @@
     "bulk-invite-success-email-activation-note": "Активуйте свій обліковий запис {organizationTitle} за номером телефону {userPhoneNumber}.",
     "bulk-invite-success-email-activate-link": "Активувати",
     "bulk-invite-success-email-subject": "Запрошуємо долучитися до застосунку {organizationTitle}",
-    "bulk-invite-success-email-title": "Welcome",
+    "bulk-invite-success-email-title": "Ласкаво просимо",
     "feed-post-notification-title": "{userName} запостили до {organizationTitle}",
     "invoice-finalize-notification-body": "Інвойс команди {teamTitle} за {invoiceMonth} готовий. Переглянути та оплатити.",
     "invoice-finalize-notification-title": "Платежі {organizationTitle}",
