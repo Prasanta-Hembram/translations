@@ -7,7 +7,7 @@
     "utils-auth-code-invalid": "Введите правильный код из текстового сообщения.",
     "utils-auth-country": "Страна",
     "utils-auth-email": "Email",
-    "utils-auth-email-invalid": "The email is incorrect or connected to another account.",
+    "utils-auth-email-invalid": "Email неверен или подключен к другой учетной записи.",
     "utils-auth-link-privacy-policy": "политикой конфиденциальности",
     "utils-auth-link-terms-of-use": "условиями использования",
     "utils-auth-login-options": "Опции входа",
@@ -16,9 +16,9 @@
     "utils-auth-next-step": "Принять и продолжить",
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Номер телефона неверен или подключен к другой учетной записи.",
-    "utils-auth-phone-number": "Phone Number",
-    "utils-auth-type-code": "Type code",
-    "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "Введите номер"
+    "utils-auth-phone-number": "Номер телефона",
+    "utils-auth-type-code": "Ввести код",
+    "utils-auth-type-email-here": "Ввести email",
+    "utils-auth-type-phone-number-here": "Ввести номер"
   }
 }
