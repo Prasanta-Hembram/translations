@@ -7,7 +7,7 @@
     "utils-auth-code-invalid": "Уведіть правильний код з текстового повідомлення.",
     "utils-auth-country": "Країна",
     "utils-auth-email": "Email",
-    "utils-auth-email-invalid": "The email is incorrect or connected to another account.",
+    "utils-auth-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
     "utils-auth-link-privacy-policy": "політикою приватності",
     "utils-auth-link-terms-of-use": "умовами надання послуг",
     "utils-auth-login-options": "Опції входу",
@@ -16,9 +16,9 @@
     "utils-auth-next-step": "Погодитись і продовжити",
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Номер телефону введено невірно або вже долучено до іншого облікового запису.",
-    "utils-auth-phone-number": "Phone Number",
-    "utils-auth-type-code": "Type code",
-    "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "Введіть номер"
+    "utils-auth-phone-number": "Номер телефону",
+    "utils-auth-type-code": "Увести код",
+    "utils-auth-type-email-here": "Увести email",
+    "utils-auth-type-phone-number-here": "Увести номер"
   }
 }
