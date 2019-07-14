@@ -21,6 +21,7 @@
     "bulk-invite-success-email-membership-list-item": "💳 멤버십 확인",
     "bulk-invite-success-email-reservations-list-item": "🕙 회의실 예약",
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
+    "bulk-invite-success-email-title": "환영합니다",
     "feed-post-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다",
     "invoice-finalize-notification-body": "{teamTitle}의 {invoiceMonth} 인보이스는 준비하였습니다! 상세 내용을 확인하시고 결제해주세요.",
     "invoice-finalize-notification-title": "{organizationTitle} 결제 요청",
