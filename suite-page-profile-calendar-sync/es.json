@@ -3,7 +3,7 @@
     "suite-page-profile-calendar-sync-title": "Sincronización de calendario",
     "suite-page-profile-calendar-sync-description": "Usa este enlace para ver todas las reservas realizadas en andcards en su calendario personal. Aquí hay instrucciones para aplicaciones de calendario comunes:",
     "suite-page-profile-calendar-sync-generate-new-url-button": "Generar un nuevo enlace",
-    "suite-page-profile-calendar-sync-google-calendar-note": "Google calendar can be sync in up to 12h.",
+    "suite-page-profile-calendar-sync-google-calendar-sync-note": "Google calendar can be sync in up to 12h.",
     "suite-page-profile-calendar-sync-link-title": "Enlace",
     "suite-page-profile-calendar-sync-service-apple-calendar": "Apple Calendario",
     "suite-page-profile-calendar-sync-service-google-calendar": "Google Calendario",
