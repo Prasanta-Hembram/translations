@@ -1,5 +1,6 @@
 {
   "data": {
-    "suite-landing-headline": "Welcome"
+    "suite-landing-description": "A simple way to book meeting rooms, keep in touch with the community, and use coworking services all in one places. Login to {networkTitle} coworking software and download mobile apps.",
+    "suite-landing-headline": "Welcome to {networkTitle}"
   }
 }
