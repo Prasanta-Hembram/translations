@@ -3,7 +3,6 @@
     "suite-page-profile-calendar-sync-title": "캘린더 동기화",
     "suite-page-profile-calendar-sync-description": "개인 달력에서도 andcards 내에서 생성된 전체 예약을 확인하시려면 이 링크를 이용하세요. 공통 달력 앱에 대한 설명을 참고하세요.",
     "suite-page-profile-calendar-sync-generate-new-url-button": "새 링크 생성",
-    "suite-page-profile-calendar-sync-google-calendar-note": "Google calendar can be sync in up to 12h.",
     "suite-page-profile-calendar-sync-link-title": "링크",
     "suite-page-profile-calendar-sync-service-apple-calendar": "Apple 달력",
     "suite-page-profile-calendar-sync-service-google-calendar": "Google 달력",
