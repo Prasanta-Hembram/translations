@@ -5,7 +5,6 @@
     "suite-page-profile-login-method-email-edit-code-type-here": "Type code",
     "suite-page-profile-login-method-email-edit-email-invalid": "The email is incorrect or connected to another account.",
     "suite-page-profile-login-method-email-edit-email-title": "Email",
-    "suite-page-profile-login-method-email-edit-email-type-here": "Type email here",
-    "suite-page-profile-login-method-email-edit-not-connected": "Не подключен"
+    "suite-page-profile-login-method-email-edit-email-type-here": "Type email here"
   }
 }
