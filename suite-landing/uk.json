@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-landing-description": "A simple way to book meeting rooms, keep in touch with the community, and use coworking services all in one places. Login to {networkTitle} coworking software and download mobile apps.",
-    "suite-landing-headline": "Welcome to {networkTitle}",
-    "suite-landing-member-login-button": "Member Login"
+    "suite-landing-description": "Простий спосіб бронювати кімнати для перемовин, бути на зв'язку зі спільнотою та використовувати всі сервіси з одного місця. Заходьте до {networkTitle} програмного забезпечення для коворкінгу та завантажуйте безкоштовні мобільні застосунки.",
+    "suite-landing-headline": "Ласкаво просимо до {networkTitle}",
+    "suite-landing-member-login-button": "Вхід для учасників"
   }
 }
