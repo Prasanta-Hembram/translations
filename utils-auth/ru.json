@@ -12,7 +12,7 @@
     "utils-auth-login-options": "Опции входа",
     "utils-auth-login-with-facebook": "Вход через Facebook",
     "utils-auth-login-with-google": "Вход через Google",
-    "utils-auth-next-step": "Принять и продолжить",
+    "utils-auth-next-step": "Продолжить",
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Номер телефона неверен или подключен к другой учетной записи.",
     "utils-auth-type-phone-number-here": "Введите номер",
