@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-profile-login-method-email-edit-code-invalid": "Введите код из сообщения электронной почты.",
-    "suite-page-profile-login-method-email-edit-code-label": "Код",
+    "suite-page-profile-login-method-email-edit-code-invalid": "Введите код подтверждения из сообщения электронной почты.",
+    "suite-page-profile-login-method-email-edit-code-label": "Код подтверждения",
     "suite-page-profile-login-method-email-edit-code-type-here": "Ввести код",
     "suite-page-profile-login-method-email-edit-email-continue": "Продолжить",
     "suite-page-profile-login-method-email-edit-email-invalid": "Email неверен или подключен к другой учетной записи.",
