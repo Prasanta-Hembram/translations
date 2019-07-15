@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-profile-login-method-email-edit-code-invalid": "Type a valid code from a text message.",
-    "suite-page-profile-login-method-email-edit-code-label": "Code",
-    "suite-page-profile-login-method-email-edit-code-type-here": "Type code",
-    "suite-page-profile-login-method-email-edit-email-continue": "Continue",
-    "suite-page-profile-login-method-email-edit-email-invalid": "The email is incorrect or connected to another account.",
+    "suite-page-profile-login-method-email-edit-code-invalid": "Уведіть код з повідомлення електронної пошти.",
+    "suite-page-profile-login-method-email-edit-code-label": "Код",
+    "suite-page-profile-login-method-email-edit-code-type-here": "Увести код",
+    "suite-page-profile-login-method-email-edit-email-continue": "Продовжити",
+    "suite-page-profile-login-method-email-edit-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
     "suite-page-profile-login-method-email-edit-email-title": "Email",
-    "suite-page-profile-login-method-email-edit-email-type-here": "Type email here"
+    "suite-page-profile-login-method-email-edit-email-type-here": "Увести email"
   }
 }
