@@ -12,7 +12,7 @@
     "utils-auth-login-options": "Login Options",
     "utils-auth-login-with-facebook": "Login with Facebook",
     "utils-auth-login-with-google": "Login with Google",
-    "utils-auth-next-step": "Agree and continue",
+    "utils-auth-next-step": "Continue",
     "utils-auth-number": "Number",
     "utils-auth-number-invalid": "The phone number is incorrect or connected to another account.",
     "utils-auth-type-phone-number-here": "Type number",
