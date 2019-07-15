@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-profile-login-method-email-edit-code-invalid": "Уведіть код з повідомлення електронної пошти.",
-    "suite-page-profile-login-method-email-edit-code-label": "Код",
+    "suite-page-profile-login-method-email-edit-code-invalid": "Уведіть код підтвердження з повідомлення електронної пошти.",
+    "suite-page-profile-login-method-email-edit-code-label": "Код підтвердження",
     "suite-page-profile-login-method-email-edit-code-type-here": "Увести код",
     "suite-page-profile-login-method-email-edit-email-continue": "Продовжити",
     "suite-page-profile-login-method-email-edit-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
