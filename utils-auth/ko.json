@@ -12,7 +12,7 @@
     "utils-auth-login-options": "로그인 방법",
     "utils-auth-login-with-facebook": "Facebook으로 로그인하기",
     "utils-auth-login-with-google": "Google로 로그인하기",
-    "utils-auth-next-step": "동의하고 계속하기",
+    "utils-auth-next-step": "계속하기",
     "utils-auth-number": "휴대전화번호",
     "utils-auth-number-invalid": "휴대전화번호가 올바르지 않거나 다른 계정이 로그인 되어있습니다.",
     "utils-auth-type-phone-number-here": "예)1012345678",
