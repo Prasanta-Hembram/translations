@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-profile-login-method-email-edit-code-invalid": "Type a valid code from an email message.",
-    "suite-page-profile-login-method-email-edit-code-label": "Code",
+    "suite-page-profile-login-method-email-edit-code-invalid": "Type the confirmation code from an email message.",
+    "suite-page-profile-login-method-email-edit-code-label": "Confirmation Code",
     "suite-page-profile-login-method-email-edit-code-type-here": "Type code",
     "suite-page-profile-login-method-email-edit-email-continue": "Continue",
     "suite-page-profile-login-method-email-edit-email-invalid": "The email is incorrect or connected to another account.",
