@@ -13,12 +13,12 @@
     "utils-auth-login-options": "Opciones de inicio de sesión",
     "utils-auth-login-with-facebook": "Login con Facebook",
     "utils-auth-login-with-google": "Login con Google",
-    "utils-auth-next-step": "Estoy de acuerdo, continuar",
+    "utils-auth-next-step": "Сontinuar",
     "utils-auth-number": "Número",
     "utils-auth-number-invalid": "El número de teléfono es incorrecto o está conectado a otra cuenta.",
     "utils-auth-phone-number": "Número de teléfono",
     "utils-auth-type-code": "Inserta el códgio",
-    "utils-auth-type-email-here": "Inserta correo electrónico aqui",
-    "utils-auth-type-phone-number-here": "Inserta número de teléfono aquí"
+    "utils-auth-type-email-here": "Inserta correo electrónico",
+    "utils-auth-type-phone-number-here": "Inserta número de teléfono"
   }
 }
