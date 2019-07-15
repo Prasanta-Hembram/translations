@@ -6,6 +6,6 @@
     "suite-page-profile-login-method-email-edit-email-continue": "Continue",
     "suite-page-profile-login-method-email-edit-email-invalid": "The email is incorrect or connected to another account.",
     "suite-page-profile-login-method-email-edit-email-title": "Email",
-    "suite-page-profile-login-method-email-edit-email-type-here": "Type email here"
+    "suite-page-profile-login-method-email-edit-email-type-here": "Type email"
   }
 }
