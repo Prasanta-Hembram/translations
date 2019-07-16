@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-plan-details-title": "План",
+    "suite-page-organization-directory-user-plan-details-benefits-title": "Переваги",
+    "suite-page-organization-directory-user-plan-details-credits": "Кредити",
+    "suite-page-organization-directory-user-plan-details-deactivate": "Деактивувати",
+    "suite-page-organization-directory-user-plan-details-error-user-not-found": "Учасник не існує або ж був видалений.",
+    "suite-page-organization-directory-user-plan-details-payment": "Оплата",
+    "suite-page-organization-directory-user-plan-details-period-from-title": "Початок",
+    "suite-page-organization-directory-user-plan-details-period-pay-with-title": "Спосіб",
+    "suite-page-organization-directory-user-plan-details-period-title": "Період",
+    "suite-page-organization-directory-user-plan-details-period-until-title": "Кінець",
+    "suite-page-organization-directory-user-plan-details-plan-description": "Опис",
+    "suite-page-organization-directory-user-plan-details-price": "Ціна",
+    "suite-page-organization-directory-user-plan-details-repeat": "Поновлення",
+    "suite-page-organization-directory-user-plan-details-type": "Тип"
+  }
+}
