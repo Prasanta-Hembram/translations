@@ -2,9 +2,12 @@
   "data": {
     "suite-page-profile-login-methods-title": "Login Methods",
     "suite-page-profile-login-methods-delete-account": "Delete account",
-    "suite-page-profile-login-methods-not-connected": "Not connected",
-    "suite-page-profile-login-methods-phone-number": "Phone Number",
-    "suite-page-profile-login-methods-social-networks-facebook": "Facebook",
-    "suite-page-profile-login-methods-social-networks-google": "Google"
+    "suite-page-profile-login-methods-email-label": "Email",
+    "suite-page-profile-login-methods-email-notice": "Connect your email to login to your account. We will gradually discontinue other login methods.",
+    "suite-page-profile-login-methods-email-value-not-connected": "Not connected",
+    "suite-page-profile-login-methods-legacy-login-method-phone-number-label": "Phone Number",
+    "suite-page-profile-login-methods-legacy-login-method-facebook-label": "Facebook",
+    "suite-page-profile-login-methods-legacy-login-method-google-label": "Google",
+    "suite-page-profile-login-methods-legacy-login-methods-title": "Legacy Login Methods"
   }
 }

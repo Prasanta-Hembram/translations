@@ -2,20 +2,23 @@
   "data": {
     "utils-auth-agree-to-privacy": "Estoy de acuerdo con la {privacyPolicy}",
     "utils-auth-agree-to-terms": "Estoy de acuerdo con la {termsOfUse}",
-    "utils-auth-back-to-number": "Regresar",
-    "utils-auth-back-to-phone-number": "Volver al número de teléfono",
+    "utils-auth-back": "Regresar",
     "utils-auth-code": "Código",
-    "utils-auth-code-invalid": "Ingrese un código válido de un mensaje de texto.",
+    "utils-auth-code-invalid": "Ingresa un código válido de un mensaje de texto.",
     "utils-auth-country": "País",
-    "utils-auth-link-privacy-policy": "política de privacidad",
-    "utils-auth-link-terms-of-use": "términos de uso",
+    "utils-auth-email": "Correo electrónico",
+    "utils-auth-email-invalid": "El correo electrónico es incorrecto o está conectado a otra cuenta.",
+    "utils-auth-link-privacy-policy": "Política de privacidad",
+    "utils-auth-link-terms-of-use": "Términos de uso",
     "utils-auth-login-options": "Opciones de inicio de sesión",
     "utils-auth-login-with-facebook": "Login con Facebook",
     "utils-auth-login-with-google": "Login con Google",
     "utils-auth-next-step": "Continuar",
     "utils-auth-number": "Número",
     "utils-auth-number-invalid": "El número de teléfono es incorrecto o está conectado a otra cuenta.",
-    "utils-auth-type-phone-number-here": "Inserte número de teléfono aquí",
-    "utils-auth-type-sms-code-here": "Inserte el código SMS aquí"
+    "utils-auth-phone-number": "Número de teléfono",
+    "utils-auth-type-code": "Inserta el códgio",
+    "utils-auth-type-email-here": "Inserta correo electrónico",
+    "utils-auth-type-phone-number-here": "Inserta número de teléfono"
   }
 }
