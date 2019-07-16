@@ -2,10 +2,12 @@
   "data": {
     "suite-page-profile-login-methods-title": "Методи входу",
     "suite-page-profile-login-methods-delete-account": "Видалити обліковий запис",
-    "suite-page-profile-login-methods-email-button": "Email",
-    "suite-page-profile-login-methods-not-connected": "Не під'єднано",
-    "suite-page-profile-login-methods-phone-number": "Телефон",
-    "suite-page-profile-login-methods-social-networks-facebook": "Facebook",
-    "suite-page-profile-login-methods-social-networks-google": "Google"
+    "suite-page-profile-login-methods-email-label": "Email",
+    "suite-page-profile-login-methods-email-notice": "Connect your email to login to your account. We will gradually discontinue other login methods.",
+    "suite-page-profile-login-methods-email-value-not-connected": "Не під'єднано",
+    "suite-page-profile-login-methods-legacy-login-method-phone-number-label": "Телефон",
+    "suite-page-profile-login-methods-legacy-login-method-facebook-label": "Facebook",
+    "suite-page-profile-login-methods-legacy-login-method-google-label": "Google",
+    "suite-page-profile-login-methods-legacy-login-methods-title": "Legacy Login Methods"
   }
 }

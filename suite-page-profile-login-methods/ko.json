@@ -2,10 +2,12 @@
   "data": {
     "suite-page-profile-login-methods-title": "로그인 방법",
     "suite-page-profile-login-methods-delete-account": "계정 삭제",
-    "suite-page-profile-login-methods-email-button": "이메일",
-    "suite-page-profile-login-methods-not-connected": "연결 안됨",
-    "suite-page-profile-login-methods-phone-number": "휴대전화",
-    "suite-page-profile-login-methods-social-networks-facebook": "페이스북",
-    "suite-page-profile-login-methods-social-networks-google": "구글"
+    "suite-page-profile-login-methods-email-label": "이메일",
+    "suite-page-profile-login-methods-email-notice": "Connect your email to login to your account. We will gradually discontinue other login methods.",
+    "suite-page-profile-login-methods-email-value-not-connected": "연결 안됨",
+    "suite-page-profile-login-methods-legacy-login-method-phone-number-label": "휴대전화",
+    "suite-page-profile-login-methods-legacy-login-method-facebook-label": "페이스북",
+    "suite-page-profile-login-methods-legacy-login-method-google-label": "구글",
+    "suite-page-profile-login-methods-legacy-login-methods-title": "Legacy Login Methods"
   }
 }
