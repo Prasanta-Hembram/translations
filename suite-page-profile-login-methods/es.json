@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-page-profile-login-methods-title": "Métodos de Inicio de Sesión",
+    "suite-page-profile-login-methods-title": "Métodos de inicio de sesión",
     "suite-page-profile-login-methods-delete-account": "Eliminar cuenta",
     "suite-page-profile-login-methods-email-label": "Email",
-    "suite-page-profile-login-methods-email-notice": "Connect your email to login to your account. We will gradually discontinue other login methods.",
+    "suite-page-profile-login-methods-email-notice": "Conecte su correo electrónico para iniciar sesión en tu cuenta. Poco a poco dejaremos de utilizar otros métodos de acceso.",
     "suite-page-profile-login-methods-email-value-not-connected": "No conectado",
     "suite-page-profile-login-methods-legacy-login-method-phone-number-label": "Número telefónico",
     "suite-page-profile-login-methods-legacy-login-method-facebook-label": "Facebook",
     "suite-page-profile-login-methods-legacy-login-method-google-label": "Google",
-    "suite-page-profile-login-methods-legacy-login-methods-title": "Legacy Login Methods"
+    "suite-page-profile-login-methods-legacy-login-methods-title": "Métodos de inicio de sesión heredados"
   }
 }
