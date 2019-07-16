@@ -3,11 +3,11 @@
     "suite-page-profile-login-methods-title": "Методы входа",
     "suite-page-profile-login-methods-delete-account": "Удалить учетную запись",
     "suite-page-profile-login-methods-email-label": "Email",
-    "suite-page-profile-login-methods-email-notice": "Connect your email to login to your account. We will gradually discontinue other login methods.",
+    "suite-page-profile-login-methods-email-notice": "Подключите email для входа в учетную запись. Прочие методы входа будут выведены из употребления.",
     "suite-page-profile-login-methods-email-value-not-connected": "Не подключен",
     "suite-page-profile-login-methods-legacy-login-method-phone-number-label": "Телефон",
     "suite-page-profile-login-methods-legacy-login-method-facebook-label": "Facebook",
     "suite-page-profile-login-methods-legacy-login-method-google-label": "Google",
-    "suite-page-profile-login-methods-legacy-login-methods-title": "Legacy Login Methods"
+    "suite-page-profile-login-methods-legacy-login-methods-title": "Прочие методы входа"
   }
 }
