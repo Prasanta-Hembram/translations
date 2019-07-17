@@ -1,19 +1,19 @@
 {
   "data": {
-    "suite-page-organization-directory-team-plan-details-active-title": "План",
-    "suite-page-organization-directory-team-plan-details-active-benefits": "Преимущества",
-    "suite-page-organization-directory-team-plan-details-active-credits": "Кредиты",
-    "suite-page-organization-directory-team-plan-details-active-deactivate": "Отменить",
-    "suite-page-organization-directory-team-plan-details-active-error-user-not-found": "Эта команда не существует или была удалена.",
-    "suite-page-organization-directory-team-plan-details-active-payment": "Оплата",
-    "suite-page-organization-directory-team-plan-details-active-period-from-title": "Начало",
-    "suite-page-organization-directory-team-plan-details-active-period-pay-with-cash-title": "Наличные",
-    "suite-page-organization-directory-team-plan-details-active-period-pay-with-title": "Метод оплаты",
-    "suite-page-organization-directory-team-plan-details-active-period-title": "Период",
-    "suite-page-organization-directory-team-plan-details-active-period-until-title": "Конец",
-    "suite-page-organization-directory-team-plan-details-active-plan-description": "Описание",
-    "suite-page-organization-directory-team-plan-details-active-price": "Цена",
-    "suite-page-organization-directory-team-plan-details-active-repeat-label": "Продление",
-    "suite-page-organization-directory-team-plan-details-active-type": "Тип"
+    "suite-page-organization-directory-team-plan-details-title": "План",
+    "suite-page-organization-directory-team-plan-details-benefits": "Преимущества",
+    "suite-page-organization-directory-team-plan-details-credits": "Кредиты",
+    "suite-page-organization-directory-team-plan-details-deactivate": "Отменить",
+    "suite-page-organization-directory-team-plan-details-error-user-not-found": "Эта команда не существует или была удалена.",
+    "suite-page-organization-directory-team-plan-details-payment": "Оплата",
+    "suite-page-organization-directory-team-plan-details-period-from-title": "Начало",
+    "suite-page-organization-directory-team-plan-details-period-pay-with-cash-title": "Наличные",
+    "suite-page-organization-directory-team-plan-details-period-pay-with-title": "Метод оплаты",
+    "suite-page-organization-directory-team-plan-details-period-title": "Период",
+    "suite-page-organization-directory-team-plan-details-period-until-title": "Конец",
+    "suite-page-organization-directory-team-plan-details-plan-description": "Описание",
+    "suite-page-organization-directory-team-plan-details-price": "Цена",
+    "suite-page-organization-directory-team-plan-details-repeat-label": "Продление",
+    "suite-page-organization-directory-team-plan-details-type": "Тип"
   }
 }
