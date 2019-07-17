@@ -46,6 +46,10 @@
     "utils-plans-title-fixed-desk": "Закрепленное место",
     "utils-plans-title-hot-desk": "Незакрепленное место",
     "utils-plans-title-pass": "Входной билет",
-    "utils-plans-title-private-office": "Отдельный офис"
+    "utils-plans-title-private-office": "Отдельный офис",
+    "utils-plans-title-fixed-desk-shortened": "Закр. место",
+    "utils-plans-title-hot-desk-shortened": "Незакр. место",
+    "utils-plans-title-pass-shortened": "Входной билет",
+    "utils-plans-title-private-office-shortened": "Отдельный офис"
   }
 }
