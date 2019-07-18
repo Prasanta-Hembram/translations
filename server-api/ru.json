@@ -44,7 +44,6 @@
     "invoice-item-booking": "Бронирование переговорной ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Оплата за {paymentDate}",
     "invoice-title": "Инвойс #{invoiceId}",
-    "kakaopay-payment-intent-booking-default-description": "Бронирование переговорной {bookingDate}",
     "kakaopay-payment-intent-booking-description": "Бронирование переговорной ({roomName}) {bookingDate}",
     "kakaopay-payment-intent-default-description": "Оплата за {paymentDate}",
     "kakaopay-payment-intent-invoice-description": "Инвойс ({invoiceDate})",

@@ -44,7 +44,6 @@
     "invoice-item-booking": "Room Booking ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Payment {paymentDate}",
     "invoice-title": "Invoice #{invoiceId}",
-    "kakaopay-payment-intent-booking-default-description": "Room Booking {bookingDate}",
     "kakaopay-payment-intent-booking-description": "Room Booking ({roomName}) {bookingDate}",
     "kakaopay-payment-intent-default-description": "Payment {paymentDate}",
     "kakaopay-payment-intent-invoice-description": "Invoice ({invoiceDate})",
