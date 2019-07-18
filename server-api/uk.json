@@ -44,6 +44,7 @@
     "invoice-item-booking": "Резервація кімнати ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Оплата за {paymentDate}",
     "invoice-title": "Інвойс #{invoiceId}",
+    "kakaopay-payment-intent-booking-default-description": "Резервація кімнати {bookingDate}",
     "kakaopay-payment-intent-booking-description": "Резервація кімнати ({roomName}) {bookingDate}",
     "kakaopay-payment-intent-default-description": "Оплата за {paymentDate}",
     "kakaopay-payment-intent-invoice-description": "Інвойс ({invoiceDate})",

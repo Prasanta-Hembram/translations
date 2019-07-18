@@ -44,6 +44,7 @@
     "invoice-item-booking": "Rerserva de salas ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Pago {paymentDate}",
     "invoice-title": "Factura #{invoiceId}",
+    "kakaopay-payment-intent-booking-default-description": "Rerserva de salas {bookingDate}",
     "kakaopay-payment-intent-booking-description": "Rerserva de salas ({roomName}) {bookingDate}",
     "kakaopay-payment-intent-default-description": "Pago {paymentDate}",
     "kakaopay-payment-intent-invoice-description": "Factura ({invoiceDate})",

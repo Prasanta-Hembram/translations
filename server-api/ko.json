@@ -44,6 +44,7 @@
     "invoice-item-booking": "회의실 예약 ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "결제 {paymentDate}",
     "invoice-title": "인보이스 #{invoiceId}",
+    "kakaopay-payment-intent-booking-default-description": "회의실 예약 {bookingDate}",
     "kakaopay-payment-intent-booking-description": "회의실 예약 ({roomName}) {bookingDate}",
     "kakaopay-payment-intent-default-description": "결제 {paymentDate}",
     "kakaopay-payment-intent-invoice-description": "인보이스 ({invoiceDate})",
