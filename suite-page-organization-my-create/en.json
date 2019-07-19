@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-my-create-title": "New Workspace",
+    "suite-page-organization-my-create-button-create": "Create",
+    "suite-page-organization-my-create-currency-label": "Currency",
+    "suite-page-organization-my-create-default-locale": "Default Language",
+    "suite-page-organization-my-create-organization-name": "Name",
+    "suite-page-organization-my-create-organization-name-placeholder": "Type a name",
+    "suite-page-organization-my-create-timezone-label": "Timezone"
+  }
+}
