@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-user-info-validation-title": "Ingrese los datos requeridos",
-    "suite-page-organization-user-info-validation-error-email": "Por favor, introduzca un correo electrónico correcto.",
+    "suite-page-organization-user-info-validation-title": "Los datos requeridos",
+    "suite-page-organization-user-info-validation-error-email": "Por favor, introduzca un correo electrónico.",
     "suite-page-organization-user-info-validation-error-first-name": "Por favor ingrese un nombre",
     "suite-page-organization-user-info-validation-error-last-name": "Por favor ingrese un apellido",
     "suite-page-organization-user-info-validation-error-organization": "Por favor ingrese una organización.",
