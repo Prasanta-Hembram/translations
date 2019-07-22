@@ -15,7 +15,7 @@
     "utils-auth-login-with-google": "Вход через Google",
     "utils-auth-next-step": "Продолжить",
     "utils-auth-number": "Номер",
-    "utils-auth-number-invalid": "Номер телефона неверен или подключен к другой учетной записи.",
+    "utils-auth-number-invalid": "Невозможно войти с помощью номера телефона, он введен неверно или не привязан ни к одному аккаунту.",
     "utils-auth-phone-number": "Номер телефона",
     "utils-auth-type-code": "Ввести код",
     "utils-auth-type-email-here": "Ввести email",

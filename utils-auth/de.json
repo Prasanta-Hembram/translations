@@ -15,7 +15,7 @@
     "utils-auth-login-with-google": "Login with Google",
     "utils-auth-next-step": "Agree and continue",
     "utils-auth-number": "Number",
-    "utils-auth-number-invalid": "The phone number is incorrect or connected to another account.",
+    "utils-auth-number-invalid": "Unable to login with the phone number, because it is incorrect or not associated with any existing account.",
     "utils-auth-phone-number": "Phone Number",
     "utils-auth-type-code": "Type code",
     "utils-auth-type-email-here": "Type email here",
