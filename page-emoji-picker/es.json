@@ -8,6 +8,9 @@
     "page-emoji-picker-category-objects": "Objetos",
     "page-emoji-picker-category-smiley-and-people": "Caras sonrientes",
     "page-emoji-picker-category-symbols": "Simbolos",
-    "page-emoji-picker-category-travel-and-places": "Viajes y lugares"
+    "page-emoji-picker-category-travel-and-places": "Viajes y lugares",
+    "page-emoji-picker-search-no-emoji-found": "No Emoji Found",
+    "page-emoji-picker-search-placeholder": "Search",
+    "page-emoji-picker-search-title": "Search Results"
   }
 }

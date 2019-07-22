@@ -8,6 +8,9 @@
     "page-emoji-picker-category-objects": "물건",
     "page-emoji-picker-category-smiley-and-people": "스마일리 & 사람들",
     "page-emoji-picker-category-symbols": "상징",
-    "page-emoji-picker-category-travel-and-places": "여행 & 장소"
+    "page-emoji-picker-category-travel-and-places": "여행 & 장소",
+    "page-emoji-picker-search-no-emoji-found": "No Emoji Found",
+    "page-emoji-picker-search-placeholder": "Search",
+    "page-emoji-picker-search-title": "Search Results"
   }
 }
