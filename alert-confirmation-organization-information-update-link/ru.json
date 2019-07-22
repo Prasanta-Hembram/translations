@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-information-update-link-no": "Cancel",
-    "alert-confirmation-organization-information-update-link-yes": "Yes, Save",
-    "alert-confirmation-organization-information-update-link-text": "Are you sure you want to change workspace code? All previous invitation links will be not valid.",
-    "alert-confirmation-organization-information-update-link-title": "Change code"
+    "alert-confirmation-organization-information-update-link-no": "Отменить",
+    "alert-confirmation-organization-information-update-link-yes": "ОК",
+    "alert-confirmation-organization-information-update-link-text": "Вы уверены, что хотите изменить код коворкинга? Все предыдущие ссылки для приглашения участников станут недействительными.",
+    "alert-confirmation-organization-information-update-link-title": "Изменить код"
   }
 }
