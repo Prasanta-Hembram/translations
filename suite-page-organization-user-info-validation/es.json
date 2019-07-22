@@ -6,8 +6,6 @@
     "suite-page-organization-user-info-validation-error-last-name": "Por favor ingrese un apellido",
     "suite-page-organization-user-info-validation-error-organization": "Por favor ingrese una organización.",
     "suite-page-organization-user-info-validation-error-phone-number": "Por favor, ingrese un número de teléfono.",
-    "suite-page-organization-user-info-validation-error-title": "Por favor, introduzca un título.",
-    "suite-page-organization-user-info-validation-title": "Crear cuenta virtual",
-    "suite-page-organization-user-info-validation-section-information": "Información básica"
+    "suite-page-organization-user-info-validation-error-title": "Por favor, introduzca un título."
   }
 }

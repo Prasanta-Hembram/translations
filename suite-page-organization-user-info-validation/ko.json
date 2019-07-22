@@ -6,8 +6,6 @@
     "suite-page-organization-user-info-validation-error-last-name": "성 입력하기.",
     "suite-page-organization-user-info-validation-error-organization": "조직 입력하기.",
     "suite-page-organization-user-info-validation-error-phone-number": "핸드폰 번호 입력하기.",
-    "suite-page-organization-user-info-validation-error-title": "타이틀 입력하기.",
-    "suite-page-organization-user-info-validation-title": "가상 계정 만들기",
-    "suite-page-organization-user-info-validation-section-information": "기본정보"
+    "suite-page-organization-user-info-validation-error-title": "타이틀 입력하기."
   }
 }

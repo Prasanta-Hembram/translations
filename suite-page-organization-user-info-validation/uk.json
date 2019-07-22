@@ -6,7 +6,6 @@
     "suite-page-organization-user-info-validation-error-last-name": "Введіть прізвище.",
     "suite-page-organization-user-info-validation-error-organization": "Введіть організацію.",
     "suite-page-organization-user-info-validation-error-phone-number": "Введіть номер телефону.",
-    "suite-page-organization-user-info-validation-error-title": "Введіть посаду.",
-    "suite-page-organization-user-info-validation-section-information": "Основна інформація"
+    "suite-page-organization-user-info-validation-error-title": "Введіть посаду."
   }
 }
