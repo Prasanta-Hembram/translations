@@ -35,8 +35,8 @@
     "suite-alerts-errors-plan-sold-out": "플랜 품절.",
     "suite-alerts-errors-price-invalid": "가격이 잘못되었습니다. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-property-is-missing": "해당 회의실 예약에 실패하였습니다.",
-    "suite-alerts-errors-sign-in-facebook-error": "Unable to login with Facebook, because it is not associated with any existing account.",
-    "suite-alerts-errors-sign-in-google-error": "Unable to login with Google, because it is not associated with any existing account.",
+    "suite-alerts-errors-sign-in-facebook-error": "기존 계정과 연결되어 있지 않으므로 Facebook으로 로그인할 수 없습니다.",
+    "suite-alerts-errors-sign-in-google-error": "기존 계정과 연결되어 있지 않으므로 Google로 로그인할 수 없습니다.",
     "suite-alerts-errors-sns-user-exists": "다른 계정에 의해 로그인 되었습니다.",
     "suite-alerts-errors-trial-already-started": "예약 가능한 시간대에 맞추어 시간 범위를 선택해주세요.",
     "suite-alerts-errors-user-have-no-permission": "필요한 권한이 없습니다."
