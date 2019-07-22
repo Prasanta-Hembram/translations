@@ -15,7 +15,7 @@
     "utils-auth-login-with-google": "Google로 로그인하기",
     "utils-auth-next-step": "계속하기",
     "utils-auth-number": "휴대전화번호",
-    "utils-auth-number-invalid": "Unable to login with the phone number, because it is incorrect or not associated with any existing account.",
+    "utils-auth-number-invalid": "전화 번호가 잘못되었거나 기존 계정과 연결되어 있지 않기 때문에 전화 번호로 로그인할 수 없습니다.",
     "utils-auth-phone-number": "휴대전화번호",
     "utils-auth-type-code": "코드를 입력하기",
     "utils-auth-type-email-here": "이메일을 입력하기",
