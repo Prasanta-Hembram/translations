@@ -11,7 +11,6 @@
     "benefit-apply-email-title": "{benefitTitle} 베네핏을 신청해주셔서 감사합니다.",
     "booking-ends-in-five-minutes-notification-body": "회의실 예약이 5분 후 종료됩니다. 회의실을 정리하세요.",
     "booking-start-notification-body": "회의실 예약이 5분 후 시작됩니다. 상세 정보를 확인하세요.",
-    "booking-start-with-code-notification-body": "회의실 예약이 5분 후 시작됩니다. 출입 임시 비밀번호: {code}. 상세 정보를 확인하세요.",
     "bulk-invite-success-email-activate-link": "활성화하기",
     "bulk-invite-success-email-activation-note": "{userEmail}로 {organizationTitle} 계정을 활성화시키세요.",
     "bulk-invite-success-email-directory-list-item": "👥 모든 회원 검색",
