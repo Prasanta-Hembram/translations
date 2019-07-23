@@ -1,12 +1,12 @@
 {
   "data": {
-    "alert-confirmation-organization-membership-settings-credits-charge-title": "Charge credits",
-    "alert-confirmation-organization-membership-settings-credits-give-title": "Give credits",
-    "alert-confirmation-organization-membership-settings-credits-charge-message": "Enter the amount to charge the member.",
-    "alert-confirmation-organization-membership-settings-credits-charge-no": "Cancel",
-    "alert-confirmation-organization-membership-settings-credits-charge-yes": "Charge",
-    "alert-confirmation-organization-membership-settings-credits-give-message": "Enter the amount to give to the member.",
-    "alert-confirmation-organization-membership-settings-credits-give-no": "Cancel",
-    "alert-confirmation-organization-membership-settings-credits-give-yes": "Give"
+    "alert-confirmation-organization-membership-settings-credits-charge-title": "Credits belasten",
+    "alert-confirmation-organization-membership-settings-credits-give-title": "Credits geben",
+    "alert-confirmation-organization-membership-settings-credits-charge-message": "Geben Sie den Betrag ein, um das Mitglied zu belasten.",
+    "alert-confirmation-organization-membership-settings-credits-charge-no": "Abbrechen",
+    "alert-confirmation-organization-membership-settings-credits-charge-yes": "Belasten",
+    "alert-confirmation-organization-membership-settings-credits-give-message": "Geben Sie den Betrag ein, den Sie dem Mitglied geben möchten.",
+    "alert-confirmation-organization-membership-settings-credits-give-no": "Abbrechen",
+    "alert-confirmation-organization-membership-settings-credits-give-yes": "Geben"
   }
 }

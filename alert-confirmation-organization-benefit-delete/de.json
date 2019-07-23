@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-benefit-delete-title": "Delete benefit",
-    "alert-confirmation-organization-benefit-delete-no": "Cancel",
-    "alert-confirmation-organization-benefit-delete-text": "Are you sure you want to delete this benefit? This action is irreversible.",
-    "alert-confirmation-organization-benefit-delete-yes": "Yes, delete"
+    "alert-confirmation-organization-benefit-delete-title": "Vorteil entfernen",
+    "alert-confirmation-organization-benefit-delete-no": "Abbrechen",
+    "alert-confirmation-organization-benefit-delete-text": "Sind Sie sicher, dass Sie diesen Vorteil entfernen wollen? Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-benefit-delete-yes": "Ja, entfernen"
   }
 }

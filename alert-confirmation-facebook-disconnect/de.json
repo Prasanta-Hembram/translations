@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-facebook-disconnect-title": "Disconnect Facebook Account",
-    "alert-confirmation-facebook-disconnect-no": "Cancel",
-    "alert-confirmation-facebook-disconnect-text": "If you proceed, you won't be able to login with Facebook anymore.",
-    "alert-confirmation-facebook-disconnect-yes": "Yes, disconnect"
+    "alert-confirmation-facebook-disconnect-title": "Facebook-Konto trennen",
+    "alert-confirmation-facebook-disconnect-no": "Abbrechen",
+    "alert-confirmation-facebook-disconnect-text": "Wenn Sie fortfahren, können Sie sich nicht mehr bei Facebook anmelden.",
+    "alert-confirmation-facebook-disconnect-yes": "Ja, trennen"
   }
 }
