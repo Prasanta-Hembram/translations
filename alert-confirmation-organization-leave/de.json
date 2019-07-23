@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-leave-title": "Leave workspace",
-    "alert-confirmation-organization-leave-no": "Cancel",
-    "alert-confirmation-organization-leave-text": "Are you sure you want to leave this workspace? If you proceed, you will loose all data related to this workspace. This action is irreversible.",
-    "alert-confirmation-organization-leave-yes": "Yes, leave"
+    "alert-confirmation-organization-leave-title": "Workspace verlassen",
+    "alert-confirmation-organization-leave-no": "Abbrechen",
+    "alert-confirmation-organization-leave-text": "Sind Sie sicher, dass Sie den Workspace verlassen möchten? Wenn Sie fortfahren, verlieren Sie alle Daten, die mit diesem Workspace in Verbindung stehen. Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-leave-yes": "Ja, verlassen"
   }
 }
