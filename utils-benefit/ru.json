@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-benefit-allowance-type-once": "Одноразовый",
-    "utils-benefit-allowance-type-unlimited": "Неограниченный",
+    "utils-benefit-allowance-type-once": "Одна",
+    "utils-benefit-allowance-type-unlimited": "Неограничено",
     "utils-benefit-application-type-by-email": "Запрос по электронной почте",
     "utils-benefit-application-type-no-application": "Заявка не нужна",
     "utils-benefit-permission-type-admin": "Администраторы и модераторы",
