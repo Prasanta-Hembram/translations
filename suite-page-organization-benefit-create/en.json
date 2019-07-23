@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "New Benefit",
-    "suite-page-organization-benefit-create-benefit-application-type-label": "Application",
+    "suite-page-organization-benefit-create-benefit-application-title": "Application",
+    "suite-page-organization-benefit-create-benefit-application-type-label": "Application Type",
     "suite-page-organization-benefit-create-benefit-category": "Category",
     "suite-page-organization-benefit-create-description-placeholder": "Type a description",
     "suite-page-organization-benefit-create-description-title": "Description",
@@ -16,6 +17,7 @@
     "suite-page-organization-benefit-create-link-provider-placeholder": "Type a link",
     "suite-page-organization-benefit-create-local-label": "Language",
     "suite-page-organization-benefit-create-permission-label": "Visibility",
+    "suite-page-organization-benefit-create-permission-title": "Access",
     "suite-page-organization-benefit-create-subtitle-label": "Subtitle",
     "suite-page-organization-benefit-create-subtitle-placeholder": "Type a subtitle",
     "suite-page-organization-benefit-create-template-email-placeholder": "Type a message",

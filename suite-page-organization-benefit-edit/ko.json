@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "베네핏 편집",
-    "suite-page-organization-benefit-edit-benefit-application-type-label": "신청",
+    "suite-page-organization-benefit-edit-benefit-application-title": "신청",
+    "suite-page-organization-benefit-edit-benefit-application-type-label": "신청 Type",
     "suite-page-organization-benefit-edit-benefit-category": "부분",
     "suite-page-organization-benefit-edit-description-placeholder": "상세 설명을 입력하기",
     "suite-page-organization-benefit-edit-description-title": "상세 설명",
@@ -16,6 +17,7 @@
     "suite-page-organization-benefit-edit-link-provider-placeholder": "링크를 입력하기",
     "suite-page-organization-benefit-edit-local-label": "언어",
     "suite-page-organization-benefit-edit-permission-label": "보기 권한",
+    "suite-page-organization-benefit-edit-permission-title": "Access",
     "suite-page-organization-benefit-edit-subtitle-label": "한 줄 설명",
     "suite-page-organization-benefit-edit-subtitle-placeholder": "한 줄 설명을 입력하기",
     "suite-page-organization-benefit-edit-template-email-placeholder": "접수 확인 메시지를 입력하기",

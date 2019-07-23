@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "Создать преимущество",
-    "suite-page-organization-benefit-create-benefit-application-type-label": "Заявка",
+    "suite-page-organization-benefit-create-benefit-application-title": "Заявка",
+    "suite-page-organization-benefit-create-benefit-application-type-label": "Тип заявки",
     "suite-page-organization-benefit-create-benefit-category": "Категория",
     "suite-page-organization-benefit-create-description-placeholder": "Ввести описание",
     "suite-page-organization-benefit-create-description-title": "Детальное описание",
@@ -16,6 +17,7 @@
     "suite-page-organization-benefit-create-link-provider-placeholder": "Ввести ссылку",
     "suite-page-organization-benefit-create-local-label": "Язык",
     "suite-page-organization-benefit-create-permission-label": "Доступ",
+    "suite-page-organization-benefit-create-permission-title": "Access",
     "suite-page-organization-benefit-create-subtitle-label": "Подзаголовок",
     "suite-page-organization-benefit-create-subtitle-placeholder": "Ввести подзаголовок",
     "suite-page-organization-benefit-create-template-email-placeholder": "Ввести текст",
