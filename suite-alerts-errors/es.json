@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-alerts-errors-benefit-already-applied":"Failed to apply for benefit. You have already applied for it.",
+    "suite-alerts-errors-benefit-already-applied":"No se ha podido solicitar el beneficio. Ya lo ha solicitado.",
     "suite-alerts-errors-booking-booker-invalid": "El usuario no tiene permiso para reservar una sala privada.",
     "suite-alerts-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo.",
     "suite-alerts-errors-booking-day-unavailable": "Este día no está disponible.",
