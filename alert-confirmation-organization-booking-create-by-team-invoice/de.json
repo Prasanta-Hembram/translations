@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-booking-create-by-team-invoice-yes": "OK",
-    "alert-confirmation-organization-booking-create-by-team-invoice-no": "Cancel",
-    "alert-confirmation-organization-booking-create-by-team-invoice-title": "Additional charge incurred",
-    "alert-confirmation-organization-booking-create-by-team-invoice-text": "The expense will be added to the team invoice. At the end of the month, admin will send the invoice to your team manager to pay."
+    "alert-confirmation-organization-booking-create-by-team-invoice-no": "Abbrechen",
+    "alert-confirmation-organization-booking-create-by-team-invoice-title": "Zusätzlich anfallende Kosten",
+    "alert-confirmation-organization-booking-create-by-team-invoice-text": "Die Kosten werden der Teamrechnung hinzugefügt. Zum Monatsende schickt der Admin die Rechnung an Ihren Teamleiter zur Zahlung."
   }
 }

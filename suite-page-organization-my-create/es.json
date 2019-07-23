@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-my-create-title": "Nuevo espacio de trabajo",
+    "suite-page-organization-my-create-button-create": "Crear",
+    "suite-page-organization-my-create-currency-label": "La moneda",
+    "suite-page-organization-my-create-default-locale": "Idioma predeterminado",
+    "suite-page-organization-my-create-organization-name": "Nombre",
+    "suite-page-organization-my-create-organization-name-placeholder": "Ingrese su nombre",
+    "suite-page-organization-my-create-timezone-label": "Zona horaria"
+  }
+}
