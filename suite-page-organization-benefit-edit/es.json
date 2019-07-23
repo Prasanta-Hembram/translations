@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Editar beneficio",
-    "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Application Allowance",
+    "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Permiso de solicitud",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Solicitud",
     "suite-page-organization-benefit-edit-benefit-category": "Categoría",
     "suite-page-organization-benefit-edit-description-placeholder": "Agregar descripción",
@@ -9,7 +9,7 @@
     "suite-page-organization-benefit-edit-email-manager-label": "Correo electrónico del administrador",
     "suite-page-organization-benefit-edit-email-manager-placeholder": "Escribe un correo electrónico de administrador",
     "suite-page-organization-benefit-edit-email-provider-label": "Email del proveedor",
-    "suite-page-organization-benefit-edit-email-provider-placeholder": "Escriba un correo electrónico del proveedor",
+    "suite-page-organization-benefit-edit-email-provider-placeholder": "Escribe un correo electrónico del proveedor",
     "suite-page-organization-benefit-edit-error-email-manager": "Escribe un correo electrónico del administrador.",
     "suite-page-organization-benefit-edit-error-email-provider": "Escribe un correo electrónico del proveedor.",
     "suite-page-organization-benefit-edit-error-title": "Por favor, introduce un título.",
