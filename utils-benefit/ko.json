@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-benefit-allowance-type-once": "Once",
-    "utils-benefit-allowance-type-unlimited": "Unlimited",
+    "utils-benefit-allowance-type-once": "한 번",
+    "utils-benefit-allowance-type-unlimited": "무제한",
     "utils-benefit-application-type-by-email": "이메일로 신청하기",
     "utils-benefit-application-type-no-application": "신청 불필요",
     "utils-benefit-permission-type-admin": "관리자/중간관리자",
