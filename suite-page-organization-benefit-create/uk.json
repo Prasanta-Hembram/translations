@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "Створити перевагу",
+    "suite-page-organization-benefit-create-benefit-allowance-type-label": "Application Allowance",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Заявка",
     "suite-page-organization-benefit-create-benefit-category": "Категорія",
     "suite-page-organization-benefit-create-description-placeholder": "Увести опис",
