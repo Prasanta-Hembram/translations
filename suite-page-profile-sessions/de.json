@@ -4,7 +4,6 @@
     "suite-page-profile-sessions-description": "This is the list of devices you logged into andcards. If you do not recognize any of active sessions, remove it.",
     "suite-page-profile-sessions-current": "Current session",
     "suite-page-profile-sessions-current-cannot-load": "Can't load current session details. Check the internet connection.",
-    "suite-page-profile-sessions-log-out": "Log out",
     "suite-page-profile-sessions-other": "Active sessions",
     "suite-page-profile-sessions-other-cannot-load": "Can't load active sessions details. Check the internet connection.",
     "suite-page-profile-sessions-other-empty": "No active sessions."
