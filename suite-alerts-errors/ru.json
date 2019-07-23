@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-alerts-errors-benefit-already-applied":"Failed to apply for benefit. You have already applied for it.",
+    "suite-alerts-errors-benefit-already-applied":"Не удалось податься на преимущество. Вы уже использовали эту возможность.",
     "suite-alerts-errors-booking-booker-invalid": "Владелец не может бронировать в этой комнате.",
     "suite-alerts-errors-booking-conflict": "Другое бронирование уже существует в выбранное время.",
     "suite-alerts-errors-booking-day-unavailable": "Этот день не доступен.",
