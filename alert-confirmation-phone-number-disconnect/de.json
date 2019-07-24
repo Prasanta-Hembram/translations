@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-phone-number-disconnect-title": "Disconnect Phone Number",
-    "alert-confirmation-phone-number-disconnect-no": "Cancel",
-    "alert-confirmation-phone-number-disconnect-text": "If you proceed, you won't be able to login with phone number anymore.",
-    "alert-confirmation-phone-number-disconnect-yes": "Yes, disconnect"
+    "alert-confirmation-phone-number-disconnect-title": "Rufnummer trennen",
+    "alert-confirmation-phone-number-disconnect-no": "Abbrechen",
+    "alert-confirmation-phone-number-disconnect-text": "Wenn Sie fortfahren, können Sie sich nicht mehr mit dieser Rufnummer anmelden.",
+    "alert-confirmation-phone-number-disconnect-yes": "Ja, trennen"
   }
 }
