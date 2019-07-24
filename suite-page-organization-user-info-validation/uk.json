@@ -1,12 +1,11 @@
 {
   "data": {
-    "suite-page-organization-user-info-validation-title": "Уведіть обов'язкову інформацію",
-    "suite-page-organization-user-info-validation-error-email": "Введіть правильний email.",
-    "suite-page-organization-user-info-validation-error-first-name": "Введіть ім'я.",
-    "suite-page-organization-user-info-validation-error-last-name": "Введіть прізвище.",
-    "suite-page-organization-user-info-validation-error-organization": "Введіть організацію.",
-    "suite-page-organization-user-info-validation-error-phone-number": "Введіть номер телефону.",
-    "suite-page-organization-user-info-validation-error-title": "Введіть посаду.",
-    "suite-page-organization-user-info-validation-section-information": "Основна інформація"
+    "suite-page-organization-user-info-validation-title": "Обов'язкова інформація",
+    "suite-page-organization-user-info-validation-error-email": "Уведіть email.",
+    "suite-page-organization-user-info-validation-error-first-name": "Уведіть ім'я.",
+    "suite-page-organization-user-info-validation-error-last-name": "Уведіть прізвище.",
+    "suite-page-organization-user-info-validation-error-organization": "Уведіть організацію.",
+    "suite-page-organization-user-info-validation-error-phone-number": "Уведіть номер телефону.",
+    "suite-page-organization-user-info-validation-error-title": "Уведіть посаду."
   }
 }

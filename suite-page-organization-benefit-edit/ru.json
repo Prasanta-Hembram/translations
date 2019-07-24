@@ -2,7 +2,8 @@
   "data": {
     "suite-page-organization-benefit-edit-title": "Редактировать преимущество",
     "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Кол-во заявок",
-    "suite-page-organization-benefit-edit-benefit-application-type-label": "Заявка",
+    "suite-page-organization-benefit-edit-benefit-application-title": "Заявка",
+    "suite-page-organization-benefit-edit-benefit-application-type-label": "Тип заявки",
     "suite-page-organization-benefit-edit-benefit-category": "Категория",
     "suite-page-organization-benefit-edit-description-placeholder": "Ввести описание",
     "suite-page-organization-benefit-edit-description-title": "Детальное описание",
@@ -17,6 +18,7 @@
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Ввести ссылку",
     "suite-page-organization-benefit-edit-local-label": "Язык",
     "suite-page-organization-benefit-edit-permission-label": "Доступ",
+    "suite-page-organization-benefit-edit-permission-title": "Доступ",
     "suite-page-organization-benefit-edit-subtitle-label": "Подзаголовок",
     "suite-page-organization-benefit-edit-subtitle-placeholder": "Ввести подзаголовок",
     "suite-page-organization-benefit-edit-template-email-placeholder": "Ввести текст",
