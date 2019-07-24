@@ -6,7 +6,6 @@
     "suite-page-organization-user-info-validation-error-last-name": "Type a last name.",
     "suite-page-organization-user-info-validation-error-organization": "Type an organization.",
     "suite-page-organization-user-info-validation-error-phone-number": "Type a phone number.",
-    "suite-page-organization-user-info-validation-error-title": "Type a title.",
-    "suite-page-organization-user-info-validation-section-information": "Basic Information"
+    "suite-page-organization-user-info-validation-error-title": "Type a title."
   }
 }
