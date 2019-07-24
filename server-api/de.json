@@ -11,7 +11,6 @@
     "benefit-apply-email-title": "Vielen Dank für die Beantragung des Vorteils {benefitTitle}!",
     "booking-ends-in-five-minutes-notification-body": "Ihre Buchung endet in 5 Minuten. Bitte achten Sie auf die Sauberkeit des Raumes.",
     "booking-start-notification-body": "Ihre Buchung beginnt in 5 Minuten. Tippen Sie hier für Details.",
-    "booking-start-with-code-notification-body": "Ihre Buchung beginnt in 5 Minuten. Verwenden Sie {code}, um einzutreten. Tippen Sie hier für Details.",
     "bulk-invite-success-email-greeting": "Hallo, {userFullName},",
     "bulk-invite-success-email-invitation-text": "Sie sind eingeladen, der {organizationTitle} App beizutreten, um:",
     "bulk-invite-success-email-reservations-list-item": "🕙 Besprechungsräume zu buchen",
