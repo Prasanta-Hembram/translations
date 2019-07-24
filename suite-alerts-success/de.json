@@ -1,16 +1,16 @@
 {
   "data": {
-    "suite-alerts-copied-to-clipboard": "Copied to clipboard.",
-    "suite-alerts-refund-booking-credits-for-admin": "Booking owner got 100% refund of credits.",
-    "suite-alerts-refund-booking-credits-for-owner": "{points} successfully refunded.",
-    "suite-alerts-refund-booking-money-for-admin": "Booking owner got 100% refund of money.",
-    "suite-alerts-refund-booking-money-for-owner": "{price} successfully refunded.",
-    "suite-alerts-success-benefit-apply": "Application successfully sent.",
-    "suite-alerts-success-booking-create": "Booking is made successfully.",
-    "suite-alerts-success-invoice-finalized": "Invoice successfully finalized.",
-    "suite-alerts-success-invoice-money-transaction-saved": "Invoice transaction updated.",
-    "suite-alerts-success-organization-invites-send": "Invites successfully sent.",
-    "suite-alerts-success-organization-plan-deactivated": "Plan is successfully deactivated.",
-    "suite-alerts-success-organization-plan-purchased": "Plan is purchased."
+    "suite-alerts-copied-to-clipboard": "In die Zwischenablage kopiert.",
+    "suite-alerts-refund-booking-credits-for-admin": "Der Buchungsbesitzer erhielt 100% der Credits zurückerstattet.",
+    "suite-alerts-refund-booking-credits-for-owner": "{points} erfolgreich zurückerstattet.",
+    "suite-alerts-refund-booking-money-for-admin": "Der Buchungsbesitzer erhielt 100% des Geldes zurückerstattet.",
+    "suite-alerts-refund-booking-money-for-owner": "{price} erfolgreich zurückerstattet.",
+    "suite-alerts-success-benefit-apply": "Antrag erfolgreich versandt.",
+    "suite-alerts-success-booking-create": "Die Buchung wurde erfolgreich durchgeführt.",
+    "suite-alerts-success-invoice-finalized": "Rechnung erfolgreich abgeschlossen.",
+    "suite-alerts-success-invoice-money-transaction-saved": "Rechnungstransaktion aktualisiert.",
+    "suite-alerts-success-organization-invites-send": "Einladungen erfolgreich versandt.",
+    "suite-alerts-success-organization-plan-deactivated": "Das Abo wurde erfolgreich deaktiviert.",
+    "suite-alerts-success-organization-plan-purchased": "Das Abo wurde erworben."
   }
 }
