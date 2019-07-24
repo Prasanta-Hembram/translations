@@ -1,14 +1,14 @@
 {
   "data": {
-    "payments-page-stripe-title": "Pay with Stripe | andcards",
-    "payments-page-stripe-field-email-label": "Email",
-    "payments-page-stripe-field-email-placeholder": "Type Email",
-    "payments-page-stripe-page-title-booking": "Pay for Booking",
-    "payments-page-stripe-page-title-invoice": "Pay for Invoice",
-    "payments-page-stripe-page-error": "The payment request has already completed or does not exist.",
-    "payments-page-stripe-page-success": "The payment has succeeded.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "By providing your card details and email for processing the payment and sending receipt, you agree to the {privacyPolicy}. Additionally, your data is subject to policies of your service provider.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "andcards Privacy Policy",
-    "payments-page-stripe-pay-by-card-pay-button": "Pay {price}"
+    "payments-page-stripe-title": "Mit Stripe bezahlen | andcards",
+    "payments-page-stripe-field-email-label": "E-Mail",
+    "payments-page-stripe-field-email-placeholder": "E-Mail eingeben",
+    "payments-page-stripe-page-title-booking": "Buchung bezahlen",
+    "payments-page-stripe-page-title-invoice": "Rechnung bezahlen",
+    "payments-page-stripe-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
+    "payments-page-stripe-page-success": "Die Zahlung war erfolgreich..",
+    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "Mit der Übermittlung Ihrer Kartendetails und Ihrer E-Mail zur Bearbeitung der Zahlung und dem Versand der Quittung erklären Sie sich mit der {privacyPolicy} einverstanden. Darüber hinaus unterliegen Ihre Daten den Richtlinien Ihres Dienstanbieters.",
+    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "andcards Datenschutzerklärung",
+    "payments-page-stripe-pay-by-card-pay-button": "Bezahlen Sie {price}"
   }
 }
