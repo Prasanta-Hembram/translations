@@ -11,6 +11,7 @@
     "suite-alerts-success-invoice-money-transaction-saved": "Rechnungstransaktion aktualisiert.",
     "suite-alerts-success-organization-invites-send": "Einladungen erfolgreich versandt.",
     "suite-alerts-success-organization-plan-deactivated": "Das Abo wurde erfolgreich deaktiviert.",
-    "suite-alerts-success-organization-plan-purchased": "Das Abo wurde erworben."
+    "suite-alerts-success-organization-plan-purchased": "Das Abo wurde erworben.",
+    "suite-alerts-success-sessions-other-signed-out": "You have been signed out of all other sessions."
   }
 }

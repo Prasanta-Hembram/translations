@@ -9,6 +9,7 @@
     "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "Facebook",
     "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "Google",
     "suite-page-profile-privacy-and-security-legacy-login-methods-title": "Прочие методы входа",
+    "suite-page-profile-privacy-and-security-sessions-signout-other-button": "Sign out other sessions",
     "suite-page-profile-privacy-and-security-sessions-title": "Активные сеансы"
   }
 }
