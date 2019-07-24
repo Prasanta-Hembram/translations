@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-page-profile-privacy-and-security-title": "Privacy and Security",
-    "suite-page-profile-privacy-and-security-delete-account": "계정 삭제",
+    "suite-page-profile-privacy-and-security-delete-account-button": "계정 삭제",
+    "suite-page-profile-privacy-and-security-delete-account-description": "Permanently delete your account and all of your content.",
+    "suite-page-profile-privacy-and-security-delete-account-title": "계정 삭제",
     "suite-page-profile-privacy-and-security-email-label": "이메일",
     "suite-page-profile-privacy-and-security-email-notice": "이메일을 연결하여 계정에 로그인합니다. 다른 로그인 방법을 점차 중단하겠습니다.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "연결 안됨",
@@ -9,7 +11,8 @@
     "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "페이스북",
     "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "구글",
     "suite-page-profile-privacy-and-security-legacy-login-methods-title": "중단 로그인 방법",
-    "suite-page-profile-privacy-and-security-sessions-signout-other-button": "Sign out other sessions",
-    "suite-page-profile-privacy-and-security-sessions-title": "활성 세션"
+    "suite-page-profile-privacy-and-security-sessions-button": "Sign out other sessions",
+    "suite-page-profile-privacy-and-security-sessions-description": "This will sign you out of sessions in other browsers or on other computers.",
+    "suite-page-profile-privacy-and-security-sessions-title": "Sign out of all other sessions"
   }
 }

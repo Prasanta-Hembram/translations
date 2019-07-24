@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-page-profile-privacy-and-security-title": "Privacy and Security",
-    "suite-page-profile-privacy-and-security-delete-account": "Удалить учетную запись",
+    "suite-page-profile-privacy-and-security-delete-account-button": "Удалить учетную запись",
+    "suite-page-profile-privacy-and-security-delete-account-description": "Permanently delete your account and all of your content.",
+    "suite-page-profile-privacy-and-security-delete-account-title": "Удалить учетную запись",
     "suite-page-profile-privacy-and-security-email-label": "Email",
     "suite-page-profile-privacy-and-security-email-notice": "Подключите email для входа в учетную запись. Прочие методы входа будут выведены из употребления.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "Не подключен",
@@ -9,7 +11,8 @@
     "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "Facebook",
     "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "Google",
     "suite-page-profile-privacy-and-security-legacy-login-methods-title": "Прочие методы входа",
-    "suite-page-profile-privacy-and-security-sessions-signout-other-button": "Sign out other sessions",
-    "suite-page-profile-privacy-and-security-sessions-title": "Активные сеансы"
+    "suite-page-profile-privacy-and-security-sessions-button": "Sign out other sessions",
+    "suite-page-profile-privacy-and-security-sessions-description": "This will sign you out of sessions in other browsers or on other computers.",
+    "suite-page-profile-privacy-and-security-sessions-title": "Sign out of all other sessions"
   }
 }
