@@ -1,12 +1,12 @@
 {
   "data": {
-    "suite-page-my-workspaces-main-main-title": "My Workspaces",
-    "suite-page-my-workspaces-main-button-create": "Create New",
-    "suite-page-my-workspaces-main-button-join": "Join Existing",
-    "suite-page-my-workspaces-main-button-search": "Search",
-    "suite-page-my-workspaces-main-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "suite-page-my-workspaces-main-no-coworkings": "Join existing or open a new workspace in seconds.",
-    "suite-page-my-workspaces-main-no-coworkings-title": "Let's get started",
-    "suite-page-my-workspaces-main-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved."
+    "suite-page-my-workspaces-main-main-title": "Meine Workspaces",
+    "suite-page-my-workspaces-main-button-create": "Neuen erstellen",
+    "suite-page-my-workspaces-main-button-join": "Bestehenden beitreten",
+    "suite-page-my-workspaces-main-button-search": "Suchen",
+    "suite-page-my-workspaces-main-get-failure": "Workspaces konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "suite-page-my-workspaces-main-no-coworkings": "Treten Sie in bestehende ein oder öffnen Sie einen neuen Workspace in Sekundenschnelle.",
+    "suite-page-my-workspaces-main-no-coworkings-title": "Los geht's",
+    "suite-page-my-workspaces-main-requested-text": "Ihre Anfrage wird vom Administrator geprüft. Wir werden Sie benachrichtigen, sobald dies abgeschlossen ist."
   }
 }
