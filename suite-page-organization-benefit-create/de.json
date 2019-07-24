@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "Neuer Vorteil",
-    "suite-page-organization-benefit-create-benefit-application-type-label": "Antrag",
+    "suite-page-organization-benefit-create-benefit-application-title": "Antrag",
+    "suite-page-organization-benefit-create-benefit-application-type-label": "Anwendungstyp",
     "suite-page-organization-benefit-create-benefit-category": "Kategorie",
     "suite-page-organization-benefit-create-description-placeholder": "Beschreibung eingeben",
     "suite-page-organization-benefit-create-description-title": "Beschreibung",
@@ -16,6 +17,7 @@
     "suite-page-organization-benefit-create-link-provider-placeholder": "Link eingeben",
     "suite-page-organization-benefit-create-local-label": "Sprache",
     "suite-page-organization-benefit-create-permission-label": "Sichtbarkeit",
+    "suite-page-organization-benefit-create-permission-title": "Zugriff",
     "suite-page-organization-benefit-create-subtitle-label": "Untertitel",
     "suite-page-organization-benefit-create-subtitle-placeholder": "Untertitel eingeben",
     "suite-page-organization-benefit-create-template-email-placeholder": "Nachricht eingeben",
