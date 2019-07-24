@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Edit Benefit",
-    "suite-page-organization-benefit-edit-benefit-application-type-label": "Application",
+    "suite-page-organization-benefit-edit-benefit-application-title": "Application",
+    "suite-page-organization-benefit-edit-benefit-application-type-label": "Application Type",
     "suite-page-organization-benefit-edit-benefit-category": "Category",
     "suite-page-organization-benefit-edit-description-placeholder": "Type a description",
     "suite-page-organization-benefit-edit-description-title": "Description",
@@ -16,6 +17,7 @@
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Type a link",
     "suite-page-organization-benefit-edit-local-label": "Language",
     "suite-page-organization-benefit-edit-permission-label": "Visibility",
+    "suite-page-organization-benefit-edit-permission-title": "Access",
     "suite-page-organization-benefit-edit-subtitle-label": "Subtitle",
     "suite-page-organization-benefit-edit-subtitle-placeholder": "Type a subtitle",
     "suite-page-organization-benefit-edit-template-email-placeholder": "Type a message",
