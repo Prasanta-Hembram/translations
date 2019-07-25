@@ -1,20 +1,20 @@
 {
   "data": {
-    "suite-page-organization-transaction-booking-details-end-date": "Ending",
-    "suite-page-organization-transaction-booking-details-start-date": "Starting",
-    "suite-page-organization-transaction-booking-details-property-name": "Room",
-    "suite-page-organization-transaction-booking-details-title": "Booking Details",
-    "suite-page-organization-transaction-date-label": "Date",
-    "suite-page-organization-transaction-date-from-label": "From",
-    "suite-page-organization-transaction-date-until-label": "Until",
-    "suite-page-organization-transaction-not-found": "This transaction may not exist or may have been removed.",
-    "suite-page-organization-transaction-paid-with-label": "Paid With",
-    "suite-page-organization-transaction-paid-with-card": "Card",
-    "suite-page-organization-transaction-paid-with-cash": "Cash",
-    "suite-page-organization-transaction-paid-with-for-free": "Free",
-    "suite-page-organization-transaction-paid-with-invoice": "Invoice",
-    "suite-page-organization-transaction-period-label": "Period",
-    "suite-page-organization-transaction-plan-details-title": "Plan Details",
-    "suite-page-organization-transaction-title": "Transaction Details"
+    "suite-page-organization-transaction-booking-details-end-date": "Endet",
+    "suite-page-organization-transaction-booking-details-start-date": "Beginnt",
+    "suite-page-organization-transaction-booking-details-property-name": "Raum",
+    "suite-page-organization-transaction-booking-details-title": "Buchungsdetails",
+    "suite-page-organization-transaction-date-label": "Datum",
+    "suite-page-organization-transaction-date-from-label": "Von",
+    "suite-page-organization-transaction-date-until-label": "Bis",
+    "suite-page-organization-transaction-not-found": "Diese Transaktion ist möglicherweise nicht vorhanden oder wurde entfernt.",
+    "suite-page-organization-transaction-paid-with-label": "Bezahlt mit",
+    "suite-page-organization-transaction-paid-with-card": "Karte",
+    "suite-page-organization-transaction-paid-with-cash": "Bargeld",
+    "suite-page-organization-transaction-paid-with-for-free": "Kostenlos",
+    "suite-page-organization-transaction-paid-with-invoice": "Rechnung",
+    "suite-page-organization-transaction-period-label": "Zeitraum",
+    "suite-page-organization-transaction-plan-details-title": "Abo-Details",
+    "suite-page-organization-transaction-title": "Transaktionsdetails"
   }
 }
