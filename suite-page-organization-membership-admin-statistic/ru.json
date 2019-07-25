@@ -5,6 +5,9 @@
     "suite-page-organization-membership-admin-statistic-membership-section-members": "Участники",
     "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "Новые в этом месяце",
     "suite-page-organization-membership-admin-statistic-membership-section-teams": "Команды",
+    "suite-page-organization-membership-admin-statistic-revenue-section": "Revenue",
+    "suite-page-organization-membership-admin-statistic-revenue-section-legend-paid": "Paid",
+    "suite-page-organization-membership-admin-statistic-revenue-section-legend-unpaid": "Unpaid",
     "suite-page-organization-membership-admin-statistic-title": "Статистика"
   }
 }
