@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-bookings-history-title": "All My Bookings",
-    "suite-page-organization-bookings-history-default-booking-purpose": "Reservation",
-    "suite-page-organization-bookings-history-fetch-failure": "Couldn't show bookings. Are you sure there is an internet connection?",
-    "suite-page-organization-bookings-history-list-empty": "There are no bookings."
+    "suite-page-organization-bookings-history-title": "Alle meine Buchungen",
+    "suite-page-organization-bookings-history-default-booking-purpose": "Reservierung",
+    "suite-page-organization-bookings-history-fetch-failure": "Buchungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "suite-page-organization-bookings-history-list-empty": "Es gibt keine Buchungen."
   }
 }

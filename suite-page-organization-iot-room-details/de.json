@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-iot-room-details-error-no-internet": "Couldn't load devices. Check the internet and try again.",
-    "suite-page-organization-iot-room-details-humidity": "Humidity",
-    "suite-page-organization-iot-room-details-illuminance": "Illuminance",
-    "suite-page-organization-iot-room-details-no-integration": "The workspace has no devices to display.",
-    "suite-page-organization-iot-room-details-no-devices": "There are no devices.",
-    "suite-page-organization-iot-room-details-temperature": "Temperature"
+    "suite-page-organization-iot-room-details-error-no-internet": "Geräte konnten nicht geladen werden. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
+    "suite-page-organization-iot-room-details-humidity": "Luftfeuchtigkeit",
+    "suite-page-organization-iot-room-details-illuminance": "Beleuchtungsstärke",
+    "suite-page-organization-iot-room-details-no-integration": "Der Workspace hat keine Geräte zum Anzeigen.",
+    "suite-page-organization-iot-room-details-no-devices": "Es gibt keine Geräte.",
+    "suite-page-organization-iot-room-details-temperature": "Temperatur"
   }
 }

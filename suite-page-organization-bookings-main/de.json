@@ -1,14 +1,14 @@
 {
   "data": {
-    "suite-page-organization-bookings-main-title": "Bookings",
-    "suite-page-organization-bookings-main-availability-available": "Available",
-    "suite-page-organization-bookings-main-availability-in-minutes": "Available {time}",
-    "suite-page-organization-bookings-main-availability-in-use": "In use",
-    "suite-page-organization-bookings-main-availability-unavailable": "Unavailable",
-    "suite-page-organization-bookings-main-default-booking-purpose": "Reservation",
-    "suite-page-organization-bookings-main-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
-    "suite-page-organization-bookings-main-my-bookings-no-upcoming": "There are no upcoming bookings.",
-    "suite-page-organization-bookings-main-my-bookings-title": "My Bookings",
-    "suite-page-organization-bookings-main-rooms": "Rooms"
+    "suite-page-organization-bookings-main-title": "Buchungen",
+    "suite-page-organization-bookings-main-availability-available": "Verfügbar",
+    "suite-page-organization-bookings-main-availability-in-minutes": "Verfügbar {time}",
+    "suite-page-organization-bookings-main-availability-in-use": "In Verwendung",
+    "suite-page-organization-bookings-main-availability-unavailable": "Nicht verfügbar",
+    "suite-page-organization-bookings-main-default-booking-purpose": "Reservierung",
+    "suite-page-organization-bookings-main-get-failure": "Konnte keine Räume zeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "suite-page-organization-bookings-main-my-bookings-no-upcoming": "Es gibt keine bevorstehenden Buchungen.",
+    "suite-page-organization-bookings-main-my-bookings-title": "Meine Buchungen",
+    "suite-page-organization-bookings-main-rooms": "Räume"
   }
 }

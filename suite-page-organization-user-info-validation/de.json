@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-user-info-validation-title": "Enter required data",
-    "suite-page-organization-user-info-validation-error-email": "Type a correct email.",
-    "suite-page-organization-user-info-validation-error-first-name": "Type a first name.",
-    "suite-page-organization-user-info-validation-error-last-name": "Type a last name.",
-    "suite-page-organization-user-info-validation-error-organization": "Type an organization.",
-    "suite-page-organization-user-info-validation-error-phone-number": "Type a phone number.",
-    "suite-page-organization-user-info-validation-error-title": "Type a title."
+    "suite-page-organization-user-info-validation-title": "Erforderliche Daten eingeben",
+    "suite-page-organization-user-info-validation-error-email": "Geben Sie eine korrekte E-Mail ein.",
+    "suite-page-organization-user-info-validation-error-first-name": "Geben Sie einen Vornamen ein.",
+    "suite-page-organization-user-info-validation-error-last-name": "Geben Sie einen Nachnamen ein.",
+    "suite-page-organization-user-info-validation-error-organization": "Geben Sie eine Organisation ein.",
+    "suite-page-organization-user-info-validation-error-phone-number": "Geben Sie eine Rufnummer ein.",
+    "suite-page-organization-user-info-validation-error-title": "Geben Sie einen Titel ein."
   }
 }

@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-membership-user-credits-title": "Personal Credits",
-    "suite-page-organization-membership-user-credits-error-credit-system-off": "The workspace`s credit system is disabled.",
-    "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} expire on {date}.",
-    "suite-page-organization-membership-user-credits-policy-details": "Credit Refund Notice"
+    "suite-page-organization-membership-user-credits-title": "Persönliche Credits",
+    "suite-page-organization-membership-user-credits-error-credit-system-off": "Das Credit-System des Workspace ist deaktiviert.",
+    "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} verfallen am {date}.",
+    "suite-page-organization-membership-user-credits-policy-details": "Mitteilung zur Credit-Rückerstattung"
   }
 }

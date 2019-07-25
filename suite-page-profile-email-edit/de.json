@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-profile-email-edit-code-invalid": "Type a confirmation code from an email message.",
-    "suite-page-profile-email-edit-code-label": "Confirmation Code",
-    "suite-page-profile-email-edit-code-type-here": "Type code",
-    "suite-page-profile-email-edit-email-continue": "Continue",
-    "suite-page-profile-email-edit-email-invalid": "The email is incorrect or connected to another account.",
-    "suite-page-profile-email-edit-email-title": "Email",
-    "suite-page-profile-email-edit-email-type-here": "Type email"
+    "suite-page-profile-email-edit-code-invalid": "Geben Sie einen Bestätigungscode aus der E-Mail-Nachricht ein.",
+    "suite-page-profile-email-edit-code-label": "Bestätigungscode",
+    "suite-page-profile-email-edit-code-type-here": "Code eingeben",
+    "suite-page-profile-email-edit-email-continue": "Fortfahren",
+    "suite-page-profile-email-edit-email-invalid": "Die E-Mail ist falsch oder mit einem anderen Konto verbunden.",
+    "suite-page-profile-email-edit-email-title": "E-Mail",
+    "suite-page-profile-email-edit-email-type-here": "E-Mail eingeben"
   }
 }
