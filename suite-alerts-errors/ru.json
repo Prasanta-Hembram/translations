@@ -22,7 +22,7 @@
     "suite-alerts-errors-no-internet": "Нет интернет-соединения.",
     "suite-alerts-errors-no-printers-connections": "В коворкинга нет данных о пользователей принтеров.",
     "suite-alerts-errors-organization-code-is-invalid": "Тег должен содежать только латиницу и дефис.",
-    "suite-alerts-errors-organization-code-is-taken": "The workspace tag is already taken. Try another one.",
+    "suite-alerts-errors-organization-code-is-taken": "Этот тег уже занят. Попробуйте другой.",
     "suite-alerts-errors-organization-create-params-invalid": "Не удалось создать коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-organization-update-params-invalid": "Не удалось обновить коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-payment-price-high": "Сумма выше, чем это позволяет платежная система.",
