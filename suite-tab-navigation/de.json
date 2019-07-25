@@ -1,15 +1,15 @@
 {
   "data": {
-    "suite-tab-navigation-my-workspaces": "My Workspaces",
-    "suite-tab-navigation-organization-access": "Access",
-    "suite-tab-navigation-organization-benefits": "Benefits",
-    "suite-tab-navigation-organization-booking": "Bookings",
-    "suite-tab-navigation-organization-directory": "Directory",
+    "suite-tab-navigation-my-workspaces": "Meine Workspaces",
+    "suite-tab-navigation-organization-access": "Zugang",
+    "suite-tab-navigation-organization-benefits": "Vorteile",
+    "suite-tab-navigation-organization-booking": "Buchungen",
+    "suite-tab-navigation-organization-directory": "Verzeichnis",
     "suite-tab-navigation-organization-feed": "Feed",
     "suite-tab-navigation-organization-information": "Information",
-    "suite-tab-navigation-organization-iot-devices": "IoT Devices",
-    "suite-tab-navigation-organization-membership": "Membership",
-    "suite-tab-navigation-organization-settings": "Settings",
-    "suite-tab-navigation-profile": "Profile"
+    "suite-tab-navigation-organization-iot-devices": "IoT-Geräte",
+    "suite-tab-navigation-organization-membership": "Mitgliedschaft",
+    "suite-tab-navigation-organization-settings": "Einstellungen",
+    "suite-tab-navigation-profile": "Profil"
   }
 }
