@@ -20,8 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Начало",
     "suite-page-organization-property-statistics-utilization-title": "Заполненность",
     "suite-page-organization-property-statistics-validation-error-chart": "Невозможно отобразить диаграмму. Проверьте, пожалуйста, правильно ли введена дата.",
-    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in the workspace for this period",
-    "suite-page-organization-property-statistics-value-same": "same as average in the workspace for this period",
-    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in the workspace for this period"
+    "suite-page-organization-property-statistics-value-bigger": "на {value} больше среднего по коворкингу за выбранный период.",
+    "suite-page-organization-property-statistics-value-same": "среднее значение среднего по коворкингу за выбранный период.",
+    "suite-page-organization-property-statistics-value-smaller": "на {value} меньше среднего по коворкингу за выбранный период."
   }
 }
