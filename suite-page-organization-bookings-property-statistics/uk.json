@@ -1,14 +1,11 @@
 {
   "data": {
     "suite-page-organization-property-statistics-title": "Загальна статистика",
-    "suite-page-organization-property-statistics-average": "Усі кімнати (середнє)",
     "suite-page-organization-property-statistics-booking-hours": "Кількість годин",
     "suite-page-organization-property-statistics-bookings-times": "Кількість резервацій",
-    "suite-page-organization-property-statistics-difference": "Різниця",
     "suite-page-organization-property-statistics-end-date-title": "Кінець",
     "suite-page-organization-property-statistics-error-end-date": "Укажіть правильну кінцеву дату.",
     "suite-page-organization-property-statistics-error-start-date": "Укажіть правильну початкову дату.",
-    "suite-page-organization-property-statistics-facility": "Ця кімната",
     "suite-page-organization-property-statistics-internet-error-chart": "Неможливо відобразити діаграму. Перевірте, будь-ласка, чи є інтернет з'єднання.",
     "suite-page-organization-property-statistics-internet-error-general": "Неможливо відобразити статистику. Перевірте, будь-ласка, чи є інтернет з'єднання.",
     "suite-page-organization-property-statistics-popularity-hour": "Загальна тривалість резервацій, год.",
@@ -22,7 +19,7 @@
     "suite-page-organization-property-statistics-popularity-week-wed": "Ср",
     "suite-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
     "suite-page-organization-property-statistics-start-date-title": "Початок",
-    "suite-page-organization-property-statistics-utilization-title": "Заповненість, %",
+    "suite-page-organization-property-statistics-utilization-title": "Заповненість",
     "suite-page-organization-property-statistics-validation-error-chart": "Неможливо відобразити діаграму. Перевірте, будь-ласка, чи правильно введено дату.",
     "suite-page-organization-property-statistics-validation-error-general": "Неможливо відобразити статистику. Перевірте, будь-ласка, чи правильно введено дату."
   }
