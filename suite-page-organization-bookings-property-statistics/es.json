@@ -20,8 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Comienzo",
     "suite-page-organization-property-statistics-utilization-title": "Tasa de uso",
     "suite-page-organization-property-statistics-validation-error-chart": "No se puede mostrar un gráfico. Por favor, verifique las fechas de entrada.",
-    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization",
-    "suite-page-organization-property-statistics-value-same": "same as average in this organization",
-    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization"
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization for this period",
+    "suite-page-organization-property-statistics-value-same": "same as average in this organization for this period",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization for this period"
   }
 }
