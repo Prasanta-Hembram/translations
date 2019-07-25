@@ -7,7 +7,6 @@
     "suite-page-organization-property-statistics-error-end-date": "Укажите правильную конечную дату.",
     "suite-page-organization-property-statistics-error-start-date": "Укажите правильную начальную дату.",
     "suite-page-organization-property-statistics-internet-error-chart": "Невозможно отобразить диаграмму. Проверьте, пожалуйста, интернет соединение.",
-    "suite-page-organization-property-statistics-internet-error-general": "Невозможно отобразить статистику. Проверьте, пожалуйста, интернет соединение.",
     "suite-page-organization-property-statistics-popularity-hour": "Популярность по часам, часов",
     "suite-page-organization-property-statistics-popularity-week": "Популярность по дням",
     "suite-page-organization-property-statistics-popularity-week-fri": "Пт",
@@ -21,6 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Начало",
     "suite-page-organization-property-statistics-utilization-title": "Заполненность",
     "suite-page-organization-property-statistics-validation-error-chart": "Невозможно отобразить диаграмму. Проверьте, пожалуйста, правильно ли введена дата.",
-    "suite-page-organization-property-statistics-validation-error-general": "Невозможно отобразить статистику. Проверьте, пожалуйста, правильно ли введена дата."
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization",
+    "suite-page-organization-property-statistics-value-same": "same as average in this organization",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization"
   }
 }

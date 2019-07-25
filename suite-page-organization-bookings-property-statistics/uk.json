@@ -7,7 +7,6 @@
     "suite-page-organization-property-statistics-error-end-date": "Укажіть правильну кінцеву дату.",
     "suite-page-organization-property-statistics-error-start-date": "Укажіть правильну початкову дату.",
     "suite-page-organization-property-statistics-internet-error-chart": "Неможливо відобразити діаграму. Перевірте, будь-ласка, чи є інтернет з'єднання.",
-    "suite-page-organization-property-statistics-internet-error-general": "Неможливо відобразити статистику. Перевірте, будь-ласка, чи є інтернет з'єднання.",
     "suite-page-organization-property-statistics-popularity-hour": "Загальна тривалість резервацій, год.",
     "suite-page-organization-property-statistics-popularity-week": "Популярність по днях",
     "suite-page-organization-property-statistics-popularity-week-fri": "Пт",
@@ -21,6 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Початок",
     "suite-page-organization-property-statistics-utilization-title": "Заповненість",
     "suite-page-organization-property-statistics-validation-error-chart": "Неможливо відобразити діаграму. Перевірте, будь-ласка, чи правильно введено дату.",
-    "suite-page-organization-property-statistics-validation-error-general": "Неможливо відобразити статистику. Перевірте, будь-ласка, чи правильно введено дату."
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization",
+    "suite-page-organization-property-statistics-value-same": "same as average in this organization",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization"
   }
 }

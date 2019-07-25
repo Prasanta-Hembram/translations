@@ -7,7 +7,6 @@
     "suite-page-organization-property-statistics-error-end-date": "Korrektes Enddatum auswählen.",
     "suite-page-organization-property-statistics-error-start-date": "Korrektes Startdatum auswählen.",
     "suite-page-organization-property-statistics-internet-error-chart": "Konnte kein Diagramm anzeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
-    "suite-page-organization-property-statistics-internet-error-general": "Konnte keine Statistiken anzeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-property-statistics-popularity-hour": "Beliebtheit nach Uhrzeit",
     "suite-page-organization-property-statistics-popularity-week": "Beliebtheit nach Wochentag",
     "suite-page-organization-property-statistics-popularity-week-fri": "Fr.",
@@ -21,6 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Nutzung",
     "suite-page-organization-property-statistics-validation-error-chart": "Diagramm kann nicht angezeigt werden. Eingabedaten prüfen.",
-    "suite-page-organization-property-statistics-validation-error-general": "Statistiken können nicht angezeigt werden. Eingabedaten prüfen."
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization",
+    "suite-page-organization-property-statistics-value-same": "same as average in this organization",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization"
   }
 }

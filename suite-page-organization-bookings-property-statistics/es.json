@@ -7,7 +7,6 @@
     "suite-page-organization-property-statistics-error-end-date": "Por favor indique la fecha de finalización correcta.",
     "suite-page-organization-property-statistics-error-start-date": "Por favor indique la fecha de inicio correcta.",
     "suite-page-organization-property-statistics-internet-error-chart": "No se pudo mostrar un gráfico. ¿Estás seguro de que hay una conexión a Internet??",
-    "suite-page-organization-property-statistics-internet-error-general": "No se pudo mostrar una estadística ¿Estás seguro de que hay una conexión a Internet??",
     "suite-page-organization-property-statistics-popularity-hour": "Popularidad por hora, hr",
     "suite-page-organization-property-statistics-popularity-week": "Popularidad por día de la semana",
     "suite-page-organization-property-statistics-popularity-week-fri": "Vi",
@@ -21,6 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Comienzo",
     "suite-page-organization-property-statistics-utilization-title": "Tasa de uso",
     "suite-page-organization-property-statistics-validation-error-chart": "No se puede mostrar un gráfico. Por favor, verifique las fechas de entrada.",
-    "suite-page-organization-property-statistics-validation-error-general": "No se puede mostrar una estadística. Por favor, verifique las fechas de entrada."
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization",
+    "suite-page-organization-property-statistics-value-same": "same as average in this organization",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization"
   }
 }

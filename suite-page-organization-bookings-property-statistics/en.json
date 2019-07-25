@@ -7,7 +7,6 @@
     "suite-page-organization-property-statistics-error-end-date": "Select correct end date.",
     "suite-page-organization-property-statistics-error-start-date": "Select correct start date.",
     "suite-page-organization-property-statistics-internet-error-chart": "Couldn't show a chart. Are you sure there is an internet connection?",
-    "suite-page-organization-property-statistics-internet-error-general": "Couldn't show statistics. Are you sure there is an internet connection?",
     "suite-page-organization-property-statistics-popularity-hour": "Popularity by hour, hr",
     "suite-page-organization-property-statistics-popularity-week": "Popularity by week day",
     "suite-page-organization-property-statistics-popularity-week-fri": "Fri",
@@ -21,6 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Utilization",
     "suite-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Check input dates.",
-    "suite-page-organization-property-statistics-validation-error-general": "Unable to show statistics. Check input dates."
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization",
+    "suite-page-organization-property-statistics-value-same": "same as average in this organization",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization"
   }
 }
