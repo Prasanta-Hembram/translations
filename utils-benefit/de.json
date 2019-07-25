@@ -1,9 +1,9 @@
 {
   "data": {
-    "utils-benefit-application-type-by-email": "Apply by email",
-    "utils-benefit-application-type-no-application": "No application necessary",
-    "utils-benefit-permission-type-admin": "Admins and moderators",
-    "utils-benefit-permission-type-all": "All members and guests",
-    "utils-benefit-permission-type-member": "All members"
+    "utils-benefit-application-type-by-email": "Per E-Mail beantragen",
+    "utils-benefit-application-type-no-application": "Keine Beantragung erforderlich",
+    "utils-benefit-permission-type-admin": "Admins und Moderatoren",
+    "utils-benefit-permission-type-all": "Alle Mitglieder und Gäste",
+    "utils-benefit-permission-type-member": "Alle Mitglieder"
   }
 }
