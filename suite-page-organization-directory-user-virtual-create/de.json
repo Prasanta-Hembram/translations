@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-directory-user-virtual-create-error-email": "Type a correct email.",
-    "suite-page-organization-directory-user-virtual-create-error-first-name": "Type a first name.",
-    "suite-page-organization-directory-user-virtual-create-error-last-name": "Type a last name.",
-    "suite-page-organization-directory-user-virtual-create-error-organization": "Type an organization.",
-    "suite-page-organization-directory-user-virtual-create-error-phone-number": "Type a phone number.",
-    "suite-page-organization-directory-user-virtual-create-error-title": "Type a title.",
-    "suite-page-organization-directory-user-virtual-create-title": "Create Virtual User"
+    "suite-page-organization-directory-user-virtual-create-error-email": "Geben Sie eine korrekte E-Mail ein.",
+    "suite-page-organization-directory-user-virtual-create-error-first-name": "Vornamen eingeben.",
+    "suite-page-organization-directory-user-virtual-create-error-last-name": "Nachnamen eingeben.",
+    "suite-page-organization-directory-user-virtual-create-error-organization": "Organisation eingeben.",
+    "suite-page-organization-directory-user-virtual-create-error-phone-number": "Rufnummer eingeben.",
+    "suite-page-organization-directory-user-virtual-create-error-title": "Titel eingeben.",
+    "suite-page-organization-directory-user-virtual-create-title": "Virtuellen Benutzer erstellen"
   }
 }
