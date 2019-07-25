@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-labels-price-free": "Free",
-    "utils-labels-seats-plural": "{number} seats",
-    "utils-labels-seats-single": "{number} seat"
+    "utils-labels-price-free": "Kostenlos",
+    "utils-labels-seats-plural": "{number} Plätze",
+    "utils-labels-seats-single": "{number} Platz"
   }
 }
