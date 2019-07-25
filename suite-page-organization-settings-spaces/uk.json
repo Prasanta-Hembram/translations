@@ -14,6 +14,7 @@
     "suite-page-organization-settings-spaces-email": "Email",
     "suite-page-organization-settings-spaces-email-placeholder": "Увести email",
     "suite-page-organization-settings-spaces-error-organization-code": "Уведіть тег коворкінгу.",
+    "suite-page-organization-settings-spaces-error-organization-code-is-not-unique": "The workspace tag is already taken.",
     "suite-page-organization-settings-spaces-error-organization-email": "Уведіть правильний email.",
     "suite-page-organization-settings-spaces-error-organization-title": "Уведіть назву коворкінгу.",
     "suite-page-organization-settings-spaces-link": "Посилання",

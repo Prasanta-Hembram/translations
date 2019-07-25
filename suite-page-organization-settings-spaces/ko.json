@@ -14,6 +14,7 @@
     "suite-page-organization-settings-spaces-email": "이메일",
     "suite-page-organization-settings-spaces-email-placeholder": "이메일 주소를 입력하기",
     "suite-page-organization-settings-spaces-error-organization-code": "공간의 태그를 입력해주세요.",
+    "suite-page-organization-settings-spaces-error-organization-code-is-not-unique": "The workspace tag is already taken.",
     "suite-page-organization-settings-spaces-error-organization-email": "이메일을 입력하기.",
     "suite-page-organization-settings-spaces-error-organization-title": "공간의 이름을 입력해주세요.",
     "suite-page-organization-settings-spaces-link": "링크",

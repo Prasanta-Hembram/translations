@@ -14,6 +14,7 @@
     "suite-page-organization-settings-spaces-email": "Email",
     "suite-page-organization-settings-spaces-email-placeholder": "Type an email",
     "suite-page-organization-settings-spaces-error-organization-code": "Type a tag of your workspace.",
+    "suite-page-organization-settings-spaces-error-organization-code-is-not-unique": "The workspace tag is already taken.",
     "suite-page-organization-settings-spaces-error-organization-email": "Type a correct email.",
     "suite-page-organization-settings-spaces-error-organization-title": "Type a name of your workspace.",
     "suite-page-organization-settings-spaces-link": "Link",
