@@ -20,8 +20,8 @@
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Utilization",
     "suite-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Check input dates.",
-    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this organization for this period",
-    "suite-page-organization-property-statistics-value-same": "same as average in this organization for this period",
-    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this organization for this period"
+    "suite-page-organization-property-statistics-value-bigger": "{value} more than average in this workspace for this period",
+    "suite-page-organization-property-statistics-value-same": "same as average in this workspace for this period",
+    "suite-page-organization-property-statistics-value-smaller": "{value} less than average in this workspace for this period"
   }
 }
