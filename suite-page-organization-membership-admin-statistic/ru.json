@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-membership-admin-statistic-membership-section": "Membership",
-    "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Activated members",
-    "suite-page-organization-membership-admin-statistic-membership-section-members": "Members",
-    "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "New This Month",
-    "suite-page-organization-membership-admin-statistic-membership-section-teams": "Teams",
+    "suite-page-organization-membership-admin-statistic-membership-section": "Участие",
+    "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Активные участники",
+    "suite-page-organization-membership-admin-statistic-membership-section-members": "Участники",
+    "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "Новые участники за этот месяц",
+    "suite-page-organization-membership-admin-statistic-membership-section-teams": "Команды",
     "suite-page-organization-membership-admin-statistic-title": "Статистика"
   }
 }
