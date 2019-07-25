@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-membership-admin-statistic-income-title": "매출액",
-    "suite-page-organization-membership-admin-statistic-income": "이번 달 총 수입",
-    "suite-page-organization-membership-admin-statistic-kpi": "당 월 KPI",
-    "suite-page-organization-membership-admin-statistic-occupancy-title": "공간 이용률",
-    "suite-page-organization-membership-admin-statistic-occupancy": "총 점유좌석을 총 유효좌석으로 나눈 것.",
+    "suite-page-organization-membership-admin-statistic-membership-section": "Membership",
+    "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Activated members",
+    "suite-page-organization-membership-admin-statistic-membership-section-members": "Members",
+    "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "New This Month",
+    "suite-page-organization-membership-admin-statistic-membership-section-teams": "Teams",
     "suite-page-organization-membership-admin-statistic-title": "통계 자료"
   }
 }
