@@ -1,10 +1,13 @@
 {
   "data": {
-    "suite-page-organization-membership-admin-statistic-income-title": "Прибыль",
-    "suite-page-organization-membership-admin-statistic-income": "Прибыль с продаж в этом месяце.",
-    "suite-page-organization-membership-admin-statistic-kpi": "Ключевые показатели месяца",
-    "suite-page-organization-membership-admin-statistic-occupancy-title": "Заполненность",
-    "suite-page-organization-membership-admin-statistic-occupancy": "Процент занятых мест в коворкингe.",
+    "suite-page-organization-membership-admin-statistic-membership-section": "Участие",
+    "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Активировано",
+    "suite-page-organization-membership-admin-statistic-membership-section-members": "Участники",
+    "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "Новые в этом месяце",
+    "suite-page-organization-membership-admin-statistic-membership-section-teams": "Команды",
+    "suite-page-organization-membership-admin-statistic-revenue-section": "Продажи",
+    "suite-page-organization-membership-admin-statistic-revenue-section-legend-paid": "Оплачено",
+    "suite-page-organization-membership-admin-statistic-revenue-section-legend-unpaid": "Неоплачено",
     "suite-page-organization-membership-admin-statistic-title": "Статистика"
   }
 }
