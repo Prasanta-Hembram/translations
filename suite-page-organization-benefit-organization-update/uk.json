@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-benefit-organization-update-title": "Select Branches",
+    "suite-page-organization-benefit-organization-update-title": "Виберіть локації",
     "suite-page-organization-benefit-organization-update-nothing-found": "Нічого не знайдено.",
-    "suite-page-organization-benefit-organization-update-search": "Search {numberOfOrganizations} branches"
+    "suite-page-organization-benefit-organization-update-search": "Шукати серед {numberOfOrganizations} локацій"
   }
 }
