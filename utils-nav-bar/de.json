@@ -1,10 +1,10 @@
 {
   "data": {
-    "utils-nav-bar-button-back": "Back",
-    "utils-nav-bar-button-close": "Close",
-    "utils-nav-bar-button-create": "Create",
-    "utils-nav-bar-button-edit": "Edit",
-    "utils-nav-bar-button-save": "Save",
-    "utils-nav-bar-button-see-all": "See All"
+    "utils-nav-bar-button-back": "Zurück",
+    "utils-nav-bar-button-close": "Schließen",
+    "utils-nav-bar-button-create": "Erstellen",
+    "utils-nav-bar-button-edit": "Bearbeiten",
+    "utils-nav-bar-button-save": "Speichern",
+    "utils-nav-bar-button-see-all": "Alle anzeigen"
   }
 }

@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-directory-team-users-members-update-title": "Select Team Members",
-    "suite-page-organization-directory-team-users-members-update-no-users": "Nothing to select.",
-    "suite-page-organization-directory-team-users-members-update-nothing-found": "Nothing found.",
-    "suite-page-organization-directory-team-users-members-update-search": "Search {numberOfMembers} members"
+    "suite-page-organization-directory-team-users-members-update-title": "Teammitglieder auswählen",
+    "suite-page-organization-directory-team-users-members-update-no-users": "Nichts zum Auswählen.",
+    "suite-page-organization-directory-team-users-members-update-nothing-found": "Nichts gefunden.",
+    "suite-page-organization-directory-team-users-members-update-search": "Suche {numberOfMembers} Mitglieder"
   }
 }

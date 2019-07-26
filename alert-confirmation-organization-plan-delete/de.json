@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-plan-delete-title": "Abo löschen",
-    "alert-confirmation-organization-plan-delete-no": "Cancel",
+    "alert-confirmation-organization-plan-delete-no": "Abbrechen",
     "alert-confirmation-organization-plan-delete-text": "Sind Sie sicher, dass Sie dieses Abo löschen möchten? Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-plan-delete-yes": "Ja, löschen"
   }

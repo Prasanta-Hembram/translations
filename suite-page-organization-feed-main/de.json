@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-feed-main-title": "Feed",
-    "suite-page-organization-feed-main-fetch-failure": "Couldn't show feed. Are you sure there is an internet connection?",
-    "suite-page-organization-feed-main-no-feed-button-create": "Create",
-    "suite-page-organization-feed-main-no-feed-description-admin": "Share news, ask a question, and connect to the workspace community.",
-    "suite-page-organization-feed-main-no-feed-description-member": "Check back for important news and announcements.",
-    "suite-page-organization-feed-main-no-feed-title": "Let's connect",
-    "suite-page-organization-feed-main-post-view": "View post",
-    "suite-page-organization-feed-main-user-unknown": "Unknown Member"
+    "suite-page-organization-feed-main-fetch-failure": "Konnte kein Feed anzeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "suite-page-organization-feed-main-no-feed-button-create": "Erstellen",
+    "suite-page-organization-feed-main-no-feed-description-admin": "Teilen Sie Nachrichten, stellen Sie eine Frage und vernetzen Sie sich mit der Workspace-Community.",
+    "suite-page-organization-feed-main-no-feed-description-member": "Schauen Sie später wieder vorbei, um wichtige Neuigkeiten und Ankündigungen zu lesen.",
+    "suite-page-organization-feed-main-no-feed-title": "Vernetzen wir uns",
+    "suite-page-organization-feed-main-post-view": "Beitrag ansehen",
+    "suite-page-organization-feed-main-user-unknown": "Unbekanntes Mitglied"
   }
 }

@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-directory-user-printer-account-link-title": "Link printer account",
-    "suite-page-organization-directory-user-printer-account-link-no-none": "None",
-    "suite-page-organization-directory-user-printer-account-link-no-users": "No one to add.",
-    "suite-page-organization-directory-user-printer-account-link-nothing-found": "Nothing found.",
-    "suite-page-organization-directory-user-printer-account-link-search": "Search {numberOfUsers} accounts"
+    "suite-page-organization-directory-user-printer-account-link-title": "Druckerkonto verlinken",
+    "suite-page-organization-directory-user-printer-account-link-no-none": "Kein",
+    "suite-page-organization-directory-user-printer-account-link-no-users": "Niemanden zum Hinzufügen.",
+    "suite-page-organization-directory-user-printer-account-link-nothing-found": "Nichts gefunden.",
+    "suite-page-organization-directory-user-printer-account-link-search": "Suche {numberOfUsers} Konto/en"
   }
 }

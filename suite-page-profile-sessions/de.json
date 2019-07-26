@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-profile-sessions-title": "Active Sessions",
-    "suite-page-profile-sessions-description": "This is the list of devices you logged into andcards. If you do not recognize any of active sessions, remove it.",
-    "suite-page-profile-sessions-current": "Current session",
-    "suite-page-profile-sessions-current-cannot-load": "Can't load current session details. Check the internet connection.",
-    "suite-page-profile-sessions-other": "Active sessions",
-    "suite-page-profile-sessions-other-cannot-load": "Can't load active sessions details. Check the internet connection.",
-    "suite-page-profile-sessions-other-empty": "No active sessions."
+    "suite-page-profile-sessions-title": "Aktive Sitzungen",
+    "suite-page-profile-sessions-description": "Dies ist die Liste der Geräte, bei denen Sie sich bei andcards angemeldet haben. Wenn Sie eine der aktiven Sitzungen nicht erkennen, entfernen Sie sie.",
+    "suite-page-profile-sessions-current": "Aktuelle Sitzung",
+    "suite-page-profile-sessions-current-cannot-load": "Aktuelle Sitzungsdetails können nicht geladen werden. Überprüfen Sie die Internetverbindung.",
+    "suite-page-profile-sessions-other": "Aktive Sitzungen",
+    "suite-page-profile-sessions-other-cannot-load": "Es können keine Details zu aktiven Sitzungen geladen werden. Überprüfen Sie die Internetverbindung.",
+    "suite-page-profile-sessions-other-empty": "Keine aktiven Sitzungen."
   }
 }

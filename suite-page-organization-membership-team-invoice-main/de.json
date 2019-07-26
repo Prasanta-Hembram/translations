@@ -1,19 +1,19 @@
 {
   "data": {
-    "suite-page-organization-membership-team-invoice-main-download-pdf": "Download PDF",
-    "suite-page-organization-membership-team-invoice-main-get-failure": "Couldn't show invoice items. Are you sure there is an internet connection?",
-    "suite-page-organization-membership-team-invoice-main-invoice-date": "Invoice Date",
-    "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Payment Method",
+    "suite-page-organization-membership-team-invoice-main-download-pdf": "PDF herunterladen",
+    "suite-page-organization-membership-team-invoice-main-get-failure": "Rechnungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "suite-page-organization-membership-team-invoice-main-invoice-date": "Rechnungsdatum",
+    "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Zahlungsmethode",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Status",
-    "suite-page-organization-membership-team-invoice-main-not-found": "The invoice is missing or has been deleted.",
-    "suite-page-organization-membership-team-invoice-main-no-invoices": "Invoice items will show up once someone in the team uses the invoice payment method.",
-    "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Go Back",
-    "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Check internet connection and try again.",
-    "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Payment Failed",
-    "suite-page-organization-membership-team-invoice-main-payment-success-button-done": "Done",
-    "suite-page-organization-membership-team-invoice-main-payment-success-text": "The invoice has been paid successfully.",
-    "suite-page-organization-membership-team-invoice-main-payment-success-title": "Invoice Payment Success",
-    "suite-page-organization-membership-team-invoice-main-section-payment": "Payment",
-    "suite-page-organization-membership-team-invoice-main-section-payment-button": "Continue"
+    "suite-page-organization-membership-team-invoice-main-not-found": "Die Rechnung fehlt oder wurde gelöscht.",
+    "suite-page-organization-membership-team-invoice-main-no-invoices": "Rechungen werden angezeigt, sobald jemand im Team die Zahlungsmethode für Rechnungen verwendet.",
+    "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Zurückgehen",
+    "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
+    "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Zahlung fehlgeschlagen",
+    "suite-page-organization-membership-team-invoice-main-payment-success-button-done": "Fertig",
+    "suite-page-organization-membership-team-invoice-main-payment-success-text": "Die Rechnung wurde erfolgreich bezahlt.",
+    "suite-page-organization-membership-team-invoice-main-payment-success-title": "Zahlungserfolg der Rechnung",
+    "suite-page-organization-membership-team-invoice-main-section-payment": "Zahlung",
+    "suite-page-organization-membership-team-invoice-main-section-payment-button": "Fortfahren"
   }
 }
