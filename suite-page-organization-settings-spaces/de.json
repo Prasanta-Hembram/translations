@@ -14,7 +14,7 @@
     "suite-page-organization-settings-spaces-email": "E-Mail",
     "suite-page-organization-settings-spaces-email-placeholder": "E-Mail eingeben",
     "suite-page-organization-settings-spaces-error-organization-code": "Geben Sie ein Tag Ihres Workspace ein.",
-    "suite-page-organization-settings-spaces-error-organization-code-is-not-unique": "The workspace tag is already taken.",
+    "suite-page-organization-settings-spaces-error-organization-code-is-not-unique": "Der Tag des Workspace ist bereits vergeben.",
     "suite-page-organization-settings-spaces-error-organization-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-page-organization-settings-spaces-error-organization-title": "Geben Sie einen Namen für Ihren Workspace ein.",
     "suite-page-organization-settings-spaces-link": "Link",
