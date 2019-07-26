@@ -1,8 +1,0 @@
-{
-  "data":{
-    "alert-confirmation-session-delete-title": "Eliminar sesión",
-    "alert-confirmation-session-delete-no": "Cancelar",
-    "alert-confirmation-session-delete-text": "¿Estás seguro de que deseas eliminar esta sesión? Esta acción es irreversible",
-    "alert-confirmation-session-delete-yes": "Sí, eliminar"
-  }
-}

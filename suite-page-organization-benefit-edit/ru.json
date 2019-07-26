@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Редактировать преимущество",
+    "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Кол-во заявок",
     "suite-page-organization-benefit-edit-benefit-application-title": "Заявка",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Тип заявки",
     "suite-page-organization-benefit-edit-benefit-category": "Категория",
@@ -12,10 +13,12 @@
     "suite-page-organization-benefit-edit-email-provider-placeholder": "Ввести email",
     "suite-page-organization-benefit-edit-error-email-manager": "Введите email менеджера.",
     "suite-page-organization-benefit-edit-error-email-provider": "Введите email провайдера.",
+    "suite-page-organization-benefit-edit-get-failure": "Невозможно отобразить преимущества. Проверьте интернет-соединение.",
     "suite-page-organization-benefit-edit-error-title": "Введите название.",
     "suite-page-organization-benefit-edit-link-provider-label": "Ссылка",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Ввести ссылку",
     "suite-page-organization-benefit-edit-local-label": "Язык",
+    "suite-page-organization-benefit-edit-no-benefit": "Нет преимуществ для отображения.",
     "suite-page-organization-benefit-edit-permission-label": "Доступ",
     "suite-page-organization-benefit-edit-permission-title": "Доступ",
     "suite-page-organization-benefit-edit-subtitle-label": "Подзаголовок",

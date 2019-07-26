@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-benefit-allowance-type-once": "Einmalig",
+    "utils-benefit-allowance-type-unlimited": "Unbegrenzt",
     "utils-benefit-application-type-by-email": "Per E-Mail beantragen",
     "utils-benefit-application-type-no-application": "Keine Beantragung erforderlich",
     "utils-benefit-permission-type-admin": "Admins und Moderatoren",

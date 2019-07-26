@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-benefit-already-applied": "No se puede solicitar más de una vez.",
     "suite-alerts-errors-booking-booker-invalid": "El usuario no tiene permiso para reservar una sala privada.",
     "suite-alerts-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo.",
     "suite-alerts-errors-booking-day-unavailable": "Este día no está disponible.",
@@ -22,7 +23,7 @@
     "suite-alerts-errors-no-internet": "Sin conexión a internet.",
     "suite-alerts-errors-no-printers-connections": "El espacio de trabajo no tiene integración de impresora.",
     "suite-alerts-errors-organization-code-is-invalid": "La etiqueta debe contener sólo caracteres latinos y guiones.",
-    "suite-alerts-errors-organization-code-is-taken": "Parece que el nombre de este espacio de trabajo ya está tomado. Prueba otro.",
+    "suite-alerts-errors-organization-code-is-taken": "La etiqueta de espacio de trabajo ya está ocupada. Prueba con otro.",
     "suite-alerts-errors-organization-create-params-invalid": "No se pudo crear el espacio de trabajo. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-organization-update-params-invalid": "El espacio de trabajo no se pudo actualizar. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-payment-price-high": "El monto total es superior al que permite el sistema de pago.",

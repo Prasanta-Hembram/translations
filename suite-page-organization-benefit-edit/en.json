@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Edit Benefit",
+    "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Application Allowance",
     "suite-page-organization-benefit-edit-benefit-application-title": "Application",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Application Type",
     "suite-page-organization-benefit-edit-benefit-category": "Category",
@@ -13,6 +14,8 @@
     "suite-page-organization-benefit-edit-error-email-manager": "Type a manager email.",
     "suite-page-organization-benefit-edit-error-email-provider": "Type a provider email.",
     "suite-page-organization-benefit-edit-error-title": "Type a title.",
+    "suite-page-organization-benefit-edit-get-failure": "Couldn't show benefit. Check the internet and try again.",
+    "suite-page-organization-benefit-edit-no-benefit": "There is no benefit to display.",
     "suite-page-organization-benefit-edit-link-provider-label": "Link",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Type a link",
     "suite-page-organization-benefit-edit-local-label": "Language",
