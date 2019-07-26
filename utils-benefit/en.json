@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-benefit-allowance-type-once": "Once",
+    "utils-benefit-allowance-type-unlimited": "Unlimited",
     "utils-benefit-application-type-by-email": "Apply by email",
     "utils-benefit-application-type-no-application": "No application necessary",
     "utils-benefit-permission-type-admin": "Admins and moderators",

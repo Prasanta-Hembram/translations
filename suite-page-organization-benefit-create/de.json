@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "Neuer Vorteil",
+    "suite-page-organization-benefit-create-benefit-allowance-type-label": "Application Allowance",
     "suite-page-organization-benefit-create-benefit-application-title": "Antrag",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Anwendungstyp",
     "suite-page-organization-benefit-create-benefit-category": "Kategorie",
