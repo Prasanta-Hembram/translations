@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-benefit-already-applied": "Нельзя податься больше одного раза.",
     "suite-alerts-errors-booking-booker-invalid": "Владелец не может бронировать в этой комнате.",
     "suite-alerts-errors-booking-conflict": "Другое бронирование уже существует в выбранное время.",
     "suite-alerts-errors-booking-day-unavailable": "Этот день не доступен.",
@@ -22,7 +23,7 @@
     "suite-alerts-errors-no-internet": "Нет интернет-соединения.",
     "suite-alerts-errors-no-printers-connections": "В коворкинга нет данных о пользователей принтеров.",
     "suite-alerts-errors-organization-code-is-invalid": "Тег должен содежать только латиницу и дефис.",
-    "suite-alerts-errors-organization-code-is-taken": "Кажется, коворкинг с таким названием уже существует. Попробуйте другое название.",
+    "suite-alerts-errors-organization-code-is-taken": "Этот тег уже занят. Попробуйте другой.",
     "suite-alerts-errors-organization-create-params-invalid": "Не удалось создать коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-organization-update-params-invalid": "Не удалось обновить коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-payment-price-high": "Сумма выше, чем это позволяет платежная система.",

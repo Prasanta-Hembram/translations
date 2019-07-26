@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Редагувати перевагу",
+    "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Кількість заявок",
     "suite-page-organization-benefit-edit-benefit-application-title": "Заявка",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Тип заявки",
     "suite-page-organization-benefit-edit-benefit-category": "Категорія",
@@ -12,10 +13,12 @@
     "suite-page-organization-benefit-edit-email-provider-placeholder": "Увести email",
     "suite-page-organization-benefit-edit-error-email-manager": "Уведіть email менеджера.",
     "suite-page-organization-benefit-edit-error-email-provider": "Уведіть email провайдера.",
+    "suite-page-organization-benefit-edit-get-failure": "Неможливо відобразити переваги. Перевірте інтернет-з'єднання.",
     "suite-page-organization-benefit-edit-error-title": "Уведіть назву.",
     "suite-page-organization-benefit-edit-link-provider-label": "Посилання",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Увести посилання",
     "suite-page-organization-benefit-edit-local-label": "Мова",
+    "suite-page-organization-benefit-edit-no-benefit": "Немає переваг для відображення.",
     "suite-page-organization-benefit-edit-permission-label": "Доступ",
     "suite-page-organization-benefit-edit-permission-title": "Доступ",
     "suite-page-organization-benefit-edit-subtitle-label": "Підсумок",

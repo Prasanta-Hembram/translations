@@ -5,7 +5,7 @@
     "suite-page-organization-iot-main-no-group": "Der Workspace hat keine Geräte zum Anzeigen.",
     "suite-page-organization-iot-main-no-integration": "Der Workspace hat keine Geräte zum Anzeigen.",
     "suite-page-organization-iot-main-no-rooms-in-group": "Es gibt keine Geräte.",
-    "suite-page-organization-iot-main-toilette-vacant": "Offen",
-    "suite-page-organization-iot-main-toilette-occupied": "Belegt"
+    "suite-page-organization-iot-main-toilette-vacant": "Frei",
+    "suite-page-organization-iot-main-toilette-occupied": "Besetzt"
   }
 }
