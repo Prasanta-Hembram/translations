@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-alerts-errors-benefit-already-applied":"You can't apply more than once.",
+    "suite-alerts-errors-benefit-already-applied": "You can't apply more than once.",
     "suite-alerts-errors-booking-booker-invalid": "Booker has no permission to book in private room.",
     "suite-alerts-errors-booking-conflict": "Another booking already exists at the same time.",
     "suite-alerts-errors-booking-day-unavailable": "This day is not available.",
