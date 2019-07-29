@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-edit-error-email-provider": "Введите email провайдера.",
     "suite-page-organization-benefit-edit-get-failure": "Невозможно отобразить преимущества. Проверьте интернет-соединение.",
     "suite-page-organization-benefit-edit-error-title": "Введите название.",
+    "suite-page-organization-benefit-edit-is-private-label": "Limited Branches",
     "suite-page-organization-benefit-edit-link-provider-label": "Ссылка",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Ввести ссылку",
     "suite-page-organization-benefit-edit-local-label": "Язык",
