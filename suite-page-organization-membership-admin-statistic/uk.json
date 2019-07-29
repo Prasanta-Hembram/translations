@@ -1,10 +1,13 @@
 {
   "data": {
-    "suite-page-organization-membership-admin-statistic-income-title": "Прибуток",
-    "suite-page-organization-membership-admin-statistic-income": "Прибуток з продажів цього місяця.",
-    "suite-page-organization-membership-admin-statistic-kpi": "Ключові показники місяця",
-    "suite-page-organization-membership-admin-statistic-occupancy-title": "Заповненість",
-    "suite-page-organization-membership-admin-statistic-occupancy": "Відсоток зайнятих місць в коворкінгу.",
+    "suite-page-organization-membership-admin-statistic-membership-section": "Участь",
+    "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Активовано",
+    "suite-page-organization-membership-admin-statistic-membership-section-members": "Учасники",
+    "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "Нові цього місяця",
+    "suite-page-organization-membership-admin-statistic-membership-section-teams": "Команди",
+    "suite-page-organization-membership-admin-statistic-revenue-section": "Продажі",
+    "suite-page-organization-membership-admin-statistic-revenue-section-legend-paid": "Сплачено",
+    "suite-page-organization-membership-admin-statistic-revenue-section-legend-unpaid": "Несплачено",
     "suite-page-organization-membership-admin-statistic-title": "Статистика"
   }
 }

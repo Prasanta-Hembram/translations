@@ -14,6 +14,7 @@
     "suite-page-organization-settings-spaces-email": "Correo electrónico",
     "suite-page-organization-settings-spaces-email-placeholder": "Ingresa correo electrónico",
     "suite-page-organization-settings-spaces-error-organization-code": "Escribe una etiqueta de tu espacio de trabajo.",
+    "suite-page-organization-settings-spaces-error-organization-code-is-not-unique": "La etiqueta de espacio de trabajo ya está ocupada.",
     "suite-page-organization-settings-spaces-error-organization-email": "Por favor, introduce un correo electrónico correcto.",
     "suite-page-organization-settings-spaces-error-organization-title": "Por favor, ingresa un nombre de su espacio de trabajo.",
     "suite-page-organization-settings-spaces-link": "Enlace",

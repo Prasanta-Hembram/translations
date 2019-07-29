@@ -5,6 +5,7 @@
     "suite-page-organization-bookings-main-availability-in-minutes": "Verfügbar {time}",
     "suite-page-organization-bookings-main-availability-in-use": "In Verwendung",
     "suite-page-organization-bookings-main-availability-unavailable": "Nicht verfügbar",
+    "suite-page-organization-bookings-main-button-add-room": "Raum hinzufügen",
     "suite-page-organization-bookings-main-default-booking-purpose": "Reservierung",
     "suite-page-organization-bookings-main-get-failure": "Konnte keine Räume zeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-bookings-main-my-bookings-no-upcoming": "Es gibt keine bevorstehenden Buchungen.",
