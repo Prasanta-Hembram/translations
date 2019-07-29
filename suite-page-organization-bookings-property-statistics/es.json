@@ -22,6 +22,6 @@
     "suite-page-organization-property-statistics-validation-error-chart": "No se puede mostrar un gráfico. Por favor, verifique las fechas de entrada.",
     "suite-page-organization-property-statistics-value-bigger": "{value} más de la media del espacio de trabajo durante este período.",
     "suite-page-organization-property-statistics-value-same": "el promedio del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-smaller": "{value} menos de la media del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-smaller": "{value} menos de la media del espacio de trabajo durante este período."
     }
 }
