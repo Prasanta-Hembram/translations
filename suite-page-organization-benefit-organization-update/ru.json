@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-benefit-organization-update-title": "Выберите локации",
+    "suite-page-organization-benefit-organization-update-title": "Выберите отделения",
     "suite-page-organization-benefit-organization-update-nothing-found": "Ничего не найдено.",
-    "suite-page-organization-benefit-organization-update-search": "Искать среди {numberOfOrganizations} локаций"
+    "suite-page-organization-benefit-organization-update-search": "Искать среди {numberOfOrganizations} отделений"
   }
 }
