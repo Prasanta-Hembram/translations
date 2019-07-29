@@ -46,10 +46,6 @@
     "utils-plans-title-fixed-desk": "Escritorio Fijo",
     "utils-plans-title-hot-desk": "Escritorio Flex",
     "utils-plans-title-pass": "Pase",
-    "utils-plans-title-private-office": "Oficina Privada",
-    "utils-plans-title-fixed-desk-shortened": "Escritorio Fijo",
-    "utils-plans-title-hot-desk-shortened": "Escritorio Flex",
-    "utils-plans-title-pass-shortened": "Pase",
-    "utils-plans-title-private-office-shortened": "Oficina Privada"
+    "utils-plans-title-private-office": "Oficina Privada"
   }
 }
