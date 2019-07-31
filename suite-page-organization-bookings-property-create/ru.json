@@ -16,7 +16,6 @@
     "suite-page-organization-property-create-name-placeholder": "Добавьте название",
     "suite-page-organization-property-create-no-teams": "Команды не выбраны.",
     "suite-page-organization-property-create-number-of-seats": "Мест",
-    "suite-page-organization-property-create-price-currency-changing-notice": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-property-create-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-property-create-price-points": "Цена, {pointEmoji}/час",
     "suite-page-organization-property-create-team-add-team": "Выбрать команды",

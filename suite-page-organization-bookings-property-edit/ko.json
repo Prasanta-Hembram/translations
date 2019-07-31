@@ -17,7 +17,6 @@
     "suite-page-organization-property-edit-name-placeholder": "회의실 명 입력하기",
     "suite-page-organization-property-edit-no-teams": "팀이 선택되지 않습니다.",
     "suite-page-organization-property-edit-number-of-seats": "좌석 수",
-    "suite-page-organization-property-edit-price-currency-changing-notice": "화폐단위를 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-property-edit-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-property-edit-price-points": "시간당 {pointEmoji}",
     "suite-page-organization-property-edit-team-add-team": "팀 선택하기",
