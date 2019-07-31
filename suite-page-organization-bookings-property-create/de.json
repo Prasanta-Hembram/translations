@@ -7,6 +7,7 @@
     "suite-page-organization-property-create-error-number-of-people": "Geben Sie eine Anzahl von Plätzen ein.",
     "suite-page-organization-property-create-error-minimum-time": "Die Mindestzeit darf nicht kleiner sein als der Buchungsschritt.",
     "suite-page-organization-property-create-error-room-name": "Namen eingeben.",
+    "suite-page-organization-property-create-image-delete": "Bild löschen",
     "suite-page-organization-property-create-is-private": "Eingeschränkter Zugriff",
     "suite-page-organization-property-create-limited-access-title": "Eingeschränkter Zugriff",
     "suite-page-organization-property-create-limited-access-desc": "Erlauben Sie nur bestimmten Teams den Zugang zum Konferenzraum.",

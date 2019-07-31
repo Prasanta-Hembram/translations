@@ -7,6 +7,7 @@
     "suite-page-organization-property-create-error-number-of-people": "Por favor, indica cuántas personas pueden caber en la sala de reuniones.",
     "suite-page-organization-property-create-error-minimum-time": "El tiempo mínimo no puede ser más pequeño que el paso de reserva.",
     "suite-page-organization-property-create-error-room-name": "Por favor, ingresa un nombre de sala de reuniones.",
+    "suite-page-organization-property-create-image-delete": "Borrar imagen",
     "suite-page-organization-property-create-is-private": "Acceso limitado",
     "suite-page-organization-property-create-limited-access-title": "Acceso limitado",
     "suite-page-organization-property-create-limited-access-desc": "Permite que sólo ciertos equipos accedan a la sala de reuniones.",
