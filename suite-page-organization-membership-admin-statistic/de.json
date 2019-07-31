@@ -5,9 +5,11 @@
     "suite-page-organization-membership-admin-statistic-membership-section-members": "Mitglieder",
     "suite-page-organization-membership-admin-statistic-membership-section-new-this-month": "Diesen Monat neu",
     "suite-page-organization-membership-admin-statistic-membership-section-teams": "Teams",
+    "suite-page-organization-membership-admin-statistic-revenue-by-payment-section": "{month} Einnahmen nach Zahlungsart",
+    "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-card": "Karte",
+    "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-cash": "Bar",
+    "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-invoices": "Rechnungen",
     "suite-page-organization-membership-admin-statistic-revenue-section": "Einnahmen",
-    "suite-page-organization-membership-admin-statistic-revenue-section-legend-paid": "Bezahlt",
-    "suite-page-organization-membership-admin-statistic-revenue-section-legend-unpaid": "Unbezahlt",
     "suite-page-organization-membership-admin-statistic-title": "Statistik"
   }
 }

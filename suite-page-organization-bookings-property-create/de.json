@@ -16,7 +16,6 @@
     "suite-page-organization-property-create-name-placeholder": "Namen eingeben",
     "suite-page-organization-property-create-no-teams": "Teams sind nicht ausgewählt.",
     "suite-page-organization-property-create-number-of-seats": "Plätze",
-    "suite-page-organization-property-create-price-currency-changing-notice": "Um die Währung zu ändern, wenden Sie sich bitte an support@andcards.com.",
     "suite-page-organization-property-create-price-money": "Preis, {currencySymbol}/Std.",
     "suite-page-organization-property-create-price-points": "Credits, {pointEmoji}/Std.",
     "suite-page-organization-property-create-team-add-team": "Team auswählen",

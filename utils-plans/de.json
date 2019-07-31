@@ -46,10 +46,6 @@
     "utils-plans-title-fixed-desk": "Fixed Desk",
     "utils-plans-title-hot-desk": "Hot Desk",
     "utils-plans-title-pass": "Zugangspass",
-    "utils-plans-title-private-office": "Privates Office",
-    "utils-plans-title-fixed-desk-shortened": "Fixed Desk",
-    "utils-plans-title-hot-desk-shortened": "Hot Desk",
-    "utils-plans-title-pass-shortened": "Zugangspass",
-    "utils-plans-title-private-office-shortened": "Privates Office"
+    "utils-plans-title-private-office": "Privates Office"
   }
 }
