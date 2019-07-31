@@ -46,10 +46,6 @@
     "utils-plans-title-fixed-desk": "Фіксоване місце",
     "utils-plans-title-hot-desk": "Нефіксоване місце",
     "utils-plans-title-pass": "Квиток на вхід",
-    "utils-plans-title-private-office": "Приватний офіс",
-    "utils-plans-title-fixed-desk-shortened": "Фікс. місце",
-    "utils-plans-title-hot-desk-shortened": "Нефікс. місце",
-    "utils-plans-title-pass-shortened": "Квиток на вхід",
-    "utils-plans-title-private-office-shortened": "Приватний офіс"
+    "utils-plans-title-private-office": "Приватний офіс"
   }
 }
