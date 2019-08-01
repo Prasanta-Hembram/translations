@@ -29,6 +29,7 @@
     "suite-alerts-errors-payment-price-high": "El monto total es superior al que permite el sistema de pago.",
     "suite-alerts-errors-payment-price-low": "El monto total es menor al que permite por el sistema de pago.",
     "suite-alerts-errors-payment-price-invalid": "El precio no es válido. Asegurate de que esté dentro de los límites mínimo-máximo de su sistema de pago.",
+    "suite-alerts-errors-permission-photo-denied": "We need access to your photo library or camera. Give permission in Settings and try again.",
     "suite-alerts-errors-plan-assign-in-future": "No se puede asignar el plan para una fecha futura.",
     "suite-alerts-errors-plan-delete-reject": "No se puede eliminar. Plan en uso.",
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",
