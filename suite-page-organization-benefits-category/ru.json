@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-benefits-category-get-failure": "Не удалось показать cписок преимуществ. Проверьте интернет-соединение.",
-    "suite-page-organization-benefits-category-no-benefits": "В коворкинге нет преимуществ для отображения.",
-    "suite-page-organization-benefits-category-no-benefits-in-category": "Нет преимуществ."
+    "suite-page-organization-benefits-category-get-failure": "Не удалось показать cписок сервисов. Проверьте интернет-соединение.",
+    "suite-page-organization-benefits-category-no-benefits": "В коворкинге нет сервисов для отображения.",
+    "suite-page-organization-benefits-category-no-benefits-in-category": "Нет сервисов."
   }
 }
