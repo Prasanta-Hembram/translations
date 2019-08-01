@@ -29,7 +29,7 @@
     "suite-alerts-errors-payment-price-high": "Der Gesamtbetrag ist höher, als das Zahlungssystem es zulässt.",
     "suite-alerts-errors-payment-price-low": "Der Gesamtbetrag ist geringer, als das Zahlungssystem es zulässt.",
     "suite-alerts-errors-payment-price-invalid": "Der Preis ist ungültig. Stellen Sie sicher, dass er sich innerhalb der Mindest-Maximalgrenzen Ihres Zahlungssystems befindet.",
-    "suite-alerts-errors-permission-photo-denied": "Wir benötigen Zugang zu Ihrer Fotobibliothek oder Kamera. Erteile die Erlaubnis in Einstellungen und versuche es erneut.",
+    "suite-alerts-errors-permission-library-or-camera-denied": "Wir benötigen Zugang zu Ihrer Fotobibliothek oder Kamera. Erteile die Erlaubnis in Einstellungen und versuche es erneut.",
     "suite-alerts-errors-plan-assign-in-future": "Es ist nicht möglich, ein Abo zuzuordnen, das mit einem Datum in der Zukunft beginnt.",
     "suite-alerts-errors-plan-delete-reject": "Löschen nicht möglich. Abo in Gebrauch.",
     "suite-alerts-errors-plan-periods-empty": "Das Abo muss mindestens 1 Zeitraum haben.",
