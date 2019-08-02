@@ -1,0 +1,8 @@
+{
+  "data": {
+    "kiosk-modal-property-details-availability-available": "Доступно следующих {time}",
+    "kiosk-modal-property-details-availability-in-minutes": "Доступно {time}",
+    "kiosk-modal-property-details-availability-unavailable": "Недоступно",
+    "kiosk-modal-property-details-next-bookings-label": "Следующие бронирования"
+  }
+}

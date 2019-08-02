@@ -1,8 +1,0 @@
-{
-  "data": {
-    "kiosk-page-property-details-availability-available": "{time} verfügbar",
-    "kiosk-page-property-details-availability-in-minutes": "In {time} verfügbar",
-    "kiosk-page-property-details-availability-unavailable": "Nicht verfügbar",
-    "kiosk-page-property-details-next-bookings-label": "Nächste Buchungen"
-  }
-}

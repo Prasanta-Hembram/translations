@@ -1,0 +1,8 @@
+{
+  "data": {
+    "kiosk-modal-property-details-availability-available": "Disponible por {time}",
+    "kiosk-modal-property-details-availability-in-minutes": "Disponible {time}",
+    "kiosk-modal-property-details-availability-unavailable": "No disponible",
+    "kiosk-modal-property-details-next-bookings-label": "Próximas reservas"
+  }
+}
