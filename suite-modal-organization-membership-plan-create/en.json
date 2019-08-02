@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-modal-organization-membership-plan-create-title": "New Plan",
+    "suite-modal-organization-membership-plan-create-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-membership-plan-create-error-plans-period-is-not-checked": "Add at least one period.",
+    "suite-modal-organization-membership-plan-create-error-quantity": "Type a quantity.",
+    "suite-modal-organization-membership-plan-create-description": "Description",
+    "suite-modal-organization-membership-plan-create-description-placeholder": "Type a description",
+    "suite-modal-organization-membership-plan-create-plan-title": "Name",
+    "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Type a name",
+    "suite-modal-organization-membership-plan-create-price": "Price, {currencySymbol}",
+    "suite-modal-organization-membership-plan-create-pricing-title": "Pricing",
+    "suite-modal-organization-membership-plan-create-quantity": "Quantity",
+    "suite-modal-organization-membership-plan-create-type": "Type"
+  }
+}

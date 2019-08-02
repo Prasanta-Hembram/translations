@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-modal-organization-membership-plan-create-title": "Neues Abo",
+    "suite-modal-organization-membership-plan-create-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-membership-plan-create-error-plans-period-is-not-checked": "Fügen Sie mindestens einen Zeitraum hinzu.",
+    "suite-modal-organization-membership-plan-create-error-quantity": "Geben Sie eine Menge ein.",
+    "suite-modal-organization-membership-plan-create-description": "Beschreibung",
+    "suite-modal-organization-membership-plan-create-description-placeholder": "Beschreibung eingeben",
+    "suite-modal-organization-membership-plan-create-plan-title": "Name",
+    "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Namen eingeben",
+    "suite-modal-organization-membership-plan-create-price": "Preis, {currencySymbol}",
+    "suite-modal-organization-membership-plan-create-pricing-title": "Preis",
+    "suite-modal-organization-membership-plan-create-quantity": "Menge",
+    "suite-modal-organization-membership-plan-create-type": "Typ"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-modal-organization-membership-plan-create-title": "Новий план",
+    "suite-modal-organization-membership-plan-create-credits": "Кредити, {pointEmoji}",
+    "suite-modal-organization-membership-plan-create-error-plans-period-is-not-checked": "Укажіть принаймні один період плану.",
+    "suite-modal-organization-membership-plan-create-error-quantity": "Уведіть кількість планів.",
+    "suite-modal-organization-membership-plan-create-description": "Опис",
+    "suite-modal-organization-membership-plan-create-description-placeholder": "Додати опис плану",
+    "suite-modal-organization-membership-plan-create-plan-title": "Назва",
+    "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Уведіть назву плану",
+    "suite-modal-organization-membership-plan-create-price": "Ціна, {currencySymbol}",
+    "suite-modal-organization-membership-plan-create-pricing-title": "Тарифи",
+    "suite-modal-organization-membership-plan-create-quantity": "Кількість",
+    "suite-modal-organization-membership-plan-create-type": "Тип"
+  }
+}
