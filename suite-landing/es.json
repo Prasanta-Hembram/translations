@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-landing-description": "Una forma muy sencilla de reservar salas de reuniones, mantenerse en contacto con la comunidad y utilizar los servicios de coworking en un solo lugar. Conéctate al software para coworking {networkTitle} y descarga aplicaciones para móviles.",
+    "suite-landing-description": "Una forma muy sencilla de reservar salas de reuniones, mantenerse en contacto con la comunidad y utilizar los servicios de coworking en un solo lugar. Conéctate al software para coworking de {networkTitle} y descarga las aplicaciones para móviles.",
     "suite-landing-headline": "Bienvenido a {networkTitle}",
-    "suite-landing-member-login-button": "Inicio de sesión de miembros"
+    "suite-landing-member-login-button": "Iniciar sesión de miembros"
   }
 }
