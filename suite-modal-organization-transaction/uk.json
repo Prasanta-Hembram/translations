@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-modal-organization-transaction-booking-details-end-date": "Кінець",
+    "suite-modal-organization-transaction-booking-details-start-date": "Початок",
+    "suite-modal-organization-transaction-booking-details-property-name": "Кімната",
+    "suite-modal-organization-transaction-booking-details-title": "Деталі резервації",
+    "suite-modal-organization-transaction-date-label": "Дата",
+    "suite-modal-organization-transaction-date-from-label": "Початок",
+    "suite-modal-organization-transaction-date-until-label": "До",
+    "suite-modal-organization-transaction-not-found": "Ця транзакція не існує або була видалена.",
+    "suite-modal-organization-transaction-paid-with-label": "Оплачено",
+    "suite-modal-organization-transaction-paid-with-card": "Карткою",
+    "suite-modal-organization-transaction-paid-with-cash": "Готівкою",
+    "suite-modal-organization-transaction-paid-with-for-free": "Безкоштовно",
+    "suite-modal-organization-transaction-paid-with-invoice": "Інвойс",
+    "suite-modal-organization-transaction-period-label": "Період",
+    "suite-modal-organization-transaction-plan-details-title": "Деталі плану",
+    "suite-modal-organization-transaction-title": "Деталі транзакції"
+  }
+}

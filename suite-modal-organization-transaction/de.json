@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-modal-organization-transaction-booking-details-end-date": "Endet",
+    "suite-modal-organization-transaction-booking-details-start-date": "Beginnt",
+    "suite-modal-organization-transaction-booking-details-property-name": "Raum",
+    "suite-modal-organization-transaction-booking-details-title": "Buchungsdetails",
+    "suite-modal-organization-transaction-date-label": "Datum",
+    "suite-modal-organization-transaction-date-from-label": "Von",
+    "suite-modal-organization-transaction-date-until-label": "Bis",
+    "suite-modal-organization-transaction-not-found": "Diese Transaktion ist möglicherweise nicht vorhanden oder wurde entfernt.",
+    "suite-modal-organization-transaction-paid-with-label": "Bezahlt mit",
+    "suite-modal-organization-transaction-paid-with-card": "Karte",
+    "suite-modal-organization-transaction-paid-with-cash": "Bargeld",
+    "suite-modal-organization-transaction-paid-with-for-free": "Kostenlos",
+    "suite-modal-organization-transaction-paid-with-invoice": "Rechnung",
+    "suite-modal-organization-transaction-period-label": "Zeitraum",
+    "suite-modal-organization-transaction-plan-details-title": "Abo-Details",
+    "suite-modal-organization-transaction-title": "Transaktionsdetails"
+  }
+}

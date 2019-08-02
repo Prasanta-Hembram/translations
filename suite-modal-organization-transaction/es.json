@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-modal-organization-transaction-booking-details-end-date": "Finalización",
+    "suite-modal-organization-transaction-booking-details-start-date": "Inicio",
+    "suite-modal-organization-transaction-booking-details-property-name": "Sala",
+    "suite-modal-organization-transaction-booking-details-title": "Detalles de la reserva",
+    "suite-modal-organization-transaction-date-label": "Fecha",
+    "suite-modal-organization-transaction-date-from-label": "Desde",
+    "suite-modal-organization-transaction-date-until-label": "Hasta",
+    "suite-modal-organization-transaction-not-found": "Esta transacción puede no existir o puede haber sido eliminada.",
+    "suite-modal-organization-transaction-paid-with-label": "Pagado con",
+    "suite-modal-organization-transaction-paid-with-card": "Tarjeta",
+    "suite-modal-organization-transaction-paid-with-cash": "Efectivo",
+    "suite-modal-organization-transaction-paid-with-for-free": "Gratis",
+    "suite-modal-organization-transaction-paid-with-invoice": "Factura",
+    "suite-modal-organization-transaction-period-label": "Periodo",
+    "suite-modal-organization-transaction-plan-details-title": "Detalles del plan",
+    "suite-modal-organization-transaction-title": "Detalles de la transacción"
+  }
+}
