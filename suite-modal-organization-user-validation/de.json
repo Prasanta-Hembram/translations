@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-organization-user-validation-title": "Erforderliche Daten eingeben",
+    "suite-modal-organization-user-validation-error-email": "Geben Sie eine korrekte E-Mail ein.",
+    "suite-modal-organization-user-validation-error-first-name": "Geben Sie einen Vornamen ein.",
+    "suite-modal-organization-user-validation-error-last-name": "Geben Sie einen Nachnamen ein.",
+    "suite-modal-organization-user-validation-error-organization": "Geben Sie eine Organisation ein.",
+    "suite-modal-organization-user-validation-error-phone-number": "Geben Sie eine Rufnummer ein.",
+    "suite-modal-organization-user-validation-error-title": "Geben Sie einen Titel ein."
+  }
+}

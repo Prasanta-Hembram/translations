@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-organization-user-validation-title": "Обязательная информация",
+    "suite-modal-organization-user-validation-error-email": "Введите email.",
+    "suite-modal-organization-user-validation-error-first-name": "Введите имя.",
+    "suite-modal-organization-user-validation-error-last-name": "Введите фамилию.",
+    "suite-modal-organization-user-validation-error-organization": "Введите организацию.",
+    "suite-modal-organization-user-validation-error-phone-number": "Введите номер телефона.",
+    "suite-modal-organization-user-validation-error-title": "Введите должность."
+  }
+}

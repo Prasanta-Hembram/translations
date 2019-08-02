@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-organization-user-validation-title": "Required Information",
+    "suite-modal-organization-user-validation-error-email": "Type an email.",
+    "suite-modal-organization-user-validation-error-first-name": "Type a first name.",
+    "suite-modal-organization-user-validation-error-last-name": "Type a last name.",
+    "suite-modal-organization-user-validation-error-organization": "Type an organization.",
+    "suite-modal-organization-user-validation-error-phone-number": "Type a phone number.",
+    "suite-modal-organization-user-validation-error-title": "Type a title."
+  }
+}
