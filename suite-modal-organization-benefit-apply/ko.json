@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-modal-organization-benefit-apply-title": "베네핏 신청",
+    "suite-modal-organization-benefit-apply-button-apply": "제출하기",
+    "suite-modal-organization-benefit-apply-button-done": "확인",
+    "suite-modal-organization-benefit-apply-description": "선택사항이 있는 베네핏은 혜택번호 입력해주시고, 문의사항이 있다면 하단에 입력해주세요.",
+    "suite-modal-organization-benefit-apply-error-email": "이메일을 입력하세요.",
+    "suite-modal-organization-benefit-apply-error-phone-number": "전화번호를 입력하세요.",
+    "suite-modal-organization-benefit-apply-name": "성함",
+    "suite-modal-organization-benefit-apply-note": "내용",
+    "suite-modal-organization-benefit-apply-note-placeholder": "내용을 입력하기",
+    "suite-modal-organization-benefit-apply-success-text": "베네핏 신청이 완료되었습니다. 확인 메일을 발송하고 있습니다.",
+    "suite-modal-organization-benefit-apply-success-title": "훌륭해요!"
+  }
+}

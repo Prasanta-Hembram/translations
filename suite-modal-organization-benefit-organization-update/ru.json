@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-modal-organization-benefit-organization-update-title": "Выберите отделения",
+    "suite-modal-organization-benefit-organization-update-nothing-found": "Ничего не найдено.",
+    "suite-modal-organization-benefit-organization-update-search": "Искать среди {numberOfOrganizations} отделений"
+  }
+}
