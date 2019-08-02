@@ -1,0 +1,25 @@
+{
+  "data": {
+    "suite-modal-organization-bookings-booking-edit-title": "Edit booking",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Gratis",
+    "suite-modal-organization-bookings-booking-edit-action-button-invoice-team": "Factura de equipo ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Tarjeta ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Efectivo ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Créditos ({balance})",
+    "suite-modal-organization-bookings-booking-edit-booked-by": "Booker",
+    "suite-modal-organization-bookings-booking-edit-end-time": "Finalización",
+    "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Por favor, introduzca un título de su reserva.",
+    "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Por favor, introduzca una fecha correcta.",
+    "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Por favor, introduzca una hora correcta.",
+    "suite-modal-organization-bookings-booking-edit-label-start-date": "Fecha de inicio",
+    "suite-modal-organization-bookings-booking-edit-memo": "Nota",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Añadir nota (visible solo para booker y admin)",
+    "suite-modal-organization-bookings-booking-edit-payed-with": "Pagado con",
+    "suite-modal-organization-bookings-booking-edit-purpose": "Título",
+    "suite-modal-organization-bookings-booking-edit-purpose-placeholder": "Agregar título (públicamente)",
+    "suite-modal-organization-bookings-booking-edit-section-payment": "Pago",
+    "suite-modal-organization-bookings-booking-edit-section-people": "Personas",
+    "suite-modal-organization-bookings-booking-edit-section-time": "Hora",
+    "suite-modal-organization-bookings-booking-edit-start-time": "Inicio"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "suite-modal-organization-bookings-booking-edit-title": "Редагувати резервацію",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Безкоштовно",
+    "suite-modal-organization-bookings-booking-edit-action-button-invoice-team": "Інвойс команди ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Карткою ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Готівкою ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",
+    "suite-modal-organization-bookings-booking-edit-booked-by": "Власник",
+    "suite-modal-organization-bookings-booking-edit-end-time": "Кінець",
+    "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Уведіть назву резервації.",
+    "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Уведіть правильну дату.",
+    "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Уведіть правильний час.",
+    "suite-modal-organization-bookings-booking-edit-label-start-date": "Дата",
+    "suite-modal-organization-bookings-booking-edit-memo": "Нотатка",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Додати нотатку (видно власнику й адміну)",
+    "suite-modal-organization-bookings-booking-edit-payed-with": "Засіб",
+    "suite-modal-organization-bookings-booking-edit-purpose": "Назва",
+    "suite-modal-organization-bookings-booking-edit-purpose-placeholder": "Додати назву (видно всім учасникам)",
+    "suite-modal-organization-bookings-booking-edit-section-payment": "Оплата",
+    "suite-modal-organization-bookings-booking-edit-section-people": "Люди",
+    "suite-modal-organization-bookings-booking-edit-section-time": "Час",
+    "suite-modal-organization-bookings-booking-edit-start-time": "Початок"
+  }
+}

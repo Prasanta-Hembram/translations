@@ -1,0 +1,25 @@
+{
+  "data": {
+    "suite-modal-organization-bookings-booking-edit-title": "Редактировать бронь",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Бесплатно",
+    "suite-modal-organization-bookings-booking-edit-action-button-invoice-team": "Инвойс команды ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Карточкой ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Наличными ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",
+    "suite-modal-organization-bookings-booking-edit-booked-by": "Владелец",
+    "suite-modal-organization-bookings-booking-edit-end-time": "Конец",
+    "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Введите название бронирования.",
+    "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Введите правильную дату.",
+    "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Введите правильное время.",
+    "suite-modal-organization-bookings-booking-edit-label-start-date": "Дата начала",
+    "suite-modal-organization-bookings-booking-edit-memo": "Заметка",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Введите заметку (конфиденциально)",
+    "suite-modal-organization-bookings-booking-edit-payed-with": "Cредство",
+    "suite-modal-organization-bookings-booking-edit-purpose": "Название",
+    "suite-modal-organization-bookings-booking-edit-purpose-placeholder": "Введите название (публично)",
+    "suite-modal-organization-bookings-booking-edit-section-payment": "Оплата",
+    "suite-modal-organization-bookings-booking-edit-section-people": "Люди",
+    "suite-modal-organization-bookings-booking-edit-section-time": "Время",
+    "suite-modal-organization-bookings-booking-edit-start-time": "Начало"
+  }
+}
