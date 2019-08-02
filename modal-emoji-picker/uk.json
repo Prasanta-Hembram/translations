@@ -1,0 +1,16 @@
+{
+  "data": {
+    "modal-emoji-picker-category-activity": "Активності",
+    "modal-emoji-picker-category-animals-and-nature": "Тварини та природа",
+    "modal-emoji-picker-category-flags": "Прапори",
+    "modal-emoji-picker-category-food-and-drink": "Їжа та напої",
+    "modal-emoji-picker-category-frequently-used": "Часто використовувані",
+    "modal-emoji-picker-category-objects": "Об’єкти",
+    "modal-emoji-picker-category-smiley-and-people": "Смайлики та люди",
+    "modal-emoji-picker-category-symbols": "Символи",
+    "modal-emoji-picker-category-travel-and-places": "Подорожі та місця",
+    "modal-emoji-picker-search-no-emoji-found": "Емодзі не знайдено",
+    "modal-emoji-picker-search-placeholder": "Пошук",
+    "modal-emoji-picker-search-title": "Результати пошуку"
+  }
+}

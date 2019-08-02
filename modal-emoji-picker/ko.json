@@ -1,0 +1,16 @@
+{
+  "data": {
+    "modal-emoji-picker-category-activity": "액티비티",
+    "modal-emoji-picker-category-animals-and-nature": "동물 & 자연",
+    "modal-emoji-picker-category-flags": "깃발",
+    "modal-emoji-picker-category-food-and-drink": "음식 & 음료",
+    "modal-emoji-picker-category-frequently-used": "자주 이용",
+    "modal-emoji-picker-category-objects": "물건",
+    "modal-emoji-picker-category-smiley-and-people": "스마일리 & 사람들",
+    "modal-emoji-picker-category-symbols": "상징",
+    "modal-emoji-picker-category-travel-and-places": "여행 & 장소",
+    "modal-emoji-picker-search-no-emoji-found": "에모지가 없습니다",
+    "modal-emoji-picker-search-placeholder": "검색하기",
+    "modal-emoji-picker-search-title": "검색 결과"
+  }
+}

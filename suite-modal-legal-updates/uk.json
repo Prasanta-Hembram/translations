@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-legal-updates-agree-title": "Зміна політики",
+    "suite-modal-legal-updates-agree-to-privacy": "Погоджуюсь з політикою приватності",
+    "suite-modal-legal-updates-agree-to-terms": "Погоджуюсь з умовами надання послуг",
+    "suite-modal-legal-updates-agree-action": "Погодитись",
+    "suite-modal-legal-updates-disagree-action": "Відхилити",
+    "suite-modal-legal-updates-error-no-internet-action": "Перезавантажити",
+    "suite-modal-legal-updates-error-no-internet-description": "Перевірте з'єднання з інтернетом."
+  }
+}

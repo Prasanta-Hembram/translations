@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-legal-updates-agree-title": "정책변경 안내",
+    "suite-modal-legal-updates-agree-to-privacy": "개인정보 동의 (필수)",
+    "suite-modal-legal-updates-agree-to-terms": "이용약관 동의 (필수)",
+    "suite-modal-legal-updates-agree-action": "동의하기",
+    "suite-modal-legal-updates-disagree-action": "취소하기",
+    "suite-modal-legal-updates-error-no-internet-action": "다시 시도",
+    "suite-modal-legal-updates-error-no-internet-description": "인터넷 연결을 확인해주세요."
+  }
+}

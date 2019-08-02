@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-legal-updates-agree-title": "Richtlinienänderungen",
+    "suite-modal-legal-updates-agree-to-privacy": "Ich akzeptiere die Datenschutzerklärung",
+    "suite-modal-legal-updates-agree-to-terms": "Ich akzeptiere die Nutzungsbedingungen",
+    "suite-modal-legal-updates-agree-action": "Zustimmen",
+    "suite-modal-legal-updates-disagree-action": "Nicht zustimmen",
+    "suite-modal-legal-updates-error-no-internet-action": "Neu laden",
+    "suite-modal-legal-updates-error-no-internet-description": "Kein Internet."
+  }
+}

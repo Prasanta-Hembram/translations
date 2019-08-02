@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-legal-updates-agree-title": "Cambios de Política",
+    "suite-modal-legal-updates-agree-to-privacy": "Estoy de acuerdo con la política de privacidad",
+    "suite-modal-legal-updates-agree-to-terms": "Estoy de acuerdo con la Ttérminos de uso",
+    "suite-modal-legal-updates-agree-action": "Estoy de acuerdo",
+    "suite-modal-legal-updates-disagree-action": "No estoy de acuerdo",
+    "suite-modal-legal-updates-error-no-internet-action": "Recargar",
+    "suite-modal-legal-updates-error-no-internet-description": "No hay internet."
+  }
+}
