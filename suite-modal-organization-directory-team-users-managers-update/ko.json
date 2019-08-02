@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-directory-team-users-managers-update-title": "팀매니저 선택",
+    "suite-modal-organization-directory-team-users-managers-update-no-users": "아무것도 없습니다.",
+    "suite-modal-organization-directory-team-users-managers-update-nothing-found": "아무것도 없습니다.",
+    "suite-modal-organization-directory-team-users-managers-update-search": "{numberOfMembers}명 중 검색하기"
+  }
+}

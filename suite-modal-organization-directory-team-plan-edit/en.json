@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-directory-team-plan-edit-title": "Plan",
+    "suite-modal-organization-directory-team-plan-edit-benefits": "Benefits",
+    "suite-modal-organization-directory-team-plan-edit-credits": "Credits",
+    "suite-modal-organization-directory-team-plan-edit-payment": "Payment",
+    "suite-modal-organization-directory-team-plan-edit-period-from-title": "Start",
+    "suite-modal-organization-directory-team-plan-edit-period-pay-with-cash-title": "Cash",
+    "suite-modal-organization-directory-team-plan-edit-period-pay-with-title": "Method",
+    "suite-modal-organization-directory-team-plan-edit-period-title": "Period",
+    "suite-modal-organization-directory-team-plan-edit-period-until-title": "End",
+    "suite-modal-organization-directory-team-plan-edit-plan-description": "Description",
+    "suite-modal-organization-directory-team-plan-edit-plan-title": "Name",
+    "suite-modal-organization-directory-team-plan-edit-price": "Price",
+    "suite-modal-organization-directory-team-plan-edit-repeat-label": "Repeat",
+    "suite-modal-organization-directory-team-plan-edit-type": "Type"
+  }
+}

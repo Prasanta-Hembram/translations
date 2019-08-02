@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-directory-team-users-members-update-title": "팀원 선택",
+    "suite-modal-organization-directory-team-users-members-update-no-users": "아무것도 없습니다.",
+    "suite-modal-organization-directory-team-users-members-update-nothing-found": "아무것도 없습니다.",
+    "suite-modal-organization-directory-team-users-members-update-search": "{numberOfMembers}명 중 검색하기"
+  }
+}
