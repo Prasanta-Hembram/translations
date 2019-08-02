@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-directory-user-printer-account-link-title": "Vincular cuenta de impresora",
-    "suite-page-organization-directory-user-printer-account-link-no-none": "Ninguna",
-    "suite-page-organization-directory-user-printer-account-link-no-users": "Nadie para agregar.",
-    "suite-page-organization-directory-user-printer-account-link-nothing-found": "Nada Encontrado.",
-    "suite-page-organization-directory-user-printer-account-link-search": "Buscar {numberOfUsers} cuentas"
-  }
-}

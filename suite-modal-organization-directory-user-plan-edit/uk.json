@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-modal-organization-directory-user-plan-edit-title": "План",
+    "suite-modal-organization-directory-user-plan-edit-benefits-title": "Сервіси",
+    "suite-modal-organization-directory-user-plan-edit-credits": "Кредити",
+    "suite-modal-organization-directory-user-plan-edit-payment": "Оплата",
+    "suite-modal-organization-directory-user-plan-edit-period-from-title": "Початок",
+    "suite-modal-organization-directory-user-plan-edit-period-pay-with-title": "Спосіб",
+    "suite-modal-organization-directory-user-plan-edit-period-title": "Період",
+    "suite-modal-organization-directory-user-plan-edit-period-until-title": "Кінець",
+    "suite-modal-organization-directory-user-plan-edit-plan-description": "Опис",
+    "suite-modal-organization-directory-user-plan-edit-plan-title": "Назва",
+    "suite-modal-organization-directory-user-plan-edit-price": "Ціна",
+    "suite-modal-organization-directory-user-plan-edit-repeat": "Поновлення",
+    "suite-modal-organization-directory-user-plan-edit-type": "Тип"
+  }
+}

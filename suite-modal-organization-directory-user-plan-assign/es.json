@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-modal-organization-directory-user-plan-assign-title": "Asignar plan",
+    "suite-modal-organization-directory-user-plan-assign-benefits-title": "Beneficios",
+    "suite-modal-organization-directory-user-plan-assign-button-for-free": "Asignar gratis",
+    "suite-modal-organization-directory-user-plan-assign-button-for-price": "Asignar por {price}",
+    "suite-modal-organization-directory-user-plan-assign-button-label": "Asignar",
+    "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "No hay planes todavía. Create a plan first on Membership page.",
+    "suite-modal-organization-directory-user-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
+    "suite-modal-organization-directory-user-plan-assign-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
+    "suite-modal-organization-directory-user-plan-assign-payment": "Pago",
+    "suite-modal-organization-directory-user-plan-assign-period-from-title": "Comienzo",
+    "suite-modal-organization-directory-user-plan-assign-period-title": "Período",
+    "suite-modal-organization-directory-user-plan-assign-plan-description": "Descripción",
+    "suite-modal-organization-directory-user-plan-assign-plan-price-money": "Precio, {currencySymbol}",
+    "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Precio, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-assign-plan-title": "Plan",
+    "suite-modal-organization-directory-user-plan-assign-repeat-label": "Repetir"
+  }
+}

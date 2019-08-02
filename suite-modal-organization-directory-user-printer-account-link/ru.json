@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-directory-user-printer-account-link-title": "Связать с",
+    "suite-modal-organization-directory-user-printer-account-link-no-none": "Не выбрано",
+    "suite-modal-organization-directory-user-printer-account-link-no-users": "Никого добавлять.",
+    "suite-modal-organization-directory-user-printer-account-link-nothing-found": "Ничего не найдено.",
+    "suite-modal-organization-directory-user-printer-account-link-search": "Поиск среди {numberOfUsers} аккаунтов"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-modal-organization-directory-user-plan-assign-title": "Призначити план",
+    "suite-modal-organization-directory-user-plan-assign-benefits-title": "Сервіси",
+    "suite-modal-organization-directory-user-plan-assign-button-for-free": "Призначити безкоштовно",
+    "suite-modal-organization-directory-user-plan-assign-button-for-price": "Призначити за {price}",
+    "suite-modal-organization-directory-user-plan-assign-button-label": "Призначити",
+    "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "Тарифні плани відсутні. Створіть план на сторінці участі.",
+    "suite-modal-organization-directory-user-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено.",
+    "suite-modal-organization-directory-user-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
+    "suite-modal-organization-directory-user-plan-assign-payment": "Оплата",
+    "suite-modal-organization-directory-user-plan-assign-period-from-title": "Початок",
+    "suite-modal-organization-directory-user-plan-assign-period-title": "Період",
+    "suite-modal-organization-directory-user-plan-assign-plan-description": "Опис",
+    "suite-modal-organization-directory-user-plan-assign-plan-price-money": "Ціна, {currencySymbol}",
+    "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Кредити, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-assign-plan-title": "План",
+    "suite-modal-organization-directory-user-plan-assign-repeat-label": "Поновлення"
+  }
+}
