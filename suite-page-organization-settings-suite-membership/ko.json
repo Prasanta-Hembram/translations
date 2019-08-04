@@ -13,6 +13,8 @@
     "suite-page-organization-settings-suite-membership-policy-info-title": "규정정보",
     "suite-page-organization-settings-suite-membership-policy-info-desc": "환불 규정, 개인정보 보호정책, 이용약관 등 링크를 포함하세요. 결제페이지 및 인보이스에 표시됩니다.",
     "suite-page-organization-settings-suite-membership-policy-info-placeholder": "정보를 입력하기",
+    "suite-page-organization-settings-suite-membership-policy-link": "Privacy Policy",
+    "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Type a link",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "유효 세율을 입력하세요.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "세율, %",
     "suite-page-organization-settings-suite-membership-tax-percent-desc": "세율은 인보이스에 세금 금액을 표시하는 데 사용됩니다. 모든 가격에는 세금이 포함되어야합니다."

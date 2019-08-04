@@ -13,6 +13,8 @@
     "suite-page-organization-settings-suite-membership-policy-info-title": "Інформація про політику",
     "suite-page-organization-settings-suite-membership-policy-info-desc": "Вкажіть інформацію або посилання на конфіденційність, повернення коштів, умови використання чи інші правила. Це з'явиться на сторінці оплати та інвойсу.",
     "suite-page-organization-settings-suite-membership-policy-info-placeholder": "Уведіть інформацію",
+    "suite-page-organization-settings-suite-membership-policy-link": "Privacy Policy",
+    "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Type a link",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Уведіть правильне значення ставки податку.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Ставка податку, %",
     "suite-page-organization-settings-suite-membership-tax-percent-desc": "Ставка податку використовується для відображення суми податків в інвойсах. Всі ціни повинні включати податок."
