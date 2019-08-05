@@ -4,6 +4,7 @@
     "utils-auth-agree-to-terms": "Ich akzeptiere die {termsOfUse}",
     "utils-auth-back": "Zurück",
     "utils-auth-code": "Code",
+    "utils-auth-code-description": "Code was sent to your email",
     "utils-auth-code-invalid": "Geben Sie einen gültigen Code aus einer Textnachricht ein.",
     "utils-auth-country": "Land",
     "utils-auth-email": "E-Mail",
