@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-modal-organization-feed-post-edit-stack-title": "Edit post",
+    "suite-modal-organization-feed-post-edit-date": "{createDate}, edited on {updateDate}",
     "suite-modal-organization-feed-post-edit-text-placeholder": "Say something to your community..."
   }
 }
