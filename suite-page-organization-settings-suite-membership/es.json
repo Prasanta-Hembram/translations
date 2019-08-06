@@ -13,6 +13,8 @@
     "suite-page-organization-settings-suite-membership-policy-info-title": "Información de la política",
     "suite-page-organization-settings-suite-membership-policy-info-desc": "Incluya información o enlaces a privacidad, reembolso, términos de uso u otras políticas. Esto aparecerá en la página de pago y factura.",
     "suite-page-organization-settings-suite-membership-policy-info-placeholder": "Escribe una información",
+    "suite-page-organization-settings-suite-membership-policy-link": "Política de privacidad",
+    "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Escribe un enlace",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Escriba una tasa de impuestos válida.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Tasa de impuesto, %",
     "suite-page-organization-settings-suite-membership-tax-percent-desc": "La tasa de impuestos se utiliza para mostrar el importe del impuesto en las facturas. Todos los precios deben incluir el impuesto."

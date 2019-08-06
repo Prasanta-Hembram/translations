@@ -13,6 +13,8 @@
     "suite-page-organization-settings-suite-membership-policy-info-title": "Информация о политике",
     "suite-page-organization-settings-suite-membership-policy-info-desc": "Включите информацию или ссылки на конфиденциальность, возврат средств, условия использования или другие политики. Это появится на странице оплаты и в инвойсе.",
     "suite-page-organization-settings-suite-membership-policy-info-placeholder": "Введите информацию",
+    "suite-page-organization-settings-suite-membership-policy-link": "Политика конфиденциальности",
+    "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Введите ссылку",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Введите правильное значение процента налога.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Ставка налога, %",
     "suite-page-organization-settings-suite-membership-tax-percent-desc": "Налоговая ставка используется для отображения суммы налога в инвойсах. Все цены должны включать налог."
