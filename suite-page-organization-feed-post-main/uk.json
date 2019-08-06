@@ -3,7 +3,6 @@
     "suite-page-organization-feed-post-main-action-sheet-delete": "Видалити",
     "suite-page-organization-feed-post-main-date": "{createDate}, ред. {updateDate}",
     "suite-page-organization-feed-post-main-empty": "Цей пост не існує або був видалений.",
-    "suite-page-organization-feed-post-main-title": "Допис",
-    "suite-page-organization-feed-post-main-user-unknown": "Невідомий учасник"
+    "suite-page-organization-feed-post-main-title": "Допис"
   }
 }
