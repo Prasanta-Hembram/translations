@@ -3,7 +3,6 @@
     "suite-page-organization-feed-post-main-action-sheet-delete": "Löschen",
     "suite-page-organization-feed-post-main-date": "{createDate}, bearbeitet am {updateDate}",
     "suite-page-organization-feed-post-main-empty": "Dieser Beitrag existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-feed-post-main-title": "Beitrag",
-    "suite-page-organization-feed-post-main-user-unknown": "Unbekanntes Mitglied"
+    "suite-page-organization-feed-post-main-title": "Beitrag"
   }
 }

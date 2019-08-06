@@ -3,7 +3,6 @@
     "suite-page-organization-feed-post-main-action-sheet-delete": "Delete",
     "suite-page-organization-feed-post-main-date": "{createDate}, edited on {updateDate}",
     "suite-page-organization-feed-post-main-empty": "This post may not exist or may have been removed.",
-    "suite-page-organization-feed-post-main-title": "Post",
-    "suite-page-organization-feed-post-main-user-unknown": "Unknown Member"
+    "suite-page-organization-feed-post-main-title": "Post"
   }
 }
