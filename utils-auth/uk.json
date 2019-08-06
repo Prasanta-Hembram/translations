@@ -4,6 +4,7 @@
     "utils-auth-agree-to-terms": "Погоджуюсь з {termsOfUse}",
     "utils-auth-back": "Назад",
     "utils-auth-code": "Код",
+    "utils-auth-code-description": "Код відправлено на ваш email",
     "utils-auth-code-invalid": "Уведіть правильний код з текстового повідомлення.",
     "utils-auth-country": "Країна",
     "utils-auth-email": "Email",
