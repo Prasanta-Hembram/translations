@@ -1,11 +1,11 @@
 {
   "data": {
     "suite-page-profile-info-title": "Особисті дані",
-    "suite-page-profile-info-error-email": "Введіть правильний email.",
-    "suite-page-profile-info-error-first-name": "Введіть ім'я.",
+    "suite-page-profile-info-error-email": "Уведіть правильний email.",
+    "suite-page-profile-info-error-first-name": "Уведіть ім'я.",
     "suite-page-profile-info-log-out": "Вийти з системи",
     "suite-page-profile-info-photo-delete": "Видалити фото",
-    "suite-page-profile-info-section-bio": "Personal Information",
-    "suite-page-profile-info-section-bio-placeholder": "Type your bio."
+    "suite-page-profile-info-section-bio": "Про себе",
+    "suite-page-profile-info-section-bio-placeholder": "Розказати про себе"
   }
 }
