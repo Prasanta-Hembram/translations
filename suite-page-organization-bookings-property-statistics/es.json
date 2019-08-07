@@ -20,14 +20,14 @@
     "suite-page-organization-property-statistics-start-date-title": "Comienzo",
     "suite-page-organization-property-statistics-utilization-title": "Tasa de uso",
     "suite-page-organization-property-statistics-validation-error-chart": "No se puede mostrar un gráfico. Por favor, verifique las fechas de entrada.",
-    "suite-page-organization-property-statistics-value-booking-hours-bigger": "{value}h, {valueDiff} más de la media del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-booking-hours-same": "{value}h el promedio del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-booking-hours-smaller": "{value}h, {valueDiff} menos de la media del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} booking(-s), {valueDiff} más de la media del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-booking-times-same": "{value} booking(-s) el promedio del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} booking(-s), {valueDiff} más de la media del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-booking-hours-bigger": "{value}hrs, {valueDiff} más de la media del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-booking-hours-same": "{value}hrs. El promedio del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-booking-hours-smaller": "{value}hrs, {valueDiff} menos de la media del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} reserva(s), {valueDiff} más de la media del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-booking-times-same": "{value} reserva(s). El promedio del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} reserva(s), {valueDiff} más de la media del espacio de trabajo durante este período.",
     "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff} más de la media del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-utilization-same": "{value}% el promedio del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-utilization-same": "{value}%. El promedio del espacio de trabajo durante este período.",
     "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff} menos de la media del espacio de trabajo durante este período."
   }
 }
