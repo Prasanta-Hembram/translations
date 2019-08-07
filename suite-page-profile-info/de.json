@@ -4,6 +4,8 @@
     "suite-page-profile-info-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-page-profile-info-error-first-name": "Geben Sie einen Vornamen ein.",
     "suite-page-profile-info-log-out": "Abmelden",
-    "suite-page-profile-info-photo-delete": "Foto löschen"
+    "suite-page-profile-info-photo-delete": "Foto löschen",
+    "suite-page-profile-info-section-bio": "Personal Information",
+    "suite-page-profile-info-section-bio-placeholder": "Type your bio."
   }
 }

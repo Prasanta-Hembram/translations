@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-user-main-active-plan-title": "Plan",
+    "suite-page-organization-directory-user-main-bio-section": "Personal Information",
+    "suite-page-organization-directory-user-main-bio-placeholder": "Type a bio.",
     "suite-page-organization-directory-user-main-button-booking": "Historial de reservas",
     "suite-page-organization-directory-user-main-button-cash-balance": "Balance en efectivo",
     "suite-page-organization-directory-user-main-button-credits": "Créditos",

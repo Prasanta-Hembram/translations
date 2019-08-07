@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-user-main-active-plan-title": "플랜",
+    "suite-page-organization-directory-user-main-bio-section": "Personal Information",
+    "suite-page-organization-directory-user-main-bio-placeholder": "Type a bio.",
     "suite-page-organization-directory-user-main-button-booking": "예약 현황",
     "suite-page-organization-directory-user-main-button-cash-balance": "현금 잔액",
     "suite-page-organization-directory-user-main-button-credits": "크레딧",

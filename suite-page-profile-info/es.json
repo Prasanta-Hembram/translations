@@ -4,6 +4,8 @@
     "suite-page-profile-info-error-email": "Por favor, introduzca un correo electrónico correcto.",
     "suite-page-profile-info-error-first-name": "Por favor ingrese un nombre",
     "suite-page-profile-info-log-out": "Cerrar Sesión",
-    "suite-page-profile-info-photo-delete": "Eliminar foto"
+    "suite-page-profile-info-photo-delete": "Eliminar foto",
+    "suite-page-profile-info-section-bio": "Personal Information",
+    "suite-page-profile-info-section-bio-placeholder": "Type your bio."
   }
 }
