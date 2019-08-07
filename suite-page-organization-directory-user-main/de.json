@@ -24,6 +24,7 @@
     "suite-page-organization-directory-user-main-role-info-member": "Das Mitglied kann relevante Inhalte und Teams im Workspace einsehen.",
     "suite-page-organization-directory-user-main-role-info-moderator": "Der Moderator kann Inhalte und Teams im Workspace verwalten.",
     "suite-page-organization-directory-user-main-role-member": "Mitglied",
-    "suite-page-organization-directory-user-main-role-moderator": "Moderator"
+    "suite-page-organization-directory-user-main-role-moderator": "Moderator",
+    "suite-page-organization-directory-user-main-section-membership-title": "Mitgliedschaft"
   }
 }

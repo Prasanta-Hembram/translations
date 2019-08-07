@@ -24,6 +24,7 @@
     "suite-page-organization-directory-user-main-role-info-member": "El miembro puede ver el contenido y los equipos relevantes en el espacio de trabajo.",
     "suite-page-organization-directory-user-main-role-info-moderator": "El moderador puede gestionar el contenido y los equipos en el espacio de trabajo.",
     "suite-page-organization-directory-user-main-role-member": "Miembro",
-    "suite-page-organization-directory-user-main-role-moderator": "Moderador"
+    "suite-page-organization-directory-user-main-role-moderator": "Moderador",
+    "suite-page-organization-directory-user-main-section-membership-title": "Membresía"
   }
 }
