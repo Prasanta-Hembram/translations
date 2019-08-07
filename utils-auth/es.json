@@ -1,10 +1,10 @@
 {
   "data": {
     "utils-auth-agree-to-privacy": "Estoy de acuerdo con la {privacyPolicy}",
-    "utils-auth-agree-to-terms": "Estoy de acuerdo con la {termsOfUse}",
+    "utils-auth-agree-to-terms": "Estoy de acuerdo con los {termsOfUse}",
     "utils-auth-back": "Regresar",
     "utils-auth-code": "Código",
-    "utils-auth-code-description": "The code was sent to you by email.",
+    "utils-auth-code-description": "El código te fue enviado por correo electrónico.",
     "utils-auth-code-invalid": "Ingresa un código válido de un mensaje de texto.",
     "utils-auth-country": "País",
     "utils-auth-email": "Correo electrónico",
