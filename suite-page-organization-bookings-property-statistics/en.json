@@ -20,8 +20,14 @@
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Utilization",
     "suite-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Check input dates.",
-    "suite-page-organization-property-statistics-value-bigger": "{value} more than workspace average for this period.",
-    "suite-page-organization-property-statistics-value-same": "average in the workspace for this period.",
-    "suite-page-organization-property-statistics-value-smaller": "{value} less than workspace average for this period."
+    "suite-page-organization-property-statistics-value-booking-hours-bigger": "{value}h, {valueDiff} more than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-booking-hours-same": "{value}h average in the workspace for this period.",
+    "suite-page-organization-property-statistics-value-booking-hours-smaller": "{value}h, {valueDiff} less than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} booking(-s), {valueDiff} more than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-booking-times-same": "{value} booking(-s) average in the workspace for this period.",
+    "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} booking(-s), {valueDiff} less than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff} more than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-utilization-same": "{value}% average in the workspace for this period.",
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff} less than workspace average for this period."
   }
 }

@@ -20,8 +20,14 @@
     "suite-page-organization-property-statistics-start-date-title": "시작일",
     "suite-page-organization-property-statistics-utilization-title": "이용률",
     "suite-page-organization-property-statistics-validation-error-chart": " 차트를 찾을 수 없습니다. 날짜를 확인해 주세요.",
-    "suite-page-organization-property-statistics-value-bigger": "선택한 기간의 공간 평균보다 {value} 더 많습니다.",
-    "suite-page-organization-property-statistics-value-same": "선택한 기간의 공간 평균과 동일합니다.",
-    "suite-page-organization-property-statistics-value-smaller": "선택한 기간의 공간 평균보다 {value} 낮습니다."
+    "suite-page-organization-property-statistics-value-booking-hours-bigger": "{value}h, {valueDiff} more than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-booking-hours-same": "{value}h average in the workspace for this period.",
+    "suite-page-organization-property-statistics-value-booking-hours-smaller": "{value}h, {valueDiff} less than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} booking(-s), {valueDiff} more than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-booking-times-same": "{value} booking(-s) average in the workspace for this period.",
+    "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} booking(-s), {valueDiff} less than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff} more than workspace average for this period.",
+    "suite-page-organization-property-statistics-value-utilization-same": "{value}% average in the workspace for this period.",
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff} less than workspace average for this period."
   }
 }

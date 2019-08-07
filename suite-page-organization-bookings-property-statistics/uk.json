@@ -20,8 +20,14 @@
     "suite-page-organization-property-statistics-start-date-title": "Початок",
     "suite-page-organization-property-statistics-utilization-title": "Заповненість",
     "suite-page-organization-property-statistics-validation-error-chart": "Неможливо відобразити діаграму. Перевірте, будь-ласка, чи правильно введено дату.",
-    "suite-page-organization-property-statistics-value-bigger": "на {value} більше середнього значення по коворкінгу за обраний період часу.",
-    "suite-page-organization-property-statistics-value-same": "середнє значення по коворкінгу за обраний період часу.",
-    "suite-page-organization-property-statistics-value-smaller": "на {value} менше середнього значення по коворкінгу за обраний період часу."
+    "suite-page-organization-property-statistics-value-booking-hours-bigger": "{value}год., на {value} більше середнього значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-booking-hours-same": "{value}год. середнє значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-booking-hours-smaller": "{value}год., на {valueDiff} менше середнього значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} резерв., на {value} більше середнього значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-booking-times-same": "{value} резерв. середнє значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} резерв., на {valueDiff} менше середнього значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, на {value} більше середнього значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-utilization-same": "{value}% середнє значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, на {valueDiff} менше середнього значення по коворкінгу за обраний період часу."
   }
 }
