@@ -5,7 +5,7 @@
     "suite-page-profile-info-error-first-name": "Type a first name.",
     "suite-page-profile-info-log-out": "Log out",
     "suite-page-profile-info-photo-delete": "Delete Photo",
-    "suite-page-profile-info-section-bio": "Personal Information",
-    "suite-page-profile-info-section-bio-placeholder": "Type your bio."
+    "suite-page-profile-info-section-bio": "About",
+    "suite-page-profile-info-section-bio-placeholder": "Type something"
   }
 }
