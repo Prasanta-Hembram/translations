@@ -26,6 +26,7 @@
     "suite-page-organization-directory-user-main-role-info-member": "Учасник може переглядати контент в коворкінгу.",
     "suite-page-organization-directory-user-main-role-info-moderator": "Модератор може керувати контентом та командами в коворкінгу.",
     "suite-page-organization-directory-user-main-role-member": "Учасник",
-    "suite-page-organization-directory-user-main-role-moderator": "Модератор"
+    "suite-page-organization-directory-user-main-role-moderator": "Модератор",
+    "suite-page-organization-directory-user-main-section-membership-title": "Участь"
   }
 }

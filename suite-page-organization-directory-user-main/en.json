@@ -26,6 +26,7 @@
     "suite-page-organization-directory-user-main-role-info-member": "Member can view relevant content and teams in the workspace.",
     "suite-page-organization-directory-user-main-role-info-moderator": "Moderator can manage content and teams in the workspace.",
     "suite-page-organization-directory-user-main-role-member": "Member",
-    "suite-page-organization-directory-user-main-role-moderator": "Moderator"
+    "suite-page-organization-directory-user-main-role-moderator": "Moderator",
+    "suite-page-organization-directory-user-main-section-membership-title": "Membership"
   }
 }
