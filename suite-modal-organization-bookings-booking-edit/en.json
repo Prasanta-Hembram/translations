@@ -15,6 +15,7 @@
     "suite-modal-organization-bookings-booking-edit-memo": "Memo",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Type a memo (visible only to booker and admin)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Method",
+    "suite-modal-organization-bookings-booking-edit-price": "Price, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Title",
     "suite-modal-organization-bookings-booking-edit-purpose-placeholder": "Type a title (public)",
     "suite-modal-organization-bookings-booking-edit-section-payment": "Payment",
