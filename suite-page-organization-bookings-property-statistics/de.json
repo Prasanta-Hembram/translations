@@ -20,8 +20,14 @@
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Nutzung",
     "suite-page-organization-property-statistics-validation-error-chart": "Diagramm kann nicht angezeigt werden. Eingabedaten prüfen.",
-    "suite-page-organization-property-statistics-value-bigger": "{value} mehr als der Workspacedurchschnitt für diesen Zeitraum.",
-    "suite-page-organization-property-statistics-value-same": "Im Durchschnitt des Workspace für diesen Zeitraum.",
-    "suite-page-organization-property-statistics-value-smaller": "{value} weniger als der Workspacedurchschnitt für diesen Zeitraum."
+    "suite-page-organization-property-statistics-value-booking-hours-bigger": "{value} Std., {valueDiff} mehr als der Workspacedurchschnitt für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-booking-hours-same": "{value} Std. Im Durchschnitt des Workspace für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-booking-hours-smaller": "{value} Std., {valueDiff} weniger als der Workspacedurchschnitt für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} Buchung(en), {valueDiff} mehr als der Workspacedurchschnitt für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-booking-times-same": "{value} Buchung(en). Im Durchschnitt des Workspace für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} Buchung(en), {valueDiff} weniger als der Workspacedurchschnitt für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff}% mehr als der Workspacedurchschnitt für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-utilization-same": "{value}% Im Durchschnitt des Workspace für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff}% weniger als der Workspacedurchschnitt für diesen Zeitraum."
   }
 }
