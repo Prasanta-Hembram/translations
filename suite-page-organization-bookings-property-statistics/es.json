@@ -26,8 +26,8 @@
     "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} reserva(s), {valueDiff} más de la media del espacio de trabajo durante este período.",
     "suite-page-organization-property-statistics-value-booking-times-same": "{value} reserva(s). El promedio del espacio de trabajo durante este período.",
     "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} reserva(s), {valueDiff} más de la media del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff} más de la media del espacio de trabajo durante este período.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff}% más de la media del espacio de trabajo durante este período.",
     "suite-page-organization-property-statistics-value-utilization-same": "{value}%. El promedio del espacio de trabajo durante este período.",
-    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff} menos de la media del espacio de trabajo durante este período."
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff}% menos de la media del espacio de trabajo durante este período."
   }
 }

@@ -26,8 +26,8 @@
     "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} резерв., на {value} більше середнього значення по коворкінгу за обраний період часу.",
     "suite-page-organization-property-statistics-value-booking-times-same": "{value} резерв. середнє значення по коворкінгу за обраний період часу.",
     "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} резерв., на {valueDiff} менше середнього значення по коворкінгу за обраний період часу.",
-    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, на {value} більше середнього значення по коворкінгу за обраний період часу.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, на {value}% більше середнього значення по коворкінгу за обраний період часу.",
     "suite-page-organization-property-statistics-value-utilization-same": "{value}% середнє значення по коворкінгу за обраний період часу.",
-    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, на {valueDiff} менше середнього значення по коворкінгу за обраний період часу."
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, на {valueDiff}% менше середнього значення по коворкінгу за обраний період часу."
   }
 }

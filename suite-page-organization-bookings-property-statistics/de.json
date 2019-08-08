@@ -26,8 +26,8 @@
     "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} Buchung(en), {valueDiff} mehr als der Workspacedurchschnitt für diesen Zeitraum.",
     "suite-page-organization-property-statistics-value-booking-times-same": "{value} Buchung(en). Im Durchschnitt des Workspace für diesen Zeitraum.",
     "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} Buchung(en), {valueDiff} weniger als der Workspacedurchschnitt für diesen Zeitraum.",
-    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff} mehr als der Workspacedurchschnitt für diesen Zeitraum.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, {valueDiff}% mehr als der Workspacedurchschnitt für diesen Zeitraum.",
     "suite-page-organization-property-statistics-value-utilization-same": "{value}% Im Durchschnitt des Workspace für diesen Zeitraum.",
-    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff} weniger als der Workspacedurchschnitt für diesen Zeitraum."
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, {valueDiff}% weniger als der Workspacedurchschnitt für diesen Zeitraum."
   }
 }

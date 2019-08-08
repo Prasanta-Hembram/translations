@@ -26,8 +26,8 @@
     "suite-page-organization-property-statistics-value-booking-times-bigger": "{value}개 예약 - 이 기간 내 공간 평균 대비 {valueDiff} 이상 증가.",
     "suite-page-organization-property-statistics-value-booking-times-same": "{value}개 예약 - 이 기간 내 공간 평균과 동일.",
     "suite-page-organization-property-statistics-value-booking-times-smaller": "{value}개 예약 - 이 기간 내 공간 평균 대비 {valueDiff} 이상 감소.",
-    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}% - 이 기간 내 공간 평균 대비 {valueDiff} 이상 증가.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}% - 이 기간 내 공간 평균 대비 {valueDiff}% 이상 증가.",
     "suite-page-organization-property-statistics-value-utilization-same": "{value}% - 이 기간 내 공간 평균과 동일.",
-    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}% - 이 기간 내 공간 평균 대비 {valueDiff} 이상 감소."
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}% - 이 기간 내 공간 평균 대비 {valueDiff}% 이상 감소."
   }
 }

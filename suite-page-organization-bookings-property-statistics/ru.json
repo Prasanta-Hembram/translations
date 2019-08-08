@@ -26,8 +26,8 @@
     "suite-page-organization-property-statistics-value-booking-times-bigger": "{value} резерв., на {valueDiff} больше среднего по коворкингу за выбранный период.",
     "suite-page-organization-property-statistics-value-booking-times-same": "{value} резерв. среднее значение по коворкингу за выбранный период.",
     "suite-page-organization-property-statistics-value-booking-times-smaller": "{value} резерв., на {valueDiff} больше среднего по коворкингу за выбранный период.",
-    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, на {valueDiff} больше среднего по коворкингу за выбранный период.",
+    "suite-page-organization-property-statistics-value-utilization-bigger": "{value}%, на {valueDiff}% больше среднего по коворкингу за выбранный период.",
     "suite-page-organization-property-statistics-value-utilization-same": "{value}% среднее значение по коворкингу за выбранный период.",
-    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, на {valueDiff}  меньше среднего по коворкингу за выбранный период."
+    "suite-page-organization-property-statistics-value-utilization-smaller": "{value}%, на {valueDiff}%  меньше среднего по коворкингу за выбранный период."
   }
 }
