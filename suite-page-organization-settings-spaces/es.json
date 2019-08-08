@@ -4,6 +4,7 @@
     "suite-page-organization-settings-spaces-address": "Dirección",
     "suite-page-organization-settings-spaces-address-placeholder": "Ingresa la direccion",
     "suite-page-organization-settings-spaces-code": "Etiqueta",
+    "suite-page-organization-settings-spaces-code-description": "The unique workspace tag by which your workspace can be found in the app.",
     "suite-page-organization-settings-spaces-code-placeholder": "Escribe una etiqueta",
     "suite-page-organization-settings-spaces-contact-to-support": "Para cambiarlo, póngate en contacto con support@andcards.com.",
     "suite-page-organization-settings-spaces-currency": "La moneda",

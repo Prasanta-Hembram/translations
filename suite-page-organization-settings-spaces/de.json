@@ -4,6 +4,7 @@
     "suite-page-organization-settings-spaces-address": "Adresse",
     "suite-page-organization-settings-spaces-address-placeholder": "Adresse eingeben",
     "suite-page-organization-settings-spaces-code": "Tag",
+    "suite-page-organization-settings-spaces-code-description": "The unique workspace tag by which your workspace can be found in the app.",
     "suite-page-organization-settings-spaces-code-placeholder": "Tag eingeben",
     "suite-page-organization-settings-spaces-contact-to-support": "Um es zu ändern, wenden Sie sich bitte an support@andcards.com.",
     "suite-page-organization-settings-spaces-currency": "Währung",
