@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-user-main-active-plan-title": "План",
+    "suite-page-organization-directory-user-main-bio-section": "Про себе",
+    "suite-page-organization-directory-user-main-bio-placeholder": "Розповісти про себе",
     "suite-page-organization-directory-user-main-button-booking": "Історія резервацій",
     "suite-page-organization-directory-user-main-button-cash-balance": "Баланс готівки",
     "suite-page-organization-directory-user-main-button-credits": "Кредити",

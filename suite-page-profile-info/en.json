@@ -4,6 +4,8 @@
     "suite-page-profile-info-error-email": "Type a correct email.",
     "suite-page-profile-info-error-first-name": "Type a first name.",
     "suite-page-profile-info-log-out": "Log out",
-    "suite-page-profile-info-photo-delete": "Delete Photo"
+    "suite-page-profile-info-photo-delete": "Delete Photo",
+    "suite-page-profile-info-section-bio": "About",
+    "suite-page-profile-info-section-bio-placeholder": "Type something"
   }
 }
