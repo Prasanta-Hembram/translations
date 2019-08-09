@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-utils-balance-history-permission-all-members": "Усі учасники команди",
-    "suite-utils-balance-history-permission-info-all-members": "Усі учасники команди можуть бачити історію транзакцій",
-    "suite-utils-balance-history-permission-info-team-managers": "Лише менеджери команди можуть бачити історію транзакцій",
+    "suite-utils-balance-history-permission-info-all-members": "Усі учасники команди можуть бачити історію транзакцій.",
+    "suite-utils-balance-history-permission-info-team-managers": "Лише менеджери команди можуть бачити історію транзакцій.",
     "suite-utils-balance-history-permission-team-managers": "Лише менеджери команди"
   }
 }
