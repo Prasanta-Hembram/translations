@@ -4,7 +4,7 @@
     "suite-page-organization-settings-spaces-address": "주소",
     "suite-page-organization-settings-spaces-address-placeholder": "주소를 입력하기",
     "suite-page-organization-settings-spaces-code": "태그",
-    "suite-page-organization-settings-spaces-code-description": "The unique workspace tag by which your workspace can be found in the app.",
+    "suite-page-organization-settings-spaces-code-description": "Anyone who knows the tag can find and join your workspace.",
     "suite-page-organization-settings-spaces-code-placeholder": "태그를 입력하기",
     "suite-page-organization-settings-spaces-contact-to-support": "변경하려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-settings-spaces-currency": "화폐 단위",

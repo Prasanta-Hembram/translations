@@ -4,7 +4,7 @@
     "suite-page-organization-settings-spaces-address": "Адрес",
     "suite-page-organization-settings-spaces-address-placeholder": "Ввести адрес",
     "suite-page-organization-settings-spaces-code": "Тег",
-    "suite-page-organization-settings-spaces-code-description": "Уникальный тег, с которым можно найти ваш коворкинг в приложении.",
+    "suite-page-organization-settings-spaces-code-description": "Anyone who knows the tag can find and join your workspace.",
     "suite-page-organization-settings-spaces-code-placeholder": "Ввести тег",
     "suite-page-organization-settings-spaces-contact-to-support": "Чтобы его изменить, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-spaces-currency": "Валюта",
