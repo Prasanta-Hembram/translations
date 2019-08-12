@@ -15,6 +15,7 @@
     "suite-modal-organization-bookings-booking-edit-memo": "Нотатка",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Додати нотатку (видно власнику й адміну)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Засіб",
+    "suite-modal-organization-bookings-booking-edit-price": "Ціна, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Назва",
     "suite-modal-organization-bookings-booking-edit-purpose-placeholder": "Додати назву (видно всім учасникам)",
     "suite-modal-organization-bookings-booking-edit-section-payment": "Оплата",

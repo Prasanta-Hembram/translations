@@ -15,6 +15,7 @@
     "suite-modal-organization-bookings-booking-edit-memo": "Notiz",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Notiz verfassen (nur für den Buchenden und Admin sichtbar)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Methode",
+    "suite-modal-organization-bookings-booking-edit-price": "Preis, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Titel",
     "suite-modal-organization-bookings-booking-edit-purpose-placeholder": "Titel eingeben (öffentlich)",
     "suite-modal-organization-bookings-booking-edit-section-payment": "Zahlung",
