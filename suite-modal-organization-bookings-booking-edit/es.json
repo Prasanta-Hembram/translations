@@ -11,6 +11,7 @@
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Por favor, introduzca un título de su reserva.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Por favor, introduzca una fecha correcta.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Por favor, introduzca una hora correcta.",
+    "suite-modal-organization-bookings-booking-edit-estimated-price": "Estimated price: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Fecha de inicio",
     "suite-modal-organization-bookings-booking-edit-memo": "Nota",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Añadir nota (visible solo para booker y admin)",
@@ -21,6 +22,8 @@
     "suite-modal-organization-bookings-booking-edit-section-payment": "Pago",
     "suite-modal-organization-bookings-booking-edit-section-people": "Personas",
     "suite-modal-organization-bookings-booking-edit-section-time": "Hora",
-    "suite-modal-organization-bookings-booking-edit-start-time": "Inicio"
+    "suite-modal-organization-bookings-booking-edit-start-time": "Inicio",
+    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "You will pay {price} extra.",
+    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "You will get {price} refund."
   }
 }

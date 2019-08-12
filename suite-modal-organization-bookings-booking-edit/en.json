@@ -11,6 +11,7 @@
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Type the booking title.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Type a correct date.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Type a correct time.",
+    "suite-modal-organization-bookings-booking-edit-estimated-price": "Estimated price: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Start date",
     "suite-modal-organization-bookings-booking-edit-memo": "Memo",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Type a memo (visible only to booker and admin)",
@@ -21,6 +22,8 @@
     "suite-modal-organization-bookings-booking-edit-section-payment": "Payment",
     "suite-modal-organization-bookings-booking-edit-section-people": "People",
     "suite-modal-organization-bookings-booking-edit-section-time": "Time",
-    "suite-modal-organization-bookings-booking-edit-start-time": "Starting"
+    "suite-modal-organization-bookings-booking-edit-start-time": "Starting",
+    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "You will pay {price} extra.",
+    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "You will get {price} refund."
   }
 }

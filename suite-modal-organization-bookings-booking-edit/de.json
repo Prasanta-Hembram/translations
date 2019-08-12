@@ -11,6 +11,7 @@
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Buchungstitel eingeben.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Korrektes Datum eingeben.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Korrekte Uhrzeit eingeben.",
+    "suite-modal-organization-bookings-booking-edit-estimated-price": "Estimated price: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Startdatum",
     "suite-modal-organization-bookings-booking-edit-memo": "Notiz",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Notiz verfassen (nur für den Buchenden und Admin sichtbar)",
@@ -21,6 +22,8 @@
     "suite-modal-organization-bookings-booking-edit-section-payment": "Zahlung",
     "suite-modal-organization-bookings-booking-edit-section-people": "Personen",
     "suite-modal-organization-bookings-booking-edit-section-time": "Uhrzeit",
-    "suite-modal-organization-bookings-booking-edit-start-time": "Beginnt"
+    "suite-modal-organization-bookings-booking-edit-start-time": "Beginnt",
+    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "You will pay {price} extra.",
+    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "You will get {price} refund."
   }
 }
