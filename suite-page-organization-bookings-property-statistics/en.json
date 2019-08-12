@@ -1,11 +1,12 @@
 {
   "data": {
-    "suite-page-organization-property-statistics-title": "General statistics",
+    "suite-page-organization-property-statistics-title": "Statistics",
     "suite-page-organization-property-statistics-booking-hours": "Booking hours",
     "suite-page-organization-property-statistics-bookings-times": "Booking times",
     "suite-page-organization-property-statistics-end-date-title": "End",
     "suite-page-organization-property-statistics-error-end-date": "Select correct end date.",
     "suite-page-organization-property-statistics-error-start-date": "Select correct start date.",
+    "suite-page-organization-property-statistics-general-title": "General statistics",
     "suite-page-organization-property-statistics-internet-error-chart": "Couldn't show a chart. Are you sure there is an internet connection?",
     "suite-page-organization-property-statistics-popularity-hour": "Popularity by hour, hr",
     "suite-page-organization-property-statistics-popularity-week": "Popularity by week day",
@@ -16,7 +17,7 @@
     "suite-page-organization-property-statistics-popularity-week-thu": "Thu",
     "suite-page-organization-property-statistics-popularity-week-tue": "Tue",
     "suite-page-organization-property-statistics-popularity-week-wed": "Wed",
-    "suite-page-organization-property-statistics-property-title": "Statistics: {propertyName}",
+    "suite-page-organization-property-statistics-property-name-title": "Room",
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Utilization",
     "suite-page-organization-property-statistics-validation-error-chart": "Unable to show a chart. Check input dates.",
