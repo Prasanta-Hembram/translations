@@ -7,7 +7,7 @@
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Cash ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Credits ({balance})",
     "suite-modal-organization-bookings-booking-edit-booked-by": "Booker",
-    "suite-modal-organization-bookings-booking-edit-end-time": "Ending",
+    "suite-modal-organization-bookings-booking-edit-end-time": "Ends",
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Type the booking title.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Type a correct date.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Type a correct time.",
@@ -20,6 +20,6 @@
     "suite-modal-organization-bookings-booking-edit-section-payment": "Payment",
     "suite-modal-organization-bookings-booking-edit-section-people": "People",
     "suite-modal-organization-bookings-booking-edit-section-time": "Time",
-    "suite-modal-organization-bookings-booking-edit-start-time": "Starting"
+    "suite-modal-organization-bookings-booking-edit-start-time": "Starts"
   }
 }
