@@ -8,7 +8,6 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Кредити команди ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредити {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
-    "suite-page-organization-bookings-booking-details-booked-by": "Власник",
     "suite-page-organization-bookings-booking-details-default-purpose": "Резервація",
     "suite-page-organization-bookings-booking-details-delete-failure": "Не вдалось видалити резервацію.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Спробуй ще раз",
