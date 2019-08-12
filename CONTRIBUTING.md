@@ -118,8 +118,8 @@ Use verbs that precisely describe the button’s action. For example, `Cancel`, 
 
 | DE   | EN        | ES       | UK           | RU           | KO   |
 | ---- | --------- | -------- | ------------ | ------------ | ---- |
-| Einstellungen | Settings  | Settings | Налаштування | Настройки    | 설정 |
-| Workspace | Workspace | Espacio  | Коворкінг    | Коворкинг    | 공간 |
+| Einstellungen | Settings  | Configuraciones | Налаштування | Настройки    | 설정 |
+| Workspace | Workspace | Espacio | Коворкінг    | Коворкинг    | 공간 |
 | Buchung | Booking   | Reserva  | Резервація   | Бронирование | 예약 |
 | Raum | Room      | Sala     | Кімната      | Переговорная | 회의실 |
 
