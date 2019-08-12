@@ -1,11 +1,12 @@
 {
   "data": {
-    "suite-page-organization-property-statistics-title": "Allgemeine Statistiken",
+    "suite-page-organization-property-statistics-title": "Statistiken",
     "suite-page-organization-property-statistics-booking-hours": "Buchungszeiten",
     "suite-page-organization-property-statistics-bookings-times": "Buchungsstunden",
     "suite-page-organization-property-statistics-end-date-title": "Ende",
     "suite-page-organization-property-statistics-error-end-date": "Korrektes Enddatum auswählen.",
     "suite-page-organization-property-statistics-error-start-date": "Korrektes Startdatum auswählen.",
+    "suite-page-organization-property-statistics-general-title": "Allgemeine Statistiken",
     "suite-page-organization-property-statistics-internet-error-chart": "Konnte kein Diagramm anzeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-property-statistics-popularity-hour": "Beliebtheit nach Uhrzeit",
     "suite-page-organization-property-statistics-popularity-week": "Beliebtheit nach Wochentag",
@@ -16,7 +17,6 @@
     "suite-page-organization-property-statistics-popularity-week-thu": "Do.",
     "suite-page-organization-property-statistics-popularity-week-tue": "Di.",
     "suite-page-organization-property-statistics-popularity-week-wed": "Mi.",
-    "suite-page-organization-property-statistics-property-title": "Statistiken: {propertyName}",
     "suite-page-organization-property-statistics-start-date-title": "Start",
     "suite-page-organization-property-statistics-utilization-title": "Nutzung",
     "suite-page-organization-property-statistics-validation-error-chart": "Diagramm kann nicht angezeigt werden. Eingabedaten prüfen.",
