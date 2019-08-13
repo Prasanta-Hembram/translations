@@ -7,6 +7,6 @@
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "결제 수단",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "결제 사항",
     "suite-page-organization-directory-team-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다.",
-    "suite-page-organization-directory-team-invoice-main-no-invoices": "팀 멤버가 '팀 인보이스' 결제 수단을 사용하면 청구 항목이 표시됩니다."
+    "suite-page-organization-directory-team-invoice-main-no-invoices": "팀 멤버가 '팀인보이스' 결제 수단을 사용하면 청구 항목이 표시됩니다."
   }
 }
