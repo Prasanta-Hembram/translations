@@ -6,7 +6,7 @@
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type":  "결제 수단",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "결제 사항",
     "suite-page-organization-membership-team-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다.",
-    "suite-page-organization-membership-team-invoice-main-no-invoices": "청구 항목은 팀 멤버가 '팀 인보이스' 결제 수단을 사용하면 표시됩니다.",
+    "suite-page-organization-membership-team-invoice-main-no-invoices": "청구 항목은 팀 멤버가 '팀인보이스' 결제 수단을 사용하면 표시됩니다.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "뒤로",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "인터넷 연결을 확인하고 다시 시도하세요.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-title": "결제 실패",
