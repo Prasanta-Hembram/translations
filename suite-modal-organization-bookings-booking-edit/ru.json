@@ -11,7 +11,7 @@
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Введите название бронирования.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Введите правильную дату.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Введите правильное время.",
-    "suite-modal-organization-bookings-booking-edit-estimated-price": "Estimated price: {currency}",
+    "suite-modal-organization-bookings-booking-edit-estimated-price": "Ориентировочная цена: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Дата начала",
     "suite-modal-organization-bookings-booking-edit-memo": "Заметка",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Введите заметку (конфиденциально)",
@@ -23,7 +23,7 @@
     "suite-modal-organization-bookings-booking-edit-section-people": "Люди",
     "suite-modal-organization-bookings-booking-edit-section-time": "Время",
     "suite-modal-organization-bookings-booking-edit-start-time": "Начало",
-    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "You will pay {price} extra.",
-    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "You will get {price} refund."
+    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "Вы заплатите на {price} больше.",
+    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "Вы получите {price} возмещения."
   }
 }
