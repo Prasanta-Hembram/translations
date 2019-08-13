@@ -4,6 +4,7 @@
     "suite-page-organization-settings-spaces-address": "Address",
     "suite-page-organization-settings-spaces-address-placeholder": "Type an address",
     "suite-page-organization-settings-spaces-code": "Tag",
+    "suite-page-organization-settings-spaces-code-description": "Anyone who knows the tag can find and join your workspace.",
     "suite-page-organization-settings-spaces-code-placeholder": "Type a tag",
     "suite-page-organization-settings-spaces-contact-to-support": "To change it contact support@andcards.com.",
     "suite-page-organization-settings-spaces-currency": "Currency",

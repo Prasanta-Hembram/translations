@@ -8,18 +8,13 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Team Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "{teamName} Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Delete",
-    "suite-page-organization-bookings-booking-details-default-purpose": "Reservation",
+    "suite-page-organization-bookings-booking-details-default-purpose": "Booking",
     "suite-page-organization-bookings-booking-details-delete-failure": "Failed to delete booking.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Try again",
     "suite-page-organization-bookings-booking-details-empty": "This booking may not exist or may have been removed.",
-    "suite-page-organization-bookings-booking-details-end-time": "Ending",
-    "suite-page-organization-bookings-booking-details-memo": "Memo",
     "suite-page-organization-bookings-booking-details-payed-with": "Method",
-    "suite-page-organization-bookings-booking-details-purpose": "Title",
     "suite-page-organization-bookings-booking-details-section-payment": "Payment",
     "suite-page-organization-bookings-booking-details-section-people": "People",
-    "suite-page-organization-bookings-booking-details-section-time": "Time",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Link to booking",
-    "suite-page-organization-bookings-booking-details-start-time": "Starting"
+    "suite-page-organization-bookings-booking-details-share-link-title": "Link to booking"
   }
 }

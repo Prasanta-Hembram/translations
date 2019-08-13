@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-directory-team-invoice-main-finalize-no": "취소",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "네, 확정하기",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-text": "이 인보이스를 확정하시겠습니까? 확정하면 되돌릴 수 없습니다.",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-title": "인보이스 확정"
+    "alert-confirmation-organization-directory-team-invoice-main-finalize-text": "이 청구 내역을 확정하시겠습니까? 확정하면 되돌릴 수 없습니다.",
+    "alert-confirmation-organization-directory-team-invoice-main-finalize-title": "청구 내역 확정"
   }
 }

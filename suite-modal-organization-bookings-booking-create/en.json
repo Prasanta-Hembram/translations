@@ -12,7 +12,7 @@
     "suite-modal-organization-bookings-booking-create-book-for-cash": "Book for {price}",
     "suite-modal-organization-bookings-booking-create-book-for-free": "Book for free",
     "suite-modal-organization-bookings-booking-create-book-for-points": "Book for {balance}",
-    "suite-modal-organization-bookings-booking-create-end-time": "Ending",
+    "suite-modal-organization-bookings-booking-create-end-time": "Ends",
     "suite-modal-organization-bookings-booking-create-error-booking-purpose-empty": "Type the booking title.",
     "suite-modal-organization-bookings-booking-create-free": "Free",
     "suite-modal-organization-bookings-booking-create-memo": "Memo",
@@ -43,6 +43,6 @@
     "suite-modal-organization-bookings-booking-create-section-people-capacity": "This room can fit up to {numberOfSeats} people.",
     "suite-modal-organization-bookings-booking-create-section-time": "Time",
     "suite-modal-organization-bookings-booking-create-start-date": "Date",
-    "suite-modal-organization-bookings-booking-create-start-time": "Starting"
+    "suite-modal-organization-bookings-booking-create-start-time": "Starts"
   }
 }

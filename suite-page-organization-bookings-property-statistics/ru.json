@@ -1,11 +1,12 @@
 {
   "data": {
-    "suite-page-organization-property-statistics-title": "Общая статистика",
+    "suite-page-organization-property-statistics-title": "Статистика",
     "suite-page-organization-property-statistics-booking-hours": "Количество часов",
     "suite-page-organization-property-statistics-bookings-times": "Количество резерваций",
     "suite-page-organization-property-statistics-end-date-title": "Конец",
     "suite-page-organization-property-statistics-error-end-date": "Укажите правильную конечную дату.",
     "suite-page-organization-property-statistics-error-start-date": "Укажите правильную начальную дату.",
+    "suite-page-organization-property-statistics-general-title": "Общая статистика",
     "suite-page-organization-property-statistics-internet-error-chart": "Невозможно отобразить диаграмму. Проверьте, пожалуйста, интернет соединение.",
     "suite-page-organization-property-statistics-popularity-hour": "Популярность по часам, часов",
     "suite-page-organization-property-statistics-popularity-week": "Популярность по дням",
@@ -16,7 +17,7 @@
     "suite-page-organization-property-statistics-popularity-week-thu": "Чт",
     "suite-page-organization-property-statistics-popularity-week-tue": "Вт",
     "suite-page-organization-property-statistics-popularity-week-wed": "Ср",
-    "suite-page-organization-property-statistics-property-title": "Статистика: {propertyName}",
+    "suite-page-organization-property-statistics-property-name-title": "Комната",
     "suite-page-organization-property-statistics-start-date-title": "Начало",
     "suite-page-organization-property-statistics-utilization-title": "Заполненность",
     "suite-page-organization-property-statistics-validation-error-chart": "Невозможно отобразить диаграмму. Проверьте, пожалуйста, правильно ли введена дата.",
