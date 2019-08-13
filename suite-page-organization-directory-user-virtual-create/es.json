@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-page-organization-directory-user-virtual-create-about-section": "Acerca de ti",
+    "suite-page-organization-directory-user-virtual-create-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
     "suite-page-organization-directory-user-virtual-create-error-email": "Por favor, introduzca un correo electrónico correcto.",
     "suite-page-organization-directory-user-virtual-create-error-first-name": "Por favor ingrese un nombre",
     "suite-page-organization-directory-user-virtual-create-error-last-name": "Por favor ingrese un apellido",

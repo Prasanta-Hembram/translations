@@ -5,7 +5,7 @@
     "suite-page-profile-info-error-first-name": "Введите имя.",
     "suite-page-profile-info-log-out": "Выйти из системы",
     "suite-page-profile-info-photo-delete": "Удалить фото",
-    "suite-page-profile-info-section-bio": "О себе",
-    "suite-page-profile-info-section-bio-placeholder": "Рассказать о себе"
+    "suite-page-profile-info-section-about": "О себе",
+    "suite-page-profile-info-section-about-placeholder": "Рассказать о себе"
   }
 }
