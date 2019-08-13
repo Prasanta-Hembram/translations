@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-modal-organization-transaction-booking-details-end-date": "Ending",
-    "suite-modal-organization-transaction-booking-details-start-date": "Starting",
+    "suite-modal-organization-transaction-booking-details-end-date": "Ends",
+    "suite-modal-organization-transaction-booking-details-start-date": "Starts",
     "suite-modal-organization-transaction-booking-details-property-name": "Room",
     "suite-modal-organization-transaction-booking-details-title": "Booking Details",
     "suite-modal-organization-transaction-date-label": "Date",
