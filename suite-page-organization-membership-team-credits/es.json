@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-credits-title": "Créditos del equipo",
+    "suite-page-organization-membership-team-credits-description": "Use {pointEmoji} to book meeting rooms. To obtain more {pointEmoji}, get a plan or ask administrator.",
     "suite-page-organization-membership-team-credits-error-credit-system-off": "El espacio de trabajo no utiliza un sistema de crédito.",
     "suite-page-organization-membership-team-credits-error-no-team": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} expira el {date}.",

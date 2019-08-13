@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-credits-title": "Кредити команди",
+    "suite-page-organization-membership-team-credits-description": "Use {pointEmoji} to book meeting rooms. To obtain more {pointEmoji}, get a plan or ask administrator.",
     "suite-page-organization-membership-team-credits-error-credit-system-off": "Коворкінг не використовує кредитну систему.",
     "suite-page-organization-membership-team-credits-error-no-team": "Ця команда не існує або ж була видалена.",
     "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} стікають {date}.",
