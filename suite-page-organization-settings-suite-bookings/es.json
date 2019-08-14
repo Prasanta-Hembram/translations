@@ -30,6 +30,8 @@
     "suite-page-organization-settings-suite-bookings-point-label": "Sistema de crédito",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Porcentaje de créditos que los miembros de una sucursal pueden gastar en otras sucursales de una red. Póngase en contacto con support@andcards.com para cambiarlo.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Asignación de red",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-availability": "Meeting room button will have a color fill: green means available now, yellow — available soon, and red — unavailable.",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-image": "Meeting room button will display a large photo.",
     "suite-page-organization-settings-suite-bookings-property-button-style-label": "Estilo de botón",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-availability": "Color de disponibilidad",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-image": "Foto de la sala"
