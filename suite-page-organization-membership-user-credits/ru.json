@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-user-credits-title": "Кредиты личные",
+    "suite-page-organization-membership-user-credits-description": "Используйте {pointEmoji} чтобы бронировать переговорные. Чтобы получить больше {pointEmoji}, приобретите план или обратитесь к администратору.",
     "suite-page-organization-membership-user-credits-error-credit-system-off": "Кредитная система в коворкинге отключена.",
     "suite-page-organization-membership-user-credits-error-user-not-found": "Участника не существует или же он был удален.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} истекают {date}.",

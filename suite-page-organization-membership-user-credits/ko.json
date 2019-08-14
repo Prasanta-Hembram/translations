@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-user-credits-title": "개인 크레딧",
+    "suite-page-organization-membership-user-credits-description": "회의실을 예약하는데 {pointEmoji}를 사용하세요. 더 많은 {pointEmoji}를 얻으려면, 플랜을 구하거나 관리자에게 문의하세요.",
     "suite-page-organization-membership-user-credits-error-credit-system-off": "이 공간은 크레딧 시스템을 사용하지 않습니다.",
     "suite-page-organization-membership-user-credits-error-user-not-found": "회원이 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring}은 {date}에 만료됩니다.",

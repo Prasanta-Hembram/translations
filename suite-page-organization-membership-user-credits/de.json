@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-user-credits-title": "Persönliche Credits",
+    "suite-page-organization-membership-user-credits-description": "Verwenden Sie {pointEmoji}, um Meetingräume zu buchen. Um mehr {pointEmoji} zu erhalten, besorgen Sie sich eine Mitgliedschaft oder fragen Sie den Administrator.",
     "suite-page-organization-membership-user-credits-error-credit-system-off": "Das Credit-System des Workspace ist deaktiviert.",
     "suite-page-organization-membership-user-credits-error-user-not-found": "Dieser Benutzer ist möglicherweise nicht vorhanden oder wurde entfernt.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} verfallen am {date}.",

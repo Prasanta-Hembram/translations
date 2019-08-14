@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-user-credits-title": "Creditos personales",
+    "suite-page-organization-membership-user-credits-description": "Utilice {pointEmoji} para reservar salas de reuniones. Para obtener más {pointEmoji}, obtenga un plan o pregunte al administrador.",
     "suite-page-organization-membership-user-credits-error-credit-system-off": "El sistema de crédito del área de trabajo está deshabilitado.",
     "suite-page-organization-membership-user-credits-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} expira el {date}.",
