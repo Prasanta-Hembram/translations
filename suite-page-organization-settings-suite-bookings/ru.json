@@ -30,8 +30,8 @@
     "suite-page-organization-settings-suite-bookings-point-label": "Кредитная система",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Количество кредитов, которое участники одного коворкинга могут использовать в сети коворкингов. Чтобы изменить лимит, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Использование в сети",
-    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-availability": "Meeting room button will have a color fill: green means available now, yellow — available soon, and red — unavailable.",
-    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-image": "Meeting room button will display a large photo.",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-availability": "Кнопка переговорной будет заполнена цветом: зелёный значит доступно сейчас, жёлтый - доступно скоро, красный - недоступно.",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-image": "Кнопка переговорной будет отображаться фотографией.",
     "suite-page-organization-settings-suite-bookings-property-button-style-label": "Стиль кнопки",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-availability": "Цвет доступности",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-image": "Фотография комнаты"
