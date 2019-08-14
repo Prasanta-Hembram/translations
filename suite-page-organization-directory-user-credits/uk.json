@@ -3,6 +3,7 @@
     "suite-page-organization-directory-user-credits-button-charge-title": "Списати",
     "suite-page-organization-directory-user-credits-button-give-title": "Нарахувати",
     "suite-page-organization-directory-user-credits-error-credit-system-off": "Кредитна система в коворкінгу відключена.",
+    "suite-page-organization-directory-user-credits-error-user-not-found": "Учасник не існує або ж був видалений.",
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-directory-user-credits-expiring-title": "Тимчасові кредити",
     "suite-page-organization-directory-user-credits-permanent-title": "Кредити",

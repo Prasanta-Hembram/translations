@@ -5,7 +5,7 @@
     "suite-page-profile-info-error-first-name": "이름을 입력하세요.",
     "suite-page-profile-info-log-out": "로그아웃",
     "suite-page-profile-info-photo-delete": "사진 삭제",
-    "suite-page-profile-info-section-bio": "자기소개",
-    "suite-page-profile-info-section-bio-placeholder": "자기소개를 입력하기"
+    "suite-page-profile-info-section-about": "자기소개",
+    "suite-page-profile-info-section-about-placeholder": "자기소개를 입력하기"
   }
 }

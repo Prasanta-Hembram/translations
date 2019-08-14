@@ -8,19 +8,13 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Кредити команди ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредити {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
-    "suite-page-organization-bookings-booking-details-booked-by": "Власник",
     "suite-page-organization-bookings-booking-details-default-purpose": "Резервація",
     "suite-page-organization-bookings-booking-details-delete-failure": "Не вдалось видалити резервацію.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Спробуй ще раз",
     "suite-page-organization-bookings-booking-details-empty": "Ця резервація не існує або була видалена.",
-    "suite-page-organization-bookings-booking-details-end-time": "Кінець",
-    "suite-page-organization-bookings-booking-details-memo": "Нотатка",
     "suite-page-organization-bookings-booking-details-payed-with": "Засіб",
-    "suite-page-organization-bookings-booking-details-purpose": "Назва",
     "suite-page-organization-bookings-booking-details-section-payment": "Оплата",
     "suite-page-organization-bookings-booking-details-section-people": "Люди",
-    "suite-page-organization-bookings-booking-details-section-time": "Час",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Посилання на резервацію",
-    "suite-page-organization-bookings-booking-details-start-time": "Початок"
+    "suite-page-organization-bookings-booking-details-share-link-title": "Посилання на резервацію"
   }
 }

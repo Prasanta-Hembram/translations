@@ -8,19 +8,13 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Team-Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "{teamName} Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Löschen",
-    "suite-page-organization-bookings-booking-details-booked-by": "Buchender",
     "suite-page-organization-bookings-booking-details-default-purpose": "Reservierung",
     "suite-page-organization-bookings-booking-details-delete-failure": "Buchung konnte nicht gelöscht werden.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Erneut versuchen",
     "suite-page-organization-bookings-booking-details-empty": "Diese Buchung ist möglicherweise nicht vorhanden oder wurde entfernt.",
-    "suite-page-organization-bookings-booking-details-end-time": "Endet",
-    "suite-page-organization-bookings-booking-details-memo": "Notiz",
     "suite-page-organization-bookings-booking-details-payed-with": "Methode",
-    "suite-page-organization-bookings-booking-details-purpose": "Titel",
     "suite-page-organization-bookings-booking-details-section-payment": "Zahlung",
     "suite-page-organization-bookings-booking-details-section-people": "Personen",
-    "suite-page-organization-bookings-booking-details-section-time": "Uhrzeit",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Buchungslink",
-    "suite-page-organization-bookings-booking-details-start-time": "Beginnt"
+    "suite-page-organization-bookings-booking-details-share-link-title": "Buchungslink"
   }
 }

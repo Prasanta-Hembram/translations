@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-page-organization-directory-user-virtual-create-about-section": "О себе",
+    "suite-page-organization-directory-user-virtual-create-about-placeholder": "Рассказать о себе",
     "suite-page-organization-directory-user-virtual-create-error-email": "Пожалуйста, введите правильный email.",
     "suite-page-organization-directory-user-virtual-create-error-first-name": "Пожалуйста, введите имя.",
     "suite-page-organization-directory-user-virtual-create-error-last-name": "Пожалуйста, введите фамилию.",

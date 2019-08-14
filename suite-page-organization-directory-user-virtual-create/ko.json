@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-page-organization-directory-user-virtual-create-about-section": "자기소개",
+    "suite-page-organization-directory-user-virtual-create-about-placeholder": "자기소개를 입력하기",
     "suite-page-organization-directory-user-virtual-create-error-email": "이메일을 입력하기.",
     "suite-page-organization-directory-user-virtual-create-error-first-name": "이름 입력하기.",
     "suite-page-organization-directory-user-virtual-create-error-last-name": "성 입력하기.",

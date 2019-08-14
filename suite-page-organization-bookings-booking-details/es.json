@@ -8,19 +8,13 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Créditos del equipo ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Créditos del {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Borrar",
-    "suite-page-organization-bookings-booking-details-booked-by": "Booker",
-    "suite-page-organization-bookings-booking-details-default-purpose": "Reservación",
+    "suite-page-organization-bookings-booking-details-default-purpose": "Reserva",
     "suite-page-organization-bookings-booking-details-delete-failure": "Error al eliminar la reserva.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-bookings-booking-details-empty": "Esta reserva puede no existir o puede haber sido eliminada.",
-    "suite-page-organization-bookings-booking-details-end-time": "Finalización",
-    "suite-page-organization-bookings-booking-details-memo": "Nota",
     "suite-page-organization-bookings-booking-details-payed-with": "Pagado con",
-    "suite-page-organization-bookings-booking-details-purpose": "Título",
     "suite-page-organization-bookings-booking-details-section-payment": "Pago",
     "suite-page-organization-bookings-booking-details-section-people": "Gente",
-    "suite-page-organization-bookings-booking-details-section-time": "Hora",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Enlace a la reserva",
-    "suite-page-organization-bookings-booking-details-start-time": "Inicio"
+    "suite-page-organization-bookings-booking-details-share-link-title": "Enlace a la reserva"
   }
 }

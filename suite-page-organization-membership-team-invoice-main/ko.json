@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoice-main-download-pdf": "PDF 다운받기",
-    "suite-page-organization-membership-team-invoice-main-get-failure": "인보이스 아이템을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organization-membership-team-invoice-main-invoice-date": "인보이스 날짜",
+    "suite-page-organization-membership-team-invoice-main-get-failure": "청구 항목을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-membership-team-invoice-main-invoice-date": "청구 일자",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type":  "결제 수단",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "결제 사항",
-    "suite-page-organization-membership-team-invoice-main-not-found": "해당 인보이스는 찾을 수 없거나 삭제되었습니다.",
-    "suite-page-organization-membership-team-invoice-main-no-invoices": "인보이스 아이템은 팀 멤버가 인보이스 결제 방법을 사용하면 표시됩니다.",
+    "suite-page-organization-membership-team-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다.",
+    "suite-page-organization-membership-team-invoice-main-no-invoices": "청구 항목은 팀 멤버가 '팀인보이스' 결제 수단을 사용하면 표시됩니다.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "뒤로",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "인터넷 연결을 확인하고 다시 시도하세요.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-title": "결제 실패",
     "suite-page-organization-membership-team-invoice-main-payment-success-button-done": "확인",
-    "suite-page-organization-membership-team-invoice-main-payment-success-text": "인보이스 결제가 완료되었습니다. 감사합니다!",
+    "suite-page-organization-membership-team-invoice-main-payment-success-text": "결제가 완료되었습니다. 감사합니다!",
     "suite-page-organization-membership-team-invoice-main-payment-success-title": "결제 성공",
     "suite-page-organization-membership-team-invoice-main-section-payment": "결제",
     "suite-page-organization-membership-team-invoice-main-section-payment-button": "계속하기"
