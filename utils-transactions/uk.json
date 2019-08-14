@@ -2,6 +2,7 @@
   "data": {
     "suite-utils-transactions-default-transaction": "Транзакція",
     "suite-utils-transactions-money-transaction-book-by-card": "Резервація кімнати (картка)",
+    "suite-utils-transactions-money-transaction-book-by-card-with-name": "Резервація {propertyName} (картка)",
     "suite-utils-transactions-money-transaction-book-by-cash": "Резервація кімнати (готівка)",
     "suite-utils-transactions-money-transaction-book-by-cash-with-name": "{name} зарезервував(ла) кімнату {propertyName} за готівку",
     "suite-utils-transactions-money-transaction-book-refund-cash": "Скасування резервації кімнати (готівка)",
@@ -21,6 +22,7 @@
     "suite-utils-transactions-money-transaction-status-unpaid": "Неоплачено",
     "suite-utils-transactions-point-transaction-book-by-points": "Резервація кімнати (кредити)",
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "{name} зарезервував(ла) кімнату {propertyName} за кредити",
+    "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "Резервація {propertyName} за кредити",
     "suite-utils-transactions-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Списано кредити адміністратором/модератором",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списано кредити ({name})",
