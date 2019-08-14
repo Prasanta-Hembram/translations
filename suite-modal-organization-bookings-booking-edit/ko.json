@@ -11,6 +11,7 @@
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "예약 제목을 입력해 주세요.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "정확한 날짜를 입력해 주세요.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "정확한 시간을 입력해 주세요.",
+    "suite-modal-organization-bookings-booking-edit-estimated-price": "예상 금액 : {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "시작일",
     "suite-modal-organization-bookings-booking-edit-memo": "메모",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "메모 입력하기 (예약자와 관리자만 확인 가능)",
@@ -21,6 +22,8 @@
     "suite-modal-organization-bookings-booking-edit-section-payment": "결제",
     "suite-modal-organization-bookings-booking-edit-section-people": "예약자",
     "suite-modal-organization-bookings-booking-edit-section-time": "시간",
-    "suite-modal-organization-bookings-booking-edit-start-time": "시작"
+    "suite-modal-organization-bookings-booking-edit-start-time": "시작",
+    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "{price} 더 내셔야 합니다.",
+    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "{price} 환불해 드립니다."
   }
 }

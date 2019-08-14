@@ -11,6 +11,7 @@
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Уведіть назву резервації.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Уведіть правильну дату.",
     "suite-modal-organization-bookings-booking-edit-error-time-invalid": "Уведіть правильний час.",
+    "suite-modal-organization-bookings-booking-edit-estimated-price": "Орієнтована ціна: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Дата",
     "suite-modal-organization-bookings-booking-edit-memo": "Нотатка",
     "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Додати нотатку (видно власнику й адміну)",
@@ -21,6 +22,8 @@
     "suite-modal-organization-bookings-booking-edit-section-payment": "Оплата",
     "suite-modal-organization-bookings-booking-edit-section-people": "Люди",
     "suite-modal-organization-bookings-booking-edit-section-time": "Час",
-    "suite-modal-organization-bookings-booking-edit-start-time": "Початок"
+    "suite-modal-organization-bookings-booking-edit-start-time": "Початок",
+    "suite-modal-organization-bookings-booking-edit-user-pay-more-notice": "Ви заплатите на {price} більше.",
+    "suite-modal-organization-bookings-booking-edit-user-refund-notice": "Ви отримаєте {price} відшкодування."
   }
 }
