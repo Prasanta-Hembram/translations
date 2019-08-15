@@ -10,7 +10,6 @@
     "suite-modal-organization-membership-plan-create-plan-title-placeholder": "플랜 명 입력하기",
     "suite-modal-organization-membership-plan-create-price": "가격, {currencySymbol}",
     "suite-modal-organization-membership-plan-create-pricing-title": "가격 정책",
-    "suite-modal-organization-membership-plan-create-quantity": "판매 수",
-    "suite-modal-organization-membership-plan-create-type": "유형"
+    "suite-modal-organization-membership-plan-create-quantity": "판매 수"
   }
 }

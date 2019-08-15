@@ -43,9 +43,6 @@
     "utils-plans-repeat-two-day": "2 days",
     "utils-plans-repeat-two-month": "2 months",
     "utils-plans-repeat-two-week": "2 weeks",
-    "utils-plans-title-fixed-desk": "Fixed Desk",
-    "utils-plans-title-hot-desk": "Hot Desk",
-    "utils-plans-title-pass": "Pass",
-    "utils-plans-title-private-office": "Private Office"
+    "utils-plans-title-empty": "Plan"
   }
 }

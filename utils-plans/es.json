@@ -43,9 +43,6 @@
     "utils-plans-repeat-two-day": "2 días",
     "utils-plans-repeat-two-month": "2 meses",
     "utils-plans-repeat-two-week": "2 semanas",
-    "utils-plans-title-fixed-desk": "Escritorio Fijo",
-    "utils-plans-title-hot-desk": "Escritorio Flex",
-    "utils-plans-title-pass": "Pase",
-    "utils-plans-title-private-office": "Oficina Privada"
+    "utils-plans-title-empty": "Plan"
   }
 }

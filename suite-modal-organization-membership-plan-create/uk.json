@@ -10,7 +10,6 @@
     "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Уведіть назву плану",
     "suite-modal-organization-membership-plan-create-price": "Ціна, {currencySymbol}",
     "suite-modal-organization-membership-plan-create-pricing-title": "Плани",
-    "suite-modal-organization-membership-plan-create-quantity": "Кількість",
-    "suite-modal-organization-membership-plan-create-type": "Тип"
+    "suite-modal-organization-membership-plan-create-quantity": "Кількість"
   }
 }

@@ -10,7 +10,6 @@
     "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Type a name",
     "suite-modal-organization-membership-plan-create-price": "Price, {currencySymbol}",
     "suite-modal-organization-membership-plan-create-pricing-title": "Pricing",
-    "suite-modal-organization-membership-plan-create-quantity": "Quantity",
-    "suite-modal-organization-membership-plan-create-type": "Type"
+    "suite-modal-organization-membership-plan-create-quantity": "Quantity"
   }
 }

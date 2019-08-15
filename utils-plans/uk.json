@@ -43,9 +43,6 @@
     "utils-plans-repeat-two-day": "2 дні",
     "utils-plans-repeat-two-month": "2 місяці",
     "utils-plans-repeat-two-week": "2 тижні",
-    "utils-plans-title-fixed-desk": "Фіксоване місце",
-    "utils-plans-title-hot-desk": "Нефіксоване місце",
-    "utils-plans-title-pass": "Квиток на вхід",
-    "utils-plans-title-private-office": "Приватний офіс"
+    "utils-plans-title-empty": "Plan"
   }
 }

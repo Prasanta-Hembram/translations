@@ -43,9 +43,6 @@
     "utils-plans-repeat-two-day": "2 дня",
     "utils-plans-repeat-two-month": "2 месяца",
     "utils-plans-repeat-two-week": "2 недели",
-    "utils-plans-title-fixed-desk": "Закрепленное место",
-    "utils-plans-title-hot-desk": "Незакрепленное место",
-    "utils-plans-title-pass": "Входной билет",
-    "utils-plans-title-private-office": "Отдельный офис"
+    "utils-plans-title-empty": "Plan"
   }
 }
