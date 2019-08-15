@@ -3,6 +3,6 @@
     "alert-confirmation-feed-post-delete-title": "Delete post",
     "alert-confirmation-feed-post-delete-no": "Cancel",
     "alert-confirmation-feed-post-delete-text": "Are you sure you want to delete this post? This action is irreversible.",
-    "alert-confirmation-feed-post-delete-yes": "Yes, delete"
+    "alert-confirmation-feed-post-delete-yes": "Delete"
   }
 }

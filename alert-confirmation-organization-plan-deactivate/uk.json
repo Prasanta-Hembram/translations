@@ -3,6 +3,6 @@
     "alert-confirmation-organization-plan-deactivate-title": "Деактивувати",
     "alert-confirmation-organization-plan-deactivate-no": "Відмінити",
     "alert-confirmation-organization-plan-deactivate-text": "Ви впевнені, що хочете деактивувати план? Усі привілеї, які надає вам план, включаючи кредити, будуть втрачені. Ця дія незворотна і НЕ ВІДШКОДОВУЄТЬСЯ",
-    "alert-confirmation-organization-plan-deactivate-yes": "Так, деактивувати"
+    "alert-confirmation-organization-plan-deactivate-yes": "Деактивувати"
   }
 }

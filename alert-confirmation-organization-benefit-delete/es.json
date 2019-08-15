@@ -3,6 +3,6 @@
     "alert-confirmation-organization-benefit-delete-title": "Eliminar beneficio",
     "alert-confirmation-organization-benefit-delete-no": "Cancelar",
     "alert-confirmation-organization-benefit-delete-text": "¿Está seguro de que desea eliminar este beneficio? Esta acción es irreversible.",
-    "alert-confirmation-organization-benefit-delete-yes": "Sí, eliminar"
+    "alert-confirmation-organization-benefit-delete-yes": "Eliminar"
   }
 }

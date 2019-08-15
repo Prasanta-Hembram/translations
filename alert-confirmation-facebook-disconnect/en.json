@@ -3,6 +3,6 @@
     "alert-confirmation-facebook-disconnect-title": "Disconnect Facebook Account",
     "alert-confirmation-facebook-disconnect-no": "Cancel",
     "alert-confirmation-facebook-disconnect-text": "If you proceed, you won't be able to login with Facebook anymore.",
-    "alert-confirmation-facebook-disconnect-yes": "Yes, disconnect"
+    "alert-confirmation-facebook-disconnect-yes": "Disconnect"
   }
 }

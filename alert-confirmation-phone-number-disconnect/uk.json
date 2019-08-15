@@ -3,6 +3,6 @@
     "alert-confirmation-phone-number-disconnect-title": "Від'єднати номер телефону",
     "alert-confirmation-phone-number-disconnect-no": "Скасувати",
     "alert-confirmation-phone-number-disconnect-text": "Якщо ви продовжите, то більше не зможете логуватися за допомоги номеру телефону.",
-    "alert-confirmation-phone-number-disconnect-yes": "Так, від'єднати"
+    "alert-confirmation-phone-number-disconnect-yes": "Від'єднати"
   }
 }

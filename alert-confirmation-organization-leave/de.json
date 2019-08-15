@@ -3,6 +3,6 @@
     "alert-confirmation-organization-leave-title": "Workspace verlassen",
     "alert-confirmation-organization-leave-no": "Abbrechen",
     "alert-confirmation-organization-leave-text": "Sind Sie sicher, dass Sie den Workspace verlassen möchten? Wenn Sie fortfahren, verlieren Sie alle Daten, die mit diesem Workspace in Verbindung stehen. Diese Aktion ist unwiderruflich.",
-    "alert-confirmation-organization-leave-yes": "Ja, verlassen"
+    "alert-confirmation-organization-leave-yes": "Verlassen"
   }
 }

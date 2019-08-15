@@ -3,6 +3,6 @@
     "alert-confirmation-organization-leave-title": "이 조직 나가기",
     "alert-confirmation-organization-leave-no": "돌아가기",
     "alert-confirmation-organization-leave-text": "이 조직을 나가시겠습니까? 탈퇴하시면 조직에대한 모든 데이터가 삭제되며, 되돌릴 수 없습니다.",
-    "alert-confirmation-organization-leave-yes": "네, 나가기"
+    "alert-confirmation-organization-leave-yes": "나가기"
   }
 }

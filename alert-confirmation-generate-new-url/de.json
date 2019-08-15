@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-generate-new-url-title": "Einen neuen Link erstellen",
+    "alert-confirmation-generate-new-url-title": "New url",
     "alert-confirmation-generate-new-url-no": "Abbrechen",
     "alert-confirmation-generate-new-url-text": "Sind Sie sicher, dass Sie einen neuen Link erstellen möchten? Wenn Sie fortfahren, funktioniert der vorherige Link nicht mehr.",
-    "alert-confirmation-generate-new-url-yes": "Ja, erstellen"
+    "alert-confirmation-generate-new-url-yes": "Erstellen"
   }
 }

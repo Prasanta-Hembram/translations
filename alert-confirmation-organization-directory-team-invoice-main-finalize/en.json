@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-directory-team-invoice-main-finalize-no": "Cancel",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Yes, finalize",
+    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Finalize",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-text": "Are you sure you want to finalize invoice? This action is irreversible.",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-title": "Finalize Invoice"
   }

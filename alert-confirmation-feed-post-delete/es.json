@@ -3,6 +3,6 @@
     "alert-confirmation-feed-post-delete-title": "Eliminar publicación",
     "alert-confirmation-feed-post-delete-no": "Cancelar",
     "alert-confirmation-feed-post-delete-text": "¿Seguro que quieres eliminar este publicación? Esta acción es irreversible.",
-    "alert-confirmation-feed-post-delete-yes": "Sí, eliminar"
+    "alert-confirmation-feed-post-delete-yes": "Eliminar"
   }
 }

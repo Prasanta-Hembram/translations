@@ -3,6 +3,6 @@
     "alert-confirmation-phone-number-disconnect-title": "Desconectar el número de teléfono",
     "alert-confirmation-phone-number-disconnect-no": "Cancelar",
     "alert-confirmation-phone-number-disconnect-text": "Si continúa, ya no podrá iniciar sesión con el número de teléfono.",
-    "alert-confirmation-phone-number-disconnect-yes": "Sí, desconectar"
+    "alert-confirmation-phone-number-disconnect-yes": "Desconectar"
   }
 }

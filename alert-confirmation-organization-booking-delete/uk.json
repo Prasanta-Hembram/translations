@@ -4,6 +4,6 @@
     "alert-confirmation-organization-booking-delete-by-card-text": "Ви впевнені, що хочете видалити цю резервацію? Кошти відшкодовуються вручну адміністратором, якщо можливо. Ця дія незворотна.",
     "alert-confirmation-organization-booking-delete-no": "Скасувати",
     "alert-confirmation-organization-booking-delete-text": "Ви впевнені, що хочете видалити цю резервацію? Ця дія незворотна.",
-    "alert-confirmation-organization-booking-delete-yes": "Так, видалити"
+    "alert-confirmation-organization-booking-delete-yes": "Видалити"
   }
 }

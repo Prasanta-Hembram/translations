@@ -3,6 +3,6 @@
     "alert-confirmation-organization-plan-delete-title": "Eliminar un Plan",
     "alert-confirmation-organization-plan-delete-no": "Cancelar",
     "alert-confirmation-organization-plan-delete-text": "¿Está seguro de que quiere eliminar este plan? Esta acción es irreversible.",
-    "alert-confirmation-organization-plan-delete-yes": "Si, eliminar"
+    "alert-confirmation-organization-plan-delete-yes": "Eliminar"
   }
 }
