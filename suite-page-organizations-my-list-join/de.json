@@ -4,6 +4,6 @@
     "suite-page-organizations-my-list-join-action-button-requested": "Beantragt",
     "suite-page-organizations-my-list-join-button-already-joined": "Sie sind bereits beigetreten",
     "suite-page-organizations-my-list-join-button-request": "Antrag auf Beitritt",
-    "suite-page-organizations-my-list-join-error-not-found":  "The organization is missing or was deleted."
+    "suite-page-organizations-my-list-join-error-not-found":  "The workspace is missing or was deleted."
   }
 }
