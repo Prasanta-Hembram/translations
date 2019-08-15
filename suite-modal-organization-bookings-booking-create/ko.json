@@ -40,7 +40,6 @@
     "suite-modal-organization-bookings-booking-create-role-moderator": "중간관리자",
     "suite-modal-organization-bookings-booking-create-section-payment": "결제",
     "suite-modal-organization-bookings-booking-create-section-people": "예약자",
-    "suite-modal-organization-bookings-booking-create-section-people-capacity": "이 회의실은 최대 {numberOfSeats}명 수용가능합니다.",
     "suite-modal-organization-bookings-booking-create-section-time": "시간",
     "suite-modal-organization-bookings-booking-create-start-date": "시작일",
     "suite-modal-organization-bookings-booking-create-start-time": "시작"
