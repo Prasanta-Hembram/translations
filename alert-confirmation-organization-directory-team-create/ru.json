@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-directory-team-create-no": "Отменить",
     "alert-confirmation-organization-directory-team-create-yes": "Добавить",
-    "alert-confirmation-organization-directory-team-create-message": "Enter a name for new team",
-    "alert-confirmation-organization-directory-team-create-title": "New team"
+    "alert-confirmation-organization-directory-team-create-message": "Введите название новой команды",
+    "alert-confirmation-organization-directory-team-create-title": "Новая команда"
   }
 }
