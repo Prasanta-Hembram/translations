@@ -30,7 +30,9 @@
     "suite-page-organization-settings-suite-bookings-point-label": "Credit-System",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Prozentsatz der Credits, die Mitglieder einer Abteilung in anderen Abteilungen eines Netzwerks ausgeben können. Um es zu ändern, wenden Sie sich bitte an support@andcards.com.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Netzwerkzulage",
-    "suite-page-organization-settings-suite-bookings-property-button-style-label": "Knopf-Stil",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-availability": "Der Button für den Besprechungsraum hat eine Farbfüllung: Grün bedeutet jetzt verfügbar, Gelb - bald verfügbar und Rot - nicht verfügbar.",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-image": "Der Button für den Besprechungsraum zeigt ein großes Foto an.",
+    "suite-page-organization-settings-suite-bookings-property-button-style-label": "Button-Stil",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-availability": "Verfügbarkeitsfarbe",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-image": "Raumfoto"
   }

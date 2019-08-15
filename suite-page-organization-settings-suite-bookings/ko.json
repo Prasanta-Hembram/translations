@@ -30,6 +30,8 @@
     "suite-page-organization-settings-suite-bookings-point-label": "크레딧 예약체계",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "회원이 타지점의 회의실물을 예약할 때 사용할 수 있는 크레딧의 비율을 선택해 주세요. 비율을 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "외부 크레딧 비율",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-availability": "회의실 버튼에 회의실 이용 여부를 표시됩니다 : 초록 (예약 가능), 노랑 (곧 예약 가능), 빨강 (예약 불가).",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-image": "회의실 버튼에 회의실 사진을 표시됩니다.",
     "suite-page-organization-settings-suite-bookings-property-button-style-label": "버튼 스타일",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-availability": "사용성 표시 색상",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-image": "회의실 사진"

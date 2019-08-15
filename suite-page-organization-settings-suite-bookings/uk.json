@@ -30,6 +30,8 @@
     "suite-page-organization-settings-suite-bookings-point-label": "Кредитна система",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Кількість кредитів, яку учасники одного коворкінгу можуть використовувати в мережі коворкінгів. Щоб змінити ліміт кредитів, зв'яжіться з support@andcards.com.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Використання в мережі",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-availability": "Кнопка кімнати буде заповнена кольором: зелений означає доступно зараз, жовтий - доступно згодом, червоний - недоступно.",
+    "suite-page-organization-settings-suite-bookings-property-button-style-desc-option-image": "Кнопка кімнати буде у вигляді фотографії.",
     "suite-page-organization-settings-suite-bookings-property-button-style-label": "Стиль кнопки",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-availability": "Колір доступності",
     "suite-page-organization-settings-suite-bookings-property-button-style-option-image": "Фото кімнати"
