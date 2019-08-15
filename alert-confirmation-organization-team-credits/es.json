@@ -2,11 +2,11 @@
   "data": {
     "alert-confirmation-organization-team-credits-charge-message": "Ingrese la cantidad de créditos para cobrar al equipo.",
     "alert-confirmation-organization-team-credits-charge-no": "Cancelar",
-    "alert-confirmation-organization-team-credits-charge-title": "Amount of credit coins",
+    "alert-confirmation-organization-team-credits-charge-title": "Amount of credits",
     "alert-confirmation-organization-team-credits-charge-yes": "Cargar",
     "alert-confirmation-organization-team-credits-give-message": "Ingrese la cantidad de créditos que le dará al equipo.",
     "alert-confirmation-organization-team-credits-give-no": "Cancelar",
-    "alert-confirmation-organization-team-credits-give-title": "Amount of credit coins",
+    "alert-confirmation-organization-team-credits-give-title": "Amount of credits",
     "alert-confirmation-organization-team-credits-give-yes": "Dar"
   }
 }
