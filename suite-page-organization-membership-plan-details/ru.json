@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-page-organization-membership-plan-details-title": "План",
-    "suite-page-organization-membership-plan-details-delete-failure": "Не удалось удалить тариф.",
-    "suite-page-organization-membership-plan-details-delete-plan": "Удалить тариф",
+    "suite-page-organization-membership-plan-details-delete-failure": "Не удалось удалить план.",
+    "suite-page-organization-membership-plan-details-delete-plan": "Удалить план",
     "suite-page-organization-membership-plan-details-delete-repeat": "Попробовать еще раз",
     "suite-page-organization-membership-plan-details-description": "Описание",
     "suite-page-organization-membership-plan-details-empty": "Этого плана не существует, или же он был удален.",
