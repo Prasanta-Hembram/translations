@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organizations-my-list-join-main-title": "About Branch",
+    "suite-page-organizations-my-list-join-main-title": "지점 정보",
     "suite-page-organizations-my-list-join-action-button-requested": "가입 요청 됨",
     "suite-page-organizations-my-list-join-button-already-joined": "이미 가입된 공간입니다",
     "suite-page-organizations-my-list-join-button-request": "가입 요청",
-    "suite-page-organizations-my-list-join-error-not-found":  "The organization is missing or was deleted."
+    "suite-page-organizations-my-list-join-error-not-found":  "지점이 없거나 삭제되었습니다."
   }
 }
