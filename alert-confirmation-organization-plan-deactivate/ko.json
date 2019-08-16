@@ -3,6 +3,6 @@
     "alert-confirmation-organization-plan-deactivate-title": "멤버십 해지",
     "alert-confirmation-organization-plan-deactivate-no": "취소",
     "alert-confirmation-organization-plan-deactivate-text": "멤버십을 해지하시겠습니까? 해지할 경우, 크레딧을 포함한 전체 멤버십 혜택을 잃게됩니다. 해지 후에는 취소 및 환불이 불가능합니다.",
-    "alert-confirmation-organization-plan-deactivate-yes": "네, 해지합니다"
+    "alert-confirmation-organization-plan-deactivate-yes": "해지하기"
   }
 }

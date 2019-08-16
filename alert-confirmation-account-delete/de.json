@@ -3,6 +3,6 @@
     "alert-confirmation-account-delete-title": "Konto löschen",
     "alert-confirmation-account-delete-no": "Abbrechen",
     "alert-confirmation-account-delete-text": "Wenn Sie fortfahren, gehen alle Ihre Daten verloren. Die Löschung des Kontos ist unwiderruflich. Wir werden nicht in der Lage sein, Ihre Daten wiederherzustellen.",
-    "alert-confirmation-account-delete-yes": "Ja, löschen"
+    "alert-confirmation-account-delete-yes": "Löschen"
   }
 }

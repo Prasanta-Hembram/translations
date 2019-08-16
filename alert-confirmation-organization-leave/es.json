@@ -3,6 +3,6 @@
     "alert-confirmation-organization-leave-title": "Salir de la organización",
     "alert-confirmation-organization-leave-no": "Cancelar",
     "alert-confirmation-organization-leave-text": "¿Está seguro que desea dejar esta espacio de trabajo? Si continúa, perderá todos los datos relacionados con esta organización. Esta acción es irreversible.",
-    "alert-confirmation-organization-leave-yes": "Si, salir"
+    "alert-confirmation-organization-leave-yes": "Salir"
   }
 }

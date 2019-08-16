@@ -3,6 +3,6 @@
     "alert-confirmation-organization-team-delete-title": "Team löschen",
     "alert-confirmation-organization-team-delete-no": "Abbrechen",
     "alert-confirmation-organization-team-delete-text": "Sind Sie sicher, dass Sie dieses Team löschen wollen? Diese Aktion ist unwiderruflich.",
-    "alert-confirmation-organization-team-delete-yes": "Ja, löschen"
+    "alert-confirmation-organization-team-delete-yes": "Löschen"
   }
 }

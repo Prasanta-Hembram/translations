@@ -3,6 +3,6 @@
     "alert-confirmation-google-disconnect-title": "Desconectar cuenta de Google",
     "alert-confirmation-google-disconnect-no": "Cancelar",
     "alert-confirmation-google-disconnect-text": "Si continúa, ya no podrá iniciar sesión en Google.",
-    "alert-confirmation-google-disconnect-yes": "Sí, desconectar"
+    "alert-confirmation-google-disconnect-yes": "Desconectar"
   }
 }

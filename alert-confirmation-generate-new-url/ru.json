@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-generate-new-url-title": "Сгенерировать новую ссылку",
+    "alert-confirmation-generate-new-url-title": "Новая ссылка",
     "alert-confirmation-generate-new-url-no": "Отменить",
     "alert-confirmation-generate-new-url-text": "Уверены? Если вы сгенерируете новую ссылку, старая больше не будет работать.",
-    "alert-confirmation-generate-new-url-yes": "Да, сгенерировать"
+    "alert-confirmation-generate-new-url-yes": "Сгенерировать"
   }
 }

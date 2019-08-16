@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-directory-team-invoice-main-finalize-no": "Cancelar",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Si, finalizar",
+    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Finalizar",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-text": "¿Estás seguro de que quieres finalizar la factura? Esta acción es irreversible.",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-title": "Finalizar factura"
   }

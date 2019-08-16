@@ -3,6 +3,6 @@
     "alert-confirmation-organization-user-delete-title": "Benutzer löschen",
     "alert-confirmation-organization-user-delete-no": "Abbrechen",
     "alert-confirmation-organization-user-delete-text": "Sind Sie sicher, dass Sie diesen Benutzer aus dem Workspace löschen möchten? Diese Aktion ist unwiderruflich.",
-    "alert-confirmation-organization-user-delete-yes": "Ja, löschen"
+    "alert-confirmation-organization-user-delete-yes": "Löschen"
   }
 }

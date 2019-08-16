@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-generate-new-url-title": "Genera un nuevo enlace",
+    "alert-confirmation-generate-new-url-title": "Nuevo enlace",
     "alert-confirmation-generate-new-url-no": "Cancelar",
     "alert-confirmation-generate-new-url-text": "¿Estás seguro de que quieres generar un nuevo enlace? Si continúa, el enlace anterior ya no funcionará.",
-    "alert-confirmation-generate-new-url-yes": "Sí, generar"
+    "alert-confirmation-generate-new-url-yes": "Generar"
   }
 }

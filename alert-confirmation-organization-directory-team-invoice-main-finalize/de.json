@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-directory-team-invoice-main-finalize-no": "Abbrechen",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Ja, abschließen",
+    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Abschließen",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-text": "Sind Sie sicher, dass Sie die Rechnung abschließen möchten? Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-directory-team-invoice-main-finalize-title": "Rechnung abschließen"
   }

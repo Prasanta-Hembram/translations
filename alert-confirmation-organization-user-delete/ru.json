@@ -3,6 +3,6 @@
     "alert-confirmation-organization-user-delete-title": "Удалить участника",
     "alert-confirmation-organization-user-delete-no": "Отменить",
     "alert-confirmation-organization-user-delete-text": "Вы действительно хотите удалить этого участника? Это действие необратимо.",
-    "alert-confirmation-organization-user-delete-yes": "Да, удалить"
+    "alert-confirmation-organization-user-delete-yes": "Удалить"
   }
 }

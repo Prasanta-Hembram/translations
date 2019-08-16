@@ -3,6 +3,6 @@
     "alert-confirmation-legal-consent-withdraw-title": "Отозвать согласие",
     "alert-confirmation-legal-consent-withdraw-no": "Отменить",
     "alert-confirmation-legal-consent-withdraw-text": "Вы действительно хочетите отозвать свое согласие на эту политику? Эта политика необходима для работы с сервисами andcards. Если вы продолжите, вы не сможете продолжать использовать andcards, и ВСЕ ВАШИ ДАННЫЕ БУДУТ УДАЛЕНЫ ПОЛНОСТЬЮ И НЕОБРАТИМО.",
-    "alert-confirmation-legal-consent-withdraw-yes": "Да, удалить"
+    "alert-confirmation-legal-consent-withdraw-yes": "Удалить"
   }
 }

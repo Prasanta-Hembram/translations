@@ -3,6 +3,6 @@
     "alert-confirmation-facebook-disconnect-title": "Отсоединить Facebook",
     "alert-confirmation-facebook-disconnect-no": "Отменить",
     "alert-confirmation-facebook-disconnect-text": "Если вы продолжите, то больше не сможете входить с помощью Facebook.",
-    "alert-confirmation-facebook-disconnect-yes": "Да, отсоединить"
+    "alert-confirmation-facebook-disconnect-yes": "Отсоединить"
   }
 }

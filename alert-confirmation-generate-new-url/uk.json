@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-generate-new-url-title": "Згенерувати нове посилання",
+    "alert-confirmation-generate-new-url-title": "Нове посилання",
     "alert-confirmation-generate-new-url-no": "Скасувати",
     "alert-confirmation-generate-new-url-text": "Упевнені? Якщо ви згенеруєте нове посилання, старе перестане діяти.",
-    "alert-confirmation-generate-new-url-yes": "Так, згенерувати"
+    "alert-confirmation-generate-new-url-yes": "Згенерувати"
   }
 }

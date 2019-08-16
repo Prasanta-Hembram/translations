@@ -3,6 +3,6 @@
     "alert-confirmation-organization-benefit-delete-title": "Удалить сервис",
     "alert-confirmation-organization-benefit-delete-no": "Отменить",
     "alert-confirmation-organization-benefit-delete-text": "Вы действительно хотите удалить этот сервис? Это действие необратимо.",
-    "alert-confirmation-organization-benefit-delete-yes": "Да, удалить"
+    "alert-confirmation-organization-benefit-delete-yes": "Удалить"
   }
 }
