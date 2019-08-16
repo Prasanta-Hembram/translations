@@ -40,7 +40,6 @@
     "suite-modal-organization-bookings-booking-create-role-moderator": "Moderador",
     "suite-modal-organization-bookings-booking-create-section-payment": "Pago",
     "suite-modal-organization-bookings-booking-create-section-people": "People",
-    "suite-modal-organization-bookings-booking-create-section-people-capacity": "Esta sala puede acomodar hasta {numberOfSeats} personas.",
     "suite-modal-organization-bookings-booking-create-section-time": "Hora",
     "suite-modal-organization-bookings-booking-create-start-date": "Fecha",
     "suite-modal-organization-bookings-booking-create-start-time": "Inicio"
