@@ -40,7 +40,6 @@
     "suite-modal-organization-bookings-booking-create-role-moderator": "Модератор",
     "suite-modal-organization-bookings-booking-create-section-payment": "Оплата",
     "suite-modal-organization-bookings-booking-create-section-people": "Люди",
-    "suite-modal-organization-bookings-booking-create-section-people-capacity": "Максимальное количество мест: {numberOfSeats}.",
     "suite-modal-organization-bookings-booking-create-section-time": "Время",
     "suite-modal-organization-bookings-booking-create-start-date": "Дата",
     "suite-modal-organization-bookings-booking-create-start-time": "Начало"
