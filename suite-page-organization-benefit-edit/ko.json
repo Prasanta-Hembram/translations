@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-edit-error-email-provider": "제공자 이메일을 입력하세요.",
     "suite-page-organization-benefit-edit-get-failure": "베네핏을 볼 수 없습니다. 인터넷 연결을 확인 후 다시 시도해주세요.",
     "suite-page-organization-benefit-edit-error-title": "제목을 입력하기",
+    "suite-page-organization-benefit-edit-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-edit-is-private-label": "지점 제한",
     "suite-page-organization-benefit-edit-image-delete": "사진 삭제하기",
     "suite-page-organization-benefit-edit-link-provider-label": "링크",

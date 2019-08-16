@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-create-error-email-provider": "Уведіть email провайдера.",
     "suite-page-organization-benefit-create-error-title": "Уведіть назву.",
     "suite-page-organization-benefit-create-image-delete": "Видалити зображення",
+    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-create-is-private-label": "Обмежені відділення",
     "suite-page-organization-benefit-create-link-provider-label": "Посилання",
     "suite-page-organization-benefit-create-link-provider-placeholder": "Увести посилання",

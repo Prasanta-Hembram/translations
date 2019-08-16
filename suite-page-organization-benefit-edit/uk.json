@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-edit-error-email-provider": "Уведіть email провайдера.",
     "suite-page-organization-benefit-edit-get-failure": "Неможливо відобразити сервіси. Перевірте інтернет-з'єднання.",
     "suite-page-organization-benefit-edit-error-title": "Уведіть назву.",
+    "suite-page-organization-benefit-edit-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-edit-is-private-label": "Обмежені відділення",
     "suite-page-organization-benefit-edit-image-delete": "Видалити зображення",
     "suite-page-organization-benefit-edit-link-provider-label": "Посилання",

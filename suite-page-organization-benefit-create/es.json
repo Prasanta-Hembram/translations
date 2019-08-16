@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-create-error-email-provider": "Escribe un correo electrónico del proveedor.",
     "suite-page-organization-benefit-create-error-title": "Por favor, introduce un título.",
     "suite-page-organization-benefit-create-image-delete": "Borrar imagen",
+    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-create-is-private-label": "Sucursales limitadas",
     "suite-page-organization-benefit-create-link-provider-label": "Enlace",
     "suite-page-organization-benefit-create-link-provider-placeholder": "Ingresar enlace",

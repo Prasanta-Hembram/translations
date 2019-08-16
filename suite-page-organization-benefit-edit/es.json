@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-edit-error-email-provider": "Escribe un correo electrónico del proveedor.",
     "suite-page-organization-benefit-edit-error-title": "Por favor, introduce un título.",
     "suite-page-organization-benefit-edit-get-failure": "No se pudo mostrar beneficio. Revisa tu conexión de internet y vuelve a intentarlo.",
+    "suite-page-organization-benefit-edit-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-edit-is-private-label": "Sucursales limitadas",
     "suite-page-organization-benefit-edit-image-delete": "Borrar imagen",
     "suite-page-organization-benefit-edit-link-provider-label": "Enlace",
