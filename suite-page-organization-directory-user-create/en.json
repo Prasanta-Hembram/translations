@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-create-about-section": "About",
+    "suite-page-organization-directory-user-create-about-placeholder": "Type something",
+    "suite-page-organization-directory-user-create-error-email": "Type a correct email.",
+    "suite-page-organization-directory-user-create-error-first-name": "Type a first name.",
+    "suite-page-organization-directory-user-create-error-last-name": "Type a last name.",
+    "suite-page-organization-directory-user-create-error-organization": "Type an organization.",
+    "suite-page-organization-directory-user-create-error-phone-number": "Type a phone number.",
+    "suite-page-organization-directory-user-create-error-title": "Type a title.",
+    "suite-page-organization-directory-user-create-title": "Create User"
+  }
+}
