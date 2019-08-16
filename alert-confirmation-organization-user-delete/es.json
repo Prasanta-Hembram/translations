@@ -3,6 +3,6 @@
     "alert-confirmation-organization-user-delete-title": "Eliminar usuario",
     "alert-confirmation-organization-user-delete-no": "Cancelar",
     "alert-confirmation-organization-user-delete-text": "¿Seguro que quieres eliminar a este usuario del espacio de trabajo? Esta acción es irreversible.",
-    "alert-confirmation-organization-user-delete-yes": "Sí, eliminar"
+    "alert-confirmation-organization-user-delete-yes": "Eliminar"
   }
 }

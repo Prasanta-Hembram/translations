@@ -3,6 +3,6 @@
     "alert-confirmation-organization-plan-delete-title": "Удалить план",
     "alert-confirmation-organization-plan-delete-no": "Отменить",
     "alert-confirmation-organization-plan-delete-text": "Вы действительно хотите удалить этот план? Это действие необратимо.",
-    "alert-confirmation-organization-plan-delete-yes": "Да, удалить"
+    "alert-confirmation-organization-plan-delete-yes": "Удалить"
   }
 }

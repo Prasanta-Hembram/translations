@@ -3,6 +3,6 @@
     "alert-confirmation-organization-plan-deactivate-title": "Деактивировать",
     "alert-confirmation-organization-plan-deactivate-no": "Отменить",
     "alert-confirmation-organization-plan-deactivate-text": "Вы уверены, что хотите деактивировать план? Все привилегии членства, в том числе кредиты, будут утеряны. Это действие необратимо и не предусматривает возврата средств.",
-    "alert-confirmation-organization-plan-deactivate-yes": "Да, деактивировать"
+    "alert-confirmation-organization-plan-deactivate-yes": "Деактивировать"
   }
 }

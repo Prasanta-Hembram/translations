@@ -3,6 +3,6 @@
     "alert-confirmation-organization-user-delete-title": "Delete User",
     "alert-confirmation-organization-user-delete-no": "Cancel",
     "alert-confirmation-organization-user-delete-text": "Are you sure you want to delete this user from workspace? This action is irreversible.",
-    "alert-confirmation-organization-user-delete-yes": "Yes, delete"
+    "alert-confirmation-organization-user-delete-yes": "Delete"
   }
 }

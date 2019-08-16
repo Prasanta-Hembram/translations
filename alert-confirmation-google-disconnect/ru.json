@@ -3,6 +3,6 @@
     "alert-confirmation-google-disconnect-title": "Отсоединить Google",
     "alert-confirmation-google-disconnect-no": "Отменить",
     "alert-confirmation-google-disconnect-text": "Если вы продолжите, то больше не сможете входить с помощью Google.",
-    "alert-confirmation-google-disconnect-yes": "Да, отсоединить"
+    "alert-confirmation-google-disconnect-yes": "Отсоединить"
   }
 }

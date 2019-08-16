@@ -3,6 +3,6 @@
     "alert-confirmation-account-delete-title": "Delete account",
     "alert-confirmation-account-delete-no": "Cancel",
     "alert-confirmation-account-delete-text": "If you proceed, all your data will be lost. Account deletion is irreversible. We will not be able to restore your information.",
-    "alert-confirmation-account-delete-yes": "Yes, delete"
+    "alert-confirmation-account-delete-yes": "Delete"
   }
 }

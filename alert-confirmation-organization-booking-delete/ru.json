@@ -4,6 +4,6 @@
     "alert-confirmation-organization-booking-delete-by-card-text": "Вы действительно хотите удалить это бронирование? Возврат средств производится вручную администратором, если допустимо. Это действие необратимо.",
     "alert-confirmation-organization-booking-delete-no": "Отменить",
     "alert-confirmation-organization-booking-delete-text": "Вы действительно хотите удалить это бронирование? Это действие необратимо.",
-    "alert-confirmation-organization-booking-delete-yes": "Да, удалить"
+    "alert-confirmation-organization-booking-delete-yes": "Удалить"
   }
 }

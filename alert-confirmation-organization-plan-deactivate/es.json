@@ -3,6 +3,6 @@
     "alert-confirmation-organization-plan-deactivate-title": "Desactivar",
     "alert-confirmation-organization-plan-deactivate-no": "Cancelar",
     "alert-confirmation-organization-plan-deactivate-text": "¿Estás seguro de que quieres desactivar el plan activo? Se perderán todos los privilegios de membresía, incluidos los créditos. Esta acción es irreversible y NO REEMBOLSABLE",
-    "alert-confirmation-organization-plan-deactivate-yes": "Sí, desactivar"
+    "alert-confirmation-organization-plan-deactivate-yes": "Desactivar"
   }
 }

@@ -3,6 +3,6 @@
     "alert-confirmation-organization-team-delete-title": "Удалить команду",
     "alert-confirmation-organization-team-delete-no": "Отменить",
     "alert-confirmation-organization-team-delete-text": "Вы действительно хотите удалить эту команду? Это действие необратимо.",
-    "alert-confirmation-organization-team-delete-yes": "Да, удалить"
+    "alert-confirmation-organization-team-delete-yes": "Удалить"
   }
 }

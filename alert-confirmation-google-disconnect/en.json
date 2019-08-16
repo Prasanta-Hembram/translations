@@ -3,6 +3,6 @@
     "alert-confirmation-google-disconnect-title": "Disconnect Google Account",
     "alert-confirmation-google-disconnect-no": "Cancel",
     "alert-confirmation-google-disconnect-text": "If you proceed, you won't be able to login with Google anymore.",
-    "alert-confirmation-google-disconnect-yes": "Yes, disconnect"
+    "alert-confirmation-google-disconnect-yes": "Disconnect"
   }
 }
