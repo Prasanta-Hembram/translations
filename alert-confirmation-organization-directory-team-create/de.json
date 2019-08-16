@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-directory-team-create-no": "Abbrechen",
     "alert-confirmation-organization-directory-team-create-yes": "Erstellen",
-    "alert-confirmation-organization-directory-team-create-message": "Enter a name for new team",
-    "alert-confirmation-organization-directory-team-create-title": "New team"
+    "alert-confirmation-organization-directory-team-create-message": "Geben Sie einen Namen für ein neues Team ein",
+    "alert-confirmation-organization-directory-team-create-title": "Neues Team"
   }
 }

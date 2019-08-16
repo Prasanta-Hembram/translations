@@ -1,6 +1,6 @@
 {
   "data": {
-    "alert-confirmation-generate-new-url-title": "New url",
+    "alert-confirmation-generate-new-url-title": "New Url",
     "alert-confirmation-generate-new-url-no": "Cancel",
     "alert-confirmation-generate-new-url-text": "Are you sure you want to generate a new link? If you proceed, previous link won't work anymore.",
     "alert-confirmation-generate-new-url-yes": "Generate"
