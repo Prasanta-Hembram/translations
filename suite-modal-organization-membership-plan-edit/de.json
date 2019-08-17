@@ -11,7 +11,6 @@
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Namen eingeben",
     "suite-modal-organization-membership-plan-edit-price": "Preis, {currencySymbol}",
     "suite-modal-organization-membership-plan-edit-pricing-title": "Preis",
-    "suite-modal-organization-membership-plan-edit-quantity": "Menge",
-    "suite-modal-organization-membership-plan-edit-type": "Typ"
+    "suite-modal-organization-membership-plan-edit-quantity": "Menge"
   }
 }
