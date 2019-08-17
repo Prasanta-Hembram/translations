@@ -10,7 +10,6 @@
     "suite-modal-organization-directory-team-plan-assign-payment": "Payment",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Start",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Period",
-    "suite-modal-organization-directory-team-plan-assign-plan-description": "Description",
     "suite-modal-organization-directory-team-plan-assign-plan-price-money": "Price, {currencySymbol}",
     "suite-modal-organization-directory-team-plan-assign-plan-price-points": "Credits, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-assign-plan-repeat": "Repeat",

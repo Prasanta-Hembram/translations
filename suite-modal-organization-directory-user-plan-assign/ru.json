@@ -11,7 +11,6 @@
     "suite-modal-organization-directory-user-plan-assign-payment": "Оплата",
     "suite-modal-organization-directory-user-plan-assign-period-from-title": "Начало",
     "suite-modal-organization-directory-user-plan-assign-period-title": "Период",
-    "suite-modal-organization-directory-user-plan-assign-plan-description": "Описание",
     "suite-modal-organization-directory-user-plan-assign-plan-price-money": "Цена, {currencySymbol}",
     "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Кредиты, {pointEmoji}",
     "suite-modal-organization-directory-user-plan-assign-plan-title": "План",
