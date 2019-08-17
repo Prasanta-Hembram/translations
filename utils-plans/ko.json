@@ -43,9 +43,6 @@
     "utils-plans-repeat-two-day": "2일",
     "utils-plans-repeat-two-month": "2달",
     "utils-plans-repeat-two-week": "2주",
-    "utils-plans-title-fixed-desk": "전용 데스크",
-    "utils-plans-title-hot-desk": "핫 데스크",
-    "utils-plans-title-pass": "패스",
-    "utils-plans-title-private-office": "사무실"
+    "utils-plans-title-empty": "명이 없음"
   }
 }

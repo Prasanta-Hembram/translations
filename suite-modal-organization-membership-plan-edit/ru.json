@@ -11,7 +11,6 @@
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Введите название",
     "suite-modal-organization-membership-plan-edit-price": "Цена, {currencySymbol}",
     "suite-modal-organization-membership-plan-edit-pricing-title": "Планы",
-    "suite-modal-organization-membership-plan-edit-quantity": "Кол-во",
-    "suite-modal-organization-membership-plan-edit-type": "Тип"
+    "suite-modal-organization-membership-plan-edit-quantity": "Кол-во"
   }
 }

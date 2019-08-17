@@ -11,7 +11,6 @@
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Agregar nombre",
     "suite-modal-organization-membership-plan-edit-price": "Precio, {currencySymbol}",
     "suite-modal-organization-membership-plan-edit-pricing-title": "Precios",
-    "suite-modal-organization-membership-plan-edit-quantity": "Cantidad",
-    "suite-modal-organization-membership-plan-edit-type": "Insertar"
+    "suite-modal-organization-membership-plan-edit-quantity": "Cantidad"
   }
 }
