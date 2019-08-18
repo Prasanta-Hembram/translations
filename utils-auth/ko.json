@@ -4,7 +4,7 @@
     "utils-auth-agree-to-terms": "{termsOfUse} 동의 (필수)",
     "utils-auth-back": "뒤로가기",
     "utils-auth-code": "인증번호",
-    "utils-auth-code-description": "이메일로 받으신 확인 코드를 입력해주세요.",
+    "utils-auth-code-description": "The code was sent to {emailAddress}",
     "utils-auth-code-invalid": "문자로 받으신 임시 코드를 입력해주세요.",
     "utils-auth-country": "국가",
     "utils-auth-email": "이메일",
