@@ -4,7 +4,7 @@
     "utils-auth-agree-to-terms": "Соглашаюсь с {termsOfUse}",
     "utils-auth-back": "Назад",
     "utils-auth-code": "Код подтверждения",
-    "utils-auth-code-description": "Код подтверждения был отправлен на {emailAddress}",
+    "utils-auth-code-description": "Код подтверждения был отправлен на {emailAddress}.",
     "utils-auth-code-invalid": "Введите правильный код подтверждения из текстового сообщения.",
     "utils-auth-country": "Страна",
     "utils-auth-email": "Email",
