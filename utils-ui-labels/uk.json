@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-labels-feed-post-title-user-deleted-name": "Видалити користувача",
-    "utils-labels-feed-post-title-user-name-empty": "Ім'я не вказано",
+    "utils-labels-feed-post-title-user-deleted-name": "Видалений учасник",
+    "utils-labels-feed-post-title-user-name-empty": "Без імені",
     "utils-labels-price-free": "Безкоштовно",
     "utils-labels-seats-plural": "{number} місць(-я)",
     "utils-labels-seats-single": "{number} місце"
