@@ -11,7 +11,6 @@
     "suite-modal-organization-directory-team-plan-assign-payment": "결제",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "시작일",
     "suite-modal-organization-directory-team-plan-assign-period-title": "기간",
-    "suite-modal-organization-directory-team-plan-assign-plan-description": "설명",
     "suite-modal-organization-directory-team-plan-assign-plan-price-money": "가격, {currencySymbol}",
     "suite-modal-organization-directory-team-plan-assign-plan-price-points": "크레딧, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-assign-plan-repeat": "정기구독",
