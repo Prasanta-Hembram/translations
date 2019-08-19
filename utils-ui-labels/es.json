@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-labels-feed-post-title-user-deleted-name": "Deleted user",
-    "utils-labels-feed-post-title-user-name-empty": "No name",
+    "utils-labels-feed-post-title-user-deleted-name": "Usuario eliminado",
+    "utils-labels-feed-post-title-user-name-empty": "Sin nombre",
     "utils-labels-price-free": "Gratis",
     "utils-labels-seats-plural": "{number} asientos",
     "utils-labels-seats-single": "{number} asiento"
