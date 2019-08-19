@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-labels-feed-post-user-deleted-name": "Deleted user",
+    "utils-labels-feed-post-user-name-empty": "No name",
     "utils-labels-price-free": "무료",
     "utils-labels-seats-plural": "{number} 자리",
     "utils-labels-seats-single": "{number} 자리"
