@@ -3,9 +3,9 @@
     "utils-auth-agree-to-privacy": "Погоджуюсь з {privacyPolicy}",
     "utils-auth-agree-to-terms": "Погоджуюсь з {termsOfUse}",
     "utils-auth-back": "Назад",
-    "utils-auth-code": "Код",
-    "utils-auth-code-description": "Код відправлено на ваш email.",
-    "utils-auth-code-invalid": "Уведіть правильний код з текстового повідомлення.",
+    "utils-auth-code": "Код підтвердження",
+    "utils-auth-code-description": "Код підтвердження було відправлено на {emailAddress}.",
+    "utils-auth-code-invalid": "Уведіть правильний код підтвердження з текстового повідомлення.",
     "utils-auth-country": "Країна",
     "utils-auth-email": "Email",
     "utils-auth-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
@@ -18,7 +18,7 @@
     "utils-auth-number": "Номер",
     "utils-auth-number-invalid": "Неможливо ввійти з допомогою номера телефону, він введений невірно або не прив'язаний до жодного акаунту.",
     "utils-auth-phone-number": "Номер телефону",
-    "utils-auth-type-code": "Увести код",
+    "utils-auth-type-code": "Увести код підтвердження",
     "utils-auth-type-email-here": "Увести email",
     "utils-auth-type-phone-number-here": "Увести номер"
   }
