@@ -15,7 +15,7 @@
     "suite-page-organization-benefit-create-error-email-provider": "Geben Sie eine Anbieter-E-Mail ein.",
     "suite-page-organization-benefit-create-error-title": "Geben Sie einen Titel ein.",
     "suite-page-organization-benefit-create-image-delete": "Bild löschen",
-    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the benefit.",
+    "suite-page-organization-benefit-create-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Vorteile zugreifen.",
     "suite-page-organization-benefit-create-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-benefit-create-link-provider-label": "Link",
     "suite-page-organization-benefit-create-link-provider-placeholder": "Link eingeben",
