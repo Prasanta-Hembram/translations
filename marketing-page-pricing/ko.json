@@ -29,6 +29,10 @@
     "marketing-page-pricing-price-notice": "모든 가격 기준: 부가가치세 별도.",
     "marketing-page-pricing-questions-title": "다른 질문이 있나요?",
     "marketing-page-pricing-questions-description": "저희에게 말을 걸어주세요. 24/7 응답 가능하며, 휴일에도 물론 가능합니다.",
-    "marketing-page-pricing-subheadline": "Whether you're a single branch coworking or a multi-branch network, andcards pricing just makes sense. All functions unlimited, starting just $29 per month. We offer a discount on one year plans."
+    "marketing-page-pricing-subheadline": "Whether you're a single branch coworking or a multi-branch network, andcards pricing just makes sense. All functions unlimited, starting just $29 per month. We offer a discount on one year plans.",
+    "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Meeting Room Quantity",
+    "marketing-page-pricing-toolbox-payment-term-title": "Payment Term",
+    "marketing-page-pricing-toolbox-payment-term-montly-title": "Monthly (no commitment)",
+    "marketing-page-pricing-toolbox-payment-term-annual-title": "Annual (10% discount)"
   }
 }

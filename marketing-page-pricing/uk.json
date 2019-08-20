@@ -29,6 +29,10 @@
     "marketing-page-pricing-price-notice": "Усі ціни є орієнтовними та підлягають оподаткуванню у вашій країні.",
     "marketing-page-pricing-questions-title": "Маєте питання?",
     "marketing-page-pricing-questions-description": "Зв'яжіться з нами. Ми доступні 24/7, навіть у вихідні дні.",
-    "marketing-page-pricing-subheadline": "Whether you're a single branch coworking or a multi-branch network, andcards pricing just makes sense. All functions unlimited, starting just $29 per month. We offer a discount on one year plans."
+    "marketing-page-pricing-subheadline": "Whether you're a single branch coworking or a multi-branch network, andcards pricing just makes sense. All functions unlimited, starting just $29 per month. We offer a discount on one year plans.",
+    "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Meeting Room Quantity",
+    "marketing-page-pricing-toolbox-payment-term-title": "Payment Term",
+    "marketing-page-pricing-toolbox-payment-term-montly-title": "Monthly (no commitment)",
+    "marketing-page-pricing-toolbox-payment-term-annual-title": "Annual (10% discount)"
   }
 }
