@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-create-about-section": "자기소개",
+    "suite-page-organization-directory-user-create-about-placeholder": "자기소개를 입력하기",
+    "suite-page-organization-directory-user-create-error-email": "이메일을 입력하기.",
+    "suite-page-organization-directory-user-create-error-first-name": "이름 입력하기.",
+    "suite-page-organization-directory-user-create-error-last-name": "성 입력하기.",
+    "suite-page-organization-directory-user-create-error-organization": "조직 입력하기.",
+    "suite-page-organization-directory-user-create-error-phone-number": "핸드폰 번호 입력하기.",
+    "suite-page-organization-directory-user-create-error-title": "타이틀 입력하기.",
+    "suite-page-organization-directory-user-create-title": "계정 만들기"
+  }
+}

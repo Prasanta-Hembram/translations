@@ -15,6 +15,7 @@
     "suite-page-organization-benefit-create-error-email-provider": "Type a provider email.",
     "suite-page-organization-benefit-create-error-title": "Type a title.",
     "suite-page-organization-benefit-create-image-delete": "Delete Image",
+    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-create-is-private-label": "Limited Branches",
     "suite-page-organization-benefit-create-link-provider-label": "Link",
     "suite-page-organization-benefit-create-link-provider-placeholder": "Type a link",
