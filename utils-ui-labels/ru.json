@@ -1,7 +1,6 @@
 {
   "data": {
     "utils-labels-feed-post-title-user-deleted-name": "Удаленный участник",
-    "utils-labels-feed-post-title-user-name-empty": "Без имени",
     "utils-labels-price-free": "Бесплатно",
     "utils-labels-seats-plural": "{number} мест(-а)",
     "utils-labels-seats-single": "{number} место"
