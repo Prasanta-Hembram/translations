@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-update-title": "Налаштування",
+    "suite-page-organization-directory-user-update-error-about": "Type something about you.",
+    "suite-page-organization-directory-user-update-error-email": "Введіть правильний email.",
+    "suite-page-organization-directory-user-update-error-first-name": "Введіть ім'я.",
+    "suite-page-organization-directory-user-update-error-last-name": "Введіть прізвище.",
+    "suite-page-organization-directory-user-update-error-organization": "Введіть організацію.",
+    "suite-page-organization-directory-user-update-error-phone-number": "Введіть номер телефону.",
+    "suite-page-organization-directory-user-update-error-title": "Введіть посаду.",
+    "suite-page-organization-directory-user-update-error-user-not-found": "Учасник не існує або ж був видалений."
+  }
+}

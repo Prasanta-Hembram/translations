@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-create-error-about": "Type something about you.",
+    "suite-page-organization-directory-user-create-error-email": "Por favor, introduzca un correo electrónico correcto.",
+    "suite-page-organization-directory-user-create-error-first-name": "Por favor ingrese un nombre",
+    "suite-page-organization-directory-user-create-error-last-name": "Por favor ingrese un apellido",
+    "suite-page-organization-directory-user-create-error-organization": "Por favor ingrese una organización.",
+    "suite-page-organization-directory-user-create-error-phone-number": "Por favor, ingrese un número de teléfono.",
+    "suite-page-organization-directory-user-create-error-title": "Por favor, introduzca un título.",
+    "suite-page-organization-directory-user-create-title": "Crear cuenta"
+  }
+}
