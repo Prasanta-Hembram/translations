@@ -16,6 +16,7 @@
     "suite-page-organization-benefit-edit-error-title": "Type a title.",
     "suite-page-organization-benefit-edit-get-failure": "Couldn't show benefit. Check the internet and try again.",
     "suite-page-organization-benefit-edit-image-delete": "Delete Image",
+    "suite-page-organization-benefit-edit-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-edit-is-private-label": "Limited Branches",
     "suite-page-organization-benefit-edit-link-provider-label": "Link",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Type a link",
