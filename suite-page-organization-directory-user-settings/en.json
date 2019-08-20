@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-settings-title": "Settings",
+    "suite-page-organization-directory-user-settings-error-user-not-found": "This user may not exist or may have been removed.",
+    "suite-page-organization-directory-user-settings-role": "Role",
+    "suite-page-organization-directory-user-settings-role-admin": "Administrator",
+    "suite-page-organization-directory-user-settings-role-guest": "Guest",
+    "suite-page-organization-directory-user-settings-role-info-admin": "Administrator can manage all content and change settings of the workspace.",
+    "suite-page-organization-directory-user-settings-role-info-guest": "Guest can view relevant content and teams in the workspace.",
+    "suite-page-organization-directory-user-settings-role-info-member": "Member can view relevant content and teams in the workspace.",
+    "suite-page-organization-directory-user-settings-role-info-moderator": "Moderator can manage content and teams in the workspace.",
+    "suite-page-organization-directory-user-settings-role-member": "Member",
+    "suite-page-organization-directory-user-settings-role-moderator": "Moderator"
+  }
+}

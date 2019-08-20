@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-settings-title": "Настройки",
+    "suite-page-organization-directory-user-settings-error-user-not-found": "Участника не существует или же он был удален.",
+    "suite-page-organization-directory-user-settings-role": "Роль",
+    "suite-page-organization-directory-user-settings-role-admin": "Администратор",
+    "suite-page-organization-directory-user-settings-role-guest": "Гость",
+    "suite-page-organization-directory-user-settings-role-info-admin": "Администратор может настраивать и управлять всем в коворкинге.",
+    "suite-page-organization-directory-user-settings-role-info-guest": "Гость может просматривать контент в коворкинге.",
+    "suite-page-organization-directory-user-settings-role-info-member": "Участник может просматривать контент в коворкинге.",
+    "suite-page-organization-directory-user-settings-role-info-moderator": "Модератор может управлять контентом и командами в коворкинге.",
+    "suite-page-organization-directory-user-settings-role-member": "Участник",
+    "suite-page-organization-directory-user-settings-role-moderator": "Модератор"
+  }
+}
