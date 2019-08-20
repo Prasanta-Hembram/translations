@@ -1,0 +1,14 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-update-title": "Settings",
+    "suite-page-organization-directory-user-update-about-section": "About",
+    "suite-page-organization-directory-user-update-about-placeholder": "Type something",
+    "suite-page-organization-directory-user-update-error-email": "Type a correct email.",
+    "suite-page-organization-directory-user-update-error-first-name": "Type a first name.",
+    "suite-page-organization-directory-user-update-error-last-name": "Type a last name.",
+    "suite-page-organization-directory-user-update-error-organization": "Type an organization.",
+    "suite-page-organization-directory-user-update-error-phone-number": "Type a phone number.",
+    "suite-page-organization-directory-user-update-error-title": "Type a title.",
+    "suite-page-organization-directory-user-update-error-user-not-found": "This user may not exist or may have been removed."
+  }
+}

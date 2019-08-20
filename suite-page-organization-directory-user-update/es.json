@@ -1,0 +1,14 @@
+{
+  "data": {
+    "suite-page-organization-directory-user-update-title": "Configuración",
+    "suite-page-organization-directory-user-update-about-section": "Acerca de ti",
+    "suite-page-organization-directory-user-update-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
+    "suite-page-organization-directory-user-update-error-email": "Por favor, introduce un correo electrónico correcto.",
+    "suite-page-organization-directory-user-update-error-first-name": "Por favor, ingresa un nombre",
+    "suite-page-organization-directory-user-update-error-last-name": "Por favor, ingresa un apellido",
+    "suite-page-organization-directory-user-update-error-organization": "Por favor, ingresa una organización.",
+    "suite-page-organization-directory-user-update-error-phone-number": "Por favor, ingresa un número de teléfono.",
+    "suite-page-organization-directory-user-update-error-title": "Por favor, introduce un título.",
+    "suite-page-organization-directory-user-update-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado."
+  }
+}
