@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-fields-about-section": "자기소개",
+    "utils-fields-about-placeholder": "자기소개를 입력하기",
     "utils-fields-email": "이메일",
     "utils-fields-email-placeholder": "이메일 입력하기",
     "utils-fields-first-name": "이름",

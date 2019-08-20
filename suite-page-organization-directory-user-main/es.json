@@ -1,14 +1,13 @@
 {
   "data": {
     "suite-page-organization-directory-user-main-active-plan-title": "Plan",
-    "suite-page-organization-directory-user-main-about-section": "Acerca de ti",
-    "suite-page-organization-directory-user-main-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
     "suite-page-organization-directory-user-main-button-booking": "Historial de reservas",
     "suite-page-organization-directory-user-main-button-cash-balance": "Balance en efectivo",
     "suite-page-organization-directory-user-main-button-credits": "Créditos",
     "suite-page-organization-directory-user-main-button-history": "Historial de balance",
     "suite-page-organization-directory-user-main-button-printed-pages": "Impresoras",
     "suite-page-organization-directory-user-main-delete-user-action-sheet": "Eliminar usuario del espacio de trabajo",
+    "suite-page-organization-directory-user-main-error-about": "Type something about you.",
     "suite-page-organization-directory-user-main-error-email": "Por favor, introduce un correo electrónico correcto.",
     "suite-page-organization-directory-user-main-error-first-name": "Por favor, ingresa un nombre",
     "suite-page-organization-directory-user-main-error-last-name": "Por favor, ingresa un apellido",

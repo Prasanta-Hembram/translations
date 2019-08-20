@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-modal-organization-user-validation-title": "Los datos requeridos",
+    "suite-modal-organization-user-validation-error-about": "Type something about you.",
     "suite-modal-organization-user-validation-error-email": "Ingrese un correo electrónico.",
     "suite-modal-organization-user-validation-error-first-name": "Ingrese un nombre",
     "suite-modal-organization-user-validation-error-last-name": "Ingrese un apellido",

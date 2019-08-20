@@ -1,14 +1,13 @@
 {
   "data": {
     "suite-page-organization-directory-user-main-active-plan-title": "플랜",
-    "suite-page-organization-directory-user-main-about-section": "자기소개",
-    "suite-page-organization-directory-user-main-about-placeholder": "자기소개를 입력하기",
     "suite-page-organization-directory-user-main-button-booking": "예약 현황",
     "suite-page-organization-directory-user-main-button-cash-balance": "현금 잔액",
     "suite-page-organization-directory-user-main-button-credits": "크레딧",
     "suite-page-organization-directory-user-main-button-history": "결제 내역",
     "suite-page-organization-directory-user-main-button-printed-pages": "프린터",
     "suite-page-organization-directory-user-main-delete-user-action-sheet": "사용자 삭제",
+    "suite-page-organization-directory-user-main-error-about": "Type something about you.",
     "suite-page-organization-directory-user-main-error-email": "이메일을 입력하세요.",
     "suite-page-organization-directory-user-main-error-first-name": "이름을 입력하세요.",
     "suite-page-organization-directory-user-main-error-last-name": "성을 입력하세요.",
