@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoices-title": "Facturas",
-    "suite-page-organization-membership-team-invoices-no-invoices": "Turn on invoicing in Settings/Bookings.",
+    "suite-page-organization-membership-team-invoices-no-invoices": "Activar la facturación en Configuración/Reservas.",
     "suite-page-organization-membership-team-invoices-get-failure": "No se pudieron mostrar las facturas del equipo. ¿Seguro que hay conexión a internet?"
   }
 }
