@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-modal-organization-user-validation-title": "Обязательная информация",
-    "suite-modal-organization-user-validation-error-about": "Введите что-то о себе.",
+    "suite-modal-organization-user-validation-error-about": "Расскажите что-то о себе.",
     "suite-modal-organization-user-validation-error-email": "Введите email.",
     "suite-modal-organization-user-validation-error-first-name": "Введите имя.",
     "suite-modal-organization-user-validation-error-last-name": "Введите фамилию.",
