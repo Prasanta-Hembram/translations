@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-user-update-title": "Настройки",
-    "suite-page-organization-directory-user-update-error-about": "Type something about you.",
+    "suite-page-organization-directory-user-update-error-about": "Расскажите что-то о себе.",
     "suite-page-organization-directory-user-update-error-email": "Пожалуйста, введите правильный email.",
     "suite-page-organization-directory-user-update-error-first-name": "Пожалуйста, введите имя.",
     "suite-page-organization-directory-user-update-error-last-name": "Пожалуйста, введите фамилию.",
