@@ -1,8 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-user-update-title": "Налаштування",
-    "suite-page-organization-directory-user-update-about-section": "Про себе",
-    "suite-page-organization-directory-user-update-about-placeholder": "Розповісти про себе",
+    "suite-page-organization-directory-user-update-error-about": "Розкажіть щось про себе.",
     "suite-page-organization-directory-user-update-error-email": "Введіть правильний email.",
     "suite-page-organization-directory-user-update-error-first-name": "Введіть ім'я.",
     "suite-page-organization-directory-user-update-error-last-name": "Введіть прізвище.",

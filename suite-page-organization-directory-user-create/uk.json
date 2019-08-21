@@ -1,7 +1,6 @@
 {
   "data": {
-    "suite-page-organization-directory-user-create-about-section": "Про себе",
-    "suite-page-organization-directory-user-create-about-placeholder": "Розповісти про себе",
+    "suite-page-organization-directory-user-create-error-about": "Розкажіть щось про себе.",
     "suite-page-organization-directory-user-create-error-email": "Введіть правильний email.",
     "suite-page-organization-directory-user-create-error-first-name": "Введіть ім'я.",
     "suite-page-organization-directory-user-create-error-last-name": "Введіть прізвище.",
