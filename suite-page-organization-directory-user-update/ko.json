@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-user-update-title": "설정",
-    "suite-page-organization-directory-user-update-error-about": "Type something about you.",
+    "suite-page-organization-directory-user-update-error-about": "자기소개를 입력하세요.",
     "suite-page-organization-directory-user-update-error-email": "이메일을 입력하세요.",
     "suite-page-organization-directory-user-update-error-first-name": "이름을 입력하세요.",
     "suite-page-organization-directory-user-update-error-last-name": "성을 입력하세요.",
