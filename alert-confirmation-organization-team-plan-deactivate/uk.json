@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-team-plan-deactivate-title": "Деактивувати",
-    "alert-confirmation-organization-team-plan-deactivate-no": "Відмінити",
+    "alert-confirmation-organization-team-plan-deactivate-no": "Скасувати",
     "alert-confirmation-organization-team-plan-deactivate-text": "Ви впевнені, що хочете деактивувати план команди? Усі привілеї, які надає план, включаючи кредити, будуть втрачені. Ця дія незворотна і НЕ ВІДШКОДОВУЄТЬСЯ",
     "alert-confirmation-organization-team-plan-deactivate-yes": "Деактивувати"
   }

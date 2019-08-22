@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-image-picker-cancel-button-title": "Відмінити",
-    "utils-image-picker-choose-from-library-button-title": "Вибрати з бібліотеки...",
-    "utils-image-picker-take-photo-button-title": "Зробити фото..."
+    "utils-image-picker-cancel-button-title": "Скасувати",
+    "utils-image-picker-choose-from-library-button-title": "Обрати фото",
+    "utils-image-picker-take-photo-button-title": "Зняти фото"
   }
 }

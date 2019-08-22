@@ -1,7 +1,7 @@
 {
   "data": {
     "utils-image-picker-cancel-button-title": "Отменить",
-    "utils-image-picker-choose-from-library-button-title": "Выбрать из библиотеки...",
-    "utils-image-picker-take-photo-button-title": "Сделать фото..."
+    "utils-image-picker-choose-from-library-button-title": "Выбрать фото",
+    "utils-image-picker-take-photo-button-title": "Снять фото"
   }
 }

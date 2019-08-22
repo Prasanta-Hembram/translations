@@ -1,7 +1,7 @@
 {
   "data": {
     "utils-image-picker-cancel-button-title": "Cancel",
-    "utils-image-picker-choose-from-library-button-title": "Choose from library...",
-    "utils-image-picker-take-photo-button-title": "Take photo..."
+    "utils-image-picker-choose-from-library-button-title": "Choose Photo",
+    "utils-image-picker-take-photo-button-title": "Take Photo"
   }
 }
