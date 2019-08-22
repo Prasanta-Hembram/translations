@@ -8,7 +8,7 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Team-Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "{teamName} Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Löschen",
-    "suite-page-organization-bookings-booking-details-default-purpose": "Reservierung",
+    "suite-page-organization-bookings-booking-details-default-purpose": "Kein Titel",
     "suite-page-organization-bookings-booking-details-delete-failure": "Buchung konnte nicht gelöscht werden.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Erneut versuchen",
     "suite-page-organization-bookings-booking-details-empty": "Diese Buchung ist möglicherweise nicht vorhanden oder wurde entfernt.",

@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-fields-about": "Про себе",
+    "utils-fields-about-placeholder": "Розповісти про себе",
     "utils-fields-email": "Email",
     "utils-fields-email-placeholder": "Увести email",
     "utils-fields-first-name": "Ім'я",

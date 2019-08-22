@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-fields-about": "Acerca de ti",
+    "utils-fields-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
     "utils-fields-email": "Email",
     "utils-fields-email-placeholder": "Escribe tu correo electrónico",
     "utils-fields-first-name": "Nombre",

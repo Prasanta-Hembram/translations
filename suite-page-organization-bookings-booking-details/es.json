@@ -8,7 +8,7 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Créditos del equipo ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Créditos del {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Borrar",
-    "suite-page-organization-bookings-booking-details-default-purpose": "Reserva",
+    "suite-page-organization-bookings-booking-details-default-purpose": "Sin título",
     "suite-page-organization-bookings-booking-details-delete-failure": "Error al eliminar la reserva.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-bookings-booking-details-empty": "Esta reserva puede no existir o puede haber sido eliminada.",

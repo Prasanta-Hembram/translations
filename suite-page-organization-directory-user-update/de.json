@@ -1,8 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-user-update-title": "Einstellungen",
-    "suite-page-organization-directory-user-update-about-section": "Info",
-    "suite-page-organization-directory-user-update-about-placeholder": "Hier ist Platz für ihre Vita",
+    "suite-page-organization-directory-user-update-error-about": "Schreib etwas über dich.",
     "suite-page-organization-directory-user-update-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-page-organization-directory-user-update-error-first-name": "Geben Sie einen Vornamen ein.",
     "suite-page-organization-directory-user-update-error-last-name": "Geben Sie einen Nachnamen ein.",
