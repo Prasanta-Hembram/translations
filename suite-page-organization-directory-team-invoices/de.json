@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-invoices-title": "Rechnungen",
-    "suite-page-organization-directory-team-invoices-no-invoices": "Das Team hat keine Rechnungen.",
+    "suite-page-organization-directory-team-invoices-no-invoices": "Aktivieren Sie die Rechnungsstellung unter Einstellungen/Buchungen.",
     "suite-page-organization-directory-team-invoices-get-failure": "Teamrechnungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?"
   }
 }

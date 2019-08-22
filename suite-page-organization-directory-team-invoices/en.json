@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-invoices-title": "Invoices",
-    "suite-page-organization-directory-team-invoices-no-invoices": "The team has no invoices.",
+    "suite-page-organization-directory-team-invoices-no-invoices": "Turn on invoicing in Settings/Bookings.",
     "suite-page-organization-directory-team-invoices-get-failure": "Couldn't show team invoices. Are you sure there is an internet connection?"
   }
 }
