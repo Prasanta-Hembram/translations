@@ -1,7 +1,7 @@
 {
   "data": {
     "utils-image-picker-cancel-button-title": "취소",
-    "utils-image-picker-choose-from-library-button-title": "라이브러리에서 선택",
-    "utils-image-picker-take-photo-button-title": "사진을 찍다"
+    "utils-image-picker-choose-from-library-button-title": "사진 선택",
+    "utils-image-picker-take-photo-button-title": "사진 찍기"
   }
 }
