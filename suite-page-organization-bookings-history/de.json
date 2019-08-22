@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-history-title": "Alle meine Buchungen",
-    "suite-page-organization-bookings-history-default-booking-purpose": "Reservierung",
+    "suite-page-organization-bookings-history-default-booking-purpose": "Kein Titel",
     "suite-page-organization-bookings-history-fetch-failure": "Buchungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-bookings-history-list-empty": "Es gibt keine Buchungen."
   }
