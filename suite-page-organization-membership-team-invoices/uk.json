@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoices-title": "Інвойси",
-    "suite-page-organization-membership-team-invoices-no-invoices": "У команди немає інвойсів.",
+    "suite-page-organization-membership-team-invoices-no-invoices": "Увімкніть інвойси в Налаштування/Резервації.",
     "suite-page-organization-membership-team-invoices-get-failure": "Не вдалося показати інвойси команди. Перевірте інтернет-з'єднання."
   }
 }
