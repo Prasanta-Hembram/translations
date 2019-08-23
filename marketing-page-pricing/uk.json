@@ -16,10 +16,10 @@
     "marketing-page-pricing-features-meeting-in-app-card-payments": "Платежі карткою в застосунку",
     "marketing-page-pricing-features-ios-android-app": "Застосунки під iOS, Android",
     "marketing-page-pricing-features-web-app": "Веб",
-    "marketing-page-pricing-features-web-app-self-hosted": "Self-hosted web app",
+    "marketing-page-pricing-features-web-app-self-hosted": "Самостійний веб-застосунок",
     "marketing-page-pricing-features-meeting-room-dislpay-app": "Апка для дисплеїв в переговорних",
     "marketing-page-pricing-features-multiple-location-support": "Підтримка декількох відділень",
-    "marketing-page-pricing-headline": "The Right Price, No Matter the Size",
+    "marketing-page-pricing-headline": "Хороша ціна, незалежно від розмірів",
     "marketing-page-pricing-plan-basic-sign-up-button": "Реєстрація",
     "marketing-page-pricing-plan-basic-title": "Базовий",
     "marketing-page-pricing-plan-enterprise-title": "Enterprise",
@@ -29,10 +29,10 @@
     "marketing-page-pricing-price-notice": "Усі ціни є орієнтовними та підлягають оподаткуванню у вашій країні.",
     "marketing-page-pricing-questions-title": "Маєте питання?",
     "marketing-page-pricing-questions-description": "Зв'яжіться з нами. Ми доступні 24/7, навіть у вихідні дні.",
-    "marketing-page-pricing-subheadline": "Whether you're a single branch coworking or a multi-branch network, andcards pricing just makes sense. All functions unlimited, starting just $29 per month. We offer a discount on one year plans.",
-    "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Meeting Room Quantity",
-    "marketing-page-pricing-toolbox-payment-term-title": "Payment Term",
-    "marketing-page-pricing-toolbox-payment-term-montly-title": "Monthly (no commitment)",
-    "marketing-page-pricing-toolbox-payment-term-annual-title": "Annual (10% discount)"
+    "marketing-page-pricing-subheadline": "Не важливо, чи в вас одне відділення, чи декілька, це не впливає на ціну andcards. Доступ до всіх функцій, починаючи з $29 за місяць. Ми пропонуємо знижку за річну підписку.",
+    "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Кількість мітинг румів",
+    "marketing-page-pricing-toolbox-payment-term-title": "Спосіб оплати",
+    "marketing-page-pricing-toolbox-payment-term-montly-title": "Помісячно (no commitment)",
+    "marketing-page-pricing-toolbox-payment-term-annual-title": "Річна підписка (знижка 10%)"
   }
 }
