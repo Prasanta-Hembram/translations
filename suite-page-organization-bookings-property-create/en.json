@@ -7,7 +7,7 @@
     "suite-page-organization-property-create-error-number-of-people": "Type a number of seats.",
     "suite-page-organization-property-create-error-minimum-time": "Min time cannot be smaller than booking step.",
     "suite-page-organization-property-create-error-room-name": "Type a name.",
-    "suite-page-organization-property-create-image-delete": "Delete Image",
+    "suite-page-organization-property-create-image-delete": "Delete Photo",
     "suite-page-organization-property-create-is-private": "Limited Access",
     "suite-page-organization-property-create-limited-access-title": "Limited Access",
     "suite-page-organization-property-create-limited-access-desc": "Allow only certain teams to access the meeting room.",
