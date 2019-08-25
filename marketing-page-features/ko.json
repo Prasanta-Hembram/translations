@@ -103,7 +103,7 @@
     "marketing-page-features-section-integrations-locks-li-1": "회의실 무단 출입 방지.",
     "marketing-page-features-section-integrations-locks-li-2": "코워킹스페이스의 출입 제어 시스템 연동. andcards는 액세스 카드를 등록하고 어떤 문이 열리는지 확인할 수 있는 심플한 인터페이스 제공. {contactAndcardsUrl}하여 ACS 호환 가능 여부 확인하기.",
     "marketing-page-features-section-integrations-locks-text": "공간 액세스를 관리하여 무단 사용을 방지하고 동일한 공간 출입 권한을 보장하세요. andcards 고객 디렉토리에 출입 제어 시스템을 직접 연결하세요: 액세스 카드를 등록하고, 출입문 액세스가 활성화되는지 안되는지 확인합니다. 두 개의 고객 디렉토리를 유지하지 않고도, andcards 웹 혹은 모바일 앱 내에서 가능한 출입 제어를 통해 시간을 절약하세요.",
-    "marketing-page-features-section-integrations-locks-title": "코워킹 출입 제어 시스템",
+    "marketing-page-features-section-integrations-locks-title": "코워킹 출입통제",
     "marketing-page-features-section-integrations-payments-li-1": "회의실 예약을 위해 체크카드 혹은 신용카드를 허용.",
     "marketing-page-features-section-integrations-payments-li-2": "{StripeUrl}, {kakaoPayUrl}, {iPayUrl} (추후 도입)를 이용한 회의실 예약.",
     "marketing-page-features-section-integrations-payments-li-3": "회의실 예약을 위해 카카오페이 결제 기능을 원하는 고객은 {kakaoCorpMail} 직접 문의 필요.",
