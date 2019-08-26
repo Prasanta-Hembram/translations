@@ -1,12 +1,10 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoice-main-download-pdf": "Завантажити PDF",
-    "suite-page-organization-membership-team-invoice-main-get-failure": "Неможливо показати елементи інвойсу. Перевірте інтернет-з'єднання.",
     "suite-page-organization-membership-team-invoice-main-invoice-date": "Дата інвойсу",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Спосіб оплати",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Статус",
     "suite-page-organization-membership-team-invoice-main-not-found": "Інвойс відсутній або видалений.",
-    "suite-page-organization-membership-team-invoice-main-no-invoices": "Інвойс порожній.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Повернутися",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Перевірте інтернет-з'єднання та спробуйте знов.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Платіж не вдався",
