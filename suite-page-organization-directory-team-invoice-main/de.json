@@ -2,11 +2,9 @@
   "data": {
     "suite-page-organization-directory-team-invoice-main-download-pdf": "PDF herunterladen",
     "suite-page-organization-directory-team-invoice-main-finalize": "Finalisieren",
-    "suite-page-organization-directory-team-invoice-main-get-failure": "Rechnungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Rechnungsdatum",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Zahlungsmethode",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "Status",
-    "suite-page-organization-directory-team-invoice-main-not-found": "Die Rechnung fehlt oder wurde gelöscht.",
-    "suite-page-organization-directory-team-invoice-main-no-invoices": "Rechnungen werden angezeigt, sobald jemand im Team die Rechnungszahlungsmethode verwendet."
+    "suite-page-organization-directory-team-invoice-main-not-found": "Die Rechnung fehlt oder wurde gelöscht."
   }
 }

@@ -2,11 +2,9 @@
   "data": {
     "suite-page-organization-directory-team-invoice-main-download-pdf": "Descargar PDF",
     "suite-page-organization-directory-team-invoice-main-finalize": "Finalizar",
-    "suite-page-organization-directory-team-invoice-main-get-failure": "No se pudieron mostrar los artículos de la factura. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Fecha de la factura",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Método de pago",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "Estado",
-    "suite-page-organization-directory-team-invoice-main-not-found": "Falta la factura o se ha eliminado.",
-    "suite-page-organization-directory-team-invoice-main-no-invoices": "Los artículos de la factura se mostrarán una vez que alguien en el equipo utilice el método de pago de la factura."
+    "suite-page-organization-directory-team-invoice-main-not-found": "Falta la factura o se ha eliminado."
   }
 }

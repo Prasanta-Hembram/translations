@@ -1,12 +1,10 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoice-main-download-pdf": "PDF herunterladen",
-    "suite-page-organization-membership-team-invoice-main-get-failure": "Rechnungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-membership-team-invoice-main-invoice-date": "Rechnungsdatum",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Zahlungsmethode",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Status",
     "suite-page-organization-membership-team-invoice-main-not-found": "Die Rechnung fehlt oder wurde gelöscht.",
-    "suite-page-organization-membership-team-invoice-main-no-invoices": "Rechungen werden angezeigt, sobald jemand im Team die Zahlungsmethode für Rechnungen verwendet.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Zurückgehen",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Zahlung fehlgeschlagen",

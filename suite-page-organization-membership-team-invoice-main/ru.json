@@ -1,12 +1,10 @@
 {
   "data": {
     "suite-page-organization-membership-team-invoice-main-download-pdf": "Скачать PDF",
-    "suite-page-organization-membership-team-invoice-main-get-failure": "Элементы инвойса не отображаются. Проверьте интернет-соединение.",
     "suite-page-organization-membership-team-invoice-main-invoice-date": "Дата инвойса",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Метод оплаты",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Статус",
     "suite-page-organization-membership-team-invoice-main-not-found": "Инвойс недоступен или был удален.",
-    "suite-page-organization-membership-team-invoice-main-no-invoices": "Инвойс пустой.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Назад",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Проверьте интернет-соединение и повторите попытку.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-title": "Оплата не прошла",
