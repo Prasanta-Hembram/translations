@@ -17,6 +17,10 @@
     "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Escribe un enlace",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Escriba una tasa de impuestos válida.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Tasa de impuesto, %",
-    "suite-page-organization-settings-suite-membership-tax-percent-desc": "La tasa de impuestos se utiliza para mostrar el importe del impuesto en las facturas. Todos los precios deben incluir el impuesto."
+    "suite-page-organization-settings-suite-membership-tax-percent-desc": "La tasa de impuestos se utiliza para mostrar el importe del impuesto en las facturas. Todos los precios deben incluir el impuesto.",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Admin only",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Admin and team manager",
+    "suite-page-organization-settings-suite-membership-team-business-permission-desc": "Select who can change business information in teams.",
+    "suite-page-organization-settings-suite-membership-team-business-permission-label": "Update business information"
   }
 }
