@@ -1,15 +1,15 @@
 {
   "data": {
-    "suite-page-organization-property-details-title": "Подробно о {propertyName}",
-    "suite-page-organization-property-details-no-property": "Переговорная не существует или же была удалена.",
-    "suite-page-organization-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
-    "suite-page-organization-property-details-overview-min-booking-time": "- Минимальная продолжительность бронирования {duration}.",
-    "suite-page-organization-property-details-overview-seats": "- Комната может вместить до {numberOfSeats} гостей.",
-    "suite-page-organization-property-details-overview-team-access": "- Эта комната приватная и доступна только для выбраных команд. Выбранные такие команды: {teamTitles}.",
-    "suite-page-organization-property-details-overview-team-access-no-teams": "- Эта комната приватная и доступна только для выбраных команд. Вы еще не выбрали команды.",
-    "suite-page-organization-property-details-overview-title": "Обзор",
-    "suite-page-organization-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
-    "suite-page-organization-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
-    "suite-page-organization-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час."
+    "suite-page-organization-bookings-property-details-title": "Подробно о {propertyName}",
+    "suite-page-organization-bookings-property-details-no-property": "Переговорная не существует или же была удалена.",
+    "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
+    "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Минимальная продолжительность бронирования {duration}.",
+    "suite-page-organization-bookings-property-details-overview-seats": "- Комната может вместить до {numberOfSeats} гостей.",
+    "suite-page-organization-bookings-property-details-overview-team-access": "- Эта комната приватная и доступна только для выбраных команд. Выбранные такие команды: {teamTitles}.",
+    "suite-page-organization-bookings-property-details-overview-team-access-no-teams": "- Эта комната приватная и доступна только для выбраных команд. Вы еще не выбрали команды.",
+    "suite-page-organization-bookings-property-details-overview-title": "Обзор",
+    "suite-page-organization-bookings-property-details-price-money": "- Цена бронирования — {priceMoney} в час",
+    "suite-page-organization-bookings-property-details-price-points": "- Цена бронирования — {priceCredits} в час",
+    "suite-page-organization-bookings-property-details-price-points-and-money": "- Цена бронирования — {priceMoney} или {priceCredits} в час."
   }
 }

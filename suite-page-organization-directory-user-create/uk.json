@@ -1,12 +1,12 @@
 {
   "data": {
+    "suite-page-organization-directory-user-create-title": "Створити обліковий запис",
     "suite-page-organization-directory-user-create-error-about": "Розкажіть щось про себе.",
     "suite-page-organization-directory-user-create-error-email": "Введіть правильний email.",
     "suite-page-organization-directory-user-create-error-first-name": "Введіть ім'я.",
     "suite-page-organization-directory-user-create-error-last-name": "Введіть прізвище.",
     "suite-page-organization-directory-user-create-error-organization": "Введіть організацію.",
     "suite-page-organization-directory-user-create-error-phone-number": "Введіть номер телефону.",
-    "suite-page-organization-directory-user-create-error-title": "Введіть посаду.",
-    "suite-page-organization-directory-user-create-title": "Створити обліковий запис"
+    "suite-page-organization-directory-user-create-error-title": "Введіть посаду."
   }
 }

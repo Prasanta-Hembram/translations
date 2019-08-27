@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-directory-user-credits-title": "Кредити особисті",
     "suite-page-organization-directory-user-credits-button-charge-title": "Списати",
     "suite-page-organization-directory-user-credits-button-give-title": "Нарахувати",
     "suite-page-organization-directory-user-credits-error-credit-system-off": "Кредитна система в коворкінгу відключена.",
@@ -7,7 +8,6 @@
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-directory-user-credits-expiring-title": "Тимчасові кредити",
     "suite-page-organization-directory-user-credits-permanent-title": "Кредити",
-    "suite-page-organization-directory-user-credits-policy-details": "Політика поверення кредитів",
-    "suite-page-organization-directory-user-credits-title": "Кредити особисті"
+    "suite-page-organization-directory-user-credits-policy-details": "Політика поверення кредитів"
   }
 }

@@ -1,11 +1,9 @@
 {
   "data": {
-    "suite-page-organization-property-main-book-button": "Buchen",
-    "suite-page-organization-property-main-date-today": "Heute",
-    "suite-page-organization-property-main-default-booking-purpose": "Reservierung",
-    "suite-page-organization-property-main-hour": "Std.",
-    "suite-page-organization-property-main-my": "Meine Reservierung",
-    "suite-page-organization-property-main-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-property-main-seats": "Plätze"
+    "suite-page-organization-bookings-property-main-book-button": "Buchen",
+    "suite-page-organization-bookings-property-main-date-today": "Heute",
+    "suite-page-organization-bookings-property-main-default-booking-purpose": "Reservierung",
+    "suite-page-organization-bookings-property-main-my": "Meine Reservierung",
+    "suite-page-organization-bookings-property-main-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt."
   }
 }

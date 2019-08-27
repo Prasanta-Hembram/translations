@@ -4,7 +4,6 @@
     "suite-modal-organization-directory-team-plan-assign-benefits": "Сервисы",
     "suite-modal-organization-directory-team-plan-assign-button-for-free": "Присвоить бесплатно",
     "suite-modal-organization-directory-team-plan-assign-button-for-price": "Присвоить за {price}",
-    "suite-modal-organization-directory-team-plan-assign-button-label": "Присвоить",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "Отсутствуют тарифные планы. Cоздайте план на странице участия.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Эта страница не существует или же была удалена.",
     "suite-modal-organization-directory-team-plan-assign-error-selected-admin": "Невозможно присвоить план администратору или модератору.",

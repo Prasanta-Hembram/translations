@@ -4,7 +4,6 @@
     "suite-modal-organization-directory-team-plan-assign-benefits": "Сервіси",
     "suite-modal-organization-directory-team-plan-assign-button-for-free": "Призначити безкоштовно",
     "suite-modal-organization-directory-team-plan-assign-button-for-price": "Призначити за {price}",
-    "suite-modal-organization-directory-team-plan-assign-button-label": "Призначити",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "Тарифні плани відсутні. Створіть план на сторінці участі.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено.",
     "suite-modal-organization-directory-team-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",

@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-admin-statistic-title": "Estadística",
     "suite-page-organization-membership-admin-statistic-membership-section": "Membresía",
     "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Miembros activados",
     "suite-page-organization-membership-admin-statistic-membership-section-members": "Miembros",
@@ -9,7 +10,6 @@
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-card": "Tarjeta  ",
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-cash": "Efectivo",
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-invoices": "Facturas",
-    "suite-page-organization-membership-admin-statistic-revenue-section": "Ingresos",
-    "suite-page-organization-membership-admin-statistic-title": "Estadística"
+    "suite-page-organization-membership-admin-statistic-revenue-section": "Ingresos"
   }
 }

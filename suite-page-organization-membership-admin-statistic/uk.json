@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-admin-statistic-title": "Статистика",
     "suite-page-organization-membership-admin-statistic-membership-section": "Участь",
     "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Активовано",
     "suite-page-organization-membership-admin-statistic-membership-section-members": "Учасники",
@@ -9,7 +10,6 @@
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-card": "Банківська картка",
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-cash": "Готівка",
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-invoices": "Інвойси",
-    "suite-page-organization-membership-admin-statistic-revenue-section": "Продажі",
-    "suite-page-organization-membership-admin-statistic-title": "Статистика"
+    "suite-page-organization-membership-admin-statistic-revenue-section": "Продажі"
   }
 }

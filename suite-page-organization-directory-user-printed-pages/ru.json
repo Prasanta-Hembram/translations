@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-directory-user-not-found": "Участника не существует или же он был удален.",
-    "suite-page-organization-directory-user-printed-title": "Напечатанных страниц",
-    "suite-page-organization-directory-user-printers-link-none-label": "Не выбрано",
-    "suite-page-organization-directory-user-printers-pages-printed-account": "Связать с",
-    "suite-page-organization-directory-user-printers-user-id": "Логин Sindoh"
+    "suite-page-organization-directory-user-printed-pages-title": "Напечатанных страниц",
+    "suite-page-organization-directory-user-printed-pages-link-none-label": "Не выбрано",
+    "suite-page-organization-directory-user-printed-pages-printed-account": "Связать с",
+    "suite-page-organization-directory-user-printed-pages-user-id": "Логин Sindoh",
+    "suite-page-organization-directory-user-printed-pages-user-not-found": "Участника не существует или же он был удален."
   }
 }

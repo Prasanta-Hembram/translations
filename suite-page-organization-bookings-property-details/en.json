@@ -1,15 +1,15 @@
 {
   "data": {
-    "suite-page-organization-property-details-title": "About {propertyName}",
-    "suite-page-organization-property-details-no-property": "This room may not exist or may have been removed.",
-    "suite-page-organization-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
-    "suite-page-organization-property-details-overview-min-booking-time": "- Minimum booking time is {duration}.",
-    "suite-page-organization-property-details-overview-seats": "- This room can fit up to {numberOfSeats} people.",
-    "suite-page-organization-property-details-overview-team-access": "- The room is private and visible to selected team only. The following team are selected: {teamTitles}.",
-    "suite-page-organization-property-details-overview-team-access-no-teams": "- The room is private and visible to selected teams only. You didn't select any teams yet.",
-    "suite-page-organization-property-details-overview-title": "Overview",
-    "suite-page-organization-property-details-price-money": "- The price of a booking is {priceMoney} per hour.",
-    "suite-page-organization-property-details-price-points": "- The price of a booking is {priceCredits} per hour.",
-    "suite-page-organization-property-details-price-points-and-money": "- The price of a booking is {priceMoney} or {priceCredits} per hour."
+    "suite-page-organization-bookings-property-details-title": "About {propertyName}",
+    "suite-page-organization-bookings-property-details-no-property": "This room may not exist or may have been removed.",
+    "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
+    "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Minimum booking time is {duration}.",
+    "suite-page-organization-bookings-property-details-overview-seats": "- This room can fit up to {numberOfSeats} people.",
+    "suite-page-organization-bookings-property-details-overview-team-access": "- The room is private and visible to selected team only. The following team are selected: {teamTitles}.",
+    "suite-page-organization-bookings-property-details-overview-team-access-no-teams": "- The room is private and visible to selected teams only. You didn't select any teams yet.",
+    "suite-page-organization-bookings-property-details-overview-title": "Overview",
+    "suite-page-organization-bookings-property-details-price-money": "- The price of a booking is {priceMoney} per hour.",
+    "suite-page-organization-bookings-property-details-price-points": "- The price of a booking is {priceCredits} per hour.",
+    "suite-page-organization-bookings-property-details-price-points-and-money": "- The price of a booking is {priceMoney} or {priceCredits} per hour."
   }
 }

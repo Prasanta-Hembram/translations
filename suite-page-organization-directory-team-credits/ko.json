@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-directory-team-credits-title": "팀 크레딧",
     "suite-page-organization-directory-team-credits-button-charge-title": "회수",
     "suite-page-organization-directory-team-credits-button-give-title": "추가",
     "suite-page-organization-directory-team-credits-error-credit-system-off": "이 공간은 크레딧 시스템을 사용하지 않습니다.",
@@ -7,7 +8,6 @@
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring}은 {date}에 만료됩니다.",
     "suite-page-organization-directory-team-credits-expiring-title": "만료할 크레딧",
     "suite-page-organization-directory-team-credits-permanent-title": "크레딧",
-    "suite-page-organization-directory-team-credits-policy-details": "크레딧 환불 안내",
-    "suite-page-organization-directory-team-credits-title": "팀 크레딧"
+    "suite-page-organization-directory-team-credits-policy-details": "크레딧 환불 안내"
   }
 }
