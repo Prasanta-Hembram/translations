@@ -4,8 +4,8 @@
     "suite-page-organization-settings-suite-membership-bank-info-title": "Bank Account Information",
     "suite-page-organization-settings-suite-membership-bank-info-desc": "This will appear on an invoice.",
     "suite-page-organization-settings-suite-membership-bank-info-placeholder": "Type a bank account information",
-    "suite-page-organization-settings-suite-membership-billing-info-title": "Public Business Information",
-    "suite-page-organization-settings-suite-membership-billing-info-desc": "Public business information helps customers recognize your business on invoices and receipts.",
+    "suite-page-organization-settings-suite-membership-billing-info-title": "Workspace Business Information",
+    "suite-page-organization-settings-suite-membership-billing-info-desc": "The workspace business information helps customers recognize your business on invoices and receipts.",
     "suite-page-organization-settings-suite-membership-billing-info-placeholder": "Type an information",
     "suite-page-organization-settings-suite-membership-permission-admin-moderator": "Admins and moderators",
     "suite-page-organization-settings-suite-membership-permission-all-members": "All members",
@@ -17,6 +17,10 @@
     "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Type a link",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Type a valid tax rate.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Tax Rate, %",
-    "suite-page-organization-settings-suite-membership-tax-percent-desc": "The tax rate is used to display tax amount on invoices. All prices must include the tax."
+    "suite-page-organization-settings-suite-membership-tax-percent-desc": "The tax rate is used to display tax amount on invoices. All prices must include the tax.",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Admin only",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Admin and team manager",
+    "suite-page-organization-settings-suite-membership-team-business-permission-desc": "Every team in Directory has a business information field to indicate its legal name, address, and business registration number. It appears on invoices and receipts. Select who can modify it.",
+    "suite-page-organization-settings-suite-membership-team-business-permission-label": "Team Business Information"
   }
 }

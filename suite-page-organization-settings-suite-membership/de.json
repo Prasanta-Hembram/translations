@@ -17,6 +17,10 @@
     "suite-page-organization-settings-suite-membership-policy-link-placeholder": "Geben Sie einen Link ein",
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Geben Sie einen gültigen Steuersatz ein.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Steuersatz, %",
-    "suite-page-organization-settings-suite-membership-tax-percent-desc": "Der Steuersatz wird verwendet, um den Steuerbetrag auf Rechnungen auszuweisen. Alle Preise müssen die Mehrwertsteuer enthalten."
+    "suite-page-organization-settings-suite-membership-tax-percent-desc": "Der Steuersatz wird verwendet, um den Steuerbetrag auf Rechnungen auszuweisen. Alle Preise müssen die Mehrwertsteuer enthalten.",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Nur Admins",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Admins und Team Manager",
+    "suite-page-organization-settings-suite-membership-team-business-permission-desc": "Wählen Sie aus, wer Geschäftsinformationen ändern darf.",
+    "suite-page-organization-settings-suite-membership-team-business-permission-label": "Aktualisieren von Geschäftsinformationen"
   }
 }
