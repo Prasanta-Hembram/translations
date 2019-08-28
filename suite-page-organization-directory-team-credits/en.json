@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-directory-team-credits-title": "Credits",
     "suite-page-organization-directory-team-credits-button-charge-title": "Charge",
     "suite-page-organization-directory-team-credits-button-give-title": "Give",
     "suite-page-organization-directory-team-credits-error-credit-system-off": "The workspace`s credit system is disabled.",
@@ -7,7 +8,6 @@
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} expire on {date}.",
     "suite-page-organization-directory-team-credits-expiring-title": "Expiring Credits",
     "suite-page-organization-directory-team-credits-permanent-title": "Credits",
-    "suite-page-organization-directory-team-credits-policy-details": "Credit Refund Notice",
-    "suite-page-organization-directory-team-credits-title": "Credits"
+    "suite-page-organization-directory-team-credits-policy-details": "Credit Refund Notice"
   }
 }

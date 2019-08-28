@@ -1,11 +1,9 @@
 {
   "data": {
-    "suite-page-organization-property-main-book-button": "Резервувати",
-    "suite-page-organization-property-main-date-today": "Сьогодні",
-    "suite-page-organization-property-main-default-booking-purpose": "Без назви",
-    "suite-page-organization-property-main-hour": "год.",
-    "suite-page-organization-property-main-my": "Моя резервація",
-    "suite-page-organization-property-main-no-property": "Кімнати не існує або ж була видалена.",
-    "suite-page-organization-property-main-seats": "місць"
+    "suite-page-organization-bookings-property-main-book-button": "Резервувати",
+    "suite-page-organization-bookings-property-main-date-today": "Сьогодні",
+    "suite-page-organization-bookings-property-main-default-booking-purpose": "Без назви",
+    "suite-page-organization-bookings-property-main-my": "Моя резервація",
+    "suite-page-organization-bookings-property-main-no-property": "Кімнати не існує або ж була видалена."
   }
 }

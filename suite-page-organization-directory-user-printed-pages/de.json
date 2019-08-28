@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-directory-user-not-found": "Dieser Benutzer existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-directory-user-printed-title": "Drucken",
-    "suite-page-organization-directory-user-printers-link-none-label": "Keine",
-    "suite-page-organization-directory-user-printers-pages-printed-account": "Druckerkonto verlinken",
-    "suite-page-organization-directory-user-printers-user-id": "Sindoh Login"
+    "suite-page-organization-directory-user-printed-pages-title": "Drucken",
+    "suite-page-organization-directory-user-printed-pages-link-none-label": "Keine",
+    "suite-page-organization-directory-user-printed-pages-printed-account": "Druckerkonto verlinken",
+    "suite-page-organization-directory-user-printed-pages-user-id": "Sindoh Login",
+    "suite-page-organization-directory-user-printed-pages-user-not-found": "Dieser Benutzer existiert möglicherweise nicht oder wurde entfernt."
   }
 }

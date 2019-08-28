@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-team-profile-title": "Equipo",
     "suite-page-organization-membership-team-profile-balance-history-permission": "Historial de balance",
     "suite-page-organization-membership-team-profile-billing-address-title": "Información de negocios",
     "suite-page-organization-membership-team-profile-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
@@ -14,7 +15,6 @@
     "suite-page-organization-membership-team-profile-section-team-members": "Miembros del equipo",
     "suite-page-organization-membership-team-profile-team-invoice": "Factura de equipo",
     "suite-page-organization-membership-team-profile-team-invoice-description": "Habilitar el método de pago de facturas del equipo queda disponible para el equipo.",
-    "suite-page-organization-membership-team-profile-title": "Equipo",
     "suite-page-organization-membership-team-profile-update-failure": "Error al actualizar"
   }
 }

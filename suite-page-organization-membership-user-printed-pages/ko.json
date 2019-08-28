@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-membership-pages-printed-title": "프린터",
-    "suite-page-organization-membership-printers-user-id": "신도리코 로그인",
-    "suite-page-organization-membership-pages-printed-error-printers-empty": "프린터가 연결되지 않습니다."
+    "suite-page-organization-membership-user-printed-pages-title": "프린터",
+    "suite-page-organization-membership-user-printed-pages-error-printers-empty": "프린터가 연결되지 않습니다.",
+    "suite-page-organization-membership-user-printed-pages-user-id": "신도리코 로그인"
   }
 }

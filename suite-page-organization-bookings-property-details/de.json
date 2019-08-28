@@ -1,15 +1,15 @@
 {
   "data": {
-    "suite-page-organization-property-details-title": "Über {propertyName}",
-    "suite-page-organization-property-details-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-property-details-overview-max-booking-time": "- Die maximale Buchungsdauer beträgt {duration}.",
-    "suite-page-organization-property-details-overview-min-booking-time": "- Die Mindestbuchungsdauer beträgt {duration}.",
-    "suite-page-organization-property-details-overview-seats": "- Dieser Raum bietet Platz für bis zu {numberOfSeats} Personen.",
-    "suite-page-organization-property-details-overview-team-access": "- Der Raum ist privat und nur für das ausgewählte Team sichtbar. Die folgenden Teams werden ausgewählt: {teamTitles}.",
-    "suite-page-organization-property-details-overview-team-access-no-teams": "- Der Raum ist privat und nur für ausgewählte Teams sichtbar. Sie haben noch keine Teams ausgewählt.",
-    "suite-page-organization-property-details-overview-title": "Übersicht",
-    "suite-page-organization-property-details-price-money": "- Der Preis einer Buchung beträgt {priceMoney} pro Stunde.",
-    "suite-page-organization-property-details-price-points": "- Der Preis einer Buchung beträgt {priceCredits} pro Stunde.",
-    "suite-page-organization-property-details-price-points-and-money": "- Der Preis einer Buchung beträgt {priceMoney} oder {priceCredits} pro Stunde."
+    "suite-page-organization-bookings-property-details-title": "Über {propertyName}",
+    "suite-page-organization-bookings-property-details-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Die maximale Buchungsdauer beträgt {duration}.",
+    "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Die Mindestbuchungsdauer beträgt {duration}.",
+    "suite-page-organization-bookings-property-details-overview-seats": "- Dieser Raum bietet Platz für bis zu {numberOfSeats} Personen.",
+    "suite-page-organization-bookings-property-details-overview-team-access": "- Der Raum ist privat und nur für das ausgewählte Team sichtbar. Die folgenden Teams werden ausgewählt: {teamTitles}.",
+    "suite-page-organization-bookings-property-details-overview-team-access-no-teams": "- Der Raum ist privat und nur für ausgewählte Teams sichtbar. Sie haben noch keine Teams ausgewählt.",
+    "suite-page-organization-bookings-property-details-overview-title": "Übersicht",
+    "suite-page-organization-bookings-property-details-price-money": "- Der Preis einer Buchung beträgt {priceMoney} pro Stunde.",
+    "suite-page-organization-bookings-property-details-price-points": "- Der Preis einer Buchung beträgt {priceCredits} pro Stunde.",
+    "suite-page-organization-bookings-property-details-price-points-and-money": "- Der Preis einer Buchung beträgt {priceMoney} oder {priceCredits} pro Stunde."
   }
 }

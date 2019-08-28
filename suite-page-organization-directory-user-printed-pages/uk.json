@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-directory-user-not-found": "Учасник не існує або ж був видалений.",
-    "suite-page-organization-directory-user-printed-title": "Друк",
-    "suite-page-organization-directory-user-printers-link-none-label": "Не обрано",
-    "suite-page-organization-directory-user-printers-pages-printed-account": "Зв'язати з",
-    "suite-page-organization-directory-user-printers-user-id": "Логін Sindoh"
+    "suite-page-organization-directory-user-printed-pages-title": "Друк",
+    "suite-page-organization-directory-user-printed-pages-link-none-label": "Не обрано",
+    "suite-page-organization-directory-user-printed-pages-printed-account": "Зв'язати з",
+    "suite-page-organization-directory-user-printed-pages-user-id": "Логін Sindoh",
+    "suite-page-organization-directory-user-printed-pages-user-not-found": "Учасник не існує або ж був видалений."
   }
 }

@@ -1,12 +1,12 @@
 {
   "data": {
+    "suite-page-organization-directory-user-create-title": "Benutzer erstellen",
     "suite-page-organization-directory-user-create-error-about": "Schreib etwas über dich.",
     "suite-page-organization-directory-user-create-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-page-organization-directory-user-create-error-first-name": "Vornamen eingeben.",
     "suite-page-organization-directory-user-create-error-last-name": "Nachnamen eingeben.",
     "suite-page-organization-directory-user-create-error-organization": "Organisation eingeben.",
     "suite-page-organization-directory-user-create-error-phone-number": "Rufnummer eingeben.",
-    "suite-page-organization-directory-user-create-error-title": "Titel eingeben.",
-    "suite-page-organization-directory-user-create-title": "Benutzer erstellen"
+    "suite-page-organization-directory-user-create-error-title": "Titel eingeben."
   }
 }

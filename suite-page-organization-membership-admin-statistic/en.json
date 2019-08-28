@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-admin-statistic-title": "Statistic",
     "suite-page-organization-membership-admin-statistic-membership-section": "Membership",
     "suite-page-organization-membership-admin-statistic-membership-section-activated-members": "Activated members",
     "suite-page-organization-membership-admin-statistic-membership-section-members": "Members",
@@ -9,7 +10,6 @@
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-card": "Card",
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-cash": "Cash",
     "suite-page-organization-membership-admin-statistic-revenue-by-payment-section-invoices": "Invoices",
-    "suite-page-organization-membership-admin-statistic-revenue-section": "Revenue",
-    "suite-page-organization-membership-admin-statistic-title": "Statistic"
+    "suite-page-organization-membership-admin-statistic-revenue-section": "Revenue"
   }
 }

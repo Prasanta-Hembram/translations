@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-directory-user-credits-title": "Credits",
     "suite-page-organization-directory-user-credits-button-charge-title": "Belasten",
     "suite-page-organization-directory-user-credits-button-give-title": "Geben",
     "suite-page-organization-directory-user-credits-error-credit-system-off": "Das Credit-System des Workspace ist deaktiviert.",
@@ -7,7 +8,6 @@
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} verfallen am {date}.",
     "suite-page-organization-directory-user-credits-expiring-title": "Verfallende Credits",
     "suite-page-organization-directory-user-credits-permanent-title": "Credits",
-    "suite-page-organization-directory-user-credits-policy-details": "Mitteilung über die Credit-Rückerstattung",
-    "suite-page-organization-directory-user-credits-title": "Credits"
+    "suite-page-organization-directory-user-credits-policy-details": "Mitteilung über die Credit-Rückerstattung"
   }
 }

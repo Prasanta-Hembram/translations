@@ -1,12 +1,12 @@
 {
   "data": {
+    "suite-page-organization-directory-user-create-title": "Создать учетную запись",
     "suite-page-organization-directory-user-create-error-about": "Расскажите что-то о себе.",
     "suite-page-organization-directory-user-create-error-email": "Пожалуйста, введите правильный email.",
     "suite-page-organization-directory-user-create-error-first-name": "Пожалуйста, введите имя.",
     "suite-page-organization-directory-user-create-error-last-name": "Пожалуйста, введите фамилию.",
     "suite-page-organization-directory-user-create-error-organization": "Пожалуйста, введите организацию.",
     "suite-page-organization-directory-user-create-error-phone-number": "Пожалуйста, введите номер телефона.",
-    "suite-page-organization-directory-user-create-error-title": "Пожалуйста, введите должность.",
-    "suite-page-organization-directory-user-create-title": "Создать учетную запись"
+    "suite-page-organization-directory-user-create-error-title": "Пожалуйста, введите должность."
   }
 }

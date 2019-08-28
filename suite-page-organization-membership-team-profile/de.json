@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-team-profile-title": "Team",
     "suite-page-organization-membership-team-profile-balance-history-permission": "Saldenhistorie",
     "suite-page-organization-membership-team-profile-billing-address-title":"Unternehmensinformationen",
     "suite-page-organization-membership-team-profile-billing-address-desc": "Geben Sie Firmenname, Adresse und alle anderen rechtlichen Informationen an, die auf Rechnungen erscheinen sollen.",
@@ -14,7 +15,6 @@
     "suite-page-organization-membership-team-profile-section-team-members": "Teammitglieder",
     "suite-page-organization-membership-team-profile-team-invoice": "Teamrechnung",
     "suite-page-organization-membership-team-profile-team-invoice-description": "Wenn diese Option aktiviert ist, wird die Zahlungsmethode der Teamrechnung für das Team verfügbar.",
-    "suite-page-organization-membership-team-profile-title": "Team",
     "suite-page-organization-membership-team-profile-update-failure": "Aktualisierung fehlgeschlagen"
   }
 }

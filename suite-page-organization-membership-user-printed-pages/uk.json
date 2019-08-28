@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-membership-pages-printed-title": "Друк",
-    "suite-page-organization-membership-printers-user-id": "Логін Sindoh",
-    "suite-page-organization-membership-pages-printed-error-printers-empty": "Принтери не знайдені."
+    "suite-page-organization-membership-user-printed-pages-title": "Друк",
+    "suite-page-organization-membership-user-printed-pages-error-printers-empty": "Принтери не знайдені.",
+    "suite-page-organization-membership-user-printed-pages-user-id": "Логін Sindoh"
   }
 }

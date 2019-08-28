@@ -1,6 +1,6 @@
 {
   "data": {
     "suite-page-organization-directory-user-cash-balance-title": "Баланс наличных",
-    "suite-page-organization-directory-user-cash-error-user-not-found": "Участника не существует или же он был удален."
+    "suite-page-organization-directory-user-cash-balance-error-user-not-found": "Участника не существует или же он был удален."
   }
 }
