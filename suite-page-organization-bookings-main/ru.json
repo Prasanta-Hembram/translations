@@ -10,6 +10,8 @@
     "suite-page-organization-bookings-main-get-failure": "Невозможно отобразить переговорные. Проверьте интернет-соединение.",
     "suite-page-organization-bookings-main-my-bookings-no-upcoming": "Нет предстоящих бронирований.",
     "suite-page-organization-bookings-main-my-bookings-title": "Мои бронирования",
+    "suite-page-organization-bookings-main-no-properties-description": "Бронируйте переговорные в пару нажатий, платите картой или кредитами.",
+    "suite-page-organization-bookings-main-no-properties-title": "Мгновенные бронирования",
     "suite-page-organization-bookings-main-rooms": "Переговорные"
   }
 }

@@ -10,6 +10,8 @@
     "suite-page-organization-bookings-main-get-failure": "Неможливо відобразити кімнати. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-bookings-main-my-bookings-no-upcoming": "Майбутні резервації відсутні.",
     "suite-page-organization-bookings-main-my-bookings-title": "Мої резервації",
+    "suite-page-organization-bookings-main-no-properties-description": "Бронюйте кімнати для переговорів миттєво та платіть карткою чи кредитами.",
+    "suite-page-organization-bookings-main-no-properties-title": "Супер прості резервації",
     "suite-page-organization-bookings-main-rooms": "Кімнати"
   }
 }

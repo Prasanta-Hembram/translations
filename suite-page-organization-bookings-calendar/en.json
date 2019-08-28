@@ -3,6 +3,8 @@
     "suite-page-organization-bookings-calendar-title": "All Rooms",
     "suite-page-organization-bookings-calendar-date": "Date",
     "suite-page-organization-bookings-calendar-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
-    "suite-page-organization-bookings-calendar-my": "My booking"
+    "suite-page-organization-bookings-calendar-my": "My booking",
+    "suite-page-organization-bookings-calendar-no-properties-description": "Book rooms on the go, and pay with bonus mileage or cards.",
+    "suite-page-organization-bookings-calendar-no-properties-title": "Super easy bookings"
   }
 }
