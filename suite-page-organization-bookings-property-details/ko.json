@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "{propertyName} 정보",
+    "suite-page-organization-bookings-property-details-main-title": "회의실",
     "suite-page-organization-bookings-property-details-no-property": "이 회의실은 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- 최대 예약 시간 {duration}입니다.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- 최저 예약 시간 {duration}입니다.",

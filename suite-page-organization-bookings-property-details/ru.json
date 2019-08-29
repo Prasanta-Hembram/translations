@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "Подробно о {propertyName}",
+    "suite-page-organization-bookings-property-details-main-title": "Переговорная",
     "suite-page-organization-bookings-property-details-no-property": "Переговорная не существует или же была удалена.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Минимальная продолжительность бронирования {duration}.",
