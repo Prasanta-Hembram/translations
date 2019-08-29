@@ -28,6 +28,7 @@
     "suite-page-organization-directory-team-edit-select-team-members-title": "Elegir miembros de equipo",
     "suite-page-organization-directory-team-edit-team-invoice": "Factura de equipo",
     "suite-page-organization-directory-team-edit-team-invoice-description": "Cuando está activado, el método de pago de las facturas de equipo está disponible para el equipo.",
+    "suite-page-organization-directory-team-edit-title": "Equipo",
     "suite-page-organization-directory-team-edit-update-failure": "No se ha podido actualizar"
   }
 }

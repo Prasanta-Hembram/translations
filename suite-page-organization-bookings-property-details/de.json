@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "Über {propertyName}",
+    "suite-page-organization-bookings-property-details-main-title": "Raum",
     "suite-page-organization-bookings-property-details-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Die maximale Buchungsdauer beträgt {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Die Mindestbuchungsdauer beträgt {duration}.",
