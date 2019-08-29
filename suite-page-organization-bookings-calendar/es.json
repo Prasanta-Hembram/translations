@@ -3,6 +3,8 @@
     "suite-page-organization-bookings-calendar-title": "Todas las salas de reuniones",
     "suite-page-organization-bookings-calendar-date": "Fecha",
     "suite-page-organization-bookings-calendar-get-failure": "No se pudieron mostrar habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-organization-bookings-calendar-my": "Mi reserva"
+    "suite-page-organization-bookings-calendar-my": "Mi reserva",
+    "suite-page-organization-bookings-calendar-no-properties-description": "Reserve habitaciones sobre la marcha y pague con millas o tarjetas adicionales.",
+    "suite-page-organization-bookings-calendar-no-properties-title": "Reservas súper fáciles"
   }
 }

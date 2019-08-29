@@ -10,6 +10,8 @@
     "suite-page-organization-bookings-main-get-failure": "Couldn't show rooms. Are you sure there is an internet connection?",
     "suite-page-organization-bookings-main-my-bookings-no-upcoming": "There are no upcoming bookings.",
     "suite-page-organization-bookings-main-my-bookings-title": "My Bookings",
+    "suite-page-organization-bookings-main-no-properties-description": "Book rooms on the go, and pay with bonus mileage or cards.",
+    "suite-page-organization-bookings-main-no-properties-title": "Super easy bookings",
     "suite-page-organization-bookings-main-rooms": "Rooms"
   }
 }

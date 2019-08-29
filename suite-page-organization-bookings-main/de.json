@@ -10,6 +10,8 @@
     "suite-page-organization-bookings-main-get-failure": "Konnte keine Räume zeigen. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organization-bookings-main-my-bookings-no-upcoming": "Es gibt keine bevorstehenden Buchungen.",
     "suite-page-organization-bookings-main-my-bookings-title": "Meine Buchungen",
+    "suite-page-organization-bookings-main-no-properties-description": "Buchen Sie Räume unterwegs und bezahlen Sie mit Bonusmeilen oder Karten.",
+    "suite-page-organization-bookings-main-no-properties-title": "Supereinfache Buchungen",
     "suite-page-organization-bookings-main-rooms": "Räume"
   }
 }
