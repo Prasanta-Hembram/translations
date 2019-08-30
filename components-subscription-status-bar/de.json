@@ -1,6 +1,6 @@
 {
   "data": {
-    "component-subscription-status-bar-days-left": "Testphase endet in {days}",
+    "component-subscription-status-bar-days-left": "Testphase endet {days}",
     "component-subscription-status-bar-button-subscribe": "ANMELDEN"
   }
 }
