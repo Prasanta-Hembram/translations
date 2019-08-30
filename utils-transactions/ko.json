@@ -5,7 +5,7 @@
     "suite-utils-transactions-money-transaction-book-by-card-with-name": "{propertyName} 예약 (카드)",
     "suite-utils-transactions-money-transaction-book-by-cash": "회의실 예약 (현금)",
     "suite-utils-transactions-money-transaction-book-by-cash-with-name": "{name} {propertyName} 예약 (현금)",
-        "suite-utils-transactions-money-transaction-book-by-cash-with-room-name": "Booked {propertyName} with cash",
+    "suite-utils-transactions-money-transaction-book-by-cash-with-room-name": "Booked {propertyName} with cash",
     "suite-utils-transactions-money-transaction-book-refund-cash": "회의실 예약 취소 (현금)",
     "suite-utils-transactions-money-transaction-membership-by-card": "멤버십 플랜 구매 (카드)",
     "suite-utils-transactions-money-transaction-membership-by-cash": "멤버십 플랜 구매 (현금)",
