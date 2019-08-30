@@ -1,6 +1,6 @@
 {
   "data": {
-    "component-subscription-status-bar-days-left": "Fin de la prueba en {days}",
+    "component-subscription-status-bar-days-left": "Fin de la prueba {days}",
     "component-subscription-status-bar-button-subscribe": "SUSCRIBETE"
   }
 }
