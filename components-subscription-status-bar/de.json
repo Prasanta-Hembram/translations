@@ -1,6 +1,6 @@
 {
   "data": {
-    "component-subscription-status-bar-days-left": "Trial ends {days}",
-    "component-subscription-status-bar-button-subscribe": "SUBSCRIBE"
+    "component-subscription-status-bar-days-left": "Probe endet in {days}",
+    "component-subscription-status-bar-button-subscribe": "ANMELDEN"
   }
 }
