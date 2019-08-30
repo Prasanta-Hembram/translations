@@ -25,11 +25,11 @@
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "{name} зарезервував(ла) кімнату {propertyName}",
     "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "Резервація {propertyName}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Скасування резервації кімнати (кредити)",
-    "suite-utils-transactions-point-transaction-charge-by-admin": "Списано кредити адміністратором/модератором",
-    "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списано кредити ({name})",
+    "suite-utils-transactions-point-transaction-charge-by-admin": "Списано адміністратором/модератором",
+    "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списано ({name})",
     "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Закінчились з тарифним планом",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Отримано з тарифним планом",
-    "suite-utils-transactions-point-transaction-transfer-by-admin": "Нараховано кредити адміністратором/модератором",
-    "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Нараховано кредити ({name})"
+    "suite-utils-transactions-point-transaction-transfer-by-admin": "Нараховано адміністратором/модератором",
+    "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Нараховано ({name})"
   }
 }
