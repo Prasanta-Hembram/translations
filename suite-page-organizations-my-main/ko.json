@@ -8,6 +8,8 @@
     "suite-page-organizations-my-main-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-organizations-my-main-no-coworkings": "입주사인 경우 기존 공간에 가입하세요. 커뮤니티 관리자일 경우 새 작업 공간을 생성하세요.",
     "suite-page-organizations-my-main-no-coworkings-title": "시작해볼까요?",
-    "suite-page-organizations-my-main-requested-text": "관리자가 요청을 검토하고 있습니다. 검토가 완료되는 대로 알려 드리겠습니다."
+    "suite-page-organizations-my-main-requested-text": "관리자가 요청을 검토하고 있습니다. 검토가 완료되는 대로 알려 드리겠습니다.",
+    "suite-page-organizations-my-main-subscription-trial-button": "Subscribe",
+    "suite-page-organizations-my-main-subscription-trial-desc": "The trial is over. Subscribe to restore access to the workspace."
   }
 }

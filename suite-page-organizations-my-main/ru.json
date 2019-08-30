@@ -8,6 +8,8 @@
     "suite-page-organizations-my-main-get-failure": "Не удалось отобразить коворкинги. Проверьте интернет-соединение.",
     "suite-page-organizations-my-main-no-coworkings": "Присоединяйтесь к существующему или открывайте новый коворкинг за считанные секунды.",
     "suite-page-organizations-my-main-no-coworkings-title": "Поехали!",
-    "suite-page-organizations-my-main-requested-text": "Ваш запрос рассматривается администратором. Мы сообщим когда решение будет принято."
+    "suite-page-organizations-my-main-requested-text": "Ваш запрос рассматривается администратором. Мы сообщим когда решение будет принято.",
+    "suite-page-organizations-my-main-subscription-trial-button": "Subscribe",
+    "suite-page-organizations-my-main-subscription-trial-desc": "The trial is over. Subscribe to restore access to the workspace."
   }
 }
