@@ -1,6 +1,6 @@
 {
   "data": {
-    "component-subscription-status-bar-days-left": "Trial ends {days}",
-    "component-subscription-status-bar-button-subscribe": "SUBSCRIBE"
+    "component-subscription-status-bar-days-left": "시험은 {days}에 만료됩니다.",
+    "component-subscription-status-bar-button-subscribe": "구독하기"
   }
 }
