@@ -28,6 +28,7 @@
     "suite-page-organization-directory-team-edit-select-team-members-title": "팀원 선택하기",
     "suite-page-organization-directory-team-edit-team-invoice": "팀인보이스",
     "suite-page-organization-directory-team-edit-team-invoice-description": "이 기능을 켜시면, '팀인보이스' 결제 수단은 이용 할 수 있습니다.",
+    "suite-page-organization-directory-team-edit-title": "팀",
     "suite-page-organization-directory-team-edit-update-failure": "업데이트 실패"
   }
 }

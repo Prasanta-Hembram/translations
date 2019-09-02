@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "Більше про {propertyName}",
+    "suite-page-organization-bookings-property-details-main-title": "Кімната",
     "suite-page-organization-bookings-property-details-no-property": "Кімната не існує або ж була видалена.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",

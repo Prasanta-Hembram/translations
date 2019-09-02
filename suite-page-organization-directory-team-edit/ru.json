@@ -28,6 +28,7 @@
     "suite-page-organization-directory-team-edit-select-team-members-title": "Выбрать участников команды",
     "suite-page-organization-directory-team-edit-team-invoice": "Инвойс команды",
     "suite-page-organization-directory-team-edit-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
+    "suite-page-organization-directory-team-edit-title": "Команда",
     "suite-page-organization-directory-team-edit-update-failure": "Невозможно обновить"
   }
 }

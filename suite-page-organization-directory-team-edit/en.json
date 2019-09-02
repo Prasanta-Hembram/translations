@@ -28,6 +28,7 @@
     "suite-page-organization-directory-team-edit-select-team-members-title": "Select Team Members",
     "suite-page-organization-directory-team-edit-team-invoice": "Team Invoice",
     "suite-page-organization-directory-team-edit-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
+    "suite-page-organization-directory-team-edit-title": "Team",
     "suite-page-organization-directory-team-edit-update-failure": "Failed to update"
   }
 }
