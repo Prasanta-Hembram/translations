@@ -1,7 +1,7 @@
 {
   "data": {
-    "page-organization-trial-over-title": "The trial is over.",
-    "page-organization-trial-over-button-subscribe": "Subscribe",
-    "page-organization-trial-over-desc": "Subscribe to restore access to workspace."
+    "page-organization-trial-over-title": "Тестовый период закончился.",
+    "page-organization-trial-over-button-subscribe": "Оформить подписку",
+    "page-organization-trial-over-desc": "Оформите подписку, чтобы позобновить доступ к коворкингу."
   }
 }
