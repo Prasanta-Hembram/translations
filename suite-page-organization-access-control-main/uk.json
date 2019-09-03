@@ -2,8 +2,8 @@
   "data": {
     "suite-page-organization-access-control-main-title": "Доступ",
     "suite-page-organization-access-control-main-controller-default": "Контролер",
-    "suite-page-organization-access-control-main-get-failure": "Цей коворкінг не має картридерів. Перевірте інтернет-з'єднання.",
-    "suite-page-organization-access-control-main-no-access-control": "Цей коворкінг не має картридерів.",
-    "suite-page-organization-access-control-main-no-readers": "Цей коворкінг не має картридерів."
+    "suite-page-organization-access-control-main-get-failure": "Не можемо показати список кард-рідерів. Перевірте інтернет-з'єднання.",
+    "suite-page-organization-access-control-main-no-access-control": "Цей коворкінг не має кард-рідерів.",
+    "suite-page-organization-access-control-main-no-readers": "Цей коворкінг не має кард-рідерів."
   }
 }
