@@ -1,6 +1,6 @@
 {
   "data": {
-    "component-subscription-status-bar-days-left": "Trial ends {days}",
-    "component-subscription-status-bar-button-subscribe": "SUBSCRIBE"
+    "component-subscription-status-bar-days-left": "Тестовий період закінчується за {days}",
+    "component-subscription-status-bar-button-subscribe": "ОФОРМИТИ ПІДПИСКУ"
   }
 }
