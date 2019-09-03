@@ -10,6 +10,7 @@
     "suite-page-organizations-my-main-no-coworkings-title": "Empecemos!",
     "suite-page-organizations-my-main-requested-text": "Su solicitud está siendo revisada por el administrador. Te avisaremos una vez que se resuelva.",
     "suite-page-organizations-my-main-subscription-trial-button": "Suscríbete",
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}.",
     "suite-page-organizations-my-main-subscription-trial-desc": "La prueba ha terminado. Subscríbete para devolver el acceso al espacio de trabajo."
   }
 }

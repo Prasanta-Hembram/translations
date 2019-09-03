@@ -10,6 +10,7 @@
     "suite-page-organizations-my-main-no-coworkings-title": "시작해볼까요?",
     "suite-page-organizations-my-main-requested-text": "관리자가 요청을 검토하고 있습니다. 검토가 완료되는 대로 알려 드리겠습니다.",
     "suite-page-organizations-my-main-subscription-trial-button": "구독하기",
+    "suite-page-organizations-my-main-subscription-trial-days-left": "시험은 {days}에 만료됩니다.",
     "suite-page-organizations-my-main-subscription-trial-desc": "시험 기간이 만료되었습니다. 정식 버전 이용하기 위해 구독하세요."
   }
 }
