@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-invoice-item-status-excluded": "Excluded",
-    "utils-invoice-item-status-included": "Included"
+    "utils-invoice-item-status-excluded": "Excluido",
+    "utils-invoice-item-status-included": "Incluido"
   }
 }
