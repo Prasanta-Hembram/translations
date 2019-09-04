@@ -5,10 +5,10 @@
     "suite-page-organization-directory-main-credit-balance": "Balance de crédito",
     "suite-page-organization-directory-main-end": "Finalización",
     "suite-page-organization-directory-main-join-requests-title": "Unirse a las solicitudes",
-    "suite-page-organization-directory-main-member-create": "Crear Miembro",
+    "suite-page-organization-directory-main-member-create": "Crear",
     "suite-page-organization-directory-main-member-new": "Nuevo",
     "suite-page-organization-directory-main-members-empty": "No hay miembros.",
-    "suite-page-organization-directory-main-members-invite": "Invitar miembros",
+    "suite-page-organization-directory-main-members-invite": "Invitar",
     "suite-page-organization-directory-main-members-title": "Miembros",
     "suite-page-organization-directory-main-name": "Nombre",
     "suite-page-organization-directory-main-nothing-found": "Nada Encontrado.",
@@ -16,7 +16,7 @@
     "suite-page-organization-directory-main-plan-not-started": "No empezado",
     "suite-page-organization-directory-main-price": "Precio",
     "suite-page-organization-directory-main-search-placeholder": "Buscar {numberOfTeams} equipos y {numberOfMembers} miembros",
-    "suite-page-organization-directory-main-team-create": "Crear equipos",
+    "suite-page-organization-directory-main-team-create": "Crear",
     "suite-page-organization-directory-main-teams-empty": "No hay equipos.",
     "suite-page-organization-directory-main-teams-title": "Equipos"
   }
