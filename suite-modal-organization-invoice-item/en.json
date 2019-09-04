@@ -2,6 +2,6 @@
   "data": {
     "suite-modal-organization-invoice-item-title": "Invoice Item Details",
     "suite-modal-organization-invoice-item-date-label": "Date",
-    "suite-modal-organization-invoice-item-status-desc": "Choose whether invoice item will be included to the invoice."
+    "suite-modal-organization-invoice-item-status-desc": "Choose whether the invoice item is included into the invoice."
   }
 }
