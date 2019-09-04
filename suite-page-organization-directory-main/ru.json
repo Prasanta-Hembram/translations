@@ -5,7 +5,7 @@
     "suite-page-organization-directory-main-credit-balance": "Баланс кредитов",
     "suite-page-organization-directory-main-end": "До",
     "suite-page-organization-directory-main-join-requests-title": "Заявки",
-    "suite-page-organization-directory-main-member-create": "Создать участника",
+    "suite-page-organization-directory-main-member-create": "Создать",
     "suite-page-organization-directory-main-member-new": "New",
     "suite-page-organization-directory-main-members-empty": "Участники отсутствуют.",
     "suite-page-organization-directory-main-members-invite": "Пригласить",
@@ -16,7 +16,7 @@
     "suite-page-organization-directory-main-plan-not-started": "Не начался",
     "suite-page-organization-directory-main-price": "Цена",
     "suite-page-organization-directory-main-search-placeholder": "Поиск среди {numberOfTeams} команд и {numberOfMembers} участников",
-    "suite-page-organization-directory-main-team-create": "Создать команду",
+    "suite-page-organization-directory-main-team-create": "Создать",
     "suite-page-organization-directory-main-teams-empty": "Команды отсутствуют.",
     "suite-page-organization-directory-main-teams-title": "Команды"
   }
