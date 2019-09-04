@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-modal-organization-invoice-item-title": "Invoice Item Details",
-    "suite-modal-organization-invoice-item-date-label": "Date",
-    "suite-modal-organization-invoice-item-status-desc": "Choose whether invoice item will be included to the invoice."
+    "suite-modal-organization-invoice-item-title": "Details der Rechnungsposition",
+    "suite-modal-organization-invoice-item-date-label": "Datum",
+    "suite-modal-organization-invoice-item-status-desc": "Wählen Sie, ob die Rechnungsposition in die Rechnung aufgenommen werden soll."
   }
 }
