@@ -5,10 +5,10 @@
     "suite-page-organization-directory-main-credit-balance": "Credit Balance",
     "suite-page-organization-directory-main-end": "End",
     "suite-page-organization-directory-main-join-requests-title": "Requests",
-    "suite-page-organization-directory-main-member-create": "Create Member",
+    "suite-page-organization-directory-main-member-create": "Create",
     "suite-page-organization-directory-main-member-new": "New",
     "suite-page-organization-directory-main-members-empty": "There are no members.",
-    "suite-page-organization-directory-main-members-invite": "Invite Members",
+    "suite-page-organization-directory-main-members-invite": "Invite",
     "suite-page-organization-directory-main-members-title": "Members",
     "suite-page-organization-directory-main-name": "Name",
     "suite-page-organization-directory-main-nothing-found": "Nothing found.",
@@ -16,7 +16,7 @@
     "suite-page-organization-directory-main-plan-not-started": "Not started",
     "suite-page-organization-directory-main-price": "Price",
     "suite-page-organization-directory-main-search-placeholder": "Search {numberOfTeams} teams and {numberOfMembers} members",
-    "suite-page-organization-directory-main-team-create": "Create Team",
+    "suite-page-organization-directory-main-team-create": "Create",
     "suite-page-organization-directory-main-teams-empty": "There are no teams.",
     "suite-page-organization-directory-main-teams-title": "Teams"
   }
