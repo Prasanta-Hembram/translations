@@ -1,14 +1,14 @@
 {
   "data": {
     "suite-page-organization-directory-main-directory-title": "Каталог",
-    "suite-page-organization-directory-main-button-invite": "Invite members",
     "suite-page-organization-directory-main-cash-balance": "Баланс наличных",
     "suite-page-organization-directory-main-credit-balance": "Баланс кредитов",
     "suite-page-organization-directory-main-end": "До",
-    "suite-page-organization-directory-main-individuals-title": "Members",
     "suite-page-organization-directory-main-join-requests-title": "Запросы на присоединение",
     "suite-page-organization-directory-main-member-create": "Create User",
     "suite-page-organization-directory-main-members-empty": "There are no members.",
+    "suite-page-organization-directory-main-members-invite": "Invite members",
+    "suite-page-organization-directory-main-members-title": "Members",
     "suite-page-organization-directory-main-name": "Имя",
     "suite-page-organization-directory-main-nothing-found": "Ничего не найдено.",
     "suite-page-organization-directory-main-plan": "План",
