@@ -14,13 +14,13 @@
     "suite-page-organization-bookings-property-create-max-time": "Tiempo máximo",
     "suite-page-organization-bookings-property-create-min-time": "Tiempo mínimo",
     "suite-page-organization-bookings-property-create-name": "Nombre",
-    "suite-page-organization-bookings-property-create-name-placeholder": "Ingresa tu nombre",
+    "suite-page-organization-bookings-property-create-name-placeholder": "Ingresa el nombre de la sala",
     "suite-page-organization-bookings-property-create-no-teams": "Los equipos no son seleccionados.",
     "suite-page-organization-bookings-property-create-number-of-seats": "Asientos",
     "suite-page-organization-bookings-property-create-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-bookings-property-create-price-points": "Precio, {pointEmoji}/hora",
     "suite-page-organization-bookings-property-create-team-add-team": "Elegir equipo",
     "suite-page-organization-bookings-property-create-team-none": "Ninguna",
-    "suite-page-organization-bookings-property-create-title-create": "Nuevo Cuarto"
+    "suite-page-organization-bookings-property-create-title-create": "Nueva Sala"
   }
 }
