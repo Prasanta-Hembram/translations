@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-modal-organization-invoice-item-title": "Invoice Item Details",
-    "suite-modal-organization-invoice-item-date-label": "Date",
-    "suite-modal-organization-invoice-item-status-desc": "Choose whether invoice item will be included to the invoice."
+    "suite-modal-organization-invoice-item-title": "Detalles de la posición de factura",
+    "suite-modal-organization-invoice-item-date-label": "Fecha",
+    "suite-modal-organization-invoice-item-status-desc": "Elija si la posición de factura se incluirá en la factura."
   }
 }
