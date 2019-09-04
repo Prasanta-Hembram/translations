@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-invoice-item-status-excluded": "Вилучено",
+    "utils-invoice-item-status-excluded": "Исключено",
     "utils-invoice-item-status-included": "Включено"
   }
 }
