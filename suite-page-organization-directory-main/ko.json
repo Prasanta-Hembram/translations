@@ -1,6 +1,7 @@
 {
   "data": {
-    "suite-page-organization-directory-main-directory-title": "회원 찾기",
+    "suite-page-organization-directory-main-title": "회원 찾기",
+    "suite-page-organization-directory-main-balances": "{balanceCredits}, debt {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "현금 잔액",
     "suite-page-organization-directory-main-credit-balance": "크레딧 잔액",
     "suite-page-organization-directory-main-end": "종료",
