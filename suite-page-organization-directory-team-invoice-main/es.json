@@ -6,6 +6,7 @@
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Fecha de la factura",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Método de pago",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "Estado",
+    "suite-page-organization-directory-team-invoice-main-no-transactions": "There are no transactions",
     "suite-page-organization-directory-team-invoice-main-not-found": "Falta la factura o se ha eliminado."
   }
 }
