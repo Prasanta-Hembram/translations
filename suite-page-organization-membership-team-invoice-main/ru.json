@@ -5,7 +5,7 @@
     "suite-page-organization-membership-team-invoice-main-invoice-date": "Дата инвойса",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Метод оплаты",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Статус",
-    "suite-page-organization-membership-team-invoice-main-no-transactions": "There are no transactions",
+    "suite-page-organization-membership-team-invoice-main-no-transactions": "Транзакции отсутствуют.",
     "suite-page-organization-membership-team-invoice-main-not-found": "Инвойс недоступен или был удален.",
     "suite-page-organization-membership-team-invoice-main-payment-failure-button-go-back": "Назад",
     "suite-page-organization-membership-team-invoice-main-payment-failure-text": "Проверьте интернет-соединение и повторите попытку.",

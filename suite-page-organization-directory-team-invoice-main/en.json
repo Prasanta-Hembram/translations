@@ -6,7 +6,7 @@
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Invoice Date",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Payment Method",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "Status",
-    "suite-page-organization-directory-team-invoice-main-no-transactions": "There are no transactions",
+    "suite-page-organization-directory-team-invoice-main-no-transactions": "There are no transactions.",
     "suite-page-organization-directory-team-invoice-main-not-found": "The invoice is missing or has been deleted."
   }
 }
