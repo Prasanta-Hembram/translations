@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "Каталог",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, debt {balanceDebt}",
+    "suite-page-organization-directory-main-balances": "{balanceCredits}, борг {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "Баланс готівки",
     "suite-page-organization-directory-main-credit-balance": "Баланс кредитів",
     "suite-page-organization-directory-main-end": "До",
@@ -15,7 +15,7 @@
     "suite-page-organization-directory-main-plan": "План",
     "suite-page-organization-directory-main-plan-not-started": "Не розпочато",
     "suite-page-organization-directory-main-price": "Ціна",
-    "suite-page-organization-directory-main-requests-empty": "There are no requests.",
+    "suite-page-organization-directory-main-requests-empty": "Заявки відсутні.",
     "suite-page-organization-directory-main-requests-title": "Заявки",
     "suite-page-organization-directory-main-search-placeholder": "Пошук серед {numberOfTeams} команд та {numberOfMembers} учасників",
     "suite-page-organization-directory-main-team-create": "Створити",
