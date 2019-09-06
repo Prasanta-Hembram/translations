@@ -1,7 +1,12 @@
 {
   "data": {
     "blog-page-main-title": "Блоґи — Робоче місце майбутнього | andcards",
+    "blog-page-main-archive-title": "Архів",
     "blog-page-main-description": "Блоґ про коворкінги andcards рекомендує найкращі коворкінги, цікаві місця для віддаленої роботи, а також поради в пригодах цифрових номадів.",
-    "blog-page-main-h1": "Робоче місце майбутнього"
+    "blog-page-main-experts-title": "Експерти в сфері коворкінгів",
+    "blog-page-main-h1": "Робоче місце майбутнього",
+    "blog-page-main-marketing-title": "Маркетинг коворкінгів",
+    "blog-page-main-software-title": "Система керування коворкінгом",
+    "blog-page-main-tips-title": "Підказки для коворкінгів"
   }
 }
