@@ -1,21 +1,25 @@
 {
   "data": {
-    "suite-page-organization-directory-main-directory-title": "Verzeichnis",
-    "suite-page-organization-directory-main-button-invite": "Einladen",
+    "suite-page-organization-directory-main-title": "Verzeichnis",
+    "suite-page-organization-directory-main-balances": "{balanceCredits}, Schuld {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "Barguthaben",
     "suite-page-organization-directory-main-credit-balance": "Credit-Saldo",
-    "suite-page-organization-directory-main-empty": "Es gibt keine Teams.",
     "suite-page-organization-directory-main-end": "Ende",
-    "suite-page-organization-directory-main-individuals-empty": "Es gibt keine Mitglieder.",
-    "suite-page-organization-directory-main-individuals-title": "Einzelpersonen",
-    "suite-page-organization-directory-main-join-requests-title": "Beitrittsanfragen",
+    "suite-page-organization-directory-main-member-create": "Mitglieder erstellen",
+    "suite-page-organization-directory-main-member-new": "Neu",
+    "suite-page-organization-directory-main-members-empty": "Es gibt keine Mitglieder.",
+    "suite-page-organization-directory-main-members-invite": "Mitglieder einladen",
+    "suite-page-organization-directory-main-members-title": "Mitglieder",
     "suite-page-organization-directory-main-name": "Name",
     "suite-page-organization-directory-main-nothing-found": "Nichts gefunden.",
     "suite-page-organization-directory-main-plan": "Abo",
     "suite-page-organization-directory-main-plan-not-started": "Nicht begonnen",
     "suite-page-organization-directory-main-price": "Preis",
+    "suite-page-organization-directory-main-requests-empty": "Es gibt keine Anfragen.",
+    "suite-page-organization-directory-main-requests-title": "Beitrittsanfragen",
     "suite-page-organization-directory-main-search-placeholder": "Suche {numberOfTeams} Teams und {numberOfMembers} Mitglieder",
-    "suite-page-organization-directory-main-teams-title": "Teams",
-    "suite-page-organization-directory-main-user-bookings-history-title": "Buchungshistorie"
+    "suite-page-organization-directory-main-team-create": "Team erstellen",
+    "suite-page-organization-directory-main-teams-empty": "Es gibt keine Teams.",
+    "suite-page-organization-directory-main-teams-title": "Teams"
   }
 }

@@ -1,21 +1,25 @@
 {
   "data": {
-    "suite-page-organization-directory-main-directory-title": "Каталог",
-    "suite-page-organization-directory-main-button-invite": "Пригласить",
+    "suite-page-organization-directory-main-title": "Каталог",
+    "suite-page-organization-directory-main-balances": "{balanceCredits}, долг {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "Баланс наличных",
     "suite-page-organization-directory-main-credit-balance": "Баланс кредитов",
-    "suite-page-organization-directory-main-empty": "Команды отсутствуют.",
     "suite-page-organization-directory-main-end": "До",
-    "suite-page-organization-directory-main-individuals-empty": "Учасники отсутствуют.",
-    "suite-page-organization-directory-main-individuals-title": "Индивидуальные участники",
-    "suite-page-organization-directory-main-join-requests-title": "Запросы на присоединение",
+    "suite-page-organization-directory-main-member-create": "Создать",
+    "suite-page-organization-directory-main-member-new": "New",
+    "suite-page-organization-directory-main-members-empty": "Участники отсутствуют.",
+    "suite-page-organization-directory-main-members-invite": "Пригласить",
+    "suite-page-organization-directory-main-members-title": "Учасники",
     "suite-page-organization-directory-main-name": "Имя",
     "suite-page-organization-directory-main-nothing-found": "Ничего не найдено.",
     "suite-page-organization-directory-main-plan": "План",
     "suite-page-organization-directory-main-plan-not-started": "Не начался",
     "suite-page-organization-directory-main-price": "Цена",
+    "suite-page-organization-directory-main-requests-empty": "Заявки отсутствуют.",
+    "suite-page-organization-directory-main-requests-title": "Заявки",
     "suite-page-organization-directory-main-search-placeholder": "Поиск среди {numberOfTeams} команд и {numberOfMembers} участников",
-    "suite-page-organization-directory-main-teams-title": "Команды",
-    "suite-page-organization-directory-main-user-bookings-history-title": "История бронирования"
+    "suite-page-organization-directory-main-team-create": "Создать",
+    "suite-page-organization-directory-main-teams-empty": "Команды отсутствуют.",
+    "suite-page-organization-directory-main-teams-title": "Команды"
   }
 }
