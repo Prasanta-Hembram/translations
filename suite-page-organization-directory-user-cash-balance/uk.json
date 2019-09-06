@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-user-cash-balance-title": "Баланс готівки",
-    "suite-page-organization-directory-user-cash-balance-description": "The sum of all unpaid cash transactions.",
+    "suite-page-organization-directory-user-cash-balance-description": "Сума всіх неоплачених транзакцій.",
     "suite-page-organization-directory-user-cash-balance-error-user-not-found": "Учасник не існує або ж був видалений."
   }
 }
