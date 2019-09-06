@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "Directorio",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, debt {balanceDebt}",
+    "suite-page-organization-directory-main-balances": "{balanceCredits}, deuda {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "Balance de efectivo",
     "suite-page-organization-directory-main-credit-balance": "Balance de crédito",
     "suite-page-organization-directory-main-end": "Finalización",
@@ -15,7 +15,7 @@
     "suite-page-organization-directory-main-plan": "Plan",
     "suite-page-organization-directory-main-plan-not-started": "No empezado",
     "suite-page-organization-directory-main-price": "Precio",
-    "suite-page-organization-directory-main-requests-empty": "There are no requests.",
+    "suite-page-organization-directory-main-requests-empty": "No hay solicitudes.",
     "suite-page-organization-directory-main-requests-title": "Solicitudes",
     "suite-page-organization-directory-main-search-placeholder": "Buscar {numberOfTeams} equipos y {numberOfMembers} miembros",
     "suite-page-organization-directory-main-team-create": "Crear",
