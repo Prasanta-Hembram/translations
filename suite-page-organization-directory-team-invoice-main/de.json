@@ -6,7 +6,7 @@
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Rechnungsdatum",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Zahlungsmethode",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "Status",
-    "suite-page-organization-directory-team-invoice-main-no-transactions": "There are no transactions.",
+    "suite-page-organization-directory-team-invoice-main-no-transactions": "Es gibt keine Transaktionen.",
     "suite-page-organization-directory-team-invoice-main-not-found": "Die Rechnung fehlt oder wurde gelöscht."
   }
 }
