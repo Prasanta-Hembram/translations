@@ -6,6 +6,10 @@
     "suite-page-organizations-my-create-default-locale": "Мова за замовчуванням",
     "suite-page-organizations-my-create-organization-name": "Назва",
     "suite-page-organizations-my-create-organization-name-placeholder": "Додати назву",
+    "suite-page-organizations-my-create-organization-policy-link": "Політика конфіденційності",
+    "suite-page-organizations-my-create-organization-policy-link-checkbox": "Not submitting a privacy policy URL at this time. {learnMoreUrl}.",
+    "suite-page-organizations-my-create-organization-policy-link-learn-more  ": "Learn more",
+    "suite-page-organizations-my-create-organization-policy-link-placeholder": "Уведіть посилання",
     "suite-page-organizations-my-create-timezone-label": "Часовой пояс"
   }
 }

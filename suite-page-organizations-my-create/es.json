@@ -6,6 +6,10 @@
     "suite-page-organizations-my-create-default-locale": "Idioma predeterminado",
     "suite-page-organizations-my-create-organization-name": "Nombre",
     "suite-page-organizations-my-create-organization-name-placeholder": "Ingrese su nombre",
+    "suite-page-organizations-my-create-organization-policy-link": "Política de privacidad",
+    "suite-page-organizations-my-create-organization-policy-link-checkbox": "Not submitting a privacy policy URL at this time. {learnMoreUrl}.",
+    "suite-page-organizations-my-create-organization-policy-link-learn-more  ": "Learn more",
+    "suite-page-organizations-my-create-organization-policy-link-placeholder": "Escribe un enlace",
     "suite-page-organizations-my-create-timezone-label": "Zona horaria"
   }
 }
