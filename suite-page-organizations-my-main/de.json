@@ -8,6 +8,10 @@
     "suite-page-organizations-my-main-get-failure": "Workspaces konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "suite-page-organizations-my-main-no-coworkings": "Treten Sie in bestehende ein oder öffnen Sie einen neuen Workspace in Sekundenschnelle.",
     "suite-page-organizations-my-main-no-coworkings-title": "Los geht's",
-    "suite-page-organizations-my-main-requested-text": "Ihre Anfrage wird vom Administrator geprüft. Wir werden Sie benachrichtigen, sobald dies abgeschlossen ist."
+    "suite-page-organizations-my-main-requested-text": "Ihre Anfrage wird vom Administrator geprüft. Wir werden Sie benachrichtigen, sobald dies abgeschlossen ist.",
+    "suite-page-organizations-my-main-subscription-trial-button": "Abonnieren",
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Testphase endet {days}.",
+    "suite-page-organizations-my-main-subscription-trial-desc-admin": "Die Testphase ist beendet. Abonnieren Sie die Vollversion, um den Zugang zum Workspace wiederherzustellen.",
+    "suite-page-organizations-my-main-subscription-trial-desc-member": "Die Testphase ist beendet."
   }
 }
