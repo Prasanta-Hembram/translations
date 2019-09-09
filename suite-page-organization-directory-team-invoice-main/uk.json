@@ -6,7 +6,7 @@
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Дата інвойсу",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Спосіб оплати",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "Статус",
-    "suite-page-organization-directory-team-invoice-main-no-transactions": "Немає транзакцій.",
+    "suite-page-organization-directory-team-invoice-main-no-transactions": "Немає елементів.",
     "suite-page-organization-directory-team-invoice-main-not-found": "Інвойс відсутній або видалений."
   }
 }

@@ -6,7 +6,7 @@
     "suite-page-organization-directory-team-invoice-main-invoice-date": "청구 일자",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "결제 수단",
     "suite-page-organization-directory-team-invoice-main-money-transaction-status": "결제 사항",
-    "suite-page-organization-directory-team-invoice-main-no-transactions": "거래가 없습니다.",
+    "suite-page-organization-directory-team-invoice-main-no-transactions": "There are no items.",
     "suite-page-organization-directory-team-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다."
   }
 }
