@@ -11,6 +11,7 @@
     "suite-page-organizations-my-main-requested-text": "Your request is being reviewed by admin. We'll notify you once it gets resolved.",
     "suite-page-organizations-my-main-subscription-trial-button": "Subscribe",
     "suite-page-organizations-my-main-subscription-trial-days-left": "Trial ends {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc": "The trial is over. Subscribe to restore access to the workspace."
+    "suite-page-organizations-my-main-subscription-trial-desc-admin": "The trial is over. Subscribe to restore access to the workspace.",
+    "suite-page-organizations-my-main-subscription-trial-desc-member": "The trial is over."
   }
 }

@@ -11,6 +11,7 @@
     "suite-page-organizations-my-main-requested-text": "Ihre Anfrage wird vom Administrator geprüft. Wir werden Sie benachrichtigen, sobald dies abgeschlossen ist.",
     "suite-page-organizations-my-main-subscription-trial-button": "Abonnieren",
     "suite-page-organizations-my-main-subscription-trial-days-left": "Testphase endet {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc": "Die Testphase ist beendet. Abonnieren Sie die Vollversion, um den Zugang zum Workspace wiederherzustellen."
+    "suite-page-organizations-my-main-subscription-trial-desc-admin": "Die Testphase ist beendet. Abonnieren Sie die Vollversion, um den Zugang zum Workspace wiederherzustellen.",
+    "suite-page-organizations-my-main-subscription-trial-desc-member": "Die Testphase ist beendet."
   }
 }

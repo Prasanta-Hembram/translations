@@ -11,6 +11,7 @@
     "suite-page-organizations-my-main-requested-text": "Ваш запрос рассматривается администратором. Мы сообщим когда решение будет принято.",
     "suite-page-organizations-my-main-subscription-trial-button": "Подписаться",
     "suite-page-organizations-my-main-subscription-trial-days-left": "Тестовый период заканчиваеться {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc": "Тестовый период закончился. Оформите подписку, чтобы возобновить доступ до коворкинга."
+    "suite-page-organizations-my-main-subscription-trial-desc-admin": "Тестовый период закончился. Оформите подписку, чтобы возобновить доступ до коворкинга.",
+    "suite-page-organizations-my-main-subscription-trial-desc-member": "Тестовый период закончился."
   }
 }
