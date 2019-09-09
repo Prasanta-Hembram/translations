@@ -1,7 +1,12 @@
 {
   "data": {
-    "blog-page-main-title": "Blogs – The Future of Work | andcards",
-    "blog-page-main-description": "andcards coworking discovery blog recommends the best coworking spaces, coworking destinations, and coworking tips for your digital nomad adventures around the world.",
-    "blog-page-main-h1": "The Future of Work"
+    "blog-page-main-title": "Blog – The Future of Work | andcards",
+    "blog-page-main-archive-title": "Blog Archive",
+    "blog-page-main-description": "How to use coworking software? How to manage coworking space? Read our blog for coworking space marketing tips and strategies, coworking business advise and coworking space expert interviews.",
+    "blog-page-main-experts-title": "Coworking Industry Experts",
+    "blog-page-main-h1": "The Future of Work",
+    "blog-page-main-marketing-title": "Coworking Space Marketing",
+    "blog-page-main-software-title": "Coworking Software",
+    "blog-page-main-tips-title": "Coworking Tips"
   }
 }

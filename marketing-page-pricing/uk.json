@@ -5,7 +5,8 @@
     "marketing-page-pricing-add-ons-branded-member-portal-title": "Брендований веб-портал",
     "marketing-page-pricing-add-ons-branded-mobile-apps-title": "Брендовані мобільні застосунки",
     "marketing-page-pricing-features-access-control-system-integration": "Інтеграція системи контролю доступом",
-    "marketing-page-pricing-features-host-on-your-own-server": "Розташовуйте на власному сервері",
+    "marketing-page-pricing-features-host-on-your-own-server": "Хостинг на власному сервері",
+    "marketing-page-pricing-features-intercom-integration": "Інтеграція з Intercom",
     "marketing-page-pricing-features-unlimited-members-and-teams": "Необмежена кількість учасників і команд",
     "marketing-page-pricing-features-membership-subscriptions": "Управління тарифними планами",
     "marketing-page-pricing-features-member-directory": "Каталог резидентів",
@@ -15,10 +16,10 @@
     "marketing-page-pricing-features-meeting-room-booking": "Резервація мітинг румів",
     "marketing-page-pricing-features-meeting-in-app-card-payments": "Платежі карткою в застосунку",
     "marketing-page-pricing-features-ios-android-app": "Застосунки під iOS, Android",
-    "marketing-page-pricing-features-web-app": "Веб",
-    "marketing-page-pricing-features-web-app-self-hosted": "Самостійний веб-застосунок",
-    "marketing-page-pricing-features-meeting-room-dislpay-app": "Апка для дисплеїв в переговорних",
-    "marketing-page-pricing-features-multiple-location-support": "Підтримка декількох відділень",
+    "marketing-page-pricing-features-web-app": "Веб-застосунок",
+    "marketing-page-pricing-features-web-app-self-hosted": "Окремий веб-застосунок",
+    "marketing-page-pricing-features-meeting-room-dislpay-app": "Для планшетів в переговорних",
+    "marketing-page-pricing-features-multiple-location-support": "Підтримка багатьох відділень",
     "marketing-page-pricing-headline": "Хороша ціна, незалежно від розмірів",
     "marketing-page-pricing-plan-basic-sign-up-button": "Реєстрація",
     "marketing-page-pricing-plan-basic-title": "Базовий",
@@ -32,7 +33,7 @@
     "marketing-page-pricing-subheadline": "Не важливо, чи в вас одне відділення, чи декілька, це не впливає на ціну andcards. Доступ до всіх функцій, починаючи з $29 за місяць. Ми пропонуємо знижку за річну підписку.",
     "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Кількість мітинг румів",
     "marketing-page-pricing-toolbox-payment-term-title": "Спосіб оплати",
-    "marketing-page-pricing-toolbox-payment-term-montly-title": "Помісячно (без доповнень)",
-    "marketing-page-pricing-toolbox-payment-term-annual-title": "Річна підписка (знижка 10%)"
+    "marketing-page-pricing-toolbox-payment-term-montly-title": "Щомісячно",
+    "marketing-page-pricing-toolbox-payment-term-annual-title": "Щорічно (знижка 10%)"
   }
 }

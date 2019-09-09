@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-cash-balance-title": "Barguthaben",
+    "suite-page-organization-directory-team-cash-balance-description":  "Die Summe aller nicht bezahlten Barzahlungen und Rechnungen. {cashBalance} aus Buchungen und Plänen, {invoiceBalance} aus Rechnungen.",
     "suite-page-organization-directory-team-cash-balance-error-team-not-found": "Dieses Team existiert möglicherweise nicht oder wurde entfernt."
   }
 }
