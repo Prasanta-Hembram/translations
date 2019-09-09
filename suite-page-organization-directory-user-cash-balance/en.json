@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-user-cash-balance-title": "Cash Balance",
+    "suite-page-organization-directory-user-cash-balance-description": "The sum of all unpaid cash transactions.",
     "suite-page-organization-directory-user-cash-balance-error-user-not-found": "This user may not exists or may have been removed."
   }
 }

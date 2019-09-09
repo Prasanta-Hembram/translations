@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-cash-balance-title": "Баланс наличных",
+    "suite-page-organization-directory-team-cash-balance-description":  "Сумма всех неоплаченных транзакций и инвойсов за наличные. {cashBalance} за бронирования и планы, {invoiceBalance} за инвойсы.",
     "suite-page-organization-directory-team-cash-balance-error-team-not-found": "Эта команда не существует или была удалена."
   }
 }
