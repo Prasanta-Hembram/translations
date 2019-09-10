@@ -3,7 +3,7 @@
     "payments-page-stripe-title": "Оплата по Stripe | andcards",
     "payments-page-stripe-field-email-label": "Email",
     "payments-page-stripe-field-email-placeholder": "Уведіть email",
-    "payments-page-stripe-page-privacy-description": "Ваша персональна інформація буде відправлена в платіжну систему для того, щоб провести платіж.",
+    "payments-page-stripe-page-privacy-description": "Ваші персональні дані будуть відправлені в платіжну систему для того, щоб провести платіж.",
     "payments-page-stripe-page-title-booking": "Сплатити за резервацію",
     "payments-page-stripe-page-title-invoice": "Оплатити інвойс",
     "payments-page-stripe-page-error": "Платіжний запит виконано або не існує.",
