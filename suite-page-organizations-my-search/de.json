@@ -4,6 +4,7 @@
     "suite-page-organizations-my-search-action-button-requested": "Beantragt",
     "suite-page-organizations-my-search-button-already-joined": "Sie sind bereits beigetreten",
     "suite-page-organizations-my-search-button-request": "Antrag auf Beitritt",
+    "suite-page-organizations-my-search-policies-text":  "Your personal information will be sent to {branchName} for processing. Please read {branchName} Privacy Policy carefully. {branchName} is the data controller responsible for your personal information.",
     "suite-page-organizations-my-search-search-internet-error": "Konnte den Workspace nicht erreichen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organizations-my-search-search-nothing-found": "Es gibt keinen Workspace, der mit diesem Tag übereinstimmt.",
     "suite-page-organizations-my-search-search-nothing-found-title": "Hoppla, nichts gefunden.",

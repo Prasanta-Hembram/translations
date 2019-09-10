@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-auth-agree-to-privacy": "Соглашаюсь с {privacyPolicy}",
-    "utils-auth-agree-to-terms": "Соглашаюсь с {termsOfUse}",
+    "utils-auth-agree-to-privacy": "I have read and agree to {privacyPolicy}",
+    "utils-auth-agree-to-terms": "I have read and agree to {termsOfUse}",
     "utils-auth-back": "Назад",
     "utils-auth-code": "Код подтверждения",
     "utils-auth-code-description": "Код подтверждения был отправлен на {emailAddress}.",

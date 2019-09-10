@@ -3,12 +3,13 @@
     "payments-page-kakaopay-title": "Pay with KakaoPay | andcards",
     "payments-page-kakaopay-field-email-label": "Email",
     "payments-page-kakaopay-field-email-placeholder": "Type Email",
+    "payments-page-kakaopay-page-privacy-description": "Your personal information will be sent to the payment provider for processing the payment.",
     "payments-page-kakaopay-page-title-booking": "Pay for Booking",
     "payments-page-kakaopay-page-title-invoice": "Pay for Invoice",
     "payments-page-kakaopay-page-error": "The payment request has already completed or does not exist.",
     "payments-page-kakaopay-page-success": "The payment has succeeded.",
     "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "By providing your card details and email for processing the payment and sending receipt, you agree to the {privacyPolicy}. Additionally, your data is subject to policies of your service provider.",
     "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "andcards Privacy Policy",
-    "payments-page-kakaopay-pay-by-card-pay-button": "Pay {price}"
+    "payments-page-kakaopay-pay-by-card-pay-button": "Pay {price}",
   }
 }

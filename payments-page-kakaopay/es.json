@@ -3,6 +3,7 @@
     "payments-page-kakaopay-title": "Pago con KakaoPay | andcards",
     "payments-page-kakaopay-field-email-label": "Email",
     "payments-page-kakaopay-field-email-placeholder": "Tipo de email",
+    "payments-page-kakaopay-page-privacy-description": "Your personal information will be sent to the payment provider for processing the payment.",
     "payments-page-kakaopay-page-title-booking": "Pagar por la reserva",
     "payments-page-kakaopay-page-title-invoice": "Pagar la factura",
     "payments-page-kakaopay-page-error": "La solicitud de pago ya se ha completado o no existe.",

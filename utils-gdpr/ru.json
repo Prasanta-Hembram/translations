@@ -1,7 +1,8 @@
 {
   "data": {
-    "utils-gdpr-agree-to-privacy": "Соглашаюсь с {privacyPolicy}",
+    "utils-gdpr-agree-to-privacy": "I have read and agree to {privacyPolicy}",
     "utils-gdpr-link-andcards-privacy-policy": "политикой конфиденциальности andcards",
-    "utils-gdpr-link-organization-privacy-policy": "политикой конфиденциальности коворкинга"
+    "utils-gdpr-link-organization-privacy-policy": "политикой конфиденциальности коворкинга",
+    "utils-gdpr-link-terms-of-use": "условиями использования"
   }
 }

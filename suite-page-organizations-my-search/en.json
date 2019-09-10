@@ -4,6 +4,7 @@
     "suite-page-organizations-my-search-action-button-requested": "Requested",
     "suite-page-organizations-my-search-button-already-joined": "You've already joined",
     "suite-page-organizations-my-search-button-request": "Request to join",
+    "suite-page-organizations-my-search-policies-text":  "Your personal information will be sent to {branchName} for processing. Please read {branchName} Privacy Policy carefully. {branchName} is the data controller responsible for your personal information.",
     "suite-page-organizations-my-search-search-internet-error": "Couldn't get workspace. Check Internet connection and try again.",
     "suite-page-organizations-my-search-search-nothing-found": "There is no workspace to match that tag.",
     "suite-page-organizations-my-search-search-nothing-found-title": "Oops, nothing found",

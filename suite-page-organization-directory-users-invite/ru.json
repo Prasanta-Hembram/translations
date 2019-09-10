@@ -11,6 +11,7 @@
     "suite-page-organization-directory-users-invite-mass-error-description": "Не удалось пригласить участников. В файле, который вы загрузили, найдены такие ошибки:",
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "В колонке {fieldColumnName} рядке {fieldRowNumber} найдена такая проблема: {fieldValue}.",
     "suite-page-organization-directory-users-invite-mass-error-note": "Устраните ошибки и попробуйте снова.",
-    "suite-page-organization-directory-users-invite-mass-label": "Пригласить всех участников"
+    "suite-page-organization-directory-users-invite-mass-label": "Пригласить всех участников",
+    "suite-page-organization-directory-users-invite-policy-desc": "By uploading the file, you confirm that all personal information provided in the file has been lawfully collected and with the appropriate permission of the owners to use their personal data."
   }
 }

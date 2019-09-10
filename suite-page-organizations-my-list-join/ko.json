@@ -4,6 +4,7 @@
     "suite-page-organizations-my-list-join-action-button-requested": "가입 요청 됨",
     "suite-page-organizations-my-list-join-button-already-joined": "이미 가입된 공간입니다",
     "suite-page-organizations-my-list-join-button-request": "가입 요청",
-    "suite-page-organizations-my-list-join-error-not-found":  "지점이 없거나 삭제되었습니다."
+    "suite-page-organizations-my-list-join-error-not-found":  "지점이 없거나 삭제되었습니다.",
+    "suite-page-organizations-my-list-join-policies-text":  "Your personal information will be sent to {branchName} for processing. Please read {branchName} Privacy Policy carefully. {branchName} is the data controller responsible for your personal information."
   }
 }

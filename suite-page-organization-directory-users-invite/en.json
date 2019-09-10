@@ -11,6 +11,7 @@
     "suite-page-organization-directory-users-invite-mass-error-description": "User invitation went wrong. The file you uploaded has several problems in the following elements:",
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "Column {fieldColumnName} row {fieldRowNumber} value {fieldValue} is wrong.",
     "suite-page-organization-directory-users-invite-mass-error-note": "Please, fix the errors and upload the file again.",
-    "suite-page-organization-directory-users-invite-mass-label": "Mass invite members"
+    "suite-page-organization-directory-users-invite-mass-label": "Mass invite members",
+    "suite-page-organization-directory-users-invite-policy-desc": "By uploading the file, you confirm that all personal information provided in the file has been lawfully collected and with the appropriate permission of the owners to use their personal data."
   }
 }

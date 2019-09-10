@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-auth-agree-to-privacy": "{privacyPolicy} 동의 (필수)",
-    "utils-auth-agree-to-terms": "{termsOfUse} 동의 (필수)",
+    "utils-auth-agree-to-privacy": "I have read and agree to {privacyPolicy}",
+    "utils-auth-agree-to-terms": "I have read and agree to {termsOfUse}",
     "utils-auth-back": "뒤로가기",
     "utils-auth-code": "인증번호",
     "utils-auth-code-description": "인증번호가 {emailAddress}로 발송되었습니다.",

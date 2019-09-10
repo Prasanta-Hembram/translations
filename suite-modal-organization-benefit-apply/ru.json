@@ -9,6 +9,7 @@
     "suite-modal-organization-benefit-apply-name": "Имя",
     "suite-modal-organization-benefit-apply-note": "Комментарий",
     "suite-modal-organization-benefit-apply-note-placeholder": "Введите комментарий",
+    "suite-modal-organization-benefit-apply-policy-description": "Your personal information will be sent to the benefit provider for processing the application.",
     "suite-modal-organization-benefit-apply-success-text": "Заявка на сервис успешно отправлена. Подтверждение отправлено по почте.",
     "suite-modal-organization-benefit-apply-success-title": "Хорошая работа!"
   }
