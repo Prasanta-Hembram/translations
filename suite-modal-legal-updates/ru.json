@@ -1,11 +1,8 @@
 {
   "data": {
     "suite-modal-legal-updates-agree-title": "Изменение политики",
-    "suite-modal-legal-updates-agree-to-privacy": "Соглашаюсь с политикой конфиденциальности",
-    "suite-modal-legal-updates-agree-to-terms": "Соглашаюсь с условиями использования",
-    "suite-modal-legal-updates-agree-action": "Принять",
-    "suite-modal-legal-updates-disagree-action": "Не принять",
     "suite-modal-legal-updates-error-no-internet-action": "Перезагрузить",
-    "suite-modal-legal-updates-error-no-internet-description": "Проверьте соединение с интернетом."
+    "suite-modal-legal-updates-error-no-internet-description": "Проверьте соединение с интернетом.",
+    "suite-modal-legal-updates-ok-action": "OK"
   }
 }
