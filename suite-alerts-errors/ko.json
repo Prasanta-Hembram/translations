@@ -10,7 +10,7 @@
     "suite-alerts-errors-booking-past-date": "과거에 예약할 수 없습니다.",
     "suite-alerts-errors-booking-point-balance-invalid": "잔여 크레딧이 소진되었습니다.",
     "suite-alerts-errors-booking-property-min-time-invalid": "선택한 기간이 최소 예약시간 보다 적습니다.",
-    "suite-alerts-errors-booking-purpose-not-valid": "제목이 잘못되었습니다.",
+    "suite-alerts-errors-booking-title-not-valid": "제목이 잘못되었습니다.",
     "suite-alerts-errors-booking-unallowed-time-period": "예약 기간이 유효하지 않습니다.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "회수할 금액이 팀 크레딧 잔액을 초과합니다.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "회수할 금액이 개인 크레딧 잔액을 초과합니다.",

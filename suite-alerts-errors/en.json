@@ -10,7 +10,7 @@
     "suite-alerts-errors-booking-past-date": "Unable to book in the past.",
     "suite-alerts-errors-booking-point-balance-invalid": "No available credits.",
     "suite-alerts-errors-booking-property-min-time-invalid": "Selected time period is less than the minimum allowed.",
-    "suite-alerts-errors-booking-purpose-not-valid": "Purpose is invalid.",
+    "suite-alerts-errors-booking-title-not-valid": "Title is invalid.",
     "suite-alerts-errors-booking-unallowed-time-period": "The booking period is invalid.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "You can't charge more that the team has.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "You can't charge more that the user has.",

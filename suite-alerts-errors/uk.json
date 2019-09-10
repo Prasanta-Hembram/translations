@@ -10,7 +10,7 @@
     "suite-alerts-errors-booking-past-date": "Неможливо резервувати у минулому.",
     "suite-alerts-errors-booking-point-balance-invalid": "Вичерпано доступний баланс кредитів.",
     "suite-alerts-errors-booking-property-min-time-invalid": "Обраний проміжок часу менший, ніж мінімально допустимий.",
-    "suite-alerts-errors-booking-purpose-not-valid": "Purpose is invalid.",
+    "suite-alerts-errors-booking-title-not-valid": "Title is invalid.",
     "suite-alerts-errors-booking-unallowed-time-period": "Вибраний період бронювання недійсний.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Неможливо стягнути більше ніж є в команди.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Неможливо стягнути більше ніж є в користувача.",
