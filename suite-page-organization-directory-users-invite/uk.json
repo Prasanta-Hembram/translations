@@ -12,6 +12,6 @@
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "У колонці {fieldColumnName} рядку {fieldRowNumber} невірно вказано {fieldValue}.",
     "suite-page-organization-directory-users-invite-mass-error-note": "Усуньте помилки та спробуйте наново.",
     "suite-page-organization-directory-users-invite-mass-label": "Запросити всіх учасників",
-    "suite-page-organization-directory-users-invite-policy-desc": "Завантажуючи файл ви підтверджуєте, що вся персональна інформація, надана у файлі була зібрана законно і за згоди власників на обробку персональної інформації."
+    "suite-page-organization-directory-users-invite-policy-desc": "Завантажуючи файл ви підтверджуєте, що всі персональні дані, надані у файлі були зібрані законно і за згоди власників на обробку персональноих даних."
   }
 }
