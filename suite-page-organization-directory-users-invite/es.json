@@ -12,6 +12,6 @@
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "La columna {fieldColumnName} fila {fieldRowNumber} valor {fieldValue} es incorrecta.",
     "suite-page-organization-directory-users-invite-mass-error-note": "Arregla los errores y vuelve a intentarlo.",
     "suite-page-organization-directory-users-invite-mass-label": "Invitar a los miembros en masa",
-    "suite-page-organization-directory-users-invite-policy-desc": "By uploading the file, you confirm that all personal information provided in the file has been lawfully collected and with the appropriate permission of the owners to use their personal data."
+    "suite-page-organization-directory-users-invite-policy-desc": "Al subir el archivo, usted confirma que toda la información personal proporcionada en el archivo ha sido recopilada legalmente y con el permiso apropiado de los propietarios para utilizar sus datos personales."
   }
 }
