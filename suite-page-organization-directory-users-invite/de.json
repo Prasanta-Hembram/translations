@@ -12,6 +12,6 @@
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "Spalte {fieldColumnName} Zeile {fieldRowNumber} Wert {fieldValue} ist falsch.",
     "suite-page-organization-directory-users-invite-mass-error-note": "Bitte beheben Sie die Fehler und laden Sie die Datei erneut hoch.",
     "suite-page-organization-directory-users-invite-mass-label": "Gruppeneinladung von Mitgliedern",
-    "suite-page-organization-directory-users-invite-policy-desc": "By uploading the file, you confirm that all personal information provided in the file has been lawfully collected and with the appropriate permission of the owners to use their personal data."
+    "suite-page-organization-directory-users-invite-policy-desc": "Mit dem Hochladen der Datei bestätigen Sie, dass alle in der Datei angegebenen personenbezogenen Daten rechtmäßig und mit der entsprechenden Erlaubnis der Eigentümer zur Verwendung ihrer personenbezogenen Daten erhoben wurden."
   }
 }
