@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-gdpr-agree-to-privacy": "I have read and agree to {privacyPolicy}",
+    "utils-gdpr-agree-to-privacy": "{privacyPolicy}을 읽고 동의합니다 (필수)",
     "utils-gdpr-link-andcards-privacy-policy": "andcards 개인정보 보호정책",
     "utils-gdpr-link-organization-privacy-policy": "공간 개인정보 보호정책",
     "utils-gdpr-link-terms-of-use": "이용약관"
