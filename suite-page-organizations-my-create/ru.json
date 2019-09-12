@@ -6,6 +6,10 @@
     "suite-page-organizations-my-create-default-locale": "Язык по умолчанию",
     "suite-page-organizations-my-create-organization-name": "Название",
     "suite-page-organizations-my-create-organization-name-placeholder": "Добавить название",
+    "suite-page-organizations-my-create-organization-policy-link": "Политика конфиденциальности",
+    "suite-page-organizations-my-create-organization-policy-link-checkbox": "Не добавлять политику конфиденциальности сейчас. {learnMoreUrl}.",
+    "suite-page-organizations-my-create-organization-policy-link-learn-more  ": "Узнать больше",
+    "suite-page-organizations-my-create-organization-policy-link-placeholder": "Введите ссылку",
     "suite-page-organizations-my-create-timezone-label": "Часовой пояс"
   }
 }
