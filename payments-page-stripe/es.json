@@ -3,6 +3,7 @@
     "payments-page-stripe-title": "Pago con Stripe | andcards",
     "payments-page-stripe-field-email-label": "Email",
     "payments-page-stripe-field-email-placeholder": "Tipo de email",
+    "payments-page-stripe-page-privacy-description": "Su información personal será enviada al proveedor de pago para procesar el pago.",
     "payments-page-stripe-page-title-booking": "Pagar por la reserva",
     "payments-page-stripe-page-title-invoice": "Pagar la factura",
     "payments-page-stripe-page-error": "La solicitud de pago ya se ha completado o no existe.",

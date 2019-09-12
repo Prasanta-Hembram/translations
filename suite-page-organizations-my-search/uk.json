@@ -4,6 +4,7 @@
     "suite-page-organizations-my-search-action-button-requested": "Запит надіслано",
     "suite-page-organizations-my-search-button-already-joined": "Ви вже приєдналися",
     "suite-page-organizations-my-search-button-request": "Приєднатись",
+    "suite-page-organizations-my-search-policies-text":  "Ваші персональні дані будуть надіслані {branchName} для обробки. Будь ласка ознайомтесь з політикою конфіденційності {branchName}. {branchName} - власник даних, відповідальний за ваші персональні дані.",
     "suite-page-organizations-my-search-search-internet-error": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organizations-my-search-search-nothing-found": "Немає коворкінгів з таким теґом",
     "suite-page-organizations-my-search-search-nothing-found-title": "Ой, нічого не знайдено!",

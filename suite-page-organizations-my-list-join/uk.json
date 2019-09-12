@@ -4,6 +4,7 @@
     "suite-page-organizations-my-list-join-action-button-requested": "Запит надіслано",
     "suite-page-organizations-my-list-join-button-already-joined": "Ви вже приєдналися",
     "suite-page-organizations-my-list-join-button-request": "Приєднатись",
-    "suite-page-organizations-my-list-join-error-not-found":  "Це відділення відсутнє, або було видалене."
+    "suite-page-organizations-my-list-join-error-not-found":  "Це відділення відсутнє, або було видалене.",
+    "suite-page-organizations-my-list-join-policies-text":  "Ваші персональні дані будуть надіслані {branchName} для обробки. Будь ласка ознайомтесь з політикою конфіденційності {branchName}. {branchName} - власник даних, відповідальний за ваші персональні дані."
   }
 }

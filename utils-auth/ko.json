@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-auth-agree-to-privacy": "{privacyPolicy} 동의 (필수)",
-    "utils-auth-agree-to-terms": "{termsOfUse} 동의 (필수)",
+    "utils-auth-agree-to-privacy": "{privacyPolicy}을 읽고 동의합니다 (필수)",
+    "utils-auth-agree-to-terms": "{termsOfUse}을 읽고 동의합니다 (필수)",
     "utils-auth-back": "뒤로가기",
     "utils-auth-code": "인증번호",
     "utils-auth-code-description": "인증번호가 {emailAddress}로 발송되었습니다.",
@@ -9,7 +9,7 @@
     "utils-auth-country": "국가",
     "utils-auth-email": "이메일",
     "utils-auth-email-invalid": "이메일이 올바르지 않거나 다른 계정이 로그인 되어있습니다.",
-    "utils-auth-link-privacy-policy": "개인정보",
+    "utils-auth-link-privacy-policy": "개인정보 보호정책",
     "utils-auth-link-terms-of-use": "이용약관",
     "utils-auth-login-options": "로그인 방법",
     "utils-auth-login-with-facebook": "Facebook으로 로그인하기",

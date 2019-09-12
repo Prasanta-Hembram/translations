@@ -4,6 +4,7 @@
     "suite-page-organizations-my-list-join-action-button-requested": "Beantragt",
     "suite-page-organizations-my-list-join-button-already-joined": "Sie sind bereits beigetreten",
     "suite-page-organizations-my-list-join-button-request": "Antrag auf Beitritt",
-    "suite-page-organizations-my-list-join-error-not-found":  "Der Workspace fehlt oder wurde gelöscht."
+    "suite-page-organizations-my-list-join-error-not-found":  "Der Workspace fehlt oder wurde gelöscht.",
+    "suite-page-organizations-my-list-join-policies-text":  "Ihre persönlichen Daten werden zur Verarbeitung an {branchName} gesendet. Bitte lesen Sie die Datenschutzerklärung von {branchName} sorgfältig durch. {branchName} ist verantwortlich für die Verarbeitung Ihrer personenbezogenen Daten."
   }
 }

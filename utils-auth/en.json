@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-auth-agree-to-privacy": "I agree to {privacyPolicy}",
-    "utils-auth-agree-to-terms": "I agree to {termsOfUse}",
+    "utils-auth-agree-to-privacy": "I have read and agree to {privacyPolicy}",
+    "utils-auth-agree-to-terms": "I have read and agree to {termsOfUse}",
     "utils-auth-back": "Back",
     "utils-auth-code": "Confirmation Code",
     "utils-auth-code-description": "The code was sent to {emailAddress}.",

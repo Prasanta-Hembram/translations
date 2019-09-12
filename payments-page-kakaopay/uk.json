@@ -3,6 +3,7 @@
     "payments-page-kakaopay-title": "Оплата по KakaoPay | andcards",
     "payments-page-kakaopay-field-email-label": "Email",
     "payments-page-kakaopay-field-email-placeholder": "Уведіть email",
+    "payments-page-kakaopay-page-privacy-description": "Ваші персональні дані будуть відправлені в платіжну систему для того, щоб провести платіж.",
     "payments-page-kakaopay-page-title-booking": "Сплатити за резервацію",
     "payments-page-kakaopay-page-title-invoice": "Оплатити інвойс",
     "payments-page-kakaopay-page-error": "Платіжний запит виконано або не існує.",

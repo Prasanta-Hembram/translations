@@ -9,6 +9,7 @@
     "suite-modal-organization-benefit-apply-name": "Ім'я",
     "suite-modal-organization-benefit-apply-note": "Коментар",
     "suite-modal-organization-benefit-apply-note-placeholder": "Уведіть коментар",
+    "suite-modal-organization-benefit-apply-policy-description": "Ваші персональні дані будуть відправлені власнику сервісу для того, щоб підтвердити заявку.",
     "suite-modal-organization-benefit-apply-success-text": "Заявка на сервіс успішно надіслана. Підтвердження відправлено на email.",
     "suite-modal-organization-benefit-apply-success-title": "Чудова робота!"
   }
