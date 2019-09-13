@@ -4,7 +4,7 @@
     "suite-modal-organization-directory-team-plan-assign-benefits": "베네핏",
     "suite-modal-organization-directory-team-plan-assign-button-for-free": "무료로 부여하기",
     "suite-modal-organization-directory-team-plan-assign-button-for-price": "{price}로 부여하기",
-    "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "플랜이 없습니다. 멤버십 페이지에서 플랜을 만들어 보세요/All Plans.",
+    "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "플랜이 없습니다. '멤버십'/'전체 플랜' 페이지에서 플랜을 만들어 보세요.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "이 페이지는 존재하지 않거나 제거되었을 수 있습니다.",
     "suite-modal-organization-directory-team-plan-assign-error-selected-admin": "관리자 또는 중간관리자에게 플랜을 부여할 수 없습니다.",
     "suite-modal-organization-directory-team-plan-assign-payment": "결제",
