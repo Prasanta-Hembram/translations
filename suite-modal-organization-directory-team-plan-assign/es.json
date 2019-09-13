@@ -4,7 +4,7 @@
     "suite-modal-organization-directory-team-plan-assign-benefits": "Beneficios",
     "suite-modal-organization-directory-team-plan-assign-button-for-free": "Asignar gratis",
     "suite-modal-organization-directory-team-plan-assign-button-for-price": "Asignar por {price}",
-    "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "No hay planes todavía. Crea un plan primero en la página de membresía.",
+    "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "No hay planes todavía. Crea un plan primero en la página de membresía/todos los planes.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
     "suite-modal-organization-directory-team-plan-assign-error-selected-admin": "No se puede asignar un plan a administrador o moderador.",
     "suite-modal-organization-directory-team-plan-assign-payment": "Pago",
