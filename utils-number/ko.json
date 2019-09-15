@@ -1,0 +1,8 @@
+{
+  "data": {
+    "utils-number-billion-thousand-suffix": "G",
+    "utils-number-million-thousand-suffix": "M",
+    "utils-number-ten-thousand-suffix": "10K",
+    "utils-number-thousand-suffix": "K"
+  }
+}
