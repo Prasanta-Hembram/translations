@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-number-billion-thousand-suffix": "G",
-    "utils-number-million-thousand-suffix": "M",
-    "utils-number-ten-thousand-suffix": "10K",
-    "utils-number-thousand-suffix": "K"
+    "utils-number-billion-thousand-suffix": "млрд.",
+    "utils-number-million-thousand-suffix": "млн.",
+    "utils-number-ten-thousand-suffix": "10тис.",
+    "utils-number-thousand-suffix": "тис."
   }
 }
