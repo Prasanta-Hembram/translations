@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-directory-user-invite-title": "Invite Member",
+    "suite-modal-organization-directory-user-invite-button-invite": "Invite Member",
+    "suite-modal-organization-directory-user-invite-error-email": "Por favor, introduzca un correo electrónico correcto.",
+    "suite-modal-organization-directory-user-invite-error-first-name": "Por favor ingrese un nombre"
+  }
+}
