@@ -3,6 +3,6 @@
     "utils-gdpr-agree-to-privacy": "I have read and agree to {privacyPolicy}",
     "utils-gdpr-link-andcards-privacy-policy": "andcards Privacy Policy",
     "utils-gdpr-link-organization-privacy-policy": "{branchName} Privacy Policy",
-    "utils-gdpr-link-terms-of-use": "Terms of Use"
+    "utils-gdpr-link-terms-of-use": "andcards Terms of Use"
   }
 }
