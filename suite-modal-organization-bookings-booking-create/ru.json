@@ -17,7 +17,7 @@
     "suite-modal-organization-bookings-booking-create-free": "Бесплатно",
     "suite-modal-organization-bookings-booking-create-memo": "Заметка",
     "suite-modal-organization-bookings-booking-create-memo-placeholder": "Добавить личную заметку",
-    "suite-modal-organization-bookings-booking-create-no-payment-method": "Нету доступных методов оплаты чтобы провести бронирование.",
+    "suite-modal-organization-bookings-booking-create-no-payment-method": "Отсутствуют методы оплаты для осуществления бронирования.",
     "suite-modal-organization-bookings-booking-create-no-property": "Невозможно отобразить страницу. Проверьте интернет-соединение.",
     "suite-modal-organization-bookings-booking-create-pay-with-validation-error": "Недостаточно кредитов для бронирования. Воспользуйтесь другим методом оплаты.",
     "suite-modal-organization-bookings-booking-create-payment-failure-button-go-back": "Назад",
