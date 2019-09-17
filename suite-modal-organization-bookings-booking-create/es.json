@@ -17,7 +17,7 @@
     "suite-modal-organization-bookings-booking-create-free": "Gratis",
     "suite-modal-organization-bookings-booking-create-memo": "Nota",
     "suite-modal-organization-bookings-booking-create-memo-placeholder": "Añadir memo (privado)",
-    "suite-modal-organization-bookings-booking-create-no-payment-method": "There is no available payment method to make a reservation.",
+    "suite-modal-organization-bookings-booking-create-no-payment-method": "No hay forma de pago para hacer una reservación.",
     "suite-modal-organization-bookings-booking-create-no-property": "No se pudo mostrar la página. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-modal-organization-bookings-booking-create-pay-with-validation-error": "No hay suficientes créditos para hacer esta reserva. Por favor use otro método de pago.",
     "suite-modal-organization-bookings-booking-create-payment-failure-button-go-back": "Regresa",
