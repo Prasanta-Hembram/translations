@@ -4,7 +4,7 @@
     "suite-page-organizations-my-search-action-button-requested": "가입 요청 됨",
     "suite-page-organizations-my-search-button-already-joined": "이미 가입된 공간입니다",
     "suite-page-organizations-my-search-button-request": "가입 요청",
-    "suite-page-organizations-my-search-policies-text": "귀하의 개인 정보는 {branchName}로 전송되어 처리될 것입니다. {branchName} 개인정보 보호정책을 주의 깊게 읽어 주세요. {branchName}는 사용자의 개인 정보를 담당하는 데이터 컨트롤러입니다.",
+    "suite-page-organizations-my-search-policies-text": "귀하의 개인정보는 {branchName}(으)로 전송되어 처리됩니다. {branchName}의 개인정보 보호정책을 주의 깊게 읽어주시기 바랍니다. {branchName}은(는) 사용자의 개인정보를 담당하는 데이터 컨트롤러입니다.",
     "suite-page-organizations-my-search-search-internet-error": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-organizations-my-search-search-nothing-found": "입력된 태그로 공간이 찾지 못했습니다.",
     "suite-page-organizations-my-search-search-nothing-found-title": "앗, 아무것도 없어요!",
