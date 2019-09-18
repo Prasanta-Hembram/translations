@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-modal-organization-directory-user-invite-title": "Invite Member",
-    "suite-modal-organization-directory-user-invite-button-invite": "Invite Member",
+    "suite-modal-organization-directory-user-invite-title": "Individuelle Einladung",
+    "suite-modal-organization-directory-user-invite-button-invite": "Einladen",
     "suite-modal-organization-directory-user-invite-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-modal-organization-directory-user-invite-error-first-name": "Vornamen eingeben."
   }
