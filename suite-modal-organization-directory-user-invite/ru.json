@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-modal-organization-directory-user-invite-title": "Пригласить участника",
-    "suite-modal-organization-directory-user-invite-button-invite": "Пригласить участника",
-    "suite-modal-organization-directory-user-invite-error-email": "Пожалуйста, введите правильный email.",
-    "suite-modal-organization-directory-user-invite-error-first-name": "Пожалуйста, введите имя."
+    "suite-modal-organization-directory-user-invite-button-invite": "Пригласить",
+    "suite-modal-organization-directory-user-invite-error-email": "Введите правильный email.",
+    "suite-modal-organization-directory-user-invite-error-first-name": "Введите имя."
   }
 }
