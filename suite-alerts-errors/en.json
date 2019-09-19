@@ -22,6 +22,7 @@
     "suite-alerts-errors-invoice-already-finalized": "The invoice has already been finalized. Refresh the page.",
     "suite-alerts-errors-invoice-empty": "Unable to finalize an empty invoice. Add items first.",
     "suite-alerts-errors-invoice-not-finished": "The month isn't over yet. Try again when the month ends.",
+    "suite-alerts-errors-membership-invite-invalid": "Failed to invite. The member has already been invited.",
     "suite-alerts-errors-no-enough-cash": "Not enough cash.",
     "suite-alerts-errors-no-internet": "No internet connection.",
     "suite-alerts-errors-no-printers-connections": "The workspace has no printer integration.",

@@ -22,6 +22,7 @@
     "suite-alerts-errors-invoice-already-finalized": "La factura ya ha sido finalizada. Recarga la página.",
     "suite-alerts-errors-invoice-empty": "No se puede finalizar una factura vacía. Agrega los artículos primero",
     "suite-alerts-errors-invoice-not-finished": "El mes aún no ha terminado. Inténtalo de nuevo cuando acabe el mes.",
+    "suite-alerts-errors-membership-invite-invalid": "No me invitaron. El miembro ya ha sido invitado.",
     "suite-alerts-errors-no-enough-cash": "No hay suficiente efectivo.",
     "suite-alerts-errors-no-internet": "Sin conexión a internet.",
     "suite-alerts-errors-no-printers-connections": "El espacio de trabajo no tiene integración de impresora.",
