@@ -17,6 +17,7 @@
     "suite-modal-organization-bookings-booking-create-free": "Free",
     "suite-modal-organization-bookings-booking-create-memo": "Memo",
     "suite-modal-organization-bookings-booking-create-memo-placeholder": "Type a memo (private)",
+    "suite-modal-organization-bookings-booking-create-no-payment-method": "There is no payment method to make a reservation.",
     "suite-modal-organization-bookings-booking-create-no-property": "Couldn't show the page. Are you sure there is an internet connection?",
     "suite-modal-organization-bookings-booking-create-pay-with-validation-error": "Not enough credits to make this booking. Try a different payment method.",
     "suite-modal-organization-bookings-booking-create-payment-failure-button-go-back": "Go Back",

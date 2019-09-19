@@ -12,6 +12,6 @@
     "suite-page-organization-directory-users-invite-mass-error-list-item-label": "{fieldColumnName}행 {fieldRowNumber}열에 {fieldValue} 문제가 있습니다.",
     "suite-page-organization-directory-users-invite-mass-error-note": "문제를 해결하고 파일을 다시 업로드해 주세요.",
     "suite-page-organization-directory-users-invite-mass-label": "한 번에 회원을 초대하세요",
-    "suite-page-organization-directory-users-invite-policy-desc": "파일을 업로드하면 파일에 제공된 모든 개인정보가 합법적으로 수집되었고 소유자가 자신의 개인정보를 사용할 수 있도록 적절한 권한을 가졌다는 것을 확인합니다."
+    "suite-page-organization-directory-users-invite-policy-desc": "파일을 업로드할 시, 파일에 제공된 모든 개인정보는 합법적으로 수집되며 소유자가 제공된 개인정보를 사용할 수 있는 적절한 권한을 가졌다는 것을 확인합니다."
   }
 }

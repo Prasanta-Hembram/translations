@@ -8,6 +8,7 @@
     "suite-page-organization-bookings-booking-details-action-button-point-team": "팀 크레딧 ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "{teamName} 팀 크레딧 ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "삭제",
+    "suite-page-organization-bookings-booking-details-button-go-back": "뒤로",
     "suite-page-organization-bookings-booking-details-default-purpose": "예약",
     "suite-page-organization-bookings-booking-details-delete-failure": "예약 삭제 실패.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "다시 시도해 주세요",

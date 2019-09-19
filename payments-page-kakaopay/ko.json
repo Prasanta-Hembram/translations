@@ -3,7 +3,7 @@
     "payments-page-kakaopay-title": "카카오페이 결제 | andcards",
     "payments-page-kakaopay-field-email-label": "이메일",
     "payments-page-kakaopay-field-email-placeholder": "이메일 입력하기",
-    "payments-page-kakaopay-page-privacy-description": "귀하의 개인정보가 결제처리업체로 전송됩니다.",
+    "payments-page-kakaopay-page-privacy-description": "귀하의 개인정보는 결제 서비스 제공업체로 전송됩니다.",
     "payments-page-kakaopay-page-title-booking": "회의실 예약 결제",
     "payments-page-kakaopay-page-title-invoice": "인보이스 결제",
     "payments-page-kakaopay-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",

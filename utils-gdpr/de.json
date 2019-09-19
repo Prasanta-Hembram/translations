@@ -2,7 +2,7 @@
   "data": {
     "utils-gdpr-agree-to-privacy": "Ich habe die {privacyPolicy} gelesen und stimme zu",
     "utils-gdpr-link-andcards-privacy-policy": "andcards Datenschutzerklärung",
-    "utils-gdpr-link-organization-privacy-policy": "Workspace Datenschutzerklärung",
-    "utils-gdpr-link-terms-of-use": "Nutzungsbedingungen"
+    "utils-gdpr-link-organization-privacy-policy": "{branchName} Datenschutzerklärung",
+    "utils-gdpr-link-terms-of-use": "andcards Nutzungsbedingungen"
   }
 }

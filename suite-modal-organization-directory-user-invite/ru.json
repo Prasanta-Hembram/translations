@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-directory-user-invite-title": "Личное приглашение",
+    "suite-modal-organization-directory-user-invite-button-invite": "Отправить приглашение",
+    "suite-modal-organization-directory-user-invite-error-email": "Введите правильный email.",
+    "suite-modal-organization-directory-user-invite-error-first-name": "Введите имя."
+  }
+}
