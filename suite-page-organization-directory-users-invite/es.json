@@ -1,10 +1,6 @@
 {
   "data": {
     "suite-page-organization-directory-users-invite-title": "Invitación",
-    "suite-page-organization-directory-users-invite-by-link-label": "Enlace",
-    "suite-page-organization-directory-users-invite-by-link-description": "Comparte un enlace público al espacio de trabajo, para que cualquiera pueda solicitar membresía.",
-    "suite-page-organization-directory-users-invite-by-tag-label": "Etiqueta",
-    "suite-page-organization-directory-users-invite-by-tag-description": "Comparte esta etiqueta de espacio de trabajo única, para que cualquiera pueda solicitar membresía. La etiqueta se puede cambiar en Configuración/Perfil.",
     "suite-page-organization-directory-users-invite-mass-button-download-template": "Descargar plantilla",
     "suite-page-organization-directory-users-invite-mass-button-upload": "Subir archivo",
     "suite-page-organization-directory-users-invite-mass-desc": "Carga un archivo con formato especial con una lista de tus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",

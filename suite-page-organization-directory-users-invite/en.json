@@ -1,10 +1,6 @@
 {
   "data": {
     "suite-page-organization-directory-users-invite-title": "Invite",
-    "suite-page-organization-directory-users-invite-by-link-label": "Link",
-    "suite-page-organization-directory-users-invite-by-link-description": "Share a public link to workspace, so that anyone can request membership.",
-    "suite-page-organization-directory-users-invite-by-tag-label": "Tag",
-    "suite-page-organization-directory-users-invite-by-tag-description": "Share this unique workspace tag, so that anyone can find and join it. The tag can be changed in Settings/Profile.",
     "suite-page-organization-directory-users-invite-mass-button-download-template": "Download Template",
     "suite-page-organization-directory-users-invite-mass-button-upload": "Upload File",
     "suite-page-organization-directory-users-invite-mass-desc": "Upload a specially formatted file with a list of your members to mass invite them to join this andcards workspace.",
