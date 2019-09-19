@@ -12,7 +12,8 @@
     "suite-alerts-success-booking-edit-refund": "Booking changed. {priceDifferenceToRefund} refunded.",
     "suite-alerts-success-invoice-finalized": "Invoice successfully finalized.",
     "suite-alerts-success-invoice-money-transaction-saved": "Invoice transaction updated.",
-    "suite-alerts-success-organization-invites-send": "Invites successfully sent.",
+    "suite-alerts-success-organization-invite-send": "Invite sent.",
+    "suite-alerts-success-organization-invites-send": "Invites sent.",
     "suite-alerts-success-organization-plan-deactivated": "Plan is successfully deactivated.",
     "suite-alerts-success-organization-plan-purchased": "Plan is purchased.",
     "suite-alerts-success-sessions-other-signed-out": "You have been signed out of all other sessions."
