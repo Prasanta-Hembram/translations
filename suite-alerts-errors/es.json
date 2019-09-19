@@ -16,7 +16,6 @@
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "No se puede cobrar más de lo que el usuario tiene",
     "suite-alerts-errors-feed-post-missing": "Falta la publicación o ha sido eliminado.",
     "suite-alerts-errors-file-not-found": "El archivo no ha sido cargado.",
-    "suite-alerts-errors-file-not-valid": "Informe de error fue enviado a {email}.",
     "suite-alerts-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión.",
     "suite-alerts-errors-internal-error": "Algo salió mal. Por favor intenta de nuevo.",
     "suite-alerts-errors-invoice-already-finalized": "La factura ya ha sido finalizada. Recarga la página.",

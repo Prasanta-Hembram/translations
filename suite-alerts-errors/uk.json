@@ -16,7 +16,6 @@
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Неможливо стягнути більше ніж є в користувача.",
     "suite-alerts-errors-feed-post-missing": "Пост відсутній або видалений.",
     "suite-alerts-errors-file-not-found": "Файл не завантажено.",
-    "suite-alerts-errors-file-not-valid": "Звіт про помилки надіслано на {email}.",
     "suite-alerts-errors-last-integration-delete": "Останній метод входу не може бути видалений.",
     "suite-alerts-errors-internal-error": "Щось пішло не так. Будь ласка спробуйте ще раз.",
     "suite-alerts-errors-invoice-already-finalized": "Інвойс вже завершений. Оновіть сторінку.",
