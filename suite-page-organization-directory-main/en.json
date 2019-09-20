@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-directory-main-title": "Directory",
     "suite-page-organization-directory-main-balances": "{balanceCredits}, debt {balanceDebt}",
+    "suite-page-organization-directory-main-balances-money": "Debt {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "Cash Balance",
     "suite-page-organization-directory-main-credit-balance": "Credit Balance",
     "suite-page-organization-directory-main-end": "End",

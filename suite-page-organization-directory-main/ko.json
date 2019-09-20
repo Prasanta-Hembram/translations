@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-directory-main-title": "회원 찾기",
     "suite-page-organization-directory-main-balances": "{balanceCredits}, 부채액 : {balanceDebt}",
+    "suite-page-organization-directory-main-balances-money": "부채액 : {balanceDebt}",
     "suite-page-organization-directory-main-cash-balance": "현금 잔액",
     "suite-page-organization-directory-main-credit-balance": "크레딧 잔액",
     "suite-page-organization-directory-main-end": "종료",
