@@ -8,8 +8,6 @@
     "payments-page-stripe-page-title-invoice": "인보이스 결제",
     "payments-page-stripe-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",
     "payments-page-stripe-page-success": "결제 완료되었습니다.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "By providing your card details and email for processing the payment and sending receipt, you agree to the {privacyPolicy}. Additionally, your data is subject to policies of your service provider.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "andcards Privacy Policy",
     "payments-page-stripe-pay-by-card-pay-button": "{price} 결제하기"
   }
 }

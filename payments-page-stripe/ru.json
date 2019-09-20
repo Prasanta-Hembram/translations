@@ -8,8 +8,6 @@
     "payments-page-stripe-page-title-invoice": "Оплатить инвойс",
     "payments-page-stripe-page-error": "Запрос на оплату уже обработан или не существует.",
     "payments-page-stripe-page-success": "Оплата прошла успешно.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "Предоставляя данные своей карты и адрес электронной почты для обработки платежа и отправки квитанции, вы соглашаетесь с {privacyPolicy}. Кроме того, ваши данные подпадают под политику вашего поставщика услуг.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "Политика Конфиденциальности andcards",
     "payments-page-stripe-pay-by-card-pay-button": "Оплатить {price}"
   }
 }

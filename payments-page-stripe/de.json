@@ -8,8 +8,6 @@
     "payments-page-stripe-page-title-invoice": "Rechnung bezahlen",
     "payments-page-stripe-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
     "payments-page-stripe-page-success": "Zahlung erfolgt.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "Mit der Übermittlung Ihrer Kartendetails und Ihrer E-Mail zur Bearbeitung der Zahlung und dem Versand der Quittung erklären Sie sich mit der {privacyPolicy} einverstanden. Darüber hinaus unterliegen Ihre Daten den Richtlinien Ihres Dienstanbieters.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "andcards Datenschutzerklärung",
     "payments-page-stripe-pay-by-card-pay-button": "Bezahlen Sie {price}"
   }
 }

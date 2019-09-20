@@ -8,8 +8,6 @@
     "payments-page-kakaopay-page-title-invoice": "Rechnung bezahlen",
     "payments-page-kakaopay-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
     "payments-page-kakaopay-page-success": "Zahlung erfolgt.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "Mit der Übermittlung Ihrer Kartendetails und Ihrer E-Mail zur Bearbeitung der Zahlung und dem Versand der Quittung erklären Sie sich mit der {privacyPolicy} einverstanden. Darüber hinaus unterliegen Ihre Daten den Richtlinien Ihres Dienstanbieters.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "andcards Datenschutzerklärung",
     "payments-page-kakaopay-pay-by-card-pay-button": "Bezahlen Sie {price}"
   }
 }

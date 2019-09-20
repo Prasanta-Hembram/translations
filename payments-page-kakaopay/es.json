@@ -8,8 +8,6 @@
     "payments-page-kakaopay-page-title-invoice": "Pagar la factura",
     "payments-page-kakaopay-page-error": "La solicitud de pago ya se ha completado o no existe.",
     "payments-page-kakaopay-page-success": "El pago ha tenido éxito.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "Al proveer los detalles de su tarjeta y correo electrónico para procesar el pago y enviar el recibo, aceptas las siguientes condiciones {privacyPolicy}. Además, sus datos están sujetos a las políticas de su proveedor de servicios.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "andcards política de privacidad",
     "payments-page-kakaopay-pay-by-card-pay-button": "Pagar {price}"
   }
 }

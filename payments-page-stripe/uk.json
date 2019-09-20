@@ -8,8 +8,6 @@
     "payments-page-stripe-page-title-invoice": "Оплатити інвойс",
     "payments-page-stripe-page-error": "Платіжний запит виконано або не існує.",
     "payments-page-stripe-page-success": "Платіж успешно завершений.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy-description": "Надаючи дані своєї картки та електронну пошту для обробки платежу та надсилання квитанції, ви погоджуєтеся з {privacyPolicy}. Крім того, ваші дані підлягають політиці вашого постачальника послуг.",
-    "payments-page-stripe-pay-by-card-pay-andcards-privacy-policy": "Політика Приватності andcards",
     "payments-page-stripe-pay-by-card-pay-button": "Оплата {price}"
   }
 }

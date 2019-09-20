@@ -8,8 +8,6 @@
     "payments-page-kakaopay-page-title-invoice": "인보이스 결제",
     "payments-page-kakaopay-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",
     "payments-page-kakaopay-page-success": "결제 완료되었습니다.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy-description": "결제 처리 및 영수증 발송을 위해 카드정보와 이메일을 제공하면 {privacyPolicy}에 동의합니다. 또한, 본인의 개인정보는 공간의 정책을 조건 합니다.",
-    "payments-page-kakaopay-pay-by-card-pay-andcards-privacy-policy": "andcards 개인정보 보호정책",
     "payments-page-kakaopay-pay-by-card-pay-button": "{price} 결제하기"
   }
 }
