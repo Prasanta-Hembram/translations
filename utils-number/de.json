@@ -1,0 +1,8 @@
+{
+  "data": {
+    "utils-number-million-suffix": "Mio.",
+    "utils-number-ten-million-suffix": "10Mio.",
+    "utils-number-ten-thousand-suffix": "10Tsd.",
+    "utils-number-thousand-suffix": "Tsd."
+  }
+}
