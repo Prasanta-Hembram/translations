@@ -12,10 +12,15 @@
     "marketing-page-features-section-apps-directory-title": "Каталог участников",
     "marketing-page-features-section-apps-directory-description": "Консолидация всех данные клиентов коворкинга",
     "marketing-page-features-section-integrations-title": "Интеграции",
+    "marketing-page-features-section-integrations-category-bookings-title": "Bookings",
+    "marketing-page-features-section-integrations-category-communication-title": "Communication",
+    "marketing-page-features-section-integrations-category-payments-title": "Payments",
+    "marketing-page-features-section-integrations-category-printing-title": "Printing",
     "marketing-page-features-section-testimonials-title": "Выбор резидентов и менеджеров сообщества",
     "marketing-page-features-section-testimonials-denisse-signature": "Денис Картер, CasaCo",
     "marketing-page-features-section-testimonials-denisse-quote": "С тех пор как мы перешли на andcards, количество бронирований переговорных удвоилось. Забронировать конференц-залы стало так просто, что они всегда заполнены!",
     "marketing-page-features-section-testimonials-gaston-signature": "Гастон Лаворато, DOERS",
-    "marketing-page-features-section-testimonials-gaston-quote": "andcards идеально подходит для управления офисными центрами и коворкингами. Программа простая, наглядная, и имеет все необходимые инструменты по доступной цене."
+    "marketing-page-features-section-testimonials-gaston-quote": "andcards идеально подходит для управления офисными центрами и коворкингами. Программа простая, наглядная, и имеет все необходимые инструменты по доступной цене.",
+    "marketing-page-features-section-testimonials-story-link": "Read success story"
   }
 }
