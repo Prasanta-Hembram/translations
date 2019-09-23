@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "연동",
-    "suite-page-organization-integrations-main-communication-title": "Communication",
-    "suite-page-organization-integrations-main-intercom-subtitle": "Intercom Subtitle",
-    "suite-page-organization-integrations-main-mailchimp-subtitle": "Maichimp Subtitle",
-    "suite-page-organization-integrations-main-payments-title": "Payments",
-    "suite-page-organization-integrations-main-printing-title": "Printing",
-    "suite-page-organization-integrations-main-sindoh-subtitle": "Sindoh Subtitle",
-    "suite-page-organization-integrations-main-stripe-subtitle": "Stripe Subtitle"
+    "suite-page-organization-integrations-main-communication-title": "통신",
+    "suite-page-organization-integrations-main-intercom-subtitle": "고객 소통을 구성하세요",
+    "suite-page-organization-integrations-main-mailchimp-subtitle": "이메일 마케팅을 자동화하세요",
+    "suite-page-organization-integrations-main-payments-title": "결제",
+    "suite-page-organization-integrations-main-printing-title": "인쇄",
+    "suite-page-organization-integrations-main-sindoh-subtitle": "회원이 인쇄된 페이지 수를 확인하세요",
+    "suite-page-organization-integrations-main-stripe-subtitle": "회의실 예약에 카드 결제를 설정하세요"
   }
 }
