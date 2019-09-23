@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-statistics-main-title": "Statistik",
+    "suite-page-organization-statistics-main-membership-section": "Mitgliedschaft",
+    "suite-page-organization-statistics-main-membership-section-activated-members": "Aktivierte Mitglieder",
+    "suite-page-organization-statistics-main-membership-section-members": "Mitglieder",
+    "suite-page-organization-statistics-main-membership-section-new-this-month": "Diesen Monat neu",
+    "suite-page-organization-statistics-main-membership-section-teams": "Teams",
+    "suite-page-organization-statistics-main-revenue-by-payment-section": "{month} Einnahmen nach Zahlungsart",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-card": "Karte",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "Bar",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Rechnungen",
+    "suite-page-organization-statistics-main-revenue-section": "Einnahmen"
+  }
+}
