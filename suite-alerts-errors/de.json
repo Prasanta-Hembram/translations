@@ -25,8 +25,6 @@
     "suite-alerts-errors-no-enough-cash": "Nicht genug Bargeld.",
     "suite-alerts-errors-no-internet": "Keine Internetverbindung.",
     "suite-alerts-errors-no-printers-connections": "Der Workspace hat keine Druckerintegration.",
-    "suite-alerts-errors-organization-code-is-invalid": "Der Tag sollte nur lateinische Zeichen und Bindestriche enthalten.",
-    "suite-alerts-errors-organization-code-is-taken": "Der Tag ist bereits vergeben. Versuchen Sie einen anderen.",
     "suite-alerts-errors-organization-create-params-invalid": "Der Workspace konnte nicht erstellt werden. Überprüfen Sie alle Felder und versuchen Sie es erneut.",
     "suite-alerts-errors-organization-update-params-invalid": "Der Workspace konnte nicht aktualisiert werden. Überprüfen Sie alle Felder und versuchen Sie es erneut.",
     "suite-alerts-errors-payment-price-high": "Der Gesamtbetrag ist höher, als das Zahlungssystem es zulässt.",
