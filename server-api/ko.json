@@ -56,8 +56,6 @@
     "membership-request-approve-notification-title": "회원가입 요청",
     "membership-request-reject-notification-body": "{organizationTitle}의 가입이 거절되었습니다.",
     "membership-request-reject-notification-title": "회원가입 요청",
-    "membership-request-review-notification-body": "{organizationTitle}에 회원가입 요청이 있습니다. 지금 확인해보세요.",
-    "membership-request-review-notification-title": "회원가입 요청",
     "payment-receipt-email-customer-number": "공급받는자 : {customerName}",
     "payment-receipt-email-footer-net-amount": "공급가액",
     "payment-receipt-email-footer-paid-amount": "결제완료금액",

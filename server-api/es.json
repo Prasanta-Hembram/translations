@@ -56,8 +56,6 @@
     "membership-request-approve-notification-title": "Solicitud de Membresía",
     "membership-request-reject-notification-body": "Solicitud para unirse a {organizationTitle} fue rechazada.",
     "membership-request-reject-notification-title": "Solicitud de Membresía",
-    "membership-request-review-notification-body": "Nueva solicitud para unirse a {organizationTitle}. Revisar y resolver.",
-    "membership-request-review-notification-title": "Solicitud de Membresía",
     "payment-receipt-email-customer-number": "Cliente {customerName}",
     "payment-receipt-email-footer-net-amount": "Monto neto",
     "payment-receipt-email-footer-paid-amount": "Monto pagado",

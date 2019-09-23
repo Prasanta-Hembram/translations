@@ -56,8 +56,6 @@
     "membership-request-approve-notification-title": "Запит на приєднання",
     "membership-request-reject-notification-body": "Запит приєднатись до {organizationTitle} відхилено.",
     "membership-request-reject-notification-title": "Запит на приєднання",
-    "membership-request-review-notification-body": "Новий запит приєднатись до {organizationTitle}. Переглянути та вирішити.",
-    "membership-request-review-notification-title": "Запит на приєднання",
     "payment-receipt-email-customer-number": "Клієнт {customerName}",
     "payment-receipt-email-footer-net-amount": "Без податку",
     "payment-receipt-email-footer-paid-amount": "Сплачено",

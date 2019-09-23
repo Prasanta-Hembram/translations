@@ -56,8 +56,6 @@
     "membership-request-approve-notification-title": "Запрос на присоединение",
     "membership-request-reject-notification-body": "Запрос на присоединение к {organizationTitle} был отклонен.",
     "membership-request-reject-notification-title": "Запрос на присоединение",
-    "membership-request-review-notification-body": "Новый запрос на присоединение к {organizationTitle}. Просмотреть и разрешить.",
-    "membership-request-review-notification-title": "Запрос на присоединение",
     "payment-receipt-email-customer-number": "Клиент {customerName}",
     "payment-receipt-email-footer-net-amount": "Без налога",
     "payment-receipt-email-footer-paid-amount": "Оплачено",

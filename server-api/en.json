@@ -56,8 +56,6 @@
     "membership-request-approve-notification-title": "Membership Request",
     "membership-request-reject-notification-body": "Request to join {organizationTitle} was rejected.",
     "membership-request-reject-notification-title": "Membership Request",
-    "membership-request-review-notification-body": "New request to join {organizationTitle}. Review and resolve.",
-    "membership-request-review-notification-title": "Membership Request",
     "payment-receipt-email-customer-number": "Customer {customerName}",
     "payment-receipt-email-footer-net-amount": "Net Amount",
     "payment-receipt-email-footer-paid-amount": "Paid Amount",

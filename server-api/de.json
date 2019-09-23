@@ -56,8 +56,6 @@
     "membership-request-approve-notification-title": "Mitgliedschaftsantrag",
     "membership-request-reject-notification-body": "Der Antrag auf Beitritt zu {organizationTitle} wurde abgelehnt.",
     "membership-request-reject-notification-title": "Mitgliedschaftsantrag",
-    "membership-request-review-notification-body": "Neuer Antrag, um {organizationTitle} beizutreten. Überprüfen und erledigen.",
-    "membership-request-review-notification-title": "Mitgliedschaftsantrag",
     "payment-receipt-email-customer-number": "Kunde {customerName}",
     "payment-receipt-email-footer-net-amount": "Nettobetrag",
     "payment-receipt-email-footer-paid-amount": "Bezahlter Betrag",
