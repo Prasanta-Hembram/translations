@@ -2,11 +2,11 @@
   "data": {
     "suite-page-organization-integrations-main-title": "Integrations",
     "suite-page-organization-integrations-main-communication-title": "Communication",
-    "suite-page-organization-integrations-main-intercom-subtitle": "Intercom Subtitle",
-    "suite-page-organization-integrations-main-mailchimp-subtitle": "Maichimp Subtitle",
+    "suite-page-organization-integrations-main-intercom-subtitle": "Organize customer messaging",
+    "suite-page-organization-integrations-main-mailchimp-subtitle": "Automate email marketing",
     "suite-page-organization-integrations-main-payments-title": "Payments",
     "suite-page-organization-integrations-main-printing-title": "Printing",
-    "suite-page-organization-integrations-main-sindoh-subtitle": "Sindoh Subtitle",
-    "suite-page-organization-integrations-main-stripe-subtitle": "Stripe Subtitle"
+    "suite-page-organization-integrations-main-sindoh-subtitle": "View how many pages members printed",
+    "suite-page-organization-integrations-main-stripe-subtitle": "Accept card payments for bookings"
   }
 }
