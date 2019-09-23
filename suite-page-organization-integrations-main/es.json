@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Integraciones",
-    "suite-page-organization-integrations-main-communication-title": "Communication",
-    "suite-page-organization-integrations-main-intercom-subtitle": "Intercom Subtitle",
-    "suite-page-organization-integrations-main-mailchimp-subtitle": "Maichimp Subtitle",
-    "suite-page-organization-integrations-main-payments-title": "Payments",
-    "suite-page-organization-integrations-main-printing-title": "Printing",
-    "suite-page-organization-integrations-main-sindoh-subtitle": "Sindoh Subtitle",
-    "suite-page-organization-integrations-main-stripe-subtitle": "Stripe Subtitle"
+    "suite-page-organization-integrations-main-communication-title": "Communicación",
+    "suite-page-organization-integrations-main-intercom-subtitle": "Organizar la conversación con el cliente",
+    "suite-page-organization-integrations-main-mailchimp-subtitle": "Automatice el marketing por correo electrónico",
+    "suite-page-organization-integrations-main-payments-title": "Pagos",
+    "suite-page-organization-integrations-main-printing-title": "Imprenta",
+    "suite-page-organization-integrations-main-sindoh-subtitle": "Ver cuántas páginas imprimieron los miembros",
+    "suite-page-organization-integrations-main-stripe-subtitle": "Aceptar pagos con tarjeta para reservas"
   }
 }
