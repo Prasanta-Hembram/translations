@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-integrations-kiosk-title": "Integration",
-    "suite-page-organization-integrations-kiosk-description": "andcards Kiosk is a meeting room display app that signals room availability. The app background turns green if a meeting room is available right now, yellow if available soon, and red if unavailable. Download Kiosk app to your meeting room display to:\n- Preview real-time room schedule at the meeting room door.\n- See room availability at a distance.\n\nTo set up Kiosk, download it to the tablet, log in with administrator account and select the room.\nandcards Kiosk minimum system requirements:\n- Android 6.0 and iOS 9.0.\n\nLearn more at https://andcards.com/kiosk.",
+    "suite-page-organization-integrations-kiosk-title": "Інтеграція",
+    "suite-page-organization-integrations-kiosk-description": "andcards Kiosk - це застосунок для дисплеїв в переговорних, що показує статус кімнати. Фон застосунку стає зеленим, якщо кімната вільна, жовтим - якщо звільниться невдовзі, червоним - зайнята. Завантажте додаток Kiosk для вашого дисплею, щоб:\n- Бачити розклад кімнати в реальному часі прямо біля дверей.\n- Бачити статус кімнати здалека.\n\nЩоб налаштувати Kiosk, завантажте його на планшет, увійдіть з акаунту адміністратора та виберіть кімнату.\nМінімальні системні вимоги andcards Kiosk:\n- Android 6.0 і iOS 9.0.\n\nДізнатись більше на https://andcards.com/kiosk.",
     "suite-page-organization-integrations-kiosk-subtitle": "andcards Kiosk"
   }
 }
