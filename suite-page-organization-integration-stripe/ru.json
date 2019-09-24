@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-stripe-title": "Integration",
-    "suite-page-organization-integrations-stripe-button-connect": "Connect",
-    "suite-page-organization-integrations-stripe-description": "Enable Stripe to instantly acquire debit or credit cards right inside the app. Turn on “Card” payment method for:\n- Meeting room booking page.\n- Invoice payment page.\n\nStripe payments work in-app without redirecting or requiring to install another app. To enable the integration, have your API keys ready: https://dashboard.stripe.com/apikeys.\n\nStripe supported countries, features, and pricing: https://stripe.com.",
+    "suite-page-organization-integrations-stripe-title": "Интеграция",
+    "suite-page-organization-integrations-stripe-button-connect": "Подключить",
+    "suite-page-organization-integrations-stripe-description": "Включите Stripe чтобы проводить платежы с банковских карт прямо в приложении. Включите метод оплаты “Карточка” для:\n- Страницы бронирования переговорных.\n- Страницы оплаты инвойсов.\n\nОплата Stripe работает в приложении, без перенаправления или запроса на установления дополнительных приложений. Чтобы включить интеграцию, подготовьте свои ключи к API : https://dashboard.stripe.com/apikeys.\n\nФункции, цены и страны покрытия Stripe: https://stripe.com.",
     "suite-page-organization-integrations-stripe-subtitle": "Stripe"
   }
 }
