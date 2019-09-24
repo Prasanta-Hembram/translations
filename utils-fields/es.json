@@ -3,16 +3,16 @@
     "utils-fields-about": "Acerca de ti",
     "utils-fields-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
     "utils-fields-email": "Email",
-    "utils-fields-email-placeholder": "Escribe tu correo electrónico",
+    "utils-fields-email-placeholder": "Escribe un correo electrónico",
     "utils-fields-first-name": "Nombre",
-    "utils-fields-first-name-placeholder": "Escribe tu nombre",
+    "utils-fields-first-name-placeholder": "Escribe un nombre",
     "utils-fields-last-name": "Apellido",
-    "utils-fields-last-name-placeholder": "Escribe tu apellido",
+    "utils-fields-last-name-placeholder": "Escribe un apellido",
     "utils-fields-organization": "Organización",
     "utils-fields-organization-placeholder": "Escribe el nombre de la empresa",
     "utils-fields-phone-number": "Número telefónico",
-    "utils-fields-phone-number-placeholder": "Escribe tu número de teléfono",
+    "utils-fields-phone-number-placeholder": "Escribe un número de teléfono",
     "utils-fields-title": "Cargo",
-    "utils-fields-title-placeholder": "Escribe tu posición en la organización"
+    "utils-fields-title-placeholder": "Escribe la posición en la organización"
   }
 }
