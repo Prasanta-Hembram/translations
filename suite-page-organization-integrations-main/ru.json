@@ -1,14 +1,14 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Интеграции",
-    "suite-page-organization-integrations-main-bookings-title": "Bookings",
-    "suite-page-organization-integrations-main-communication-title": "Communication",
-    "suite-page-organization-integrations-main-intercom-subtitle": "Intercom Subtitle",
-    "suite-page-organization-integrations-main-kiosk-subtitle": "See room schedule at a distance",
-    "suite-page-organization-integrations-main-mailchimp-subtitle": "Maichimp Subtitle",
-    "suite-page-organization-integrations-main-payments-title": "Payments",
-    "suite-page-organization-integrations-main-printing-title": "Printing",
-    "suite-page-organization-integrations-main-sindoh-subtitle": "Sindoh Subtitle",
-    "suite-page-organization-integrations-main-stripe-subtitle": "Stripe Subtitle"
+    "suite-page-organization-integrations-main-bookings-title": "Бронирования",
+    "suite-page-organization-integrations-main-communication-title": "Комуникации",
+    "suite-page-organization-integrations-main-intercom-subtitle": "Организуйте общение с клиентами",
+    "suite-page-organization-integrations-main-kiosk-subtitle": "Проверяйте график переговорной на расстоянии",
+    "suite-page-organization-integrations-main-mailchimp-subtitle": "Автоматизуйте имейл маркетинг",
+    "suite-page-organization-integrations-main-payments-title": "Оплаты",
+    "suite-page-organization-integrations-main-printing-title": "Печать",
+    "suite-page-organization-integrations-main-sindoh-subtitle": "Смотрите, как много страниц печатают вашы резиденты",
+    "suite-page-organization-integrations-main-stripe-subtitle": "Принимайте оплату картой для бронирований"
   }
 }
