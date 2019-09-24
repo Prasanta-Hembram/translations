@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-integrations-mailchimp-title": "Integration",
-    "suite-page-organization-integrations-mailchimp-description": "Synchronize member information from Directory to an audience on Mailchimp. Use the full power of Mailchimp platform to:\n- Send automated welcome email to new members.\n- Email monthly newsletters to all members at once.\n- Remind team managers to pay by invoice.\n\nUse member information to personalize email. The following data is pushed to Mailchimp:\n- Name.\n- Surname.\n- Email.\n- Team Manager (tag).\n\nMailchimp features and pricing: https://mailchimp.com.",
+    "suite-page-organization-integrations-mailchimp-title": "Integración",
+    "suite-page-organization-integrations-mailchimp-description": "Sincronizar la información de los miembros del Directorio con  Mailchimp. Utilice todo el poder de la plataforma de Mailchimp para: Enviar correo electrónico de bienvenida automatizado a los nuevos miembros. Enviar boletines mensuales por correo electrónico a todos los miembros a la vez. Recuérdele a los gerentes de equipos que paguen la factura. Utilice la información de los miembros para personalizar el correo electrónico. Los siguientes datos son enviados a Mailchimp: Nombre, Apellido, Email, Team Manager (etiqueta), Funciones y precios de Mailchimp: https://mailchimp.com",
     "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
   }
 }
