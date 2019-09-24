@@ -10,8 +10,11 @@
     "suite-page-organization-directory-user-main-button-profile": "Profil",
     "suite-page-organization-directory-user-main-button-settings": "Einstellungen",
     "suite-page-organization-directory-user-main-error-user-not-found": "Dieser Benutzer ist möglicherweise nicht vorhanden oder wurde entfernt.",
+    "suite-page-organization-directory-user-main-invited-email": "Invite sent to {userEmail}.",
     "suite-page-organization-directory-user-main-leave-repeat": "Erneut versuchen",
     "suite-page-organization-directory-user-main-leave-user-failure": "Benutzer konnte nicht aus dem Workspace entfernt werden.",
+    "suite-page-organization-directory-user-main-remove-invitation": "Remove User",
+    "suite-page-organization-directory-user-main-resend-invite": "Resent Invite",
     "suite-page-organization-directory-user-main-section-membership-title": "Mitgliedschaft"
   }
 }

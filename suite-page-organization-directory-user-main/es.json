@@ -10,8 +10,11 @@
     "suite-page-organization-directory-user-main-button-profile": "Perfil",
     "suite-page-organization-directory-user-main-button-settings": "Configuración",
     "suite-page-organization-directory-user-main-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-directory-user-main-invited-email": "Invite sent to {userEmail}.",
     "suite-page-organization-directory-user-main-leave-repeat": "Inténtalo de nuevo",
     "suite-page-organization-directory-user-main-leave-user-failure": "No se pudo eliminar al usuario del espacio de trabajo.",
+    "suite-page-organization-directory-user-main-remove-invitation": "Remove User",
+    "suite-page-organization-directory-user-main-resend-invite": "Resent Invite",
     "suite-page-organization-directory-user-main-section-membership-title": "Membresía"
   }
 }

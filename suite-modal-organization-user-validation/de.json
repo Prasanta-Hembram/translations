@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-modal-organization-user-validation-title": "Erforderliche Daten eingeben",
+    "suite-modal-organization-user-validation-button-reject": "Reject",
     "suite-modal-organization-user-validation-error-about": "Schreib etwas über dich",
     "suite-modal-organization-user-validation-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-modal-organization-user-validation-error-first-name": "Geben Sie einen Vornamen ein.",
