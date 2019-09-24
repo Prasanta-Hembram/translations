@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-intercom-title": "Integration",
-    "suite-page-organization-integrations-intercom-button-connect": "Connect",
-    "suite-page-organization-integrations-intercom-description": "Enable Intercom to organize communication with your workspace space customers. Connect Intercom to:\n- Sync member information to Intercom platform.\n- See when members are online.\n- Chat to your web and mobile app members.\n- Chat to your workspace website visitors.\n- Automate in-app messages and email communications.\n- Organize community guidelines and help.\n\nIntercom adds a “Helpdesk” button to My Workspaces page. Members use it to find help articles and chat to you. To install Intercom, first obtain API keys from Settings > Installation.\n\nIntercom features and pricing: https://intercom.com.",
+    "suite-page-organization-integrations-intercom-title": "Интеграция",
+    "suite-page-organization-integrations-intercom-button-connect": "Прсоеденить",
+    "suite-page-organization-integrations-intercom-description": "Включите Intercom чтобы организовать комуникацию с клиентами коворкинга. Присоедените Intercom к:\n- Синхронизуйте информацию о клиентах с платформой Intercom.\n- Смотрите, когда резиденты в сети.\n- Общяйтесь с пользователями ваших веб и мобильных приложений.\n- Общяйтесь с гостями вашего сайта.\n- Автоматизируйте сообщения в приложении и имейл комуникацию.\n- Организуйте правила сообщества и помощь.\n\nIntercom добавит кнопку “Помощь” на страницу Мои Коворкинги. Резиденты используют её чтобы найти нужную информацию или обратиться за помощью. Чтобы включить Intercom, сначала получите ключи API в Настройки > Инсталляция.\n\nФункции и цены Intercom : https://intercom.com.",
     "suite-page-organization-integrations-intercom-subtitle": "Intercom"
   }
 }
