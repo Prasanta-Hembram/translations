@@ -1,8 +1,10 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Integraciones",
+    "suite-page-organization-integrations-main-bookings-title": "Bookings",
     "suite-page-organization-integrations-main-communication-title": "Communicación",
     "suite-page-organization-integrations-main-intercom-subtitle": "Organizar la conversación con el cliente",
+    "suite-page-organization-integrations-main-kiosk-subtitle": "See room schedule at a distance",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Automatice el marketing por correo electrónico",
     "suite-page-organization-integrations-main-payments-title": "Pagos",
     "suite-page-organization-integrations-main-printing-title": "Imprenta",

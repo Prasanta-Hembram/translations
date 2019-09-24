@@ -1,8 +1,10 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Інтеграції",
+    "suite-page-organization-integrations-main-bookings-title": "Bookings",
     "suite-page-organization-integrations-main-communication-title": "Communication",
     "suite-page-organization-integrations-main-intercom-subtitle": "Intercom Subtitle",
+    "suite-page-organization-integrations-main-kiosk-subtitle": "See room schedule at a distance",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Maichimp Subtitle",
     "suite-page-organization-integrations-main-payments-title": "Payments",
     "suite-page-organization-integrations-main-printing-title": "Printing",
