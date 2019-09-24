@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-stripe-title": "Integration",
-    "suite-page-organization-integrations-stripe-button-connect": "Connect",
-    "suite-page-organization-integrations-stripe-description": "Enable Stripe to instantly acquire debit or credit cards right inside the app. Turn on “Card” payment method for:\n- Meeting room booking page.\n- Invoice payment page.\n\nStripe payments work in-app without redirecting or requiring to install another app. To enable the integration, have your API keys ready: https://dashboard.stripe.com/apikeys.\n\nStripe supported countries, features, and pricing: https://stripe.com.",
+    "suite-page-organization-integrations-stripe-title": "Інтеграція",
+    "suite-page-organization-integrations-stripe-button-connect": "Підключити",
+    "suite-page-organization-integrations-stripe-description": "Включіть Stripe щоб зразу приймати оплату банківськими картками в застосунку. Включіть спосіб оплати “Картка”, для:\n- Сторінки резервацій кімнат.\n- Сторінки оплати інвойсів.\n\nОплата Stripe проходить в застосунку без перенаправлення чи завантаження інших додатків. Щоб включити інтеграцію, підготуйте свої ключі для API: https://dashboard.stripe.com/apikeys.\n\nФункції, ціни та країни покриття Stripe: https://stripe.com.",
     "suite-page-organization-integrations-stripe-subtitle": "Stripe"
   }
 }
