@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-integrations-mailchimp-title": "Integration",
-    "suite-page-organization-integrations-mailchimp-description": "Synchronize member information from Directory to an audience on Mailchimp. Use the full power of Mailchimp platform to:\n- Send automated welcome email to new members.\n- Email monthly newsletters to all members at once.\n- Remind team managers to pay by invoice.\n\nUse member information to personalize email. The following data is pushed to Mailchimp:\n- Name.\n- Surname.\n- Email.\n- Team Manager (tag).\n\nMailchimp features and pricing: https://mailchimp.com.",
+    "suite-page-organization-integrations-mailchimp-title": "Интеграция",
+    "suite-page-organization-integrations-mailchimp-description": "Синхронизуйте информацию о резидентах з Каталога в рассылку Mailchimp. Используйте платформу Mailchimp на полную, чтобы:\n- Отправлять автоматические приветствия новым резидентам.\n- Отправлять месячные новостные имейлы всем резидентам.\n- Напоминать менеджерам команд оплачивать инвойсы.\n\nИспользуйте информацию о резидентах для более персонализированых имейлов. Эти данные передаются в Mailchimp:\n- Имя.\n- Фамилия.\n- Имейл.\n- Менеджер комманды (тег).\n\nФункции и цены Mailchimp: https://mailchimp.com.",
     "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
   }
 }
