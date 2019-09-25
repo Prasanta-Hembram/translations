@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-modal-organization-user-validation-title": "필수 정보",
-    "suite-modal-organization-user-validation-button-reject": "Reject",
+    "suite-modal-organization-user-validation-button-reject": "거부",
     "suite-modal-organization-user-validation-error-about": "자기소개를 입력하세요.",
     "suite-modal-organization-user-validation-error-email": "이메일을 입력하세요.",
     "suite-modal-organization-user-validation-error-first-name": "이름을 입력하세요.",
