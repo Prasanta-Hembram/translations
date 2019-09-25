@@ -10,11 +10,11 @@
     "suite-page-organization-directory-user-main-button-profile": "Профиль",
     "suite-page-organization-directory-user-main-button-settings": "Настройки",
     "suite-page-organization-directory-user-main-error-user-not-found": "Участника не существует или же он был удален.",
-    "suite-page-organization-directory-user-main-invited-email": "Invite sent to {userEmail}.",
+    "suite-page-organization-directory-user-main-invited-email": "Приглашение отправлено {userEmail}.",
     "suite-page-organization-directory-user-main-leave-repeat": "Попробовать еще раз",
     "suite-page-organization-directory-user-main-leave-user-failure": "Не удалось удалить участника.",
-    "suite-page-organization-directory-user-main-remove-invitation": "Remove User",
-    "suite-page-organization-directory-user-main-resend-invite": "Resent Invite",
+    "suite-page-organization-directory-user-main-remove-invitation": "Удалить участника",
+    "suite-page-organization-directory-user-main-resend-invite": "Отправить приглашение ещё раз",
     "suite-page-organization-directory-user-main-section-membership-title": "Участие"
   }
 }
