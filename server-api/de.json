@@ -24,7 +24,6 @@
     "email-confirmation-subject": "Bei {title} anmelden",
     "email-confirmation-text": "Benutzen Sie es, um innerhalb von 5 Minuten auf Ihr Konto zuzugreifen.",
     "email-confirmation-title": "Bestätigungscode",
-    "feed-post-notification-title": "{userName} hat in {organizationTitle} geschrieben",
     "invoice-finalize-notification-body": "{teamTitle} Rechnung für {invoiceMonth} ist bereit! Einsehen und ganz einfach bezahlen.",
     "invoice-finalize-notification-title": "{organizationTitle} Abrechnung",
     "invoice-button-pay": "Bezahlen",

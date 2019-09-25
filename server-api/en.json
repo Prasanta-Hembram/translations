@@ -24,7 +24,6 @@
     "email-confirmation-subject": "Sign in to {title}",
     "email-confirmation-text": "Use it to access your account within 5 minutes.",
     "email-confirmation-title": "Confirmation Code",
-    "feed-post-notification-title": "{userName} posted to {organizationTitle}",
     "invoice-finalize-notification-body": "{teamTitle} invoice for {invoiceMonth} is ready! View and pay right away.",
     "invoice-finalize-notification-title": "{organizationTitle} Billing",
     "invoice-button-pay": "Pay",
