@@ -9,7 +9,7 @@
     "suite-page-organization-integrations-mailchimp-account-title": "Account",
     "suite-page-organization-integrations-mailchimp-button-connect": "Connect",
     "suite-page-organization-integrations-mailchimp-button-disconnect": "Disconnect",
-    "suite-page-organization-integrations-mailchimp-description": "Синхронизуйте информацию о резидентах з Каталога в рассылку Mailchimp. Используйте платформу Mailchimp на полную, чтобы:\n- Отправлять автоматические приветствия новым резидентам.\n- Отправлять месячные новостные имейлы всем резидентам.\n- Напоминать менеджерам команд оплачивать инвойсы.\n\nИспользуйте информацию о резидентах для более персонализированых имейлов. Эти данные передаются в Mailchimp:\n- Имя.\n- Фамилия.\n- Имейл.\n- Менеджер комманды (тег).\n\nФункции и цены Mailchimp: https://mailchimp.com.",
+    "suite-page-organization-integrations-mailchimp-description": "Синхронизируйте информацию о резидентах в Каталоге и рассылке Mailchimp. Используйте платформу Mailchimp на полную, чтобы:\n- Отправлять автоматические приветствия новым резидентам.\n- Отправлять месячные новостные имейлы всем резидентам.\n- Напоминать менеджерам команд оплачивать инвойсы.\n\nИспользуйте информацию о резидентах для более персонализированых имейлов. Эти данные передаются в Mailchimp:\n- Имя.\n- Фамилия.\n- Имейл.\n- Менеджер комманды (тег).\n\nФункции и цены Mailchimp: https://mailchimp.com.",
     "suite-page-organization-integrations-mailchimp-login-title": "Login into Mailchimp",
     "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
   }
