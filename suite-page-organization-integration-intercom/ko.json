@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-integrations-intercom-title": "Integration",
-    "suite-page-organization-integrations-intercom-button-connect": "Connect",
+    "suite-page-organization-integrations-intercom-title": "연동",
+    "suite-page-organization-integrations-intercom-button-connect": "연결하기",
     "suite-page-organization-integrations-intercom-description": "Enable Intercom to organize communication with your workspace space customers. Connect Intercom to:\n- Sync member information to Intercom platform.\n- See when members are online.\n- Chat to your web and mobile app members.\n- Chat to your workspace website visitors.\n- Automate in-app messages and email communications.\n- Organize community guidelines and help.\n\nIntercom adds a “Helpdesk” button to My Workspaces page. Members use it to find help articles and chat to you. To install Intercom, first obtain API keys from Settings > Installation.\n\nIntercom features and pricing: https://intercom.com.",
     "suite-page-organization-integrations-intercom-subtitle": "Intercom"
   }
