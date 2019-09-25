@@ -3,18 +3,18 @@
     "suite-page-organization-directory-user-main-button-booking": "예약 현황",
     "suite-page-organization-directory-user-main-button-cash-balance": "현금 잔액",
     "suite-page-organization-directory-user-main-button-credits": "크레딧",
-    "suite-page-organization-directory-user-main-button-delete-user": "사용자 삭제",
+    "suite-page-organization-directory-user-main-button-delete-user": "회원 삭제",
     "suite-page-organization-directory-user-main-button-history": "결제 내역",
     "suite-page-organization-directory-user-main-button-plan": "플랜",
     "suite-page-organization-directory-user-main-button-printed-pages": "프린터",
     "suite-page-organization-directory-user-main-button-profile": "프로필",
     "suite-page-organization-directory-user-main-button-settings": "설정",
     "suite-page-organization-directory-user-main-error-user-not-found": "회원이 존재하지 않거나 삭제되었을 수 있습니다.",
-    "suite-page-organization-directory-user-main-invited-email": "Invite sent to {userEmail}.",
+    "suite-page-organization-directory-user-main-invited-email": "초대장을 {userEmail}로 발송되었습니다.",
     "suite-page-organization-directory-user-main-leave-repeat": "다시시도",
     "suite-page-organization-directory-user-main-leave-user-failure": "사용자 삭제 실패.",
-    "suite-page-organization-directory-user-main-remove-invitation": "Remove User",
-    "suite-page-organization-directory-user-main-resend-invite": "Resent Invite",
+    "suite-page-organization-directory-user-main-remove-invitation": "회원 삭제",
+    "suite-page-organization-directory-user-main-resend-invite": "초대 재발송",
     "suite-page-organization-directory-user-main-section-membership-title": "멤버십"
   }
 }
