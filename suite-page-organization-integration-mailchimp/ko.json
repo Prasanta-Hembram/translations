@@ -1,16 +1,16 @@
 {
   "data": {
     "suite-page-organization-integrations-mailchimp-title": "연동",
-    "suite-page-organization-integrations-mailchimp-account-audience": "Audience",
-    "suite-page-organization-integrations-mailchimp-account-audience-default": "Not Selected",
+    "suite-page-organization-integrations-mailchimp-account-audience": "수신자(Audience)",
+    "suite-page-organization-integrations-mailchimp-account-audience-default": "선택 않음",
     "suite-page-organization-integrations-mailchimp-account-login-email": "Email",
-    "suite-page-organization-integrations-mailchimp-account-login-name": "Username",
-    "suite-page-organization-integrations-mailchimp-account-name": "Account Name",
-    "suite-page-organization-integrations-mailchimp-account-title": "Account",
-    "suite-page-organization-integrations-mailchimp-button-connect": "Connect",
-    "suite-page-organization-integrations-mailchimp-button-disconnect": "Disconnect",
-    "suite-page-organization-integrations-mailchimp-description": "Synchronize member information from Directory to an audience on Mailchimp. Use the full power of Mailchimp platform to:\n- Send automated welcome email to new members.\n- Email monthly newsletters to all members at once.\n- Remind team managers to pay by invoice.\n\nUse member information to personalize email. The following data is pushed to Mailchimp:\n- Name.\n- Surname.\n- Email.\n- Team Manager (tag).\n\nMailchimp features and pricing: https://mailchimp.com.",
-    "suite-page-organization-integrations-mailchimp-login-title": "Login into Mailchimp",
+    "suite-page-organization-integrations-mailchimp-account-login-name": "사용자",
+    "suite-page-organization-integrations-mailchimp-account-name": "계정 명",
+    "suite-page-organization-integrations-mailchimp-account-title": "계정",
+    "suite-page-organization-integrations-mailchimp-button-connect": "연결하기",
+    "suite-page-organization-integrations-mailchimp-button-disconnect": "연결 끊기",
+    "suite-page-organization-integrations-mailchimp-description": "회원 찾기의 회원 정보를 Mailchimp에 동기화시키세요. Mailchimp 플랫폼의 모든 기능을 사용해보세요 :\n∙ 신규 회원에 환영 이메일 자동 송부.\n∙ 모든 회원에게 한 번에 매달 뉴스레터 이메일 발신.\n∙ 팀 매니저에 인보이스 지불 상기.\n\n회원 정보를 사용하여 이메일을 수신자 지정하세요. 다음 정보는 Mailchimp에 의해 수집됩니다 :\n∙ 이름\n∙ 성\n∙ 이메일\n∙ 팀 매니저 (태그)\n\nMailchimp 기능 및 가격 : https://mailchimp.com",
+    "suite-page-organization-integrations-mailchimp-login-title": "Mailchimp 로그인",
     "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
   }
 }
