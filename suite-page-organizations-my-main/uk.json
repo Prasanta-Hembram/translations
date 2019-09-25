@@ -2,10 +2,10 @@
   "data": {
     "suite-page-organizations-my-main-main-title": "Мої коворкінги",
     "suite-page-organizations-my-main-button-branches": "Відділення",
-    "suite-page-organizations-my-main-button-create": "Створити новий",
+    "suite-page-organizations-my-main-button-create": "Створити новий коворкінг",
     "suite-page-organizations-my-main-button-search": "Пошук",
     "suite-page-organizations-my-main-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
-    "suite-page-organizations-my-main-no-coworkings": "To join a workspace, you need an invitation. Ask a manager to invite you by email.\n\nRunning a workspace? Easily manage customers and automate routines.",
+    "suite-page-organizations-my-main-no-coworkings": "Щоб долучитися до коворкінгу, необхідне запрошення. Попросіть менеджера коворкінгу надіслати вам запрошення електронною поштою.\n\nКеруєте коворкінгом? Легко працюйте з клієнтами та автоматизуйте рутинні задачі.",
     "suite-page-organizations-my-main-no-coworkings-title": "Розпочнімо!",
     "suite-page-organizations-my-main-subscription-trial-button": "Підписатись",
     "suite-page-organizations-my-main-subscription-trial-days-left": "Завершується {days}.",
