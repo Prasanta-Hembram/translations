@@ -2,10 +2,10 @@
   "data": {
     "suite-page-organizations-my-main-main-title": "나의 공간",
     "suite-page-organizations-my-main-button-branches": "지점",
-    "suite-page-organizations-my-main-button-create": "새로 생성하기",
+    "suite-page-organizations-my-main-button-create": "Create New Workspace",
     "suite-page-organizations-my-main-button-search": "검색",
     "suite-page-organizations-my-main-get-failure": "공간을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organizations-my-main-no-coworkings": "입주사인 경우 기존 공간에 가입하세요. 커뮤니티 관리자일 경우 새 작업 공간을 생성하세요.",
+    "suite-page-organizations-my-main-no-coworkings": "To join a workspace, you need an invitation. Ask a manager to invite you by email.\nRunning a workspace? Easily manage customers and automate routines.",
     "suite-page-organizations-my-main-no-coworkings-title": "시작해볼까요?",
     "suite-page-organizations-my-main-subscription-trial-button": "구독하기",
     "suite-page-organizations-my-main-subscription-trial-days-left": "시험은 {days}에 만료됩니다.",
