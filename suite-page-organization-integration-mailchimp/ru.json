@@ -1,7 +1,16 @@
 {
   "data": {
     "suite-page-organization-integrations-mailchimp-title": "Интеграция",
+    "suite-page-organization-integrations-mailchimp-account-audience": "Audience",
+    "suite-page-organization-integrations-mailchimp-account-audience-default": "Not Selected",
+    "suite-page-organization-integrations-mailchimp-account-login-email": "Email",
+    "suite-page-organization-integrations-mailchimp-account-login-name": "Username",
+    "suite-page-organization-integrations-mailchimp-account-name": "Account Name",
+    "suite-page-organization-integrations-mailchimp-account-title": "Account",
+    "suite-page-organization-integrations-mailchimp-button-connect": "Connect",
+    "suite-page-organization-integrations-mailchimp-button-disconnect": "Disconnect",
     "suite-page-organization-integrations-mailchimp-description": "Синхронизуйте информацию о резидентах з Каталога в рассылку Mailchimp. Используйте платформу Mailchimp на полную, чтобы:\n- Отправлять автоматические приветствия новым резидентам.\n- Отправлять месячные новостные имейлы всем резидентам.\n- Напоминать менеджерам команд оплачивать инвойсы.\n\nИспользуйте информацию о резидентах для более персонализированых имейлов. Эти данные передаются в Mailchimp:\n- Имя.\n- Фамилия.\n- Имейл.\n- Менеджер комманды (тег).\n\nФункции и цены Mailchimp: https://mailchimp.com.",
+    "suite-page-organization-integrations-mailchimp-login-title": "Login into Mailchimp",
     "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
   }
 }
