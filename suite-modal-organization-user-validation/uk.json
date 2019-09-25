@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-modal-organization-user-validation-title": "Обов'язкова інформація",
-    "suite-modal-organization-user-validation-button-reject": "Reject",
+    "suite-modal-organization-user-validation-button-reject": "Відмінити",
     "suite-modal-organization-user-validation-error-about": "Розкажіть щось про себе.",
     "suite-modal-organization-user-validation-error-email": "Уведіть email.",
     "suite-modal-organization-user-validation-error-first-name": "Уведіть ім'я.",
