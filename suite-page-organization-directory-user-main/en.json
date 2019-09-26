@@ -3,15 +3,18 @@
     "suite-page-organization-directory-user-main-button-booking": "Booking History",
     "suite-page-organization-directory-user-main-button-cash-balance": "Cash Balance",
     "suite-page-organization-directory-user-main-button-credits": "Credits",
-    "suite-page-organization-directory-user-main-button-delete-user": "Remove user from workspace",
+    "suite-page-organization-directory-user-main-button-delete-user": "Remove member from workspace",
     "suite-page-organization-directory-user-main-button-history": "Balance History",
     "suite-page-organization-directory-user-main-button-plan": "Plan",
     "suite-page-organization-directory-user-main-button-printed-pages": "Printers",
     "suite-page-organization-directory-user-main-button-profile": "Profile",
     "suite-page-organization-directory-user-main-button-settings": "Settings",
-    "suite-page-organization-directory-user-main-error-user-not-found": "This user may not exist or may have been removed.",
+    "suite-page-organization-directory-user-main-error-user-not-found": "This member may not exist or may have been removed.",
+    "suite-page-organization-directory-user-main-invited-email": "Invite sent to {userEmail}.",
     "suite-page-organization-directory-user-main-leave-repeat": "Try again",
     "suite-page-organization-directory-user-main-leave-user-failure": "Failed to remove user from workspace.",
+    "suite-page-organization-directory-user-main-remove-invitation": "Remove Member",
+    "suite-page-organization-directory-user-main-resend-invite": "Resent Invite",
     "suite-page-organization-directory-user-main-section-membership-title": "Membership"
   }
 }

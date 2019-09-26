@@ -3,15 +3,18 @@
     "suite-page-organization-directory-user-main-button-booking": "Historial de reservas",
     "suite-page-organization-directory-user-main-button-cash-balance": "Balance en efectivo",
     "suite-page-organization-directory-user-main-button-credits": "Créditos",
-    "suite-page-organization-directory-user-main-button-delete-user": "Eliminar usuario del espacio de trabajo",
+    "suite-page-organization-directory-user-main-button-delete-user": "Eliminar miembro del espacio de trabajo",
     "suite-page-organization-directory-user-main-button-history": "Historial de balance",
     "suite-page-organization-directory-user-main-button-plan": "Plan",
     "suite-page-organization-directory-user-main-button-printed-pages": "Impresoras",
     "suite-page-organization-directory-user-main-button-profile": "Perfil",
     "suite-page-organization-directory-user-main-button-settings": "Configuración",
-    "suite-page-organization-directory-user-main-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-directory-user-main-error-user-not-found": "Este miembro puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-directory-user-main-invited-email": "Invitación enviada a {userEmail}.",
     "suite-page-organization-directory-user-main-leave-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-directory-user-main-leave-user-failure": "No se pudo eliminar al usuario del espacio de trabajo.",
+    "suite-page-organization-directory-user-main-leave-user-failure": "No se pudo eliminar al miembro del espacio de trabajo.",
+    "suite-page-organization-directory-user-main-remove-invitation": "Eliminar miembro",
+    "suite-page-organization-directory-user-main-resend-invite": "Reenviar Invitación",
     "suite-page-organization-directory-user-main-section-membership-title": "Membresía"
   }
 }
