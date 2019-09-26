@@ -1,8 +1,7 @@
 {
   "data": {
     "suite-page-organization-integrations-stripe-title": "Integración",
-    "suite-page-organization-integrations-stripe-button-connect": "Conectar",
-    "suite-page-organization-integrations-stripe-description": "Permita que Stripe integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activar el método de pago 'Tarjeta' para:\n- Página de reserva de salas de reuniones.\n- Página de pago de facturas.\n\nLos pagos con franjas funcionan inapp sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano las claves de la API: https://dashboard.stripe.com/apikeys\n\nStripe países compatibles, funciones y precios: https://stripe.com",
-    "suite-page-organization-integrations-stripe-subtitle": "Stripe"
+    "suite-page-organization-integrations-stripe-button-connect": "Contáctanos",
+    "suite-page-organization-integrations-stripe-description": "Permita que Stripe integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activar el método de pago 'Tarjeta' para:\n- Página de reserva de salas de reuniones.\n- Página de pago de facturas.\n\nLos pagos con franjas funcionan inapp sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano las claves de la API: https://dashboard.stripe.com/apikeys\n\nStripe países compatibles, funciones y precios: https://stripe.com"
   }
 }

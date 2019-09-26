@@ -1,8 +1,7 @@
 {
   "data": {
     "suite-page-organization-integrations-stripe-title": "Integration",
-    "suite-page-organization-integrations-stripe-button-connect": "Verbinden",
-    "suite-page-organization-integrations-stripe-description": "Aktivieren Sie Stripe, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen. Aktivieren Sie die Zahlungsmethode 'Karte' für:\n- Buchungsseite des Besprechungsraums.\n- Zahlungsseite der Rechnung.\n\nStripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren. Um die Integration zu ermöglichen, halten Sie Ihre API-Schlüssel bereit: https://dashboard.stripe.com/apikeys.\n\nStripe unterstützt folgende Länder, Funktionen und Preise: https://stripe.com",
-    "suite-page-organization-integrations-stripe-subtitle": "Stripe"
+    "suite-page-organization-integrations-stripe-button-connect": "Kontaktieren Sie uns",
+    "suite-page-organization-integrations-stripe-description": "Aktivieren Sie Stripe, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen. Aktivieren Sie die Zahlungsmethode 'Karte' für:\n- Buchungsseite des Besprechungsraums.\n- Zahlungsseite der Rechnung.\n\nStripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren. Um die Integration zu ermöglichen, halten Sie Ihre API-Schlüssel bereit: https://dashboard.stripe.com/apikeys.\n\nStripe unterstützt folgende Länder, Funktionen und Preise: https://stripe.com"
   }
 }
