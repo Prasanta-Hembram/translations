@@ -3,17 +3,13 @@
     "suite-page-organizations-my-main-main-title": "Мои коворкинги",
     "suite-page-organizations-my-main-button-activate-membership": "Завершить активацию",
     "suite-page-organizations-my-main-button-branches": "Отделения",
-    "suite-page-organizations-my-main-button-create": "Создать новый",
-    "suite-page-organizations-my-main-button-join": "Присоединиться",
+    "suite-page-organizations-my-main-button-create": "Создать коворкинг",
     "suite-page-organizations-my-main-button-search": "Поиск",
     "suite-page-organizations-my-main-desc-activate-membership": "Вы приглашены присоедениться к коворкингу. Завершите активацию участия.",
     "suite-page-organizations-my-main-get-failure": "Не удалось отобразить коворкинги. Проверьте интернет-соединение.",
-    "suite-page-organizations-my-main-no-coworkings": "Присоединяйтесь к существующему или открывайте новый коворкинг за считанные секунды.",
+    "suite-page-organizations-my-main-no-coworkings": "Чтобы присоединиться к коворкингу, необходимо приглашение. Попросите менеджера коворкинга выслать вам приглашение по электронной почте.\n\nУправляете коворкингом? Легко работайте с клиентами и автоматизируйте рутинные задачи.",
     "suite-page-organizations-my-main-no-coworkings-title": "Поехали!",
-    "suite-page-organizations-my-main-requested-text": "Ваш запрос рассматривается администратором. Мы сообщим когда решение будет принято.",
     "suite-page-organizations-my-main-subscription-trial-button": "Подписаться",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "Тестовый период закончился. Оформите подписку, чтобы возобновить доступ до коворкинга.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "Тестовый период закончился."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}."
   }
 }

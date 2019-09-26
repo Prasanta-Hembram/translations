@@ -25,8 +25,6 @@
     "suite-alerts-errors-no-enough-cash": "Недостатньо готівки.",
     "suite-alerts-errors-no-internet": "Немає інтернет-з'єднання.",
     "suite-alerts-errors-no-printers-connections": "В коворкінгу немає даних про користувачів принтерів.",
-    "suite-alerts-errors-organization-code-is-invalid": "Тег повинен включати тільки латиницю та дефіс.",
-    "suite-alerts-errors-organization-code-is-taken": "Цей тег вже використовується. Спробуйте інший.",
     "suite-alerts-errors-organization-create-params-invalid": "Не вдалося створити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-organization-update-params-invalid": "Не вдалося оновити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-payment-price-high": "Сума є вищою, ніж це дозволяє платіжна система.",
