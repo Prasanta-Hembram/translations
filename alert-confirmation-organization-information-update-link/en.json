@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-information-update-link-no": "Cancel",
-    "alert-confirmation-organization-information-update-link-yes": "Yes",
-    "alert-confirmation-organization-information-update-link-text": "Are you sure you want to change the workspace tag? All previous invite links will not work anymore.",
-    "alert-confirmation-organization-information-update-link-title": "Change Tag"
-  }
-}
