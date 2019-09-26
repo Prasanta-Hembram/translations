@@ -3,15 +3,11 @@
     "suite-page-organizations-my-main-main-title": "Mis espacios",
     "suite-page-organizations-my-main-button-branches": "Sucursales",
     "suite-page-organizations-my-main-button-create": "Crear nuevo",
-    "suite-page-organizations-my-main-button-join": "Buscar existente",
     "suite-page-organizations-my-main-button-search": "Buscar",
     "suite-page-organizations-my-main-get-failure": "No se pudieron mostrar espacios de trabajo. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-organizations-my-main-no-coworkings": "Unirse a existente o abrir un nuevo espacio de trabajo en segundos.",
+    "suite-page-organizations-my-main-no-coworkings": "Para unirte a un espacio de trabajo, necesitas una invitación. Pídale a un gerente que lo invite por correo electrónico. \n\n¿Manejando un espacio de trabajo? Gestiona fácilmente a los clientes y automatiza las rutinas.",
     "suite-page-organizations-my-main-no-coworkings-title": "Empecemos!",
-    "suite-page-organizations-my-main-requested-text": "Su solicitud está siendo revisada por el administrador. Te avisaremos una vez que se resuelva.",
     "suite-page-organizations-my-main-subscription-trial-button": "Suscríbete",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "La prueba ha terminado. Subscríbete para devolver el acceso al espacio de trabajo.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "La prueba ha terminado."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}."
   }
 }

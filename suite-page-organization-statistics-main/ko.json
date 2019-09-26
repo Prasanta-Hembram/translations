@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-statistics-main-title": "통계 자료",
+    "suite-page-organization-statistics-main-membership-section": "멤버십",
+    "suite-page-organization-statistics-main-membership-section-activated-members": "활성화된 회원",
+    "suite-page-organization-statistics-main-membership-section-members": "회원",
+    "suite-page-organization-statistics-main-membership-section-new-this-month": "이번 달의 새 회원",
+    "suite-page-organization-statistics-main-membership-section-teams": "팀",
+    "suite-page-organization-statistics-main-revenue-by-payment-section": "결제 수단 별 매출액 ({month})",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-card": "카드",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "현금",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "인보이스",
+    "suite-page-organization-statistics-main-revenue-section": "매출액"
+  }
+}

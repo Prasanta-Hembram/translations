@@ -1,0 +1,8 @@
+{
+  "data": {
+    "utils-number-million-suffix": "백만",
+    "utils-number-ten-million-suffix": "천만",
+    "utils-number-ten-thousand-suffix": "만",
+    "utils-number-thousand-suffix": "천"
+  }
+}

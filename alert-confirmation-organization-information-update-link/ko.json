@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-information-update-link-no": "취소",
-    "alert-confirmation-organization-information-update-link-yes": "네",
-    "alert-confirmation-organization-information-update-link-text": "공간 태그를 변경하시겠습니까? 이전의 모든 초대 링크가 더 이상 작동하지 않습니다.",
-    "alert-confirmation-organization-information-update-link-title": "태그 변경"
-  }
-}
