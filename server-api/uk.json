@@ -24,7 +24,6 @@
     "email-confirmation-subject": "Увійти до {title}",
     "email-confirmation-text": "Скористайтесь ним протягом 5 хвилин.",
     "email-confirmation-title": "Код підтвердження",
-    "feed-post-notification-title": "{userName} запостили до {organizationTitle}",
     "invoice-finalize-notification-body": "Інвойс команди {teamTitle} за {invoiceMonth} готовий. Переглянути та оплатити.",
     "invoice-finalize-notification-title": "Платежі {organizationTitle}",
     "invoice-button-pay": "Оплатити",

@@ -24,7 +24,6 @@
     "email-confirmation-subject": "Войти в {title}",
     "email-confirmation-text": "Воспользуйтесь им на протяжении 5 минут.",
     "email-confirmation-title": "Код подтверждения",
-    "feed-post-notification-title": "{userName} запостили в {organizationTitle}",
     "invoice-finalize-notification-body": "Инвойс команды {teamTitle} за {invoiceMonth} готов. Просмотреть и оплатить.",
     "invoice-finalize-notification-title": "Платежи {organizationTitle}",
     "invoice-button-pay": "Оплатить",
