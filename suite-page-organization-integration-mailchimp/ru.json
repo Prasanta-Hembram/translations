@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-integrations-mailchimp-title": "Интеграция",
+    "suite-page-organization-integrations-mailchimp-account-audience": "Список рассылки (audience)",
+    "suite-page-organization-integrations-mailchimp-account-audience-default": "Не выбрано",
+    "suite-page-organization-integrations-mailchimp-account-login-email": "Email",
+    "suite-page-organization-integrations-mailchimp-account-login-name": "Имя пользователя",
+    "suite-page-organization-integrations-mailchimp-account-name": "Название учетной записи",
+    "suite-page-organization-integrations-mailchimp-account-title": "Учетная запись",
+    "suite-page-organization-integrations-mailchimp-button-connect": "Присоединить",
+    "suite-page-organization-integrations-mailchimp-button-disconnect": "Отсоединить",
+    "suite-page-organization-integrations-mailchimp-description": "Синхронизируйте информацию о резидентах из Каталоге в список рассылки на Mailchimp. Используйте платформу Mailchimp на полную, чтобы:\n- Отправлять автоматические приветствия новым резидентам.\n- Отправлять месячные новостные рассылки всем резидентам.\n- Напоминать менеджерам команд оплачивать инвойсы.\n\nИспользуйте информацию о резидентах для более персонализированых имейлов. Эти данные передаются в Mailchimp:\n- Имя.\n- Фамилия.\n- Имейл.\n- Менеджер команды (тег).\n\nФункции и цены Mailchimp: https://mailchimp.com.",
+    "suite-page-organization-integrations-mailchimp-login-title": "Вход в Mailchimp",
+    "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
+  }
+}
