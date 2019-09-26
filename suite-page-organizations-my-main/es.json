@@ -8,8 +8,6 @@
     "suite-page-organizations-my-main-no-coworkings": "Para unirte a un espacio de trabajo, necesitas una invitación. Pídale a un gerente que lo invite por correo electrónico. \n\n¿Manejando un espacio de trabajo? Gestiona fácilmente a los clientes y automatiza las rutinas.",
     "suite-page-organizations-my-main-no-coworkings-title": "Empecemos!",
     "suite-page-organizations-my-main-subscription-trial-button": "Suscríbete",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "La prueba ha terminado. Subscríbete para devolver el acceso al espacio de trabajo.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "La prueba ha terminado."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}."
   }
 }

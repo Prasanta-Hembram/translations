@@ -8,8 +8,6 @@
     "suite-page-organizations-my-main-no-coworkings": "To join a workspace, you need an invitation. Ask a manager to invite you by email.\n\nRunning a workspace? Easily manage customers and automate routines.",
     "suite-page-organizations-my-main-no-coworkings-title": "Let's get started",
     "suite-page-organizations-my-main-subscription-trial-button": "Subscribe",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Trial ends {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "The trial is over. Subscribe to restore access to the workspace.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "The trial is over."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Trial ends {days}."
   }
 }

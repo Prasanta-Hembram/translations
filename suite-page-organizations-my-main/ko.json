@@ -8,8 +8,6 @@
     "suite-page-organizations-my-main-no-coworkings": "공간에 가입하려면 초대장이 필요합니다. 커뮤니티 매니저에게 이메일로 초대해 달라고 요청하세요.\n\n공간을 운영하고 계세요? 회원을 쉽게 관리하고 업무를 자동화하세요.",
     "suite-page-organizations-my-main-no-coworkings-title": "시작해볼까요?",
     "suite-page-organizations-my-main-subscription-trial-button": "구독하기",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "시험은 {days}에 만료됩니다.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "시험 기간이 만료되었습니다. 정식 버전 이용하기 위해 구독하세요.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "시험 기간이 만료되었습니다."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "시험은 {days}에 만료됩니다."
   }
 }

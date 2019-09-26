@@ -8,8 +8,6 @@
     "suite-page-organizations-my-main-no-coworkings": "Чтобы присоединиться к коворкингу, необходимо приглашение. Попросите менеджера коворкинга выслать вам приглашение по электронной почте.\n\nУправляете коворкингом? Легко работайте с клиентами и автоматизируйте рутинные задачи.",
     "suite-page-organizations-my-main-no-coworkings-title": "Поехали!",
     "suite-page-organizations-my-main-subscription-trial-button": "Подписаться",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "Тестовый период закончился. Оформите подписку, чтобы возобновить доступ до коворкинга.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "Тестовый период закончился."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}."
   }
 }
