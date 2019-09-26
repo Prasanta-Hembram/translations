@@ -8,8 +8,6 @@
     "suite-page-organizations-my-main-no-coworkings": "Um einem Workspace beizutreten, benötigen Sie eine Einladung. Bitten Sie einen Manager, Sie per E-Mail einzuladen.\n\nBetreiben Sie einen Workspace? Einfach Kunden verwalten und Routinen automatisieren.",
     "suite-page-organizations-my-main-no-coworkings-title": "Los geht's",
     "suite-page-organizations-my-main-subscription-trial-button": "Abonnieren",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Testphase endet {days}.",
-    "suite-page-organizations-my-main-subscription-trial-desc-admin": "Die Testphase ist beendet. Abonnieren Sie die Vollversion, um den Zugang zum Workspace wiederherzustellen.",
-    "suite-page-organizations-my-main-subscription-trial-desc-member": "Die Testphase ist beendet."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Testphase endet {days}."
   }
 }
