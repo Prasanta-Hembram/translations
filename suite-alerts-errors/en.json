@@ -41,6 +41,7 @@
     "suite-alerts-errors-sign-in-google-error": "Unable to login with Google, because it is not associated with any existing account.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
     "suite-alerts-errors-trial-already-started": "The workspace already has the full booking system enabled.",
+    "suite-alerts-errors-user-already-activated": "Membership is already activated.",
     "suite-alerts-errors-user-have-no-permission": "No permission to complete the action."
   }
 }
