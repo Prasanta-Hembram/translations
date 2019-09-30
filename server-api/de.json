@@ -51,23 +51,6 @@
     "membership-plan-ends-tomorrow-notification-body": "Ihr Mitgliedschafts-Abo endet morgen. Erwerben Sie ein neues Abo, um weiter zu bleiben.",
     "membership-plan-renew-in-five-days-notification-body": "Ihr Mitgliedschafts-Abo wird automatisch in 5 Tagen verlängert.",
     "membership-plan-renew-tomorrow-notification-body": "Ihr Mitgliedschafts-Abo wird morgen automatisch verlängert.",
-    "payment-receipt-email-customer-number": "Kunde {customerName}",
-    "payment-receipt-email-footer-net-amount": "Nettobetrag",
-    "payment-receipt-email-footer-paid-amount": "Bezahlter Betrag",
-    "payment-receipt-email-footer-payment-method": "Zahlungsmethode",
-    "payment-receipt-email-footer-tax": "Steuern ({taxPercent}%)",
-    "payment-receipt-email-footer-total-amount": "Gesamtbetrag",
-    "payment-receipt-email-footer-total-amount-in-words": "Gesamtbetrag in Wörtern: ",
-    "payment-receipt-email-header-description": "Beschreibung",
-    "payment-receipt-email-header-net-amount": "Nettobetrag",
-    "payment-receipt-email-header-quantity": "Menge",
-    "payment-receipt-email-header-tax": "Steuern",
-    "payment-receipt-email-header-total-amount": "Gesamtbetrag",
-    "payment-receipt-email-issue-date": "Ausstellungsdatum: {receiptDate}",
-    "payment-receipt-email-room-booking-default": "Raumbuchung",
-    "payment-receipt-email-room-booking": "Raumbuchung ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
-    "payment-receipt-email-subject": "{organizationTitle} Quittung",
-    "payment-receipt-email-title": "Quittung #{receiptId}",
     "powered-by-andcards": "Powered by {andcardsUrl}"
   }
 }

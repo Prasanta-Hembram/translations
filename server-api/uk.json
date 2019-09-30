@@ -51,23 +51,6 @@
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифний план стікає вже завтра. Купіть новий план, щоб залишитися.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифний план буде автоматично подовжено за 5 днів.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифний план буде автоматично подовжено завтра.",
-    "payment-receipt-email-customer-number": "Клієнт {customerName}",
-    "payment-receipt-email-footer-net-amount": "Без податку",
-    "payment-receipt-email-footer-paid-amount": "Сплачено",
-    "payment-receipt-email-footer-payment-method": "Засіб оплати",
-    "payment-receipt-email-footer-tax": "Податок ({taxPercent}%)",
-    "payment-receipt-email-footer-total-amount": "Разом",
-    "payment-receipt-email-footer-total-amount-in-words": "Разом словами: ",
-    "payment-receipt-email-header-description": "Опис",
-    "payment-receipt-email-header-net-amount": "Вартість",
-    "payment-receipt-email-header-quantity": "Кількість",
-    "payment-receipt-email-header-tax": "Податок",
-    "payment-receipt-email-header-total-amount": "Загальна вартість",
-    "payment-receipt-email-issue-date": "Дата: {receiptDate}",
-    "payment-receipt-email-room-booking-default": "Резервація кімнати",
-    "payment-receipt-email-room-booking": "Резервація кімнати {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
-    "payment-receipt-email-subject": "{organizationTitle} рахунок",
-    "payment-receipt-email-title": "Рахунок №{receiptId}",
     "powered-by-andcards": "Сервіс від {andcardsUrl}"
   }
 }
