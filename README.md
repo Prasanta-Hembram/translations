@@ -2,9 +2,9 @@
 
 Translations for:
 
-- [andcards Suite web app](https://andcards.com).
-- [andcards Suite Android app](https://play.google.com/store/apps/details?id=com.cardscorp.contacts).
-- [andcards Suite iOS app](https://itunes.apple.com/us/app/andcards-suite/id1291226540?mt=8).
+- [andcards web app](https://andcards.com).
+- [andcards Android app](https://play.google.com/store/apps/details?id=com.cardscorp.contacts).
+- [andcards iOS app](https://itunes.apple.com/us/app/andcards-suite/id1291226540?mt=8).
 - [andcards Kiosk Android app](https://play.google.com/store/apps/details?id=com.cardscorp.kiosk).
 - [andcards Kiosk iOS app](https://itunes.apple.com/us/app/andcards-kiosk/id1440013794?mt=8).
 
