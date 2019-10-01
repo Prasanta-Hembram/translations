@@ -51,23 +51,6 @@
     "membership-plan-ends-tomorrow-notification-body": "Your membership plan ends tomorrow. Buy a new plan to stay.",
     "membership-plan-renew-in-five-days-notification-body": "Your membership plan will be automatically extended in 5 days.",
     "membership-plan-renew-tomorrow-notification-body": "Your membership plan will be automatically extended tomorrow.",
-    "payment-receipt-email-customer-number": "Customer {customerName}",
-    "payment-receipt-email-footer-net-amount": "Net Amount",
-    "payment-receipt-email-footer-paid-amount": "Paid Amount",
-    "payment-receipt-email-footer-payment-method": "Payment Method",
-    "payment-receipt-email-footer-tax": "Tax ({taxPercent}%)",
-    "payment-receipt-email-footer-total-amount": "Total Amount",
-    "payment-receipt-email-footer-total-amount-in-words": "Total Amount in Words: ",
-    "payment-receipt-email-header-description": "Description",
-    "payment-receipt-email-header-net-amount": "Net Amount",
-    "payment-receipt-email-header-quantity": "Quantity",
-    "payment-receipt-email-header-tax": "Tax",
-    "payment-receipt-email-header-total-amount": "Total Amount",
-    "payment-receipt-email-issue-date": "Issue Date: {receiptDate}",
-    "payment-receipt-email-room-booking-default": "Room Booking",
-    "payment-receipt-email-room-booking": "Room Booking {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
-    "payment-receipt-email-subject": "{organizationTitle} receipt",
-    "payment-receipt-email-title": "Receipt #{receiptId}",
     "powered-by-andcards": "Powered by {andcardsUrl}"
   }
 }
