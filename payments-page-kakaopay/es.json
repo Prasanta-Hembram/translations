@@ -1,13 +1,9 @@
 {
   "data": {
     "payments-page-kakaopay-title": "Pago con KakaoPay | andcards",
-    "payments-page-kakaopay-field-email-label": "Email",
-    "payments-page-kakaopay-field-email-placeholder": "Tipo de email",
-    "payments-page-kakaopay-page-privacy-description": "Su información personal será enviada al proveedor de pago para procesar el pago.",
     "payments-page-kakaopay-page-title-booking": "Pagar por la reserva",
     "payments-page-kakaopay-page-title-invoice": "Pagar la factura",
     "payments-page-kakaopay-page-error": "La solicitud de pago ya se ha completado o no existe.",
-    "payments-page-kakaopay-page-success": "El pago ha tenido éxito.",
-    "payments-page-kakaopay-pay-by-card-pay-button": "Pagar {price}"
+    "payments-page-kakaopay-page-success": "El pago ha tenido éxito."
   }
 }
