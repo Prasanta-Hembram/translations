@@ -51,23 +51,6 @@
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифный план будет автоматически продлен через 5 дней.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифный план будет автоматически продлен завтра.",
-    "payment-receipt-email-customer-number": "Клиент {customerName}",
-    "payment-receipt-email-footer-net-amount": "Без налога",
-    "payment-receipt-email-footer-paid-amount": "Оплачено",
-    "payment-receipt-email-footer-payment-method": "Метод оплаты",
-    "payment-receipt-email-footer-tax": "Налог ({taxPercent}%)",
-    "payment-receipt-email-footer-total-amount": "Итого",
-    "payment-receipt-email-footer-total-amount-in-words": "Общая стоимость словами: ",
-    "payment-receipt-email-header-description": "Описание",
-    "payment-receipt-email-header-net-amount": "Стоимость",
-    "payment-receipt-email-header-quantity": "Кол-во",
-    "payment-receipt-email-header-tax": "Налог",
-    "payment-receipt-email-header-total-amount": "Общая стоимость",
-    "payment-receipt-email-issue-date": "Дата: {receiptDate}",
-    "payment-receipt-email-room-booking-default": "Бронирование переговорной",
-    "payment-receipt-email-room-booking": "Бронирование переговорной {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
-    "payment-receipt-email-subject": "{organizationTitle} счет",
-    "payment-receipt-email-title": "Счет №{receiptId}",
     "powered-by-andcards": "Сервис от {andcardsUrl}"
   }
 }

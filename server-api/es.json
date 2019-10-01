@@ -51,23 +51,6 @@
     "membership-plan-ends-tomorrow-notification-body": "Tu plan de membresía termina mañana. Compra un nuevo plan para quedarte.",
     "membership-plan-renew-in-five-days-notification-body": "Tu plan de membresía se extenderá automáticamente en 5 días.",
     "membership-plan-renew-tomorrow-notification-body": "Tu plan de membresía se extenderá automáticamente mañana.",
-    "payment-receipt-email-customer-number": "Cliente {customerName}",
-    "payment-receipt-email-footer-net-amount": "Monto neto",
-    "payment-receipt-email-footer-paid-amount": "Monto pagado",
-    "payment-receipt-email-footer-payment-method": "Forma de pago",
-    "payment-receipt-email-footer-tax": "Impuestos ({taxPercent}%)",
-    "payment-receipt-email-footer-total-amount": "Monto total",
-    "payment-receipt-email-footer-total-amount-in-words": "Monto total en palabras: ",
-    "payment-receipt-email-header-description": "Descripción",
-    "payment-receipt-email-header-net-amount": "Monto neto",
-    "payment-receipt-email-header-quantity": "Cantidad",
-    "payment-receipt-email-header-tax": "Impuestos",
-    "payment-receipt-email-header-total-amount": "Monto total",
-    "payment-receipt-email-issue-date": "Fecha de emisión: {receiptDate}",
-    "payment-receipt-email-room-booking-default": "Reserva de salas",
-    "payment-receipt-email-room-booking": "Rerserva de salas {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
-    "payment-receipt-email-subject": "{organizationTitle} comprobante",
-    "payment-receipt-email-title": "Comprobante #{receiptId}",
     "powered-by-andcards": "Desarrollado por {andcardsUrl}"
   }
 }
