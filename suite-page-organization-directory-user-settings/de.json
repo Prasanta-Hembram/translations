@@ -3,13 +3,11 @@
     "suite-page-organization-directory-user-settings-title": "Profil",
     "suite-page-organization-directory-user-settings-error-user-not-found": "Dieser Benutzer ist möglicherweise nicht vorhanden oder wurde entfernt.",
     "suite-page-organization-directory-user-settings-role": "Rolle",
-    "suite-page-organization-directory-user-settings-role-admin": "Administrator",
+    "suite-page-organization-directory-user-settings-role-admin": "Standort Manager",
     "suite-page-organization-directory-user-settings-role-guest": "Gast",
-    "suite-page-organization-directory-user-settings-role-info-admin": "Der Administrator kann alle Inhalte verwalten und die Einstellungen des Workspace ändern.",
+    "suite-page-organization-directory-user-settings-role-info-admin": "Der Standort Manager kann alle Inhalte verwalten und die Einstellungen des Arbeitsbereichs ändern.",
     "suite-page-organization-directory-user-settings-role-info-guest": "Der Gast kann relevante Inhalte und Teams im Workspace einsehen.",
     "suite-page-organization-directory-user-settings-role-info-member": "Das Mitglied kann relevante Inhalte und Teams im Workspace einsehen.",
-    "suite-page-organization-directory-user-settings-role-info-moderator": "Der Moderator kann Inhalte und Teams im Workspace verwalten.",
-    "suite-page-organization-directory-user-settings-role-member": "Mitglied",
-    "suite-page-organization-directory-user-settings-role-moderator": "Moderator"
+    "suite-page-organization-directory-user-settings-role-member": "Mitglied"
   }
 }
