@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-plans-details-description-repeat-forever": "{credits} assigned on {date}, repeating forever every {period}..",
-    "utils-plans-details-description-repeat-never": "{credits} assigned on {date} until {date}.",
-    "utils-plans-details-description-repeat-times": "{credits} assigned on {date}, repeating {repeat} times until {date}.",
+    "utils-plans-details-description-repeat-forever": "{credits} assigned on {dateStart}, repeating forever every {period}.",
+    "utils-plans-details-description-repeat-never": "{credits} assigned on {dateStart} until {dateEnd}.",
+    "utils-plans-details-description-repeat-times": "{credits} assigned on {dateStart}, repeating {repeat} times until {dateEnd}.",
     "utils-plans-pay-with-card": "카드",
     "utils-plans-pay-with-cash": "현금",
     "utils-plans-period-day": "일",
