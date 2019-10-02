@@ -27,8 +27,8 @@
     "suite-utils-transactions-point-transaction-book-refund-points": "회의실 예약 취소",
     "suite-utils-transactions-point-transaction-charge-by-admin": "수동 회수 ∙ 지점 관리자",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "수동 회수 ∙ {name}",
-    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "멤버십 플랜 만료",
-    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "멤버십 플랜 갱신",
+    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "자동 회수 ∙ 멤버십 플랜",
+    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "자동 추가 ∙ 멤버십 플랜",
     "suite-utils-transactions-point-transaction-transfer-by-admin": "수동 추가 ∙ 지점 관리자",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "수동 추가 ∙ {name}"
   }
