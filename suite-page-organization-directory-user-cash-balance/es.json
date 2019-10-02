@@ -1,7 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-directory-user-cash-balance-title": "Balance en efectivo",
-    "suite-page-organization-directory-user-cash-balance-description": "La suma de todas las transacciones en efectivo impagas.",
-    "suite-page-organization-directory-user-cash-balance-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado."
-  }
-}
