@@ -27,8 +27,8 @@
     "suite-utils-transactions-point-transaction-book-refund-points": "Cancelled Booking ∙ Credits",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Charged ∙ Branch Manager",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Charged ∙ {name}",
-    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Expired ∙ Membership Plan",
-    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Received ∙ Membership Plan",
+    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Charged ∙ Membership Plan",
+    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Added ∙ Membership Plan",
     "suite-utils-transactions-point-transaction-transfer-by-admin": "Added ∙ Branch Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Added ∙ {name}"
   }
