@@ -10,7 +10,7 @@
     "suite-modal-organization-transaction-not-found": "Esta transacción puede no existir o puede haber sido eliminada.",
     "suite-modal-organization-transaction-paid-with-label": "Pagado con",
     "suite-modal-organization-transaction-paid-with-card": "Tarjeta",
-    "suite-modal-organization-transaction-paid-with-cash": "Efectivo",
+    "suite-modal-organization-transaction-paid-with-cash": "Paid Outside",
     "suite-modal-organization-transaction-paid-with-for-free": "Gratis",
     "suite-modal-organization-transaction-paid-with-invoice": "Factura",
     "suite-modal-organization-transaction-period-label": "Periodo",

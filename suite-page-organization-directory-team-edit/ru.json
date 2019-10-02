@@ -6,7 +6,7 @@
     "suite-page-organization-directory-team-edit-billing-address-placeholder": "Введите информацию",
     "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Бронирование по инвойсу",
     "suite-page-organization-directory-team-edit-button-balance-history": "История транзакций",
-    "suite-page-organization-directory-team-edit-button-cash-balance": "Баланс наличных",
+    "suite-page-organization-directory-team-edit-button-cash-balance": "Unpaid Invoices",
     "suite-page-organization-directory-team-edit-button-credits": "Кредиты",
     "suite-page-organization-directory-team-edit-button-invoices": "Инвойсы",
     "suite-page-organization-directory-team-edit-delete-failure": "Не удалось удалить команду.",

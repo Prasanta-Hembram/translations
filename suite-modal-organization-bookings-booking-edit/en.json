@@ -4,7 +4,7 @@
     "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Free",
     "suite-modal-organization-bookings-booking-edit-action-button-invoice-team": "Team Invoice ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Card ({price})",
-    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Cash ({price})",
+    "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Paid Outside ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Credits ({balance})",
     "suite-modal-organization-bookings-booking-edit-booked-by": "Booker",
     "suite-modal-organization-bookings-booking-edit-end-time": "Ends",

@@ -3,7 +3,7 @@
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Gratis",
     "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Factura de equipo ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Tarjeta ({price})",
-    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Efectivo ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Paid Outside ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Créditos personales ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Créditos del equipo ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Créditos del {teamName} ({balance})",

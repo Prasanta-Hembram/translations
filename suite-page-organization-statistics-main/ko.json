@@ -8,7 +8,7 @@
     "suite-page-organization-statistics-main-membership-section-teams": "팀",
     "suite-page-organization-statistics-main-revenue-by-payment-section": "결제 수단 별 매출액 ({month})",
     "suite-page-organization-statistics-main-revenue-by-payment-section-card": "카드",
-    "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "현금",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "Paid Outside",
     "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "인보이스",
     "suite-page-organization-statistics-main-revenue-section": "매출액"
   }
