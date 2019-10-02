@@ -25,11 +25,11 @@
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "{name} hat {propertyName} gebucht",
     "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "Gebucht {propertyName}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Stornierte Raumbuchung (Credits)",
-    "suite-utils-transactions-point-transaction-charge-by-admin": "Charged by Branch Manager",
+    "suite-utils-transactions-point-transaction-charge-by-admin": "Abgerechnet vom Standort Manager",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Credits abgerechnet von {name}",
     "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Mit Mitgliedschafts-Abo abgelaufen",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Mit Mitgliedschafts-Abo erhalten",
-    "suite-utils-transactions-point-transaction-transfer-by-admin": "Added by Branch Manager",
+    "suite-utils-transactions-point-transaction-transfer-by-admin": "Hinzugefügt vom Standort Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Credits von {name} hinzugefügt"
   }
 }
