@@ -6,7 +6,6 @@
     "suite-modal-organization-directory-team-plan-assign-button-for-price": "Призначити за {price}",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "Тарифні плани відсутні. Створіть план на сторінці Участь/Усі тарифні плани.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Ця сторінка не існує або її було видалено.",
-    "suite-modal-organization-directory-team-plan-assign-error-selected-admin": "Неможливо призначити план адміністратору або модератору.",
     "suite-modal-organization-directory-team-plan-assign-payment": "Оплата",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Початок",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Період",

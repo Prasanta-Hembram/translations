@@ -25,11 +25,11 @@
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "{name} {propertyName} 예약",
     "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "{propertyName} 예약",
     "suite-utils-transactions-point-transaction-book-refund-points": "회의실 예약 취소",
-    "suite-utils-transactions-point-transaction-charge-by-admin": "관리자/중간관리자 수동 회수",
+    "suite-utils-transactions-point-transaction-charge-by-admin": "Charged by Branch Manager",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "수동 회수 ({name})",
     "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "멤버십 플랜 만료",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "멤버십 플랜 갱신",
-    "suite-utils-transactions-point-transaction-transfer-by-admin": "관리자/중간관리자 수동 추가",
+    "suite-utils-transactions-point-transaction-transfer-by-admin": "Added by Branch Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "수동 추가 ({name})"
   }
 }

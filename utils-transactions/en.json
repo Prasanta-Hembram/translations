@@ -25,11 +25,11 @@
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "{name} booked {propertyName}",
     "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "Booked {propertyName}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Cancelled room booking (credits)",
-    "suite-utils-transactions-point-transaction-charge-by-admin": "Charged by admin/moderator",
+    "suite-utils-transactions-point-transaction-charge-by-admin": "Charged by Branch Manager",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Charged by {name}",
     "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Expired with membership plan",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Received with membership plan",
-    "suite-utils-transactions-point-transaction-transfer-by-admin": "Added by admin/moderator",
+    "suite-utils-transactions-point-transaction-transfer-by-admin": "Added by Branch Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Added by {name}"
   }
 }

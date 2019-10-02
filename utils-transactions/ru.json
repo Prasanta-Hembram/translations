@@ -25,11 +25,11 @@
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "{name} забронировал(а) комнату {propertyName}",
     "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "Бронь {propertyName}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Отмена брони переговорной (кредиты)",
-    "suite-utils-transactions-point-transaction-charge-by-admin": "Списано администратором/модератором",
+    "suite-utils-transactions-point-transaction-charge-by-admin": "Charged by Branch Manager",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списано ({name})",
     "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Истекло с тарифным планом",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Получено с тарифным планом",
-    "suite-utils-transactions-point-transaction-transfer-by-admin": "Начислено администратором/модератором",
+    "suite-utils-transactions-point-transaction-transfer-by-admin": "Added by Branch Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Начислено ({name})"
   }
 }
