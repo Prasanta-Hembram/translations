@@ -27,7 +27,7 @@
     "suite-utils-transactions-point-transaction-book-refund-points": "Stornierte Raumbuchung ∙ Credits",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Credits abgebucht ∙ Standort Manager",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Credits abgebucht ∙ {name}",
-    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Credits verfallen ∙ Mitgliedschafts-Abo",
+    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Credits abgebucht ∙ Mitgliedschafts-Abo",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Credits hinzugefügt ∙ Mitgliedschafts-Abo",
     "suite-utils-transactions-point-transaction-transfer-by-admin": "Credits hinzugefügt ∙ Standort Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Credits hinzugefügt ∙ {name}"
