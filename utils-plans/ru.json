@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-plans-details-description-repeat-forever": "{credits} assigned on {date}, repeating forever every day/week/month.",
+    "utils-plans-details-description-repeat-forever": "{credits} assigned on {date}, repeating forever every {period}..",
     "utils-plans-details-description-repeat-never": "{credits} assigned on {date} until {date}.",
     "utils-plans-details-description-repeat-times": "{credits} assigned on {date}, repeating {repeat} times until {date}.",
     "utils-plans-pay-with-card": "Карточкой",
