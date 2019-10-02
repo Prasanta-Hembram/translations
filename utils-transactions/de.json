@@ -25,9 +25,9 @@
     "suite-utils-transactions-point-transaction-book-by-points-with-name": "Gebucht {propertyName} ∙ {name}",
     "suite-utils-transactions-point-transaction-book-by-points-with-room-name": "Gebucht {propertyName}",
     "suite-utils-transactions-point-transaction-book-refund-points": "Stornierte Raumbuchung ∙ Credits",
-    "suite-utils-transactions-point-transaction-charge-by-admin": "Credits wurden ∙ Standort Manager",
-    "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Credits wurden ∙ {name}",
-    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Credits wurden ∙ Mitgliedschafts-Abo",
+    "suite-utils-transactions-point-transaction-charge-by-admin": "Credits abgebucht ∙ Standort Manager",
+    "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Credits abgebucht ∙ {name}",
+    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Credits verfallen ∙ Mitgliedschafts-Abo",
     "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Credits hinzugefügt ∙ Mitgliedschafts-Abo",
     "suite-utils-transactions-point-transaction-transfer-by-admin": "Credits hinzugefügt ∙ Standort Manager",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Credits hinzugefügt ∙ {name}"
