@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-directory-main-title": "Directorio",
     "suite-page-organization-directory-main-balance-credit": "Balance de crédito",
-    "suite-page-organization-directory-main-balance-unpaid-invoices": "Unpaid Invoices",
+    "suite-page-organization-directory-main-balance-unpaid-invoices": "Facturas impagadas",
     "suite-page-organization-directory-main-end": "Finalización",
     "suite-page-organization-directory-main-member-create": "Crear",
     "suite-page-organization-directory-main-member-new": "Nuevo",
@@ -17,9 +17,9 @@
     "suite-page-organization-directory-main-price": "Precio",
     "suite-page-organization-directory-main-requests-title": "Solicitudes",
     "suite-page-organization-directory-main-search-placeholder": "Buscar",
-    "suite-page-organization-directory-main-team-balances": "{balanceCredits}, unpaid invoices {balanceUnpaidInvoices}",
+    "suite-page-organization-directory-main-team-balances": "{balanceCredits} ∙ Facturas impagadas {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-team-create": "Crear",
-    "suite-page-organization-directory-main-team-unpaid-invoices-balance": "Unpaid invoices {balanceUnpaidInvoices}",
+    "suite-page-organization-directory-main-team-unpaid-invoices-balance": "Facturas impagadas {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-teams-empty": "No hay equipos.",
     "suite-page-organization-directory-main-teams-title": "Equipos"
   }
