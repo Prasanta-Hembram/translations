@@ -1,7 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-directory-team-cash-balance-title": "Balance en efectivo",
-    "suite-page-organization-directory-team-cash-balance-description":  "La suma de todas las transacciones y facturas en efectivo impagas. {cashBalance} de reservas y planes, {invoiceBalance} de facturas.",
-    "suite-page-organization-directory-team-cash-balance-error-team-not-found": "Este grupo puede no existir o puede haber sido eliminado."
-  }
-}

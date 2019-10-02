@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "Каталог",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, борг {balanceDebt}",
-    "suite-page-organization-directory-main-balances-money": "Борг {balanceDebt}",
-    "suite-page-organization-directory-main-cash-balance": "Баланс готівки",
-    "suite-page-organization-directory-main-credit-balance": "Баланс кредитів",
+    "suite-page-organization-directory-main-balance-credit": "Баланс кредитів",
+    "suite-page-organization-directory-main-balance-unpaid-invoices": "Несплачені інвойси",
     "suite-page-organization-directory-main-end": "До",
     "suite-page-organization-directory-main-member-create": "Створити",
     "suite-page-organization-directory-main-member-new": "New",
@@ -19,7 +17,9 @@
     "suite-page-organization-directory-main-price": "Ціна",
     "suite-page-organization-directory-main-requests-title": "Заявки",
     "suite-page-organization-directory-main-search-placeholder": "Пошук",
+    "suite-page-organization-directory-main-team-balances": "{balanceCredits} ∙ Несплачені інвойси {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-team-create": "Створити",
+    "suite-page-organization-directory-main-team-unpaid-invoices-balance": "Несплачені інвойси {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-teams-empty": "Немає команд.",
     "suite-page-organization-directory-main-teams-title": "Команди"
   }

@@ -21,7 +21,6 @@
     "suite-alerts-errors-invoice-empty": "아이템이 없는 인보이스는 확정할 수 없습니다. 아이템이 추가하세요.",
     "suite-alerts-errors-invoice-not-finished": "본 달은 아직 끝나지 않았습니다. 달이 끝나면 다시 시도하세요.",
     "suite-alerts-errors-membership-invite-invalid": "초대 불가. 회원은 이미 초대되었습니다.",
-    "suite-alerts-errors-no-enough-cash": "현금 부족.",
     "suite-alerts-errors-no-internet": "인터넷에 연결되지 않음.",
     "suite-alerts-errors-no-printers-connections": "프린터 연동이 되지 않음.",
     "suite-alerts-errors-organization-create-params-invalid": "공간을 만들지 못했습니다. 모든 필드를 확인하고 다시 시도하세요.",

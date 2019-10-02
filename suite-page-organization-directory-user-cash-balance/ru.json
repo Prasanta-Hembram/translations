@@ -1,7 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-directory-user-cash-balance-title": "Баланс наличных",
-    "suite-page-organization-directory-user-cash-balance-description": "Сумма всех неоплаченных транзакций.",
-    "suite-page-organization-directory-user-cash-balance-error-user-not-found": "Участника не существует или же он был удален."
-  }
-}

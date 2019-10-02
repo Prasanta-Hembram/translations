@@ -1,7 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-directory-user-cash-balance-title": "현금 잔액",
-    "suite-page-organization-directory-user-cash-balance-description": "미지급된 모든 현금 거래의 합계입니다.",
-    "suite-page-organization-directory-user-cash-balance-error-user-not-found": "회원이 존재하지 않거나 삭제되었을 수 있습니다."
-  }
-}

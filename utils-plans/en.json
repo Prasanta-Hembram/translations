@@ -1,7 +1,7 @@
 {
   "data": {
     "utils-plans-pay-with-card": "Card",
-    "utils-plans-pay-with-cash": "Cash",
+    "utils-plans-pay-with-cash": "External Payment",
     "utils-plans-period-day": "1 day",
     "utils-plans-period-week": "1 week",
     "utils-plans-period-month": "1 month",

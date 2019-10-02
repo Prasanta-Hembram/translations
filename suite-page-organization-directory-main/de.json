@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "Verzeichnis",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, Schuld {balanceDebt}",
-    "suite-page-organization-directory-main-balances-money": "Schuld {balanceDebt}",
-    "suite-page-organization-directory-main-cash-balance": "Barguthaben",
-    "suite-page-organization-directory-main-credit-balance": "Credit-Saldo",
+    "suite-page-organization-directory-main-balance-credit": "Credit-Saldo",
+    "suite-page-organization-directory-main-balance-unpaid-invoices": "Unbezahlte Rechnungen",
     "suite-page-organization-directory-main-end": "Ende",
     "suite-page-organization-directory-main-member-create": "Mitglieder erstellen",
     "suite-page-organization-directory-main-member-new": "Neu",
@@ -19,7 +17,9 @@
     "suite-page-organization-directory-main-price": "Preis",
     "suite-page-organization-directory-main-requests-title": "Beitrittsanfragen",
     "suite-page-organization-directory-main-search-placeholder": "Suche",
+    "suite-page-organization-directory-main-team-balances": "{balanceCredits} ∙ Unbezahlte Rechnungen {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-team-create": "Team erstellen",
+    "suite-page-organization-directory-main-team-unpaid-invoices-balance": "Unbezahlte Rechnungen {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-teams-empty": "Es gibt keine Teams.",
     "suite-page-organization-directory-main-teams-title": "Teams"
   }
