@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "Nueva reserva",
     "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-team": "Factura de equipo",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Paid outside",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Pagado",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Créditos personales ({balance})",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-team": "Créditos del equipo ({balance})",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "Si cancelas esta reserva antes de su comienzo, el 100% de los créditos serán reembolsados.",
