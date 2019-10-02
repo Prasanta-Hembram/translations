@@ -8,6 +8,7 @@
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} verfallen am {date}.",
     "suite-page-organization-directory-user-credits-expiring-title": "Verfallende Credits",
     "suite-page-organization-directory-user-credits-permanent-title": "Credits",
+    "suite-page-organization-directory-user-credits-plan-active-button-assign":  "Assign Plan",
     "suite-page-organization-directory-user-credits-policy-details": "Mitteilung über die Credit-Rückerstattung"
   }
 }

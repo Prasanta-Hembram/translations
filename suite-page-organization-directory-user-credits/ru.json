@@ -8,6 +8,7 @@
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} истекают {date}.",
     "suite-page-organization-directory-user-credits-expiring-title": "Временные кредиты",
     "suite-page-organization-directory-user-credits-permanent-title": "Кредиты",
+    "suite-page-organization-directory-user-credits-plan-active-button-assign":  "Assign Plan",
     "suite-page-organization-directory-user-credits-policy-details": "Политика возврата кредитов"
   }
 }
