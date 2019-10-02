@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "Directory",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, debt {balanceDebt}",
-    "suite-page-organization-directory-main-balances-money": "Debt {balanceDebt}",
-    "suite-page-organization-directory-main-cash-balance": "Cash Balance",
-    "suite-page-organization-directory-main-credit-balance": "Credit Balance",
+    "suite-page-organization-directory-main-balance-credit": "Credit Balance",
+    "suite-page-organization-directory-main-balance-unpaid-invoices": "Unpaid Invoices",
     "suite-page-organization-directory-main-end": "End",
     "suite-page-organization-directory-main-member-create": "Create",
     "suite-page-organization-directory-main-member-new": "New",
@@ -19,7 +17,9 @@
     "suite-page-organization-directory-main-price": "Price",
     "suite-page-organization-directory-main-requests-title": "Requests",
     "suite-page-organization-directory-main-search-placeholder": "Search",
+    "suite-page-organization-directory-main-team-balances": "{balanceCredits}, unpaid invoices {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-team-create": "Create",
+    "suite-page-organization-directory-main-team-money-balance": "Unpaid invoices {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-teams-empty": "There are no teams.",
     "suite-page-organization-directory-main-teams-title": "Teams"
   }

@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "회원 찾기",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, 부채액 : {balanceDebt}",
-    "suite-page-organization-directory-main-balances-money": "부채액 : {balanceDebt}",
-    "suite-page-organization-directory-main-cash-balance": "현금 잔액",
-    "suite-page-organization-directory-main-credit-balance": "크레딧 잔액",
+    "suite-page-organization-directory-main-balance-credit": "크레딧 잔액",
+    "suite-page-organization-directory-main-balance-unpaid-invoices": "Unpaid Invoices",
     "suite-page-organization-directory-main-end": "종료",
     "suite-page-organization-directory-main-member-create": "회원 추가하기",
     "suite-page-organization-directory-main-member-new": "New",
@@ -19,7 +17,9 @@
     "suite-page-organization-directory-main-price": "가격",
     "suite-page-organization-directory-main-requests-title": "가입 요청",
     "suite-page-organization-directory-main-search-placeholder": "검색하기",
+    "suite-page-organization-directory-main-team-balances": "{balanceCredits}, unpaid invoices {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-team-create": "팀 추가하기",
+    "suite-page-organization-directory-main-team-money-balance": "Unpaid invoices {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-teams-empty": "팀이 없습니다.",
     "suite-page-organization-directory-main-teams-title": "팀"
   }
