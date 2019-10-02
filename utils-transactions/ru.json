@@ -27,8 +27,8 @@
     "suite-utils-transactions-point-transaction-book-refund-points": "Отмена брони ∙ Кредиты",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Списание ∙ Менеджер отделения",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Списание ∙ {name}",
-    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Истечение срока действия плана",
-    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Получено с планом",
+    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Списание ∙ Тарифный план",
+    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Начисление ∙ Тарифный план",
     "suite-utils-transactions-point-transaction-transfer-by-admin": "Начисление ∙ Менеджер отделения",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Начисление ∙ {name}"
   }
