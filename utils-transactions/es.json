@@ -27,8 +27,8 @@
     "suite-utils-transactions-point-transaction-book-refund-points": "Reserva cancelada ∙ Créditos",
     "suite-utils-transactions-point-transaction-charge-by-admin": "Créditos cargardos ∙ Gerente de sucursal",
     "suite-utils-transactions-point-transaction-charge-by-admin-with-name": "Créditos cargardos ∙ {name}",
-    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Vencido ∙ Plan de membresía",
-    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Recibido ∙ Plan de membresía",
+    "suite-utils-transactions-point-transaction-monthly-subscription-expiration": "Créditos cargardos ∙ Plan de membresía",
+    "suite-utils-transactions-point-transaction-monthly-subscription-renewal": "Créditos agregados ∙ Plan de membresía",
     "suite-utils-transactions-point-transaction-transfer-by-admin": "Créditos agregados ∙ Gerente de sucursal",
     "suite-utils-transactions-point-transaction-transfer-by-admin-with-name": "Créditos agregados ∙ {name}"
   }
