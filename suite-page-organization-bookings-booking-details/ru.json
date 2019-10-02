@@ -3,7 +3,7 @@
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Бесплатно",
     "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Инвойс команды ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Карточка ({price})",
-    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Paid Outside ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-money-cash": "Внешний платеж ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Кредиты личные ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team": "Кредиты команды ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредиты {teamName} ({balance})",
