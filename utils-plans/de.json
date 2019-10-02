@@ -1,10 +1,13 @@
 {
   "data": {
+    "utils-plans-details-description-repeat-forever": "{credits} assigned on {date}, repeating forever every day/week/month.",
+    "utils-plans-details-description-repeat-never": "{credits} assigned on {date} until {date}.",
+    "utils-plans-details-description-repeat-times": "{credits} assigned on {date}, repeating {repeat} times until {date}.",
     "utils-plans-pay-with-card": "Karte",
     "utils-plans-pay-with-cash": "Bar",
-    "utils-plans-period-day": "1 Tag",
-    "utils-plans-period-week": "1 Woche",
-    "utils-plans-period-month": "1 Monat",
+    "utils-plans-period-day": "Tag",
+    "utils-plans-period-week": "Woche",
+    "utils-plans-period-month": "Monat",
     "utils-plans-repeat-eight-day": "8 Tage",
     "utils-plans-repeat-eight-month": "8 Monate",
     "utils-plans-repeat-eight-week": "8 Wochen",
