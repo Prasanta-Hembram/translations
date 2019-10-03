@@ -10,7 +10,7 @@
     "suite-modal-organization-transaction-not-found": "Ця транзакція не існує або була видалена.",
     "suite-modal-organization-transaction-paid-with-label": "Оплачено",
     "suite-modal-organization-transaction-paid-with-card": "Карткою",
-    "suite-modal-organization-transaction-paid-with-cash": "Готівкою",
+    "suite-modal-organization-transaction-paid-with-cash": "Зовнішній платіж",
     "suite-modal-organization-transaction-paid-with-for-free": "Безкоштовно",
     "suite-modal-organization-transaction-paid-with-invoice": "Інвойс",
     "suite-modal-organization-transaction-period-label": "Період",
