@@ -4,7 +4,7 @@
     "utils-plans-details-description-repeat-never": "{dateStart}에 부여된 {credits}는 {dateEnd}까지 이용 가능.",
     "utils-plans-details-description-repeat-times": "{dateStart}에 부여된 {credits}는 {dateEnd}까지 {repeat}회 반복.",
     "utils-plans-pay-with-card": "카드",
-    "utils-plans-pay-with-cash": "현금",
+    "utils-plans-pay-with-cash": "외부 지불",
     "utils-plans-period-day": "일",
     "utils-plans-period-week": "주",
     "utils-plans-period-month": "달",

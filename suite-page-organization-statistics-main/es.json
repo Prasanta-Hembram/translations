@@ -7,8 +7,8 @@
     "suite-page-organization-statistics-main-membership-section-new-this-month": "Nuevo Este Mes",
     "suite-page-organization-statistics-main-membership-section-teams": "Equipos",
     "suite-page-organization-statistics-main-revenue-by-payment-section": "{month} Ingresos por tipo de pago",
-    "suite-page-organization-statistics-main-revenue-by-payment-section-card": "Tarjeta  ",
-    "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "Efectivo",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-card": "Tarjeta",
+    "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "Pago externo",
     "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Facturas",
     "suite-page-organization-statistics-main-revenue-section": "Ingresos"
   }

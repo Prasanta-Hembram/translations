@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "Новое бронирование",
     "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-team": "Инвойс команды",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Наличными ({price})",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Внешний платеж",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Кредиты личные ({balance})",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-team": "Кредиты команды ({balance})",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "В случае отмены бронирования до его начала 100% средств будут возмещены на счет.",

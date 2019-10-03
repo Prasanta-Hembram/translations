@@ -14,7 +14,6 @@
     "suite-alerts-errors-booking-unallowed-time-period": "El período de reserva no es válido.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "No se puede cobrar más de lo que el equipo tiene.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "No se puede cobrar más de lo que el usuario tiene",
-    "suite-alerts-errors-feed-post-missing": "Falta la publicación o ha sido eliminado.",
     "suite-alerts-errors-file-not-found": "El archivo no ha sido cargado.",
     "suite-alerts-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión.",
     "suite-alerts-errors-internal-error": "Algo salió mal. Por favor intenta de nuevo.",
@@ -22,11 +21,8 @@
     "suite-alerts-errors-invoice-empty": "No se puede finalizar una factura vacía. Agrega los artículos primero",
     "suite-alerts-errors-invoice-not-finished": "El mes aún no ha terminado. Inténtalo de nuevo cuando acabe el mes.",
     "suite-alerts-errors-membership-invite-invalid": "No me invitaron. El miembro ya ha sido invitado.",
-    "suite-alerts-errors-no-enough-cash": "No hay suficiente efectivo.",
     "suite-alerts-errors-no-internet": "Sin conexión a internet.",
     "suite-alerts-errors-no-printers-connections": "El espacio de trabajo no tiene integración de impresora.",
-    "suite-alerts-errors-organization-code-is-invalid": "La etiqueta debe contener sólo caracteres latinos y guiones.",
-    "suite-alerts-errors-organization-code-is-taken": "La etiqueta de espacio de trabajo ya está ocupada. Prueba con otro.",
     "suite-alerts-errors-organization-create-params-invalid": "No se pudo crear el espacio de trabajo. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-organization-update-params-invalid": "El espacio de trabajo no se pudo actualizar. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-payment-price-high": "El monto total es superior al que permite el sistema de pago.",
@@ -44,6 +40,7 @@
     "suite-alerts-errors-sign-in-google-error": "No se puede iniciar sesión con Google, porque no está asociado con ninguna cuenta existente.",
     "suite-alerts-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta.",
     "suite-alerts-errors-trial-already-started": "El espacio de trabajo ya tiene activado el sistema completo de reservas.",
+    "suite-alerts-errors-user-already-activated": "La membresía ya está activada.",
     "suite-alerts-errors-user-have-no-permission": "No hay permiso para finalizar la acción."
   }
 }

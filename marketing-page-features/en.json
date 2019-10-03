@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-features-title": "andcards Features & Integrations | andcards",
-    "marketing-page-features-description": "Explore features and integrations of andcards Suite.",
+    "marketing-page-features-description": "Explore features and integrations of andcards.",
     "marketing-page-features-headline": "All the apps you already love",
     "marketing-page-features-headline-2": "andcards packs essentials and integrates with the best apps to help you manage your coworking space business.",
     "marketing-page-features-section-apps-title": "Core Apps",
@@ -11,6 +11,8 @@
     "marketing-page-features-section-apps-bookings-description": "Automate meeting room booking, free hour credits and payments",
     "marketing-page-features-section-apps-directory-title": "Directory",
     "marketing-page-features-section-apps-directory-description": "Consolidate all coworking space customer data",
+    "marketing-page-features-section-apps-statistics-title": "Statistics",
+    "marketing-page-features-section-apps-statistics-description": "Analyze membership and revenue trends",
     "marketing-page-features-section-integrations-title": "Integrations",
     "marketing-page-features-section-integrations-category-bookings-title": "Bookings",
     "marketing-page-features-section-integrations-category-communication-title": "Communication",

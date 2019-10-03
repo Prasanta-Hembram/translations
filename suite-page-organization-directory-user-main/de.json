@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-page-organization-directory-user-main-button-booking": "Buchungshistorie",
-    "suite-page-organization-directory-user-main-button-cash-balance": "Barguthaben",
     "suite-page-organization-directory-user-main-button-credits": "Credits",
     "suite-page-organization-directory-user-main-button-delete-user": "Benutzer aus dem Workspace entfernen",
     "suite-page-organization-directory-user-main-button-history": "Saldenhistorie",
@@ -10,8 +9,11 @@
     "suite-page-organization-directory-user-main-button-profile": "Profil",
     "suite-page-organization-directory-user-main-button-settings": "Einstellungen",
     "suite-page-organization-directory-user-main-error-user-not-found": "Dieser Benutzer ist möglicherweise nicht vorhanden oder wurde entfernt.",
+    "suite-page-organization-directory-user-main-invited-email": "Einladung gesendet an {userEmail}.",
     "suite-page-organization-directory-user-main-leave-repeat": "Erneut versuchen",
     "suite-page-organization-directory-user-main-leave-user-failure": "Benutzer konnte nicht aus dem Workspace entfernt werden.",
+    "suite-page-organization-directory-user-main-remove-invitation": "Benutzer entfernen",
+    "suite-page-organization-directory-user-main-resend-invite": "Einladung erneut versenden",
     "suite-page-organization-directory-user-main-section-membership-title": "Mitgliedschaft"
   }
 }

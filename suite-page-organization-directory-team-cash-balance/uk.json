@@ -1,7 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-directory-team-cash-balance-title": "Баланс готівки",
-    "suite-page-organization-directory-team-cash-balance-description":  "Сума всіх неоплачених транзакцій та інвойсів готівкою. {cashBalance} за резервації та плани, {invoiceBalance} за інвойси.",
-    "suite-page-organization-directory-team-cash-balance-error-team-not-found": "Ця команда не існує або ж була видалена."
-  }
-}

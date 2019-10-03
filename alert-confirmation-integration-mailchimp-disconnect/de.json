@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-mailchimp-disconnect-title": "Mailchimp abmelden",
+    "alert-confirmation-integration-mailchimp-disconnect-text": "Sind sie sicher, dass Sie Mailchimp abmelden wollen??",
+    "alert-confirmation-integration-mailchimp-disconnect-no": "Abbrechen",
+    "alert-confirmation-integration-mailchimp-disconnect-yes": "Abmelden"
+  }
+}

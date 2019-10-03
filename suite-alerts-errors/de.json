@@ -14,7 +14,6 @@
     "suite-alerts-errors-booking-unallowed-time-period": "Der Buchungszeitraum ist ungültig.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Sie können nicht mehr verlangen, als das Team zur Verfügung hat.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Sie können nicht mehr verlangen, als der Benutzer zur Verfügung hat.",
-    "suite-alerts-errors-feed-post-missing": "Der Beitrag fehlt oder wurde gelöscht.",
     "suite-alerts-errors-file-not-found": "Die Datei wurde nicht hochgeladen.",
     "suite-alerts-errors-last-integration-delete": "Die letzte Login-Methode kann nicht gelöscht werden.",
     "suite-alerts-errors-internal-error": "Etwas ist schief gelaufen. Versuchen Sie es erneut.",
@@ -22,11 +21,8 @@
     "suite-alerts-errors-invoice-empty": "Eine leere Rechnung kann nicht fertiggestellt werden. Fügen Sie zunächst Elemente hinzu.",
     "suite-alerts-errors-invoice-not-finished": "Der Monat ist noch nicht vorbei. Versuchen Sie es erneut, sobald der Monat endet.",
     "suite-alerts-errors-membership-invite-invalid": "Die Einladung ist fehlgeschlagen. Das Mitglied wurde bereits eingeladen.",
-    "suite-alerts-errors-no-enough-cash": "Nicht genug Bargeld.",
     "suite-alerts-errors-no-internet": "Keine Internetverbindung.",
     "suite-alerts-errors-no-printers-connections": "Der Workspace hat keine Druckerintegration.",
-    "suite-alerts-errors-organization-code-is-invalid": "Der Tag sollte nur lateinische Zeichen und Bindestriche enthalten.",
-    "suite-alerts-errors-organization-code-is-taken": "Der Tag ist bereits vergeben. Versuchen Sie einen anderen.",
     "suite-alerts-errors-organization-create-params-invalid": "Der Workspace konnte nicht erstellt werden. Überprüfen Sie alle Felder und versuchen Sie es erneut.",
     "suite-alerts-errors-organization-update-params-invalid": "Der Workspace konnte nicht aktualisiert werden. Überprüfen Sie alle Felder und versuchen Sie es erneut.",
     "suite-alerts-errors-payment-price-high": "Der Gesamtbetrag ist höher, als das Zahlungssystem es zulässt.",
@@ -43,6 +39,7 @@
     "suite-alerts-errors-sign-in-google-error": "Die Anmeldung bei Google ist nicht möglich, da sie nicht mit einem bestehenden Konto verknüpft ist.",
     "suite-alerts-errors-sns-user-exists": "Die Login-Methode wird von einem anderen Konto verwendet.",
     "suite-alerts-errors-trial-already-started": "Der Workspace hat bereits das volle Buchungssystem aktiviert.",
+    "suite-alerts-errors-user-already-activated": "Die Mitgliedschaft ist bereits aktiviert.",
     "suite-alerts-errors-user-have-no-permission": "Keine Berechtigung, die Aktion abzuschließen."
   }
 }

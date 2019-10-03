@@ -14,7 +14,6 @@
     "suite-alerts-errors-booking-unallowed-time-period": "예약 기간이 유효하지 않습니다.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "회수할 금액이 팀 크레딧 잔액을 초과합니다.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "회수할 금액이 개인 크레딧 잔액을 초과합니다.",
-    "suite-alerts-errors-feed-post-missing": "해당 게시물은 찾을 수 없거나 삭제되었습니다.",
     "suite-alerts-errors-file-not-found": "파일 업로드 오류.",
     "suite-alerts-errors-last-integration-delete": "마지막 로그인 방법을 삭제할 수 없습니다.",
     "suite-alerts-errors-internal-error": "오류가 발생했습니다. 다시 시도하세요.",
@@ -22,11 +21,8 @@
     "suite-alerts-errors-invoice-empty": "아이템이 없는 인보이스는 확정할 수 없습니다. 아이템이 추가하세요.",
     "suite-alerts-errors-invoice-not-finished": "본 달은 아직 끝나지 않았습니다. 달이 끝나면 다시 시도하세요.",
     "suite-alerts-errors-membership-invite-invalid": "초대 불가. 회원은 이미 초대되었습니다.",
-    "suite-alerts-errors-no-enough-cash": "현금 부족.",
     "suite-alerts-errors-no-internet": "인터넷에 연결되지 않음.",
     "suite-alerts-errors-no-printers-connections": "프린터 연동이 되지 않음.",
-    "suite-alerts-errors-organization-code-is-invalid": "태그에는 영문 문자와 대시 만 사용 가능합니다.",
-    "suite-alerts-errors-organization-code-is-taken": "입력하신 공간 태그 이미 사용 중입니다. 다른 태그를 시도하세요.",
     "suite-alerts-errors-organization-create-params-invalid": "공간을 만들지 못했습니다. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-organization-update-params-invalid": "공간 업데이트 실패. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-payment-price-high": "총 금액이 결제시스템의 허용하는 최대 금액보다 높습니다.",
@@ -44,6 +40,7 @@
     "suite-alerts-errors-sign-in-google-error": "기존 계정과 연결되어 있지 않으므로 Google로 로그인할 수 없습니다.",
     "suite-alerts-errors-sns-user-exists": "다른 계정에 의해 로그인 되었습니다.",
     "suite-alerts-errors-trial-already-started": "예약 가능한 시간대에 맞추어 시간 범위를 선택해주세요.",
+    "suite-alerts-errors-user-already-activated": "회원이 이미 활성화되었습니다.",
     "suite-alerts-errors-user-have-no-permission": "필요한 권한이 없습니다."
   }
 }

@@ -4,7 +4,7 @@
     "utils-plans-details-description-repeat-never": "{credits} assigned on {dateStart} until {dateEnd}.",
     "utils-plans-details-description-repeat-times": "{credits} assigned on {dateStart}, repeating {repeat} times until {dateEnd}.",
     "utils-plans-pay-with-card": "Card",
-    "utils-plans-pay-with-cash": "Cash",
+    "utils-plans-pay-with-cash": "External Payment",
     "utils-plans-period-day": "day",
     "utils-plans-period-week": "week",
     "utils-plans-period-month": "month",

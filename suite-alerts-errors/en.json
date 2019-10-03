@@ -14,7 +14,6 @@
     "suite-alerts-errors-booking-unallowed-time-period": "The booking period is invalid.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "You can't charge more that the team has.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "You can't charge more that the user has.",
-    "suite-alerts-errors-feed-post-missing": "The post is missing or has been deleted.",
     "suite-alerts-errors-file-not-found": "The file was not uploaded.",
     "suite-alerts-errors-last-integration-delete": "Last login method can't be deleted.",
     "suite-alerts-errors-internal-error": "Something went wrong. Try again.",
@@ -22,11 +21,8 @@
     "suite-alerts-errors-invoice-empty": "Unable to finalize an empty invoice. Add items first.",
     "suite-alerts-errors-invoice-not-finished": "The month isn't over yet. Try again when the month ends.",
     "suite-alerts-errors-membership-invite-invalid": "Failed to invite. The member has already been invited.",
-    "suite-alerts-errors-no-enough-cash": "Not enough cash.",
     "suite-alerts-errors-no-internet": "No internet connection.",
     "suite-alerts-errors-no-printers-connections": "The workspace has no printer integration.",
-    "suite-alerts-errors-organization-code-is-invalid": "The tag should contain only latin characters and dashes.",
-    "suite-alerts-errors-organization-code-is-taken": "The workspace tag is already taken. Try another one.",
     "suite-alerts-errors-organization-create-params-invalid": "Failed to create workspace. Check all fields and try again.",
     "suite-alerts-errors-organization-update-params-invalid": "Failed to update workspace. Check all fields and try again.",
     "suite-alerts-errors-payment-price-high": "The total amount is higher than the payment system allows.",
@@ -44,6 +40,7 @@
     "suite-alerts-errors-sign-in-google-error": "Unable to login with Google, because it is not associated with any existing account.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
     "suite-alerts-errors-trial-already-started": "The workspace already has the full booking system enabled.",
+    "suite-alerts-errors-user-already-activated": "Membership is already activated.",
     "suite-alerts-errors-user-have-no-permission": "No permission to complete the action."
   }
 }

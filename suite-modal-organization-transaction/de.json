@@ -10,7 +10,7 @@
     "suite-modal-organization-transaction-not-found": "Diese Transaktion ist möglicherweise nicht vorhanden oder wurde entfernt.",
     "suite-modal-organization-transaction-paid-with-label": "Bezahlt mit",
     "suite-modal-organization-transaction-paid-with-card": "Karte",
-    "suite-modal-organization-transaction-paid-with-cash": "Bargeld",
+    "suite-modal-organization-transaction-paid-with-cash": "Externe Zahlung",
     "suite-modal-organization-transaction-paid-with-for-free": "Kostenlos",
     "suite-modal-organization-transaction-paid-with-invoice": "Rechnung",
     "suite-modal-organization-transaction-period-label": "Zeitraum",

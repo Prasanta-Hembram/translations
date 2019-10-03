@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-mailchimp-disconnect-title": "Отключить Mailchimp",
+    "alert-confirmation-integration-mailchimp-disconnect-text": "Вы уверены, что хотите отключить Mailchimp?",
+    "alert-confirmation-integration-mailchimp-disconnect-no": "Отменить",
+    "alert-confirmation-integration-mailchimp-disconnect-yes": "Отключить"
+  }
+}

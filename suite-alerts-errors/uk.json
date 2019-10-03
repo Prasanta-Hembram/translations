@@ -14,7 +14,6 @@
     "suite-alerts-errors-booking-unallowed-time-period": "Вибраний період бронювання недійсний.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Неможливо стягнути більше ніж є в команди.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Неможливо стягнути більше ніж є в користувача.",
-    "suite-alerts-errors-feed-post-missing": "Пост відсутній або видалений.",
     "suite-alerts-errors-file-not-found": "Файл не завантажено.",
     "suite-alerts-errors-last-integration-delete": "Останній метод входу не може бути видалений.",
     "suite-alerts-errors-internal-error": "Щось пішло не так. Будь ласка спробуйте ще раз.",
@@ -22,11 +21,8 @@
     "suite-alerts-errors-invoice-empty": "Неможливо завершити створення порожнього інвойсу. Спочатку додайте елементи.",
     "suite-alerts-errors-invoice-not-finished": "Місяць ще не закінчився. Повторіть спробу, коли закінчиться місяць.",
     "suite-alerts-errors-membership-invite-invalid": "Не вдалося запросити. Учасника вже було запрошено.",
-    "suite-alerts-errors-no-enough-cash": "Недостатньо готівки.",
     "suite-alerts-errors-no-internet": "Немає інтернет-з'єднання.",
     "suite-alerts-errors-no-printers-connections": "В коворкінгу немає даних про користувачів принтерів.",
-    "suite-alerts-errors-organization-code-is-invalid": "Тег повинен включати тільки латиницю та дефіс.",
-    "suite-alerts-errors-organization-code-is-taken": "Цей тег вже використовується. Спробуйте інший.",
     "suite-alerts-errors-organization-create-params-invalid": "Не вдалося створити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-organization-update-params-invalid": "Не вдалося оновити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-payment-price-high": "Сума є вищою, ніж це дозволяє платіжна система.",
@@ -44,6 +40,7 @@
     "suite-alerts-errors-sign-in-google-error": "Неможливо ввійти з Google, цей профіль не прив'язаний до жодного акаунту",
     "suite-alerts-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі.",
     "suite-alerts-errors-trial-already-started": "У вашому коворкінгу вже включена система бронювання.",
+    "suite-alerts-errors-user-already-activated": "Участь вже активована.",
     "suite-alerts-errors-user-have-no-permission": "Відсутні права доступу для завершення дії."
   }
 }

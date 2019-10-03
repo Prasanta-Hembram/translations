@@ -4,7 +4,7 @@
     "utils-plans-details-description-repeat-never": "{credits}, die bei {dateStart} bis {dateEnd} vergeben wurden.",
     "utils-plans-details-description-repeat-times": "{credits}, die am {dateStart} zugewiesen wurden, und {repeat} wiederholen bis {dateEnd}.",
     "utils-plans-pay-with-card": "Karte",
-    "utils-plans-pay-with-cash": "Bar",
+    "utils-plans-pay-with-cash": "Externe Zahlung",
     "utils-plans-period-day": "Tag",
     "utils-plans-period-week": "Woche",
     "utils-plans-period-month": "Monat",

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-feed-post-delete-title": "게시물 삭제",
-    "alert-confirmation-feed-post-delete-no": "돌아가기",
-    "alert-confirmation-feed-post-delete-text": "이 게시물을 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
-    "alert-confirmation-feed-post-delete-yes": "삭제하기"
-  }
-}

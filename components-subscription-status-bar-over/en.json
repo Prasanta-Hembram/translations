@@ -1,0 +1,7 @@
+{
+  "data": {
+    "components-subscription-status-bar-over-button": "Subscribe",
+    "components-subscription-status-bar-over-desc-admin": "The trial is over. Subscribe to restore access to the workspace.",
+    "components-subscription-status-bar-over-desc-member": "The trial is over."
+  }
+}

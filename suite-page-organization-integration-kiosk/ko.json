@@ -1,0 +1,6 @@
+{
+  "data": {
+    "suite-page-organization-integrations-kiosk-title": "연동",
+    "suite-page-organization-integrations-kiosk-description": "andcards Kiosk는 회의실 이용 가능 여부를 보여주는 회의실 디스플레이 앱입니다. 앱 배경이 초록색일 경우 현재 사용 가능, 노란색일 경우 곧 이용 가능, 빨간 색일 때는 현재 이용 불가를 나타냅니다. 여러분의 회의실 디스플레이에 Kiosk 앱을 다운로드하세요 :\n∙ 회의실 문 앞에서 실시간 스케줄 현황 프리뷰.\n∙ 원거리에서도 회의실 사용 가능 여부 확인 가능.\n\nKiosk를 설정하기 위해, 태블릿에 해당 앱을 다운로드하신 뒤, 관리자 계정으로 로그인하시고 회의실을 선택해주세요.\n\nandcards Kiosk 최소 시스템 사양 : 안드로이드 6.0 and iOS 9.0.\n\n다양한 정보를 확인하세요 : {kioskUrl}."
+  }
+}

@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-directory-main-title": "Каталог",
-    "suite-page-organization-directory-main-balances": "{balanceCredits}, долг {balanceDebt}",
-    "suite-page-organization-directory-main-balances-money": "Долг {balanceDebt}",
-    "suite-page-organization-directory-main-cash-balance": "Баланс наличных",
-    "suite-page-organization-directory-main-credit-balance": "Баланс кредитов",
+    "suite-page-organization-directory-main-balance-credit": "Баланс кредитов",
+    "suite-page-organization-directory-main-balance-unpaid-invoices": "Неоплаченные инвойсы",
     "suite-page-organization-directory-main-end": "До",
     "suite-page-organization-directory-main-member-create": "Создать",
     "suite-page-organization-directory-main-member-new": "New",
@@ -17,10 +15,11 @@
     "suite-page-organization-directory-main-plan": "План",
     "suite-page-organization-directory-main-plan-not-started": "Не начался",
     "suite-page-organization-directory-main-price": "Цена",
-    "suite-page-organization-directory-main-requests-empty": "Заявки отсутствуют.",
     "suite-page-organization-directory-main-requests-title": "Заявки",
     "suite-page-organization-directory-main-search-placeholder": "Поиск",
+    "suite-page-organization-directory-main-team-balances": "{balanceCredits} ∙ Неоплаченные инвойсы {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-team-create": "Создать",
+    "suite-page-organization-directory-main-team-unpaid-invoices-balance": "Неоплаченные инвойсы {balanceUnpaidInvoices}",
     "suite-page-organization-directory-main-teams-empty": "Команды отсутствуют.",
     "suite-page-organization-directory-main-teams-title": "Команды"
   }
