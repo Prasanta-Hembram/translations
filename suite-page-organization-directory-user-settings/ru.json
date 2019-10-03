@@ -3,9 +3,9 @@
     "suite-page-organization-directory-user-settings-title": "Профиль",
     "suite-page-organization-directory-user-settings-error-user-not-found": "Участника не существует или же он был удален.",
     "suite-page-organization-directory-user-settings-role": "Роль",
-    "suite-page-organization-directory-user-settings-role-admin": "Branch Manager",
+    "suite-page-organization-directory-user-settings-role-admin": "Менеджер отделения",
     "suite-page-organization-directory-user-settings-role-guest": "Гость",
-    "suite-page-organization-directory-user-settings-role-info-admin": "Branch Manager может настраивать и управлять всем в коворкинге.",
+    "suite-page-organization-directory-user-settings-role-info-admin": "Менеджер отделения может настраивать и управлять всем в коворкинге.",
     "suite-page-organization-directory-user-settings-role-info-guest": "Гость может просматривать контент в коворкинге.",
     "suite-page-organization-directory-user-settings-role-info-member": "Участник может просматривать контент в коворкинге.",
     "suite-page-organization-directory-user-settings-role-member": "Участник"
