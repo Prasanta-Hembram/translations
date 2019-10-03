@@ -3,13 +3,11 @@
     "suite-page-organization-directory-user-settings-title": "Профіль",
     "suite-page-organization-directory-user-settings-error-user-not-found": "Учасник не існує або ж був видалений.",
     "suite-page-organization-directory-user-settings-role": "Роль",
-    "suite-page-organization-directory-user-settings-role-admin": "Адміністратор",
+    "suite-page-organization-directory-user-settings-role-admin": "Менджер відділення",
     "suite-page-organization-directory-user-settings-role-guest": "Гість",
-    "suite-page-organization-directory-user-settings-role-info-admin": "Адміністратор може налаштовувати та керувати всім в коворкінгу.",
+    "suite-page-organization-directory-user-settings-role-info-admin": "Менджер відділення може налаштовувати та керувати всім в коворкінгу.",
     "suite-page-organization-directory-user-settings-role-info-guest": "Гість може переглядати контент в коворкінгу.",
     "suite-page-organization-directory-user-settings-role-info-member": "Учасник може переглядати контент в коворкінгу.",
-    "suite-page-organization-directory-user-settings-role-info-moderator": "Модератор може керувати контентом та командами в коворкінгу.",
-    "suite-page-organization-directory-user-settings-role-member": "Учасник",
-    "suite-page-organization-directory-user-settings-role-moderator": "Модератор"
+    "suite-page-organization-directory-user-settings-role-member": "Учасник"
   }
 }
