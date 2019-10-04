@@ -1,10 +1,11 @@
 {
   "data": {
     "suite-page-organization-membership-user-credits-title": "Кредити",
-    "suite-page-organization-membership-user-credits-description": "Використовуйте {pointEmoji} щоб резервувати кімнати. Щоб отримати більше {pointEmoji}, придбайте план, або зверніться до адміністратора.",
+    "suite-page-organization-membership-user-credits-description": "Використовуйте {pointEmoji} щоб резервувати кімнати. Щоб отримати більше {pointEmoji}, зверніться до адміністратора.",
     "suite-page-organization-membership-user-credits-error-credit-system-off": "Кредитна система в коворкінгу відключена.",
     "suite-page-organization-membership-user-credits-error-user-not-found": "Учасник не існує або ж був видалений.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} стікають {date}.",
+    "suite-page-organization-membership-user-credits-plan-title": "План кредитів",
     "suite-page-organization-membership-user-credits-policy-details": "Політика поверення кредитів"
   }
 }

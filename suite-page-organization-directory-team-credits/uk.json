@@ -8,6 +8,9 @@
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-directory-team-credits-expiring-title": "Тимчасові кредити",
     "suite-page-organization-directory-team-credits-permanent-title": "Кредити",
+    "suite-page-organization-directory-team-credits-plan-active-button-assign": "Призначити план",
+    "suite-page-organization-directory-team-credits-plan-details-deactivate": "Деактивувати",
+    "suite-page-organization-directory-team-credits-plan-title": "План кредитів",
     "suite-page-organization-directory-team-credits-policy-details": "Політика поверення кредитів"
   }
 }

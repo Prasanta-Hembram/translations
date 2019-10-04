@@ -8,6 +8,9 @@
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} verfallen am {date}.",
     "suite-page-organization-directory-team-credits-expiring-title": "Verfallene Credits",
     "suite-page-organization-directory-team-credits-permanent-title": "Credits",
+    "suite-page-organization-directory-team-credits-plan-active-button-assign": "Abo zuweisen",
+    "suite-page-organization-directory-team-credits-plan-details-deactivate": "Deaktivieren",
+    "suite-page-organization-directory-team-credits-plan-title": "Credit Abo",
     "suite-page-organization-directory-team-credits-policy-details": "Mitteilung über die Credit-Rückerstattung"
   }
 }
