@@ -26,7 +26,7 @@
     "suite-page-organization-settings-suite-bookings-credit-system": "Creditos",
     "suite-page-organization-settings-suite-bookings-invoicing-team-enabled": "Método de pago de la factura del equipo.",
     "suite-page-organization-settings-suite-bookings-invoicing-team-enabled-desc": "Los miembros del equipo podrán reservar salas de reuniones y pagar más tarde con una factura.",
-    "suite-page-organization-settings-suite-bookings-point-desc": "Los miembros pueden usar créditos para reservar salas de reuniones. Los créditos se pueden recibir a través de la compra de un plan de membresía o se pueden agregar manualmente por el administrador.",
+    "suite-page-organization-settings-suite-bookings-point-desc": "Los miembros pueden usar créditos para reservar salas de reuniones. Los créditos se pueden recibir a través de la compra de un plan de membresía o se pueden agregar manualmente por el Branch Manager.",
     "suite-page-organization-settings-suite-bookings-point-label": "Sistema de crédito",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Porcentaje de créditos que los miembros de una sucursal pueden gastar en otras sucursales de una red. Póngase en contacto con support@andcards.com para cambiarlo.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Asignación de red",

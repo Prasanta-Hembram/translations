@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-credits-title": "Кредиты",
-    "suite-page-organization-membership-team-credits-description": "Используйте {pointEmoji} чтобы бронировать переговорные. Чтобы получить больше {pointEmoji}, обратитесь к администратору.",
+    "suite-page-organization-membership-team-credits-description": "Используйте {pointEmoji} чтобы бронировать переговорные. Чтобы получить больше {pointEmoji}, обратитесь к Branch Manager.",
     "suite-page-organization-membership-team-credits-error-credit-system-off": "Коворкинг не использует кредитную систему.",
     "suite-page-organization-membership-team-credits-error-no-team": "Эта команда не существует или была удалена.",
     "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} истекают {date}.",

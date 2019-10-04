@@ -26,7 +26,7 @@
     "suite-page-organization-settings-suite-bookings-credit-system": "Credits",
     "suite-page-organization-settings-suite-bookings-invoicing-team-enabled": "Zahlungsmethode der Teamrechnung",
     "suite-page-organization-settings-suite-bookings-invoicing-team-enabled-desc": "Die Teammitglieder können Konferenzräume buchen und später mit einer Rechnung bezahlen.",
-    "suite-page-organization-settings-suite-bookings-point-desc": "Bonus-Credits werden für die Raumbuchung verwendet. Admin/Moderator kann den Mitgliedern freiwillig Credits geben.",
+    "suite-page-organization-settings-suite-bookings-point-desc": "Bonus-Credits werden für die Raumbuchung verwendet. Branch Manager kann den Mitgliedern freiwillig Credits geben.",
     "suite-page-organization-settings-suite-bookings-point-label": "Credit-System",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Prozentsatz der Credits, die Mitglieder eines Standorts in anderen Standorten eines Netzwerks ausgeben können. Um es zu ändern, wenden Sie sich bitte an support@andcards.com.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Netzwerkzulage",
