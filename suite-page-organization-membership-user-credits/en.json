@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-user-credits-title": "Credits",
-    "suite-page-organization-membership-user-credits-description": "Use {pointEmoji} to book meeting rooms. To obtain more {pointEmoji} ask Branch Manager.",
+    "suite-page-organization-membership-user-credits-description": "Use {pointEmoji} to book meeting rooms. To obtain more {pointEmoji} ask branch manager.",
     "suite-page-organization-membership-user-credits-error-credit-system-off": "The workspace`s credit system is disabled.",
     "suite-page-organization-membership-user-credits-error-user-not-found": "This user may not exists or may have been removed.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} expire on {date}.",
