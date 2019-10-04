@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-booking-delete-title": "Delete Booking",
-    "alert-confirmation-organization-booking-delete-by-card-text": "Are you sure you want to delete this booking? Refund is processed manually by admin, if applicable. This action is irreversible.",
+    "alert-confirmation-organization-booking-delete-by-card-text": "Are you sure you want to delete this booking? Refund is processed manually by Branch Manager, if applicable. This action is irreversible.",
     "alert-confirmation-organization-booking-delete-no": "Cancel",
     "alert-confirmation-organization-booking-delete-text": "Are you sure you want to delete this booking?  This action is irreversible.",
     "alert-confirmation-organization-booking-delete-yes": "Delete"

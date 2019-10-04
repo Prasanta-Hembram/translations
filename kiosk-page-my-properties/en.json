@@ -3,7 +3,7 @@
     "kiosk-page-my-properties-title": "My Rooms",
     "kiosk-page-my-properties-andcards-suite-button": "Open andcards",
     "kiosk-page-my-properties-error-no-internet": "Couldn't load rooms. Check the internet and try again.",
-    "kiosk-page-my-properties-error-no-properties": "You must be a workspace administrator to see rooms here.",
+    "kiosk-page-my-properties-error-no-properties": "You must be a workspace branch manager to see rooms here.",
     "kiosk-page-my-properties-logout-button": "Log out"
   }
 }

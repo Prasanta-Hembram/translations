@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-team-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-team-invoice-no": "Abbrechen",
     "alert-confirmation-organization-booking-create-by-team-invoice-title": "Zusätzlich anfallende Kosten",
-    "alert-confirmation-organization-booking-create-by-team-invoice-text": "Die Kosten werden der Teamrechnung hinzugefügt. Zum Monatsende schickt der Admin die Rechnung an Ihren Teammanager zur Zahlung."
+    "alert-confirmation-organization-booking-create-by-team-invoice-text": "Die Kosten werden der Teamrechnung hinzugefügt. Zum Monatsende schickt der Branch Manager die Rechnung an Ihren Teammanager zur Zahlung."
   }
 }

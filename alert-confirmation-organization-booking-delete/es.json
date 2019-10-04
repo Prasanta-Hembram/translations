@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-booking-delete-title": "Eliminar reserva",
-    "alert-confirmation-organization-booking-delete-by-card-text":"¿Seguro que quieres eliminar esta reserva? El reembolso es procesado manualmente por el administrador, si corresponde. Esta acción es irreversible.",
+    "alert-confirmation-organization-booking-delete-by-card-text":"¿Seguro que quieres eliminar esta reserva? El reembolso es procesado manualmente por el Branch Manager, si corresponde. Esta acción es irreversible.",
     "alert-confirmation-organization-booking-delete-no": "Cancelar",
     "alert-confirmation-organization-booking-delete-text": "¿Seguro que quieres eliminar esta reserva? Esta acción es irreversible.",
     "alert-confirmation-organization-booking-delete-yes": "Eliminar"
