@@ -8,6 +8,9 @@
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} expira el {date}.",
     "suite-page-organization-directory-team-credits-expiring-title": "Créditos que expira",
     "suite-page-organization-directory-team-credits-permanent-title": "Créditos",
+    "suite-page-organization-directory-team-credits-plan-active-button-assign": "Asignar plan",
+    "suite-page-organization-directory-team-credits-plan-details-deactivate": "Desactivar",
+    "suite-page-organization-directory-team-credits-plan-title": "Plan de créditos",
     "suite-page-organization-directory-team-credits-policy-details": "Aviso de reembolso de crédito"
   }
 }
