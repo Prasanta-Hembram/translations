@@ -28,15 +28,15 @@ Example:
 
 Example:
 
-`"suite-page-organization-settings-spaces-section-amenities": "Amenities"`
+`"suite-page-organization-settings-general-section-amenities": "Amenities"`
 
-`"suite-page-organization-settings-spaces-section-amenities-parking": "Parking"`
+`"suite-page-organization-settings-general-section-amenities-parking": "Parking"`
 
 - Include the component name as part of the key.
 
 Example:
 
-`"suite-page-organization-settings-spaces-section-amenities-button-add": "Add amenities"`
+`"suite-page-organization-settings-general-section-amenities-button-add": "Add amenities"`
 
 - The alert translations begins with an `alert` word.
 
@@ -116,11 +116,11 @@ Use verbs that precisely describe the button’s action. For example, `Cancel`, 
 
 ### 9. Avoid professional jargon and use proper terminology.
 
-| DE   | EN        | ES       | UK           | RU           | KO   |
-| ---- | --------- | -------- | ------------ | ------------ | ---- |
-| Einstellungen | Settings  | Configuraciones | Налаштування | Настройки    | 설정 |
-| Workspace | Workspace | Espacio | Коворкінг    | Коворкинг    | 공간 |
-| Buchung | Booking   | Reserva  | Резервація   | Бронирование | 예약 |
-| Raum | Room      | Sala     | Кімната      | Переговорная | 회의실 |
+| DE            | EN        | ES              | UK           | RU           | KO     |
+| ------------- | --------- | --------------- | ------------ | ------------ | ------ |
+| Einstellungen | Settings  | Configuraciones | Налаштування | Настройки    | 설정   |
+| Workspace     | Workspace | Espacio         | Коворкінг    | Коворкинг    | 공간   |
+| Buchung       | Booking   | Reserva         | Резервація   | Бронирование | 예약   |
+| Raum          | Room      | Sala            | Кімната      | Переговорная | 회의실 |
 
 Never use wrong forms: organization (EN), sala de habitacion (ES), бронювання (UK), резервация (RU). In Korean, prefer "-세요" to "-하십시요": "제목을 입력하세요."

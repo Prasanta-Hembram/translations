@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-information-update-title": "Edit Information",
+    "suite-modal-organization-information-update-address": "Адрес",
+    "suite-modal-organization-information-update-address-placeholder": "Ввести адрес",
+    "suite-modal-organization-information-update-description": "Описание",
+    "suite-modal-organization-information-update-description-placeholder": "Ввести описание",
+    "suite-modal-organization-information-update-email": "Email",
+    "suite-modal-organization-information-update-email-placeholder": "Ввести email",
+    "suite-modal-organization-information-update-error-organization-email": "Введите правильный email.",
+    "suite-modal-organization-information-update-error-organization-title": "Введите название коворкинга.",
+    "suite-modal-organization-information-update-link": "Ссылка",
+    "suite-modal-organization-information-update-link-placeholder": "Ввести ссылку",
+    "suite-modal-organization-information-update-name": "Название",
+    "suite-modal-organization-information-update-name-placeholder": "Ввести имя",
+    "suite-modal-organization-information-update-timezone": "Часовой пояс"
+  }
+}

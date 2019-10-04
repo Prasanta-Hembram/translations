@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-information-update-title": "Edit Information",
+    "suite-modal-organization-information-update-address": "Address",
+    "suite-modal-organization-information-update-address-placeholder": "Type an address",
+    "suite-modal-organization-information-update-description": "Description",
+    "suite-modal-organization-information-update-description-placeholder": "Type a description",
+    "suite-modal-organization-information-update-email": "Email",
+    "suite-modal-organization-information-update-email-placeholder": "Type an email",
+    "suite-modal-organization-information-update-error-organization-email": "Type a correct email.",
+    "suite-modal-organization-information-update-error-organization-title": "Type a name of your workspace.",
+    "suite-modal-organization-information-update-link": "Link",
+    "suite-modal-organization-information-update-link-placeholder": "Type a link",
+    "suite-modal-organization-information-update-name": "Name",
+    "suite-modal-organization-information-update-name-placeholder": "Type a name",
+    "suite-modal-organization-information-update-timezone": "Timezone"
+  }
+}

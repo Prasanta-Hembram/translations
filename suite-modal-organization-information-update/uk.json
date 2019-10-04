@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-information-update-title": "Edit Information",
+    "suite-modal-organization-information-update-address": "Адреса",
+    "suite-modal-organization-information-update-address-placeholder": "Увести адресу",
+    "suite-modal-organization-information-update-description": "Опис",
+    "suite-modal-organization-information-update-description-placeholder": "Увести опис",
+    "suite-modal-organization-information-update-email": "Email",
+    "suite-modal-organization-information-update-email-placeholder": "Увести email",
+    "suite-modal-organization-information-update-error-organization-email": "Уведіть правильний email.",
+    "suite-modal-organization-information-update-error-organization-title": "Уведіть назву коворкінгу.",
+    "suite-modal-organization-information-update-link": "Посилання",
+    "suite-modal-organization-information-update-link-placeholder": "Увести посилання",
+    "suite-modal-organization-information-update-name": "Назва",
+    "suite-modal-organization-information-update-name-placeholder": "Увести назву",
+    "suite-modal-organization-information-update-timezone": "Часовий пояс"
+  }
+}
