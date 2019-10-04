@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-credits-title": "Credits",
-    "suite-page-organization-membership-team-credits-description": "Verwenden Sie {pointEmoji}, um Meetingräume zu buchen. Um mehr {pointEmoji} zu erhalten fragen Sie den Branch Manager.",
+    "suite-page-organization-membership-team-credits-description": "Verwenden Sie {pointEmoji}, um Meetingräume zu buchen. Um mehr {pointEmoji} zu erhalten fragen Sie den Standort Manager.",
     "suite-page-organization-membership-team-credits-error-credit-system-off": "Der Workspace verwendet kein Credit-System.",
     "suite-page-organization-membership-team-credits-error-no-team": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} verfallen am {date}.",
