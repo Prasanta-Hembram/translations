@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-booking-delete-title": "Buchung löschen",
-    "alert-confirmation-organization-booking-delete-by-card-text": "Sind Sie sicher, dass Sie diese Buchung löschen möchten? Die Rückerstattung wird vom Branch Manager manuell bearbeitet, sofern zutreffend. Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-booking-delete-by-card-text": "Sind Sie sicher, dass Sie diese Buchung löschen möchten? Die Rückerstattung wird vom Standort Manager manuell bearbeitet, sofern zutreffend. Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-booking-delete-no": "Abbrechen",
     "alert-confirmation-organization-booking-delete-text": "Sind Sie sicher, dass Sie diese Buchung löschen möchten?  Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-booking-delete-yes": "Löschen"
