@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-membership-team-credits-title": "Créditos",
-    "suite-page-organization-membership-team-credits-description": "Utilice {pointEmoji} para reservar salas de reuniones. Para obtener más {pointEmoji} pregunte al Branch Manager.",
+    "suite-page-organization-membership-team-credits-description": "Utilice {pointEmoji} para reservar salas de reuniones. Para obtener más {pointEmoji} pregunte al gerente de sucursal.",
     "suite-page-organization-membership-team-credits-error-credit-system-off": "El espacio de trabajo no utiliza un sistema de crédito.",
     "suite-page-organization-membership-team-credits-error-no-team": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} expira el {date}.",
