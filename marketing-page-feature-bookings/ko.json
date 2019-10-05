@@ -1,6 +1,7 @@
 {
   "data": {
-    "marketing-page-feature-bookings-name": "Bookings",
+    "marketing-page-feature-bookings-title": "Bookings",
+    "marketing-page-feature-bookings-subtitle": "Automate meeting room booking, free hour credits and payments",
     "marketing-page-feature-bookings-description": ""
   }
 }
