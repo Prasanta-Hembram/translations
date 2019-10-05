@@ -4,7 +4,7 @@
     "utils-benefit-allowance-type-unlimited": "무제한",
     "utils-benefit-application-type-by-email": "이메일로 신청하기",
     "utils-benefit-application-type-no-application": "신청 불필요",
-    "utils-benefit-permission-type-admin": "관리자/중간관리자",
+    "utils-benefit-permission-type-admin": "지점 관리자",
     "utils-benefit-permission-type-all": "전체 회원 및 게스트",
     "utils-benefit-permission-type-member": "전체 회원"
   }

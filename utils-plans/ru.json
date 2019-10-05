@@ -1,10 +1,13 @@
 {
   "data": {
+    "utils-plans-details-description-repeat-forever": "{credits} начислено {dateStart}, повторяется каждый {period}.",
+    "utils-plans-details-description-repeat-never": "{credits} начислено {dateStart} до {dateEnd}.",
+    "utils-plans-details-description-repeat-times": "{credits} начислено {dateStart}, повторяется {repeat} раз(а) до {dateEnd}.",
     "utils-plans-pay-with-card": "Карточкой",
-    "utils-plans-pay-with-cash": "Наличные",
-    "utils-plans-period-day": "1 день",
-    "utils-plans-period-week": "1 неделя",
-    "utils-plans-period-month": "1 месяц",
+    "utils-plans-pay-with-cash": "Внешний платеж",
+    "utils-plans-period-day": "день",
+    "utils-plans-period-week": "неделя",
+    "utils-plans-period-month": "месяц",
     "utils-plans-repeat-eight-day": "8 дней",
     "utils-plans-repeat-eight-month": "8 месяцев",
     "utils-plans-repeat-eight-week": "8 недель",
