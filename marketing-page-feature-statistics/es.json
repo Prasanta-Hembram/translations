@@ -2,6 +2,10 @@
   "data": {
     "marketing-page-feature-statistics-title": "Statistics",
     "marketing-page-feature-statistics-subtitle": "",
-    "marketing-page-feature-statistics-description": ""
+    "marketing-page-feature-statistics-description": "",
+    "marketing-page-feature-statistics-data-category-value": "Statistics",
+    "marketing-page-feature-statistics-data-available-for-value": "Basic, Standard, Enterprise",
+    "marketing-page-feature-statistics-data-pricing-value": "andcards Pricing",
+    "marketing-page-feature-statistics-data-supported-countries-value": "Worldwide"
   }
 }
