@@ -2,6 +2,10 @@
   "data": {
     "marketing-page-feature-bookings-title": "Bookings",
     "marketing-page-feature-bookings-subtitle": "Automate meeting room booking, free hour credits and payments",
-    "marketing-page-feature-bookings-description": ""
+    "marketing-page-feature-bookings-description": "",
+    "marketing-page-feature-bookings-data-category-value": "Bookings",
+    "marketing-page-feature-bookings-data-available-for-value": "Basic, Standard, Enterprise",
+    "marketing-page-feature-bookings-data-pricing-value": "andcards Pricing",
+    "marketing-page-feature-bookings-data-supported-countries-value": "Worldwide"
   }
 }
