@@ -1,12 +1,12 @@
 {
   "data": {
     "marketing-page-feature-main-title": "{title} | andcards",
-    "marketing-page-feature-main-card-category-title": "Category",
-    "marketing-page-feature-main-card-available-for-title": "Available for",
-    "marketing-page-feature-main-card-pricing-title": "Pricing",
-    "marketing-page-feature-main-card-supported-countries-title": "Supported Countries",
-    "marketing-page-feature-main-feature-verified-text": "Built and maintained by andcards",
-    "marketing-page-feature-main-helpful-articles-title": "Helpful Articles",
-    "marketing-page-feature-main-link-features": "Features"
+    "marketing-page-feature-main-card-category-title": "구분",
+    "marketing-page-feature-main-card-available-for-title": "이용 가능 플랜",
+    "marketing-page-feature-main-card-pricing-title": "가격",
+    "marketing-page-feature-main-card-supported-countries-title": "이용 가능 국가",
+    "marketing-page-feature-main-feature-verified-text": "andcards에서 개발 및 지원",
+    "marketing-page-feature-main-helpful-articles-title": "도움말 소식",
+    "marketing-page-feature-main-link-features": "기능"
   }
 }
