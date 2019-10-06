@@ -2,6 +2,10 @@
   "data": {
     "marketing-page-feature-benefits-title": "Benefits",
     "marketing-page-feature-benefits-subtitle": "",
-    "marketing-page-feature-benefits-description": ""
+    "marketing-page-feature-benefits-description": "",
+    "marketing-page-feature-benefits-data-category-value": "Benefits",
+    "marketing-page-feature-benefits-data-available-for-value": "Basic, Standard, Enterprise",
+    "marketing-page-feature-benefits-data-pricing-value": "andcards Pricing",
+    "marketing-page-feature-benefits-data-supported-countries-value": "Worldwide"
   }
 }

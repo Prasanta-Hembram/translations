@@ -2,6 +2,10 @@
   "data": {
     "marketing-page-feature-directory-title": "Directory",
     "marketing-page-feature-directory-subtitle": "",
-    "marketing-page-feature-directory-description": ""
+    "marketing-page-feature-directory-description": "",
+    "marketing-page-feature-directory-data-category-value": "Directory",
+    "marketing-page-feature-directory-data-available-for-value": "Basic, Standard, Enterprise",
+    "marketing-page-feature-directory-data-pricing-value": "andcards Pricing",
+    "marketing-page-feature-directory-data-supported-countries-value": "Worldwide"
   }
 }
