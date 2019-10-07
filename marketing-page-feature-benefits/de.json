@@ -1,9 +1,9 @@
 {
   "data": {
-    "marketing-page-feature-benefits-description": "",
-    "marketing-page-feature-benefits-data-category-value": "Benefits",
-    "marketing-page-feature-benefits-data-available-for-value": "Basic, Standard, Enterprise",
-    "marketing-page-feature-benefits-data-pricing-value": "andcards Pricing",
-    "marketing-page-feature-benefits-data-supported-countries-value": "Worldwide"
+    "marketing-page-feature-description": "",
+    "marketing-page-feature-data-category-value": "Benefits",
+    "marketing-page-feature-data-available-for-value": "Basic, Standard, Enterprise",
+    "marketing-page-feature-data-pricing-value": "andcards Pricing",
+    "marketing-page-feature-data-supported-countries-value": "Worldwide"
   }
 }

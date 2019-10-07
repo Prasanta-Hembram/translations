@@ -1,9 +1,9 @@
 {
   "data": {
-    "marketing-page-feature-directory-description": "",
-    "marketing-page-feature-directory-data-category-value": "Directory",
-    "marketing-page-feature-directory-data-available-for-value": "Basic, Standard, Enterprise",
-    "marketing-page-feature-directory-data-pricing-value": "andcards Pricing",
-    "marketing-page-feature-directory-data-supported-countries-value": "Worldwide"
+    "marketing-page-feature-description": "",
+    "marketing-page-feature-data-category-value": "Directory",
+    "marketing-page-feature-data-available-for-value": "Basic, Standard, Enterprise",
+    "marketing-page-feature-data-pricing-value": "andcards Pricing",
+    "marketing-page-feature-data-supported-countries-value": "Worldwide"
   }
 }
