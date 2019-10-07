@@ -1,4 +1,4 @@
-Gib den Mitgliedern mehr für ihr Geld und organisiere Partnerschaften mit lokalen Unternehmen, um Rabatte, Promotion-Codes und Sonderangebote für deine Community-Mitglieder anzubieten. Erhöhen Sie den Wert der Coworking-Mitgliedschaft und verdienen Sie sogar mehr von den Mitgliedern, indem Sie zusätzliche Dienstleistungen anbieten. Mitglieder entdecken und beantragen einfach die Vorteile direkt auf Andcard.
+Gib den Mitgliedern mehr für ihr Geld und organisiere Partnerschaften mit lokalen Unternehmen, um Rabatte, Promotion-Codes und Sonderangebote für deine Community-Mitglieder anzubieten. Erhöhen Sie den Wert der Coworking-Mitgliedschaft und verdienen Sie sogar mehr von den Mitgliedern, indem Sie zusätzliche Dienstleistungen anbieten. Mitglieder entdecken und beantragen einfach die Vorteile direkt auf andcards.
 
 - Organisieren Sie alle Vorteile der Mitgliedschaft in einem einfachen visuellen Katalog.
 - Ermöglichen Sie es Mitgliedern, in Sekundenschnelle Leistungen über die App zu beantragen.
