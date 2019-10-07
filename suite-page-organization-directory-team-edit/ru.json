@@ -1,33 +1,20 @@
 {
   "data": {
+    "suite-page-organization-directory-team-edit-title": "Команда",
     "suite-page-organization-directory-team-edit-action-delete": "Удалить",
-    "suite-page-organization-directory-team-edit-billing-address-title": "Информация о компании",
-    "suite-page-organization-directory-team-edit-billing-address-desc": "Укажите название компании, адрес и любую другую юридическую информацию, указанную в инвойсах.",
-    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Введите информацию",
-    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Бронирование по инвойсу",
     "suite-page-organization-directory-team-edit-button-balance-history": "История транзакций",
     "suite-page-organization-directory-team-edit-button-credits": "Кредиты",
     "suite-page-organization-directory-team-edit-button-invoices": "Инвойсы",
+    "suite-page-organization-directory-team-edit-button-settings": "Settings",
     "suite-page-organization-directory-team-edit-delete-failure": "Не удалось удалить команду.",
     "suite-page-organization-directory-team-edit-delete-repeat": "Попробовать снова",
-    "suite-page-organization-directory-team-edit-error-title": "Введите название команды.",
-    "suite-page-organization-directory-team-edit-invoice-locale": "Язык инвойсов",
-    "suite-page-organization-directory-team-edit-name": "Название",
-    "suite-page-organization-directory-team-edit-name-placeholder": "Введите название",
     "suite-page-organization-directory-team-edit-no-managers-in-team": "В этой команды еще нет менеджеров.",
     "suite-page-organization-directory-team-edit-no-members-in-team": "В этой команде еще нет участников.",
     "suite-page-organization-directory-team-edit-not-found-error": "Эта команда не существует или была удалена.",
-    "suite-page-organization-directory-team-edit-section-plan-button-assign": "Присвоить план",
-    "suite-page-organization-directory-team-edit-section-plan-title": "План",
-    "suite-page-organization-directory-team-edit-section-team-actions": "Дополнительные действия",
     "suite-page-organization-directory-team-edit-section-team-managers": "Менеджеры команды",
     "suite-page-organization-directory-team-edit-section-team-members": "Участники команды",
     "suite-page-organization-directory-team-edit-section-membership-title": "Участие",
     "suite-page-organization-directory-team-edit-select-team-managers-title": "Выбрать менеджеров команды",
-    "suite-page-organization-directory-team-edit-select-team-members-title": "Выбрать участников команды",
-    "suite-page-organization-directory-team-edit-team-invoice": "Инвойс команды",
-    "suite-page-organization-directory-team-edit-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
-    "suite-page-organization-directory-team-edit-title": "Команда",
-    "suite-page-organization-directory-team-edit-update-failure": "Невозможно обновить"
+    "suite-page-organization-directory-team-edit-select-team-members-title": "Выбрать участников команды"
   }
 }
