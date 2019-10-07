@@ -2,9 +2,9 @@ Ofrezca a los miembros más por su dinero y organice asociaciones con empresas l
 
 - Organice todos los beneficios de la membresía en un simple catálogo visual.
 - Permita que los miembros soliciten beneficios a través de app en cuestión de segundos.
-- Aumentar el valor de la membresía de coworking ofreciendo servicios de membresía.
-- Aumentar la fuerza de la marca de coworking proporcionando un catálogo de beneficios robusto.
-- Aumentar la interacción de los miembros y abrazar la comunidad de coworking.
+- Aumenta el valor de la membresía de coworking ofreciendo servicios de membresía.
+- Aumenta la fuerza de la marca de coworking proporcionando un catálogo de beneficios robusto.
+- Aumenta la interacción de los miembros y abrazar la comunidad de coworking.
 
 ---
 
