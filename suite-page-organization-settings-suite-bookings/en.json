@@ -26,7 +26,7 @@
     "suite-page-organization-settings-suite-bookings-credit-system": "Credits",
     "suite-page-organization-settings-suite-bookings-invoicing-team-enabled": "Team Invoice Payment Method",
     "suite-page-organization-settings-suite-bookings-invoicing-team-enabled-desc": "Team members will be able to book meeting rooms and pay later with an invoice.",
-    "suite-page-organization-settings-suite-bookings-point-desc": "Bonus credits will be used for room booking. Admin/moderator can freely give credits to members.",
+    "suite-page-organization-settings-suite-bookings-point-desc": "Bonus credits will be used for room booking. Branch Manager can freely give credits to members.",
     "suite-page-organization-settings-suite-bookings-point-label": "Credit System",
     "suite-page-organization-settings-suite-bookings-point-network-quote-desc": "Percentage of credits that members of one branch can spend in other branches of a network. To change it contact support@andcards.com.",
     "suite-page-organization-settings-suite-bookings-point-network-quote-label": "Network Allowance",

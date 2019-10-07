@@ -7,7 +7,7 @@
     "suite-page-organization-settings-suite-membership-billing-info-title": "Öffentliche Geschäftsinformationen",
     "suite-page-organization-settings-suite-membership-billing-info-desc": "Öffentliche Geschäftsinformationen helfen Kunden, Ihr Unternehmen auf Rechnungen wieder zu erkennen.",
     "suite-page-organization-settings-suite-membership-billing-info-placeholder": "Informationen eingeben",
-    "suite-page-organization-settings-suite-membership-permission-admin-moderator": "Standort Managers",
+    "suite-page-organization-settings-suite-membership-permission-admin-moderator": "Standort Manager",
     "suite-page-organization-settings-suite-membership-permission-all-members": "Alle Mitglieder",
     "suite-page-organization-settings-suite-membership-permission-label": "Sichtbarkeit",
     "suite-page-organization-settings-suite-membership-policy-info-title": "Richtlinien-Informationen",
@@ -18,8 +18,8 @@
     "suite-page-organization-settings-suite-membership-error-tax-percent": "Geben Sie einen gültigen Steuersatz ein.",
     "suite-page-organization-settings-suite-membership-tax-percent-label": "Steuersatz, %",
     "suite-page-organization-settings-suite-membership-tax-percent-desc": "Der Steuersatz wird verwendet, um den Steuerbetrag auf Rechnungen auszuweisen. Alle Preise müssen die Mehrwertsteuer enthalten.",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Nur Admins",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Admins und Team Manager",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Nur Standort Manager",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Standort Manager und Team Manager",
     "suite-page-organization-settings-suite-membership-team-business-permission-desc": "Wählen Sie aus, wer Geschäftsinformationen ändern darf.",
     "suite-page-organization-settings-suite-membership-team-business-permission-label": "Aktualisieren von Geschäftsinformationen"
   }

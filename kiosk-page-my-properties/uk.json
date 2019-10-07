@@ -3,7 +3,7 @@
     "kiosk-page-my-properties-title": "Мої кімнати",
     "kiosk-page-my-properties-andcards-suite-button": "Відкрити andcards",
     "kiosk-page-my-properties-error-no-internet": "Кімнати не відображаються. Перевірте інтернет-з'єднання.",
-    "kiosk-page-my-properties-error-no-properties": "Необхідно бути адміністратором коворкінгу, щоб побачити тут кімнати.",
+    "kiosk-page-my-properties-error-no-properties": "Необхідно бути менеджером відділення коворкінгу, щоб побачити тут кімнати.",
     "kiosk-page-my-properties-logout-button": "Вийти з системи"
   }
 }

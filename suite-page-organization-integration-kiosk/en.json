@@ -1,6 +1,6 @@
 {
   "data": {
     "suite-page-organization-integrations-kiosk-title": "Integration",
-    "suite-page-organization-integrations-kiosk-description": "andcards Kiosk is a meeting room display app that signals room availability. The app background turns green if a meeting room is available right now, yellow if available soon, and red if unavailable. Download Kiosk app to your meeting room display to:\n- Preview real-time room schedule at the meeting room door.\n- See room availability at a distance.\n\nTo set up Kiosk, download it to the tablet, log in with administrator account and select the room.\n\nandcards Kiosk minimum system requirements: Android 6.0 and iOS 9.0.\n\nLearn more at {kioskUrl}."
+    "suite-page-organization-integrations-kiosk-description": "andcards Kiosk is a meeting room display app that signals room availability. The app background turns green if a meeting room is available right now, yellow if available soon, and red if unavailable. Download Kiosk app to your meeting room display to:\n- Preview real-time room schedule at the meeting room door.\n- See room availability at a distance.\n\nTo set up Kiosk, download it to the tablet, log in with Branch Manager account and select the room.\n\nandcards Kiosk minimum system requirements: Android 6.0 and iOS 9.0.\n\nLearn more at {kioskUrl}."
   }
 }
