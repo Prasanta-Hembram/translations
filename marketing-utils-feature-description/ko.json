@@ -3,6 +3,13 @@
     "marketing-utils-feature-description-benefits": "회원 신청을 위한 베네핏과 서비스를 구성하세요.",
     "marketing-utils-feature-description-bookings": "회의실 예약, 무료 시간 크레딧 및 결제를 자동화하세요",
     "marketing-utils-feature-description-directory": "모든 회원 고객들의 정보를 통합하세요",
-    "marketing-utils-feature-description-statistics": "회원 및 매출 동향을 분석하세요"
+    "marketing-utils-feature-description-statistics": "회원 및 매출 동향을 분석하세요",
+    "marketing-utils-feature-description-apple-calendar": "",
+    "marketing-utils-feature-description-google-calendar": "",
+    "marketing-utils-feature-description-intercom": "",
+    "marketing-utils-feature-description-mailchimp": "",
+    "marketing-utils-feature-description-microsoft-calendar": "",
+    "marketing-utils-feature-description-stripe": "",
+    "marketing-utils-feature-description-sindoh": ""
   }
 }

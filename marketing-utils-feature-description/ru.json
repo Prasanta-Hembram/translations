@@ -3,6 +3,13 @@
     "marketing-utils-feature-description-benefits": "Организация дополнительных услуги для приема заявок от участников",
     "marketing-utils-feature-description-bookings": "Автоматическое бронирование конференц-залов за кредиты или банковские карты",
     "marketing-utils-feature-description-directory": "Консолидация всех данные клиентов коворкинга",
-    "marketing-utils-feature-description-statistics": "Анализируйте тенденции участия и доходов"
+    "marketing-utils-feature-description-statistics": "Анализируйте тенденции участия и доходов",
+    "marketing-utils-feature-description-apple-calendar": "",
+    "marketing-utils-feature-description-google-calendar": "",
+    "marketing-utils-feature-description-intercom": "",
+    "marketing-utils-feature-description-mailchimp": "",
+    "marketing-utils-feature-description-microsoft-calendar": "",
+    "marketing-utils-feature-description-stripe": "",
+    "marketing-utils-feature-description-sindoh": ""
   }
 }

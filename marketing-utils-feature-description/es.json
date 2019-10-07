@@ -3,6 +3,13 @@
     "marketing-utils-feature-description-benefits": "Organizar los beneficios y servicios para tus miembros",
     "marketing-utils-feature-description-bookings": "Automatizar la reserva de salas de reuniones, los créditos de horas gratuitas y los pagos",
     "marketing-utils-feature-description-directory": "Consolidar todos los datos de clientes del espacio de coworking",
-    "marketing-utils-feature-description-statistics": "Analizar las tendencias de los miembros y los ingresos"
+    "marketing-utils-feature-description-statistics": "Analizar las tendencias de los miembros y los ingresos",
+    "marketing-utils-feature-description-apple-calendar": "",
+    "marketing-utils-feature-description-google-calendar": "",
+    "marketing-utils-feature-description-intercom": "",
+    "marketing-utils-feature-description-mailchimp": "",
+    "marketing-utils-feature-description-microsoft-calendar": "",
+    "marketing-utils-feature-description-stripe": "",
+    "marketing-utils-feature-description-sindoh": ""
   }
 }

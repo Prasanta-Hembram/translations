@@ -3,6 +3,13 @@
     "marketing-utils-feature-description-benefits": "Organisation von Vorteilen und Dienstleistungen",
     "marketing-utils-feature-description-bookings": "Automatisieren Sie die Buchung von Besprechungsräumen, kostenlose Stundenguthaben und Zahlungen.",
     "marketing-utils-feature-description-directory": "Zusammenführung aller Kundendaten des Coworking Space",
-    "marketing-utils-feature-description-statistics": "Analyse der Mitglieder- und Umsatzentwicklung"
+    "marketing-utils-feature-description-statistics": "Analyse der Mitglieder- und Umsatzentwicklung",
+    "marketing-utils-feature-description-apple-calendar": "",
+    "marketing-utils-feature-description-google-calendar": "",
+    "marketing-utils-feature-description-intercom": "",
+    "marketing-utils-feature-description-mailchimp": "",
+    "marketing-utils-feature-description-microsoft-calendar": "",
+    "marketing-utils-feature-description-stripe": "",
+    "marketing-utils-feature-description-sindoh": ""
   }
 }
