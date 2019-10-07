@@ -3,3 +3,7 @@ Understand your coworking space membership and revenue data. See a number of exi
 - Know how many members and teams you have.
 - View revenue charts to understand revenue trends.
 - Download monthly invoice reports with details of payments.
+
+---
+
+![Coworking Space Statistics](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/statistics.jpg|height=1080,width=1920)
