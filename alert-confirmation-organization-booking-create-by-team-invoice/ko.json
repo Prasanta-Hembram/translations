@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-team-invoice-yes": "확인",
     "alert-confirmation-organization-booking-create-by-team-invoice-no": "취소",
     "alert-confirmation-organization-booking-create-by-team-invoice-title": "추가 비용 발생",
-    "alert-confirmation-organization-booking-create-by-team-invoice-text": "유료 결제 방법을 선택하셨습니다. Branch Manager 금액은 월말에 일괄 청구됩니다. 계속 진행하시겠습니까?"
+    "alert-confirmation-organization-booking-create-by-team-invoice-text": "유료 결제 방법을 선택하셨습니다. 결제 금액은 월말에 일괄 청구됩니다. 계속 진행하시겠습니까?"
   }
 }
