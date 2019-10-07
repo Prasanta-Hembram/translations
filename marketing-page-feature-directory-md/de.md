@@ -1,4 +1,4 @@
-Upgrade von einer manuellen Mitgliederverwaltung in Tabellenkalkulationen oder komplizierten Anwendungen zu einem einfachen und einfach zu bedienenden Coworking Member Directory. Sammeln, automatisieren und synchronisieren Sie Mitgliederdaten in allen Ihren Anwendungen. Organisieren Sie Mitglieder in Teams, weisen Sie Kreditpläne zu, stellen Sie Rechnungen aus, verstehen Sie, wie gut Mitglieder den Coworking Space mit Buchungs- und Saldenhistorie nutzen.
+Upgrade von einer manuellen Mitgliederverwaltung in Tabellenkalkulationen oder komplizierten Anwendungen zu einem einfachen und einfach zu bedienenden Coworking Mitgliederverzeichnis. Sammeln, automatisieren und synchronisieren Sie Mitgliederdaten in allen Ihren Anwendungen. Organisieren Sie Mitglieder in Teams, weisen Sie Kreditpläne zu, stellen Sie Rechnungen aus, verstehen Sie, wie gut Mitglieder den Coworking Space mit Buchungs- und Saldenhistorie nutzen.
 
 - Laden Sie Mitglieder mit nur einer E-Mail ein. 
 - Sehen Sie alle Mitgliedskonten auf einen Blick in einer einfachen Tabellenansicht.
