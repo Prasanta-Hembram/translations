@@ -11,10 +11,10 @@ Upgrade from a manual member management in spreadsheets or complicated apps to a
 
 ---
 
-![Coworking Member Directory](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg|height=1080,width=1920)
+![Coworking Member Directory](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
 
 
-![Coworking Member Profile](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg|height=1080,width=1920)
+![Coworking Member Profile](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
 
 
-![Coworking Member Credits](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg|height=1080,width=1920)
+![Coworking Member Credits](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)

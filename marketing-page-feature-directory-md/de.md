@@ -11,10 +11,10 @@ Upgrade von einer manuellen Mitgliederverwaltung in Tabellenkalkulationen oder k
 
 ---
 
-![Verzeichnis der mitarbeitenden Mitglieder](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg|height=1080,width=1920)
+![Verzeichnis der mitarbeitenden Mitglieder](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
 
 
-![Mitarbeiter-Mitgliederprofil](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg|height=1080,width=1920)
+![Mitarbeiter-Mitgliederprofil](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
 
 
-![Credits für mitarbeitende Mitglieder](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg|height=1080,width=1920)
+![Credits für mitarbeitende Mitglieder](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)

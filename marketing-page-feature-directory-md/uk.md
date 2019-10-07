@@ -11,10 +11,10 @@
 
 ---
 
-[Каталог резидентів коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg|height=1080,width=1920)
+[Каталог резидентів коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
 
 
-![Профіль учасника коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg|height=1080,width=1920)
+![Профіль учасника коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
 
 
-![Кредитна система для учасників коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg|height=1080,width=1920)
+![Кредитна система для учасників коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)

@@ -6,4 +6,4 @@ Understand your coworking space membership and revenue data. See a number of exi
 
 ---
 
-![Coworking Space Statistics](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/statistics.jpg|height=1080,width=1920)
+![Coworking Space Statistics](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/statistics.jpg)

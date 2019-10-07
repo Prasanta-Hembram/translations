@@ -8,10 +8,10 @@ Gib den Mitgliedern mehr für ihr Geld und organisiere Partnerschaften mit lokal
 
 ---
 
-![Coworking Benefit Katalog](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg|height=1080,width=1920)
+![Coworking Benefit Katalog](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg)
 
 
-![Liste der Vorteile für die Zusammenarbeit](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg|height=1080,width=1920)
+![Liste der Vorteile für die Zusammenarbeit](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg)
 
 
-![Anwendung von Coworking Benefits](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg|height=1080,width=1920)
+![Anwendung von Coworking Benefits](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg)

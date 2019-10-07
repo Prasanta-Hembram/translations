@@ -12,16 +12,16 @@ Automate meeting room booking at your coworking space. Prevent overbooking and a
 
 ---
 
-![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg|height=1080,width=1920)
+![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
 
 
-![Coworking Booking Calendar](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg|height=1080,width=1920)
+![Coworking Booking Calendar](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
 
 
-![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg|height=1080,width=1920)
+![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
 
 
-![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg|height=1080,width=1920)
+![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
 
 
-![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg|height=1080,width=1920)
+![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)

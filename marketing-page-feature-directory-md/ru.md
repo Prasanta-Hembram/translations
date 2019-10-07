@@ -11,10 +11,10 @@
 
 ---
 
-![Каталог резидентов коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg|height=1080,width=1920)
+![Каталог резидентов коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
 
 
-![Профиль участника коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg|height=1080,width=1920)
+![Профиль участника коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
 
 
-![Кредитная система для участников коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg|height=1080,width=1920)
+![Кредитная система для участников коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)

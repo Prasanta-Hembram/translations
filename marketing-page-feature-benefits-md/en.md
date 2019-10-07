@@ -8,10 +8,10 @@ Give members more for their money—build and organize partnerships with local b
 
 ---
 
-![Coworking Benefit Catalog](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg|height=1080,width=1920)
+![Coworking Benefit Catalog](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg)
 
 
-![Coworking Benefit List](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg|height=1080,width=1920)
+![Coworking Benefit List](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg)
 
 
-![Coworking Benefit Application](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg|height=1080,width=1920)
+![Coworking Benefit Application](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg)

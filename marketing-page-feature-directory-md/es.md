@@ -11,10 +11,10 @@ Actualice de una gestión manual de miembros en hojas de cálculo o aplicaciones
 
 ---
 
-![Directorio de miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg|height=1080,width=1920)
+![Directorio de miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
 
 
-![Perfil de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg|height=1080,width=1920)
+![Perfil de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
 
 
-![Créditos de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg|height=1080,width=1920)
+![Créditos de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)

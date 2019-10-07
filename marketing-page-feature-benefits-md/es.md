@@ -8,10 +8,10 @@ Ofrezca a los miembros más por su dinero y organice asociaciones con empresas l
 
 ---
 
-![Catálogo de Beneficios de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg|height=1080,width=1920)
+![Catálogo de Beneficios de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg)
 
 
-![Lista de Beneficios de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg|height=1080,width=1920)
+![Lista de Beneficios de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg)
 
 
-![Aplicación de los Beneficios de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg|height=1080,width=1920)
+![Aplicación de los Beneficios de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg)
