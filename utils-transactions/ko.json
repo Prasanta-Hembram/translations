@@ -19,6 +19,7 @@
     "suite-utils-transactions-money-transaction-payment-type-not-selected": "선택 없음",
     "suite-utils-transactions-money-transaction-status-approved": "승인 완료",
     "suite-utils-transactions-money-transaction-status-canceled": "승인 취소",
+    "suite-utils-transactions-money-transaction-status-failed": "Failed",
     "suite-utils-transactions-money-transaction-status-pending": "승인 필요",
     "suite-utils-transactions-money-transaction-status-unpaid": "결제 예정",
     "suite-utils-transactions-point-transaction-book-by-points": "회의실 예약",
