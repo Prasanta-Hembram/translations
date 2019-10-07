@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-information-main-title": "안내",
+    "suite-page-organization-information-main-title": "지점 정보",
     "suite-page-organization-information-main-link": "링크",
     "suite-page-organization-information-main-user-leave-failure": "사용자 삭제 실패.",
-    "suite-page-organization-information-main-user-leave-organization": "이 조직 나가기",
+    "suite-page-organization-information-main-user-leave-organization": "이 공간 나가기",
     "suite-page-organization-information-main-user-leave-repeat": "다시시도"
   }
 }
