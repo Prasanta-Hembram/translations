@@ -1,10 +1,8 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "연동",
-    "suite-page-organization-integrations-main-bookings-title": "예약",
     "suite-page-organization-integrations-main-communication-title": "통신",
     "suite-page-organization-integrations-main-intercom-subtitle": "고객 소통을 구성하세요",
-    "suite-page-organization-integrations-main-kiosk-subtitle": "멀리서 회의실 예약 현황을 보세요",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "이메일 마케팅을 자동화하세요",
     "suite-page-organization-integrations-main-payments-title": "결제",
     "suite-page-organization-integrations-main-printing-title": "인쇄",
