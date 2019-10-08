@@ -4,8 +4,8 @@
     "suite-page-organization-settings-suite-membership-permission-admin-moderator": "Менеджеры отделения",
     "suite-page-organization-settings-suite-membership-permission-all-members": "Все участники",
     "suite-page-organization-settings-suite-membership-permission-label": "Доступ",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Только администратор",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Администратор и менеджер команды",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Только менеджер отделения",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Менеджер отделения и менеджер команды",
     "suite-page-organization-settings-suite-membership-team-business-permission-desc": "Выберите, кто может изменять информацию о команде.",
     "suite-page-organization-settings-suite-membership-team-business-permission-label": "Изменить информацию о команде"
   }

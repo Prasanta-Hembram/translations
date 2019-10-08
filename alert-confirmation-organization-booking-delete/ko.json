@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-organization-booking-delete-title": "예약 삭제",
-    "alert-confirmation-organization-booking-delete-by-card-text": "이 예약를 삭제하시겠습니까? 환불은 해당 시, 관리자에 의해 수동으로 처리됩니다. 삭제하면 되돌릴 수 없습니다.",
+    "alert-confirmation-organization-booking-delete-by-card-text": "이 예약를 삭제하시겠습니까? 환불은 해당 시, 지점 관리자에 의해 수동으로 처리됩니다. 삭제하면 되돌릴 수 없습니다.",
     "alert-confirmation-organization-booking-delete-no": "돌아가기",
     "alert-confirmation-organization-booking-delete-text": "이 예약를 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
     "alert-confirmation-organization-booking-delete-yes": "삭제하기"

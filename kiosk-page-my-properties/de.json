@@ -3,7 +3,7 @@
     "kiosk-page-my-properties-title": "Meine Räume",
     "kiosk-page-my-properties-andcards-suite-button": "andcards öffnen",
     "kiosk-page-my-properties-error-no-internet": "Räume konnten nicht geladen werden. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
-    "kiosk-page-my-properties-error-no-properties": "Sie müssen ein Workspace-Administrator sein, um hier Räume zu sehen.",
+    "kiosk-page-my-properties-error-no-properties": "Sie müssen ein Workspace Standort Manager sein, um hier Räume zu sehen.",
     "kiosk-page-my-properties-logout-button": "Ausloggen"
   }
 }

@@ -14,7 +14,7 @@
     "suite-modal-organization-bookings-booking-edit-estimated-price": "예상 금액 : {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "시작일",
     "suite-modal-organization-bookings-booking-edit-memo": "메모",
-    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "메모 입력하기 (예약자와 관리자만 확인 가능)",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "메모 입력하기 (예약자와 지점 관리자만 확인 가능)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "결제 수단",
     "suite-modal-organization-bookings-booking-edit-price": "가격, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "제목",

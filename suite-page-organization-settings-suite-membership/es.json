@@ -5,7 +5,7 @@
     "suite-page-organization-settings-suite-membership-permission-all-members": "Todos los miembros",
     "suite-page-organization-settings-suite-membership-permission-label": "Visibilidad",
     "suite-page-organization-settings-suite-membership-team-business-permission-admin": "Sólo Admin",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Admin y gerente de equipo",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "Gerente de sucursal y gerente de equipo",
     "suite-page-organization-settings-suite-membership-team-business-permission-desc": "Selecciona quién puede modificar la información empresarial",
     "suite-page-organization-settings-suite-membership-team-business-permission-label": "Actualizar la información empresarial"
   }

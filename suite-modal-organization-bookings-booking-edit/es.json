@@ -14,7 +14,7 @@
     "suite-modal-organization-bookings-booking-edit-estimated-price": "Precio estimado: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Fecha de inicio",
     "suite-modal-organization-bookings-booking-edit-memo": "Nota",
-    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Añadir nota (visible solo para booker y admin)",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Añadir nota (visible solo para la persona que reserva y gerente de sucursal)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Pagado con",
     "suite-modal-organization-bookings-booking-edit-price": "Precio, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Título",

@@ -4,8 +4,8 @@
     "suite-page-organization-settings-suite-membership-permission-admin-moderator": "지점 관리자",
     "suite-page-organization-settings-suite-membership-permission-all-members": "전체 회원",
     "suite-page-organization-settings-suite-membership-permission-label": "보기 권한",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "관리자/중간관리자",
-    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "관리자/중간관리자 및 팀 매니저",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin": "지점 관리자",
+    "suite-page-organization-settings-suite-membership-team-business-permission-admin-manager": "지점 관리자 및 팀 매니저",
     "suite-page-organization-settings-suite-membership-team-business-permission-desc": "회원찾기의 모든 팀에는 사업자 명, 주소 및 사업자등록번호를 표시하는 '사업자등록정보' 필드가 있습니다. 영수증 및 청구내역에 표시됩니다. 수정할 수 있는 권한을 선택하세요.",
     "suite-page-organization-settings-suite-membership-team-business-permission-label": "팀 사업자정보 수정 권한"
   }
