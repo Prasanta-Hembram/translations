@@ -1,33 +1,20 @@
 {
   "data": {
+    "suite-page-organization-directory-team-edit-title": "Equipo",
     "suite-page-organization-directory-team-edit-action-delete": "Borrar",
-    "suite-page-organization-directory-team-edit-billing-address-title": "Información de negocio",
-    "suite-page-organization-directory-team-edit-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
-    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Escribe una información",
-    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Acceso a la factura del equipo.",
     "suite-page-organization-directory-team-edit-button-balance-history": "Balance de historia",
     "suite-page-organization-directory-team-edit-button-credits": "Créditos",
     "suite-page-organization-directory-team-edit-button-invoices": "Facturas",
+    "suite-page-organization-directory-team-edit-button-settings": "Configuraciones",
     "suite-page-organization-directory-team-edit-delete-failure": "No se ha podido borrar el equipo.",
     "suite-page-organization-directory-team-edit-delete-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-directory-team-edit-error-title": "Añade el título del equipo.",
-    "suite-page-organization-directory-team-edit-invoice-locale": "Idioma de la factura",
-    "suite-page-organization-directory-team-edit-name": "Nombre",
-    "suite-page-organization-directory-team-edit-name-placeholder": "Ingresa tu nombre",
     "suite-page-organization-directory-team-edit-no-managers-in-team": "Este equipo aún no tiene administradores de equipo.",
     "suite-page-organization-directory-team-edit-no-members-in-team": "Este equipo aún no tiene miembros.",
     "suite-page-organization-directory-team-edit-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-directory-team-edit-section-plan-button-assign": "Asignar plan",
-    "suite-page-organization-directory-team-edit-section-plan-title": "Plan",
-    "suite-page-organization-directory-team-edit-section-team-actions": "Acciones de equipo",
     "suite-page-organization-directory-team-edit-section-team-managers": "Administradores del equipo",
     "suite-page-organization-directory-team-edit-section-team-members": "Miembros del equipo",
     "suite-page-organization-directory-team-edit-section-membership-title": "Membresía",
     "suite-page-organization-directory-team-edit-select-team-managers-title": "Elegir gerentes de equipo",
-    "suite-page-organization-directory-team-edit-select-team-members-title": "Elegir miembros de equipo",
-    "suite-page-organization-directory-team-edit-team-invoice": "Factura de equipo",
-    "suite-page-organization-directory-team-edit-team-invoice-description": "Cuando está activado, el método de pago de las facturas de equipo está disponible para el equipo.",
-    "suite-page-organization-directory-team-edit-title": "Equipo",
-    "suite-page-organization-directory-team-edit-update-failure": "No se ha podido actualizar"
+    "suite-page-organization-directory-team-edit-select-team-members-title": "Elegir miembros de equipo"
   }
 }

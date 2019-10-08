@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-information-update-title": "Editar información",
+    "suite-modal-organization-information-update-address": "Dirección",
+    "suite-modal-organization-information-update-address-placeholder": "Ingresa la direccion",
+    "suite-modal-organization-information-update-description": "Descripción",
+    "suite-modal-organization-information-update-description-placeholder": "Agregar descripción",
+    "suite-modal-organization-information-update-email": "Correo electrónico",
+    "suite-modal-organization-information-update-email-placeholder": "Ingresa correo electrónico",
+    "suite-modal-organization-information-update-error-organization-email": "Por favor, introduce un correo electrónico correcto.",
+    "suite-modal-organization-information-update-error-organization-title": "Por favor, ingresa un nombre de su espacio de trabajo.",
+    "suite-modal-organization-information-update-link": "Enlace",
+    "suite-modal-organization-information-update-link-placeholder": "Ingresar enlace",
+    "suite-modal-organization-information-update-name": "Nombre",
+    "suite-modal-organization-information-update-name-placeholder": "Ingresa tu nombre",
+    "suite-modal-organization-information-update-timezone": "Zona horaria"
+  }
+}

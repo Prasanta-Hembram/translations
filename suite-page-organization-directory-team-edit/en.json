@@ -1,33 +1,20 @@
 {
   "data": {
+    "suite-page-organization-directory-team-edit-title": "Team",
     "suite-page-organization-directory-team-edit-action-delete": "Delete",
-    "suite-page-organization-directory-team-edit-billing-address-title": "Business Information",
-    "suite-page-organization-directory-team-edit-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
-    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Type information",
-    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Booking by Team Invoice",
     "suite-page-organization-directory-team-edit-button-balance-history": "Balance History",
     "suite-page-organization-directory-team-edit-button-credits": "Credits",
     "suite-page-organization-directory-team-edit-button-invoices": "Invoices",
+    "suite-page-organization-directory-team-edit-button-settings": "Settings",
     "suite-page-organization-directory-team-edit-delete-failure": "Failed to delete team.",
     "suite-page-organization-directory-team-edit-delete-repeat": "Retry deleting",
-    "suite-page-organization-directory-team-edit-error-title": "Type a team name.",
-    "suite-page-organization-directory-team-edit-invoice-locale": "Invoice Language",
-    "suite-page-organization-directory-team-edit-name": "Name",
-    "suite-page-organization-directory-team-edit-name-placeholder": "Type a name",
     "suite-page-organization-directory-team-edit-no-managers-in-team": "This team doesn't have team managers yet.",
     "suite-page-organization-directory-team-edit-no-members-in-team": "This team doesn't have members yet.",
     "suite-page-organization-directory-team-edit-not-found-error": "This team may not exist or may have been removed.",
-    "suite-page-organization-directory-team-edit-section-plan-button-assign": "Assign Plan",
-    "suite-page-organization-directory-team-edit-section-plan-title": "Plan",
-    "suite-page-organization-directory-team-edit-section-team-actions": "Team Actions",
     "suite-page-organization-directory-team-edit-section-team-managers": "Team Managers",
     "suite-page-organization-directory-team-edit-section-team-members": "Team Members",
     "suite-page-organization-directory-team-edit-section-membership-title": "Membership",
     "suite-page-organization-directory-team-edit-select-team-managers-title": "Select Team Managers",
-    "suite-page-organization-directory-team-edit-select-team-members-title": "Select Team Members",
-    "suite-page-organization-directory-team-edit-team-invoice": "Team Invoice",
-    "suite-page-organization-directory-team-edit-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
-    "suite-page-organization-directory-team-edit-title": "Team",
-    "suite-page-organization-directory-team-edit-update-failure": "Failed to update"
+    "suite-page-organization-directory-team-edit-select-team-members-title": "Select Team Members"
   }
 }

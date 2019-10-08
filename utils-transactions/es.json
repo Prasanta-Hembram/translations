@@ -19,6 +19,7 @@
     "suite-utils-transactions-money-transaction-payment-type-not-selected": "No seleccionado",
     "suite-utils-transactions-money-transaction-status-approved": "Aprobado",
     "suite-utils-transactions-money-transaction-status-canceled": "Cancelado",
+    "suite-utils-transactions-money-transaction-status-failed": "Fallido",
     "suite-utils-transactions-money-transaction-status-pending": "Pendiente",
     "suite-utils-transactions-money-transaction-status-unpaid": "No pagado",
     "suite-utils-transactions-point-transaction-book-by-points": "Reserva ∙ Créditos",
