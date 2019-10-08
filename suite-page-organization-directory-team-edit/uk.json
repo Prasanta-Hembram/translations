@@ -1,33 +1,20 @@
 {
   "data": {
+    "suite-page-organization-directory-team-edit-title": "Команда",
     "suite-page-organization-directory-team-edit-action-delete": "Видалити",
-    "suite-page-organization-directory-team-edit-billing-address-title": "Інформація про компанію",
-    "suite-page-organization-directory-team-edit-billing-address-desc": "Вкажіть назву компанії, адресу та будь-яку іншу юридичну інформацію, яка буде відображатися в інвойсах.",
-    "suite-page-organization-directory-team-edit-billing-address-placeholder": "Увести інформацію",
-    "suite-page-organization-directory-team-edit-book-by-invoice-permission": "Резервації по інвойсах",
     "suite-page-organization-directory-team-edit-button-balance-history": "Історія транзакцій",
     "suite-page-organization-directory-team-edit-button-credits": "Кредити",
     "suite-page-organization-directory-team-edit-button-invoices": "Інвойси",
+    "suite-page-organization-directory-team-edit-button-settings": "Налаштування",
     "suite-page-organization-directory-team-edit-delete-failure": "Не вдалося видалити команду.",
     "suite-page-organization-directory-team-edit-delete-repeat": "Спробувати знову",
-    "suite-page-organization-directory-team-edit-error-title": "Уведіть назву команди.",
-    "suite-page-organization-directory-team-edit-invoice-locale": "Мова інвойсів",
-    "suite-page-organization-directory-team-edit-name": "Назва",
-    "suite-page-organization-directory-team-edit-name-placeholder": "Увести назву",
     "suite-page-organization-directory-team-edit-no-managers-in-team": "У цієї команди ще немає менеджерів.",
     "suite-page-organization-directory-team-edit-no-members-in-team": "У цієї команди ще немає учасників.",
     "suite-page-organization-directory-team-edit-not-found-error": "Ця команда не існує або ж була видалена.",
-    "suite-page-organization-directory-team-edit-section-plan-button-assign": "Призначити план",
-    "suite-page-organization-directory-team-edit-section-plan-title": "План",
-    "suite-page-organization-directory-team-edit-section-team-actions": "Додаткові дії",
     "suite-page-organization-directory-team-edit-section-team-managers": "Менеджери команди",
     "suite-page-organization-directory-team-edit-section-team-members": "Члени команди",
     "suite-page-organization-directory-team-edit-section-membership-title": "Участь",
     "suite-page-organization-directory-team-edit-select-team-managers-title": "Обрати менеджерів команди",
-    "suite-page-organization-directory-team-edit-select-team-members-title": "Обрати учасників команди",
-    "suite-page-organization-directory-team-edit-team-invoice": "Інвойс команди",
-    "suite-page-organization-directory-team-edit-team-invoice-description": "Включити оплату по інвойсу для цієї команди.",
-    "suite-page-organization-directory-team-edit-title": "Команда",
-    "suite-page-organization-directory-team-edit-update-failure": "Не вдалося оновити"
+    "suite-page-organization-directory-team-edit-select-team-members-title": "Обрати учасників команди"
   }
 }
