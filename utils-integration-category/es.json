@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-feature-category-bookings-title": "Reservas",
-    "utils-feature-category-communication-title": "Comunicación",
-    "utils-feature-category-payments-title": "Pagos",
-    "utils-feature-category-printing-title": "Impresión"
+    "utils-integration-category-bookings-title": "Reservas",
+    "utils-integration-category-communication-title": "Comunicación",
+    "utils-integration-category-payments-title": "Pagos",
+    "utils-integration-category-printing-title": "Impresión"
   }
 }

@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-feature-category-bookings-title": "Резервації",
-    "utils-feature-category-communication-title": "Комунікація",
-    "utils-feature-category-payments-title": "Платежі",
-    "utils-feature-category-printing-title": "Друк"
+    "utils-integration-category-bookings-title": "Резервації",
+    "utils-integration-category-communication-title": "Комунікація",
+    "utils-integration-category-payments-title": "Платежі",
+    "utils-integration-category-printing-title": "Друк"
   }
 }
