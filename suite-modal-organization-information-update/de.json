@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-information-update-title": "Informationen bearbeiten",
+    "suite-modal-organization-information-update-address": "Adresse",
+    "suite-modal-organization-information-update-address-placeholder": "Adresse eingeben",
+    "suite-modal-organization-information-update-description": "Beschreibung",
+    "suite-modal-organization-information-update-description-placeholder": "Beschreibung eingeben",
+    "suite-modal-organization-information-update-email": "E-Mail",
+    "suite-modal-organization-information-update-email-placeholder": "E-Mail eingeben",
+    "suite-modal-organization-information-update-error-organization-email": "Geben Sie eine korrekte E-Mail ein.",
+    "suite-modal-organization-information-update-error-organization-title": "Geben Sie einen Namen für Ihren Workspace ein.",
+    "suite-modal-organization-information-update-link": "Link",
+    "suite-modal-organization-information-update-link-placeholder": "Link eingeben",
+    "suite-modal-organization-information-update-name": "Name",
+    "suite-modal-organization-information-update-name-placeholder": "Namen eingeben",
+    "suite-modal-organization-information-update-timezone": "Zeitzone"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-modal-organization-information-update-title": "지점 정보 수정",
+    "suite-modal-organization-information-update-address": "주소",
+    "suite-modal-organization-information-update-address-placeholder": "주소를 입력하기",
+    "suite-modal-organization-information-update-description": "설명",
+    "suite-modal-organization-information-update-description-placeholder": "설명 입력하기",
+    "suite-modal-organization-information-update-email": "이메일",
+    "suite-modal-organization-information-update-email-placeholder": "이메일 주소를 입력하기",
+    "suite-modal-organization-information-update-error-organization-email": "이메일을 입력하기.",
+    "suite-modal-organization-information-update-error-organization-title": "공간의 이름을 입력해주세요.",
+    "suite-modal-organization-information-update-link": "링크",
+    "suite-modal-organization-information-update-link-placeholder": "링크를 입력하기",
+    "suite-modal-organization-information-update-name": "공간 명",
+    "suite-modal-organization-information-update-name-placeholder": "공간 명을 입력하기",
+    "suite-modal-organization-information-update-timezone": "시간대"
+  }
+}
