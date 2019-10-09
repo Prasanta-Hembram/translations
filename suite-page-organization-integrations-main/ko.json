@@ -1,9 +1,7 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "연동",
-    "suite-page-organization-integrations-main-bookings-title": "예약",
     "suite-page-organization-integrations-main-intercom-subtitle": "고객 소통을 구성하세요",
-    "suite-page-organization-integrations-main-kiosk-subtitle": "멀리서 회의실 예약 현황을 보세요",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "이메일 마케팅을 자동화하세요",
     "suite-page-organization-integrations-main-sindoh-subtitle": "회원이 인쇄된 페이지 수를 확인하세요",
     "suite-page-organization-integrations-main-stripe-subtitle": "회의실 예약에 카드 결제를 설정하세요"
