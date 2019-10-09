@@ -1,8 +1,13 @@
 {
   "data": {
-    "blog-page-category-experts-description": "What coworking industry opinion leaders say.",
-    "blog-page-category-marketing-description": "How to promote coworking space online.",
-    "blog-page-category-software-description": "How to use coworking space software.",
-    "blog-page-category-tips-description": "How to build a great coworking space."
+    "blog-page-category-meta-description-archive": "",
+    "blog-page-category-meta-description-experts": "",
+    "blog-page-category-meta-description-marketing": "",
+    "blog-page-category-meta-description-software": "",
+    "blog-page-category-meta-description-tips": "",
+    "blog-page-category-subtitle-experts": "What coworking industry opinion leaders say.",
+    "blog-page-category-subtitle-marketing": "How to promote coworking space online.",
+    "blog-page-category-subtitle-software": "How to use coworking space software.",
+    "blog-page-category-subtitle-tips": "How to build a great coworking space."
   }
 }

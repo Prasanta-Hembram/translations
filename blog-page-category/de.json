@@ -1,8 +1,13 @@
 {
   "data": {
-    "blog-page-category-experts-description": "Was Coworking Branchenkenner sagen.",
-    "blog-page-category-marketing-description": "Wie man Coworking Spaces online vermarktet.",
-    "blog-page-category-software-description": "Wie man Coworking Space Software verwendet.",
-    "blog-page-category-tips-description": "Wie man einen großartigen Coworking Space aufbaut."
+    "blog-page-category-meta-description-archive": "",
+    "blog-page-category-meta-description-experts": "",
+    "blog-page-category-meta-description-marketing": "",
+    "blog-page-category-meta-description-software": "",
+    "blog-page-category-meta-description-tips": "",
+    "blog-page-category-subtitle-experts": "Was Coworking Branchenkenner sagen.",
+    "blog-page-category-subtitle-marketing": "Wie man Coworking Spaces online vermarktet.",
+    "blog-page-category-subtitle-software": "Wie man Coworking Space Software verwendet.",
+    "blog-page-category-subtitle-tips": "Wie man einen großartigen Coworking Space aufbaut."
   }
 }

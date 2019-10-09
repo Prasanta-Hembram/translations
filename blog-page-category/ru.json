@@ -1,8 +1,13 @@
 {
   "data": {
-    "blog-page-category-experts-description": "Что говорят лидеры мнений в индустрии коворкингов.",
-    "blog-page-category-marketing-description": "Как рекламировать коворкинг онлайн.",
-    "blog-page-category-software-description": "Как использовать систему управления коворкингом.",
-    "blog-page-category-tips-description": "Как создать выдающийся коворкинг."
+    "blog-page-category-meta-description-archive": "",
+    "blog-page-category-meta-description-experts": "",
+    "blog-page-category-meta-description-marketing": "",
+    "blog-page-category-meta-description-software": "",
+    "blog-page-category-meta-description-tips": "",
+    "blog-page-category-subtitle-experts": "Что говорят лидеры мнений в индустрии коворкингов.",
+    "blog-page-category-subtitle-marketing": "Как рекламировать коворкинг онлайн.",
+    "blog-page-category-subtitle-software": "Как использовать систему управления коворкингом.",
+    "blog-page-category-subtitle-tips": "Как создать выдающийся коворкинг."
   }
 }

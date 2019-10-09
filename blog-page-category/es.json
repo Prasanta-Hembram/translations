@@ -1,8 +1,13 @@
 {
   "data": {
-    "blog-page-category-experts-description": "Lo que dicen los expertos de la industria del coworking.",
-    "blog-page-category-marketing-description": "Cómo promover el espacio de coworking en línea.",
-    "blog-page-category-software-description": "Cómo utilizar el software para espacios de coworking.",
-    "blog-page-category-tips-description": "Cómo construir un gran espacio de coworking."
+    "blog-page-category-meta-description-archive": "",
+    "blog-page-category-meta-description-experts": "",
+    "blog-page-category-meta-description-marketing": "",
+    "blog-page-category-meta-description-software": "",
+    "blog-page-category-meta-description-tips": "",
+    "blog-page-category-subtitle-experts": "Lo que dicen los expertos de la industria del coworking.",
+    "blog-page-category-subtitle-marketing": "Cómo promover el espacio de coworking en línea.",
+    "blog-page-category-subtitle-software": "Cómo utilizar el software para espacios de coworking.",
+    "blog-page-category-subtitle-tips": "Cómo construir un gran espacio de coworking."
   }
 }

@@ -1,8 +1,13 @@
 {
   "data": {
-    "blog-page-category-experts-description": "Що кажуть лідери думок в сфері коворкінгів.",
-    "blog-page-category-marketing-description": "Як рекламувати коворкінг центр онлайн.",
-    "blog-page-category-software-description": "Як використовувати систему керування коворкінгом.",
-    "blog-page-category-tips-description": "Як створити видатний коворкінг."
+    "blog-page-category-meta-description-archive": "",
+    "blog-page-category-meta-description-experts": "",
+    "blog-page-category-meta-description-marketing": "",
+    "blog-page-category-meta-description-software": "",
+    "blog-page-category-meta-description-tips": "",
+    "blog-page-category-subtitle-experts": "Що кажуть лідери думок в сфері коворкінгів.",
+    "blog-page-category-subtitle-marketing": "Як рекламувати коворкінг центр онлайн.",
+    "blog-page-category-subtitle-software": "Як використовувати систему керування коворкінгом.",
+    "blog-page-category-subtitle-tips": "Як створити видатний коворкінг."
   }
 }
