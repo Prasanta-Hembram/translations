@@ -3,3 +3,9 @@
 - 인보이스 결제 페이지.
 
 Stripe 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부에서 작동합니다. Stripe를 연동하시려면 API 키를 준비하시면 됩니다 : https://dashboard.stripe.com/apikeys
+
+---
+
+![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+
+![Pay for meeting room with credit card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)

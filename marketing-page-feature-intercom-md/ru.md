@@ -7,3 +7,7 @@
 - Организуйте правила сообщества и помощь.
 
 Intercom добавит кнопку “Помощь” на страницу Мои Коворкинги. Резиденты используют её чтобы найти нужную информацию или обратиться за помощью. Чтобы включить Intercom, сначала получите ключи API в Настройки > Инсталляция.
+
+---
+
+![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)

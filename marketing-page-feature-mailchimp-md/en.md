@@ -8,3 +8,9 @@ Use member information to personalize email. The following data is pushed to Mai
 - Surname.
 - Email.
 - Team Manager (tag).
+
+---
+
+![Mailchimp for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/mailchimp-settings.png)
+
+![Mailchimp audience for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/mailchimp-audience.png)

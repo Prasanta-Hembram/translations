@@ -3,3 +3,9 @@ Aktivieren Sie Stripe, um sofort Debit- oder Kreditkarten direkt in der App zu n
 - Zahlungsseite der Rechnung.
 
 Stripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren. Um die Integration zu ermöglichen, halten Sie Ihre API-Schlüssel bereit: https://dashboard.stripe.com/apikeys.
+
+---
+
+![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+
+![Pay for meeting room with credit card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)

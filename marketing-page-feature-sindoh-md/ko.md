@@ -4,3 +4,9 @@
 - 각 회원 인쇄 장 수 확인.
 
 스마트 오피스 출력물 관리 솔루션 소개 자료를 다운로드하세요 : https://drive.google.com/a/andcards.com/file/d/1gm5TVGqBmBxcf4uxV-mtsZW4KXexINUk/view?usp=sharing
+
+---
+
+![Sindoh printer for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-profile.png)
+
+![Printing management for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-count.png)

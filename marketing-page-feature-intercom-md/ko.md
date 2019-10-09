@@ -7,3 +7,7 @@
 - 커뮤니티 가이드라인 및 도움말 구성.
 
 Intercom은 “헬프데스크” 버튼을 추가합니다. 회원들은 도움글을 찾고 여러분과 채팅하기 위해 해당 버튼을 이용하실 수 있습니다. 인터컴을 설치하시려면, 먼저 Settings > Installation에서 API 키를 발급받아주시기 바랍니다.
+
+---
+
+![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)

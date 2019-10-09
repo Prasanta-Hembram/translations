@@ -7,3 +7,7 @@ Enable Intercom to organize communication with your workspace space customers. C
 - Organize community guidelines and help.
 
 Intercom adds a “Helpdesk” button to My Workspaces page. Members use it to find help articles and chat to you. To install Intercom, first obtain API keys from Settings > Installation.
+
+---
+
+![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)

@@ -8,3 +8,9 @@ Utzen Sie Mitgliederinformationen, um E-Mails zu personalisieren. Die folgenden 
 - Nachname.
 - E-Mail.
 - Team Manager (Tag).
+
+---
+
+![Mailchimp for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/mailchimp-settings.png)
+
+![Mailchimp audience for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/mailchimp-audience.png)
