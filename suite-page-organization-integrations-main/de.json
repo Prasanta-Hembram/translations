@@ -2,12 +2,9 @@
   "data": {
     "suite-page-organization-integrations-main-title": "Integrationen",
     "suite-page-organization-integrations-main-bookings-title": "Buchungen",
-    "suite-page-organization-integrations-main-communication-title": "Kommunikation",
     "suite-page-organization-integrations-main-intercom-subtitle": "Organisation der Kommunikation mit den Kunden",
     "suite-page-organization-integrations-main-kiosk-subtitle": "Siehe Raumbelegung aus der Ferne",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Automatisieren Sie ihr E-Mail-Marketing",
-    "suite-page-organization-integrations-main-payments-title": "Zahlungen",
-    "suite-page-organization-integrations-main-printing-title": "Drucken",
     "suite-page-organization-integrations-main-sindoh-subtitle": "Sehen Sie, wie viele Seiten Mitglieder gedruckt haben.",
     "suite-page-organization-integrations-main-stripe-subtitle": "Akzeptieren Sie Kartenzahlungen für Buchungen"
   }

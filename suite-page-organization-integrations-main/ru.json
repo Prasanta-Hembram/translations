@@ -2,12 +2,9 @@
   "data": {
     "suite-page-organization-integrations-main-title": "Интеграции",
     "suite-page-organization-integrations-main-bookings-title": "Бронирования",
-    "suite-page-organization-integrations-main-communication-title": "Коммуникации",
     "suite-page-organization-integrations-main-intercom-subtitle": "Организуйте общение с клиентами",
     "suite-page-organization-integrations-main-kiosk-subtitle": "Проверяйте график переговорной на расстоянии",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Автоматизируйте имейл маркетинг",
-    "suite-page-organization-integrations-main-payments-title": "Оплаты",
-    "suite-page-organization-integrations-main-printing-title": "Печать",
     "suite-page-organization-integrations-main-sindoh-subtitle": "Смотрите как много страниц печатают вашы резиденты",
     "suite-page-organization-integrations-main-stripe-subtitle": "Принимайте оплату картой за бронирования"
   }
