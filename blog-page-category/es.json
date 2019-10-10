@@ -1,8 +1,13 @@
 {
   "data": {
-    "blog-page-category-experts-description": "Lo que dicen los expertos de la industria del coworking.",
-    "blog-page-category-marketing-description": "Cómo promover el espacio de coworking en línea.",
-    "blog-page-category-software-description": "Cómo utilizar el software para espacios de coworking.",
-    "blog-page-category-tips-description": "Cómo construir un gran espacio de coworking."
+    "blog-page-category-meta-description-archive": "Una jambalaya de artículos relacionados con diferentes aspectos de la gestión del espacio de coworking. No dude en familiarizarse con estos articulos creados por expertos de nicho.",
+    "blog-page-category-meta-description-experts": "Entrevistas a expertos de la industria del coworking. Aprende de personas influyentes que ya han llegado a la cima de la escalera. Inspírate y motívate con estas ideas.",
+    "blog-page-category-meta-description-marketing": "Marketing del espacio de coworking. Descubra las mejores prácticas y estrategias de marketing que le ayudarán a promover su espacio de coworking y a aumentar sus ingresos.",
+    "blog-page-category-meta-description-software": "Software para el espacio de trabajo. Obtenga las noticias más recientes sobre el software para el espacio de coworking. Sepa cómo automatizar la mayoría de los procesos que está realizando manualmente.",
+    "blog-page-category-meta-description-tips": "Consejos para el trabajo colaborativo. Consejos para iniciar, diseñar, gestionar y promocionar tu espacio de coworking. Noticias de la industria del coworking y tendencias actuales. Estudiar guías sencillas para el éxito.",
+    "blog-page-category-subtitle-experts": "Lo que dicen los expertos de la industria del coworking.",
+    "blog-page-category-subtitle-marketing": "Cómo promover el espacio de coworking en línea.",
+    "blog-page-category-subtitle-software": "Cómo utilizar el software para espacios de coworking.",
+    "blog-page-category-subtitle-tips": "Cómo construir un gran espacio de coworking."
   }
 }
