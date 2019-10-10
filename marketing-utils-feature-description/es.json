@@ -4,12 +4,12 @@
     "marketing-utils-feature-description-bookings": "Automatizar la reserva de salas de reuniones, los créditos de horas gratuitas y los pagos",
     "marketing-utils-feature-description-directory": "Consolidar todos los datos de clientes del espacio de coworking",
     "marketing-utils-feature-description-statistics": "Analizar las tendencias de los miembros y los ingresos",
-    "marketing-utils-feature-description-apple-calendar": "",
-    "marketing-utils-feature-description-google-calendar": "",
-    "marketing-utils-feature-description-intercom": "",
-    "marketing-utils-feature-description-mailchimp": "",
-    "marketing-utils-feature-description-microsoft-calendar": "",
-    "marketing-utils-feature-description-stripe": "",
-    "marketing-utils-feature-description-sindoh": ""
+    "marketing-utils-feature-description-apple-calendar": "Ver todas las reservas de salas de reuniones realizadas con andcards en Apple Calendar",
+    "marketing-utils-feature-description-google-calendar": "Ver todas las reservas de salas de reuniones realizadas con andcards en Google Calendar",
+    "marketing-utils-feature-description-intercom": "Organizar la comunicación en línea entre los gestores del espacio de coworking y los miembros",
+    "marketing-utils-feature-description-mailchimp": "Sincronizar la información de los miembros del espacio de coworking con una audiencia en Mailchimp",
+    "marketing-utils-feature-description-microsoft-calendar": "Ver todas las reservas de salas de reuniones realizadas con andcards en Microsoft Outlook Calendar",
+    "marketing-utils-feature-description-stripe": "Utilice Stripe para adquirir instantáneamente tarjetas de débito o crédito dentro de su aplicación de espacio de coworking",
+    "marketing-utils-feature-description-sindoh": "Contar automáticamente las páginas impresas por los miembros del espacio de coworking"
   }
 }

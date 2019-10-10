@@ -1,8 +1,8 @@
 {
   "data": {
-    "marketing-page-feature-description": "",
-    "marketing-page-feature-data-available-for-value": "",
-    "marketing-page-feature-data-pricing-value": "",
-    "marketing-page-feature-data-supported-countries-value": "Worldwide"
+    "marketing-page-feature-description": "Use Stripe to instantly acquire debit or credit cards right inside your coworking space app",
+    "marketing-page-feature-data-available-for-value": "Standard, Enterprise",
+    "marketing-page-feature-data-pricing-value": "Stripe Pricing",
+    "marketing-page-feature-data-supported-countries-value": "Stripe Countries"
   }
 }

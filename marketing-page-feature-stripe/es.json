@@ -1,8 +1,8 @@
 {
   "data": {
-    "marketing-page-feature-description": "",
-    "marketing-page-feature-data-available-for-value": "",
-    "marketing-page-feature-data-pricing-value": "",
-    "marketing-page-feature-data-supported-countries-value": "Worldwide"
+    "marketing-page-feature-description": "Utilice Stripe para adquirir instantáneamente tarjetas de débito o crédito dentro de su aplicación de espacio de coworking",
+    "marketing-page-feature-data-available-for-value": "Estándar, Enterprise",
+    "marketing-page-feature-data-pricing-value": "Stripe Precios",
+    "marketing-page-feature-data-supported-countries-value": "Países de Stripe"
   }
 }
