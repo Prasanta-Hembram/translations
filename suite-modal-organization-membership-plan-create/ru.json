@@ -3,10 +3,8 @@
     "suite-modal-organization-membership-plan-create-title": "Новый план",
     "suite-modal-organization-membership-plan-create-credits": "Кредиты, {pointEmoji}",
     "suite-modal-organization-membership-plan-create-error-plans-period-is-not-checked": "Укажите по крайней мере один период плана",
-    "suite-modal-organization-membership-plan-create-error-quantity": "Пожалуйста, введите количество планов.",
     "suite-modal-organization-membership-plan-create-plan-title": "Название",
     "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Введите название плана",
-    "suite-modal-organization-membership-plan-create-pricing-title": "Планы",
-    "suite-modal-organization-membership-plan-create-quantity": "Кол-во"
+    "suite-modal-organization-membership-plan-create-pricing-title": "Планы"
   }
 }

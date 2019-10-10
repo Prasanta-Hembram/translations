@@ -3,10 +3,6 @@
     "suite-page-organization-membership-plans-all-title": "Все тарифные планы",
     "suite-page-organization-membership-plans-all-create": "Создать план",
     "suite-page-organization-membership-plans-all-error-plans-empty": "Здесь пока ничего нет.",
-    "suite-page-organization-membership-plans-all-price-from": "От {price}",
-    "suite-page-organization-membership-plans-all-seats-available": "{numberOfSeats} доступно",
-    "suite-page-organization-membership-plans-all-seats-in-left": "{available}/{quantity} доступно",
-    "suite-page-organization-membership-plans-all-seats-only-left": "Осталось всего {numberOfSeats}",
-    "suite-page-organization-membership-plans-all-seats-sold-out": "Продано"
+    "suite-page-organization-membership-plans-all-price-from": "От {price}"
   }
 }

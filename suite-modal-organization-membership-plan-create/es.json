@@ -3,10 +3,8 @@
     "suite-modal-organization-membership-plan-create-title": "Nuevo plan",
     "suite-modal-organization-membership-plan-create-credits": "Créditos, {pointEmoji}",
     "suite-modal-organization-membership-plan-create-error-plans-period-is-not-checked": "Por favor indique al menos un período de plan.",
-    "suite-modal-organization-membership-plan-create-error-quantity": "Por favor indique cuántos de esos planes ofrece.",
     "suite-modal-organization-membership-plan-create-plan-title": "Nombre",
     "suite-modal-organization-membership-plan-create-plan-title-placeholder": "Agregar nombre",
-    "suite-modal-organization-membership-plan-create-pricing-title": "Precios",
-    "suite-modal-organization-membership-plan-create-quantity": "Cantidad"
+    "suite-modal-organization-membership-plan-create-pricing-title": "Precios"
   }
 }

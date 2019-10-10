@@ -4,10 +4,8 @@
     "suite-modal-organization-membership-plan-edit-description": "Änderungen des Credit-Betrages werden ab dem nächsten Abrechnungszeitraum berücksichtigt.",
     "suite-modal-organization-membership-plan-edit-credits": "Credits, {pointEmoji}",
     "suite-modal-organization-membership-plan-edit-error-plans-period-is-not-checked": "Fügen Sie mindestens einen Zeitraum hinzu.",
-    "suite-modal-organization-membership-plan-edit-error-quantity": "Menge eingeben.",
     "suite-modal-organization-membership-plan-edit-plan-title": "Name",
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Namen eingeben",
-    "suite-modal-organization-membership-plan-edit-pricing-title": "Preis",
-    "suite-modal-organization-membership-plan-edit-quantity": "Menge"
+    "suite-modal-organization-membership-plan-edit-pricing-title": "Preis"
   }
 }
