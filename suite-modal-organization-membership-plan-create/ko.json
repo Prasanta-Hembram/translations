@@ -4,11 +4,8 @@
     "suite-modal-organization-membership-plan-create-credits": "크레딧, {pointEmoji}",
     "suite-modal-organization-membership-plan-create-error-plans-period-is-not-checked": "최소한의 플랜 이용 기간을 표시해 주세요.",
     "suite-modal-organization-membership-plan-create-error-quantity": "등록된 플랜의 개수를 확인해주세요.",
-    "suite-modal-organization-membership-plan-create-description": "설명",
-    "suite-modal-organization-membership-plan-create-description-placeholder": "플랜 설명하기",
     "suite-modal-organization-membership-plan-create-plan-title": "플랜 명",
     "suite-modal-organization-membership-plan-create-plan-title-placeholder": "플랜 명 입력하기",
-    "suite-modal-organization-membership-plan-create-price": "가격, {currencySymbol}",
     "suite-modal-organization-membership-plan-create-pricing-title": "가격 정책",
     "suite-modal-organization-membership-plan-create-quantity": "판매 수"
   }

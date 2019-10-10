@@ -3,14 +3,10 @@
     "suite-modal-organization-directory-team-plan-edit-title": "План",
     "suite-modal-organization-directory-team-plan-edit-benefits": "Сервисы",
     "suite-modal-organization-directory-team-plan-edit-credits": "Кредиты",
-    "suite-modal-organization-directory-team-plan-edit-payment": "Оплата",
     "suite-modal-organization-directory-team-plan-edit-period-from-title": "Начало",
-    "suite-modal-organization-directory-team-plan-edit-period-pay-with-cash-title": "Внешний платеж",
-    "suite-modal-organization-directory-team-plan-edit-period-pay-with-title": "Метод оплаты",
     "suite-modal-organization-directory-team-plan-edit-period-title": "Период",
     "suite-modal-organization-directory-team-plan-edit-period-until-title": "Конец",
     "suite-modal-organization-directory-team-plan-edit-plan-title": "Название",
-    "suite-modal-organization-directory-team-plan-edit-price": "Цена",
     "suite-modal-organization-directory-team-plan-edit-repeat-label": "Продление"
   }
 }

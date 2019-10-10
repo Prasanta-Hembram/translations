@@ -1,15 +1,11 @@
 {
   "data": {
     "suite-modal-organization-directory-team-plan-assign-title": "Abo zuweisen",
-    "suite-modal-organization-directory-team-plan-assign-benefits": "Vorteile",
     "suite-modal-organization-directory-team-plan-assign-button-for-free": "Kostenlos zuweisen",
-    "suite-modal-organization-directory-team-plan-assign-button-for-price": "Für {price} zuweisen",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "Es gibt noch keine Abos. Erstellen Sie zuerst ein Abo auf der Seite Mitgliedschaft/Alle Abos.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Diese Seite existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-modal-organization-directory-team-plan-assign-payment": "Zahlung",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Start",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Zeitraum",
-    "suite-modal-organization-directory-team-plan-assign-plan-price-money": "Preis, {currencySymbol}",
     "suite-modal-organization-directory-team-plan-assign-plan-price-points": "Credits, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-assign-plan-repeat": "Wiederholung",
     "suite-modal-organization-directory-team-plan-assign-plan-title": "Abo"
