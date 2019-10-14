@@ -1,13 +1,13 @@
-Automatice la reserva de salas de reuniones en su espacio de coworking. Evite el exceso de reservas y las supresiones accidentales de reservas, recuerde a los miembros las próximas reservas con notificaciones push y garantice un acceso equitativo y uniforme al espacio de reunión. El sistema de crédito permite una asignación de horas gratuita totalmente automatizada para ahorrar tiempo al gerente de la sucursal.
+Automatiza la reserva de salas de reuniones en su espacio de coworking. Evita el exceso de reservas y las supresiones accidentales de reservas, recuerda a los miembros las próximas reservas con notificaciones push y garantiza un acceso equitativo y uniforme al espacio de reunión. El sistema de crédito permite una asignación de horas gratuita totalmente automatizada para ahorrar tiempo al gerente de la sucursal.
 
-- Reduzca a 0 los conflictos y solapamientos en la reserva de salas de reuniones - y las tarjetas no permiten solapamientos en la reserva.
+- Reduzca a 0 los conflictos y solapamientos en la reserva de salas de reuniones - y andcards no permite solapamientos en la reserva.
 - Reduzca las reservas abandonadas con notificaciones push con recordatorios de inicio y fin de reserva.
-- Gane más al permitir pagos con tarjetas de débito o crédito sin esfuerzo.
+- Gana más al permitir pagos con tarjetas de débito o crédito sin esfuerzo.
 - Reserva utilizando aplicaciones móviles para iOS y Android.
-- Encuentre y reserve fácilmente salas de reuniones en otras sucursales de la red.
-- Sincronizar las reservas con el calendario personal (Google, Outlook, Apple).
-- Gestionar las reservas: el administrador puede reservar en nombre de cualquier miembro, ver y editar las reservas, establecer la duración mínima y máxima de la reserva, paso de la reserva.
-- Interfaz de usuario simple y bonita con fotos de la habitación y un calendario familiar.
+- Encuentra y reserva fácilmente salas de reuniones en otras sucursales de la red.
+- Sincroniza las reservas con el calendario personal (Google, Outlook, Apple).
+- Gestiona las reservas: el administrador puede reservar en nombre de cualquier miembro, ver y editar las reservas, establecer la duración mínima y máxima de la reserva, paso de la reserva.
+- Interfaz de usuario simple y bonita con fotos de la sala y un calendario familiar.
 
 ### Sistema de visualización de salas de reuniones
 
