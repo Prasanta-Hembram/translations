@@ -1,4 +1,4 @@
-Permita que Stripe integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activar el método de pago 'Tarjeta' para:
+Permita que Stripe integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activa el método de pago 'Tarjeta' para:
 - Página de reserva de salas de reuniones.
 - Página de pago de facturas.
 
