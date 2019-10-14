@@ -1,9 +1,9 @@
-Understand your coworking space membership and revenue data. See a number of existing and new members, teams, and activation rate. Preview every month revenue charts by source, and download detailed revenue reports.
+Аналізуйте розвиток резидентства та прибутків вашого коворкінгу. Переглядайте кількість існуючих та нових учасників, команд, а також показник активації користувачів. Дивіться графіки щомісячних прибутків за платіжним засобом, а також завантажуйте детальні звіти про прибутки.
 
-- Know how many members and teams you have.
-- View revenue charts to understand revenue trends.
-- Download monthly invoice reports with details of payments.
+- Переглядайте кількість учасників та команд.
+- Аналізуйте графіки щомісячних прибутків.
+- Завантажуйте звіти з деталями про платежі.
 
 ---
 
-![Coworking Space Statistics](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/statistics.jpg)
+![Статистика в коворкінг центрі](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/statistics.jpg)
