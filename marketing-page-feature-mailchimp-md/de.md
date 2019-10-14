@@ -3,7 +3,7 @@ Synchronisieren Sie Mitgliederinformationen aus dem Verzeichnis mit Mailchimp. N
 - Monatliche Newsletter an alle Mitglieder auf einmal zu senden.
 - Erinnern Sie Teammanager daran, per Rechnung zu bezahlen.
 
-Utzen Sie Mitgliederinformationen, um E-Mails zu personalisieren. Die folgenden Daten werden an Mailchimp übermittelt: 
+Nutzen Sie Mitgliederinformationen, um E-Mails zu personalisieren. Die folgenden Daten werden an Mailchimp übermittelt: 
 - Name.
 - Nachname.
 - E-Mail.
