@@ -1,8 +1,8 @@
-Aktivieren Sie Intercom, um die Kommunikation mit Ihren Kunden im Workspace zu organisieren. Verbinden Sie Intercom mit:
+Aktivieren Sie Intercom, um die Kommunikation mit Ihren Kunden im Workspace zu organisieren. Verbinden Sie Intercom um:
 - Synchronisieren Sie Mitgliederinformationen mit der Intercom-Plattform.
 - Sehen Sie, wann Mitglieder online sind.
-- Chatten Sie mit Ihren Web- und mobilen App-Mitgliedern.
-- Chatten Sie mit Ihren Besuchern der Workspace-Website.
+- Chatten Sie mit Ihren Mitgliedern.
+- Chatten Sie mit Ihren Besuchern ihrer Workspace-Website.
 - Automatisieren Sie In-App-Nachrichten und E-Mail-Kommunikation.
 - Organisieren Sie Community-Richtlinien und Hilfe.
 
