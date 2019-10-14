@@ -1,8 +1,8 @@
-Understand your coworking space membership and revenue data. See a number of existing and new members, teams, and activation rate. Preview every month revenue charts by source, and download detailed revenue reports.
+Verstehen Sie Ihre Coworking Space Mitglieder- und Umsatzdaten. Sehen Sie eine Reihe von bestehenden und neuen Mitgliedern, Teams und Aktivierungsraten. Sehen Sie sich die monatlichen Umsatzcharts nach Quellen an und laden Sie detaillierte Umsatzberichte herunter.
 
-- Know how many members and teams you have.
-- View revenue charts to understand revenue trends.
-- Download monthly invoice reports with details of payments.
+- Wissen Sie, wie viele Mitglieder und Teams Sie haben.
+- Sehen Sie sich die Umsatzdiagramme an, um die Umsatzentwicklung zu verstehen.
+- Laden Sie monatliche Rechnungsberichte mit Details zu den Zahlungen herunter.
 
 ---
 
