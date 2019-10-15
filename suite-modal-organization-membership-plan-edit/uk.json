@@ -4,13 +4,8 @@
     "suite-modal-organization-membership-plan-edit-description": "Новий план буде застосовано з наступного платіжного періоду.",
     "suite-modal-organization-membership-plan-edit-credits": "Кредити, {pointEmoji}",
     "suite-modal-organization-membership-plan-edit-error-plans-period-is-not-checked": "Укажіть принаймні один період плану.",
-    "suite-modal-organization-membership-plan-edit-error-quantity": "Уведіть кількість планів.",
-    "suite-modal-organization-membership-plan-edit-note": "Опис",
-    "suite-modal-organization-membership-plan-edit-note-placeholder": "Додати опис",
     "suite-modal-organization-membership-plan-edit-plan-title": "Назва",
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Уведіть назву",
-    "suite-modal-organization-membership-plan-edit-price": "Ціна, {currencySymbol}",
-    "suite-modal-organization-membership-plan-edit-pricing-title": "Плани",
-    "suite-modal-organization-membership-plan-edit-quantity": "Кількість"
+    "suite-modal-organization-membership-plan-edit-pricing-title": "Плани"
   }
 }

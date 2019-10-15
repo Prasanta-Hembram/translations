@@ -4,13 +4,8 @@
     "suite-modal-organization-membership-plan-edit-description": "Новый план будет применен со следующего платежного периода.",
     "suite-modal-organization-membership-plan-edit-credits": "Кредиты, {pointEmoji}",
     "suite-modal-organization-membership-plan-edit-error-plans-period-is-not-checked": "Укажите по крайней мере один период плана",
-    "suite-modal-organization-membership-plan-edit-error-quantity": "Пожалуйста, введите количество планов.",
-    "suite-modal-organization-membership-plan-edit-note": "Описание",
-    "suite-modal-organization-membership-plan-edit-note-placeholder": "Добавить описание",
     "suite-modal-organization-membership-plan-edit-plan-title": "Название",
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Введите название",
-    "suite-modal-organization-membership-plan-edit-price": "Цена, {currencySymbol}",
-    "suite-modal-organization-membership-plan-edit-pricing-title": "Планы",
-    "suite-modal-organization-membership-plan-edit-quantity": "Кол-во"
+    "suite-modal-organization-membership-plan-edit-pricing-title": "Планы"
   }
 }

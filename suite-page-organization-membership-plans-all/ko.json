@@ -3,10 +3,6 @@
     "suite-page-organization-membership-plans-all-title": "전체 멤버십 플랜",
     "suite-page-organization-membership-plans-all-create": "멤버십 플랜 추가",
     "suite-page-organization-membership-plans-all-error-plans-empty": "아무것도 없습니다.",
-    "suite-page-organization-membership-plans-all-price-from": "{price}부터",
-    "suite-page-organization-membership-plans-all-seats-available": "{numberOfSeats}개 구매 가능",
-    "suite-page-organization-membership-plans-all-seats-in-left": "재고 {available}개/총 {quantity}개",
-    "suite-page-organization-membership-plans-all-seats-only-left": "재고 {numberOfSeats}개",
-    "suite-page-organization-membership-plans-all-seats-sold-out": "매진"
+    "suite-page-organization-membership-plans-all-price-from": "{price}부터"
   }
 }

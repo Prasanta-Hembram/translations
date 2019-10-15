@@ -4,13 +4,8 @@
     "suite-modal-organization-membership-plan-edit-description": "Changes to credit amount will be applied from the next billing period.",
     "suite-modal-organization-membership-plan-edit-credits": "Credits, {pointEmoji}",
     "suite-modal-organization-membership-plan-edit-error-plans-period-is-not-checked": "Add at least one period.",
-    "suite-modal-organization-membership-plan-edit-error-quantity": "Type a quantity.",
-    "suite-modal-organization-membership-plan-edit-note": "Description",
-    "suite-modal-organization-membership-plan-edit-note-placeholder": "Type a description",
     "suite-modal-organization-membership-plan-edit-plan-title": "Name",
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "Type a name",
-    "suite-modal-organization-membership-plan-edit-price": "Price, {currencySymbol}",
-    "suite-modal-organization-membership-plan-edit-pricing-title": "Pricing",
-    "suite-modal-organization-membership-plan-edit-quantity": "Quantity"
+    "suite-modal-organization-membership-plan-edit-pricing-title": "Pricing"
   }
 }

@@ -4,13 +4,8 @@
     "suite-modal-organization-membership-plan-edit-description": "크레딧 금액을 변경시 다음 재결제 부터 적용.",
     "suite-modal-organization-membership-plan-edit-credits": "크레딧, {pointEmoji}",
     "suite-modal-organization-membership-plan-edit-error-plans-period-is-not-checked": "최소한의 플랜 이용 기간을 표시해 주세요.",
-    "suite-modal-organization-membership-plan-edit-error-quantity": "등록된 플랜의 개수를 확인해주세요.",
-    "suite-modal-organization-membership-plan-edit-note": "설명",
-    "suite-modal-organization-membership-plan-edit-note-placeholder": "플랜 설명하기",
     "suite-modal-organization-membership-plan-edit-plan-title": "플랜 명",
     "suite-modal-organization-membership-plan-edit-plan-title-placeholder": "플랜 명 입력하기",
-    "suite-modal-organization-membership-plan-edit-price": "가격, {currencySymbol}",
-    "suite-modal-organization-membership-plan-edit-pricing-title": "가격 정책",
-    "suite-modal-organization-membership-plan-edit-quantity": "판매 수"
+    "suite-modal-organization-membership-plan-edit-pricing-title": "가격 정책"
   }
 }

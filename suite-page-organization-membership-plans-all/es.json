@@ -3,10 +3,6 @@
     "suite-page-organization-membership-plans-all-title": "Todos los planes de membresía",
     "suite-page-organization-membership-plans-all-create": "Crear un plan",
     "suite-page-organization-membership-plans-all-error-plans-empty": "No hay planes de membresía.",
-    "suite-page-organization-membership-plans-all-price-from": "Desde {price}",
-    "suite-page-organization-membership-plans-all-seats-available": "{numberOfSeats} disponibles",
-    "suite-page-organization-membership-plans-all-seats-in-left": "{available}/{quantity} disponibles",
-    "suite-page-organization-membership-plans-all-seats-only-left": "Solo quedan {numberOfSeats}",
-    "suite-page-organization-membership-plans-all-seats-sold-out": "Agotado"
+    "suite-page-organization-membership-plans-all-price-from": "Desde {price}"
   }
 }

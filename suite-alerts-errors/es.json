@@ -32,8 +32,6 @@
     "suite-alerts-errors-plan-assign-in-future": "No se puede asignar el plan para una fecha futura.",
     "suite-alerts-errors-plan-delete-reject": "No se puede eliminar. Plan en uso.",
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",
-    "suite-alerts-errors-plan-price-invalid": "El precio no es válido. Verifica todos los precios del plan e intenta nuevamente.",
-    "suite-alerts-errors-plan-sold-out": "El plan está vendido.",
     "suite-alerts-errors-price-invalid": "El precio no es válido. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-property-is-missing": "No se pudo reservar esta sala.",
     "suite-alerts-errors-sign-in-facebook-error": "No se puede iniciar sesión con Facebook, porque no está asociado con ninguna cuenta existente.",

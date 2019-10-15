@@ -1,15 +1,11 @@
 {
   "data": {
     "suite-modal-organization-directory-team-plan-assign-title": "Asignar plan",
-    "suite-modal-organization-directory-team-plan-assign-benefits": "Beneficios",
     "suite-modal-organization-directory-team-plan-assign-button-for-free": "Asignar gratis",
-    "suite-modal-organization-directory-team-plan-assign-button-for-price": "Asignar por {price}",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "No hay planes todavía. Crea un plan primero en la página de membresía/todos los planes.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
-    "suite-modal-organization-directory-team-plan-assign-payment": "Pago",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Comienzo",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Período",
-    "suite-modal-organization-directory-team-plan-assign-plan-price-money": "Precio, {currencySymbol}",
     "suite-modal-organization-directory-team-plan-assign-plan-price-points": "Precio, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-assign-plan-repeat": "Repetir",
     "suite-modal-organization-directory-team-plan-assign-plan-title": "Plan"
