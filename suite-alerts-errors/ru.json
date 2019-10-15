@@ -33,7 +33,6 @@
     "suite-alerts-errors-plan-delete-reject": "Невозможно удалить. План используется.",
     "suite-alerts-errors-plan-periods-empty": "Нужно выбрать хотя бы один период.",
     "suite-alerts-errors-price-invalid": "Цена недействительна. Проверьте все поля и попробуйте еще раз.",
-    "suite-alerts-errors-plan-sold-out": "План распродан.",
     "suite-alerts-errors-property-is-missing": "Не удалось забронировать эту комнату.",
     "suite-alerts-errors-sign-in-facebook-error": "Невозможно войти с Facebook, этот профиль не привязан ни к одному аккаунту.",
     "suite-alerts-errors-sign-in-google-error": "Невозможно войти с Google, этот профиль не привязан ни к одному аккаунту.",

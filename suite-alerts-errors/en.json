@@ -32,7 +32,6 @@
     "suite-alerts-errors-plan-assign-in-future": "Can't assign a plan starting a date in the future.",
     "suite-alerts-errors-plan-delete-reject": "Unable to delete. Plan in use.",
     "suite-alerts-errors-plan-periods-empty": "Plan must have at least 1 period.",
-    "suite-alerts-errors-plan-sold-out": "Plan is sold out.",
     "suite-alerts-errors-price-invalid": "The price is invalid. Check all fields and try again.",
     "suite-alerts-errors-property-is-missing": "Failed to book for this room.",
     "suite-alerts-errors-sign-in-facebook-error": "Unable to login with Facebook, because it is not associated with any existing account.",

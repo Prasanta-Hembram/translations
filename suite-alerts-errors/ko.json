@@ -32,7 +32,6 @@
     "suite-alerts-errors-plan-assign-in-future": "향후 날짜에는 플랜을 부여할 수 없습니다.",
     "suite-alerts-errors-plan-delete-reject": "삭제 실패. 플랜은 사용 중입니다.",
     "suite-alerts-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요.",
-    "suite-alerts-errors-plan-sold-out": "플랜 품절.",
     "suite-alerts-errors-price-invalid": "가격이 잘못되었습니다. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-property-is-missing": "해당 회의실 예약에 실패하였습니다.",
     "suite-alerts-errors-sign-in-facebook-error": "기존 계정과 연결되어 있지 않으므로 Facebook으로 로그인할 수 없습니다.",

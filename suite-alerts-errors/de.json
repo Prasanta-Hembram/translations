@@ -32,7 +32,6 @@
     "suite-alerts-errors-plan-assign-in-future": "Es ist nicht möglich, ein Abo zuzuordnen, das mit einem Datum in der Zukunft beginnt.",
     "suite-alerts-errors-plan-delete-reject": "Löschen nicht möglich. Abo in Gebrauch.",
     "suite-alerts-errors-plan-periods-empty": "Das Abo muss mindestens 1 Zeitraum haben.",
-    "suite-alerts-errors-plan-sold-out": "Abo ist ausverkauft.",
     "suite-alerts-errors-property-is-missing": "Die Buchung für diesen Raum ist fehlgeschlagen.",
     "suite-alerts-errors-sign-in-facebook-error": "Die Anmeldung bei Facebook ist nicht möglich, da sie nicht mit einem bestehenden Konto verknüpft ist.",
     "suite-alerts-errors-sign-in-google-error": "Die Anmeldung bei Google ist nicht möglich, da sie nicht mit einem bestehenden Konto verknüpft ist.",
