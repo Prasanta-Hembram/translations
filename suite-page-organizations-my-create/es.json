@@ -2,10 +2,10 @@
   "data": {
     "suite-page-organizations-my-create-title": "Nuevo espacio de trabajo",
     "suite-page-organizations-my-create-button-create": "Iniciar prueba",
-    "suite-page-organizations-my-create-currency-label": "La moneda",
+    "suite-page-organizations-my-create-currency-label": "Moneda",
     "suite-page-organizations-my-create-default-locale": "Idioma predeterminado",
-    "suite-page-organizations-my-create-organization-name": "Nombre",
-    "suite-page-organizations-my-create-organization-name-placeholder": "Ingrese su nombre",
+    "suite-page-organizations-my-create-organization-name": "Nombre del espacio",
+    "suite-page-organizations-my-create-organization-name-placeholder": "Ingresa el nombre del espacio",
     "suite-page-organizations-my-create-organization-policy-link": "Política de privacidad",
     "suite-page-organizations-my-create-organization-policy-link-checkbox": "No enviar una URL de política de privacidad en este momento. {learnMoreUrl}.",
     "suite-page-organizations-my-create-organization-policy-link-learn-more": "Conozca más",
