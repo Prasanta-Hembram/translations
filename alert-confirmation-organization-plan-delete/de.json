@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-plan-delete-title": "Abo löschen",
+    "alert-confirmation-organization-plan-delete-title": "Delete Credit Template",
     "alert-confirmation-organization-plan-delete-no": "Abbrechen",
-    "alert-confirmation-organization-plan-delete-text": "Sind Sie sicher, dass Sie dieses Abo löschen möchten? Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-plan-delete-text": "Are you sure you want to delete credit template? This action is irreversible.",
     "alert-confirmation-organization-plan-delete-yes": "Löschen"
   }
 }

@@ -1,11 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-bookings-credit-template-details-title": "План",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Не удалось удалить план.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Удалить план",
+    "suite-page-organization-settings-bookings-credit-template-details-title": "Credit Template",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Failed to delete credit template.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Delete credit template",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Попробовать еще раз",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "Этого плана не существует, или же он был удален.",
-    "suite-page-organization-settings-bookings-credit-template-details-plans-all-title": "Все тарифные планы",
-    "suite-page-organization-settings-bookings-credit-template-details-pricing": "Цены"
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "This Credit Template may not exist or may have been removed."
   }
 }

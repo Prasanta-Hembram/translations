@@ -1,11 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-bookings-credit-template-details-title": "멤버십 플랜",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "플랜 삭제 실패.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "플랜 삭제",
+    "suite-page-organization-settings-bookings-credit-template-details-title": "Credit Template",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Failed to delete credit template.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Delete credit template",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "다시시도",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "이 사항은 변경되거나 없어질 수 있습니다.",
-    "suite-page-organization-settings-bookings-credit-template-details-plans-all-title": "전체 멤버십 플랜",
-    "suite-page-organization-settings-bookings-credit-template-details-pricing": "가격 정책"
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "This Credit Template may not exist or may have been removed."
   }
 }
