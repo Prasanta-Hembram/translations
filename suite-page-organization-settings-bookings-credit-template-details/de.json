@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-bookings-credit-template-details-title": "Credit Template",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Failed to delete credit template.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Delete credit template",
+    "suite-page-organization-settings-bookings-credit-template-details-title": "Credit-Abo",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Credit-Abo konnte nicht gelöscht werden.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Credit-Abo löschen",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Erneut versuchen",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "This Credit Template may not exist or may have been removed."
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "Dieses Credit-Abo ist möglicherweise nicht vorhanden oder wurde entfernt."
   }
 }
