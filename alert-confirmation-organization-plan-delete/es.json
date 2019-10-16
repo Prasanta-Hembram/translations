@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-plan-delete-title": "Delete Credit Template",
+    "alert-confirmation-organization-plan-delete-title": "Eliminiar plantilla de créditos",
     "alert-confirmation-organization-plan-delete-no": "Cancelar",
-    "alert-confirmation-organization-plan-delete-text": "Are you sure you want to delete credit template? This action is irreversible.",
+    "alert-confirmation-organization-plan-delete-text": "¿Estás seguro de que quieres eliminar este plantilla de créditos? Esta acción es irreversible."",
     "alert-confirmation-organization-plan-delete-yes": "Eliminar"
   }
 }
