@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-bookings-credit-template-details-title": "Credit Template",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Failed to delete credit template.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Delete credit template",
+    "suite-page-organization-settings-bookings-credit-template-details-title": "Plantilla de crédito",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "No se ha podido eliminar la plantilla de crédito.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Eliminar plantilla de crédito",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "This Credit Template may not exist or may have been removed."
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "Esta plantilla de crédito puede no existir o puede haber sido eliminada."
   }
 }
