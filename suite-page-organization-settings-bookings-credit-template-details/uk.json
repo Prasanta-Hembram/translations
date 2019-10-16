@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-settings-bookings-credit-template-details-title": "План",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Не вдалося видалити план.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Видалити план",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Спробувати знову",
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "Цього плану не існує, або ж він був видалений.",
+    "suite-page-organization-settings-bookings-credit-template-details-plans-all-title": "Усі тарифні плани",
+    "suite-page-organization-settings-bookings-credit-template-details-pricing": "Ціни"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-organization-settings-bookings-credit-template-details-title": "Abo",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Abo konnte nicht gelöscht werden.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Abo löschen",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Erneut versuchen",
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "Dieses Abo existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-settings-bookings-credit-template-details-plans-all-title": "Alle Mitgliedschafts-Abos",
+    "suite-page-organization-settings-bookings-credit-template-details-pricing": "Preis"
+  }
+}
