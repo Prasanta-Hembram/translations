@@ -6,20 +6,13 @@
     "utils-auth-code": "Код підтвердження",
     "utils-auth-code-description": "Код підтвердження було відправлено на {emailAddress}.",
     "utils-auth-code-invalid": "Уведіть правильний код підтвердження з текстового повідомлення.",
-    "utils-auth-country": "Країна",
     "utils-auth-email": "Email",
     "utils-auth-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
     "utils-auth-link-privacy-policy": "політикою приватності",
     "utils-auth-link-terms-of-use": "умовами надання послуг",
     "utils-auth-login-options": "Опції входу",
-    "utils-auth-login-with-facebook": "Вхід через Facebook",
-    "utils-auth-login-with-google": "Вхід через Google",
     "utils-auth-next-step": "Продовжити",
-    "utils-auth-number": "Номер",
-    "utils-auth-number-invalid": "Неможливо ввійти з допомогою номера телефону, він введений невірно або не прив'язаний до жодного акаунту.",
-    "utils-auth-phone-number": "Номер телефону",
     "utils-auth-type-code": "Увести код підтвердження",
-    "utils-auth-type-email-here": "Увести email",
-    "utils-auth-type-phone-number-here": "Увести номер"
+    "utils-auth-type-email-here": "Увести email"
   }
 }

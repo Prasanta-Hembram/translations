@@ -6,20 +6,13 @@
     "utils-auth-code": "Código",
     "utils-auth-code-description": "El código te fue enviado por {emailAddress}.",
     "utils-auth-code-invalid": "Ingresa un código válido de un mensaje de texto.",
-    "utils-auth-country": "País",
     "utils-auth-email": "Correo electrónico",
     "utils-auth-email-invalid": "El código le ha sido enviado por correo electrónico.",
     "utils-auth-link-privacy-policy": "Política de privacidad",
     "utils-auth-link-terms-of-use": "Términos de uso",
     "utils-auth-login-options": "Opciones de inicio de sesión",
-    "utils-auth-login-with-facebook": "Login con Facebook",
-    "utils-auth-login-with-google": "Login con Google",
     "utils-auth-next-step": "Continuar",
-    "utils-auth-number": "Número",
-    "utils-auth-number-invalid": "No se puede iniciar sesión con el número de teléfono, porque es incorrecto o no está asociado con ninguna cuenta existente.",
-    "utils-auth-phone-number": "Número de teléfono",
     "utils-auth-type-code": "Inserta el códgio",
-    "utils-auth-type-email-here": "Inserta correo electrónico",
-    "utils-auth-type-phone-number-here": "Inserta número de teléfono"
+    "utils-auth-type-email-here": "Inserta correo electrónico"
   }
 }

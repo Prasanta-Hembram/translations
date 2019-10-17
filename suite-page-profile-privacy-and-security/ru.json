@@ -7,10 +7,6 @@
     "suite-page-profile-privacy-and-security-email-label": "Email",
     "suite-page-profile-privacy-and-security-email-notice": "Подключите email для входа в учетную запись. Прочие методы входа будут выведены из употребления.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "Не подключен",
-    "suite-page-profile-privacy-and-security-legacy-login-method-phone-number-label": "Телефон",
-    "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "Facebook",
-    "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "Google",
-    "suite-page-profile-privacy-and-security-legacy-login-methods-title": "Прочие методы входа",
     "suite-page-profile-privacy-and-security-sessions-button": "Выйти из других сессий",
     "suite-page-profile-privacy-and-security-sessions-description": "Это остановит все сессии в других браузерах или компьютерах.",
     "suite-page-profile-privacy-and-security-sessions-title": "Выйти из всех других сессий"

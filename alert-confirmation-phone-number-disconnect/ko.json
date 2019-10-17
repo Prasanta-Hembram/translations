@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-phone-number-disconnect-title": "전화 번호 연결을 끊기",
-    "alert-confirmation-phone-number-disconnect-no": "돌아가기",
-    "alert-confirmation-phone-number-disconnect-text": "계속 진행하면 앞으로 전화 번호로 로그인 할 수 없습니다.",
-    "alert-confirmation-phone-number-disconnect-yes": "연결을 끊기"
-  }
-}
