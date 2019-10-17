@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-plan-delete-title": "Delete Credit Template",
+    "alert-confirmation-organization-plan-delete-title": "Видалити шаблон для кредитів",
     "alert-confirmation-organization-plan-delete-no": "Скасувати",
-    "alert-confirmation-organization-plan-delete-text": "Are you sure you want to delete credit template? This action is irreversible.",
+    "alert-confirmation-organization-plan-delete-text": "Ви впевнені, що хочете видалити цей шаблон? Дана дія незворотня.",
     "alert-confirmation-organization-plan-delete-yes": "Видалити"
   }
 }
