@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-access-control-main-title": "Access",
-    "suite-page-organization-access-control-main-controller-default": "Controller",
-    "suite-page-organization-access-control-main-get-failure": "Couldn’t show workspace card readers. Check the internet and try again.",
-    "suite-page-organization-access-control-main-no-access-control": "The workspace has no card readers to display.",
-    "suite-page-organization-access-control-main-no-readers": "The workspace has no card readers to display."
-  }
-}

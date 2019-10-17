@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-access-control-main-title": "Acceso",
-    "suite-page-organization-access-control-main-controller-default": "Contralor",
-    "suite-page-organization-access-control-main-get-failure": "No se pudieron mostrar los lectores de tarjetas del área de trabajo. Revisa internet y vuelve a intentarlo.",
-    "suite-page-organization-access-control-main-no-access-control": "El espacio de trabajo no tiene lectores de tarjetas para mostrar.",
-    "suite-page-organization-access-control-main-no-readers": "El espacio de trabajo no tiene lectores de tarjetas para mostrar."
-  }
-}

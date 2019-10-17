@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-access-control-main-title": "접근",
-    "suite-page-organization-access-control-main-controller-default": "컨트롤러",
-    "suite-page-organization-access-control-main-get-failure": " 출입 카드 리더를 표시할 수 없습니다. 인터넷 연결을 확인해 주세요",
-    "suite-page-organization-access-control-main-no-access-control": "출입 카드 리더가 없습니다.",
-    "suite-page-organization-access-control-main-no-readers": "출입 카드 리더가 없습니다."
-  }
-}
