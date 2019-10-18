@@ -40,6 +40,6 @@
     "suite-alerts-errors-trial-already-started": "У вашому коворкінгу вже включена система бронювання.",
     "suite-alerts-errors-user-already-activated": "Участь вже активована.",
     "suite-alerts-errors-user-have-no-permission": "Відсутні права доступу для завершення дії.",
-    "suite-alerts-errors-user-rejected-invitation": "The user has rejected the invitation."
+    "suite-alerts-errors-user-rejected-invitation": "Учасник відхилив запрошення."
   }
 }
