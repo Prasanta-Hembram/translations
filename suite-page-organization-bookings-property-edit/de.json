@@ -16,7 +16,6 @@
     "suite-page-organization-bookings-property-edit-min-time": "Mindestdauer",
     "suite-page-organization-bookings-property-edit-name": "Name",
     "suite-page-organization-bookings-property-edit-name-placeholder": "Namen eingeben",
-    "suite-page-organization-bookings-property-edit-no-teams": "Teams sind nicht ausgewählt.",
     "suite-page-organization-bookings-property-edit-number-of-seats": "Plätze",
     "suite-page-organization-bookings-property-edit-price-money": "Preis, {currencySymbol}/Std.",
     "suite-page-organization-bookings-property-edit-price-points": "Credits, {pointEmoji}/Std.",

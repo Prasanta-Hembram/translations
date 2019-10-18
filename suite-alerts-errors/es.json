@@ -39,6 +39,7 @@
     "suite-alerts-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta.",
     "suite-alerts-errors-trial-already-started": "El espacio de trabajo ya tiene activado el sistema completo de reservas.",
     "suite-alerts-errors-user-already-activated": "La membresía ya está activada.",
-    "suite-alerts-errors-user-have-no-permission": "No hay permiso para finalizar la acción."
+    "suite-alerts-errors-user-have-no-permission": "No hay permiso para finalizar la acción.",
+    "suite-alerts-errors-user-rejected-invitation": "El usuario ha rechazado la invitación."
   }
 }
