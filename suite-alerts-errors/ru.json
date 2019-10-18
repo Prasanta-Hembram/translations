@@ -39,6 +39,7 @@
     "suite-alerts-errors-sns-user-exists": "Этот метод входа уже используется в другой учетной записи.",
     "suite-alerts-errors-trial-already-started": "В вашем коворкинге уже включена система бронирования.",
     "suite-alerts-errors-user-already-activated": "Участие уже активировано.",
-    "suite-alerts-errors-user-have-no-permission": "Отсутствуют права доступа для завершения действия."
+    "suite-alerts-errors-user-have-no-permission": "Отсутствуют права доступа для завершения действия.",
+    "suite-alerts-errors-user-rejected-invitation": "Участник отклонил приглашение."
   }
 }
