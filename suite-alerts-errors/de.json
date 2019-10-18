@@ -38,6 +38,7 @@
     "suite-alerts-errors-sns-user-exists": "Die Login-Methode wird von einem anderen Konto verwendet.",
     "suite-alerts-errors-trial-already-started": "Der Workspace hat bereits das volle Buchungssystem aktiviert.",
     "suite-alerts-errors-user-already-activated": "Die Mitgliedschaft ist bereits aktiviert.",
-    "suite-alerts-errors-user-have-no-permission": "Keine Berechtigung, die Aktion abzuschließen."
+    "suite-alerts-errors-user-have-no-permission": "Keine Berechtigung, die Aktion abzuschließen.",
+    "suite-alerts-errors-user-rejected-invitation": "The user has rejected the invitation."
   }
 }
