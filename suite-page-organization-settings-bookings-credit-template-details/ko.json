@@ -4,6 +4,6 @@
     "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "크레딧 템플릿 삭제 실패",
     "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "크레딧 템플릿 삭제",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "다시시도",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "This Credit Template may not exist or may have been removed."
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "이 크레딧 템플릿은 변경되거나 없어질 수 있습니다."
   }
 }
