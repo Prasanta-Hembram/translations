@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-settings-bookings-credit-templates-title": "Шаблони для кредитів",
-    "suite-page-organization-settings-bookings-credit-templates-create": "Створити шаблон для кредитів",
-    "suite-page-organization-settings-bookings-credit-templates-error-plans-empty": "Ще немає доступних шаблонів."
+    "suite-page-organization-settings-bookings-credit-templates-create": "Створити шаблон",
+    "suite-page-organization-settings-bookings-credit-templates-error-plans-empty": "Шаблони відсутні."
   }
 }
