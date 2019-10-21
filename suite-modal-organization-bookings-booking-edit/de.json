@@ -14,7 +14,7 @@
     "suite-modal-organization-bookings-booking-edit-estimated-price": "Geschätzter Preis: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Startdatum",
     "suite-modal-organization-bookings-booking-edit-memo": "Notiz",
-    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Notiz verfassen (nur für den Buchenden und Standort Manager sichtbar)",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Notiz verfassen (privat)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Methode",
     "suite-modal-organization-bookings-booking-edit-price": "Preis, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Titel",
