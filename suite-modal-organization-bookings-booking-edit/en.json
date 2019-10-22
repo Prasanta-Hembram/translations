@@ -14,7 +14,7 @@
     "suite-modal-organization-bookings-booking-edit-estimated-price": "Estimated price: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Start date",
     "suite-modal-organization-bookings-booking-edit-memo": "Memo",
-    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Type a memo (visible only to booker and branch manager)",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Type a memo (private)",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Method",
     "suite-modal-organization-bookings-booking-edit-price": "Price, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Title",
