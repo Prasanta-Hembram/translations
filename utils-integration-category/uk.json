@@ -1,7 +1,9 @@
 {
   "data": {
+    "utils-integration-category-acs-title": "Контроль доступу",
     "utils-integration-category-bookings-title": "Резервації",
     "utils-integration-category-communication-title": "Комунікація",
+    "utils-integration-category-crm-title": "CRM",
     "utils-integration-category-payments-title": "Платежі",
     "utils-integration-category-printing-title": "Друк"
   }
