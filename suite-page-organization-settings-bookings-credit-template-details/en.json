@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-settings-bookings-credit-template-details-title": "Credit Template",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Failed to delete credit template.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Delete credit template",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Failed to delete template.",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Delete template",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Try again",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "This Credit Template may not exist or may have been removed."
+    "suite-page-organization-settings-bookings-credit-template-details-empty": "This template may not exist or may have been removed."
   }
 }
