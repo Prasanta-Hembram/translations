@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-modal-organization-directory-user-plan-edit-title": "План",
+    "suite-modal-organization-directory-user-plan-edit-title": "Edit План",
     "suite-modal-organization-directory-user-plan-edit-credits": "Кредити",
     "suite-modal-organization-directory-user-plan-edit-period-from-title": "Початок",
     "suite-modal-organization-directory-user-plan-edit-period-title": "Період",
     "suite-modal-organization-directory-user-plan-edit-period-until-title": "Кінець",
-    "suite-modal-organization-directory-user-plan-edit-plan-title": "Назва",
+    "suite-modal-organization-directory-user-plan-edit-plan-title": "Template",
     "suite-modal-organization-directory-user-plan-edit-repeat": "Поновлення"
   }
 }
