@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-settings-bookings-credit-template-update-title": "Edit Credit Template",
+    "suite-modal-organization-settings-bookings-credit-template-update-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-update-name": "Name",
+    "suite-modal-organization-settings-bookings-credit-template-update-name-placeholder": "Type a name",
+    "suite-modal-organization-settings-bookings-credit-template-update-period": "Period"
+  }
+}
