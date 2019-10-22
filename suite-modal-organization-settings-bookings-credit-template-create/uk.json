@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-settings-bookings-credit-template-create-title": "Новий шаблон для кредитів",
+    "suite-modal-organization-settings-bookings-credit-template-create-credits": "Кредити, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-create-name": "Назва",
+    "suite-modal-organization-settings-bookings-credit-template-create-name-placeholder": "Уведіть назву плану",
+    "suite-modal-organization-settings-bookings-credit-template-create-period": "Period"
+  }
+}
