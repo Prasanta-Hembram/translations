@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-settings-directory-title": "Каталог",
+    "suite-page-organization-settings-directory-permission-admin-moderator": "Менеджеры отделения",
+    "suite-page-organization-settings-directory-permission-all-members": "Все участники",
+    "suite-page-organization-settings-directory-permission-label": "Доступ",
+    "suite-page-organization-settings-directory-section-required-personal-information-title": "Обязательная личная инормация",
+    "suite-page-organization-settings-directory-section-required-personal-information-description": "Все участники обязаны предоставить персональную информацию."
+  }
+}

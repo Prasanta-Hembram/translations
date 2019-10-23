@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-settings-membership-title": "Участь",
+    "suite-page-organization-settings-membership-permission-admin-moderator": "Менеджери відділення",
+    "suite-page-organization-settings-membership-permission-all-members": "Усі учасники",
+    "suite-page-organization-settings-membership-permission-label": "Доступ",
+    "suite-page-organization-settings-membership-team-business-permission-admin": "Лише менеджер відділення",
+    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Менеджер відділення та менеджер команди",
+    "suite-page-organization-settings-membership-team-business-permission-desc": "Виберіть, хто може змінювати інформацію про команду.",
+    "suite-page-organization-settings-membership-team-business-permission-label": "Змінити інформацію про команду"
+  }
+}
