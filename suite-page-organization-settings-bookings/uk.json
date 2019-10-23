@@ -2,13 +2,6 @@
   "data": {
     "suite-page-organization-settings-bookings-title": "Резервації",
     "suite-page-organization-settings-bookings-available-days-desc": "Виберіть дні, коли учасники можуть бронювати кімнати.",
-    "suite-page-organization-settings-bookings-available-days-friday": "П'ятниця",
-    "suite-page-organization-settings-bookings-available-days-monday": "Понеділок",
-    "suite-page-organization-settings-bookings-available-days-saturday": "Субота",
-    "suite-page-organization-settings-bookings-available-days-sunday": "Неділя",
-    "suite-page-organization-settings-bookings-available-days-thursday": "Четвер",
-    "suite-page-organization-settings-bookings-available-days-tuesday": "Вівторок",
-    "suite-page-organization-settings-bookings-available-days-wednesday": "Середа",
     "suite-page-organization-settings-bookings-available-days-title": "Доступні дні",
     "suite-page-organization-settings-bookings-booking-from": "Від",
     "suite-page-organization-settings-bookings-booking-from-until-desc": "Учасники зможуть зарезервувати кімнати в межах вказаних годин.",

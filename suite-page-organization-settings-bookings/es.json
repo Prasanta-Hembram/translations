@@ -2,13 +2,6 @@
   "data": {
     "suite-page-organization-settings-bookings-title": "Reservas",
     "suite-page-organization-settings-bookings-available-days-desc": "Seleccione los días en que los miembros pueden reservar salas de reuniones.",
-    "suite-page-organization-settings-bookings-available-days-friday": "Viernes",
-    "suite-page-organization-settings-bookings-available-days-monday": "Lunes",
-    "suite-page-organization-settings-bookings-available-days-saturday": "Sábado",
-    "suite-page-organization-settings-bookings-available-days-sunday": "Domingo",
-    "suite-page-organization-settings-bookings-available-days-thursday": "Jueves",
-    "suite-page-organization-settings-bookings-available-days-tuesday": "Martes",
-    "suite-page-organization-settings-bookings-available-days-wednesday": "Miércoles",
     "suite-page-organization-settings-bookings-available-days-title": "Días disponibles",
     "suite-page-organization-settings-bookings-booking-from": "A partir de",
     "suite-page-organization-settings-bookings-booking-from-until-desc": "Los miembros podrán reservar salas de reuniones desde y hasta las horas seleccionadas.",

@@ -2,13 +2,6 @@
   "data": {
     "suite-page-organization-settings-bookings-title": "Bookings",
     "suite-page-organization-settings-bookings-available-days-desc": "The days when members can book meeting rooms.",
-    "suite-page-organization-settings-bookings-available-days-friday": "Friday",
-    "suite-page-organization-settings-bookings-available-days-monday": "Monday",
-    "suite-page-organization-settings-bookings-available-days-saturday": "Saturday",
-    "suite-page-organization-settings-bookings-available-days-sunday": "Sunday",
-    "suite-page-organization-settings-bookings-available-days-thursday": "Thursday",
-    "suite-page-organization-settings-bookings-available-days-tuesday": "Tuesday",
-    "suite-page-organization-settings-bookings-available-days-wednesday": "Wednesday",
     "suite-page-organization-settings-bookings-available-days-title": "Available Days",
     "suite-page-organization-settings-bookings-booking-from": "From",
     "suite-page-organization-settings-bookings-booking-from-until-desc": "Members will be able to book meeting rooms from and until the selected hours.",

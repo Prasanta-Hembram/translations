@@ -2,13 +2,6 @@
   "data": {
     "suite-page-organization-settings-bookings-title": "Бронирования",
     "suite-page-organization-settings-bookings-available-days-desc": "Выберите дни, когда участники могут бронировать переговорные.",
-    "suite-page-organization-settings-bookings-available-days-friday": "Пятница",
-    "suite-page-organization-settings-bookings-available-days-monday": "Понедельник",
-    "suite-page-organization-settings-bookings-available-days-saturday": "Суббота",
-    "suite-page-organization-settings-bookings-available-days-sunday": "Воскресенье",
-    "suite-page-organization-settings-bookings-available-days-thursday": "Четверг",
-    "suite-page-organization-settings-bookings-available-days-tuesday": "Вторник",
-    "suite-page-organization-settings-bookings-available-days-wednesday": "Среда",
     "suite-page-organization-settings-bookings-available-days-title": "Доступные дни",
     "suite-page-organization-settings-bookings-booking-from": "Начало",
     "suite-page-organization-settings-bookings-booking-from-until-desc": "Участники смогут забронировать переговорные в указанные часы.",

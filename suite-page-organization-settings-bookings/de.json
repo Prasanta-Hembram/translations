@@ -2,13 +2,6 @@
   "data": {
     "suite-page-organization-settings-bookings-title": "Buchungen",
     "suite-page-organization-settings-bookings-available-days-desc": "Die Tage, an denen Mitglieder Konferenzräume buchen können.",
-    "suite-page-organization-settings-bookings-available-days-friday": "Freitag",
-    "suite-page-organization-settings-bookings-available-days-monday": "Montag",
-    "suite-page-organization-settings-bookings-available-days-saturday": "Samstag",
-    "suite-page-organization-settings-bookings-available-days-sunday": "Sonntag",
-    "suite-page-organization-settings-bookings-available-days-thursday": "Donnerstag",
-    "suite-page-organization-settings-bookings-available-days-tuesday": "Dienstag",
-    "suite-page-organization-settings-bookings-available-days-wednesday": "Mittwoch",
     "suite-page-organization-settings-bookings-available-days-title": "Verfügbare Tage",
     "suite-page-organization-settings-bookings-booking-from": "Von",
     "suite-page-organization-settings-bookings-booking-from-until-desc": "Mitglieder können Konferenzräume von und bis zu den ausgewählten Uhrzeiten buchen.",
