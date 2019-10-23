@@ -14,7 +14,7 @@
     "suite-modal-organization-bookings-booking-edit-estimated-price": "Ориентировочная цена: {currency}",
     "suite-modal-organization-bookings-booking-edit-label-start-date": "Дата начала",
     "suite-modal-organization-bookings-booking-edit-memo": "Заметка",
-    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Введите заметку (конфиденциально)",
+    "suite-modal-organization-bookings-booking-edit-memo-placeholder": "Добавить личную заметку",
     "suite-modal-organization-bookings-booking-edit-payed-with": "Cредство",
     "suite-modal-organization-bookings-booking-edit-price": "Цена, {currency}",
     "suite-modal-organization-bookings-booking-edit-purpose": "Название",

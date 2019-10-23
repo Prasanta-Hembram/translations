@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-access-control-main-title": "Доступ",
-    "suite-page-organization-access-control-main-controller-default": "Контроллер",
-    "suite-page-organization-access-control-main-get-failure": "Не удалось отобразить устройства. Проверьте интернет-соединение.",
-    "suite-page-organization-access-control-main-no-access-control": "В коворкинге нет кардридеров.",
-    "suite-page-organization-access-control-main-no-readers": "В коворкинге нет кардридеров."
-  }
-}

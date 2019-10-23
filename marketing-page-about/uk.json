@@ -2,7 +2,6 @@
   "data": {
     "marketing-page-about-title": "Про andcards - хто ми і що ми робимо | andcards",
     "marketing-page-about-description": "andcards - це те, як люди бронюють, платять та спілкуються в коворкінг-центрах. Саме так коворкінг-простори стають цифровими продуктами, які живуть у кишенях своїх резидентів.",
-    "marketing-page-about-contacts": "Контакти",
     "marketing-page-about-mission-description": "В andcards ми переконані, що існує кращий спосіб працювати. Оточення сірого офісу й однакових облич — це минуле. Наша команда впевнена, що майбутнє — за гнучким робочим місцем, коли люди вільні від стін. Відкрити для себе безліч неймовірних робочих місць з усього світу, або керувати й автоматизувати робочий простір — andcards прагне революціонізувати робочу культуру на всіх її рівнях.",
     "marketing-page-about-mission-title": "Ми робимо коворкінги крутішими й ефективнішими",
     "marketing-page-about-team-title": "Хто ми",
@@ -14,9 +13,6 @@
     "marketing-page-about-team-position-mm": "Маркетинг",
     "marketing-page-about-team-position-se": "Розробка програмного забезпечення",
     "marketing-page-about-team-position-rm-latam": "Продажі та підтримка клієнтів - Латинська Америка",
-    "marketing-page-about-team-position-rm-europe": "Продажі та підтримка клієнтів - Європа",
-    "marketing-page-about-what-we-do-kiosk-description": "Застосунок для планшетів в кімнатах для переговорів.",
-    "marketing-page-about-what-we-do-suite-description": "Програмне забезпечення для автоматизації коворкінг центрів.",
-    "marketing-page-about-what-we-do-title": "Що ми робимо"
+    "marketing-page-about-team-position-rm-europe": "Продажі та підтримка клієнтів - Європа"
   }
 }
