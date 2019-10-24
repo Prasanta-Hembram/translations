@@ -1,13 +1,13 @@
 {
   "data": {
     "suite-modal-organization-directory-team-plan-assign-title": "Присвоить план",
-    "suite-modal-organization-directory-team-plan-assign-button-for-free": "Присвоить бесплатно",
+    "suite-modal-organization-directory-team-plan-assign-button-assign": "Присвоить",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "Отсутствуют тарифные планы. Cоздайте план на странице Участие/Все тарифные планы.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Эта страница не существует или же была удалена.",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Начало",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Период",
     "suite-modal-organization-directory-team-plan-assign-plan-price-points": "Кредиты, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-assign-plan-repeat": "Продление",
-    "suite-modal-organization-directory-team-plan-assign-plan-title": "План"
+    "suite-modal-organization-directory-team-plan-assign-plan-title": "Шаблон"
   }
 }

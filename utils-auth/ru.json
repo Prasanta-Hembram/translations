@@ -6,20 +6,13 @@
     "utils-auth-code": "Код подтверждения",
     "utils-auth-code-description": "Код подтверждения был отправлен на {emailAddress}.",
     "utils-auth-code-invalid": "Введите правильный код подтверждения из текстового сообщения.",
-    "utils-auth-country": "Страна",
     "utils-auth-email": "Email",
     "utils-auth-email-invalid": "Email неверен или подключен к другой учетной записи.",
     "utils-auth-link-privacy-policy": "политикой конфиденциальности",
     "utils-auth-link-terms-of-use": "условиями использования",
     "utils-auth-login-options": "Опции входа",
-    "utils-auth-login-with-facebook": "Вход через Facebook",
-    "utils-auth-login-with-google": "Вход через Google",
     "utils-auth-next-step": "Продолжить",
-    "utils-auth-number": "Номер",
-    "utils-auth-number-invalid": "Невозможно войти с помощью номера телефона, он введен неверно или не привязан ни к одному аккаунту.",
-    "utils-auth-phone-number": "Номер телефона",
     "utils-auth-type-code": "Ввести код подтверждения",
-    "utils-auth-type-email-here": "Ввести email",
-    "utils-auth-type-phone-number-here": "Ввести номер"
+    "utils-auth-type-email-here": "Ввести email"
   }
 }

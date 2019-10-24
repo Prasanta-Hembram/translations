@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-settings-bookings-credit-template-create-title": "Nuevo Credit Template",
+    "suite-modal-organization-settings-bookings-credit-template-create-credits": "Créditos, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-create-name": "Nombre",
+    "suite-modal-organization-settings-bookings-credit-template-create-name-placeholder": "Agregar nombre",
+    "suite-modal-organization-settings-bookings-credit-template-create-period": "Período"
+  }
+}

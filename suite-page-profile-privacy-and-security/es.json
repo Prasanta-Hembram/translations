@@ -5,12 +5,8 @@
     "suite-page-profile-privacy-and-security-delete-account-description": "Permanently delete your account and all of your content.",
     "suite-page-profile-privacy-and-security-delete-account-title": "Eliminar cuenta",
     "suite-page-profile-privacy-and-security-email-label": "Email",
-    "suite-page-profile-privacy-and-security-email-notice": "Conecte su correo electrónico para iniciar sesión en tu cuenta. Poco a poco dejaremos de utilizar otros métodos de acceso.",
+    "suite-page-profile-privacy-and-security-email-notice": "Conecte su correo electrónico para iniciar sesión en tu cuenta.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "No conectado",
-    "suite-page-profile-privacy-and-security-legacy-login-method-phone-number-label": "Número telefónico",
-    "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "Facebook",
-    "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "Google",
-    "suite-page-profile-privacy-and-security-legacy-login-methods-title": "Métodos de inicio de sesión heredados",
     "suite-page-profile-privacy-and-security-sessions-button": "Salir de otras sesiones",
     "suite-page-profile-privacy-and-security-sessions-description": "Esto le permitirá salir de las sesiones en otros navegadores o en otros ordenadores.",
     "suite-page-profile-privacy-and-security-sessions-title": "Salir de todas las demás sesiones"
