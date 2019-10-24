@@ -1,0 +1,27 @@
+{
+  "data": {
+    "suite-page-organization-settings-bookings-title": "Reservas",
+    "suite-page-organization-settings-bookings-available-days-desc": "Seleccione los días en que los miembros pueden reservar salas de reuniones.",
+    "suite-page-organization-settings-bookings-available-days-title": "Días disponibles",
+    "suite-page-organization-settings-bookings-booking-from": "A partir de",
+    "suite-page-organization-settings-bookings-booking-from-until-desc": "Los miembros podrán reservar salas de reuniones desde y hasta las horas seleccionadas.",
+    "suite-page-organization-settings-bookings-booking-period": "Período",
+    "suite-page-organization-settings-bookings-booking-period-desc": "Los miembros podrán reservar por adelantado hasta el período seleccionado arriba.",
+    "suite-page-organization-settings-bookings-booking-period-half-year": "6 meses",
+    "suite-page-organization-settings-bookings-booking-period-one-month": "1 mes",
+    "suite-page-organization-settings-bookings-booking-period-one-week": "1 semana",
+    "suite-page-organization-settings-bookings-booking-period-one-year": "1 año",
+    "suite-page-organization-settings-bookings-booking-period-three-months": "3 meses",
+    "suite-page-organization-settings-bookings-booking-period-two-weeks": "2 semanas",
+    "suite-page-organization-settings-bookings-booking-purpose-required": "Propósito de reserva requerido",
+    "suite-page-organization-settings-bookings-booking-purpose-required-desc": "Elija si los miembros deben ingresar el título cuando crean reservas.",
+    "suite-page-organization-settings-bookings-booking-until": "Hasta",
+    "suite-page-organization-settings-bookings-credit-system": "Creditos",
+    "suite-page-organization-settings-bookings-invoicing-team-enabled": "Método de pago de la factura del equipo.",
+    "suite-page-organization-settings-bookings-invoicing-team-enabled-desc": "Los miembros del equipo podrán reservar salas de reuniones y pagar más tarde con una factura.",
+    "suite-page-organization-settings-bookings-point-desc": "Los miembros pueden usar créditos para reservar salas de reuniones. Los créditos se pueden recibir a través de la compra de un plan de membresía o se pueden agregar manualmente por el gerente de sucursal.",
+    "suite-page-organization-settings-bookings-point-label": "Sistema de crédito",
+    "suite-page-organization-settings-bookings-point-network-quote-desc": "Porcentaje de créditos que los miembros de una sucursal pueden gastar en otras sucursales de una red. Póngase en contacto con support@andcards.com para cambiarlo.",
+    "suite-page-organization-settings-bookings-point-network-quote-label": "Asignación de red"
+  }
+}

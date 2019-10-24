@@ -1,0 +1,27 @@
+{
+  "data": {
+    "suite-page-organization-settings-bookings-title": "Бронирования",
+    "suite-page-organization-settings-bookings-available-days-desc": "Выберите дни, когда участники могут бронировать переговорные.",
+    "suite-page-organization-settings-bookings-available-days-title": "Доступные дни",
+    "suite-page-organization-settings-bookings-booking-from": "Начало",
+    "suite-page-organization-settings-bookings-booking-from-until-desc": "Участники смогут забронировать переговорные в указанные часы.",
+    "suite-page-organization-settings-bookings-booking-period": "Период доступности",
+    "suite-page-organization-settings-bookings-booking-period-desc": "Максимальный период в который участники могут заранее бронировать переговорные.",
+    "suite-page-organization-settings-bookings-booking-period-half-year": "6 месяцев",
+    "suite-page-organization-settings-bookings-booking-period-one-month": "1 месяц",
+    "suite-page-organization-settings-bookings-booking-period-one-week": "1 неделя",
+    "suite-page-organization-settings-bookings-booking-period-one-year": "1 год",
+    "suite-page-organization-settings-bookings-booking-period-three-months": "3 месяца",
+    "suite-page-organization-settings-bookings-booking-period-two-weeks": "2 недели",
+    "suite-page-organization-settings-bookings-booking-purpose-required": "Название бронирования обязательно",
+    "suite-page-organization-settings-bookings-booking-purpose-required-desc": "Если эта опция включена, то участники обязательно должны указать название бронирования.",
+    "suite-page-organization-settings-bookings-booking-until": "Конец",
+    "suite-page-organization-settings-bookings-credit-system": "Кредиты",
+    "suite-page-organization-settings-bookings-invoicing-team-enabled": "Платежи по инвойсам для команд",
+    "suite-page-organization-settings-bookings-invoicing-team-enabled-desc": "Участники команд могут выбрать инвойс среди средств оплаты за бронирование переговорных, и заплатить позже.",
+    "suite-page-organization-settings-bookings-point-desc": "Участники могут использовать кредиты для бронирования переговорных. Кредиты могут быть получены путем покупки тарифного плана или добавлены вручную менеджером отделения.",
+    "suite-page-organization-settings-bookings-point-label": "Кредитная система",
+    "suite-page-organization-settings-bookings-point-network-quote-desc": "Количество кредитов, которое участники одного коворкинга могут использовать в сети коворкингов. Чтобы изменить лимит, свяжитесь с support@andcards.com.",
+    "suite-page-organization-settings-bookings-point-network-quote-label": "Использование в сети"
+  }
+}

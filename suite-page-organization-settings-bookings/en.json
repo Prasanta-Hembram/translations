@@ -1,0 +1,27 @@
+{
+  "data": {
+    "suite-page-organization-settings-bookings-title": "Bookings",
+    "suite-page-organization-settings-bookings-available-days-desc": "The days when members can book meeting rooms.",
+    "suite-page-organization-settings-bookings-available-days-title": "Available Days",
+    "suite-page-organization-settings-bookings-booking-from": "From",
+    "suite-page-organization-settings-bookings-booking-from-until-desc": "Members will be able to book meeting rooms from and until the selected hours.",
+    "suite-page-organization-settings-bookings-booking-period": "Period",
+    "suite-page-organization-settings-bookings-booking-period-desc": "Members will be able to book ahead up to the selected period above.",
+    "suite-page-organization-settings-bookings-booking-period-half-year": "6 months",
+    "suite-page-organization-settings-bookings-booking-period-one-month": "1 month",
+    "suite-page-organization-settings-bookings-booking-period-one-week": "1 week",
+    "suite-page-organization-settings-bookings-booking-period-one-year": "1 year",
+    "suite-page-organization-settings-bookings-booking-period-three-months": "3 months",
+    "suite-page-organization-settings-bookings-booking-period-two-weeks": "2 weeks",
+    "suite-page-organization-settings-bookings-booking-purpose-required": "Title Required",
+    "suite-page-organization-settings-bookings-booking-purpose-required-desc": "Require members to type a title.",
+    "suite-page-organization-settings-bookings-booking-until": "Until",
+    "suite-page-organization-settings-bookings-credit-system": "Credits",
+    "suite-page-organization-settings-bookings-invoicing-team-enabled": "Team Invoice Payment Method",
+    "suite-page-organization-settings-bookings-invoicing-team-enabled-desc": "Team members will be able to book meeting rooms and pay later with an invoice.",
+    "suite-page-organization-settings-bookings-point-desc": "Bonus credits will be used for room booking. Branch Manager can freely give credits to members.",
+    "suite-page-organization-settings-bookings-point-label": "Credit System",
+    "suite-page-organization-settings-bookings-point-network-quote-desc": "Percentage of credits that members of one branch can spend in other branches of a network. To change it contact support@andcards.com.",
+    "suite-page-organization-settings-bookings-point-network-quote-label": "Network Allowance"
+  }
+}
