@@ -5,12 +5,8 @@
     "suite-page-profile-privacy-and-security-delete-account-description": "Permanently delete your account and all of your content.",
     "suite-page-profile-privacy-and-security-delete-account-title": "Delete account",
     "suite-page-profile-privacy-and-security-email-label": "Email",
-    "suite-page-profile-privacy-and-security-email-notice": "Connect your email to login to your account. We will gradually discontinue other login methods.",
+    "suite-page-profile-privacy-and-security-email-notice": "Connect your email to login to your account.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "Not connected",
-    "suite-page-profile-privacy-and-security-legacy-login-method-phone-number-label": "Phone Number",
-    "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "Facebook",
-    "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "Google",
-    "suite-page-profile-privacy-and-security-legacy-login-methods-title": "Legacy Login Methods",
     "suite-page-profile-privacy-and-security-sessions-button": "Sign out other sessions",
     "suite-page-profile-privacy-and-security-sessions-description": "This will sign you out of sessions in other browsers or on other computers.",
     "suite-page-profile-privacy-and-security-sessions-title": "Sign out of all other sessions"

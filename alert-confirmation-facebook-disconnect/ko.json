@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-facebook-disconnect-title": "Facebook 연결을 끊기",
-    "alert-confirmation-facebook-disconnect-no": "돌아가기",
-    "alert-confirmation-facebook-disconnect-text": "계속 진행하면 앞으로 Facebook으로 로그인 할 수 없습니다.",
-    "alert-confirmation-facebook-disconnect-yes": "연결을 끊기"
-  }
-}
