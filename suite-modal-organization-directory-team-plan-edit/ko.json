@@ -1,12 +1,11 @@
 {
   "data": {
-    "suite-modal-organization-directory-team-plan-edit-title": "멤버십 플랜",
-    "suite-modal-organization-directory-team-plan-edit-benefits": "베네핏",
+    "suite-modal-organization-directory-team-plan-edit-title": "플랜 편집",
     "suite-modal-organization-directory-team-plan-edit-credits": "크레딧",
     "suite-modal-organization-directory-team-plan-edit-period-from-title": "시작",
     "suite-modal-organization-directory-team-plan-edit-period-title": "기간",
     "suite-modal-organization-directory-team-plan-edit-period-until-title": "종료시간",
-    "suite-modal-organization-directory-team-plan-edit-plan-title": "플랜 명",
+    "suite-modal-organization-directory-team-plan-edit-plan-title": "템플릿",
     "suite-modal-organization-directory-team-plan-edit-repeat-label": "정기구독"
   }
 }

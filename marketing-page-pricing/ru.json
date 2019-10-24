@@ -1,7 +1,7 @@
 {
   "data": {
-    "marketing-page-pricing-title": "Цены — сколько стоит andcards для коворкингов | andcards",
-    "marketing-page-pricing-description": "Бесплатное, недорогое приложение для коворкингов. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
+    "marketing-page-pricing-meta-title": "Цены — сколько стоит andcards для коворкингов | andcards",
+    "marketing-page-pricing-meta-description": "Бесплатное, недорогое приложение для коворкингов. Начните строить свое сообщество прямо сейчас с бесплатной пробной версии!",
     "marketing-page-pricing-add-ons-branded-member-portal-title": "Портал с вашим брендом",
     "marketing-page-pricing-add-ons-branded-mobile-apps-title": "Мобильные приложения с вашим брендом",
     "marketing-page-pricing-features-host-on-your-own-server": "Хостинг на собственном сервере",
@@ -15,7 +15,7 @@
     "marketing-page-pricing-features-ios-android-app": "Приложения iOS, Android",
     "marketing-page-pricing-features-web-app": "Веб-приложение",
     "marketing-page-pricing-features-web-app-self-hosted": "На вашем сервере",
-    "marketing-page-pricing-features-meeting-room-dislpay-app": "Для планшетов в переговорных",
+    "marketing-page-pricing-features-meeting-room-dislpay": "Дисплей для планшетов в переговорных",
     "marketing-page-pricing-features-multiple-location-support": "Поддержка нескольких отделений",
     "marketing-page-pricing-headline": "Правильная цена, независимо от размера",
     "marketing-page-pricing-plan-basic-sign-up-button": "Регистрация",
@@ -29,8 +29,6 @@
     "marketing-page-pricing-price-notice": "Цены указаны до налогов. Чтобы уточнить сумму, свяжитесь с нами.",
     "marketing-page-pricing-price-per-month": "в месяц",
     "marketing-page-pricing-price-per-month-billed-annually": "в месяц, оплата за год",
-    "marketing-page-pricing-questions-title": "Возникли вопросы?",
-    "marketing-page-pricing-questions-description": "Свяжитесь с нами. Мы доступны 24/7, даже в праздничные дни.",
     "marketing-page-pricing-subheadline": "Одно или несколько отделений — цена сервиса andcards от этого не меняется. Получите доступ к полезным функциям всего за $29 за месяц. Доступна скидка при условии подписки на год.",
     "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Количество переговорных",
     "marketing-page-pricing-toolbox-payment-term-title": "Условия оплаты",

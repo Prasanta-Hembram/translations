@@ -1,13 +1,13 @@
 {
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Assign plan",
-    "suite-modal-organization-directory-user-plan-assign-button-for-free": "Assign for free",
+    "suite-modal-organization-directory-user-plan-assign-button-assign": "Assign",
     "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "There are no plans yet. Create a plan first on Membership/All Plans page.",
     "suite-modal-organization-directory-user-plan-assign-error-not-found": "This page may not exist or may have been removed.",
     "suite-modal-organization-directory-user-plan-assign-period-from-title": "Start",
     "suite-modal-organization-directory-user-plan-assign-period-title": "Period",
     "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Credits, {pointEmoji}",
-    "suite-modal-organization-directory-user-plan-assign-plan-title": "Plan",
+    "suite-modal-organization-directory-user-plan-assign-plan-title": "Template",
     "suite-modal-organization-directory-user-plan-assign-repeat-label": "Repeat"
   }
 }
