@@ -5,12 +5,8 @@
     "suite-page-profile-privacy-and-security-delete-account-description": "Видалити свій обліковий запис і всі дані назавжди.",
     "suite-page-profile-privacy-and-security-delete-account-title": "Видалити обліковий запис",
     "suite-page-profile-privacy-and-security-email-label": "Email",
-    "suite-page-profile-privacy-and-security-email-notice": "Під'єднайте email для входу в обліковий запис. Інші методи входу будуть поступово виведені з ужитку.",
+    "suite-page-profile-privacy-and-security-email-notice": "Під'єднайте email для входу в обліковий запис.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "Не під'єднано",
-    "suite-page-profile-privacy-and-security-legacy-login-method-phone-number-label": "Телефон",
-    "suite-page-profile-privacy-and-security-legacy-login-method-facebook-label": "Facebook",
-    "suite-page-profile-privacy-and-security-legacy-login-method-google-label": "Google",
-    "suite-page-profile-privacy-and-security-legacy-login-methods-title": "Застарілі методи входу",
     "suite-page-profile-privacy-and-security-sessions-button": "Вийти з інших сесій",
     "suite-page-profile-privacy-and-security-sessions-description": "Це закінчить всі сесії в інших браузерах та комп'ютерах.",
     "suite-page-profile-privacy-and-security-sessions-title": "Вийти з всіх інших сесій"

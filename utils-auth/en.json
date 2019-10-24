@@ -6,20 +6,13 @@
     "utils-auth-code": "Confirmation Code",
     "utils-auth-code-description": "The code was sent to {emailAddress}.",
     "utils-auth-code-invalid": "Type a valid code from a text message.",
-    "utils-auth-country": "Country",
     "utils-auth-email": "Email",
     "utils-auth-email-invalid": "The email is incorrect or connected to another account.",
     "utils-auth-link-privacy-policy": "Privacy Policy",
     "utils-auth-link-terms-of-use": "Terms of Use",
     "utils-auth-login-options": "Login Options",
-    "utils-auth-login-with-facebook": "Login with Facebook",
-    "utils-auth-login-with-google": "Login with Google",
     "utils-auth-next-step": "Continue",
-    "utils-auth-number": "Number",
-    "utils-auth-number-invalid": "Unable to login with the phone number, because it is incorrect or not associated with any existing account.",
-    "utils-auth-phone-number": "Phone Number",
     "utils-auth-type-code": "Type code",
-    "utils-auth-type-email-here": "Type email here",
-    "utils-auth-type-phone-number-here": "Type number"
+    "utils-auth-type-email-here": "Type email here"
   }
 }

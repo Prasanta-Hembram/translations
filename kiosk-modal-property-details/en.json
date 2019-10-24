@@ -1,8 +1,0 @@
-{
-  "data": {
-    "kiosk-modal-property-details-availability-available": "Available for {time}",
-    "kiosk-modal-property-details-availability-in-minutes": "Available {time}",
-    "kiosk-modal-property-details-availability-unavailable": "Unavailable",
-    "kiosk-modal-property-details-next-bookings-label": "Next Bookings"
-  }
-}

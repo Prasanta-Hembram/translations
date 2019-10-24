@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-bookings-property-display-availability-available": "{time} 동안 예약 가능",
+    "suite-modal-organization-bookings-property-display-availability-in-minutes": "{time} 예약 가능",
+    "suite-modal-organization-bookings-property-display-availability-unavailable": "사용 중",
+    "suite-modal-organization-bookings-property-display-next-bookings-label": "다음 예약"
+  }
+}

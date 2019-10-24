@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-bookings-property-display-availability-available": "Disponible por {time}",
+    "suite-modal-organization-bookings-property-display-availability-in-minutes": "Disponible {time}",
+    "suite-modal-organization-bookings-property-display-availability-unavailable": "No disponible",
+    "suite-modal-organization-bookings-property-display-next-bookings-label": "Próximas reservas"
+  }
+}

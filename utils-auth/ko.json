@@ -6,20 +6,13 @@
     "utils-auth-code": "인증번호",
     "utils-auth-code-description": "인증번호가 {emailAddress}로 발송되었습니다.",
     "utils-auth-code-invalid": "문자로 받으신 인증번호를 입력해주세요.",
-    "utils-auth-country": "국가",
     "utils-auth-email": "이메일",
     "utils-auth-email-invalid": "이메일이 올바르지 않거나 다른 계정이 로그인 되어있습니다.",
     "utils-auth-link-privacy-policy": "개인정보 보호정책",
     "utils-auth-link-terms-of-use": "이용약관",
     "utils-auth-login-options": "로그인 방법",
-    "utils-auth-login-with-facebook": "Facebook으로 로그인하기",
-    "utils-auth-login-with-google": "Google로 로그인하기",
     "utils-auth-next-step": "계속하기",
-    "utils-auth-number": "휴대전화번호",
-    "utils-auth-number-invalid": "전화 번호가 잘못되었거나 기존 계정과 연결되어 있지 않기 때문에 전화 번호로 로그인할 수 없습니다.",
-    "utils-auth-phone-number": "휴대전화번호",
     "utils-auth-type-code": "인증번호를 입력하기",
-    "utils-auth-type-email-here": "이메일을 입력하기",
-    "utils-auth-type-phone-number-here": "예)1012345678"
+    "utils-auth-type-email-here": "이메일을 입력하기"
   }
 }
