@@ -1,9 +1,0 @@
-{
-  "data": {
-    "kiosk-page-my-properties-title": "Мои переговорные",
-    "kiosk-page-my-properties-andcards-suite-button": "Открыть andcards",
-    "kiosk-page-my-properties-error-no-internet": "Переговорные не отображаются. Проверьте интернет-соединение.",
-    "kiosk-page-my-properties-error-no-properties": "Необходимы права доступа менеджера отделения, чтобы увидеть здесь комнаты.",
-    "kiosk-page-my-properties-logout-button": "Выйти из системы"
-  }
-}
