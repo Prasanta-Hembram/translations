@@ -1,6 +1,6 @@
 {
   "data": {
-    "payments-page-stripe-title": "Pago con Stripe | andcards",
+    "payments-page-stripe-meta-title": "Pago con Stripe | andcards",
     "payments-page-stripe-field-email-label": "Email",
     "payments-page-stripe-field-email-placeholder": "Tipo de email",
     "payments-page-stripe-page-privacy-description": "Su información personal será enviada al proveedor de pago para procesar el pago.",

@@ -1,6 +1,6 @@
 {
   "data": {
-    "payments-page-kakaopay-title": "Pay with KakaoPay | andcards",
+    "payments-page-kakaopay-meta-title": "Pay with KakaoPay | andcards",
     "payments-page-kakaopay-page-title-booking": "Pay for Booking",
     "payments-page-kakaopay-page-title-invoice": "Pay for Invoice",
     "payments-page-kakaopay-page-error": "The payment request has already completed or does not exist.",

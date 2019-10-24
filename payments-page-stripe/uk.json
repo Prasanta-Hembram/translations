@@ -1,6 +1,6 @@
 {
   "data": {
-    "payments-page-stripe-title": "Оплата по Stripe | andcards",
+    "payments-page-stripe-meta-title": "Оплата по Stripe | andcards",
     "payments-page-stripe-field-email-label": "Email",
     "payments-page-stripe-field-email-placeholder": "Уведіть email",
     "payments-page-stripe-page-privacy-description": "Ваші персональні дані будуть відправлені в платіжну систему для того, щоб провести платіж.",

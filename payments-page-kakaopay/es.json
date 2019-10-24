@@ -1,6 +1,6 @@
 {
   "data": {
-    "payments-page-kakaopay-title": "Pago con KakaoPay | andcards",
+    "payments-page-kakaopay-meta-title": "Pago con KakaoPay | andcards",
     "payments-page-kakaopay-page-title-booking": "Pagar por la reserva",
     "payments-page-kakaopay-page-title-invoice": "Pagar la factura",
     "payments-page-kakaopay-page-error": "La solicitud de pago ya se ha completado o no existe.",
