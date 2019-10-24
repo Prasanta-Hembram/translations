@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-settings-membership-title": "Membresía",
+    "suite-page-organization-settings-membership-permission-admin-moderator": "Gerentes de sucursal",
+    "suite-page-organization-settings-membership-permission-all-members": "Todos los miembros",
+    "suite-page-organization-settings-membership-permission-label": "Visibilidad",
+    "suite-page-organization-settings-membership-team-business-permission-admin": "Sólo Admin",
+    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Gerente de sucursal y gerente de equipo",
+    "suite-page-organization-settings-membership-team-business-permission-desc": "Selecciona quién puede modificar la información empresarial",
+    "suite-page-organization-settings-membership-team-business-permission-label": "Actualizar la información empresarial"
+  }
+}
