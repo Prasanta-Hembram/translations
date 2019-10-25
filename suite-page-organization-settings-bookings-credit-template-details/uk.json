@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-settings-bookings-credit-template-details-title": "Шаблон для кредитів",
     "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "Не вдалось видалити шаблон.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Видалити шаблон для кредитів",
+    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Видалити",
     "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Спробувати знову",
     "suite-page-organization-settings-bookings-credit-template-details-empty": "Цього шаблону не існує, або ж він був видалений."
   }

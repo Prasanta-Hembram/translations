@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-settings-membership-title": "Mitgliedschaft",
+    "suite-page-organization-settings-membership-permission-admin-moderator": "Standort Manager",
+    "suite-page-organization-settings-membership-permission-all-members": "Alle Mitglieder",
+    "suite-page-organization-settings-membership-permission-label": "Sichtbarkeit",
+    "suite-page-organization-settings-membership-team-business-permission-admin": "Nur Standort Manager",
+    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Standort Manager und Team Manager",
+    "suite-page-organization-settings-membership-team-business-permission-desc": "Wählen Sie aus, wer Geschäftsinformationen ändern darf.",
+    "suite-page-organization-settings-membership-team-business-permission-label": "Aktualisieren von Geschäftsinformationen"
+  }
+}
