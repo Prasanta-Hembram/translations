@@ -44,13 +44,13 @@
     "invoice-item-booking": "Резервація кімнати ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Оплата за {paymentDate}",
     "invoice-title": "Інвойс #{invoiceId}",
-    "kakaopay-payment-intent-booking-description": "Резервація кімнати ({roomName}) {bookingDate}",
-    "kakaopay-payment-intent-default-description": "Оплата за {paymentDate}",
-    "kakaopay-payment-intent-invoice-description": "Інвойс ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "Ваш тарифний план стікає за 5 днів. Купіть новий план, щоб залишитися.",
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифний план стікає вже завтра. Купіть новий план, щоб залишитися.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифний план буде автоматично подовжено за 5 днів.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифний план буде автоматично подовжено завтра.",
+    "payment-intent-booking-description": "Резервація кімнати ({roomName}) {bookingDate}",
+    "payment-intent-default-description": "Оплата за {paymentDate}",
+    "payment-intent-invoice-description": "Інвойс ({invoiceDate})",
     "powered-by-andcards": "Сервіс від {andcardsUrl}"
   }
 }
