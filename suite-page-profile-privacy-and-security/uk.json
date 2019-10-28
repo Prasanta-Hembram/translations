@@ -1,9 +1,6 @@
 {
   "data": {
     "suite-page-profile-privacy-and-security-title": "Приватність та безпека",
-    "suite-page-profile-privacy-and-security-delete-account-button": "Видалити обліковий запис",
-    "suite-page-profile-privacy-and-security-delete-account-description": "Видалити свій обліковий запис і всі дані назавжди.",
-    "suite-page-profile-privacy-and-security-delete-account-title": "Видалити обліковий запис",
     "suite-page-profile-privacy-and-security-email-label": "Email",
     "suite-page-profile-privacy-and-security-email-notice": "Під'єднайте email для входу в обліковий запис.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "Не під'єднано",

@@ -1,9 +1,6 @@
 {
   "data": {
     "suite-page-profile-privacy-and-security-title": "Конфиденциальность и безопасность",
-    "suite-page-profile-privacy-and-security-delete-account-button": "Удалить учетную запись",
-    "suite-page-profile-privacy-and-security-delete-account-description": "Удалить свою учетную запись и всю информацию навсегда.",
-    "suite-page-profile-privacy-and-security-delete-account-title": "Удалить учетную запись",
     "suite-page-profile-privacy-and-security-email-label": "Email",
     "suite-page-profile-privacy-and-security-email-notice": "Подключите email для входа в учетную запись.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "Не подключен",

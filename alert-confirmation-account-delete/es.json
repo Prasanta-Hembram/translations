@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-account-delete-title": "Eliminar cuenta",
-    "alert-confirmation-account-delete-no": "Cancelar",
-    "alert-confirmation-account-delete-text": "Si continúa, se perderán todos sus datos. La eliminación de la cuenta es irreversible. No podremos restaurar su información.",
-    "alert-confirmation-account-delete-yes": "Eliminar"
-  }
-}
