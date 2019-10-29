@@ -3,7 +3,9 @@
     "suite-page-organization-integrations-main-title": "Інтеграції",
     "suite-page-organization-integrations-main-intercom-subtitle": "Організуйте спілкування з клієнтами",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Автоматизуйте імейл маркетинг",
+    "suite-page-organization-integrations-main-kakaopay-subtitle": "Payment gateway for bookings and invoices",
     "suite-page-organization-integrations-main-sindoh-subtitle": "Отримуйте інформацію, скільки сторінок друкують ваші резиденти",
+    "suite-page-organization-integrations-main-stream-subtitle": "Community communication feed",
     "suite-page-organization-integrations-main-stripe-subtitle": "Приймайте оплату карткою за резервації"
   }
 }

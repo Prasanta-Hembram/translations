@@ -1,9 +1,12 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Integraciones",
+    "suite-page-organization-integrations-main-flow-subtitle": "Accept card payments for bookings",
     "suite-page-organization-integrations-main-intercom-subtitle": "Organizar la conversación con el cliente",
+    "suite-page-organization-integrations-main-kakaopay-subtitle": "Payment gateway for bookings and invoices",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Automatice el marketing por correo electrónico",
     "suite-page-organization-integrations-main-sindoh-subtitle": "Ver cuántas páginas imprimieron los miembros",
+    "suite-page-organization-integrations-main-stream-subtitle": "Community communication feed",
     "suite-page-organization-integrations-main-stripe-subtitle": "Aceptar pagos con tarjeta para reservas"
   }
 }
