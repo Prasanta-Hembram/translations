@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-integrations-stream-title": "Інтеграція",
+    "suite-page-organization-integrations-stream-button-connect": "Зв'язатися",
+    "suite-page-organization-integrations-stream-description": "Stream дозволяє резидентам коворкінг спільноти спілкуватися на інтерактивній стрічці новин. Stream дозволяє:\n\n- Постити в стрічку новин в режимі реального часу.\n- Прикріплювати фотографії до постів.\n- Залишати реакції на пости.\n- Отримувати сповіщення push про нові повідомлення.\n\nІнтеграція Stream додає нову кнопку 'Stream' і працює в додатку без необхідності перенаправлення або установки іншої програми. Щоб включити інтеграцію, підготуйте свій API ключ і секрет: https://getstream.io/dashboard"
+  }
+}
