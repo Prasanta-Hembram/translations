@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Интеграции",
-    "suite-page-organization-integrations-main-flow-subtitle": "Accept card payments for bookings",
+    "suite-page-organization-integrations-main-flow-subtitle": "Принимайте оплату картой за бронирования",
     "suite-page-organization-integrations-main-intercom-subtitle": "Организуйте общение с клиентами",
-    "suite-page-organization-integrations-main-kakaopay-subtitle": "Payment gateway for bookings and invoices",
+    "suite-page-organization-integrations-main-kakaopay-subtitle": "Платежное решение для бронирований и инвойсовPayment gateway for bookings and invoices",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Автоматизируйте имейл маркетинг",
     "suite-page-organization-integrations-main-sindoh-subtitle": "Смотрите как много страниц печатают вашы резиденты",
-    "suite-page-organization-integrations-main-stream-subtitle": "Community communication feed",
+    "suite-page-organization-integrations-main-stream-subtitle": "Лента новостей сообщества",
     "suite-page-organization-integrations-main-stripe-subtitle": "Принимайте оплату картой за бронирования"
   }
 }
