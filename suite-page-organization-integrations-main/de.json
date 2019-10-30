@@ -1,9 +1,12 @@
 {
   "data": {
     "suite-page-organization-integrations-main-title": "Integrationen",
+    "suite-page-organization-integrations-main-flow-subtitle": "Akzeptieren Sie Kartenzahlungen für Buchungen",
     "suite-page-organization-integrations-main-intercom-subtitle": "Organisation der Kommunikation mit den Kunden",
+    "suite-page-organization-integrations-main-kakaopay-subtitle": "Zahlungsportal für Buchungen und Rechnungen",
     "suite-page-organization-integrations-main-mailchimp-subtitle": "Automatisieren Sie ihr E-Mail-Marketing",
     "suite-page-organization-integrations-main-sindoh-subtitle": "Sehen Sie, wie viele Seiten Mitglieder gedruckt haben.",
+    "suite-page-organization-integrations-main-stream-subtitle": "Community-Kommunikations-Feed",
     "suite-page-organization-integrations-main-stripe-subtitle": "Akzeptieren Sie Kartenzahlungen für Buchungen"
   }
 }
