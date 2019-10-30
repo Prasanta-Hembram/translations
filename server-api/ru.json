@@ -44,13 +44,13 @@
     "invoice-item-booking": "Бронирование переговорной ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Оплата за {paymentDate}",
     "invoice-title": "Инвойс #{invoiceId}",
-    "kakaopay-payment-intent-booking-description": "Бронирование переговорной ({roomName}) {bookingDate}",
-    "kakaopay-payment-intent-default-description": "Оплата за {paymentDate}",
-    "kakaopay-payment-intent-invoice-description": "Инвойс ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "Ваш тарифный план истекает через 5 дней. Купите новый план, чтобы остаться.",
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифный план будет автоматически продлен через 5 дней.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифный план будет автоматически продлен завтра.",
+    "payment-intent-booking-description": "Бронирование переговорной ({roomName}) {bookingDate}",
+    "payment-intent-default-description": "Оплата за {paymentDate}",
+    "payment-intent-invoice-description": "Инвойс ({invoiceDate})",
     "powered-by-andcards": "Сервис от {andcardsUrl}"
   }
 }
