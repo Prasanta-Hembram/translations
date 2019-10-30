@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-invitation-reject-text": "초대를 거부하시겠습니까?",
+    "alert-confirmation-organization-invitation-reject-no": "취소",
+    "alert-confirmation-organization-invitation-reject-title": "초대 거부",
+    "alert-confirmation-organization-invitation-reject-yes": "거부"
+  }
+}

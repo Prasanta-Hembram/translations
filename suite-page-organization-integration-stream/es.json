@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-integrations-stream-title": "Integración",
+    "suite-page-organization-integrations-stream-button-connect": "Contáctanos",
+    "suite-page-organization-integrations-stream-description": "Stream permite un espacio de coworking de alimentación comunitaria donde los miembros pueden comunicarse. Stream permite:\n\n- Comparta actualizaciones de estado en tiempo real.\n- Adjuntar fotos a los mensajes.\n- Reacciona a los postes.\n- Recibir notificaciones push para nuevos mensajes.\n\nLa integración de Stream añade un nuevo botón `Stream` y funciona in-app sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano su clave de API y su secreto: https://getstream.io/dashboard."
+  }
+}

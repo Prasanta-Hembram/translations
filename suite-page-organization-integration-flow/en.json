@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-integrations-flow-title": "Integration",
+    "suite-page-organization-integrations-flow-button-connect": "Contact us",
+    "suite-page-organization-integrations-flow-description": "Aktivieren Sie Flow, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen. Aktivieren Sie die Zahlungsmethode 'Karte' für:\n- Buchungsseite des Besprechungsraums.\n- Zahlungsseite der Rechnung.\n\nMit Flow können Sie Zahlungen schnell und sicher auf verschiedenen Wegen erhalten:\n- Webpay Plus - Kredit- und Debitkarten.\n- One Pay - Elektronische Brieftasche zur Bezahlung mit Bankkreditkarten, ohne jedes Mal die Kartendaten einzugeben.\n- Multicaja - Barzahlung mittels Face-to-Face-Zahlungscoupon für unbestrafte Kunden.\n- CryptoCompra - Zahlung per Krypto-Währung.\n\nStripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren. Um die Integration zu ermöglichen, halten Sie Ihre API-Schlüssel bereit: https://www.flow.cl/app/web/misDatos.php."
+  }
+}

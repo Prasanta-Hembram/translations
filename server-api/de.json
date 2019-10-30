@@ -44,13 +44,13 @@
     "invoice-item-booking": "Raumbuchung {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Zahlung {paymentDate}",
     "invoice-title": "Rechnung #{invoiceId}",
-    "kakaopay-payment-intent-booking-description": "Raumbuchung ({roomName}) {bookingDate}",
-    "kakaopay-payment-intent-default-description": "Zahlung {paymentDate}",
-    "kakaopay-payment-intent-invoice-description": "Rechnung ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "Ihr Mitgliedschafts-Abo endet in 5 Tagen. Erwerben Sie ein neues Abo, um weiter zu bleiben.",
     "membership-plan-ends-tomorrow-notification-body": "Ihr Mitgliedschafts-Abo endet morgen. Erwerben Sie ein neues Abo, um weiter zu bleiben.",
     "membership-plan-renew-in-five-days-notification-body": "Ihr Mitgliedschafts-Abo wird automatisch in 5 Tagen verlängert.",
     "membership-plan-renew-tomorrow-notification-body": "Ihr Mitgliedschafts-Abo wird morgen automatisch verlängert.",
+    "payment-intent-booking-description": "Raumbuchung ({roomName}) {bookingDate}",
+    "payment-intent-default-description": "Zahlung {paymentDate}",
+    "payment-intent-invoice-description": "Rechnung ({invoiceDate})",
     "powered-by-andcards": "Powered by {andcardsUrl}"
   }
 }

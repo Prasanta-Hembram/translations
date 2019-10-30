@@ -44,13 +44,13 @@
     "invoice-item-booking": "회의실 예약 ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "결제 {paymentDate}",
     "invoice-title": "청구 내역 #{invoiceId}",
-    "kakaopay-payment-intent-booking-description": "회의실 예약 ({roomName}) {bookingDate}",
-    "kakaopay-payment-intent-default-description": "결제 {paymentDate}",
-    "kakaopay-payment-intent-invoice-description": "청구 내역 ({invoiceDate})",
     "membership-plan-ends-in-five-days-notification-body": "5일 후에 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
     "membership-plan-ends-tomorrow-notification-body": "내일 멤버십 플랜이 종료됩니다. 새로운 플랜을 사세요.",
     "membership-plan-renew-in-five-days-notification-body": "5일 후에 멤버십 플랜이 자동으로 연장됩니다.",
     "membership-plan-renew-tomorrow-notification-body": "내일 멤버십 플랜이 자동으로 연장됩니다.",
+    "payment-intent-booking-description": "회의실 예약 ({roomName}) {bookingDate}",
+    "payment-intent-default-description": "결제 {paymentDate}",
+    "payment-intent-invoice-description": "청구 내역 ({invoiceDate})",
     "powered-by-andcards": "{andcardsUrl} 제공"
   }
 }
