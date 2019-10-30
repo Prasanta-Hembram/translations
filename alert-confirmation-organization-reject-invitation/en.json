@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-reject-invitation-text": "Are you sure you want to reject the invitation?",
-    "alert-confirmation-organization-reject-invitation-no": "Cancel",
-    "alert-confirmation-organization-reject-invitation-title": "Reject Invitation",
-    "alert-confirmation-organization-reject-invitation-yes": "Reject"
-  }
-}
