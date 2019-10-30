@@ -12,6 +12,6 @@ Stripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzu
 
 ---
 
-![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![Online-Zahlungen für Coworking Space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
 
-![Pay for meeting room with credit card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)
+![Bezahlen Sie den Besprechungsraum mit Kreditkarte.](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/flow-payment-method.png)

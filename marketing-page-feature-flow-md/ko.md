@@ -12,6 +12,6 @@ Flow 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부�
 
 ---
 
-![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![코워킹스페이스 공간 온라인 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
 
-![Pay for meeting room with credit card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)
+![회의실 예약을 위해 신용카드 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)
