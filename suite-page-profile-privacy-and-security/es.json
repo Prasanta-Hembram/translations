@@ -1,9 +1,6 @@
 {
   "data": {
     "suite-page-profile-privacy-and-security-title": "Privacy and Security",
-    "suite-page-profile-privacy-and-security-delete-account-button": "Eliminar cuenta",
-    "suite-page-profile-privacy-and-security-delete-account-description": "Permanently delete your account and all of your content.",
-    "suite-page-profile-privacy-and-security-delete-account-title": "Eliminar cuenta",
     "suite-page-profile-privacy-and-security-email-label": "Email",
     "suite-page-profile-privacy-and-security-email-notice": "Conecte su correo electrónico para iniciar sesión en tu cuenta.",
     "suite-page-profile-privacy-and-security-email-value-not-connected": "No conectado",

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-reject-invitation-text": "¿Estás seguro de que quieres rechazar la invitación?",
-    "alert-confirmation-organization-reject-invitation-no": "Cancelar",
-    "alert-confirmation-organization-reject-invitation-title": "Rechazar la invitación",
-    "alert-confirmation-organization-reject-invitation-yes": "Rechazar"
-  }
-}

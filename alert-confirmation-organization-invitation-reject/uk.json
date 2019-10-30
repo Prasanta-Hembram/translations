@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-invitation-reject-text": "Ви впевнені, що хочете відхилити запрошення?",
+    "alert-confirmation-organization-invitation-reject-no": "Ні",
+    "alert-confirmation-organization-invitation-reject-title": "Відхилити запрошення",
+    "alert-confirmation-organization-invitation-reject-yes": "Так"
+  }
+}
