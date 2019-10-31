@@ -51,6 +51,7 @@
     "payment-intent-booking-description": "Rerserva de salas ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Pago {paymentDate}",
     "payment-intent-invoice-description": "Factura ({invoiceDate})",
-    "powered-by-andcards": "Desarrollado por {andcardsUrl}"
+    "powered-by-andcards": "Desarrollado por {andcardsUrl}",
+    "stream-notification-title": "{userName} publicado en {organizationTitle}"
   }
 }

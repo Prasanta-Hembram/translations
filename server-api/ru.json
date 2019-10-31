@@ -51,6 +51,7 @@
     "payment-intent-booking-description": "Бронирование переговорной ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Инвойс ({invoiceDate})",
-    "powered-by-andcards": "Сервис от {andcardsUrl}"
+    "powered-by-andcards": "Сервис от {andcardsUrl}",
+    "stream-notification-title": "{userName} запостили в {organizationTitle}"
   }
 }
