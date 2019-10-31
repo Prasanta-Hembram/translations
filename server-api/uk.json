@@ -51,6 +51,7 @@
     "payment-intent-booking-description": "Резервація кімнати ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Інвойс ({invoiceDate})",
-    "powered-by-andcards": "Сервіс від {andcardsUrl}"
+    "powered-by-andcards": "Сервіс від {andcardsUrl}",
+    "stream-notification-title": "{userName} запостили до {organizationTitle}"
   }
 }

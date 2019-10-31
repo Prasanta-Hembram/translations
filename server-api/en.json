@@ -51,6 +51,7 @@
     "payment-intent-booking-description": "Room Booking ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Payment {paymentDate}",
     "payment-intent-invoice-description": "Invoice ({invoiceDate})",
-    "powered-by-andcards": "Powered by {andcardsUrl}"
+    "powered-by-andcards": "Powered by {andcardsUrl}",
+    "stream-notification-title": "{userName} posted to {organizationTitle}"
   }
 }
