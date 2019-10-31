@@ -5,6 +5,7 @@
     "suite-page-organization-benefit-create-benefit-application-title": "Заявка",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Тип заявки",
     "suite-page-organization-benefit-create-benefit-category": "Категория",
+    "suite-page-organization-benefit-create-confirmation-title": "Confirmation Email",
     "suite-page-organization-benefit-create-description-placeholder": "Ввести описание",
     "suite-page-organization-benefit-create-description-title": "Детальное описание",
     "suite-page-organization-benefit-create-email-manager-label": "Email менеджера",
@@ -27,7 +28,7 @@
     "suite-page-organization-benefit-create-subtitle-label": "Подзаголовок",
     "suite-page-organization-benefit-create-subtitle-placeholder": "Ввести подзаголовок",
     "suite-page-organization-benefit-create-template-email-placeholder": "Ввести текст",
-    "suite-page-organization-benefit-create-template-email-title": "Текст для email подтверждения",
+    "suite-page-organization-benefit-create-template-email-title": "Текст",
     "suite-page-organization-benefit-create-title-label": "Название",
     "suite-page-organization-benefit-create-title-placeholder": "Ввести название"
   }
