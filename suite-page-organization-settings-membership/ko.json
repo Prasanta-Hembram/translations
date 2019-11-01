@@ -5,8 +5,8 @@
     "suite-page-organization-settings-membership-permission-all-members": "전체 회원",
     "suite-page-organization-settings-membership-permission-label": "보기 권한",
     "suite-page-organization-settings-membership-team-information-permission-admin": "지점 관리자",
-    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Branch Managers and Team Managers",
-    "suite-page-organization-settings-membership-team-information-permission-desc": "Every team in Directory has a business information field to indicate its legal name, address, and business registration number. It appears on invoices.",
-    "suite-page-organization-settings-membership-team-information-permission-label": "Edit Team Info"
+    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "지점 관리자 및 팀 매니저",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "회원찾기의 모든 팀에는 사업자 명, 주소 및 사업자등록번호를 표시하는 '사업자정보' 필드가 있습니다. 청구내역에 표시됩니다.",
+    "suite-page-organization-settings-membership-team-information-permission-label": "팀 사업자정보 수정 권한"
   }
 }
