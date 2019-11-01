@@ -4,9 +4,9 @@
     "suite-page-organization-settings-membership-permission-admin-moderator": "Standort Manager",
     "suite-page-organization-settings-membership-permission-all-members": "Alle Mitglieder",
     "suite-page-organization-settings-membership-permission-label": "Sichtbarkeit",
-    "suite-page-organization-settings-membership-team-business-permission-admin": "Nur Standort Manager",
-    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Standort Manager und Team Manager",
-    "suite-page-organization-settings-membership-team-business-permission-desc": "Wählen Sie aus, wer Geschäftsinformationen ändern darf.",
-    "suite-page-organization-settings-membership-team-business-permission-label": "Aktualisieren von Geschäftsinformationen"
+    "suite-page-organization-settings-membership-team-information-permission-admin": "Nur Standort Manager",
+    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Branch Managers and Team Managers",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "Every team in Directory has a business information field to indicate its legal name, address, and business registration number. It appears on invoices.",
+    "suite-page-organization-settings-membership-team-information-permission-label": "Edit Team Info"
   }
 }
