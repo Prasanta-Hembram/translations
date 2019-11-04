@@ -6,7 +6,7 @@
     "suite-page-organization-settings-membership-permission-label": "Доступ",
     "suite-page-organization-settings-membership-team-information-permission-admin": "Только менеджер отделения",
     "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Менеджеры отделения и менеджеры команд",
-    "suite-page-organization-settings-membership-team-information-permission-desc": "Every team in Directory has a business information field to indicate its legal name, address, and business registration number. It appears on invoices.",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "У каждой команды в Каталоге есть строка, в которой необходимо указать официальное название, адрес и номер регистрации. Эти данные будут указаны в инвойсах.",
     "suite-page-organization-settings-membership-team-information-permission-label": "Изменить информацию о команде"
   }
 }
