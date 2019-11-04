@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-settings-membership-title": "Membership",
-    "suite-page-organization-settings-membership-permission-admin-moderator": "Branch managers",
-    "suite-page-organization-settings-membership-permission-all-members": "All members",
+    "suite-page-organization-settings-membership-permission-admin-moderator": "Branch Managers",
+    "suite-page-organization-settings-membership-permission-all-members": "All Members",
     "suite-page-organization-settings-membership-permission-label": "Visibility",
-    "suite-page-organization-settings-membership-team-business-permission-admin": "Branch Manager only",
-    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Branch Manager and Team Manager",
-    "suite-page-organization-settings-membership-team-business-permission-desc": "Every team in Directory has a business information field to indicate its legal name, address, and business registration number. It appears on invoices and receipts. Select who can modify it.",
-    "suite-page-organization-settings-membership-team-business-permission-label": "Team Business Information"
+    "suite-page-organization-settings-membership-team-information-permission-admin": "Branch Managers",
+    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Branch Managers and Team Managers",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "Every team in Directory has a business information field to indicate its legal name, address, and business registration number. It appears on invoices.",
+    "suite-page-organization-settings-membership-team-information-permission-label": "Edit Team Info"
   }
 }

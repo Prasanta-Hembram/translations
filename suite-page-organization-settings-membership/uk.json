@@ -4,9 +4,9 @@
     "suite-page-organization-settings-membership-permission-admin-moderator": "Менеджери відділення",
     "suite-page-organization-settings-membership-permission-all-members": "Усі учасники",
     "suite-page-organization-settings-membership-permission-label": "Доступ",
-    "suite-page-organization-settings-membership-team-business-permission-admin": "Лише менеджер відділення",
-    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Менеджер відділення та менеджер команди",
-    "suite-page-organization-settings-membership-team-business-permission-desc": "Виберіть, хто може змінювати інформацію про команду.",
-    "suite-page-organization-settings-membership-team-business-permission-label": "Змінити інформацію про команду"
+    "suite-page-organization-settings-membership-team-information-permission-admin": "Лише менеджер відділення",
+    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Менеджери відділення та менеджери команди",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "У кожної команди в каталозі є строка, в якій необхідно вказати офіційну назву, адресу та номер реєстрації. Ці дані будуть вказані в інвойсах.",
+    "suite-page-organization-settings-membership-team-information-permission-label": "Змінити інформацію про команду"
   }
 }
