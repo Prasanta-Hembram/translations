@@ -6,6 +6,10 @@
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Tipo de solicitud",
     "suite-page-organization-benefit-edit-benefit-category": "Categoría",
     "suite-page-organization-benefit-edit-description-placeholder": "Agregar descripción",
+    "suite-page-organization-benefit-edit-confirmation-language-title": "Idioma",
+    "suite-page-organization-benefit-edit-confirmation-text-placeholder": "Escribe un mensaje para confirmación por correo electrónico",
+    "suite-page-organization-benefit-edit-confirmation-text-title": "Text",
+    "suite-page-organization-benefit-edit-confirmation-title": "Email de confirmación",
     "suite-page-organization-benefit-edit-description-title": "Descripción",
     "suite-page-organization-benefit-edit-email-manager-label": "Correo electrónico del administrador",
     "suite-page-organization-benefit-edit-email-manager-placeholder": "Escribe un correo electrónico de administrador",
@@ -20,7 +24,6 @@
     "suite-page-organization-benefit-edit-image-delete": "Borrar imagen",
     "suite-page-organization-benefit-edit-link-provider-label": "Enlace",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Ingresar enlace",
-    "suite-page-organization-benefit-edit-local-label": "Idioma",
     "suite-page-organization-benefit-edit-no-benefit": "No hay beneficios para mostrar.",
     "suite-page-organization-benefit-edit-no-organization": "No se han seleccionado las sucursales.",
     "suite-page-organization-benefit-edit-permission-label": "Visibilidad",
@@ -28,8 +31,6 @@
     "suite-page-organization-benefit-edit-select-branches-button": "Seleccionar sucursal",
     "suite-page-organization-benefit-edit-subtitle-label": "Subtitular",
     "suite-page-organization-benefit-edit-subtitle-placeholder": "Escribe un subtítulo",
-    "suite-page-organization-benefit-edit-template-email-placeholder": "Escribe un mensaje para confirmación por correo electrónico",
-    "suite-page-organization-benefit-edit-template-email-title": "Un mensaje para confirmación",
     "suite-page-organization-benefit-edit-title-label": "Título",
     "suite-page-organization-benefit-edit-title-placeholder": "Escribe un título"
   }

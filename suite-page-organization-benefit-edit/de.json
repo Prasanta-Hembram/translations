@@ -6,6 +6,10 @@
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Antragstyp",
     "suite-page-organization-benefit-edit-benefit-category": "Kategorie",
     "suite-page-organization-benefit-edit-description-placeholder": "Beschreibung eingeben",
+    "suite-page-organization-benefit-edit-confirmation-language-title": "Sprache",
+    "suite-page-organization-benefit-edit-confirmation-text-placeholder": "Nachricht eingeben",
+    "suite-page-organization-benefit-edit-confirmation-text-title": "Text",
+    "suite-page-organization-benefit-edit-confirmation-title": "Bestätigungs-E-Mail",
     "suite-page-organization-benefit-edit-description-title": "Beschreibung",
     "suite-page-organization-benefit-edit-email-manager-label": "Manager-E-Mail",
     "suite-page-organization-benefit-edit-email-manager-placeholder": "E-Mail eingeben",
@@ -20,7 +24,6 @@
     "suite-page-organization-benefit-edit-image-delete": "Bild löschen",
     "suite-page-organization-benefit-edit-link-provider-label": "Link",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Link eingeben",
-    "suite-page-organization-benefit-edit-local-label": "Sprache",
     "suite-page-organization-benefit-edit-no-benefit": "Es gibt keinen Vorteil zur Darstellung.",
     "suite-page-organization-benefit-edit-no-organization": "Standorte sind nicht ausgewählt.",
     "suite-page-organization-benefit-edit-permission-label": "Sichtbarkeit",
@@ -28,8 +31,6 @@
     "suite-page-organization-benefit-edit-select-branches-button": "Standort auswählen",
     "suite-page-organization-benefit-edit-subtitle-label": "Untertitel",
     "suite-page-organization-benefit-edit-subtitle-placeholder": "Untertitel eingeben",
-    "suite-page-organization-benefit-edit-template-email-placeholder": "Nachricht eingeben",
-    "suite-page-organization-benefit-edit-template-email-title": "Bestätigungsnachricht per E-Mail",
     "suite-page-organization-benefit-edit-title-label": "Titel",
     "suite-page-organization-benefit-edit-title-placeholder": "Titel eingeben"
   }
