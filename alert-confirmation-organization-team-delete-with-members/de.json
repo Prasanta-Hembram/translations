@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-team-delete-with-members-title": "Team löschen",
     "alert-confirmation-organization-team-delete-with-members-no": "Abbrechen",
-    "alert-confirmation-organization-team-delete-with-members-text": "Are you sure you want to delete the team together with its members? This action is irreversible.",
+    "alert-confirmation-organization-team-delete-with-members-text": "Sind Sie sicher, dass Sie das Team zusammen mit seinen Mitgliedern löschen wollen? Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-team-delete-with-members-yes": "Löschen"
   }
 }
