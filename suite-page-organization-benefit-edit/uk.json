@@ -5,6 +5,10 @@
     "suite-page-organization-benefit-edit-benefit-application-title": "Заявка",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Тип заявки",
     "suite-page-organization-benefit-edit-benefit-category": "Категорія",
+    "suite-page-organization-benefit-edit-confirmation-language-title": "Мова",
+    "suite-page-organization-benefit-edit-confirmation-text-placeholder": "Увести текст",
+    "suite-page-organization-benefit-edit-confirmation-text-title": "Текст",
+    "suite-page-organization-benefit-edit-confirmation-title": "Email підтвердження",
     "suite-page-organization-benefit-edit-description-placeholder": "Увести опис",
     "suite-page-organization-benefit-edit-description-title": "Детальний опис",
     "suite-page-organization-benefit-edit-email-manager-label": "Email менеджера",
@@ -20,7 +24,6 @@
     "suite-page-organization-benefit-edit-image-delete": "Видалити зображення",
     "suite-page-organization-benefit-edit-link-provider-label": "Посилання",
     "suite-page-organization-benefit-edit-link-provider-placeholder": "Увести посилання",
-    "suite-page-organization-benefit-edit-local-label": "Мова",
     "suite-page-organization-benefit-edit-no-benefit": "Немає сервісів для відображення.",
     "suite-page-organization-benefit-edit-no-organization": "Відділення не вибрані.",
     "suite-page-organization-benefit-edit-permission-label": "Доступ",
@@ -28,8 +31,6 @@
     "suite-page-organization-benefit-edit-select-branches-button": "Виберіть відділення",
     "suite-page-organization-benefit-edit-subtitle-label": "Підсумок",
     "suite-page-organization-benefit-edit-subtitle-placeholder": "Увести опис",
-    "suite-page-organization-benefit-edit-template-email-placeholder": "Увести текст",
-    "suite-page-organization-benefit-edit-template-email-title": "Текст email підтвердження",
     "suite-page-organization-benefit-edit-title-label": "Назва",
     "suite-page-organization-benefit-edit-title-placeholder": "Увести назву"
   }
