@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-flow-title": "연동",
     "suite-page-organization-integrations-flow-button-connect": "연락하기",
-    "suite-page-organization-integrations-flow-description": "앱 내에서 카드로 즉시 결제하고 싶으시다면 Flow를 이용하세요. 다음 항목에 '카드' 결제 수단을 설정할 수 있습니다 :\n- 회의실 예약 페이지.\n- 인보이스 결제 페이지.\n\nFlow를 사용하면 다음을 통해 빠르고 안전하게 지불을받을 수 있습니다.\n-Webpay Plus-신용 카드 및 직불 카드.\n-One Pay-매번 카드 정보를 입력하지 않고 은행 신용 카드로 지불하는 전자 지갑.\n-Multicaja-비은행 고객을위한 대면 결제 쿠폰을 통한 현금 결제.\n-CryptoCompra-암호 화폐 결제.\n\nFlow 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부에서 작동합니다. Stripe를 연동하시려면 API 키를 준비하시면 됩니다 : https://www.flow.cl/app/web/misDatos.php."
+    "suite-page-organization-integrations-flow-description": "앱 내에서 카드로 즉시 결제하고 싶으시다면 Flow를 이용하세요.\n\nFlow를 연동하시려면 API 키를 준비하시면 됩니다 : https://www.flow.cl/app/web/misDatos.php.",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-flow-title": "연동"
   }
 }

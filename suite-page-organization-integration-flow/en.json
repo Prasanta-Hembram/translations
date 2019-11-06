@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-flow-title": "Integration",
     "suite-page-organization-integrations-flow-button-connect": "Contact us",
-    "suite-page-organization-integrations-flow-description": "Enable Flow to instantly acquire debit or credit cards right inside the app. Turn on 'Card' payment method for:\n- Meeting room booking page.\n- Invoice payment page.\n\nWith Flow you can receive payments quickly and securely through:\n- Webpay Plus - Credit and debit cards. \n- One Pay - Electronic wallet to pay with bank credit cards, without entering card details each time.\n- Multicaja - Cash payment by means of face-to-face payment coupon, for unbanked customers.\n- CryptoCompra - Payment by crypto currency.\n\nFlow payments work in-app without requiring to install another app. To enable the integration, have your API keys ready: https://www.flow.cl/app/web/misDatos.php."
+    "suite-page-organization-integrations-flow-description": "Enable Flow to instantly acquire debit or credit cards right inside the app.\n\nFlow payments work in-app without requiring to install another app. To enable the integration, have your API keys ready: https://www.flow.cl/app/web/misDatos.php.",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-flow-title": "Integration"
   }
 }

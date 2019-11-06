@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-flow-title": "Интеграция",
     "suite-page-organization-integrations-flow-button-connect": "Связаться",
-    "suite-page-organization-integrations-flow-description": "Включите Flow, чтобы проводить платежы с банковских карт прямо в приложении. Включите метод оплаты 'Карта' для:\n- Страницы бронирования переговорных.\n- Страницы оплаты инвойсов.\n\nС Flow вы можете получать платежи быстро и безопасно через:\n- Webpay Plus - Кредитные и дебетовые карты.\n- One Pay - Электронный кошелек для оплаты банковскими кредитными картами без ввода данных карты каждый раз.\n- Multicaja - Оплата наличными посредством личного купона, для небанковских клиентов.\n- CryptoCompra - Оплата криптовалютой.\n\nОплата Flow работает в приложении без перенаправления или запроса на установку дополнительных приложений. Чтобы включить интеграцию, подготовьте свои ключи к API: https://www.flow.cl/app/web/misDatos.php."
+    "suite-page-organization-integrations-flow-description": "Включите Flow, чтобы проводить платежы с банковских карт прямо в приложении.\n\nОплата Flow работает в приложении без перенаправления или запроса на установку дополнительных приложений. Чтобы включить интеграцию, подготовьте свои ключи к API: https://www.flow.cl/app/web/misDatos.php.",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-flow-title": "Интеграция"
   }
 }

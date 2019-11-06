@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-stream-title": "Интеграция",
     "suite-page-organization-integrations-stream-button-connect": "Связаться",
-    "suite-page-organization-integrations-stream-description": "Stream позволяет резидентам коворкинг сообщества общаться на интерактивной ленте новостей. Stream позволяет:\n\n- Постить в ленту новостей в режиме реального времени.\n- Прикреплять фотографии к постам.\n- Оставлять реакции на посты.\n- Получать уведомления push о новых сообщениях.\n\nИнтеграция Stream добавляет новую кнопку 'Stream' и работает в приложении без необходимости перенаправления или установки другого приложения. Чтобы включить интеграцию, подготовьте свой API ключ и секрет: https://getstream.io/dashboard."
+    "suite-page-organization-integrations-stream-description": "Stream позволяет резидентам коворкинг сообщества общаться на интерактивной ленте новостей.\n\nИнтеграция Stream добавляет новую кнопку 'Stream' и работает в приложении без необходимости перенаправления или установки другого приложения. Чтобы включить интеграцию, подготовьте свой API ключ и секрет: https://getstream.io/dashboard.",
+    "suite-page-organization-integrations-stream-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-stream-title": "Интеграция"
   }
 }

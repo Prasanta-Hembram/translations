@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-flow-title": "Integración",
     "suite-page-organization-integrations-flow-button-connect": "Contáctanos",
-    "suite-page-organization-integrations-flow-description": "Permita que Flow integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activa el método de pago 'Tarjeta' para:\n- Página de reserva de salas de reuniones.\n- Página de pago de facturas.\n\n- Webpay Plus - Tarjetas de crédito y tarjetas de débito bancarias.\n- One Pay - Billetera electrónica para pagar con tarjetas de crédito bancarias, sin ingresar los datos de la tarjeta cada vez.\n- Multicaja - Pago en efectivo mediante cupón de pago presencial, para clientes no bancarizados.\n- CryptoCompra - Pago mediante criptomonedas.\n\n\nLos pagos con Flow funcionan inapp sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano las claves de la API: https://www.flow.cl/app/web/misDatos.php."
+    "suite-page-organization-integrations-flow-description": "Permita que Flow integre instantáneamente tarjetas de débito o crédito dentro de la aplicación.\n\nLos pagos con Flow funcionan inapp sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano las claves de la API: https://www.flow.cl/app/web/misDatos.php.",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-flow-title": "Integración"
   }
 }

@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-sindoh-title": "Integración",
     "suite-page-organization-integrations-sindoh-button-connect": "Contáctanos",
-    "suite-page-organization-integrations-sindoh-description": "Sindoh es un fabricante de soluciones inteligentes de gestión de impresión de oficina basadas en la nube. Conectar impresoras inteligentes Sindoh para automatizar completamente la impresión:\n- Sincronizar la información de los miembros a la base de datos Sindoh.\n- Emitir Sindoh Print ID a los miembros de forma automática.\n- Ver cuántas páginas imprimió cada miembro.\n\nDescargar la presentación de la solución de gestión de impresión de oficina inteligente (sólo en coreano): https://drive.google.com/a/andcards.com/file/d/1gm5TVGqBmBxcf4uxV-mtsZW4KXexINUk/view?usp=sharing\n\nObtenga más información sobre las soluciones de Sindoh: https://sindoh.com"
+    "suite-page-organization-integrations-sindoh-description": "Sindoh es un fabricante de soluciones inteligentes de gestión de impresión de oficina basadas en la nube.\n\nDescargar la presentación de la solución de gestión de impresión de oficina inteligente (sólo en coreano): https://drive.google.com/a/andcards.com/file/d/1gm5TVGqBmBxcf4uxV-mtsZW4KXexINUk/view?usp=sharing.",
+    "suite-page-organization-integrations-sindoh-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-sindoh-title": "Integración"
   }
 }
