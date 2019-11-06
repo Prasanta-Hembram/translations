@@ -4,9 +4,9 @@
     "suite-page-organization-settings-membership-permission-admin-moderator": "Standort Manager",
     "suite-page-organization-settings-membership-permission-all-members": "Alle Mitglieder",
     "suite-page-organization-settings-membership-permission-label": "Sichtbarkeit",
-    "suite-page-organization-settings-membership-team-business-permission-admin": "Nur Standort Manager",
-    "suite-page-organization-settings-membership-team-business-permission-admin-manager": "Standort Manager und Team Manager",
-    "suite-page-organization-settings-membership-team-business-permission-desc": "Wählen Sie aus, wer Geschäftsinformationen ändern darf.",
-    "suite-page-organization-settings-membership-team-business-permission-label": "Aktualisieren von Geschäftsinformationen"
+    "suite-page-organization-settings-membership-team-information-permission-admin": "Nur Standort Manager",
+    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Standort Managers und Team Managers",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "Jedes Team im Verzeichnis hat ein Feld für Geschäftsinformationen, in dem der rechtliche Name, die Adresse und die Handelsregisternummer angegeben werden. Sie erscheint auf Rechnungen.",
+    "suite-page-organization-settings-membership-team-information-permission-label": "Teaminfo bearbeiten"
   }
 }
