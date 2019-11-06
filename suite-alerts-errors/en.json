@@ -29,6 +29,7 @@
     "suite-alerts-errors-payment-price-low": "The total amount is smaller than the payment system allows.",
     "suite-alerts-errors-payment-price-invalid": "The price is invalid. Make sure it's within the minimum-maximum limits of your payment system.",
     "suite-alerts-errors-permission-library-or-camera-denied": "We need access to your photo library or camera. Give permission in Settings and try again.",
+    "suite-alerts-errors-plan-assign-date-invalid": "Cannot assign plan that ends in past.",
     "suite-alerts-errors-plan-assign-in-future": "Can't assign a plan starting a date in the future.",
     "suite-alerts-errors-plan-delete-reject": "Unable to delete. Plan in use.",
     "suite-alerts-errors-plan-periods-empty": "Plan must have at least 1 period.",
