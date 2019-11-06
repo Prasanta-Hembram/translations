@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-team-delete-with-members-title": "Видалити команду",
     "alert-confirmation-organization-team-delete-with-members-no": "Скасувати",
-    "alert-confirmation-organization-team-delete-with-members-text": "Are you sure you want to delete the team together with its members? This action is irreversible.",
+    "alert-confirmation-organization-team-delete-with-members-text": "Ви впевнені, що хочете видалити команду зі всіма учасниками? Ця дія невідворотна.",
     "alert-confirmation-organization-team-delete-with-members-yes": "Видалити"
   }
 }
