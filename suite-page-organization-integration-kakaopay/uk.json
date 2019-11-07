@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-kakaopay-title": "Інтеграція",
     "suite-page-organization-integrations-kakaopay-button-connect": "Зв'язатися",
-    "suite-page-organization-integrations-kakaopay-description": "Включіть KakaoPay щоб одразу приймати оплату банківськими картками в застосунку. Включіть спосіб оплати 'KakaoPay' для:\n- Сторінки резервацій переговорних кімнат.\n- Сторінки оплати інвойсів.\n\nКлієнтам, що хочуть ввімкнути систему оплати KakaoPay для кімнат, необхідно зв'язатись з pg@kakaocorp.com для наступних кроків."
+    "suite-page-organization-integrations-kakaopay-description": "Включіть KakaoPay щоб одразу приймати оплату банківськими картками в застосунку.\n\nКлієнтам, що хочуть ввімкнути систему оплати KakaoPay для кімнат, необхідно зв'язатись з pg@kakaocorp.com для наступних кроків.",
+    "suite-page-organization-integrations-kakaopay-marketing-link-description": "Дізнатись більше",
+    "suite-page-organization-integrations-kakaopay-title": "Інтеграція"
   }
 }

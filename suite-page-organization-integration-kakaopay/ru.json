@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-kakaopay-title": "Интеграция",
     "suite-page-organization-integrations-kakaopay-button-connect": "Связаться",
-    "suite-page-organization-integrations-kakaopay-description": "Включите KakaoPay, чтобы проводить платежы с банковских карт прямо в приложении. Включите метод оплаты 'KakaoPay' для:\n- Страницы бронирования переговорных.\n- Страницы оплаты инвойсов.\n\nКлиентам, которые хотят активировать оплату через KakaoPay для переговорных, необходимо связаться с pg@kakaocorp.com для получения информации."
+    "suite-page-organization-integrations-kakaopay-description": "Включите KakaoPay, чтобы проводить платежы с банковских карт прямо в приложении.\n\nКлиентам, которые хотят активировать оплату через KakaoPay для переговорных, необходимо связаться с pg@kakaocorp.com для получения информации.",
+    "suite-page-organization-integrations-kakaopay-marketing-link-description": "Подробнее",
+    "suite-page-organization-integrations-kakaopay-title": "Интеграция"
   }
 }

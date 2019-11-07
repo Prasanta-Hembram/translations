@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-integrations-mailchimp-title": "Integration",
     "suite-page-organization-integrations-mailchimp-account-audience": "Audience",
     "suite-page-organization-integrations-mailchimp-account-audience-default": "Not Selected",
     "suite-page-organization-integrations-mailchimp-account-login-email": "Email",
@@ -9,8 +8,10 @@
     "suite-page-organization-integrations-mailchimp-account-title": "Account",
     "suite-page-organization-integrations-mailchimp-button-connect": "Connect",
     "suite-page-organization-integrations-mailchimp-button-disconnect": "Disconnect",
-    "suite-page-organization-integrations-mailchimp-description": "Synchronize member information from Directory to an audience on Mailchimp. Use the full power of Mailchimp platform to:\n- Send automated welcome email to new members.\n- Email monthly newsletters to all members at once.\n- Remind team managers to pay by invoice.\n\nUse member information to personalize email. The following data is pushed to Mailchimp:\n- Name.\n- Surname.\n- Email.\n- Team Manager (tag).\n\nMailchimp features and pricing: https://mailchimp.com",
+    "suite-page-organization-integrations-mailchimp-description": "Synchronize member information from Directory to an audience on Mailchimp.",
+    "suite-page-organization-integrations-mailchimp-marketing-link-description": "Learn more",
     "suite-page-organization-integrations-mailchimp-login-title": "Log in to Mailchimp",
-    "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
+    "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp",
+    "suite-page-organization-integrations-mailchimp-title": "Integration"
   }
 }
