@@ -29,7 +29,7 @@
     "suite-alerts-errors-payment-price-low": "Сумма меньше, чем позволяет платежная система.",
     "suite-alerts-errors-payment-price-invalid": "Сумма неправильная. Убедитесь, что она находится в пределах допустимости платежной системы.",
     "suite-alerts-errors-permission-library-or-camera-denied": "Необходим доступ к галерее и камере. Дайте разрешение в настройках и повторите попытку.",
-    "suite-alerts-errors-plan-assign-date-invalid": "Cannot assign plan that ends in past.",
+    "suite-alerts-errors-plan-assign-date-invalid": "Невозможно присвоить план, который заканчивается в прошлом.",
     "suite-alerts-errors-plan-assign-in-future": "Нельзя назначить план, который начинается в будущем.",
     "suite-alerts-errors-plan-delete-reject": "Невозможно удалить. План используется.",
     "suite-alerts-errors-plan-periods-empty": "Нужно выбрать хотя бы один период.",
