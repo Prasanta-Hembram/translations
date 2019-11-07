@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "Delete",
+    "suite-page-organization-directory-team-edit-action-delete-with-members": "Delete with members",
     "suite-page-organization-directory-team-edit-button-balance-history": "Balance History",
     "suite-page-organization-directory-team-edit-button-credits": "Credits",
     "suite-page-organization-directory-team-edit-button-invoices": "Invoices",

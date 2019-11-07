@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-directory-team-edit-action-delete": "팀 삭제",
+    "suite-page-organization-directory-team-edit-action-delete-with-members": "팀원과 함께 삭제",
     "suite-page-organization-directory-team-edit-button-balance-history": "결제 내역",
     "suite-page-organization-directory-team-edit-button-credits": "크레딧",
     "suite-page-organization-directory-team-edit-button-invoices": "청구 내역",
