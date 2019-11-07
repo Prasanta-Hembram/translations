@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-stripe-button-connect": "Связаться",
     "suite-page-organization-integrations-stripe-description": "Включите Stripe, чтобы проводить платежы с банковских карт прямо в приложении.\n\nОплата Stripe работает в приложении без перенаправления или запроса на установку дополнительных приложений. Чтобы включить интеграцию, подготовьте свои ключи к API: https://dashboard.stripe.com/apikeys.",
-    "suite-page-organization-integrations-stripe-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-stripe-marketing-link-description": "Подробнее",
     "suite-page-organization-integrations-stripe-title": "Интеграция"
   }
 }

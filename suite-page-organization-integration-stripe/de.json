@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-stripe-button-connect": "Kontaktieren Sie uns",
     "suite-page-organization-integrations-stripe-description": "Aktivieren Sie Stripe, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen.\n\nStripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren. Um die Integration zu ermöglichen, halten Sie Ihre API-Schlüssel bereit: https://dashboard.stripe.com/apikeys.",
-    "suite-page-organization-integrations-stripe-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-stripe-marketing-link-description": "Weitere Infos",
     "suite-page-organization-integrations-stripe-title": "Integration"
   }
 }

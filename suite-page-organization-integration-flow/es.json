@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-flow-button-connect": "Contáctanos",
     "suite-page-organization-integrations-flow-description": "Permita que Flow integre instantáneamente tarjetas de débito o crédito dentro de la aplicación.\n\nLos pagos con Flow funcionan inapp sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano las claves de la API: https://www.flow.cl/app/web/misDatos.php.",
-    "suite-page-organization-integrations-flow-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Más información",
     "suite-page-organization-integrations-flow-title": "Integración"
   }
 }

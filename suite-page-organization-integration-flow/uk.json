@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-flow-button-connect": "Зв'язатися",
     "suite-page-organization-integrations-flow-description": "Включіть Flow щоб зразу приймати оплату банківськими картками в застосунку. \n\n Оплата Flow проходить в застосунку без перенаправлення чи завантаження інших додатків. Щоб підключити інтеграцію, підготуйте свої ключі для API: https://www.flow.cl/app/web/misDatos.php.",
-    "suite-page-organization-integrations-flow-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Дізнатись більше",
     "suite-page-organization-integrations-flow-title": "Інтеграція"
   }
 }

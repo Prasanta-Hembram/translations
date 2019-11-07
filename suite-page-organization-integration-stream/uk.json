@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-stream-button-connect": "Зв'язатися",
     "suite-page-organization-integrations-stream-description": "Stream дозволяє резидентам коворкінг спільноти спілкуватися на інтерактивній стрічці новин\n\nІнтеграція Stream додає нову кнопку 'Stream' і працює в додатку без необхідності перенаправлення або установки іншої програми. Щоб включити інтеграцію, підготуйте свій API ключ і секрет: https://getstream.io/dashboard.",
-    "suite-page-organization-integrations-stream-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-stream-marketing-link-description": "Дізнатись більше",
     "suite-page-organization-integrations-stream-title": "Інтеграція"
   }
 }

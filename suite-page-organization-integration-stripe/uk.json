@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-stripe-button-connect": "Зв'язатися",
     "suite-page-organization-integrations-stripe-description": "Включіть Stripe щоб зразу приймати оплату банківськими картками в застосунку.\n\nОплата Stripe проходить в застосунку без перенаправлення чи завантаження інших додатків. Щоб підключити інтеграцію, підготуйте свої ключі для API: https://dashboard.stripe.com/apikeys.",
-    "suite-page-organization-integrations-stripe-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-stripe-marketing-link-description": "Дізнатись більше",
     "suite-page-organization-integrations-stripe-title": "Інтеграція"
   }
 }

@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-integrations-intercom-button-connect": "Contact us",
     "suite-page-organization-integrations-intercom-description": "Enable Intercom to organize communication with your workspace space customers.\n\nIntercom adds a “Helpdesk” button to My Workspaces page. Members use it to find help articles and chat to you. To install Intercom, first obtain API keys from Settings > Installation.",
-    "suite-page-organization-integrations-intercom-marketing-link-description": "Learn more about the feature",
+    "suite-page-organization-integrations-intercom-marketing-link-description": "Learn more",
     "suite-page-organization-integrations-intercom-title": "Integration"
   }
 }
