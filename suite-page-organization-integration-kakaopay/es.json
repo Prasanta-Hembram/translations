@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-kakaopay-title": "Integración",
     "suite-page-organization-integrations-kakaopay-button-connect": "Contáctanos",
-    "suite-page-organization-integrations-kakaopay-description": "Permita que KakaoPay integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activa el método de pago 'KakaoPay' para:\n- Página de reserva de salas de reuniones.\n- Página de pago de facturas.\n\nLos clientes que deseen permitir el pago con tarjeta de KakaoPay para reservar una sala de reuniones deben ponerse en contacto directamente con pg@kakaocorp.com para más información."
+    "suite-page-organization-integrations-kakaopay-description": "Permita que KakaoPay integre instantáneamente tarjetas de débito o crédito dentro de la aplicación.\n\nLos clientes que deseen permitir el pago con tarjeta de KakaoPay para reservar una sala de reuniones deben ponerse en contacto directamente con pg@kakaocorp.com para más información.",
+    "suite-page-organization-integrations-kakaopay-marketing-link-description": "Más información",
+    "suite-page-organization-integrations-kakaopay-title": "Integración"
   }
 }

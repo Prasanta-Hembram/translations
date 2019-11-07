@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-intercom-title": "Интеграция",
     "suite-page-organization-integrations-intercom-button-connect": "Связаться",
-    "suite-page-organization-integrations-intercom-description": "Включите Intercom чтобы организовать коммуникацию с клиентами коворкинга. Подключите Intercom к:\n- Синхронизируйте информацию о клиентах с платформой Intercom.\n- Смотрите когда резиденты в сети.\n- Общайтесь с пользователями ваших веб и мобильных приложений.\n- Общайтесь с гостями вашего сайта.\n- Автоматизируйте сообщения в приложении и имейл коммуникацию.\n- Организуйте правила сообщества и помощь.\n\nIntercom добавит кнопку “Помощь” на страницу Мои Коворкинги. Резиденты используют её чтобы найти нужную информацию или обратиться за помощью. Чтобы включить Intercom, сначала получите ключи API в Настройки > Инсталляция.\n\nФункции и цены Intercom : https://intercom.com"
+    "suite-page-organization-integrations-intercom-description": "Включите Intercom чтобы организовать коммуникацию с клиентами коворкинга.\n\nIntercom добавит кнопку “Помощь” на страницу Мои Коворкинги. Резиденты используют её чтобы найти нужную информацию или обратиться за помощью. Чтобы включить Intercom, сначала получите ключи API в Настройки > Инсталляция.",
+    "suite-page-organization-integrations-intercom-marketing-link-description": "Подробнее",
+    "suite-page-organization-integrations-intercom-title": "Интеграция"
   }
 }

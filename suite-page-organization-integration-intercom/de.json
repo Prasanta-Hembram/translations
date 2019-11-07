@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-intercom-title": "Integration",
     "suite-page-organization-integrations-intercom-button-connect": "Kontaktieren Sie uns",
-    "suite-page-organization-integrations-intercom-description": "Aktivieren Sie Intercom, um die Kommunikation mit Ihren Kunden im Workspace zu organisieren. Verbinden Sie Intercom mit:\n- Synchronisieren Sie Mitgliederinformationen mit der Intercom-Plattform.\n- Sehen Sie, wann Mitglieder online sind.\n- Chatten Sie mit Ihren Web- und mobilen App-Mitgliedern.\n- Chatten Sie mit Ihren Besuchern der Workspace-Website.\n- Automatisieren Sie In-App-Nachrichten und E-Mail-Kommunikation.\n- Organisieren Sie Community-Richtlinien und Hilfe.\n\nIntercom fügt der Seite Meine Workspaces eine Schaltfläche 'Helpdesk' hinzu. Mitglieder nutzen es, um Hilfe-Artikel zu finden und mit dir zu chatten. Um Intercom zu installieren, erhalten Sie zunächst API-Schlüssel unter Einstellungen > Installation.\n\nIntercom-Funktionen und Preise: https://intercom.com"
+    "suite-page-organization-integrations-intercom-description": "Aktivieren Sie Intercom, um die Kommunikation mit Ihren Kunden im Workspace zu organisieren.\n\nIntercom fügt der Seite Meine Workspaces eine Schaltfläche 'Helpdesk' hinzu. Mitglieder nutzen es, um Hilfe-Artikel zu finden und mit dir zu chatten. Um Intercom zu installieren, erhalten Sie zunächst API-Schlüssel unter Einstellungen > Installation.",
+    "suite-page-organization-integrations-intercom-marketing-link-description": "Weitere Infos",
+    "suite-page-organization-integrations-intercom-title": "Integration"
   }
 }

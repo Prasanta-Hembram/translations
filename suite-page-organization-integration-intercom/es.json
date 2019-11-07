@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-intercom-title": "Integración",
     "suite-page-organization-integrations-intercom-button-connect": "Contáctanos",
-    "suite-page-organization-integrations-intercom-description": "Permita que Intercom organice la comunicación con los clientes de su espacio de trabajo. Conectar Intercom a:\n- Sincronizar la información de los miembros con la plataforma de Intercomunicación.\n- Ver cuando los miembros están en línea.\n- Chatear con los miembros de su aplicación web y móvil.\n- Chatear con los visitantes del sitio web de su espacio de trabajo.\n- Automatizar los mensajes en el espacio de trabajo y las comunicaciones por correo electrónico.\n- Organizar las directrices de la comunidad y la ayuda.\n- El Intercom agrega un botón de 'Helpdesk' a la página de mis espacios de trabajo. Los miembros lo usan para encontrar artículos de ayuda y chatear contigo. Para instalar Intercom, primero obtenga las claves de la API en Ajustes > Instalación.\nLas características y precios de Intercom: https://intercom.com"
+    "suite-page-organization-integrations-intercom-description": "Permita que Intercom organice la comunicación con los clientes de su espacio de trabajo.\n\nEl Intercom agrega un botón de 'Helpdesk' a la página de mis espacios de trabajo. Los miembros lo usan para encontrar artículos de ayuda y chatear contigo. Para instalar Intercom, primero obtenga las claves de la API en Ajustes > Instalación.",
+    "suite-page-organization-integrations-intercom-marketing-link-description": "Más información",
+    "suite-page-organization-integrations-intercom-title": "Integración"
   }
 }

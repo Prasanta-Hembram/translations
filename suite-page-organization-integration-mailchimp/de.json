@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-page-organization-integrations-mailchimp-title": "Integration",
     "suite-page-organization-integrations-mailchimp-account-audience": "Zielgruppe",
     "suite-page-organization-integrations-mailchimp-account-audience-default": "Nicht ausgewählt",
     "suite-page-organization-integrations-mailchimp-account-login-email": "Email",
@@ -9,8 +8,10 @@
     "suite-page-organization-integrations-mailchimp-account-title": "Account",
     "suite-page-organization-integrations-mailchimp-button-connect": "Verbinden",
     "suite-page-organization-integrations-mailchimp-button-disconnect": "Abmelden",
-    "suite-page-organization-integrations-mailchimp-description": "Synchronisieren Sie Mitgliederinformationen aus dem Verzeichnis mit Mailchimp. Nutzen Sie die volle Leistungsfähigkeit der Mailchimp-Plattform, um:\n- Automatisierte Begrüßungs-E-Mails an neue Mitglieder zu senden.\n- Monatliche Newsletter an alle Mitglieder auf einmal zu senden.\n- Erinnern Sie Teammanager daran, per Rechnung zu bezahlen.\n\nUtzen Sie Mitgliederinformationen, um E-Mails zu personalisieren. Die folgenden Daten werden an Mailchimp übermittelt: \n- Name.\n- Nachname.\n- E-Mail.\n- Team Manager (Tag).\n\nMailchimp Funktionen und Preise: https://mailchimp.com",
+    "suite-page-organization-integrations-mailchimp-description": "Synchronisieren Sie Mitgliederinformationen aus dem Verzeichnis mit Mailchimp.",
+    "suite-page-organization-integrations-mailchimp-marketing-link-description": "Weitere Infos",
     "suite-page-organization-integrations-mailchimp-login-title": "Bei Mailchimp einloggen",
-    "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp"
+    "suite-page-organization-integrations-mailchimp-subtitle": "Mailchimp",
+    "suite-page-organization-integrations-mailchimp-title": "Integration"
   }
 }

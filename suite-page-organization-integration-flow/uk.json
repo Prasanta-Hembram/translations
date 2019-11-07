@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-integrations-flow-title": "Інтеграція",
     "suite-page-organization-integrations-flow-button-connect": "Зв'язатися",
-    "suite-page-organization-integrations-flow-description": "Включіть Flow щоб зразу приймати оплату банківськими картками в застосунку. Включіть спосіб оплати 'Картка' для:\n- Сторінки резервацій переговорних кімнат.\n- Сторінки оплати інвойсів.\n\nЗа допомогою потоку ви можете швидко та надійно отримувати платежі через:\n- Webpay Plus - Кредитні та дебетові картки.\n- One Pay - Електронний гаманець для оплати банківськими кредитними картками, не вводячи реквізити кожного разу.\n- Multicaja - платіж готівкою за допомогою купона для оплати віч-на-віч, для небанківських клієнтів.\n- CryptoCompra - Оплата криптовалютою.\n\nОплата Flow проходить в застосунку без перенаправлення чи завантаження інших додатків. Щоб підключити інтеграцію, підготуйте свої ключі для API: https://www.flow.cl/app/web/misDatos.php."
+    "suite-page-organization-integrations-flow-description": "Включіть Flow щоб зразу приймати оплату банківськими картками в застосунку. \n\n Оплата Flow проходить в застосунку без перенаправлення чи завантаження інших додатків. Щоб підключити інтеграцію, підготуйте свої ключі для API: https://www.flow.cl/app/web/misDatos.php.",
+    "suite-page-organization-integrations-flow-marketing-link-description": "Дізнатись більше",
+    "suite-page-organization-integrations-flow-title": "Інтеграція"
   }
 }
