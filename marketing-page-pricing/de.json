@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-pricing-meta-title": "Preise - Preispakete für Coworking-Spaces | andcards",
-    "marketing-page-pricing-meta-description": "Die Tarife sind für jede Art von Coworking Space erschwinglich. Beginnen Sie mit der Verwendung von unserer Software ab $129 pro Monat, wobei alle Funktionen enthalten sind + erhalten Sie einen Rabatt auf einen Jahresplan.",
+    "marketing-page-pricing-meta-description": "Die Tarife sind für jede Art von Coworking Space erschwinglich. Beginnen Sie mit der Verwendung von unserer Software ab {price} pro Monat, wobei alle Funktionen enthalten sind + erhalten Sie einen Rabatt auf einen Jahresplan.",
     "marketing-page-pricing-add-ons-branded-member-portal-title": "Marken-Mitgliederportal",
     "marketing-page-pricing-add-ons-branded-mobile-apps-title": "Marken-Mobile Apps",
     "marketing-page-pricing-features-title": "Hier ist, was Sie bekommen",
@@ -22,7 +22,7 @@
     "marketing-page-pricing-price-contact-sales-button": "Kontakt zum Vertrieb",
     "marketing-page-pricing-price-notice": "Alle Preise sind Richtwerte und unterliegen den in Ihrem Land geltenden Steuern und Gebühren für die Zahlungsmethode.",
     "marketing-page-pricing-price-per-month": "pro Monat",
-    "marketing-page-pricing-subheadline": "Egal, ob Sie eine einzelne Dependance oder ein Netzwerk von Coworkingspaces haben, die Preisgestaltung von andcards macht einfach Sinn. Alle Funktionen sind unbegrenzt und beginnen bei nur $129 pro Monat.",
+    "marketing-page-pricing-subheadline": "Egal, ob Sie eine einzelne Dependance oder ein Netzwerk von Coworkingspaces haben, die Preisgestaltung von andcards macht einfach Sinn. Alle Funktionen sind unbegrenzt und beginnen bei nur {price} pro Monat.",
     "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Anzahl der Meetingräume",
     "marketing-page-pricing-toolbox-venue-title": "Ort"
   }

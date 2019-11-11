@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-pricing-meta-title": "Pricing — price plans for coworking spaces | andcards",
-    "marketing-page-pricing-meta-description": "andcards pricing is affordable for every type of coworking space. Start using soft for $129 per month with all functions included + get a discount on a year plan.",
+    "marketing-page-pricing-meta-description": "andcards pricing is affordable for every type of coworking space. Start using soft for {price} per month with all functions included + get a discount on a year plan.",
     "marketing-page-pricing-add-ons-branded-member-portal-title": "Branded Member Portal",
     "marketing-page-pricing-add-ons-branded-mobile-apps-title": "Branded Mobile Apps",
     "marketing-page-pricing-features-title": "Here's what you get",
@@ -22,7 +22,7 @@
     "marketing-page-pricing-price-contact-sales-button": "Contact Sales",
     "marketing-page-pricing-price-notice": "All prices are indicative and subject to applicable taxes in your country and payment method fees.",
     "marketing-page-pricing-price-per-month": "per month",
-    "marketing-page-pricing-subheadline": "Whether you're a single branch or a multi-branch network, andcards pricing just make sense. All functions unlimited, starting just $129 per month.",
+    "marketing-page-pricing-subheadline": "Whether you're a single branch or a multi-branch network, andcards pricing just make sense. All functions unlimited, starting just {price} per month.",
     "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Meeting Room Quantity",
     "marketing-page-pricing-toolbox-venue-title": "Venue"
   }

@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-pricing-meta-title": "Цены — сколько стоит andcards для коворкингов | andcards",
-    "marketing-page-pricing-meta-description": "Ценовая политика andcards подходит для всех типов коворкингов. Начните использовать систему всего за $129 в месяц со всеми функциями.",
+    "marketing-page-pricing-meta-description": "Ценовая политика andcards подходит для всех типов коворкингов. Начните использовать систему всего за {price} в месяц со всеми функциями.",
     "marketing-page-pricing-add-ons-branded-member-portal-title": "Портал под вашим брендом",
     "marketing-page-pricing-add-ons-branded-mobile-apps-title": "Мобильные приложения под вашим брендом",
     "marketing-page-pricing-features-title": "Вот что вы получаете",
@@ -22,7 +22,7 @@
     "marketing-page-pricing-price-contact-sales-button": "Связаться",
     "marketing-page-pricing-price-notice": "Цены указаны без учёта налогов. Чтобы уточнить сумму, свяжитесь с нами.",
     "marketing-page-pricing-price-per-month": "в месяц",
-    "marketing-page-pricing-subheadline": "Одно или несколько отделений — цена сервиса andcards от этого не меняется. Получите доступ к полезным функциям всего за $129 в месяц. Доступна скидка при оформлении подписки на год.",
+    "marketing-page-pricing-subheadline": "Одно или несколько отделений — цена сервиса andcards от этого не меняется. Получите доступ к полезным функциям всего за {price} в месяц. Доступна скидка при оформлении подписки на год.",
     "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Количество переговорных",
     "marketing-page-pricing-toolbox-venue-title": "Количество отделений"
   }

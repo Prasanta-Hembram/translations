@@ -1,7 +1,7 @@
 {
   "data": {
     "marketing-page-pricing-meta-title": "Ціни — скільки коштує andcards для коворкінгів | andcards",
-    "marketing-page-pricing-meta-description": "Цінова політика andcards підходить для всіх типів коворкінгів. Почніть використовувати систему всього за $129 за місяць зі всіма функціями.",
+    "marketing-page-pricing-meta-description": "Цінова політика andcards підходить для всіх типів коворкінгів. Почніть використовувати систему всього за {price} за місяць зі всіма функціями.",
     "marketing-page-pricing-add-ons-branded-member-portal-title": "Брендований веб-портал",
     "marketing-page-pricing-add-ons-branded-mobile-apps-title": "Брендовані мобільні застосунки",
     "marketing-page-pricing-features-title": "Ось що ви отримуєте",
@@ -22,7 +22,7 @@
     "marketing-page-pricing-price-contact-sales-button": "Зв'язатися",
     "marketing-page-pricing-price-notice": "Усі ціни є орієнтовними та підлягають оподаткуванню у вашій країні.",
     "marketing-page-pricing-price-per-month": "щомісячно",
-    "marketing-page-pricing-subheadline": "Не важливо, чи в вас одне відділення коворкінгу, чи декілька, це не впливає на ціну andcards. Доступ до всіх функцій, починаючи з $129 за місяць. Ми пропонуємо знижку за річну підписку.",
+    "marketing-page-pricing-subheadline": "Не важливо, чи в вас одне відділення коворкінгу, чи декілька, це не впливає на ціну andcards. Доступ до всіх функцій, починаючи з {price} за місяць. Ми пропонуємо знижку за річну підписку.",
     "marketing-page-pricing-toolbox-meeting-room-quantity-title": "Кількість мітинг румів",
     "marketing-page-pricing-toolbox-venue-title": "Кількість відділень"
   }
