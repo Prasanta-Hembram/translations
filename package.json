@@ -1,12 +1,12 @@
 {
   "name": "translations",
   "version": "0.0.0",
-  "description": "Translations for Cards services.",
+  "description": "Translations for andcards services.",
   "keywords": [
     "andcards",
-    "cards",
-    "translations",
-    "services"
+    "products",
+    "software",
+    "translations"
   ],
   "author": {
     "name": "Ross Khanas",
