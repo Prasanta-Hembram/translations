@@ -18,11 +18,13 @@ Example:
 
 Example:
 
-`"data": {`
-`"marketing-page-about-meta-title": "About andcards - who we are and what we do | andcards"`,
-`"marketing-page-about-meta-description": "Who is the developer of andcards? Learn about the coworking space marketplace and software.",`
-`...`
+```
+"data": {
+  "marketing-page-about-meta-title": "About andcards - who we are and what we do | andcards",
+  "marketing-page-about-meta-description": "Who is the developer of andcards? Learn about the coworking space marketplace and software.",
+  ...
 `}`
+```
 
 - Follow it's position on a page.
 
