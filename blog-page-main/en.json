@@ -2,6 +2,12 @@
   "data": {
     "blog-page-main-meta-title": "Blog – The Future of Work | andcards",
     "blog-page-main-meta-description": "How to use coworking software? How to manage coworking space? Read our blog for coworking space marketing tips and strategies, coworking business advise and coworking space expert interviews.",
+    "blog-page-main-form-about-title": "About andcards",
+    "blog-page-main-form-about-description": "",
+    "blog-page-main-form-newsletter-title": "Sign up for our newsletter",
+    "blog-page-main-form-email-placeholder": "Your email address",
+    "blog-page-main-form-privacy-text": "View andcards {privacyPolicy}",
+    "blog-page-main-form-privacy-policy": "Privacy Policy",
     "blog-page-main-form-subscribe": "Subscribe",
     "blog-page-main-h1": "The Future of Work",
     "blog-page-main-write-for-us": "Write for Us"
