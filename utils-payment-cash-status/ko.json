@@ -3,6 +3,7 @@
     "utils-payment-cash-status-canceled": "승인 취소",
     "utils-payment-cash-status-paid": "결제 완료",
     "utils-payment-cash-status-unpaid": "결제 예정",
+    "utils-payment-cash-status-unpaid-with-amount": "결제 예정 {amount}",
     "utils-payment-cash-status-title": "결제 사항"
   }
 }

@@ -3,6 +3,7 @@
     "utils-payment-cash-status-canceled": "Cancelado",
     "utils-payment-cash-status-paid": "Pagado",
     "utils-payment-cash-status-unpaid": "No pagado",
+    "utils-payment-cash-status-unpaid-with-amount": "No pagado {amount}",
     "utils-payment-cash-status-title": "Estado"
   }
 }

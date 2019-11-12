@@ -3,6 +3,7 @@
     "utils-payment-cash-status-canceled": "Abgebrochen",
     "utils-payment-cash-status-paid": "Bezahlt",
     "utils-payment-cash-status-unpaid": "Zahlung ausstehend",
+    "utils-payment-cash-status-unpaid-with-amount": "Zahlung ausstehend {amount}",
     "utils-payment-cash-status-title": "Status"
   }
 }

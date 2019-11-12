@@ -7,7 +7,7 @@
     "suite-utils-invoice-item-type-booking-payment-type": "회의실 예약",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "{name} 회의실 예약",
     "suite-utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "{name} {roomName} 회의실 예약",
-    "suite-utils-invoice-is-unfinished": "임시",
+    "suite-utils-invoice-is-unfinished": "임시 {amount}",
     "suite-utils-invoice-item-type-default": "기타"
   }
 }

@@ -3,6 +3,7 @@
     "utils-payment-cash-status-canceled": "Отменено",
     "utils-payment-cash-status-paid": "Оплачено",
     "utils-payment-cash-status-unpaid": "Неоплачено",
+    "utils-payment-cash-status-unpaid-with-amount": "Неоплачено {amount}",
     "utils-payment-cash-status-title": "Статус"
   }
 }

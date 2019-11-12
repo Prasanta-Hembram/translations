@@ -7,7 +7,7 @@
     "suite-utils-invoice-item-type-booking-payment-type": "Gebuchter Raum",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "Raum gebucht von {name}",
     "suite-utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Raum {roomName} gebucht von {name}",
-    "suite-utils-invoice-is-unfinished": "Nicht abgeschlossen",
+    "suite-utils-invoice-is-unfinished": "Nicht abgeschlossen {amount}",
     "suite-utils-invoice-item-type-default": "Sonstiges"
   }
 }

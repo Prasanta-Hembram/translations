@@ -7,7 +7,7 @@
     "suite-utils-invoice-item-type-booking-payment-type": "Резервація кімнати",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "Резервація кімнати через {name}",
     "suite-utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Резервація кімнати {roomName} через {name}",
-    "suite-utils-invoice-is-unfinished": "Незавершений",
+    "suite-utils-invoice-is-unfinished": "Незавершений {amount}",
     "suite-utils-invoice-item-type-default": "Інший"
   }
 }
