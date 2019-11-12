@@ -7,6 +7,7 @@
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "External Payment ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Credits ({balance})",
     "suite-modal-organization-bookings-booking-edit-booked-by": "Booker",
+    "suite-modal-organization-bookings-booking-edit-empty": "This booking may not exist or may have been removed.",
     "suite-modal-organization-bookings-booking-edit-end-time": "Ends",
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Type the booking title.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Type a correct date.",

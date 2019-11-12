@@ -7,6 +7,7 @@
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "외부 지불 ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "크레딧 ({balance})",
     "suite-modal-organization-bookings-booking-edit-booked-by": "예약자",
+    "suite-modal-organization-bookings-booking-edit-empty": "이 예약은 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-modal-organization-bookings-booking-edit-end-time": "종료",
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "예약 제목을 입력해 주세요.",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "정확한 날짜를 입력해 주세요.",
