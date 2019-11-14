@@ -21,6 +21,7 @@
     "bulk-invite-success-email-reservations-list-item": "Reservar salas de reuniones",
     "bulk-invite-success-email-subject": "Te invitamos a registrarte para la aplicación {organizationTitle}",
     "bulk-invite-success-email-title": "Bienvenidos",
+    "email-confirmation-display-mode-exit-subject": "Exit from display mode",
     "email-confirmation-subject": "Iniciar sesión en {title}",
     "email-confirmation-text": "Úsalo para acceder a tu cuenta en 5 minutos.",
     "email-confirmation-title": "Código de confirmación",

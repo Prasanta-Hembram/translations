@@ -21,6 +21,7 @@
     "bulk-invite-success-email-reservations-list-item": "Бронировать переговорные",
     "bulk-invite-success-email-subject": "Приглашаем присоединиться к приложению {organizationTitle}",
     "bulk-invite-success-email-title": "Добро пожаловать",
+    "email-confirmation-display-mode-exit-subject": "Exit from display mode",
     "email-confirmation-subject": "Войти в {title}",
     "email-confirmation-text": "Воспользуйтесь им на протяжении 5 минут.",
     "email-confirmation-title": "Код подтверждения",
