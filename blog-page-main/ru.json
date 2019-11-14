@@ -2,14 +2,14 @@
   "data": {
     "blog-page-main-meta-title": "Блоги — Рабочее место будущего | andcards",
     "blog-page-main-meta-description": "Как использовать систему управления коворкингом? Как управлять коворкинг-центром? Посетите наш блог с его полезными статьями о маркетинг стратегиях, подсказками для коворкингов, советами относительно коворкинг бизнеса и интервью с експертами.",
-    "blog-page-main-form-about-title": "About andcards",
-    "blog-page-main-form-about-description": "andcards is a coworking management software that makes coworking spaces more cool and efficient. andcards branded mobile apps are loved by thousands of members and coworking space managers for simplicity and intuitiveness.",
-    "blog-page-main-form-about-learn-more": "Learn more",
-    "blog-page-main-form-newsletter-title": "Sign up for our newsletter",
-    "blog-page-main-form-email-placeholder": "Your email address",
-    "blog-page-main-form-privacy-text": "View andcards {privacyPolicy}",
-    "blog-page-main-form-privacy-policy": "Privacy Policy",
-    "blog-page-main-form-subscribe": "Subscribe",
+    "blog-page-main-form-about-title": "Про andcards",
+    "blog-page-main-form-about-description": "andcards - это система для управления коворкингом, что делает его более крутым и еффективным. Тысячи резидентов и менеджеров коворкингов любят бердированные приложения andcards за их простоту и интуитивность.",
+    "blog-page-main-form-about-learn-more": "Узнать больше",
+    "blog-page-main-form-newsletter-title": "Подписаться на новости",
+    "blog-page-main-form-email-placeholder": "Ваш email",
+    "blog-page-main-form-privacy-text": "Посмотреть {privacyPolicy} andcards",
+    "blog-page-main-form-privacy-policy": "Политика конфиденциальности",
+    "blog-page-main-form-subscribe": "Подписаться",
     "blog-page-main-h1": "Рабочее место будущего",
     "blog-page-main-write-for-us": "Станьте гостевым автором"
   }
