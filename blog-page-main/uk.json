@@ -2,6 +2,14 @@
   "data": {
     "blog-page-main-meta-title": "Блоґи — Робоче місце майбутнього | andcards",
     "blog-page-main-meta-description": "Як використовувати систему керування коворкінгом? Як керувати коворкінг-центром? Прочитайте наш блог з маркетинговими стратегіями та підказками для коворкінгів, порадами від власників такого бізнесу та інтерв'ю.",
+    "blog-page-main-form-about-title": "Про andcards",
+    "blog-page-main-form-about-description": "andcards - це система для керування коворкінгом, що робить його більш крутим та ефективним. Тисячі резидентів та менеджерів коворкінгів люблять брендовані застосунки andcards за їх зручність та інтуїтивність.",
+    "blog-page-main-form-about-learn-more": "Дізнатись більше",
+    "blog-page-main-form-newsletter-title": "Підписатись на наші новини",
+    "blog-page-main-form-email-placeholder": "Ваш email",
+    "blog-page-main-form-privacy-text": "Переглянути {privacyPolicy} andcards",
+    "blog-page-main-form-privacy-policy": "Політика конфіденційності",
+    "blog-page-main-form-subscribe": "Підписатися",
     "blog-page-main-h1": "Робоче місце майбутнього",
     "blog-page-main-write-for-us": "Напишіть для нас"
   }
