@@ -14,6 +14,7 @@
     "suite-page-organization-bookings-booking-details-delete-repeat": "다시 시도해 주세요",
     "suite-page-organization-bookings-booking-details-empty": "이 예약은 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-bookings-booking-details-payed-with": "결제 수단",
+    "suite-page-organization-bookings-booking-details-payment-status-pending": "Payment status is PENDING and will be deleted in 10 min, if payment will not be finished.",
     "suite-page-organization-bookings-booking-details-title": "예약",
     "suite-page-organization-bookings-booking-details-section-payment": "결제",
     "suite-page-organization-bookings-booking-details-section-people": "예약자",

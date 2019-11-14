@@ -14,6 +14,7 @@
     "suite-page-organization-bookings-booking-details-delete-repeat": "Try again",
     "suite-page-organization-bookings-booking-details-empty": "This booking may not exist or may have been removed.",
     "suite-page-organization-bookings-booking-details-payed-with": "Method",
+    "suite-page-organization-bookings-booking-details-payment-status-pending": "Payment status is PENDING and will be deleted in 10 min, if payment will not be finished.",
     "suite-page-organization-bookings-booking-details-title": "Booking",
     "suite-page-organization-bookings-booking-details-section-payment": "Payment",
     "suite-page-organization-bookings-booking-details-section-people": "People",
