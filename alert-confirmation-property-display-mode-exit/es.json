@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-property-display-mode-exit-title": "Close room display mode",
+    "alert-confirmation-property-display-mode-exit-title": "Cerrar el modo de visualización de sala",
     "alert-confirmation-property-display-mode-exit-no": "Cancelar",
-    "alert-confirmation-property-display-mode-exit-text": "To close display mode, please enter code that was sent on your email.",
-    "alert-confirmation-property-display-mode-exit-yes": "Confirm"
+    "alert-confirmation-property-display-mode-exit-text": "Para cerrar el modo de visualización, ingresa el código que se envió a tu correo electrónico.",
+    "alert-confirmation-property-display-mode-exit-yes": "Confirmar"
   }
 }
