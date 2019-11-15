@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-property-display-mode-exit-title": "Close room display mode",
+    "alert-confirmation-property-display-mode-exit-title": "Raumanzeigemodus schließen",
     "alert-confirmation-property-display-mode-exit-no": "Abbrechen",
-    "alert-confirmation-property-display-mode-exit-text": "To close display mode, please enter code that was sent on your email.",
-    "alert-confirmation-property-display-mode-exit-yes": "Confirm"
+    "alert-confirmation-property-display-mode-exit-text": "Um den Raumanzeigemodus zu schließen, geben Sie bitte den Code ein, der Ihnen per E-Mail zugesandt wurde.",
+    "alert-confirmation-property-display-mode-exit-yes": "Bestätigen"
   }
 }
