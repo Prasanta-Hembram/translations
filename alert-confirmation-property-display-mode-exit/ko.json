@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-property-display-mode-exit-title": "Close room display mode",
+    "alert-confirmation-property-display-mode-exit-title": "회의실 디스플레이 닫기",
     "alert-confirmation-property-display-mode-exit-no": "돌아가기",
-    "alert-confirmation-property-display-mode-exit-text": "To close display mode, please enter code that was sent on your email.",
-    "alert-confirmation-property-display-mode-exit-yes": "Confirm"
+    "alert-confirmation-property-display-mode-exit-text": "디스플레이 모드를 닫으려면 이메일로 전송된 코드를 입력해주세요.",
+    "alert-confirmation-property-display-mode-exit-yes": "확인"
   }
 }
