@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-property-display-mode-exit-title": "Close room display mode",
+    "alert-confirmation-property-display-mode-exit-title": "Виключити режим дисплея для кімнати",
     "alert-confirmation-property-display-mode-exit-no": "Скасувати",
-    "alert-confirmation-property-display-mode-exit-text": "To close display mode, please enter code that was sent on your email.",
-    "alert-confirmation-property-display-mode-exit-yes": "Confirm"
+    "alert-confirmation-property-display-mode-exit-text": "Щоб відключити режим дисплея, будь ласка введіть код, що був відправлений на ваш email.",
+    "alert-confirmation-property-display-mode-exit-yes": "Підтвердити"
   }
 }
