@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-property-display-mode-exit-title": "Close room display mode",
+    "alert-confirmation-property-display-mode-exit-title": "Закрыть режим дисплея переговорной",
     "alert-confirmation-property-display-mode-exit-no": "Отменить",
-    "alert-confirmation-property-display-mode-exit-text": "To close display mode, please enter code that was sent on your email.",
-    "alert-confirmation-property-display-mode-exit-yes": "Confirm"
+    "alert-confirmation-property-display-mode-exit-text": "Чтобы закрить режим дисплея переговорной, пожалуйста введите код, который отправлен на ваш email.",
+    "alert-confirmation-property-display-mode-exit-yes": "Подтвердить"
   }
 }
