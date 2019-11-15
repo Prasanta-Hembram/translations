@@ -14,7 +14,7 @@
     "suite-page-organization-bookings-booking-details-delete-repeat": "Попробуйте еще раз",
     "suite-page-organization-bookings-booking-details-empty": "Это бронирование не существует или было удалено.",
     "suite-page-organization-bookings-booking-details-payed-with": "Cредство",
-    "suite-page-organization-bookings-booking-details-payment-status-pending": "Payment status is PENDING and will be deleted in 10 min, if payment will not be finished.",
+    "suite-page-organization-bookings-booking-details-payment-status-pending": "Бронирование в статусе ожидания и будет удалено через 10 минут, если оплата не будет подтвержденна.",
     "suite-page-organization-bookings-booking-details-title": "Бронирование",
     "suite-page-organization-bookings-booking-details-section-payment": "Оплата",
     "suite-page-organization-bookings-booking-details-section-people": "Люди",
