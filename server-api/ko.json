@@ -21,7 +21,7 @@
     "bulk-invite-success-email-reservations-list-item": "회의실 예약",
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
     "bulk-invite-success-email-title": "환영합니다",
-    "email-confirmation-display-mode-exit-subject": "Exit from display mode",
+    "email-confirmation-display-mode-exit-subject": "회의실 디스플레이 닫기",
     "email-confirmation-subject": "{title}에 로그인하세요",
     "email-confirmation-text": "인증번호를 5분 미만의 이용하세요.",
     "email-confirmation-title": "인증번호",
