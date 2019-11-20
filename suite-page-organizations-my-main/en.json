@@ -7,8 +7,7 @@
     "suite-page-organizations-my-main-button-search": "Search",
     "suite-page-organizations-my-main-desc-activate-membership": "You’re invited to join the workspace. Complete your membership activation.",
     "suite-page-organizations-my-main-get-failure": "Couldn't show workspaces. Are you sure there is an internet connection?",
-    "suite-page-organizations-my-main-no-coworkings-admin": "Running a workspace? Easily manage customers and automate routines.",
-    "suite-page-organizations-my-main-no-coworkings-member": "To join a workspace, you need an invitation. Ask a manager to invite you by email.",
+    "suite-page-organizations-my-main-no-coworkings": "To join a workspace, you need an invitation. Ask a manager to invite you by email.",
     "suite-page-organizations-my-main-no-coworkings-title": "Let's get started",
     "suite-page-organizations-my-main-subscription-trial-button": "Subscribe",
     "suite-page-organizations-my-main-subscription-trial-days-left": "Trial ends {days}."
