@@ -1,23 +1,25 @@
 {
   "data": {
-    "suite-page-organization-settings-general-title": "Загальні",
-    "suite-page-organization-settings-general-bank-info-title": "Інформація про банківський рахунок",
+    "suite-page-organization-settings-general-bank-info-title": "Банківський рахунок",
     "suite-page-organization-settings-general-bank-info-desc": "Це буде відображено в інвойсі.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Уведіть дані банківського рахунку",
-    "suite-page-organization-settings-general-billing-info-title": "Публічна бізнес-інформація",
-    "suite-page-organization-settings-general-billing-info-desc": "Публічна бізнес-інформація допомагає клієнтам розпізнавати вашу компанію на інвойсах. ",
-    "suite-page-organization-settings-general-billing-info-placeholder": "Уведіть інформацію",
     "suite-page-organization-settings-general-currency": "Валюта",
     "suite-page-organization-settings-general-currency-contact-to-support": "Щоб змінити валюту, зверніться до support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Мова",
     "suite-page-organization-settings-general-error-tax-percent": "Уведіть правильне значення ставки податку.",
-    "suite-page-organization-settings-general-policy-info-title": "Інформація про політику",
+    "suite-page-organization-settings-general-invoicing-business-info-title": "Інформація про компанію",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публічна бізнес-інформація допомагає клієнтам розпізнавати вашу компанію на інвойсах. ",
+    "suite-page-organization-settings-general-invoicing-information-title": "Інвойсинг",
+    "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Уведіть інформацію",
+    "suite-page-organization-settings-general-policies-title": "Policies",
     "suite-page-organization-settings-general-policy-info-desc": "Вкажіть інформацію або посилання на конфіденційність, повернення коштів, умови використання чи інші правила. Це з'явиться на сторінці оплати та інвойсу.",
-    "suite-page-organization-settings-general-policy-info-placeholder": "Уведіть інформацію",
     "suite-page-organization-settings-general-policy-link": "Політика конфіденційності",
     "suite-page-organization-settings-general-policy-link-placeholder": "Введіть посилання",
+    "suite-page-organization-settings-general-refund-policy-title": "Політика повернення",
+    "suite-page-organization-settings-general-refund-policy-placeholder": "Уведіть інформацію",
     "suite-page-organization-settings-general-tax-percent-label": "Ставка податку, %",
     "suite-page-organization-settings-general-tax-percent-desc": "Ставка податку використовується для відображення суми податків в інвойсах. Всі ціни повинні включати податок.",
-    "suite-page-organization-settings-general-timezone": "Часовий пояс"
+    "suite-page-organization-settings-general-timezone": "Часовий пояс",
+    "suite-page-organization-settings-general-title": "Загальні"
   }
 }

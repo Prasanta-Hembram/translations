@@ -1,23 +1,25 @@
 {
   "data": {
-    "suite-page-organization-settings-general-title": "Общие",
-    "suite-page-organization-settings-general-bank-info-title": "Информация о банковском счете",
     "suite-page-organization-settings-general-bank-info-desc": "Это будет отражено в инвойсе.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Введите информацию о банковском счете",
-    "suite-page-organization-settings-general-billing-info-title": "Публичная бизнес информация",
-    "suite-page-organization-settings-general-billing-info-desc": "Публичная бизнес информация помогает клиентам узнавать ваш бизнес на инвойсах.",
-    "suite-page-organization-settings-general-billing-info-placeholder": "Введите информацию",
+    "suite-page-organization-settings-general-bank-info-title": "Bank Account",
     "suite-page-organization-settings-general-currency": "Валюта",
     "suite-page-organization-settings-general-currency-contact-to-support": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Язык",
     "suite-page-organization-settings-general-error-tax-percent": "Введите правильное значение процента налога.",
-    "suite-page-organization-settings-general-policy-info-title": "Информация о политике",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публичная бизнес информация помогает клиентам узнавать ваш бизнес на инвойсах.",
+    "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Введите информацию",
+    "suite-page-organization-settings-general-invoicing-business-info-title": "Информация о компании",
+    "suite-page-organization-settings-general-invoicing-information-title": "Инвойсинг",
+    "suite-page-organization-settings-general-policies-title": "Policies",
     "suite-page-organization-settings-general-policy-info-desc": "Включите информацию или ссылки на конфиденциальность, возврат средств, условия использования или другие политики. Это появится на странице оплаты и в инвойсе.",
-    "suite-page-organization-settings-general-policy-info-placeholder": "Введите информацию",
     "suite-page-organization-settings-general-policy-link": "Политика конфиденциальности",
     "suite-page-organization-settings-general-policy-link-placeholder": "Введите ссылку",
-    "suite-page-organization-settings-general-tax-percent-label": "Ставка налога, %",
+    "suite-page-organization-settings-general-refund-policy-placeholder": "Введите информацию",
+    "suite-page-organization-settings-general-refund-policy-title": "Политика возврата",
     "suite-page-organization-settings-general-tax-percent-desc": "Налоговая ставка используется для отображения суммы налога в инвойсах. Все цены должны включать налог.",
-    "suite-page-organization-settings-general-timezone": "Часовой пояс"
+    "suite-page-organization-settings-general-tax-percent-label": "Ставка налога, %",
+    "suite-page-organization-settings-general-timezone": "Часовой пояс",
+    "suite-page-organization-settings-general-title": "Общие"
   }
 }

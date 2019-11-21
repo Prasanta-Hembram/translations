@@ -1,23 +1,25 @@
 {
   "data": {
-    "suite-page-organization-settings-general-title": "General",
-    "suite-page-organization-settings-general-bank-info-title": "Bank Account Information",
     "suite-page-organization-settings-general-bank-info-desc": "This will appear on an invoice.",
+    "suite-page-organization-settings-general-bank-info-title": "Bank Account",
     "suite-page-organization-settings-general-bank-info-placeholder": "Type a bank account information",
-    "suite-page-organization-settings-general-billing-info-title": "Workspace Business Information",
-    "suite-page-organization-settings-general-billing-info-desc": "The workspace business information helps customers recognize your business on invoices.",
-    "suite-page-organization-settings-general-billing-info-placeholder": "Type an information",
     "suite-page-organization-settings-general-currency": "Currency",
     "suite-page-organization-settings-general-currency-contact-to-support": "To change currency, contact to support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Language",
     "suite-page-organization-settings-general-error-tax-percent": "Type a valid tax rate.",
-    "suite-page-organization-settings-general-policy-info-title": "Policy Information",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "The workspace business information helps customers recognize your business on invoices.",
+    "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Type an information",
+    "suite-page-organization-settings-general-invoicing-business-info-title": "Business Information",
+    "suite-page-organization-settings-general-invoicing-information-title": "Invoicing",
+    "suite-page-organization-settings-general-policies-title": "Policies",
     "suite-page-organization-settings-general-policy-info-desc": "Include information or links to privacy, refund, terms of use, or other policies. This will appear on payment page and invoice.",
-    "suite-page-organization-settings-general-policy-info-placeholder": "Type an information",
+    "suite-page-organization-settings-general-refund-policy-placeholder": "Type an information",
+    "suite-page-organization-settings-general-refund-policy-title": "Refund Policy",
     "suite-page-organization-settings-general-policy-link": "Privacy Policy",
     "suite-page-organization-settings-general-policy-link-placeholder": "Type a link",
     "suite-page-organization-settings-general-tax-percent-label": "Tax Rate, %",
     "suite-page-organization-settings-general-tax-percent-desc": "The tax rate is used to display tax amount on invoices. All prices must include the tax.",
-    "suite-page-organization-settings-general-timezone": "Timezone"
+    "suite-page-organization-settings-general-timezone": "Timezone",
+    "suite-page-organization-settings-general-title": "General"
   }
 }
