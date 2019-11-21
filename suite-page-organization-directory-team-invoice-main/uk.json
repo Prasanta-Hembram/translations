@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-directory-team-invoice-main-title": "Інвойс",
     "suite-page-organization-directory-team-invoice-main-download-pdf": "Завантажити PDF",
+    "suite-page-organization-directory-team-invoice-main-excluded-items": "Вилучені позиції",
     "suite-page-organization-directory-team-invoice-main-finalize": "Завершити",
     "suite-page-organization-directory-team-invoice-main-invoice-date": "Дата інвойсу",
     "suite-page-organization-directory-team-invoice-main-money-transaction-payment-type": "Спосіб оплати",
