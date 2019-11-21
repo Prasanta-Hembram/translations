@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-membership-team-invoice-main-title": "Инвойс",
     "suite-page-organization-membership-team-invoice-main-download-pdf": "Скачать PDF",
+    "suite-page-organization-membership-team-invoice-main-excluded-items": "Excluded Items",
     "suite-page-organization-membership-team-invoice-main-invoice-date": "Дата инвойса",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Метод оплаты",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Статус",

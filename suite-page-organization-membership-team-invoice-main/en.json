@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-membership-team-invoice-main-title": "Invoice",
     "suite-page-organization-membership-team-invoice-main-download-pdf": "Download PDF",
+    "suite-page-organization-membership-team-invoice-main-excluded-items": "Excluded Items",
     "suite-page-organization-membership-team-invoice-main-invoice-date": "Invoice Date",
     "suite-page-organization-membership-team-invoice-main-money-transaction-payment-type": "Payment Method",
     "suite-page-organization-membership-team-invoice-main-money-transaction-status": "Status",
