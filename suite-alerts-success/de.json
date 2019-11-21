@@ -12,7 +12,7 @@
     "suite-alerts-success-booking-edit-refund": "Die Buchung wurde geändert. {priceDifferenceToRefund} zurückerstattet.",
     "suite-alerts-success-invoice-finalized": "Rechnung erfolgreich abgeschlossen.",
     "suite-alerts-success-invoice-money-transaction-saved": "Rechnungstransaktion aktualisiert.",
-    "suite-alerts-success-organization-invite-send": "Einladen versandt.",
+    "suite-alerts-success-organization-invite-send": "Einladung versandt.",
     "suite-alerts-success-organization-invites-send": "Einladungen versandt.",
     "suite-alerts-success-organization-plan-deactivated": "Das Abo wurde erfolgreich deaktiviert.",
     "suite-alerts-success-organization-plan-purchased": "Das Abo wurde erworben.",
