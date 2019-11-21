@@ -21,6 +21,7 @@
     "bulk-invite-success-email-reservations-list-item": "Резервувати мітинг-руми",
     "bulk-invite-success-email-subject": "Запрошуємо долучитися до застосунку {organizationTitle}",
     "bulk-invite-success-email-title": "Ласкаво просимо",
+    "email-confirmation-display-mode-exit-subject": "Вийти з режиму дисплея для кімнати",
     "email-confirmation-subject": "Увійти до {title}",
     "email-confirmation-text": "Скористайтесь ним протягом 5 хвилин.",
     "email-confirmation-title": "Код підтвердження",

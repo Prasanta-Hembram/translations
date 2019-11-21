@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-property-display-mode-exit-title": "Raumanzeigemodus schließen",
+    "alert-confirmation-property-display-mode-exit-no": "Abbrechen",
+    "alert-confirmation-property-display-mode-exit-text": "Um den Raumanzeigemodus zu schließen, geben Sie bitte den Code ein, der Ihnen per E-Mail zugesandt wurde.",
+    "alert-confirmation-property-display-mode-exit-yes": "Bestätigen"
+  }
+}

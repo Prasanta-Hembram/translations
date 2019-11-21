@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-property-display-mode-exit-title": "Cerrar el modo de visualización de sala",
+    "alert-confirmation-property-display-mode-exit-no": "Cancelar",
+    "alert-confirmation-property-display-mode-exit-text": "Para cerrar el modo de visualización, ingresa el código que se envió a tu correo electrónico.",
+    "alert-confirmation-property-display-mode-exit-yes": "Confirmar"
+  }
+}

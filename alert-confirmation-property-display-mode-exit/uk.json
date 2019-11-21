@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-property-display-mode-exit-title": "Виключити режим дисплея для кімнати",
+    "alert-confirmation-property-display-mode-exit-no": "Скасувати",
+    "alert-confirmation-property-display-mode-exit-text": "Щоб відключити режим дисплея, будь ласка введіть код, що був відправлений на ваш email.",
+    "alert-confirmation-property-display-mode-exit-yes": "Підтвердити"
+  }
+}
