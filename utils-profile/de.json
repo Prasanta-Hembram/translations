@@ -1,5 +1,6 @@
 {
   "data": {
-    "utils-profile-name-default": "Kein Name"
+    "utils-profile-name-default": "Kein Name",
+    "utils-profile-name-unidentified": "Unidentified Member"
   }
 }
