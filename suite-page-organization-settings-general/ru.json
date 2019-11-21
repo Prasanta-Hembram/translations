@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-settings-general-bank-info-desc": "Это будет отражено в инвойсе.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Введите информацию о банковском счете",
-    "suite-page-organization-settings-general-bank-info-title": "Bank Account",
+    "suite-page-organization-settings-general-bank-info-title": "банковский счет",
     "suite-page-organization-settings-general-currency": "Валюта",
     "suite-page-organization-settings-general-currency-contact-to-support": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Язык",
@@ -11,7 +11,7 @@
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Введите информацию",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Информация о компании",
     "suite-page-organization-settings-general-invoicing-information-title": "Инвойсинг",
-    "suite-page-organization-settings-general-policies-title": "Policies",
+    "suite-page-organization-settings-general-policies-title": "Политика",
     "suite-page-organization-settings-general-policy-info-desc": "Включите информацию или ссылки на конфиденциальность, возврат средств, условия использования или другие политики. Это появится на странице оплаты и в инвойсе.",
     "suite-page-organization-settings-general-policy-link": "Политика конфиденциальности",
     "suite-page-organization-settings-general-policy-link-placeholder": "Введите ссылку",
