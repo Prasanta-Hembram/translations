@@ -6,6 +6,8 @@
     "suite-page-organization-directory-team-credits-error-credit-system-off": "Das Credit-System des Workspace ist deaktiviert.",
     "suite-page-organization-directory-team-credits-error-team-not-found": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} verfallen am {date}.",
+    "suite-page-organization-directory-team-credits-expiring-desc": "Expiring credits are temporary and expire together with the credit plan.",
+    "suite-page-organization-directory-team-credits-expiring-title": "Expiring Credits",
     "suite-page-organization-directory-team-credits-permanent-desc": "Dauerhafte Credits verfallen nie und bleiben verfügbar, bis sie ausgegeben werden.",
     "suite-page-organization-directory-team-credits-permanent-title": "Dauerhafte Credits",
     "suite-page-organization-directory-team-credits-plan-active-button-assign": "Abo zuweisen",
