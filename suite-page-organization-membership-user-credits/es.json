@@ -6,6 +6,6 @@
     "suite-page-organization-membership-user-credits-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} expira el {date}.",
     "suite-page-organization-membership-user-credits-plan-title": "Plan de créditos",
-    "suite-page-organization-membership-user-credits-policy-details": "Aviso de reembolso de crédito"
+    "suite-page-organization-membership-user-credits-policy-details": "Política de reembolso"
   }
 }

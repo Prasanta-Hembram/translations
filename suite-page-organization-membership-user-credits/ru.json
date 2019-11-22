@@ -6,6 +6,6 @@
     "suite-page-organization-membership-user-credits-error-user-not-found": "Участника не существует или же он был удален.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} истекают {date}.",
     "suite-page-organization-membership-user-credits-plan-title": "План кредитов",
-    "suite-page-organization-membership-user-credits-policy-details": "Политика возврата кредитов"
+    "suite-page-organization-membership-user-credits-policy-details": "Политика возврата"
   }
 }

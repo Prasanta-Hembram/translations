@@ -6,6 +6,6 @@
     "suite-page-organization-membership-user-credits-error-user-not-found": "Учасник не існує або ж був видалений.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-membership-user-credits-plan-title": "План кредитів",
-    "suite-page-organization-membership-user-credits-policy-details": "Політика поверення кредитів"
+    "suite-page-organization-membership-user-credits-policy-details": "Політика повернення"
   }
 }

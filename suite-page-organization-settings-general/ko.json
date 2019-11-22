@@ -1,23 +1,25 @@
 {
   "data": {
-    "suite-page-organization-settings-general-title": "일반",
-    "suite-page-organization-settings-general-bank-info-title": "은행계좌정보",
     "suite-page-organization-settings-general-bank-info-desc": "인보이스에 표시됩니다.",
     "suite-page-organization-settings-general-bank-info-placeholder": "은행계좌정보를 입력하기",
-    "suite-page-organization-settings-general-billing-info-title": "공간 사업자등록정보",
-    "suite-page-organization-settings-general-billing-info-desc": "사업자등록정보는 청구내역에 표시됩니다.",
-    "suite-page-organization-settings-general-billing-info-placeholder": "사업자등록정보를 입력하기",
+    "suite-page-organization-settings-general-bank-info-title": "은행계좌정보",
     "suite-page-organization-settings-general-currency": "화폐 단위",
     "suite-page-organization-settings-general-currency-contact-to-support": "화폐단위를 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-settings-general-default-locale": "기본 언어",
     "suite-page-organization-settings-general-error-tax-percent": "유효 세율을 입력하세요.",
-    "suite-page-organization-settings-general-policy-info-title": "규정정보",
-    "suite-page-organization-settings-general-policy-info-desc": "환불 규정, 개인정보 보호정책, 이용약관 등 링크를 포함하세요. 결제페이지 및 인보이스에 표시됩니다.",
-    "suite-page-organization-settings-general-policy-info-placeholder": "정보를 입력하기",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "사업자등록정보는 청구내역에 표시됩니다.",
+    "suite-page-organization-settings-general-invoicing-business-info-placeholder": "사업자등록정보를 입력하기",
+    "suite-page-organization-settings-general-invoicing-business-info-title": "사업자등록정보",
+    "suite-page-organization-settings-general-invoicing-information-title": "청구",
+    "suite-page-organization-settings-general-policies-title": "정책",
     "suite-page-organization-settings-general-policy-link": "개인정보 보호정책",
     "suite-page-organization-settings-general-policy-link-placeholder": "링크를 입력하기",
-    "suite-page-organization-settings-general-tax-percent-label": "세율, %",
+    "suite-page-organization-settings-general-refund-policy-desc": "환불 규정, 개인정보 보호정책, 이용약관 등 링크를 포함하세요. 결제페이지 및 인보이스에 표시됩니다.",
+    "suite-page-organization-settings-general-refund-policy-placeholder": "정보를 입력하기",
+    "suite-page-organization-settings-general-refund-policy-title": "환불 정책",
     "suite-page-organization-settings-general-tax-percent-desc": "세율은 인보이스에 세금 금액을 표시하는 데 사용됩니다. 모든 가격에는 세금이 포함되어야합니다.",
-    "suite-page-organization-settings-general-timezone": "시간대"
+    "suite-page-organization-settings-general-tax-percent-label": "세율, %",
+    "suite-page-organization-settings-general-timezone": "시간대",
+    "suite-page-organization-settings-general-title": "일반"
   }
 }

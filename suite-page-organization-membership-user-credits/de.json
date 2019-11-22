@@ -6,6 +6,6 @@
     "suite-page-organization-membership-user-credits-error-user-not-found": "Dieser Benutzer ist möglicherweise nicht vorhanden oder wurde entfernt.",
     "suite-page-organization-membership-user-credits-expire": "{pointsExpiring} verfallen am {date}.",
     "suite-page-organization-membership-user-credits-plan-title": "Credit Abo",
-    "suite-page-organization-membership-user-credits-policy-details": "Mitteilung zur Credit-Rückerstattung"
+    "suite-page-organization-membership-user-credits-policy-details": "Rückerstattungsrichtlinie"
   }
 }

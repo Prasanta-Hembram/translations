@@ -1,23 +1,25 @@
 {
   "data": {
-    "suite-page-organization-settings-general-title": "General",
-    "suite-page-organization-settings-general-bank-info-title": "Información de cuenta bancaria",
     "suite-page-organization-settings-general-bank-info-desc": "Esto aparecerá en una factura.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Escriba una información de cuenta bancaria",
-    "suite-page-organization-settings-general-billing-info-title": "Información de Negocios Públicos",
-    "suite-page-organization-settings-general-billing-info-desc": "La información comercial pública ayuda a los clientes a reconocer su negocio en las facturas. ",
-    "suite-page-organization-settings-general-billing-info-placeholder": "Escribe una información",
+    "suite-page-organization-settings-general-bank-info-title": "Cuenta bancaria",
     "suite-page-organization-settings-general-currency": "La moneda",
     "suite-page-organization-settings-general-currency-contact-to-support": "Para cambiar de moneda, contactar con support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Idioma predeterminado",
     "suite-page-organization-settings-general-error-tax-percent": "Escriba una tasa de impuestos válida.",
-    "suite-page-organization-settings-general-policy-info-title": "Información de la política",
-    "suite-page-organization-settings-general-policy-info-desc": "Incluya información o enlaces a reembolso, términos de uso etc. Esto aparecerá en la página de pago y factura.",
-    "suite-page-organization-settings-general-policy-info-placeholder": "Escribe una información",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "La información comercial pública ayuda a los clientes a reconocer su negocio en las facturas. ",
+    "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Escribe una información",
+    "suite-page-organization-settings-general-invoicing-business-info-title": "Información de negocios",
+    "suite-page-organization-settings-general-invoicing-information-title": "Facturación",
+    "suite-page-organization-settings-general-policies-title": "Políticas",
     "suite-page-organization-settings-general-policy-link": "Política de privacidad",
     "suite-page-organization-settings-general-policy-link-placeholder": "Escribe un enlace",
-    "suite-page-organization-settings-general-tax-percent-label": "Tasa de impuesto, %",
+    "suite-page-organization-settings-general-refund-policy-desc": "Incluya información o enlaces a reembolso, términos de uso etc. Esto aparecerá en la página de pago y factura.",
+    "suite-page-organization-settings-general-refund-policy-placeholder": "Escribe una información",
+    "suite-page-organization-settings-general-refund-policy-title": "Política de reembolso",
     "suite-page-organization-settings-general-tax-percent-desc": "La tasa de impuestos se utiliza para mostrar el importe del impuesto en las facturas. Todos los precios deben incluir el impuesto.",
-    "suite-page-organization-settings-general-timezone": "Zona horaria"
+    "suite-page-organization-settings-general-tax-percent-label": "Tasa de impuesto, %",
+    "suite-page-organization-settings-general-timezone": "Zona horaria",
+    "suite-page-organization-settings-general-title": "General"
   }
 }
