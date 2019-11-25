@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-main-action-delete": "Borrar",
+    "suite-page-organization-directory-team-main-action-delete-with-members": "Eliminar con los miembros",
+    "suite-page-organization-directory-team-main-button-balance-history": "Balance de historia",
+    "suite-page-organization-directory-team-main-button-credits": "Créditos",
+    "suite-page-organization-directory-team-main-button-invoices": "Facturas",
+    "suite-page-organization-directory-team-main-button-settings": "Configuraciones",
+    "suite-page-organization-directory-team-main-delete-failure": "No se ha podido borrar el equipo.",
+    "suite-page-organization-directory-team-main-delete-repeat": "Inténtalo de nuevo",
+    "suite-page-organization-directory-team-main-no-managers-in-team": "Este equipo aún no tiene administradores de equipo.",
+    "suite-page-organization-directory-team-main-no-members-in-team": "Este equipo aún no tiene miembros.",
+    "suite-page-organization-directory-team-main-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-directory-team-main-section-team-managers": "Administradores del equipo",
+    "suite-page-organization-directory-team-main-section-team-members": "Miembros del equipo",
+    "suite-page-organization-directory-team-main-section-membership-title": "Membresía",
+    "suite-page-organization-directory-team-main-select-team-managers-title": "Elegir gerentes de equipo",
+    "suite-page-organization-directory-team-main-select-team-members-title": "Elegir miembros de equipo"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-page-organization-directory-team-main-action-delete": "Удалить",
+    "suite-page-organization-directory-team-main-action-delete-with-members": "Удалить с участниками",
+    "suite-page-organization-directory-team-main-button-balance-history": "История транзакций",
+    "suite-page-organization-directory-team-main-button-credits": "Кредиты",
+    "suite-page-organization-directory-team-main-button-invoices": "Инвойсы",
+    "suite-page-organization-directory-team-main-button-settings": "Настройки",
+    "suite-page-organization-directory-team-main-delete-failure": "Не удалось удалить команду.",
+    "suite-page-organization-directory-team-main-delete-repeat": "Попробовать снова",
+    "suite-page-organization-directory-team-main-no-managers-in-team": "В этой команды еще нет менеджеров.",
+    "suite-page-organization-directory-team-main-no-members-in-team": "В этой команде еще нет участников.",
+    "suite-page-organization-directory-team-main-not-found-error": "Эта команда не существует или была удалена.",
+    "suite-page-organization-directory-team-main-section-team-managers": "Менеджеры команды",
+    "suite-page-organization-directory-team-main-section-team-members": "Участники команды",
+    "suite-page-organization-directory-team-main-section-membership-title": "Участие",
+    "suite-page-organization-directory-team-main-select-team-managers-title": "Выбрать менеджеров команды",
+    "suite-page-organization-directory-team-main-select-team-members-title": "Выбрать участников команды"
+  }
+}
