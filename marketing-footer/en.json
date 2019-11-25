@@ -1,17 +1,18 @@
 {
   "data": {
-    "marketing-footer-directory-about": "About Us",
-    "marketing-footer-directory-blog": "Blog",
-    "marketing-footer-directory-company": "Company",
-    "marketing-footer-directory-cookies": "Cookies Policy",
-    "marketing-footer-directory-downloads": "Downloads",
-    "marketing-footer-directory-features": "Features",
-    "marketing-footer-directory-handnook": "Handbook",
-    "marketing-footer-directory-help": "Help Center",
-    "marketing-footer-directory-pricing": "Pricing",
-    "marketing-footer-directory-privacy": "Privacy Policy",
-    "marketing-footer-directory-product": "Product",
-    "marketing-footer-directory-resources": "Resources",
-    "marketing-footer-directory-terms": "Terms of Use"
+    "marketing-footer-nav-about": "About Us",
+    "marketing-footer-nav-blog": "Blog",
+    "marketing-footer-nav-company": "Company",
+    "marketing-footer-nav-cookies": "Cookies Policy",
+    "marketing-footer-nav-downloads": "Downloads",
+    "marketing-footer-nav-features": "Features",
+    "marketing-footer-nav-handnook": "Handbook",
+    "marketing-footer-nav-help": "Help Center",
+    "marketing-footer-nav-pricing": "Pricing",
+    "marketing-footer-nav-privacy": "Privacy Policy",
+    "marketing-footer-nav-product": "Product",
+    "marketing-footer-nav-resources": "Resources",
+    "marketing-footer-nav-status": "Status",
+    "marketing-footer-nav-terms": "Terms of Use"
   }
 }
