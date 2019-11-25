@@ -1,17 +1,18 @@
 {
   "data": {
-    "marketing-footer-directory-about": "О нас",
-    "marketing-footer-directory-blog": "Блог",
-    "marketing-footer-directory-company": "Компания",
-    "marketing-footer-directory-cookies": "Куки-файлы",
-    "marketing-footer-directory-downloads": "Скачать",
-    "marketing-footer-directory-features": "Функции",
-    "marketing-footer-directory-handnook": "Хэндбук",
-    "marketing-footer-directory-help": "Справочный центр",
-    "marketing-footer-directory-pricing": "Цены",
-    "marketing-footer-directory-privacy": "Конфиденциальность",
-    "marketing-footer-directory-product": "Продукт",
-    "marketing-footer-directory-resources": "Ресурсы",
-    "marketing-footer-directory-terms": "Условия использования"
+    "marketing-footer-nav-about": "О нас",
+    "marketing-footer-nav-blog": "Блог",
+    "marketing-footer-nav-company": "Компания",
+    "marketing-footer-nav-cookies": "Куки-файлы",
+    "marketing-footer-nav-downloads": "Скачать",
+    "marketing-footer-nav-features": "Функции",
+    "marketing-footer-nav-handnook": "Хэндбук",
+    "marketing-footer-nav-help": "Справочный центр",
+    "marketing-footer-nav-pricing": "Цены",
+    "marketing-footer-nav-privacy": "Конфиденциальность",
+    "marketing-footer-nav-product": "Продукт",
+    "marketing-footer-nav-resources": "Ресурсы",
+    "marketing-footer-nav-status": "Status",
+    "marketing-footer-nav-terms": "Условия использования"
   }
 }
