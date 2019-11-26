@@ -1,19 +1,8 @@
 {
   "data": {
-    "suite-page-organization-membership-team-profile-balance-history-permission": "Історія транзакцій",
-    "suite-page-organization-membership-team-profile-billing-address-title": "Інформація про компанію",
-    "suite-page-organization-membership-team-profile-billing-address-desc": "Вкажіть назву компанії, адресу та будь-яку іншу юридичну інформацію, яка буде відображатися в інвойсах.",
-    "suite-page-organization-membership-team-profile-billing-address-placeholder": "Увести інформацію",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Резервації по інвойсах",
-    "suite-page-organization-membership-team-profile-invoice-locale": "Мова інвойсів",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "У цієї команди ще немає менеджерів.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "У цієї команди ще немає учасників.",
-    "suite-page-organization-membership-team-profile-not-found-error": "Ця команда не існує або ж була видалена.",
-    "suite-page-organization-membership-team-profile-section-team-actions": "Додаткові дії",
     "suite-page-organization-membership-team-profile-section-team-managers": "Менеджери команди",
-    "suite-page-organization-membership-team-profile-section-team-members": "Учасники команди",
-    "suite-page-organization-membership-team-profile-team-invoice": "Інвойс команди",
-    "suite-page-organization-membership-team-profile-team-invoice-description": "Включити оплату по інвойсу для цієї команди.",
-    "suite-page-organization-membership-team-profile-update-failure": "Не вдалося оновити"
+    "suite-page-organization-membership-team-profile-section-team-members": "Учасники команди"
   }
 }
