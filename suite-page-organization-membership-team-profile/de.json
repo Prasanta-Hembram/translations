@@ -1,19 +1,9 @@
 {
   "data": {
-    "suite-page-organization-membership-team-profile-balance-history-permission": "Saldenhistorie",
-    "suite-page-organization-membership-team-profile-billing-address-title":"Unternehmensinformationen",
-    "suite-page-organization-membership-team-profile-billing-address-desc": "Geben Sie Firmenname, Adresse und alle anderen rechtlichen Informationen an, die auf Rechnungen erscheinen sollen.",
-    "suite-page-organization-membership-team-profile-billing-address-placeholder": "Informationen eingeben",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Berechtigung für Teamrechnungen",
-    "suite-page-organization-membership-team-profile-invoice-locale": "Rechnungssprache",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "Dieses Team hat noch keine Teammanager.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "Dieses Team hat noch keine Mitglieder.",
     "suite-page-organization-membership-team-profile-not-found-error": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-membership-team-profile-section-team-actions": "Team-Aktionen",
     "suite-page-organization-membership-team-profile-section-team-managers": "Teammanager",
-    "suite-page-organization-membership-team-profile-section-team-members": "Teammitglieder",
-    "suite-page-organization-membership-team-profile-team-invoice": "Teamrechnung",
-    "suite-page-organization-membership-team-profile-team-invoice-description": "Wenn diese Option aktiviert ist, wird die Zahlungsmethode der Teamrechnung für das Team verfügbar.",
-    "suite-page-organization-membership-team-profile-update-failure": "Aktualisierung fehlgeschlagen"
+    "suite-page-organization-membership-team-profile-section-team-members": "Teammitglieder"
   }
 }
