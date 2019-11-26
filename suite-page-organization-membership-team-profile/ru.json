@@ -1,19 +1,9 @@
 {
   "data": {
-    "suite-page-organization-membership-team-profile-balance-history-permission": "История транзакций",
-    "suite-page-organization-membership-team-profile-billing-address-title": "Информация о компании",
-    "suite-page-organization-membership-team-profile-billing-address-desc": "Укажите название компании, адрес и любую другую юридическую информацию, указанную в инвойсах.",
-    "suite-page-organization-membership-team-profile-billing-address-placeholder": "Введите информацию",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Бронирование по инвойсу",
-    "suite-page-organization-membership-team-profile-invoice-locale": "Язык инвойсов",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "В этой команды еще нет менеджеров.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "В этой команде еще нет участников.",
     "suite-page-organization-membership-team-profile-not-found-error": "Эта команда не существует или была удалена.",
-    "suite-page-organization-membership-team-profile-section-team-actions": "Дополнительные действия",
     "suite-page-organization-membership-team-profile-section-team-managers": "Менеджеры команды",
-    "suite-page-organization-membership-team-profile-section-team-members": "Участники команды",
-    "suite-page-organization-membership-team-profile-team-invoice": "Инвойс команды",
-    "suite-page-organization-membership-team-profile-team-invoice-description": "Включить оплату по инвойсу для этой команды.",
-    "suite-page-organization-membership-team-profile-update-failure": "Невозможно обновить"
+    "suite-page-organization-membership-team-profile-section-team-members": "Участники команды"
   }
 }

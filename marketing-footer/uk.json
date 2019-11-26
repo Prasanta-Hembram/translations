@@ -1,17 +1,18 @@
 {
   "data": {
-    "marketing-footer-directory-about": "Про нас",
-    "marketing-footer-directory-blog": "Блоґ",
-    "marketing-footer-directory-company": "Компанія",
-    "marketing-footer-directory-cookies": "Кукі-файли",
-    "marketing-footer-directory-downloads": "Завантаження",
-    "marketing-footer-directory-features": "Функції",
-    "marketing-footer-directory-handnook": "Хендбук",
-    "marketing-footer-directory-help": "Довідковий центр",
-    "marketing-footer-directory-pricing": "Ціни",
-    "marketing-footer-directory-privacy": "Приватність",
-    "marketing-footer-directory-product": "Продукт",
-    "marketing-footer-directory-resources": "Ресурси",
-    "marketing-footer-directory-terms": "Умови надання послуг"
+    "marketing-footer-nav-about": "Про нас",
+    "marketing-footer-nav-blog": "Блоґ",
+    "marketing-footer-nav-company": "Компанія",
+    "marketing-footer-nav-cookies": "Кукі-файли",
+    "marketing-footer-nav-downloads": "Завантаження",
+    "marketing-footer-nav-features": "Функції",
+    "marketing-footer-nav-handnook": "Хендбук",
+    "marketing-footer-nav-help": "Довідковий центр",
+    "marketing-footer-nav-pricing": "Ціни",
+    "marketing-footer-nav-privacy": "Приватність",
+    "marketing-footer-nav-product": "Продукт",
+    "marketing-footer-nav-resources": "Ресурси",
+    "marketing-footer-nav-status": "Статус",
+    "marketing-footer-nav-terms": "Умови надання послуг"
   }
 }

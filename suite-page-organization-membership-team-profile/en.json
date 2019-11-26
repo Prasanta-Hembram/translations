@@ -1,19 +1,9 @@
 {
   "data": {
-    "suite-page-organization-membership-team-profile-balance-history-permission": "Balance History",
-    "suite-page-organization-membership-team-profile-billing-address-title":"Business Information",
-    "suite-page-organization-membership-team-profile-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
-    "suite-page-organization-membership-team-profile-billing-address-placeholder": "Type an information",
-    "suite-page-organization-membership-team-profile-book-by-invoice-permission": "Team invoice permission",
-    "suite-page-organization-membership-team-profile-invoice-locale": "Invoice Language",
     "suite-page-organization-membership-team-profile-no-managers-in-team": "This team doesn't have team managers yet.",
     "suite-page-organization-membership-team-profile-no-members-in-team": "This team doesn't have members yet.",
     "suite-page-organization-membership-team-profile-not-found-error": "This team may not exist or may have been removed.",
-    "suite-page-organization-membership-team-profile-section-team-actions": "Team Actions",
     "suite-page-organization-membership-team-profile-section-team-managers": "Team Managers",
-    "suite-page-organization-membership-team-profile-section-team-members": "Team Members",
-    "suite-page-organization-membership-team-profile-team-invoice": "Team Invoice",
-    "suite-page-organization-membership-team-profile-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
-    "suite-page-organization-membership-team-profile-update-failure": "Failed to update"
+    "suite-page-organization-membership-team-profile-section-team-members": "Team Members"
   }
 }

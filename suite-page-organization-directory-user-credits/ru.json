@@ -6,6 +6,8 @@
     "suite-page-organization-directory-user-credits-error-credit-system-off": "Кредитная система в коворкинге отключена.",
     "suite-page-organization-directory-user-credits-error-user-not-found": "Участника не существует или же он был удален.",
     "suite-page-organization-directory-user-credits-expire": "{pointsExpiring} истекают {date}.",
+    "suite-page-organization-directory-user-credits-expiring-desc": "Срок действия кредитов является временным и истекает вместе с кредитным планом.",
+    "suite-page-organization-directory-user-credits-expiring-title": "Временные кредиты",
     "suite-page-organization-directory-user-credits-permanent-desc": "Постоянные кредиты не имеют срока истечения и действительны до момента их полного использования.",
     "suite-page-organization-directory-user-credits-permanent-title": "Постоянные кредиты",
     "suite-page-organization-directory-user-credits-plan-active-button-assign": "Присвоить план",
