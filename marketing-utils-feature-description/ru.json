@@ -3,13 +3,6 @@
     "marketing-utils-feature-description-benefits": "Организация дополнительных услуги для приема заявок от участников",
     "marketing-utils-feature-description-bookings": "Автоматическое бронирование конференц-залов за кредиты или банковские карты",
     "marketing-utils-feature-description-directory": "Консолидация всех данных о резидентах коворкинга",
-    "marketing-utils-feature-description-statistics": "Анализ тенденций участия и доходов коворкинга",
-    "marketing-utils-feature-description-apple-calendar": "Синхронизация бронирований переговорных комнат с Apple Calendar",
-    "marketing-utils-feature-description-google-calendar": "Синхронизация бронирований переговорных комнат с  Google Calendar",
-    "marketing-utils-feature-description-intercom": "Организация онлайн коммуникации между резидентами коворкинга и менеджерами отделения",
-    "marketing-utils-feature-description-mailchimp": "Синхронизация информации резидентов коворкинга в список подписчиков на Mailchimp",
-    "marketing-utils-feature-description-microsoft-calendar": "Синхронизация бронирований переговорных комнат с  Microsoft Outlook Calendar",
-    "marketing-utils-feature-description-stripe": "Прием платежей по банковским картам в приложении для коворкинга",
-    "marketing-utils-feature-description-sindoh": "Автоматический подсчет количества страниц, распечатанных резидентами коворкинга"
+    "marketing-utils-feature-description-statistics": "Анализ тенденций участия и доходов коворкинга"
   }
 }

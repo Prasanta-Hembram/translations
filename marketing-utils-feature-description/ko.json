@@ -3,13 +3,6 @@
     "marketing-utils-feature-description-benefits": "회원 신청을 위한 베네핏과 서비스를 구성하세요.",
     "marketing-utils-feature-description-bookings": "회의실 예약, 무료 시간 크레딧 및 결제를 자동화하세요",
     "marketing-utils-feature-description-directory": "모든 회원 고객들의 정보를 통합하세요",
-    "marketing-utils-feature-description-statistics": "회원 및 매출 동향을 분석하세요",
-    "marketing-utils-feature-description-apple-calendar": "andcards에서 만든 모든 회의실 예약을 애플 캘린더에서 보세요",
-    "marketing-utils-feature-description-google-calendar": "andcards에서 만든 모든 회의실 예약을 구글 캘린더에서 보세요",
-    "marketing-utils-feature-description-intercom": "코워킹스페이스 관리자와 회원 간의 온라인 커뮤니케이션을 구성하세요",
-    "marketing-utils-feature-description-mailchimp": "코워킹스페이스 회원 정보를 Mailchimp 구독자 리스트로 동기화하세요",
-    "marketing-utils-feature-description-microsoft-calendar": "andcards에서 만든 모든 회의실 예약을 아웃룩 캘린더에서 보세요",
-    "marketing-utils-feature-description-stripe": "코워킹스페이스 앱 내에서 직불 또는 신용 카드를 즉시 구입하십시오",
-    "marketing-utils-feature-description-sindoh": "코워킹스페이스 회원을 인쇄한 페이지 수를 자동으로 계산하세요"
+    "marketing-utils-feature-description-statistics": "회원 및 매출 동향을 분석하세요"
   }
 }

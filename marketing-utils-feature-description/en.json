@@ -3,13 +3,6 @@
     "marketing-utils-feature-description-benefits": "Organize benefits and services to accept member applications",
     "marketing-utils-feature-description-bookings": "Automate meeting room booking, free hour credits and payments",
     "marketing-utils-feature-description-directory": "Consolidate all coworking space customer data",
-    "marketing-utils-feature-description-statistics": "Analyze membership and revenue trends",
-    "marketing-utils-feature-description-apple-calendar": "View all meeting room bookings made on andcards in Apple Calendar",
-    "marketing-utils-feature-description-google-calendar": "View all meeting room bookings made on andcards in Google Calendar",
-    "marketing-utils-feature-description-intercom": "Organize communication with your workspace space customers",
-    "marketing-utils-feature-description-mailchimp": "Synchronize member information from Directory to an audience on Mailchimp",
-    "marketing-utils-feature-description-microsoft-calendar": "View all meeting room bookings made on andcards in Microsoft Outlook Calendar",
-    "marketing-utils-feature-description-stripe": "Instantly acquire debit or credit cards for meeting room reservations",
-    "marketing-utils-feature-description-sindoh": "Automatically count how many pages coworking space members printed"
+    "marketing-utils-feature-description-statistics": "Analyze membership and revenue trends"
   }
 }
