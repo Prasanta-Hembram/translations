@@ -12,7 +12,7 @@
     "booking-ends-in-five-minutes-notification-body": "회의실 예약이 5분 후 종료됩니다. 회의실을 정리하세요.",
     "booking-start-notification-body": "회의실 예약이 5분 후 시작됩니다. 상세 정보를 확인하세요.",
     "bulk-invite-success-email-activate-link": "활성화하기",
-    "bulk-invite-success-email-activation-note": "You are invited to join {organizationTitle}. Log in with your email {userEmail} to activate the account.",
+    "bulk-invite-success-email-activation-note": "{organizationTitle} 가입 초대를 받았습니다. {userEmail} 이메일로 로그인해서 계정을 활성화시키세요.",
     "bulk-invite-success-email-greeting": "안녕하세요 {userFullName}님,",
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
     "bulk-invite-success-email-title": "환영합니다",
