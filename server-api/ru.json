@@ -12,7 +12,7 @@
     "booking-ends-in-five-minutes-notification-body": "Ваше бронирование закончится через 5 минут. Оставьте комнату в чистоте.",
     "booking-start-notification-body": "Ваше бронирование начнется через 5 минут. Проверьте детали.",
     "bulk-invite-success-email-activate-link": "Активировать",
-    "bulk-invite-success-email-activation-note": "You are invited to join {organizationTitle}. Log in with your email {userEmail} to activate the account.",
+    "bulk-invite-success-email-activation-note": "Вас пригласили в организацию {organizationTitle}. Ввойдите с вашим email {userEmail} чтобы активировать акаунт.",
     "bulk-invite-success-email-greeting": "Привет, {userFullName}!",
     "bulk-invite-success-email-subject": "Приглашаем присоединиться к приложению {organizationTitle}",
     "bulk-invite-success-email-title": "Добро пожаловать",
