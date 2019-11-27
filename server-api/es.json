@@ -12,7 +12,7 @@
     "booking-ends-in-five-minutes-notification-body": "Tu reserva termina en 5 minutos. Por favor, mantenga la sala limpia.",
     "booking-start-notification-body": "Tu reserva comienza en 5 minutos. Ver detalles.",
     "bulk-invite-success-email-activate-link": "Activar",
-    "bulk-invite-success-email-activation-note": "You are invited to join {organizationTitle}. Log in with your email {userEmail} to activate the account.",
+    "bulk-invite-success-email-activation-note": "Te invitamos a unirte a {organizationTitle}. Conéctate con tu correo electrónico {userEmail} para activar la cuenta.",
     "bulk-invite-success-email-greeting": "¡Hola {userFullName}!",
     "bulk-invite-success-email-subject": "Te invitamos a registrarte para la aplicación {organizationTitle}",
     "bulk-invite-success-email-title": "Bienvenidos",
