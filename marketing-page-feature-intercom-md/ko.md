@@ -1,4 +1,5 @@
 여러분의 코워킹 스페이스 고객들과 커뮤니케이션을 형성하기 위해 Intercom을 활성화시켜보세요. Intercom을 연동하실 경우 다음과 같은 기능을 이용하실 수 있습니다 :
+
 - Intercom 플랫폼 내 회원 정보 동기화.
 - 회원 온라인 여부 확인.
 - 웹 및 모바일 앱 회원과 채팅.
@@ -10,4 +11,4 @@ Intercom은 “헬프데스크” 버튼을 추가합니다. 회원들은 도움
 
 ---
 
-![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
+![코워킹 스페이스를 위한 Intercom](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
