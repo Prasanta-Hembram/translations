@@ -1,13 +1,13 @@
-Automate meeting room booking at your coworking space. Prevent overbooking and accidental booking deletions, remind members about upcoming bookings with push notifications, and ensure equal and even access to meeting space. Credit system enables a fully automated free hour allocation to save branch manager’s time.
+코워킹 스페이스에서의 회의실 예약을 자동화시켜보세요. 오버부킹과 우발적인 예약 삭제 등을 방지하고, 회원들에게 푸시 알림으로 향후 예약을 상기시키며, 회의 공간에 동등하고 균일하게 출입할 수 있도록 보장해드립니다. 크레딧 시스템은 지점 매니저들의 시간을 절약하기 위해 완전히 자동화된 무료 시간 할당을 가능하게 합니다.  
 
-- Reduce meeting room booking conflicts and overlaps to 0 — andcards does not allow booking overlap.
-- Reduce abandoned bookings with push notifications with reminders of booking start and finish.
-- Earn more by enabling effortless debit or credit cards in-app payments.
-- Book using mobile apps for iOS and Android.
-- Easily find and book meeting rooms in other branches of the network.
-- Synchronize bookings with personal calendar (Google, Outlook, Apple).
-- Manage bookings: admin can book on behalf of any member, view and edit bookings, set minimum and maximum booking length, booking step.
-- Simple and beautiful user interface with room photos and familiar calendar.
+- 회의실 예약 겹침 및 중복 0으로 감소 — andcards는 겹치는 예약을 허용하지 않습니다.  does not allow booking overlap.
+- 예약 시간 시작 및 종료에 대한 푸시 알림으로 버려지는 예약 건 감소.
+- 손쉬운 직불카드 혹은 신용카드 인앱 결제수단을 통한 더 많은 수익 창출.
+- iOS와 Android 버전 모바일 앱을 이용한 예약.
+- 다른 지점 회의실도 간편하게 찾고 예약 가능.
+- 개인 캘린더에 예약 일정 동기화 (Google, Outlook, Apple).
+- 예약 관리: 관리자는 모든 회원들 대신에 예약 생성, 예약 열람과 편집, 최소 및 최대 예약 시간 설정, 예약 단위 설정 가능.
+- 회의실 사진과 친숙한 캘린더로 간단하고 예쁜 사용자 인터페이스.
 
 ### 회의실 디스플레이 시스템
 
@@ -15,16 +15,16 @@ Automate meeting room booking at your coworking space. Prevent overbooking and a
 
 ---
 
-![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
+![코워킹 예약 시스템](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
 
 
-![Coworking Booking Calendar](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
+![코워킹 예약 캘린더](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
 
 
-![Coworking Booking System Payment Methods](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
+![코워킹 예약 시스템 결제 수단](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
 
 
-![Coworking Booking System Pay with Credit Card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
+![코워킹 예약 시스템 신용카드 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
 
 
-![Coworking Booking System Meeting Room Display](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)
+![코워킹 예약 시스템 회의실 디스플레이](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)
