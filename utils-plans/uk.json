@@ -3,7 +3,7 @@
     "utils-plans-details-description-repeat-forever": "{credits} нараховано {dateStart}, повторюється кожен {period}.",
     "utils-plans-details-description-repeat-never": "{credits} нараховано {dateStart} до {dateEnd}.",
     "utils-plans-details-description-repeat-times": "{credits} нараховано {dateStart}, повторюється {repeat} раз(ів) до {dateEnd}.",
-    "utils-plans-details-description-repeat-unsupported": "Update app. Your version of the app couldn’t display this.",
+    "utils-plans-details-description-repeat-unsupported": "Оновіть застосунок. Дана версія застосунку не може відобразити це.",
     "utils-plans-pay-with-card": "Карткою",
     "utils-plans-pay-with-cash": "Зовнішній платіж",
     "utils-plans-period-day": "День",
