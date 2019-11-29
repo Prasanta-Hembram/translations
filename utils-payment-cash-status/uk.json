@@ -4,6 +4,7 @@
     "utils-payment-cash-status-paid": "Сплачено",
     "utils-payment-cash-status-unpaid": "Несплачено",
     "utils-payment-cash-status-unpaid-with-amount": "Несплачено {amount}",
-    "utils-payment-cash-status-title": "Статус"
+    "utils-payment-cash-status-title": "Статус",
+    "utils-payment-cash-status-unsupported": "Update app. Your version of the app couldn’t display the status."
   }
 }

@@ -4,6 +4,7 @@
     "utils-payment-cash-status-paid": "Pagado",
     "utils-payment-cash-status-unpaid": "No pagado",
     "utils-payment-cash-status-unpaid-with-amount": "No pagado {amount}",
-    "utils-payment-cash-status-title": "Estado"
+    "utils-payment-cash-status-title": "Estado",
+    "utils-payment-cash-status-unsupported": "Update app. Your version of the app couldn’t display the status."
   }
 }

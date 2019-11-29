@@ -17,6 +17,7 @@
     "suite-utils-transactions-money-transaction-payment-type-card": "Карточка",
     "suite-utils-transactions-money-transaction-payment-type-kakaopay": "KakaoPay",
     "suite-utils-transactions-money-transaction-payment-type-not-selected": "Не выбран",
+    "suite-utils-transactions-money-transaction-payment-type-unsupported": "Unsupported Payment Type",
     "suite-utils-transactions-money-transaction-status-approved": "Подтверждено",
     "suite-utils-transactions-money-transaction-status-canceled": "Отменено",
     "suite-utils-transactions-money-transaction-status-failed": "Неудачно",

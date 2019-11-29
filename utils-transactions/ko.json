@@ -17,6 +17,7 @@
     "suite-utils-transactions-money-transaction-payment-type-card": "카드",
     "suite-utils-transactions-money-transaction-payment-type-kakaopay": "카카오페이",
     "suite-utils-transactions-money-transaction-payment-type-not-selected": "선택 없음",
+    "suite-utils-transactions-money-transaction-payment-type-unsupported": "Unsupported Payment Type",
     "suite-utils-transactions-money-transaction-status-approved": "승인 완료",
     "suite-utils-transactions-money-transaction-status-canceled": "승인 취소",
     "suite-utils-transactions-money-transaction-status-failed": "거절",
