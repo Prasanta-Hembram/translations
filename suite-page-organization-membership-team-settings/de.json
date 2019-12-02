@@ -8,7 +8,6 @@
     "suite-page-organization-membership-team-settings-book-by-invoice-permission": "Berechtigung für Teamrechnungen",
     "suite-page-organization-membership-team-settings-invoice-locale": "Rechnungssprache",
     "suite-page-organization-membership-team-settings-not-found-error": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-membership-team-settings-section-team-actions": "Team-Aktionen",
     "suite-page-organization-membership-team-settings-team-invoice": "Teamrechnung",
     "suite-page-organization-membership-team-settings-team-invoice-description": "Wenn diese Option aktiviert ist, wird die Zahlungsmethode der Teamrechnung für das Team verfügbar.",
     "suite-page-organization-membership-team-settings-update-failure": "Aktualisierung fehlgeschlagen"
