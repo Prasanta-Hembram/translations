@@ -5,6 +5,6 @@
     "utils-payment-cash-status-unpaid": "Zahlung ausstehend",
     "utils-payment-cash-status-unpaid-with-amount": "Zahlung ausstehend {amount}",
     "utils-payment-cash-status-title": "Status",
-    "utils-payment-cash-status-unsupported": "Update app. Your version of the app couldn't display the status."
+    "utils-payment-cash-status-unsupported": "Bitte aktualisieren Sie die App. Ihre Version der App konnte den Status nicht anzeigen."
   }
 }
