@@ -7,7 +7,6 @@
     "suite-utils-transactions-money-transaction-book-by-cash-with-name": "Бронь {propertyName} ∙ Внешний платеж ∙ {name}",
     "suite-utils-transactions-money-transaction-book-by-cash-with-room-name": "Бронь {propertyName} ∙ Внешний платеж",
     "suite-utils-transactions-money-transaction-book-refund-cash": "Отмена брони ∙ Внешний платеж",
-    "suite-utils-transactions-money-transaction-membership-by-card": "Тарифный план ∙ Карточка",
     "suite-utils-transactions-money-transaction-membership-by-cash": "Тарифный план ∙ Внешний платеж",
     "suite-utils-transactions-money-transaction-membership-by-cash-with-admin-name": "Тарифный план ∙ Внешний платеж ∙ {name}",
     "suite-utils-transactions-money-transaction-payment-invoice-bank-transfer": "Инвойс за {transactionDate} ∙ Банковский перевод",

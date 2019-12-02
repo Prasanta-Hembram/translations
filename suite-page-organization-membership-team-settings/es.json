@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-team-settings-title": "Editar equipo",
     "suite-page-organization-membership-team-settings-balance-history-permission": "Historial de balance",
     "suite-page-organization-membership-team-settings-billing-address-title": "Información de negocios",
     "suite-page-organization-membership-team-settings-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
@@ -7,7 +8,6 @@
     "suite-page-organization-membership-team-settings-book-by-invoice-permission": "Acceso a la factura del equipo.",
     "suite-page-organization-membership-team-settings-invoice-locale": "Idioma de la factura",
     "suite-page-organization-membership-team-settings-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-membership-team-settings-section-team-actions": "Acciones de equipo",
     "suite-page-organization-membership-team-settings-team-invoice": "Factura de equipo",
     "suite-page-organization-membership-team-settings-team-invoice-description": "Habilitar el método de pago de facturas del equipo queda disponible para el equipo.",
     "suite-page-organization-membership-team-settings-update-failure": "Error al actualizar"
