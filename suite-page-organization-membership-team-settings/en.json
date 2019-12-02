@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-membership-team-settings-title": "Unternehmensinformationen",
     "suite-page-organization-membership-team-settings-balance-history-permission": "Balance History",
     "suite-page-organization-membership-team-settings-billing-address-title": "Business Information",
     "suite-page-organization-membership-team-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
@@ -7,7 +8,6 @@
     "suite-page-organization-membership-team-settings-book-by-invoice-permission": "Team invoice permission",
     "suite-page-organization-membership-team-settings-invoice-locale": "Invoice Language",
     "suite-page-organization-membership-team-settings-not-found-error": "This team may not exist or may have been removed.",
-    "suite-page-organization-membership-team-settings-section-team-actions": "Team Actions",
     "suite-page-organization-membership-team-settings-team-invoice": "Team Invoice",
     "suite-page-organization-membership-team-settings-team-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
     "suite-page-organization-membership-team-settings-update-failure": "Failed to update"
