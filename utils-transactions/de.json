@@ -16,6 +16,7 @@
     "suite-utils-transactions-money-transaction-payment-type-card": "Karte",
     "suite-utils-transactions-money-transaction-payment-type-kakaopay": "KakaoPay",
     "suite-utils-transactions-money-transaction-payment-type-not-selected": "Nicht ausgewählt",
+    "suite-utils-transactions-money-transaction-payment-type-unsupported": "Nicht unterstützte Zahlungsart",
     "suite-utils-transactions-money-transaction-status-approved": "Genehmigt",
     "suite-utils-transactions-money-transaction-status-canceled": "Abgebrochen",
     "suite-utils-transactions-money-transaction-status-failed": "Fehlgeschlagen",
