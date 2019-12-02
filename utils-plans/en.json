@@ -3,7 +3,7 @@
     "utils-plans-details-description-repeat-forever": "{credits} assigned on {dateStart}, repeating forever every {period}.",
     "utils-plans-details-description-repeat-never": "{credits} assigned on {dateStart} until {dateEnd}.",
     "utils-plans-details-description-repeat-times": "{credits} assigned on {dateStart}, repeating {repeat} time(s) until {dateEnd}.",
-    "utils-plans-details-description-repeat-unsupported": "Update app. Your version of the app couldn’t display this.",
+    "utils-plans-details-description-repeat-unsupported": "Update app. Your version of the app couldn't display this.",
     "utils-plans-pay-with-card": "Card",
     "utils-plans-pay-with-cash": "External Payment",
     "utils-plans-period-day": "Day",
