@@ -3,7 +3,6 @@
     "utils-plans-details-description-repeat-forever": "{credits} нараховано {dateStart}, повторюється кожен {period}.",
     "utils-plans-details-description-repeat-never": "{credits} нараховано {dateStart} до {dateEnd}.",
     "utils-plans-details-description-repeat-times": "{credits} нараховано {dateStart}, повторюється {repeat} раз(ів) до {dateEnd}.",
-    "utils-plans-pay-with-card": "Карткою",
     "utils-plans-pay-with-cash": "Зовнішній платіж",
     "utils-plans-period-day": "День",
     "utils-plans-period-week": "Тиждень",
