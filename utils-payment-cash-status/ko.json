@@ -5,6 +5,6 @@
     "utils-payment-cash-status-unpaid": "결제 예정",
     "utils-payment-cash-status-unpaid-with-amount": "결제 예정 {amount}",
     "utils-payment-cash-status-title": "결제 사항",
-    "utils-payment-cash-status-unsupported": "Update app. Your version of the app couldn't display the status."
+    "utils-payment-cash-status-unsupported": "앱을 업데이트하세요. 이용중인 앱 버전에서 상태를 표시할 수 없습니다."
   }
 }
