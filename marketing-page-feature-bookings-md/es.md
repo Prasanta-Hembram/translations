@@ -15,16 +15,12 @@ Encuentra la sala de reuniones disponible sin necesidad de abrir el sistema de r
 
 ---
 
-![Sistema de reservas Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
+![Sistema de reservas Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-main-light-en-1920-1080.png)
 
+![Calendario de Reservas de Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-calendar-light-en-1920-1080.png)
 
-![Calendario de Reservas de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
+![Sistema de reservas de Coworking Métodos de pago](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-payment-methods-light-en-1920-1080.png)
 
+![Sistema de reservas Coworking Pago con tarjeta de crédito](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1080.png)
 
-![Sistema de reservas de Coworking Métodos de pago](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
-
-
-![Sistema de reservas Coworking Pago con tarjeta de crédito](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
-
-
-![Sistema de exposición para salas de reuniones](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)
+![Sistema de exposición para salas de reuniones](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-room-display-en-1920-1080.png)
