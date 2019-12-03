@@ -9,4 +9,4 @@ Stripe 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부
 
 ![코워킹 스페이스를 위한 Stripe 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
 
-![신용카드로 회의실 예약 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)
+![신용카드로 회의실 예약 결제](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1080.png)
