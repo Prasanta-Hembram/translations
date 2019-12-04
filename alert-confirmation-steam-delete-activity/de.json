@@ -1,8 +1,8 @@
 {
   "data":{
-    "alert-confirmation-steam-delete-activity-title": "Delete post",
+    "alert-confirmation-steam-delete-activity-title": "Beitrag löschen",
     "alert-confirmation-steam-delete-activity-no": "Abbrechen",
-    "alert-confirmation-steam-delete-activity-text": "Are you sure you want to delete post?",
+    "alert-confirmation-steam-delete-activity-text": "Sind Sie sicher, dass Sie den Beitrag löschen möchten?",
     "alert-confirmation-steam-delete-activity-yes": "Löschen"
   }
 }
