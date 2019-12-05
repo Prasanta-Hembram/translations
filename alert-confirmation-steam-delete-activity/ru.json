@@ -1,8 +1,8 @@
 {
   "data":{
-    "alert-confirmation-steam-delete-activity-title": "Удалить публикацию",
+    "alert-confirmation-steam-delete-activity-title": "Удалить пост",
     "alert-confirmation-steam-delete-activity-no": "Отменить",
-    "alert-confirmation-steam-delete-activity-text": "Вы уверены, что хотите удалить публикацию?",
+    "alert-confirmation-steam-delete-activity-text": "Вы уверены, что хотите удалить пост?",
     "alert-confirmation-steam-delete-activity-yes": "Удалить"
   }
 }
