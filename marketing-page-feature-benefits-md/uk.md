@@ -8,10 +8,8 @@
 
 ---
 
-![Каталог сервісів коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg)
+![Каталог сервісів коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
 
+![Список сервісів для коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
 
-![Список сервісів для коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg)
-
-
-![Заявка на сервіси в коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg)
+![Заявка на сервіси в коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)

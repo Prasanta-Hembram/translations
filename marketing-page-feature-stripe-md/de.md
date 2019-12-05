@@ -1,4 +1,5 @@
 Aktivieren Sie Stripe, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen. Aktivieren Sie die Zahlungsmethode 'Karte' für:
+
 - Buchungsseite des Besprechungsraums.
 - Zahlungsseite der Rechnung.
 
@@ -6,6 +7,6 @@ Stripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzu
 
 ---
 
-![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![Stripe payments for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Pay for meeting room with credit card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)
+![Pay for meeting room with credit card](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)

@@ -15,16 +15,12 @@ Finden Sie freie Konferenzräume, ohne das Buchungssystem zu öffnen. Schauen Si
 
 ---
 
-![Kooperationsbuchungssystem](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
+![Kooperationsbuchungssystem](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
+![Coworking Buchungskalender](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Coworking Buchungskalender](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
+![Kooperationsbuchungssystem](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
+![Kooperationsbuchungssystem Kreditkartenzahlung](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Kooperationsbuchungssystem](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
-
-
-![Kooperationsbuchungssystem Kreditkartenzahlung](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
-
-
-![Kooperationsbuchungssystem Besprechungsraumanzeige](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)
+![Kooperationsbuchungssystem Besprechungsraumanzeige](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

@@ -1,4 +1,5 @@
 Включите KakaoPay, чтобы проводить платежы с банковских карт прямо в приложении. Включите метод оплаты 'KakaoPay' для:
+
 - Страницы бронирования переговорных.
 - Страницы оплаты инвойсов.
 
@@ -6,4 +7,4 @@
 
 ---
 
-![оплата через KakaoPay для переговорных](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/kakaopay-payment-method.png)
+![оплата через KakaoPay для переговорных](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

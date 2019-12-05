@@ -15,16 +15,12 @@
 
 ---
 
-![Система резервації переговорних кімнат](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
+![Система резервації переговорних кімнат](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
+![Календар бронювання переговорних кімнат](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Календар бронювання переговорних кімнат](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
+![Кредитна система для розподілу безкоштовних годин на бронювання переговорних кімнат](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
+![Система резервації конференц-залів за банківські картки онлайн](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Кредитна система для розподілу безкоштовних годин на бронювання переговорних кімнат](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
-
-
-![Система резервації конференц-залів за банківські картки онлайн](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
-
-
-![Дисплеї в переговорних](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)
+![Дисплеї в переговорних](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

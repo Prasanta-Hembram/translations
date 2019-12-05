@@ -1,4 +1,5 @@
 앱 내에서 카드로 즉시 결제하고 싶으시다면 Flow를 이용하세요. 다음 항목에 '카드' 결제 수단을 설정할 수 있습니다 :
+
 - 회의실 예약 페이지.
 - 인보이스 결제 페이지.
 
@@ -12,6 +13,6 @@ Flow 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부�
 
 ---
 
-![코워킹스페이스 공간 온라인 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![코워킹스페이스 공간 온라인 결제](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![회의실 예약을 위해 신용카드 결제](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-card.png)
+![회의실 예약을 위해 신용카드 결제](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)

@@ -15,16 +15,12 @@ Find available meeting room without even opening booking system. Look around the
 
 ---
 
-![Coworking Booking System](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-rooms.jpg)
+![Coworking Booking System](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
+![Coworking Booking Calendar](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Coworking Booking Calendar](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-calendar.jpg)
+![Coworking Booking System Payment Methods](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
+![Coworking Booking System Pay with Credit Card](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Coworking Booking System Payment Methods](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-payment-methods.jpg)
-
-
-![Coworking Booking System Pay with Credit Card](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-pay-with-card.jpg)
-
-
-![Coworking Booking System Meeting Room Display](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/booking-display.jpg)
+![Coworking Booking System Meeting Room Display](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

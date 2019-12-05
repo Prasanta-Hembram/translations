@@ -1,4 +1,5 @@
 Sindoh ist ein Hersteller von Cloud-basierten intelligenten Office-Druckmanagement-Lösungen. Verbinde Sindoh Smart Printer, um das Drucken vollständig zu automatisieren:
+
 - Mitgliederinformationen mit Sindoh-Datenbank synchronisieren.
 - Sindoh Print ID an Mitglieder automatisch ausgeben.
 - Sehen Sie, wie viele Seiten jedes Mitglied gedruckt hat.
@@ -7,6 +8,6 @@ Download Smart Office Printing Management Lösung Präsentation (nur Koreanisch)
 
 ---
 
-![Sindoh printer for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-profile.png)
+![Sindoh printer for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Printing management for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-count.png)
+![Printing management for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

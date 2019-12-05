@@ -7,4 +7,4 @@
 
 ---
 
-![회의실 예약 카카오페이](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![회의실 예약 카카오페이](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)

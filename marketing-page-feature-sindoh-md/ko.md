@@ -8,6 +8,6 @@
 
 ---
 
-![코워킹 스페이스를 위한 신도리코 프린터](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-profile.png)
+![코워킹 스페이스를 위한 신도리코 프린터](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![코워킹 스페이스를 위한 인쇄 관리](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-count.png)
+![코워킹 스페이스를 위한 인쇄 관리](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

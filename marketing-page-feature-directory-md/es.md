@@ -1,6 +1,6 @@
 Actualiza de una gestión manual de miembros en hojas de cálculo o aplicaciones complicadas a un directorio de miembros de coworking simple y fácil de usar. Recopila, automatiza y sincroniza los datos de los miembros en todas tus aplicaciones. Organiza a los miembros en equipos, asigna planes de crédito, emita facturas, entienda lo bien que los miembros utilizan el espacio de coworking con el historial de reservas y saldos.
 
-- Invita a los miembros con sólo un correo electrónico. 
+- Invita a los miembros con sólo un correo electrónico.
 - Vea todas las cuentas de los miembros de un vistazo en una simple vista de tabla.
 - Consolida y realiza un seguimiento de toda la información de los miembros en un solo lugar: planes, pagos, facturas e historial de reservas.
 - Sincroniza automáticamente los datos de los miembros en Mailchimp, Intercom, CRMs, sistemas de control de acceso, sin tener que copiar y pegar manualmente.
@@ -11,10 +11,8 @@ Actualiza de una gestión manual de miembros en hojas de cálculo o aplicaciones
 
 ---
 
-![Directorio de miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
+![Directorio de miembros de Coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
+![Perfil de los miembros de Coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
 
-![Perfil de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
-
-
-![Créditos de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)
+![Créditos de los miembros de Coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-credits-light-en-1920-1200.png)

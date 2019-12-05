@@ -1,4 +1,5 @@
 Sindoh — это производитель облачных решений для управления печатью в офисах. Присоедините умный принтер Sindoh для того, чтобы:
+
 - Синхронизировать информацию о резиденте с базой данных Sindoh.
 - Выдавать Sindoh Print ID резидентам автоматически.
 - Отслеживать сколько страниц напечатал каждый участник коворкинга.
@@ -7,6 +8,6 @@ Sindoh — это производитель облачных решений д�
 
 ---
 
-![Sindoh printer for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-profile.png)
+![Sindoh printer for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Printing management for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-count.png)
+![Printing management for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

@@ -1,8 +1,10 @@
 Включите Flow, чтобы принимать платежи банковскими картами прямо в приложении. Включите метод оплаты 'Карта' для:
+
 - Страницы бронирования переговорных.
 - Страницы оплаты инвойсов.
 
 С Flow вы можете получать платежи быстро и безопасно через:
+
 - Webpay Plus — кредитные и дебетовые карты.
 - One Pay — электронный кошелек для оплаты банковскими кредитными картами без ввода данных карты каждый раз.
 - Multicaja — оплата наличными посредством личного купона, для клиентов, у которых нет счета в банке.
@@ -12,6 +14,6 @@
 
 ---
 
-![Платежи Flow онлайн для коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![Платежи Flow онлайн для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Платежная система для бронирования переговорных](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/flow-payment-method.png)
+![Платежная система для бронирования переговорных](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)
