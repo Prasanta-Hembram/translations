@@ -3,6 +3,6 @@
     "utils-labels-price-free": "무료",
     "utils-labels-seats-plural": "{number} 자리",
     "utils-labels-seats-single": "{number} 자리",
-    "utils-labels-select-item-label-default": "Unknown"
+    "utils-labels-select-item-label-default": "정보 없음"
   }
 }
