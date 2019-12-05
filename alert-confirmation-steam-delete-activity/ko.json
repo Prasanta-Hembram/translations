@@ -1,0 +1,8 @@
+{
+  "data":{
+    "alert-confirmation-steam-delete-activity-title": "게시물 삭제",
+    "alert-confirmation-steam-delete-activity-no": "돌아가기",
+    "alert-confirmation-steam-delete-activity-text": "게시물을 삭제하시겠습니까?",
+    "alert-confirmation-steam-delete-activity-yes": "삭제하기"
+  }
+}
