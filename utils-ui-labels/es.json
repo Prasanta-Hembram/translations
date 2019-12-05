@@ -3,6 +3,6 @@
     "utils-labels-price-free": "Gratis",
     "utils-labels-seats-plural": "{number} asientos",
     "utils-labels-seats-single": "{number} asiento",
-    "utils-labels-select-item-label-default": "Unknown"
+    "utils-labels-select-item-label-default": "Desconocido"
   }
 }
