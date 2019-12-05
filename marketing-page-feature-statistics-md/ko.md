@@ -6,4 +6,4 @@
 
 ---
 
-![코워킹 스페이스 통계](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-statistics-main-light-en-1920-1080.png)
+![코워킹 스페이스 통계](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-statistics-main-light-en-1920-1200.png)

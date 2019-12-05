@@ -11,8 +11,8 @@ Actualiza de una gestión manual de miembros en hojas de cálculo o aplicaciones
 
 ---
 
-![Directorio de miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-members-light-en-1920-1080.png)
+![Directorio de miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-members-light-en-1920-1200.png)
 
-![Perfil de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-user-main-light-en-1920-1080.png)
+![Perfil de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-user-main-light-en-1920-1200.png)
 
-![Créditos de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)
+![Créditos de los miembros de Coworking](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-credits-light-en-1920-1200.png)

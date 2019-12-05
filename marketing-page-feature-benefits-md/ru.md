@@ -8,8 +8,8 @@
 
 ---
 
-![Каталог сервисов коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-benefits-main-light-en-1920-1080.png)
+![Каталог сервисов коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-benefits-main-light-en-1920-1200.png)
 
-![Список сервисов коворкинга](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg)
+![Список сервисов коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-benefits-list-light-en-1920-1200.png)
 
-![Заявка на сервис в коворкинге](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-benefits-apply-light-en-1920-1080.png)
+![Заявка на сервис в коворкинге](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-benefits-apply-light-en-1920-1200.png)

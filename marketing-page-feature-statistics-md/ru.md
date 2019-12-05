@@ -6,4 +6,4 @@
 
 ---
 
-![Статистика коворкинг центра](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-statistics-main-light-en-1920-1080.png)
+![Статистика коворкинг центра](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-statistics-main-light-en-1920-1200.png)

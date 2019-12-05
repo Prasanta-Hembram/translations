@@ -15,12 +15,12 @@
 
 ---
 
-![Система бронирования переговорных в коворкинге](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-main-light-en-1920-1080.png)
+![Система бронирования переговорных в коворкинге](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-main-light-en-1920-1200.png)
 
-![Календарь бронирования переговорных](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-calendar-light-en-1920-1080.png)
+![Календарь бронирования переговорных](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Кредитная система для коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-payment-methods-light-en-1920-1080.png)
+![Кредитная система для коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-payment-methods-light-en-1920-1200.png)
 
-![Оплата бронирования кредиткой в коворкинге](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1080.png)
+![Оплата бронирования кредиткой в коворкинге](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Дисплей в переговорной для коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-room-display-en-1920-1080.png)
+![Дисплей в переговорной для коворкинга](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-room-display-en-1920-1200.png)

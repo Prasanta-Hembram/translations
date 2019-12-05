@@ -11,8 +11,8 @@ Upgrade from a manual member management in spreadsheets or complicated apps to a
 
 ---
 
-![Coworking Member Directory](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-members-light-en-1920-1080.png)
+![Coworking Member Directory](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-members-light-en-1920-1200.png)
 
-![Coworking Member Profile](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-user-main-light-en-1920-1080.png)
+![Coworking Member Profile](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-user-main-light-en-1920-1200.png)
 
-![Coworking Member Credits](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)
+![Coworking Member Credits](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-credits-light-en-1920-1200.png)

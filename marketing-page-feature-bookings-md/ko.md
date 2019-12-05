@@ -15,12 +15,12 @@
 
 ---
 
-![코워킹 예약 시스템](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-main-light-en-1920-1080.png)
+![코워킹 예약 시스템](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-main-light-en-1920-1200.png)
 
-![코워킹 예약 캘린더](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-calendar-light-en-1920-1080.png)
+![코워킹 예약 캘린더](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![코워킹 예약 시스템 결제 수단](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-payment-methods-light-en-1920-1080.png)
+![코워킹 예약 시스템 결제 수단](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-payment-methods-light-en-1920-1200.png)
 
-![코워킹 예약 시스템 신용카드 결제](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1080.png)
+![코워킹 예약 시스템 신용카드 결제](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![코워킹 예약 시스템 회의실 디스플레이](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-room-display-en-1920-1080.png)
+![코워킹 예약 시스템 회의실 디스플레이](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-room-display-en-1920-1200.png)
