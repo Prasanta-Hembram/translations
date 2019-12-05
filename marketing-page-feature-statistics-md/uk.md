@@ -6,4 +6,4 @@
 
 ---
 
-![Статистика в коворкінг центрі](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-statistics-main-light-en-1920-1200.png)
+![Статистика в коворкінг центрі](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

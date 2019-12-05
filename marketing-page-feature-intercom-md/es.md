@@ -1,4 +1,5 @@
 Permita que Intercom organice la comunicación con los clientes de su espacio de trabajo. Conecta Intercom a:
+
 - Sincronizar la información de los miembros con la plataforma de Intercomunicación.
 - Ver cuando los miembros están en línea.
 - Chatear con los miembros de su aplicación web y móvil.
@@ -10,4 +11,4 @@ El Intercom agrega un botón de 'Helpdesk' a la página de mis espacios de traba
 
 ---
 
-![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
+![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

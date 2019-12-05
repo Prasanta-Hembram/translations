@@ -1,4 +1,5 @@
 Включите Intercom чтобы организовать коммуникацию с клиентами коворкинга. Подключите Intercom к:
+
 - Синхронизируйте информацию о клиентах с платформой Intercom.
 - Смотрите когда резиденты в сети.
 - Общайтесь с пользователями ваших веб и мобильных приложений.
@@ -10,4 +11,4 @@ Intercom добавит кнопку “Помощь” на страницу М
 
 ---
 
-![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
+![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

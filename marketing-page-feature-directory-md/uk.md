@@ -11,8 +11,8 @@
 
 ---
 
-[Каталог резидентів коворкінгу](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-members-light-en-1920-1200.png)
+[Каталог резидентів коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
-![Профіль учасника коворкінгу](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-user-main-light-en-1920-1200.png)
+![Профіль учасника коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
 
-![Кредитна система для учасників коворкінгу](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-credits-light-en-1920-1200.png)
+![Кредитна система для учасників коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-credits-light-en-1920-1200.png)

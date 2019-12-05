@@ -11,8 +11,8 @@ Upgrade von einer manuellen Mitgliederverwaltung in Tabellenkalkulationen oder k
 
 ---
 
-![Verzeichnis der mitarbeitenden Mitglieder](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-members-light-en-1920-1200.png)
+![Verzeichnis der mitarbeitenden Mitglieder](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
-![Mitarbeiter-Mitgliederprofil](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-user-main-light-en-1920-1200.png)
+![Mitarbeiter-Mitgliederprofil](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
 
-![Credits für mitarbeitende Mitglieder](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-directory-credits-light-en-1920-1200.png)
+![Credits für mitarbeitende Mitglieder](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-credits-light-en-1920-1200.png)

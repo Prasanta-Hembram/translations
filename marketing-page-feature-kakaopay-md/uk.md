@@ -1,4 +1,5 @@
 Включіть KakaoPay щоб одразу приймати оплату банківськими картками в застосунку. Включіть спосіб оплати 'KakaoPay' для:
+
 - Сторінки резервацій переговорних кімнат.
 - Сторінки оплати інвойсів.
 
@@ -6,4 +7,4 @@
 
 ---
 
-![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/kakaopay-payment-method.png)
+![Stripe payments for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

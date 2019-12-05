@@ -7,6 +7,6 @@
 
 ---
 
-![Stripe payments for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![Stripe payments for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Pay for meeting room with credit card](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Pay for meeting room with credit card](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)

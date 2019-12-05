@@ -11,4 +11,4 @@ Intercom은 “헬프데스크” 버튼을 추가합니다. 회원들은 도움
 
 ---
 
-![코워킹 스페이스를 위한 Intercom](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
+![코워킹 스페이스를 위한 Intercom](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

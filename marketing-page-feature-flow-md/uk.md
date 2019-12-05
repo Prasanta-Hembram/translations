@@ -1,8 +1,10 @@
 Включіть Flow щоб приймати моментальні платежі банківськими картками просто в застосунку. Включіть спосіб оплати 'Картка' для:
+
 - Сторінки резервацій переговорних кімнат.
 - Сторінки оплати інвойсів.
 
 Flow дозволяє швидко та надійно отримувати платежі через:
+
 - Webpay Plus — кредитні та дебетові картки.
 - One Pay — електронний гаманець для оплати банківськими кредитними картками, не вводячи реквізити кожного разу.
 - Multicaja — платіж готівкою за допомогою купона для оплати віч-на-віч, для небанківських клієнтів.
@@ -12,6 +14,6 @@ Flow дозволяє швидко та надійно отримувати пл
 
 ---
 
-![Платежі онлайн для коворкінгу](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![Платежі онлайн для коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Оплата карткою за бронювання переговорних](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/flow-payment-method.png)
+![Оплата карткою за бронювання переговорних](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)

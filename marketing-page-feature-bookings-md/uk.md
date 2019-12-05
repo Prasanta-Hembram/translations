@@ -15,12 +15,12 @@
 
 ---
 
-![Система резервації переговорних кімнат](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-main-light-en-1920-1200.png)
+![Система резервації переговорних кімнат](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
-![Календар бронювання переговорних кімнат](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-calendar-light-en-1920-1200.png)
+![Календар бронювання переговорних кімнат](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Кредитна система для розподілу безкоштовних годин на бронювання переговорних кімнат](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-payment-methods-light-en-1920-1200.png)
+![Кредитна система для розподілу безкоштовних годин на бронювання переговорних кімнат](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Система резервації конференц-залів за банківські картки онлайн](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Система резервації конференц-залів за банківські картки онлайн](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Дисплеї в переговорних](https://s3.ap-northeast-2.amazonaws.com/screenshot.andcards.com/andcards-bookings-room-display-en-1920-1200.png)
+![Дисплеї в переговорних](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

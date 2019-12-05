@@ -1,4 +1,5 @@
 Permita que KakaoPay integre instantáneamente tarjetas de débito o crédito dentro de la aplicación. Activa el método de pago 'KakaoPay' para:
+
 - Página de reserva de salas de reuniones.
 - Página de pago de facturas.
 
@@ -6,4 +7,4 @@ Los clientes que deseen permitir el pago con tarjeta de KakaoPay para reservar u
 
 ---
 
-![pago con tarjeta de KakaoPay para reservar una sala de reuniones](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/kakaopay-payment-method.png)
+![pago con tarjeta de KakaoPay para reservar una sala de reuniones](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

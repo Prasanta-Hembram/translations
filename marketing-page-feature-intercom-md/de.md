@@ -1,4 +1,5 @@
 Aktivieren Sie Intercom, um die Kommunikation mit Ihren Kunden im Workspace zu organisieren. Verbinden Sie Intercom um:
+
 - Synchronisieren Sie Mitgliederinformationen mit der Intercom-Plattform.
 - Sehen Sie, wann Mitglieder online sind.
 - Chatten Sie mit Ihren Mitgliedern.
@@ -10,4 +11,4 @@ Intercom fügt der Seite Meine Workspaces eine Schaltfläche 'Helpdesk' hinzu. M
 
 ---
 
-![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
+![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
