@@ -2,6 +2,7 @@
   "data": {
     "utils-labels-price-free": "Безкоштовно",
     "utils-labels-seats-plural": "{number} місць(-я)",
-    "utils-labels-seats-single": "{number} місце"
+    "utils-labels-seats-single": "{number} місце",
+    "utils-labels-select-item-label-default": "Невідомо"
   }
 }
