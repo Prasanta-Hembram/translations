@@ -1,4 +1,5 @@
 Sindoh — це виробник хмарних рішень для автоматизації друку в офісах. Підключіть розумні принтери Sindoh для повної автоматизації друку:
+
 - Синхронізуйте інформацію про резидентів з базою даних Sindoh.
 - Давайте Sindoh Print ID резидентам автоматично.
 - Переглядайте, скільки сторінок надрукував кожен резидент.
@@ -7,6 +8,6 @@ Sindoh — це виробник хмарних рішень для автома
 
 ---
 
-![Sindoh printer for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-profile.png)
+![Sindoh printer for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Printing management for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-count.png)
+![Printing management for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

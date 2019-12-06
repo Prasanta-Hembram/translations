@@ -1,4 +1,5 @@
 Sindoh es un fabricante de soluciones inteligentes de gestión de impresión de oficina basadas en la nube. Conecta impresoras inteligentes de Sindoh para automatizar completamente la impresión:
+
 - Sincroniza la información de los miembros a la base de datos Sindoh.
 - Emite Sindoh Print ID a los miembros de forma automática.
 - Ver cuántas páginas imprimió cada miembro.
@@ -7,6 +8,6 @@ Descargar la presentación de la solución de gestión de impresión de oficina 
 
 ---
 
-![Sindoh printer for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-profile.png)
+![Sindoh printer for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Printing management for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/sindoh-count.png)
+![Printing management for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

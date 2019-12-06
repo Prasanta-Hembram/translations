@@ -1,0 +1,8 @@
+{
+  "data":{
+    "alert-confirmation-steam-delete-activity-title": "Eliminar la publicación",
+    "alert-confirmation-steam-delete-activity-no": "Cancelar",
+    "alert-confirmation-steam-delete-activity-text": "¿Estás seguro de que quieres eliminar la publicación?",
+    "alert-confirmation-steam-delete-activity-yes": "Eliminar"
+  }
+}

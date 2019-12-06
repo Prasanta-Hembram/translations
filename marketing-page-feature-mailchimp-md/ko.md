@@ -13,6 +13,4 @@
 
 ---
 
-![코워킹 스페이스를 위한 Mailchimp](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/mailchimp-settings.png)
-
-![코워킹 스페이스를 위한 Mailchimp 독자](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/mailchimp-audience.png)
+![코워킹 스페이스를 위한 Mailchimp](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)

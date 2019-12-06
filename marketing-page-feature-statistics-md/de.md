@@ -6,4 +6,4 @@ Verstehen Sie Ihre Coworking Space Mitglieder- und Umsatzdaten. Sehen Sie eine R
 
 ---
 
-![Coworking Space Statistics](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/statistics.jpg)
+![Coworking Space Statistics](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

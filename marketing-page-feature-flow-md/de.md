@@ -1,8 +1,10 @@
 Aktivieren Sie Flow, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen. Aktivieren Sie die Zahlungsmethode 'Karte' für:
+
 - Buchungsseite des Besprechungsraums.
 - Zahlungsseite der Rechnung.
 
 Mit Flow können Sie Zahlungen schnell und sicher auf verschiedenen Wegen erhalten:
+
 - Webpay Plus - Kredit- und Debitkarten.
 - One Pay - Elektronische Brieftasche zur Bezahlung mit Bankkreditkarten, ohne jedes Mal die Kartendaten einzugeben.
 - Multicaja - Barzahlung mittels Face-to-Face-Zahlungscoupon für unbestrafte Kunden.
@@ -12,6 +14,6 @@ Stripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzu
 
 ---
 
-![Online-Zahlungen für Coworking Space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/stripe-payment-method.png)
+![Online-Zahlungen für Coworking Space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Bezahlen Sie den Besprechungsraum mit Kreditkarte.](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/flow-payment-method.png)
+![Bezahlen Sie den Besprechungsraum mit Kreditkarte.](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)

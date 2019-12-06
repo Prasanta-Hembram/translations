@@ -1,4 +1,5 @@
 Enable Intercom to organize communication with your workspace space customers. Connect Intercom to:
+
 - Sync member information to Intercom platform.
 - See when members are online.
 - Chat to your web and mobile app members.
@@ -10,4 +11,4 @@ Intercom adds a “Helpdesk” button to My Workspaces page. Members use it to f
 
 ---
 
-![Intercom for coworking space](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/intercom.png)
+![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

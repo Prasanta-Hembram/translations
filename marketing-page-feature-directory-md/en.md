@@ -1,6 +1,6 @@
 Upgrade from a manual member management in spreadsheets or complicated apps to a simple and easy to use coworking member directory. Collect, automate, and sync member data across all your apps. Organize members into teams, assign credit plans, issue invoices, understand how well members use coworking space with booking and balance history.
 
-- Invite members with just an email. 
+- Invite members with just an email.
 - View all member accounts at-a-glance in a simple table view.
 - Consolidate and track all member information in one place: plans, payments, invoices, and booking history.
 - Automatically sync member data into Mailchimp, Intercom, CRMs, access control systems, without having to manually copy-paste it.
@@ -11,10 +11,8 @@ Upgrade from a manual member management in spreadsheets or complicated apps to a
 
 ---
 
-![Coworking Member Directory](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-members.jpg)
+![Coworking Member Directory](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
+![Coworking Member Profile](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
 
-![Coworking Member Profile](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-profile.jpg)
-
-
-![Coworking Member Credits](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/directory-credits.jpg)
+![Coworking Member Credits](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-credits-light-en-1920-1200.png)

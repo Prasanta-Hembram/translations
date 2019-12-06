@@ -8,10 +8,8 @@
 
 ---
 
-![코워킹 베네핏 카탈로그](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-category.jpg)
+![코워킹 베네핏 카탈로그](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
 
+![코워킹 베네핏 리스트](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
 
-![코워킹 베네핏 리스트](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-list.jpg)
-
-
-![코워킹 베네핏 어플리케이션](https://s3.ap-northeast-2.amazonaws.com/marketing.feature.andcards.com/benefit-application.jpg)
+![코워킹 베네핏 어플리케이션](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)
