@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-integrations-stripe-account-room-booking": "Room Booking",
-    "suite-page-organization-integrations-stripe-account-email": "Email",
-    "suite-page-organization-integrations-stripe-account-name": "Name",
-    "suite-page-organization-integrations-stripe-account-team-invoice": "Team Invoice",
-    "suite-page-organization-integrations-stripe-account-title": "Account",
+    "suite-page-organization-integrations-stripe-account-room-booking": "회의실 예약",
+    "suite-page-organization-integrations-stripe-account-email": "이메일",
+    "suite-page-organization-integrations-stripe-account-name": "계정 명",
+    "suite-page-organization-integrations-stripe-account-team-invoice": "팀인보이스",
+    "suite-page-organization-integrations-stripe-account-title": "계정",
     "suite-page-organization-integrations-stripe-button-connect": "연결하기",
     "suite-page-organization-integrations-stripe-button-disconnect": "연결 끊기",
     "suite-page-organization-integrations-stripe-description": "앱 내에서 카드로 즉시 결제하고 싶으시다면 Stripe를 이용하세요.\n\nStripe 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부에서 작동합니다.",
