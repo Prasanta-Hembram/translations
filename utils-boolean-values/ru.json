@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-boolean-values-disabled": "Disabled",
-    "utils-boolean-values-enabled": "Enabled"
+    "utils-boolean-values-disabled": "Отключено",
+    "utils-boolean-values-enabled": "Подключено"
   }
 }
