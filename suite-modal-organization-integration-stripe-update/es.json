@@ -1,6 +1,10 @@
 {
   "data": {
+    "suite-modal-organization-integration-stripe-update-account-email": "Email",
+    "suite-modal-organization-integration-stripe-update-account-name": "Nombre",
+    "suite-modal-organization-integration-stripe-update-description": "Members will be able to pay via Stripe for selected services.",
     "suite-modal-organization-integration-stripe-update-room-booking": "Reservas de salas",
+    "suite-modal-organization-integration-stripe-update-section-payments": "Payments",
     "suite-modal-organization-integration-stripe-update-team-invoice": "Factura de equipo",
     "suite-modal-organization-integration-stripe-update-title": "Cuenta"
   }
