@@ -4,7 +4,7 @@
     "suite-modal-organization-integration-stripe-update-account-name": "계정 명",
     "suite-modal-organization-integration-stripe-update-description": "Members will be able to pay via Stripe for selected services.",
     "suite-modal-organization-integration-stripe-update-room-booking": "회의실 예약",
-    "suite-modal-organization-integration-stripe-update-section-payments": "Payments",
+    "suite-modal-organization-integration-stripe-update-section-payments": "결제",
     "suite-modal-organization-integration-stripe-update-team-invoice": "팀인보이스",
     "suite-modal-organization-integration-stripe-update-title": "계정"
   }
