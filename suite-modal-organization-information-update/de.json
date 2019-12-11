@@ -11,6 +11,7 @@
     "suite-modal-organization-information-update-error-organization-title": "Geben Sie einen Namen für Ihren Workspace ein.",
     "suite-modal-organization-information-update-link": "Link",
     "suite-modal-organization-information-update-link-placeholder": "Link eingeben",
+    "suite-modal-organization-information-update-link-rule": "Regeln",
     "suite-modal-organization-information-update-name": "Name",
     "suite-modal-organization-information-update-name-placeholder": "Namen eingeben",
     "suite-modal-organization-information-update-timezone": "Zeitzone"

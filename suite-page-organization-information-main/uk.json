@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-information-main-title": "Інформація",
     "suite-page-organization-information-main-link": "Посилання",
+    "suite-page-organization-information-main-link-rules": "Правила",
     "suite-page-organization-information-main-user-leave-failure": "Не вдалося покинути коворкінг.",
     "suite-page-organization-information-main-user-leave-organization": "Покинути коворкінг",
     "suite-page-organization-information-main-user-leave-repeat": "Спробувати знову"
