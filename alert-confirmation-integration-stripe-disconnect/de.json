@@ -1,7 +1,7 @@
 {
   "data": {
     "alert-confirmation-integration-stripe-disconnect-title": "Stripe abmelden",
-    "alert-confirmation-integration-stripe-disconnect-text": "Sind sie sicher, dass Sie Stripe abmelden wollen??",
+    "alert-confirmation-integration-stripe-disconnect-text": "Sind sie sicher, dass Sie Stripe abmelden wollen?",
     "alert-confirmation-integration-stripe-disconnect-no": "Abbrechen",
     "alert-confirmation-integration-stripe-disconnect-yes": "Abmelden"
   }
