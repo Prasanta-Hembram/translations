@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-stripe-disconnect-title": "Отключить Stripe",
+    "alert-confirmation-integration-stripe-disconnect-text": "Вы уверены, что хотите отключить Stripe?",
+    "alert-confirmation-integration-stripe-disconnect-no": "Отменить",
+    "alert-confirmation-integration-stripe-disconnect-yes": "Отключить"
+  }
+}

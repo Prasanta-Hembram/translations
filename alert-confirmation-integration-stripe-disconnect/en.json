@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-stripe-disconnect-title": "Disconnect Stripe",
+    "alert-confirmation-integration-stripe-disconnect-text": "Are you sure you want to disconnect Stripe?",
+    "alert-confirmation-integration-stripe-disconnect-no": "Cancel",
+    "alert-confirmation-integration-stripe-disconnect-yes": "Disconnect"
+  }
+}
