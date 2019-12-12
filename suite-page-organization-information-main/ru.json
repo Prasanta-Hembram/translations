@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-information-main-title": "Информация",
     "suite-page-organization-information-main-link": "Ссылка",
+    "suite-page-organization-information-main-link-rules": "Правила",
     "suite-page-organization-information-main-user-leave-failure": "Не удалось покинуть коворкинг.",
     "suite-page-organization-information-main-user-leave-organization": "Покинуть коворкинг",
     "suite-page-organization-information-main-user-leave-repeat": "Попробовать еще раз"

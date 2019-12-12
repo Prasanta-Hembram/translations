@@ -11,6 +11,7 @@
     "suite-modal-organization-information-update-error-organization-title": "Введите название коворкинга.",
     "suite-modal-organization-information-update-link": "Ссылка",
     "suite-modal-organization-information-update-link-placeholder": "Ввести ссылку",
+    "suite-modal-organization-information-update-link-rule": "Правила",
     "suite-modal-organization-information-update-name": "Название",
     "suite-modal-organization-information-update-name-placeholder": "Ввести имя",
     "suite-modal-organization-information-update-timezone": "Часовой пояс"
