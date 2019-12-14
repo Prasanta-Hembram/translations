@@ -11,7 +11,7 @@
     "suite-modal-organization-information-update-error-organization-title": "공간의 이름을 입력해주세요.",
     "suite-modal-organization-information-update-link": "링크",
     "suite-modal-organization-information-update-link-placeholder": "링크를 입력하기",
-    "suite-modal-organization-information-update-link-rule": "가이드",
+    "suite-modal-organization-information-update-link-rules": "가이드",
     "suite-modal-organization-information-update-name": "공간 명",
     "suite-modal-organization-information-update-name-placeholder": "공간 명을 입력하기",
     "suite-modal-organization-information-update-timezone": "시간대"
