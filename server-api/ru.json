@@ -1,6 +1,6 @@
 {
   "data": {
-    "benefit-apply-email-application-comment": "Комментарий: {comment}",
+    "benefit-apply-email-application-comment": "Комментарий:\n{comment}",
     "benefit-apply-email-application-email": "Email: {email}",
     "benefit-apply-email-application-full-name": "Полное имя: {userFullName}",
     "benefit-apply-email-application-membership-full": "Участие: {membershipInformation}",

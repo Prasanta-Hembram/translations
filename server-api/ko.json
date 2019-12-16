@@ -1,6 +1,6 @@
 {
   "data": {
-    "benefit-apply-email-application-comment": "내용: {comment}",
+    "benefit-apply-email-application-comment": "내용:\n{comment}",
     "benefit-apply-email-application-email": "이메일: {email}",
     "benefit-apply-email-application-full-name": "성함: {userFullName}",
     "benefit-apply-email-application-membership-full": "멤버십: {membershipInformation}",
