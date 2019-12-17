@@ -39,7 +39,6 @@
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",
     "suite-alerts-errors-trial-already-started": "The workspace already has the full booking system enabled.",
     "suite-alerts-errors-user-already-activated": "Membership is already activated.",
-    "suite-alerts-errors-user-have-no-permission": "No permission to complete the action.",
-    "suite-alerts-errors-user-rejected-invitation": "The user has rejected the invitation."
+    "suite-alerts-errors-user-have-no-permission": "No permission to complete the action."
   }
 }
