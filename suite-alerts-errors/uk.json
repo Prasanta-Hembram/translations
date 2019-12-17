@@ -20,7 +20,6 @@
     "suite-alerts-errors-invoice-already-finalized": "Інвойс вже завершений. Оновіть сторінку.",
     "suite-alerts-errors-invoice-empty": "Неможливо завершити створення порожнього інвойсу. Спочатку додайте елементи.",
     "suite-alerts-errors-invoice-not-finished": "Місяць ще не закінчився. Повторіть спробу, коли закінчиться місяць.",
-    "suite-alerts-errors-membership-invite-invalid": "Не вдалося запросити. Учасника вже було запрошено.",
     "suite-alerts-errors-no-internet": "Немає інтернет-з'єднання.",
     "suite-alerts-errors-no-printers-connections": "В коворкінгу немає даних про користувачів принтерів.",
     "suite-alerts-errors-organization-create-params-invalid": "Не вдалося створити коворкінг. Перевірте всі поля та спробуйте знов.",
