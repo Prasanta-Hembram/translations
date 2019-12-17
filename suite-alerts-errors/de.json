@@ -20,7 +20,6 @@
     "suite-alerts-errors-invoice-already-finalized": "Die Rechnung ist bereits fertiggestellt. Aktualisieren Sie die Seite.",
     "suite-alerts-errors-invoice-empty": "Eine leere Rechnung kann nicht fertiggestellt werden. Fügen Sie zunächst Elemente hinzu.",
     "suite-alerts-errors-invoice-not-finished": "Der Monat ist noch nicht vorbei. Versuchen Sie es erneut, sobald der Monat endet.",
-    "suite-alerts-errors-membership-invite-invalid": "Die Einladung ist fehlgeschlagen. Das Mitglied wurde bereits eingeladen.",
     "suite-alerts-errors-no-internet": "Keine Internetverbindung.",
     "suite-alerts-errors-no-printers-connections": "Der Workspace hat keine Druckerintegration.",
     "suite-alerts-errors-organization-create-params-invalid": "Der Workspace konnte nicht erstellt werden. Überprüfen Sie alle Felder und versuchen Sie es erneut.",
