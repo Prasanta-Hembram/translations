@@ -22,7 +22,6 @@
     "suite-alerts-errors-invoice-not-finished": "본 달은 아직 끝나지 않았습니다. 달이 끝나면 다시 시도하세요.",
     "suite-alerts-errors-no-internet": "인터넷에 연결되지 않음.",
     "suite-alerts-errors-no-printers-connections": "프린터 연동이 되지 않음.",
-    "suite-alerts-errors-organization-create-params-invalid": "공간을 만들지 못했습니다. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-organization-update-params-invalid": "공간 업데이트 실패. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-payment-price-high": "총 금액이 결제시스템의 허용하는 최대 금액보다 높습니다.",
     "suite-alerts-errors-payment-price-low": "총 금액이 결제시스템의 허용하는 최소 금액보다 작습니다.",

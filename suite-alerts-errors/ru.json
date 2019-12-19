@@ -22,7 +22,6 @@
     "suite-alerts-errors-invoice-not-finished": "Месяц еще не закончен. Попробуйте еще раз, когда закончится месяц.",
     "suite-alerts-errors-no-internet": "Нет интернет-соединения.",
     "suite-alerts-errors-no-printers-connections": "В коворкинга нет данных о пользователей принтеров.",
-    "suite-alerts-errors-organization-create-params-invalid": "Не удалось создать коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-organization-update-params-invalid": "Не удалось обновить коворкинг. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-payment-price-high": "Сумма выше, чем это позволяет платежная система.",
     "suite-alerts-errors-payment-price-low": "Сумма меньше, чем позволяет платежная система.",

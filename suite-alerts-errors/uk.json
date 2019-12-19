@@ -22,7 +22,6 @@
     "suite-alerts-errors-invoice-not-finished": "Місяць ще не закінчився. Повторіть спробу, коли закінчиться місяць.",
     "suite-alerts-errors-no-internet": "Немає інтернет-з'єднання.",
     "suite-alerts-errors-no-printers-connections": "В коворкінгу немає даних про користувачів принтерів.",
-    "suite-alerts-errors-organization-create-params-invalid": "Не вдалося створити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-organization-update-params-invalid": "Не вдалося оновити коворкінг. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-payment-price-high": "Сума є вищою, ніж це дозволяє платіжна система.",
     "suite-alerts-errors-payment-price-low": "Сума є меншою, ніж дозволяє платіжна система.",

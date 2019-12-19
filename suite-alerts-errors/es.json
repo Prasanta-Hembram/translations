@@ -22,7 +22,6 @@
     "suite-alerts-errors-invoice-not-finished": "El mes aún no ha terminado. Inténtalo de nuevo cuando acabe el mes.",
     "suite-alerts-errors-no-internet": "Sin conexión a internet.",
     "suite-alerts-errors-no-printers-connections": "El espacio de trabajo no tiene integración de impresora.",
-    "suite-alerts-errors-organization-create-params-invalid": "No se pudo crear el espacio de trabajo. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-organization-update-params-invalid": "El espacio de trabajo no se pudo actualizar. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-payment-price-high": "El monto total es superior al que permite el sistema de pago.",
     "suite-alerts-errors-payment-price-low": "El monto total es menor al que permite por el sistema de pago.",
