@@ -22,7 +22,6 @@
     "suite-alerts-errors-invoice-not-finished": "The month isn't over yet. Try again when the month ends.",
     "suite-alerts-errors-no-internet": "No internet connection.",
     "suite-alerts-errors-no-printers-connections": "The workspace has no printer integration.",
-    "suite-alerts-errors-organization-create-params-invalid": "Failed to create workspace. Check all fields and try again.",
     "suite-alerts-errors-organization-update-params-invalid": "Failed to update workspace. Check all fields and try again.",
     "suite-alerts-errors-payment-price-high": "The total amount is higher than the payment system allows.",
     "suite-alerts-errors-payment-price-low": "The total amount is smaller than the payment system allows.",
