@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-landing-description": "Eine einfache Möglichkeit, Konferenzräume zu buchen, mit der Community in Kontakt zu bleiben und Coworking Services an einem Ort zu nutzen. Loggen Sie sich bei {networkTitle} Coworking-Software ein und laden Sie mobile Apps herunter.",
-    "suite-landing-footer": "{networkTitle} arbeitet mit andcards zusammen, um {coworkingSoftwareLink} anzubieten. @ {copyrightYear} andcards",
+    "suite-landing-footer": "{networkTitle} arbeitet mit andcards zusammen, um {coworkingSoftwareLink} anzubieten. © {copyrightYear} andcards",
     "suite-landing-footer-coworking-software": "Coworking Software",
     "suite-landing-headline": "Willkommen bei {networkTitle}",
     "suite-landing-member-login-button": "Mitglieder-Login"

@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-landing-description": "A simple way to book meeting rooms, keep in touch with the community, and use coworking services all in one place. Login to {networkTitle} coworking software and download mobile apps.",
-    "suite-landing-footer": "{networkTitle} partners with andcards to provide {coworkingSoftwareLink}. @ {copyrightYear} andcards",
+    "suite-landing-footer": "{networkTitle} partners with andcards to provide {coworkingSoftwareLink}. © {copyrightYear} andcards",
     "suite-landing-footer-coworking-software": "coworking software",
     "suite-landing-headline": "Welcome to {networkTitle}",
     "suite-landing-member-login-button": "Member Login"
