@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-landing-description": "Простий спосіб резервувати мітинг руми, бути на зв'язку зі спільнотою та використовувати всі сервіси з одного місця. Скористайтесь програмним забезпеченням для коворкінгу {networkTitle} та завантажте безкоштовні мобільні застосунки.",
+    "suite-landing-footer": "{coworkingSoftwareLink} {networkTitle} надається у партнерстві з andcards. © {copyrightYear} andcards",
+    "suite-landing-footer-coworking-software": "Програмне забезпечення для коворкінгу",
     "suite-landing-headline": "Ласкаво просимо до {networkTitle}",
     "suite-landing-member-login-button": "Вхід для учасників"
   }
