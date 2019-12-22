@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-integrations-flow-button-connect": "Связаться",
-    "suite-page-organization-integrations-flow-description": "Включите Flow, чтобы проводить платежы с банковских карт прямо в приложении.\n\nОплата Flow работает в приложении без перенаправления или запроса на установку дополнительных приложений. Чтобы включить интеграцию, подготовьте свои ключи к API: https://www.flow.cl/app/web/misDatos.php.",
-    "suite-page-organization-integrations-flow-marketing-link-description": "Подробнее",
-    "suite-page-organization-integrations-flow-title": "Интеграция"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-integrations-stream-button-connect": "Contact us",
-    "suite-page-organization-integrations-stream-description": "Stream enables a coworking space community feed where members can communicate.\n\nStream integration adds a new 'Stream' button and works in-app without redirecting or requiring to install another app. To enable the integration, have your API key and secret ready: https://getstream.io/dashboard.",
-    "suite-page-organization-integrations-stream-marketing-link-description": "Learn more",
-    "suite-page-organization-integrations-stream-title": "Integration"
-  }
-}

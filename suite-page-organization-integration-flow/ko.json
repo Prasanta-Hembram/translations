@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-integrations-flow-button-connect": "연락하기",
-    "suite-page-organization-integrations-flow-description": "앱 내에서 카드로 즉시 결제하고 싶으시다면 Flow를 이용하세요.\n\nFlow를 연동하시려면 API 키를 준비하시면 됩니다 : https://www.flow.cl/app/web/misDatos.php.",
-    "suite-page-organization-integrations-flow-marketing-link-description": "더 알아보기",
-    "suite-page-organization-integrations-flow-title": "연동"
-  }
-}

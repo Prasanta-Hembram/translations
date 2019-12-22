@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-integrations-intercom-button-connect": "Связаться",
-    "suite-page-organization-integrations-intercom-description": "Включите Intercom чтобы организовать коммуникацию с клиентами коворкинга.\n\nIntercom добавит кнопку “Помощь” на страницу Мои Коворкинги. Резиденты используют её чтобы найти нужную информацию или обратиться за помощью. Чтобы включить Intercom, сначала получите ключи API в Настройки > Инсталляция.",
-    "suite-page-organization-integrations-intercom-marketing-link-description": "Подробнее",
-    "suite-page-organization-integrations-intercom-title": "Интеграция"
-  }
-}
