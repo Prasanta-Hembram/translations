@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-landing-description": "회의실을 예약하고 커뮤니티와 연락하며 코워킹 서비스를 한 곳에서 모두 이용하는 간단한 방법. {networkTitle} 코워킹 소프트웨어에 로그인하시고 모바일 앱을 다운로드해 보세요.",
-    "suite-landing-footer": "{networkTitle}는 andcrads와 협력하여 {coworkingSoftwareLink}를 제공합니다. © {copyrightYear} andcards",
+    "suite-landing-footer": "{networkTitle}는 {coworkingSoftwareLink}를 제공하는 andcards와 협력하고 있습니다. © {copyrightYear} andcards",
     "suite-landing-footer-coworking-software": "코워킹 소프트웨어",
     "suite-landing-headline": "{networkTitle}에 오신 것을 환영합니다.",
     "suite-landing-member-login-button": "회원 로그인"
