@@ -2,6 +2,7 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Assign plan",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "Assign",
+    "suite-modal-organization-directory-user-plan-assign-error-credits": "Type a valid credits.",
     "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "There are no plans yet. Create a plan first on Membership/All Credit Templates.",
     "suite-modal-organization-directory-user-plan-assign-error-not-found": "This page may not exist or may have been removed.",
     "suite-modal-organization-directory-user-plan-assign-period-from-title": "Start",

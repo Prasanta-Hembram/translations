@@ -3,6 +3,7 @@
     "suite-modal-organization-directory-team-plan-assign-title": "플랜 부여하기",
     "suite-modal-organization-directory-team-plan-assign-button-assign": "부여하기",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "플랜이 없습니다. '멤버십'/'전체 크레딧 템플릿' 페이지에서 플랜을 만들어 보세요.",
+    "suite-modal-organization-directory-team-plan-assign-error-error-credits": "Type a valid credits.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "이 페이지는 존재하지 않거나 제거되었을 수 있습니다.",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "시작일",
     "suite-modal-organization-directory-team-plan-assign-period-title": "기간",

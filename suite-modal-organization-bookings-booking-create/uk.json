@@ -14,6 +14,8 @@
     "suite-modal-organization-bookings-booking-create-book-for-points": "Зарезервувати за {balance}",
     "suite-modal-organization-bookings-booking-create-end-time": "Кінець",
     "suite-modal-organization-bookings-booking-create-error-booking-purpose-empty": "Уведіть назву резервації.",
+    "suite-modal-organization-bookings-booking-create-error-price-credits": "Type a valid credits.",
+    "suite-modal-organization-bookings-booking-create-error-price-money": "Type a valid price.",
     "suite-modal-organization-bookings-booking-create-free": "Безкоштовно",
     "suite-modal-organization-bookings-booking-create-memo": "Нотатка",
     "suite-modal-organization-bookings-booking-create-memo-placeholder": "Додати приватнy нотатку",

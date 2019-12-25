@@ -2,6 +2,7 @@
   "data": {
     "suite-modal-organization-settings-bookings-credit-template-update-title": "크레딧 템플릿 편집",
     "suite-modal-organization-settings-bookings-credit-template-update-credits": "크레딧, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-update-error-credits": "Type a valid credits.",
     "suite-modal-organization-settings-bookings-credit-template-update-name": "플랜 명",
     "suite-modal-organization-settings-bookings-credit-template-update-name-placeholder": "플랜 명 입력하기",
     "suite-modal-organization-settings-bookings-credit-template-update-period": "Period"

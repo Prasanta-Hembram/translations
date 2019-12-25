@@ -2,6 +2,7 @@
   "data": {
     "suite-modal-organization-settings-bookings-credit-template-create-title": "Новый шаблон для кредитов",
     "suite-modal-organization-settings-bookings-credit-template-create-credits": "Кредиты, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-create-error-credits": "Type a valid credits.",
     "suite-modal-organization-settings-bookings-credit-template-create-name": "Название",
     "suite-modal-organization-settings-bookings-credit-template-create-name-placeholder": "Введите название шаблона",
     "suite-modal-organization-settings-bookings-credit-template-create-period": "Период"

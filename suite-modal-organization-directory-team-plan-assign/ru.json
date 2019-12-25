@@ -3,6 +3,7 @@
     "suite-modal-organization-directory-team-plan-assign-title": "Присвоить план",
     "suite-modal-organization-directory-team-plan-assign-button-assign": "Присвоить",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "Отсутствуют тарифные планы. Cоздайте план на странице Участие/Все шаблоны для кредитов.",
+    "suite-modal-organization-directory-team-plan-assign-error-error-credits": "Type a valid credits.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Эта страница не существует или же была удалена.",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Начало",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Период",

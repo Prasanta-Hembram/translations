@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-create-description-placeholder": "Type a description (optional)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Type a number of seats.",
     "suite-page-organization-bookings-property-create-error-minimum-time": "Min time cannot be smaller than booking step.",
+    "suite-page-organization-bookings-property-create-error-price-money": "Type a valid price.",
+    "suite-page-organization-bookings-property-create-error-price-credits": "Type a valid credits.",
     "suite-page-organization-bookings-property-create-error-room-name": "Type a name.",
     "suite-page-organization-bookings-property-create-image-delete": "Delete Photo",
     "suite-page-organization-bookings-property-create-is-private": "Limited Access",

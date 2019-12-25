@@ -14,6 +14,8 @@
     "suite-modal-organization-bookings-booking-create-book-for-points": "{balance}로 예약하기",
     "suite-modal-organization-bookings-booking-create-end-time": "종료",
     "suite-modal-organization-bookings-booking-create-error-booking-purpose-empty": "예약 제목을 입력해 주세요.",
+    "suite-modal-organization-bookings-booking-create-error-price-credits": "Type a valid credits.",
+    "suite-modal-organization-bookings-booking-create-error-price-money": "Type a valid price.",
     "suite-modal-organization-bookings-booking-create-free": "무료",
     "suite-modal-organization-bookings-booking-create-memo": "메모",
     "suite-modal-organization-bookings-booking-create-memo-placeholder": "사유 메모 입력하기",

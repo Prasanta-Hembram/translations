@@ -3,6 +3,7 @@
     "suite-modal-organization-directory-team-plan-assign-title": "Asignar plan",
     "suite-modal-organization-directory-team-plan-assign-button-assign": "Asignar",
     "suite-modal-organization-directory-team-plan-assign-error-empty-plans": "No hay planes todavía. Crea un plan primero en la página de membresía/todos las plantillas de créditos.",
+    "suite-modal-organization-directory-team-plan-assign-error-error-credits": "Type a valid credits.",
     "suite-modal-organization-directory-team-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
     "suite-modal-organization-directory-team-plan-assign-period-from-title": "Comienzo",
     "suite-modal-organization-directory-team-plan-assign-period-title": "Período",
