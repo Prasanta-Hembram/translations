@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-settings-bookings-credit-template-update-title": "Editar plantilla de créditos",
     "suite-modal-organization-settings-bookings-credit-template-update-credits": "Créditos, {pointEmoji}",
-    "suite-modal-organization-settings-bookings-credit-template-update-error-credits": "Type a valid credits.",
+    "suite-modal-organization-settings-bookings-credit-template-update-error-credits": "Indique un monto válido en créditos",
     "suite-modal-organization-settings-bookings-credit-template-update-name": "Nombre",
     "suite-modal-organization-settings-bookings-credit-template-update-name-placeholder": "Agregar nombre",
     "suite-modal-organization-settings-bookings-credit-template-update-period": "Período"
