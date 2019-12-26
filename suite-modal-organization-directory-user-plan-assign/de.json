@@ -2,6 +2,7 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Abo zuweisen",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "Zuweisen",
+    "suite-modal-organization-directory-user-plan-assign-error-credits": "Geben Sie einen gültigen Betrag in Credits ein.",
     "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "Es gibt noch keine Abo. Erstellen Sie zuerst ein Abo auf der Seite Mitgliedschaft/Alle Credit-Abos.",
     "suite-modal-organization-directory-user-plan-assign-error-not-found": "Diese Seite ist möglicherweise nicht vorhanden oder wurde entfernt.",
     "suite-modal-organization-directory-user-plan-assign-period-from-title": "Start",
