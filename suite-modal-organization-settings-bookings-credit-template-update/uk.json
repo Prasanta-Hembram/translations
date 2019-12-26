@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-modal-organization-settings-bookings-credit-template-update-title": "Редагувати шаблон",
-    "suite-modal-organization-settings-bookings-credit-template-update-credits": "Кредити, {pointEmoji}",
-    "suite-modal-organization-settings-bookings-credit-template-update-name": "Назва",
-    "suite-modal-organization-settings-bookings-credit-template-update-name-placeholder": "Уведіть назву шаблону",
-    "suite-modal-organization-settings-bookings-credit-template-update-period": "Період"
-  }
-}

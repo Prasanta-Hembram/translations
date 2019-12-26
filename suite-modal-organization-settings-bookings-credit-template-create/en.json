@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-modal-organization-settings-bookings-credit-template-create-title": "New Credit Template",
-    "suite-modal-organization-settings-bookings-credit-template-create-credits": "Credits, {pointEmoji}",
-    "suite-modal-organization-settings-bookings-credit-template-create-name": "Name",
-    "suite-modal-organization-settings-bookings-credit-template-create-name-placeholder": "Type a name",
-    "suite-modal-organization-settings-bookings-credit-template-create-period": "Period"
-  }
-}

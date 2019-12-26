@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-settings-bookings-credit-template-details-title": "Plantilla de crédito",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-failure": "No se ha podido eliminar la plantilla de crédito.",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-plan": "Eliminar",
-    "suite-page-organization-settings-bookings-credit-template-details-delete-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-settings-bookings-credit-template-details-empty": "Esta plantilla de crédito puede no existir o puede haber sido eliminada."
-  }
-}
