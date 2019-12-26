@@ -9,7 +9,7 @@
     "suite-page-organization-bookings-property-edit-error-minimum-time": "Die Mindestdauer darf nicht kleiner sein als der Buchungsschritt.",
     "suite-page-organization-bookings-property-edit-error-price-money": "Geben Sie einen gültigen Preis an.",
     "suite-page-organization-bookings-property-edit-error-price-credits": "Geben Sie einen gültigen Betrag an Credits ein.",
-    "suite-page-organization-bookings-property-edit-error-room-name": "Namen eingeben."
+    "suite-page-organization-bookings-property-edit-error-room-name": "Namen eingeben.",
     "suite-page-organization-bookings-property-edit-is-private": "Eingeschränkter Zugriff",
     "suite-page-organization-bookings-property-edit-limited-access-title": "Eingeschränkter Zugriff",
     "suite-page-organization-bookings-property-edit-limited-access-desc": "Erlauben Sie nur bestimmten Teams den Zugang zum Konferenzraum.",
