@@ -14,7 +14,7 @@
     "suite-modal-organization-bookings-booking-create-book-for-points": "Book for {balance}",
     "suite-modal-organization-bookings-booking-create-end-time": "Ends",
     "suite-modal-organization-bookings-booking-create-error-booking-purpose-empty": "Type the booking title.",
-    "suite-modal-organization-bookings-booking-create-error-price-credits": "Type a valid credits.",
+    "suite-modal-organization-bookings-booking-create-error-price-credits": "Type a valid price in credits.",
     "suite-modal-organization-bookings-booking-create-error-price-money": "Type a valid price.",
     "suite-modal-organization-bookings-booking-create-free": "Free",
     "suite-modal-organization-bookings-booking-create-memo": "Memo",
