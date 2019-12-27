@@ -2,6 +2,7 @@
   "data": {
     "suite-modal-organization-settings-bookings-credit-template-update-title": "Bearbeite Credit-Abo",
     "suite-modal-organization-settings-bookings-credit-template-update-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-update-error-credits": "Geben Sie einen gültigen Betrag in Credits ein.",
     "suite-modal-organization-settings-bookings-credit-template-update-name": "Name",
     "suite-modal-organization-settings-bookings-credit-template-update-name-placeholder": "Namen eingeben",
     "suite-modal-organization-settings-bookings-credit-template-update-period": "Zeitraum"

@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "플랜 부여",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "부여하기",
-    "suite-modal-organization-directory-user-plan-assign-error-amount": "Type a valid credits.",
+    "suite-modal-organization-directory-user-plan-assign-error-amount": "크레딧 금액을 입력해 주세요.",
     "suite-modal-organization-directory-user-plan-assign-name": "Name",
     "suite-modal-organization-directory-user-plan-assign-name-placeholder": "Type a name",
     "suite-modal-organization-directory-user-plan-assign-period-from": "시작일",

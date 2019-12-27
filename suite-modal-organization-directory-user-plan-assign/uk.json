@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Призначити план",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "Призначити",
-    "suite-modal-organization-directory-user-plan-assign-error-amount": "Type a valid credits.",
+    "suite-modal-organization-directory-user-plan-assign-error-amount": "Уведіть суму в кредитах.",
     "suite-modal-organization-directory-user-plan-assign-name": "Назва",
     "suite-modal-organization-directory-user-plan-assign-name-placeholder": "Додайте назву",
     "suite-modal-organization-directory-user-plan-assign-period-from": "Початок",

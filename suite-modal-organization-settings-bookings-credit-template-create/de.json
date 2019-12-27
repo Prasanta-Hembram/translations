@@ -2,6 +2,7 @@
   "data": {
     "suite-modal-organization-settings-bookings-credit-template-create-title": "Neues Credit-Abo",
     "suite-modal-organization-settings-bookings-credit-template-create-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-settings-bookings-credit-template-create-error-credits": "Geben Sie einen gültigen Betrag in Credits ein.",
     "suite-modal-organization-settings-bookings-credit-template-create-name": "Name",
     "suite-modal-organization-settings-bookings-credit-template-create-name-placeholder": "Namen eingeben",
     "suite-modal-organization-settings-bookings-credit-template-create-period": "Zeitraum"

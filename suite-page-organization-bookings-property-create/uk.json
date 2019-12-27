@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-create-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
     "suite-page-organization-bookings-property-create-error-minimum-time": "Мінімальний час не може бути меншим за крок бронювання.",
+    "suite-page-organization-bookings-property-create-error-price-money": "Уведіть суму.",
+    "suite-page-organization-bookings-property-create-error-price-credits": "Уведіть суму в кредитах.",
     "suite-page-organization-bookings-property-create-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-bookings-property-create-image-delete": "Видалити зображення",
     "suite-page-organization-bookings-property-create-is-private": "Обмежений доступ",
