@@ -14,6 +14,8 @@
     "suite-modal-organization-bookings-booking-create-book-for-points": "Reservar por {balance}",
     "suite-modal-organization-bookings-booking-create-end-time": "Finalización",
     "suite-modal-organization-bookings-booking-create-error-booking-purpose-empty": "Introduzca un título de su reserva.",
+    "suite-modal-organization-bookings-booking-create-error-price-credits": "Indique un monto válido en créditos.",
+    "suite-modal-organization-bookings-booking-create-error-price-money": "Indique un precio válido.",
     "suite-modal-organization-bookings-booking-create-free": "Gratis",
     "suite-modal-organization-bookings-booking-create-memo": "Nota",
     "suite-modal-organization-bookings-booking-create-memo-placeholder": "Añadir memo (privado)",

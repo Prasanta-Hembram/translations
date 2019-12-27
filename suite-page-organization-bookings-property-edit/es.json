@@ -7,6 +7,8 @@
     "suite-page-organization-bookings-property-edit-error-no-property": "Esta sala puede no existir o puede haber sido eliminada.",
     "suite-page-organization-bookings-property-edit-error-number-of-people": "Por favor, indique cuántas personas pueden caber en la sala de reuniones.",
     "suite-page-organization-bookings-property-edit-error-minimum-time": "El tiempo mínimo no puede ser más pequeño que el paso de reserva.",
+    "suite-page-organization-bookings-property-edit-error-price-money": "Indique un precio válido.",
+    "suite-page-organization-bookings-property-edit-error-price-credits": "Indique un monto válido en créditos.",
     "suite-page-organization-bookings-property-edit-error-room-name": "Por favor ingrese un nombre de sala de reuniones.",
     "suite-page-organization-bookings-property-edit-is-private": "Acceso limitado",
     "suite-page-organization-bookings-property-edit-limited-access-title": "Acceso limitado",

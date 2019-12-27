@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-create-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
     "suite-page-organization-bookings-property-create-error-minimum-time": "Минимальное время не может быть меньше шага бронирования.",
+    "suite-page-organization-bookings-property-create-error-price-money": "Введите сумму.",
+    "suite-page-organization-bookings-property-create-error-price-credits": "Введите сумму в кредитах.",
     "suite-page-organization-bookings-property-create-error-room-name": "Пожалуйста, введите название переговорной.",
     "suite-page-organization-bookings-property-create-image-delete": "Удалить изображение",
     "suite-page-organization-bookings-property-create-is-private": "Ограниченный доступ",

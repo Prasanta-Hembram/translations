@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-create-description-placeholder": "Descripción del tipo de tu sala de reuniones (opcional)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Por favor, indica cuántas personas pueden caber en la sala de reuniones.",
     "suite-page-organization-bookings-property-create-error-minimum-time": "El tiempo mínimo no puede ser más pequeño que el paso de reserva.",
+    "suite-page-organization-bookings-property-create-error-price-money": "Indique un precio válido",
+    "suite-page-organization-bookings-property-create-error-price-credits": "Indique un monto válido en créditos.",
     "suite-page-organization-bookings-property-create-error-room-name": "Por favor, ingresa un nombre de sala de reuniones.",
     "suite-page-organization-bookings-property-create-image-delete": "Borrar imagen",
     "suite-page-organization-bookings-property-create-is-private": "Acceso limitado",

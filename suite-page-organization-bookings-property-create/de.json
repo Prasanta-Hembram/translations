@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-create-description-placeholder": "Beschreibung eingeben (optional)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Geben Sie eine Anzahl von Plätzen ein.",
     "suite-page-organization-bookings-property-create-error-minimum-time": "Die Mindestzeit darf nicht kleiner sein als der Buchungsschritt.",
+    "suite-page-organization-bookings-property-create-error-price-money": "Geben Sie einen gültigen Preis an.",
+    "suite-page-organization-bookings-property-create-error-price-credits": "Geben Sie einen gültigen Betrag in Credits ein.",
     "suite-page-organization-bookings-property-create-error-room-name": "Namen eingeben.",
     "suite-page-organization-bookings-property-create-image-delete": "Bild löschen",
     "suite-page-organization-bookings-property-create-is-private": "Eingeschränkter Zugriff",
