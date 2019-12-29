@@ -11,7 +11,6 @@
     "suite-modal-organization-transaction-paid-with-label": "결제 수단",
     "suite-modal-organization-transaction-paid-with-card": "카드",
     "suite-modal-organization-transaction-paid-with-cash": "외부 지불",
-    "suite-modal-organization-transaction-paid-with-for-free": "무료",
     "suite-modal-organization-transaction-paid-with-invoice": "인보이스",
     "suite-modal-organization-transaction-period-label": "기간",
     "suite-modal-organization-transaction-plan-details-title": "플랜 정보",
