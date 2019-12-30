@@ -3,10 +3,10 @@
     "utils-time-15-min": "15 minutes",
     "utils-time-30-min": "30 minutes",
     "utils-time-1-hour": "1 hour",
-    "utils-time-2-hour": "2 hours",
-    "utils-time-3-hour": "3 hours",
-    "utils-time-4-hour": "4 hours",
-    "utils-time-6-hour": "6 hours",
+    "utils-time-2-hours": "2 hours",
+    "utils-time-3-hours": "3 hours",
+    "utils-time-4-hours": "4 hours",
+    "utils-time-6-hours": "6 hours",
     "utils-time-1-day": "1 day"
   }
 }
