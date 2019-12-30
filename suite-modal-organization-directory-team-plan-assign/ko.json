@@ -4,8 +4,8 @@
     "suite-modal-organization-directory-team-plan-assign-amount": "크레딧, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-assign-button-assign": "부여하기",
     "suite-modal-organization-directory-team-plan-assign-error-amount": "크레딧 금액을 입력해 주세요.",
-    "suite-modal-organization-directory-team-plan-assign-name": "Name",
-    "suite-modal-organization-directory-team-plan-assign-name-placeholder": "Type a name",
+    "suite-modal-organization-directory-team-plan-assign-name": "제목",
+    "suite-modal-organization-directory-team-plan-assign-name-placeholder": "제목을 입력하기",
     "suite-modal-organization-directory-team-plan-assign-period-from": "시작일",
     "suite-modal-organization-directory-team-plan-assign-period-title": "기간",
     "suite-modal-organization-directory-team-plan-assign-plan-repeat": "정기구독"
