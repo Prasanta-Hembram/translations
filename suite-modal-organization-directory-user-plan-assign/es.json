@@ -2,13 +2,12 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Asignar plan",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "Asignar",
-    "suite-modal-organization-directory-user-plan-assign-error-credits": "Indique un monto válido en créditos.",
-    "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "No hay planes todavía. Crea un plan primero en la página de membresía/todos las plantillas de créditos.",
-    "suite-modal-organization-directory-user-plan-assign-error-not-found": "Esta página puede no existir o puede haber sido eliminada.",
-    "suite-modal-organization-directory-user-plan-assign-period-from-title": "Comienzo",
-    "suite-modal-organization-directory-user-plan-assign-period-title": "Período",
-    "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Precio, {pointEmoji}",
-    "suite-modal-organization-directory-user-plan-assign-plan-title": "Plantilla",
-    "suite-modal-organization-directory-user-plan-assign-repeat-label": "Repetir"
+    "suite-modal-organization-directory-user-plan-assign-error-amount": "Indique un monto válido en créditos.",
+    "suite-modal-organization-directory-user-plan-assign-name": "Nombre",
+    "suite-modal-organization-directory-user-plan-assign-name-placeholder": "Ingrese un nombre",
+    "suite-modal-organization-directory-user-plan-assign-period-from": "Comienzo",
+    "suite-modal-organization-directory-user-plan-assign-period": "Período",
+    "suite-modal-organization-directory-user-plan-assign-amount": "Precio, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-assign-repeat": "Repetir"
   }
 }

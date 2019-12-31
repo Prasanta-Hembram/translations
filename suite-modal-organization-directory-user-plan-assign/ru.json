@@ -2,13 +2,12 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Присвоить план",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "Присвоить",
-    "suite-modal-organization-directory-user-plan-assign-error-credits": "Введите сумму в кредитах.",
-    "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "Отсутствуют тарифные планы. Cоздайте план на странице Участие/Все шаблоны для кредитов.",
-    "suite-modal-organization-directory-user-plan-assign-error-not-found": "Эта страница не существует или же была удалена.",
-    "suite-modal-organization-directory-user-plan-assign-period-from-title": "Начало",
-    "suite-modal-organization-directory-user-plan-assign-period-title": "Период",
-    "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Кредиты, {pointEmoji}",
-    "suite-modal-organization-directory-user-plan-assign-plan-title": "Шаблон",
-    "suite-modal-organization-directory-user-plan-assign-repeat-label": "Продление"
+    "suite-modal-organization-directory-user-plan-assign-error-amount": "Введите сумму в кредитах.",
+    "suite-modal-organization-directory-user-plan-assign-name": "Название",
+    "suite-modal-organization-directory-user-plan-assign-name-placeholder": "Ввести название",
+    "suite-modal-organization-directory-user-plan-assign-period-from": "Начало",
+    "suite-modal-organization-directory-user-plan-assign-period": "Период",
+    "suite-modal-organization-directory-user-plan-assign-amount": "Кредиты, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-assign-repeat": "Продление"
   }
 }
