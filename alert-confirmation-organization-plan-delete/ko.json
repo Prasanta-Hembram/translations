@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-plan-delete-title": "크레딧 템플릿 삭제",
-    "alert-confirmation-organization-plan-delete-no": "돌아가기",
-    "alert-confirmation-organization-plan-delete-text": "이 템플릿을 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
-    "alert-confirmation-organization-plan-delete-yes": "삭제하기"
-  }
-}

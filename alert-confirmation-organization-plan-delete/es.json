@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-plan-delete-title": "Eliminiar plantilla de créditos",
-    "alert-confirmation-organization-plan-delete-no": "Cancelar",
-    "alert-confirmation-organization-plan-delete-text": "¿Estás seguro de que quieres eliminar esta plantilla de créditos? Esta acción es irreversible.",
-    "alert-confirmation-organization-plan-delete-yes": "Eliminar"
-  }
-}

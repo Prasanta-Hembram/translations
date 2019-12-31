@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-plan-delete-title": "Удалить шаблон для кредитов",
-    "alert-confirmation-organization-plan-delete-no": "Отменить",
-    "alert-confirmation-organization-plan-delete-text": "Вы уверены, что хотите удалить этот шаблон? Данное действие необротимо.",
-    "alert-confirmation-organization-plan-delete-yes": "Удалить"
-  }
-}

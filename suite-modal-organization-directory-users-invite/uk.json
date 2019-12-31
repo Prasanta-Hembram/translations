@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-modal-organization-directory-users-invite-title": "Запросити",
-    "suite-modal-organization-directory-users-invite-mass-button-download-template": "Скачати шаблон",
+    "suite-modal-organization-directory-users-invite-mass-button-download-template": "Завантажити шаблон",
     "suite-modal-organization-directory-users-invite-mass-button-upload": "Завантажити файл",
     "suite-modal-organization-directory-users-invite-mass-desc": "Завантажте спеціально відформатований файл зі списком ваших учасників, щоб запросити їх приєднатися до коворкінгу.",
     "suite-modal-organization-directory-users-invite-mass-error-description": "Не вдалося запросити учасників. У файлі, що ви завантажили, знайдено наступні проблеми:",
