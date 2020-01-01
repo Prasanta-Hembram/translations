@@ -10,7 +10,6 @@
     "utils-auth-email-invalid": "이메일이 올바르지 않거나 다른 계정이 로그인 되어있습니다.",
     "utils-auth-link-privacy-policy": "개인정보 보호정책",
     "utils-auth-link-terms-of-use": "이용약관",
-    "utils-auth-login-options": "로그인 방법",
     "utils-auth-next-step": "계속하기",
     "utils-auth-type-code": "인증번호를 입력하기",
     "utils-auth-type-email-here": "이메일을 입력하기"

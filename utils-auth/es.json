@@ -10,7 +10,6 @@
     "utils-auth-email-invalid": "El código le ha sido enviado por correo electrónico.",
     "utils-auth-link-privacy-policy": "Política de privacidad",
     "utils-auth-link-terms-of-use": "Términos de uso",
-    "utils-auth-login-options": "Opciones de inicio de sesión",
     "utils-auth-next-step": "Continuar",
     "utils-auth-type-code": "Inserta el códgio",
     "utils-auth-type-email-here": "Inserta correo electrónico"

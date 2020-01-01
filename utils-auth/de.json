@@ -10,7 +10,6 @@
     "utils-auth-email-invalid": "Die E-Mail ist ungültig oder mit einem anderen Konto verbunden.",
     "utils-auth-link-privacy-policy": "Datenschutzerklärung",
     "utils-auth-link-terms-of-use": "Nutzungsbedingungen",
-    "utils-auth-login-options": "Anmeldeoptionen",
     "utils-auth-next-step": "Zustimmen und fortfahren",
     "utils-auth-type-code": "Code eingeben",
     "utils-auth-type-email-here": "Hier E-Mail eingeben"
