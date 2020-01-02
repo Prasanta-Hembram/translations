@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-tab-navigation-my-workspaces": "Мои коворкинги",
     "suite-tab-navigation-organization-benefits": "Сервисы",
     "suite-tab-navigation-organization-booking": "Бронирования",
     "suite-tab-navigation-organization-directory": "Каталог",
@@ -9,7 +8,6 @@
     "suite-tab-navigation-organization-membership": "Участие",
     "suite-tab-navigation-organization-settings": "Настройки",
     "suite-tab-navigation-organization-statistics": "Статистика",
-    "suite-tab-navigation-organization-stream": "Stream",
-    "suite-tab-navigation-profile": "Профиль"
+    "suite-tab-navigation-organization-stream": "Stream"
   }
 }

@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-tab-navigation-my-workspaces": "My Workspaces",
     "suite-tab-navigation-organization-benefits": "Benefits",
     "suite-tab-navigation-organization-booking": "Bookings",
     "suite-tab-navigation-organization-directory": "Directory",
@@ -9,7 +8,6 @@
     "suite-tab-navigation-organization-membership": "Membership",
     "suite-tab-navigation-organization-settings": "Settings",
     "suite-tab-navigation-organization-statistics": "Statistics",
-    "suite-tab-navigation-organization-stream": "Stream",
-    "suite-tab-navigation-profile": "Profile"
+    "suite-tab-navigation-organization-stream": "Stream"
   }
 }

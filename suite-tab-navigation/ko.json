@@ -1,6 +1,5 @@
 {
   "data": {
-    "suite-tab-navigation-my-workspaces": "나의 공간",
     "suite-tab-navigation-organization-benefits": "베네핏",
     "suite-tab-navigation-organization-booking": "회의실 예약",
     "suite-tab-navigation-organization-directory": "회원 찾기",
@@ -9,7 +8,6 @@
     "suite-tab-navigation-organization-membership": "멤버십",
     "suite-tab-navigation-organization-settings": "설정",
     "suite-tab-navigation-organization-statistics": "통계 자료",
-    "suite-tab-navigation-organization-stream": "Stream",
-    "suite-tab-navigation-profile": "프로필"
+    "suite-tab-navigation-organization-stream": "Stream"
   }
 }
