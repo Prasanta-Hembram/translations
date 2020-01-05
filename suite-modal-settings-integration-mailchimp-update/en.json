@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-modal-settings-integration-mailchimp-update-title": "Account",
+    "suite-modal-settings-integration-mailchimp-update-account-audience": "Audience",
+    "suite-modal-settings-integration-mailchimp-update-account-audience-default": "Not Selected",
+    "suite-modal-settings-integration-mailchimp-update-account-login-email": "Email",
+    "suite-modal-settings-integration-mailchimp-update-account-login-name": "Username",
+    "suite-modal-settings-integration-mailchimp-update-account-name": "Account Name"
+  }
+}
