@@ -3,9 +3,10 @@
     "utils-time-15-min": "15 хвилин",
     "utils-time-30-min": "30 хвилин",
     "utils-time-1-hour": "1 година",
-    "utils-time-2-hour": "2 години",
-    "utils-time-3-hour": "3 години",
-    "utils-time-4-hour": "4 години",
+    "utils-time-2-hours": "2 години",
+    "utils-time-3-hours": "3 години",
+    "utils-time-4-hours": "4 години",
+    "utils-time-6-hours": "6 годин",
     "utils-time-1-day": "1 день"
   }
 }

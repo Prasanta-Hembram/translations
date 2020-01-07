@@ -10,7 +10,6 @@
     "utils-auth-email-invalid": "The email is incorrect or connected to another account.",
     "utils-auth-link-privacy-policy": "Privacy Policy",
     "utils-auth-link-terms-of-use": "Terms of Use",
-    "utils-auth-login-options": "Login Options",
     "utils-auth-next-step": "Continue",
     "utils-auth-type-code": "Type code",
     "utils-auth-type-email-here": "Type email here"

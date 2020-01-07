@@ -10,7 +10,6 @@
     "utils-auth-email-invalid": "Email неверен или подключен к другой учетной записи.",
     "utils-auth-link-privacy-policy": "политикой конфиденциальности",
     "utils-auth-link-terms-of-use": "условиями использования",
-    "utils-auth-login-options": "Опции входа",
     "utils-auth-next-step": "Продолжить",
     "utils-auth-type-code": "Ввести код подтверждения",
     "utils-auth-type-email-here": "Ввести email"

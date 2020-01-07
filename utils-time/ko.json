@@ -3,9 +3,10 @@
     "utils-time-15-min": "15분",
     "utils-time-30-min": "30분",
     "utils-time-1-hour": "1시간",
-    "utils-time-2-hour": "2시간",
-    "utils-time-3-hour": "3시간",
-    "utils-time-4-hour": "4시간",
+    "utils-time-2-hours": "2시간",
+    "utils-time-3-hours": "3시간",
+    "utils-time-4-hours": "4시간",
+    "utils-time-6-hours": "6시간",
     "utils-time-1-day": "1일"
   }
 }

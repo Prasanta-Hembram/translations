@@ -2,13 +2,12 @@
   "data": {
     "suite-modal-organization-directory-user-plan-assign-title": "Abo zuweisen",
     "suite-modal-organization-directory-user-plan-assign-button-assign": "Zuweisen",
-    "suite-modal-organization-directory-user-plan-assign-error-credits": "Geben Sie einen gültigen Betrag in Credits ein.",
-    "suite-modal-organization-directory-user-plan-assign-error-empty-plans": "Es gibt noch keine Abo. Erstellen Sie zuerst ein Abo auf der Seite Mitgliedschaft/Alle Credit-Abos.",
-    "suite-modal-organization-directory-user-plan-assign-error-not-found": "Diese Seite ist möglicherweise nicht vorhanden oder wurde entfernt.",
-    "suite-modal-organization-directory-user-plan-assign-period-from-title": "Start",
-    "suite-modal-organization-directory-user-plan-assign-period-title": "Zeitraum",
-    "suite-modal-organization-directory-user-plan-assign-plan-price-points": "Credits, {pointEmoji}",
-    "suite-modal-organization-directory-user-plan-assign-plan-title": "Vorlage",
-    "suite-modal-organization-directory-user-plan-assign-repeat-label": "Wiederholend"
+    "suite-modal-organization-directory-user-plan-assign-error-amount": "Geben Sie einen gültigen Betrag in Credits ein.",
+    "suite-modal-organization-directory-user-plan-assign-name": "Name",
+    "suite-modal-organization-directory-user-plan-assign-name-placeholder": "Namen eingeben",
+    "suite-modal-organization-directory-user-plan-assign-period-from": "Start",
+    "suite-modal-organization-directory-user-plan-assign-period": "Zeitraum",
+    "suite-modal-organization-directory-user-plan-assign-amount": "Credits, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-assign-repeat": "Wiederholend"
   }
 }

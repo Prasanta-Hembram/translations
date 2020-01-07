@@ -10,7 +10,6 @@
     "utils-auth-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
     "utils-auth-link-privacy-policy": "політикою приватності",
     "utils-auth-link-terms-of-use": "умовами надання послуг",
-    "utils-auth-login-options": "Опції входу",
     "utils-auth-next-step": "Продовжити",
     "utils-auth-type-code": "Увести код підтвердження",
     "utils-auth-type-email-here": "Увести email"
