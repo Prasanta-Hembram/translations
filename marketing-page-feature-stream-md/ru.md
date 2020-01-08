@@ -6,3 +6,5 @@ Stream позволяет резидентам коворкинг сообщес
 - Получать уведомления push о новых сообщениях.
 
 Интеграция Stream добавляет новую кнопку "Stream" и работает в приложении без необходимости перенаправления или установки другого приложения. Чтобы включить интеграцию, подготовьте свой API ключ и секрет: https://getstream.io/dashboard
+
+![Coworking Space Stream Integration](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)
