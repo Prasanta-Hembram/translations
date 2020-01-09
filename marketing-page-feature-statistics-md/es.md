@@ -6,4 +6,4 @@ Comprende tus membresías en el espacio de coworking y los datos de ingresos. Co
 
 ---
 
-![Coworking Space Statistics](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)
+![Estadísticas del espacio de coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

@@ -7,4 +7,4 @@
 
 ---
 
-![оплата через KakaoPay для переговорных](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)
+![KakaoPay для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

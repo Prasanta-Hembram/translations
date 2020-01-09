@@ -11,4 +11,4 @@ Intercom додає кнопку “Допомога” на сторінку М
 
 ---
 
-![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
+![Intercom для коворкінг центру](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

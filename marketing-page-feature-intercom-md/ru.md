@@ -11,4 +11,4 @@ Intercom добавит кнопку “Помощь” на страницу М
 
 ---
 
-![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
+![Intercom для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

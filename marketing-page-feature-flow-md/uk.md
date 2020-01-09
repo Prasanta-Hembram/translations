@@ -14,6 +14,6 @@ Flow дозволяє швидко та надійно отримувати пл
 
 ---
 
-![Платежі онлайн для коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Платежі Flow онлайн для коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
 ![Оплата карткою за бронювання переговорних](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)
