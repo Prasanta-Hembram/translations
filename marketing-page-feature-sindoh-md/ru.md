@@ -8,6 +8,6 @@ Sindoh — это производитель облачных решений д�
 
 ---
 
-![Sindoh принтер для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
+![Printer integration used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Управление печатью для коворкинг-пространства](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)
+![Sindoh printer usage information displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

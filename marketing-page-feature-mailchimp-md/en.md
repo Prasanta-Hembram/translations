@@ -13,4 +13,4 @@ Use member information to personalize email. The following data is pushed to Mai
 
 ---
 
-![Mailchimp for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)
+![Mailchimp integration used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)

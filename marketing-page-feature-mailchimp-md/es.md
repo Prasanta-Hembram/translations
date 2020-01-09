@@ -13,4 +13,4 @@ Utiliza la información de los miembros para personalizar el correo electrónico
 
 ---
 
-![Mailchimp para espacio de coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)
+![Mailchimp integration used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)

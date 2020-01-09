@@ -7,6 +7,6 @@ Stripe 결제는 다른 앱을 설치하거나 등록하지 않아도 앱 내부
 
 ---
 
-![코워킹 스페이스를 위한 Stripe 결제](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Card payment for meeting room reservation in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![신용카드로 회의실 예약 결제](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Stripe payments in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)

@@ -6,4 +6,4 @@
 
 ---
 
-![코워킹 스페이스 통계](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)
+![Coworking space revenue statistics displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

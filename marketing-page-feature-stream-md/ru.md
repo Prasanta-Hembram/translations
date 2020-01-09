@@ -7,4 +7,4 @@ Stream позволяет резидентам коворкинг сообщес
 
 Интеграция Stream добавляет новую кнопку "Stream" и работает в приложении без необходимости перенаправления или установки другого приложения. Чтобы включить интеграцию, подготовьте свой API ключ и секрет: https://getstream.io/dashboard
 
-![Stream для коворкинг центра](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)
+![Stream integration used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)

@@ -11,8 +11,6 @@
 
 ---
 
-![Каталог резидентов коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![Member directory displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
-![Профиль участника коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
-
-![Кредитная система для участников коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-credits-light-en-1920-1200.png)
+![Member profile displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
