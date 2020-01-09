@@ -15,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "Период бронирования недействителен.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Невозможно списать больше, чем есть у команды.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Невозможно списать больше, чем есть у пользователя.",
+    "suite-alerts-errors-email-not-valid": "Email неверное.",
     "suite-alerts-errors-file-not-found": "Файл не загружен.",
     "suite-alerts-errors-last-integration-delete": "Последний метод входа не может быть удален.",
     "suite-alerts-errors-internal-error": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",

@@ -15,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "예약 기간이 유효하지 않습니다.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "회수할 금액이 팀 크레딧 잔액을 초과합니다.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "회수할 금액이 개인 크레딧 잔액을 초과합니다.",
+    "suite-alerts-errors-email-not-valid": "The email is incorrect.",
     "suite-alerts-errors-file-not-found": "파일 업로드 오류.",
     "suite-alerts-errors-last-integration-delete": "마지막 로그인 방법을 삭제할 수 없습니다.",
     "suite-alerts-errors-internal-error": "오류가 발생했습니다. 다시 시도하세요.",

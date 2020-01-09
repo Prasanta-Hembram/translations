@@ -15,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "El período de reserva no es válido.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "No se puede cobrar más de lo que el equipo tiene.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "No se puede cobrar más de lo que el usuario tiene",
+    "suite-alerts-errors-email-not-valid": "The email is incorrect.",
     "suite-alerts-errors-file-not-found": "El archivo no ha sido cargado.",
     "suite-alerts-errors-last-integration-delete": "No se puede eliminar el último método de inicio de sesión.",
     "suite-alerts-errors-internal-error": "Algo salió mal. Por favor intenta de nuevo.",
