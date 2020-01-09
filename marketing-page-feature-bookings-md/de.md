@@ -15,7 +15,7 @@ Finden Sie freie Konferenzräume, ohne das Buchungssystem zu öffnen. Schauen Si
 
 ---
 
-![Meeting rooms displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
+![Meeting rooms reservation system in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
 ![Meeting room reservation calendar displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
