@@ -6,3 +6,5 @@ Stream permite un espacio de coworking de alimentación comunitaria donde los mi
 - Recibir notificaciones push para nuevos mensajes.
 
 La integración de Stream añade un nuevo botón "Stream" y funciona in-app sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano su clave de API y su secreto: https://getstream.io/dashboard
+
+![Coworking Space Stream Integration](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)
