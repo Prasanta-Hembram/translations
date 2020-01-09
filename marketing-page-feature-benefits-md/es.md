@@ -8,8 +8,8 @@ Ofrezca a los miembros más por su dinero y organiza convenios con empresas loca
 
 ---
 
-![Benefit categories displayed in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
+![Benefit categories in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
 
-![Benefits displayed in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
+![Benefits in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
 
 ![Benefit application form in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)

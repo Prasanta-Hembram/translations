@@ -10,4 +10,4 @@ Download Smart Office Printing Management Lösung Präsentation (nur Koreanisch)
 
 ![Printer integration in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Sindoh printer usage information displayed in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)
+![Sindoh printer usage information in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

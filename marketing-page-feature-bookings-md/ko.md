@@ -17,7 +17,7 @@
 
 ![Meeting rooms reservation system in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
-![Meeting room reservation calendar displayed in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
+![Meeting room reservation calendar in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
 ![Card payment for meeting room reservation in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
