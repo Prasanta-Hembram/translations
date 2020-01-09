@@ -13,4 +13,4 @@ Nutzen Sie Mitgliederinformationen, um E-Mails zu personalisieren. Die folgenden
 
 ---
 
-![Mailchimp integration used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)
+![Mailchimp integration in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)
