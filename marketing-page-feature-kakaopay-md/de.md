@@ -7,4 +7,4 @@ Kunden, die KakaoPay-Kreditkartenzahlungen für die Buchung von Konferenzräumen
 
 ---
 
-![KakaoPay payment for meeting room reservation used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)
+![KakaoPay payment for meeting room reservation used in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

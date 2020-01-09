@@ -7,4 +7,4 @@
 
 ---
 
-![KakaoPay payment for meeting room reservation used in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![KakaoPay payment for meeting room reservation used in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)

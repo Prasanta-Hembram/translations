@@ -11,6 +11,6 @@
 
 ---
 
-![Member directory displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![Member directory displayed in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
-![Member profile displayed in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
+![Member profile displayed in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)

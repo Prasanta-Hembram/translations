@@ -14,6 +14,6 @@
 
 ---
 
-![Card payment for meeting room reservation in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Card payment for meeting room reservation in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Flow payments in the andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Flow payments in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
