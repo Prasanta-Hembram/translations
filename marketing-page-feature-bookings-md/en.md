@@ -23,4 +23,4 @@ Find available meeting room without even opening booking system. Look around the
 
 ![Stripe payments in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![A tablet with andcards meeting room display used in the coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)
+![A tablet with andcards meeting room display in the coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)
