@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-settings-integration-stripe-update-account-email": "Email",
+    "suite-modal-settings-integration-stripe-update-account-name": "Имя",
+    "suite-modal-settings-integration-stripe-update-description": "Участники смогут оплачивать выбранные сервисы с помощью Stripe.",
+    "suite-modal-settings-integration-stripe-update-room-booking": "Бронирования переговорной",
+    "suite-modal-settings-integration-stripe-update-section-payments": "Платежи",
+    "suite-modal-settings-integration-stripe-update-team-invoice": "Инвойс команды",
+    "suite-modal-settings-integration-stripe-update-title": "Учетная запись"
+  }
+}
