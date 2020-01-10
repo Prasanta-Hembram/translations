@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-modal-organization-directory-team-plan-edit-title": "플랜 편집",
-    "suite-modal-organization-directory-team-plan-edit-credits": "크레딧",
+    "suite-modal-organization-directory-team-plan-edit-credits": "크레딧, {pointEmoji}",
+    "suite-modal-organization-directory-team-plan-edit-credits-desc": "The change will apply on the next renewal date.",
+    "suite-modal-organization-directory-team-plan-edit-error-amount": "Type a valid credits.",
     "suite-modal-organization-directory-team-plan-edit-period-from-title": "시작",
     "suite-modal-organization-directory-team-plan-edit-period-title": "기간",
     "suite-modal-organization-directory-team-plan-edit-period-until-title": "종료시간",

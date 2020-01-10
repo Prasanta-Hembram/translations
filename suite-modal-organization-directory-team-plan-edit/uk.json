@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-modal-organization-directory-team-plan-edit-title": "Редагувати план",
-    "suite-modal-organization-directory-team-plan-edit-credits": "Кредити",
+    "suite-modal-organization-directory-team-plan-edit-credits": "Кредити, {pointEmoji}",
+    "suite-modal-organization-directory-team-plan-edit-credits-desc": "The change will apply on the next renewal date.",
+    "suite-modal-organization-directory-team-plan-edit-error-amount": "Type a valid credits.",
     "suite-modal-organization-directory-team-plan-edit-period-from-title": "Початок",
     "suite-modal-organization-directory-team-plan-edit-period-title": "Період",
     "suite-modal-organization-directory-team-plan-edit-period-until-title": "Кінець",
