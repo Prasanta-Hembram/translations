@@ -11,4 +11,4 @@ El Intercom agrega un botón de 'Helpdesk' a la página de mis espacios de traba
 
 ---
 
-![Intercom for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
+![Intercom para espacio de coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

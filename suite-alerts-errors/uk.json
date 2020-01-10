@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-auth-code-invalid": "Уведіть правильний код підтвердження з текстового повідомлення.",
     "suite-alerts-errors-benefit-already-applied": "Не можна подати заявку більше ніж одноразово.",
     "suite-alerts-errors-booking-booker-invalid": "Власник не має дозволу бронювати в цій кімнаті.",
     "suite-alerts-errors-booking-conflict": "Інша резервація вже існує у вибраний час.",
@@ -14,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "Вибраний період бронювання недійсний.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Неможливо стягнути більше ніж є в команди.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Неможливо стягнути більше ніж є в користувача.",
+    "suite-alerts-errors-email-not-valid": "Email не правильний.",
     "suite-alerts-errors-file-not-found": "Файл не завантажено.",
     "suite-alerts-errors-last-integration-delete": "Останній метод входу не може бути видалений.",
     "suite-alerts-errors-internal-error": "Щось пішло не так. Будь ласка спробуйте ще раз.",

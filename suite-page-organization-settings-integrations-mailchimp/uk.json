@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-mailchimp-account-audience": "Список розкилки (audience)",
+    "suite-page-organization-settings-integrations-mailchimp-account-audience-default": "Не вибрано",
+    "suite-page-organization-settings-integrations-mailchimp-account-login-email": "Email",
+    "suite-page-organization-settings-integrations-mailchimp-account-login-name": "Користувач",
+    "suite-page-organization-settings-integrations-mailchimp-account-name": "Назва облікового запису",
+    "suite-page-organization-settings-integrations-mailchimp-account-title": "Обліковий запис",
+    "suite-page-organization-settings-integrations-mailchimp-button-connect": "Під'єднати",
+    "suite-page-organization-settings-integrations-mailchimp-button-disconnect": "Від'єднати",
+    "suite-page-organization-settings-integrations-mailchimp-description": "Синхронізуйте інформацію про резидентів з Каталогу в список розсилки Mailchimp.",
+    "suite-page-organization-settings-integrations-mailchimp-marketing-link-description": "Дізнатись більше",
+    "suite-page-organization-settings-integrations-mailchimp-login-title": "Вхід у Mailchimp",
+    "suite-page-organization-settings-integrations-mailchimp-subtitle": "Mailchimp",
+    "suite-page-organization-settings-integrations-mailchimp-title": "Інтеграція"
+  }
+}

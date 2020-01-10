@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-auth-code-invalid": "Введите правильный код подтверждения из текстового сообщения.",
     "suite-alerts-errors-benefit-already-applied": "Нельзя податься больше одного раза.",
     "suite-alerts-errors-booking-booker-invalid": "Владелец не может бронировать в этой комнате.",
     "suite-alerts-errors-booking-conflict": "Другое бронирование уже существует в выбранное время.",
@@ -14,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "Период бронирования недействителен.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Невозможно списать больше, чем есть у команды.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Невозможно списать больше, чем есть у пользователя.",
+    "suite-alerts-errors-email-not-valid": "Email не правильный.",
     "suite-alerts-errors-file-not-found": "Файл не загружен.",
     "suite-alerts-errors-last-integration-delete": "Последний метод входа не может быть удален.",
     "suite-alerts-errors-internal-error": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",

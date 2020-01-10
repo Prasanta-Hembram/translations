@@ -6,3 +6,5 @@ Stream은 회원이 소통할 수 있는 코워킹스페이스 커뮤니티 피�
 - 새 게시물에 대한 푸시 알림을 받슴.
 
 Stream 연동은 새로운 "Stream" 버튼을 추가하며 다른 앱을 리디렉션하거나 설치할 필요 없이 인앱으로 작동합니다. 연동을 활성화하려면 API key와 secret을 준비하시기 바랍니다 : https://getstream.io/dashboard
+
+![코워킹 스페이스를 위한 Stream](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)

@@ -7,4 +7,4 @@ Customers who want to enable KakaoPay should contact pg@kakaocorp.com directly f
 
 ---
 
-![Kakaopay payments for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)
+![KakaoPay payments for coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

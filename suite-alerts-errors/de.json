@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-auth-code-invalid": "Geben Sie einen gültigen Code aus einer Textnachricht ein.",
     "suite-alerts-errors-benefit-already-applied": "Sie können sich nicht mehrfach bewerben.",
     "suite-alerts-errors-booking-booker-invalid": "Der Buchende hat keine Berechtigung, im Privatraum zu buchen.",
     "suite-alerts-errors-booking-conflict": "Eine weitere Buchung existiert bereits zur gleichen Zeit.",
@@ -14,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "Der Buchungszeitraum ist ungültig.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Sie können nicht mehr verlangen, als das Team zur Verfügung hat.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Sie können nicht mehr verlangen, als der Benutzer zur Verfügung hat.",
+    "suite-alerts-errors-email-not-valid": "Die E-Mail ist falsch.",
     "suite-alerts-errors-file-not-found": "Die Datei wurde nicht hochgeladen.",
     "suite-alerts-errors-last-integration-delete": "Die letzte Login-Methode kann nicht gelöscht werden.",
     "suite-alerts-errors-internal-error": "Etwas ist schief gelaufen. Versuchen Sie es erneut.",

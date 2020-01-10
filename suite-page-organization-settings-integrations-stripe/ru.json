@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Бронирования переговорной",
+    "suite-page-organization-settings-integrations-stripe-account-email": "Email",
+    "suite-page-organization-settings-integrations-stripe-account-name": "Имя",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Выключено",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "Включено",
+    "suite-page-organization-settings-integrations-stripe-account-team-invoice": "Инвойс команды",
+    "suite-page-organization-settings-integrations-stripe-account-title": "Учетная запись",
+    "suite-page-organization-settings-integrations-stripe-button-connect": "Присоединить",
+    "suite-page-organization-settings-integrations-stripe-button-disconnect": "Отсоединить",
+    "suite-page-organization-settings-integrations-stripe-description": "Включите Stripe, чтобы проводить платежы с банковских карт прямо в приложении.\n\nОплата Stripe работает в приложении без перенаправления или запроса на установку дополнительных приложений.",
+    "suite-page-organization-settings-integrations-stripe-marketing-link-description": "Подробнее",
+    "suite-page-organization-settings-integrations-stripe-title": "Интеграция"
+  }
+}

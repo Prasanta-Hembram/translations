@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Reservas de salas",
+    "suite-page-organization-settings-integrations-stripe-account-email": "Email",
+    "suite-page-organization-settings-integrations-stripe-account-name": "Nombre",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Desactivado",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "Activado",
+    "suite-page-organization-settings-integrations-stripe-account-team-invoice": "Factura de equipo",
+    "suite-page-organization-settings-integrations-stripe-account-title": "Cuenta",
+    "suite-page-organization-settings-integrations-stripe-button-connect": "Conectar",
+    "suite-page-organization-settings-integrations-stripe-button-disconnect": "Desconectar",
+    "suite-page-organization-settings-integrations-stripe-description": "Permita que Stripe integre instantáneamente tarjetas de débito o crédito dentro de la aplicación.\n\nLos pagos con franjas funcionan inapp sin necesidad de redirigir o instalar otra aplicación.",
+    "suite-page-organization-settings-integrations-stripe-marketing-link-description": "Más información",
+    "suite-page-organization-settings-integrations-stripe-title": "Integración"
+  }
+}

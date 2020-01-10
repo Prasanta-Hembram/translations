@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-alerts-errors-auth-code-invalid": "문자로 받으신 인증번호를 입력해주세요.",
     "suite-alerts-errors-benefit-already-applied": "한 번 이상 신청할 수 없습니다.",
     "suite-alerts-errors-booking-booker-invalid": "개인 회의실을 예약할 수 있는 권한이 없습니다.",
     "suite-alerts-errors-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다.",
@@ -14,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "예약 기간이 유효하지 않습니다.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "회수할 금액이 팀 크레딧 잔액을 초과합니다.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "회수할 금액이 개인 크레딧 잔액을 초과합니다.",
+    "suite-alerts-errors-email-not-valid": "이메일이 올바르지 않습니다.",
     "suite-alerts-errors-file-not-found": "파일 업로드 오류.",
     "suite-alerts-errors-last-integration-delete": "마지막 로그인 방법을 삭제할 수 없습니다.",
     "suite-alerts-errors-internal-error": "오류가 발생했습니다. 다시 시도하세요.",
