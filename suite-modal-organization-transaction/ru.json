@@ -5,16 +5,11 @@
     "suite-modal-organization-transaction-booking-details-property-name": "Комната",
     "suite-modal-organization-transaction-booking-details-title": "Детали бронирования",
     "suite-modal-organization-transaction-date-label": "Дата",
-    "suite-modal-organization-transaction-date-from-label": "Начало",
-    "suite-modal-organization-transaction-date-until-label": "Конец",
     "suite-modal-organization-transaction-not-found": "Эта транзакция не существует или была удалена.",
     "suite-modal-organization-transaction-paid-with-label": "Оплачено",
     "suite-modal-organization-transaction-paid-with-card": "Карточкой",
     "suite-modal-organization-transaction-paid-with-cash": "Внешний платеж",
-    "suite-modal-organization-transaction-paid-with-for-free": "Бесплатно",
     "suite-modal-organization-transaction-paid-with-invoice": "Инвойс",
-    "suite-modal-organization-transaction-period-label": "Период",
-    "suite-modal-organization-transaction-plan-details-title": "Детали плана",
     "suite-modal-organization-transaction-title": "Детали транзакции"
   }
 }
