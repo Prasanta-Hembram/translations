@@ -8,6 +8,6 @@ Sindoh — це виробник хмарних рішень для автома
 
 ---
 
-![Sindoh integration in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
+![Інтеграція Sindoh у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Sindoh printer usage information in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)
+![Інформація про використання принтера Sindoh у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

@@ -6,4 +6,4 @@
 
 ---
 
-![Coworking space revenue statistics in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)
+![Статистика доходов коворкинга в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

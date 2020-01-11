@@ -13,4 +13,4 @@
 
 ---
 
-![Mailchimp integration in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)
+![Інтеграція Mailchimp у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)

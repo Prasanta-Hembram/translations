@@ -7,4 +7,4 @@
 
 ---
 
-![KakaoPay payment for meeting room reservation in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 회의실 예약 카카오페이 결제](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)

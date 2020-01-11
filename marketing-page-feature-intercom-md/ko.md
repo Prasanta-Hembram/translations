@@ -11,4 +11,4 @@ Intercom은 “헬프데스크” 버튼을 추가합니다. 회원들은 도움
 
 ---
 
-![Intercom integration in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 인터컴 통합](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
