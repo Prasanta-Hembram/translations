@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Резервація кімнат",
+    "suite-page-organization-settings-integrations-stripe-account-email": "Email",
+    "suite-page-organization-settings-integrations-stripe-account-name": "Ім'я",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Вимкнено",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "Увімкнено",
+    "suite-page-organization-settings-integrations-stripe-account-team-invoice": "Інвойс команди",
+    "suite-page-organization-settings-integrations-stripe-account-title": "Обліковий запис",
+    "suite-page-organization-settings-integrations-stripe-button-connect": "Під'єднати",
+    "suite-page-organization-settings-integrations-stripe-button-disconnect": "Від'єднати",
+    "suite-page-organization-settings-integrations-stripe-description": "Включіть Stripe щоб зразу приймати оплату банківськими картками в застосунку.\n\nОплата Stripe проходить в застосунку без перенаправлення чи завантаження інших додатків.",
+    "suite-page-organization-settings-integrations-stripe-marketing-link-description": "Дізнатись більше",
+    "suite-page-organization-settings-integrations-stripe-title": "Інтеграція"
+  }
+}

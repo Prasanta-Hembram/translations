@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Raumbuchung",
+    "suite-page-organization-settings-integrations-stripe-account-email": "Email",
+    "suite-page-organization-settings-integrations-stripe-account-name": "Benutzername",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Aus",
+    "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "An",
+    "suite-page-organization-settings-integrations-stripe-account-team-invoice": "Teamrechnung",
+    "suite-page-organization-settings-integrations-stripe-account-title": "Benutzerkonto",
+    "suite-page-organization-settings-integrations-stripe-button-connect": "Verbinden",
+    "suite-page-organization-settings-integrations-stripe-button-disconnect": "Abmelden",
+    "suite-page-organization-settings-integrations-stripe-description": "Aktivieren Sie Stripe, um sofort Debit- oder Kreditkarten direkt in der App zu nutzen.\n\nStripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren.",
+    "suite-page-organization-settings-integrations-stripe-marketing-link-description": "Weitere Infos",
+    "suite-page-organization-settings-integrations-stripe-title": "Integration"
+  }
+}

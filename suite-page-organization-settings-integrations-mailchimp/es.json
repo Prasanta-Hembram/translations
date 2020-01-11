@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-mailchimp-account-audience": "Destinatarios",
+    "suite-page-organization-settings-integrations-mailchimp-account-audience-default": "No Seleccionado",
+    "suite-page-organization-settings-integrations-mailchimp-account-login-email": "Email",
+    "suite-page-organization-settings-integrations-mailchimp-account-login-name": "Nombre de usuario",
+    "suite-page-organization-settings-integrations-mailchimp-account-name": "Nombre de cuenta",
+    "suite-page-organization-settings-integrations-mailchimp-account-title": "Cuenta",
+    "suite-page-organization-settings-integrations-mailchimp-button-connect": "Conectar",
+    "suite-page-organization-settings-integrations-mailchimp-button-disconnect": "Desconectar",
+    "suite-page-organization-settings-integrations-mailchimp-description": "Sincronizar la información de los miembros del Directorio con  Mailchimp.",
+    "suite-page-organization-settings-integrations-mailchimp-marketing-link-description": "Más información",
+    "suite-page-organization-settings-integrations-mailchimp-login-title": "Ingresar a Mailchimp",
+    "suite-page-organization-settings-integrations-mailchimp-subtitle": "Mailchimp",
+    "suite-page-organization-settings-integrations-mailchimp-title": "Integración"
+  }
+}

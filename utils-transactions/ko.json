@@ -7,8 +7,6 @@
     "suite-utils-transactions-money-transaction-book-by-cash-with-name": "{propertyName} 예약 ∙ 외부 지불 ∙ {name}",
     "suite-utils-transactions-money-transaction-book-by-cash-with-room-name": "{propertyName} 예약 ∙ 외부 지불",
     "suite-utils-transactions-money-transaction-book-refund-cash": "회의실 예약 취소 ∙ 외부 지불",
-    "suite-utils-transactions-money-transaction-membership-by-cash": "멤버십 플랜 구매 ∙ 외부 지불",
-    "suite-utils-transactions-money-transaction-membership-by-cash-with-admin-name": "멤버십 플랜 구매 ∙ 외부 지불 ∙ {name}",
     "suite-utils-transactions-money-transaction-payment-invoice-bank-transfer": "{transactionDate} 인보이스 ∙ 계좌이체",
     "suite-utils-transactions-money-transaction-payment-invoice-card": "{transactionDate} 인보이스 ∙ 카드",
     "suite-utils-transactions-money-transaction-payment-invoice-default": "{transactionDate} 인보이스",

@@ -15,6 +15,7 @@
     "suite-alerts-errors-booking-unallowed-time-period": "The booking period is invalid.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "You can't charge more that the team has.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "You can't charge more that the user has.",
+    "suite-alerts-errors-email-not-valid": "The email is incorrect.",
     "suite-alerts-errors-file-not-found": "The file was not uploaded.",
     "suite-alerts-errors-last-integration-delete": "Last login method can't be deleted.",
     "suite-alerts-errors-internal-error": "Something went wrong. Try again.",
