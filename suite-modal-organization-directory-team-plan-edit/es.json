@@ -3,7 +3,7 @@
     "suite-modal-organization-directory-team-plan-edit-title": "Edit Plan",
     "suite-modal-organization-directory-team-plan-edit-credits": "Créditos, {pointEmoji}",
     "suite-modal-organization-directory-team-plan-edit-credits-desc": "The change will apply on the next renewal date.",
-    "suite-modal-organization-directory-team-plan-edit-error-amount": "Type a valid credits.",
+    "suite-modal-organization-directory-team-plan-edit-error-amount": "Type a valid credit amount.",
     "suite-modal-organization-directory-team-plan-edit-period-from-title": "Inicio",
     "suite-modal-organization-directory-team-plan-edit-period-title": "Periodo",
     "suite-modal-organization-directory-team-plan-edit-period-until-title": "Final",
