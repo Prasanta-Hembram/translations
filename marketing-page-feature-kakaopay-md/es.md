@@ -7,4 +7,4 @@ Los clientes que deseen permitir el pago con tarjeta de KakaoPay para reservar u
 
 ---
 
-![KakaoPay payment for meeting room reservation in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)
+![Pago de KakaoPay para la reserva de salas de reuniones en el software de espacio de coworking andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

@@ -6,4 +6,4 @@ Comprende tus membresías en el espacio de coworking y los datos de ingresos. Co
 
 ---
 
-![Coworking space revenue statistics in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)
+![Estadísticas de ingresos por espacio de coworking en el software de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

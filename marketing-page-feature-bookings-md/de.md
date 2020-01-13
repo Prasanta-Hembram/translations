@@ -15,12 +15,12 @@ Finden Sie freie Konferenzräume, ohne das Buchungssystem zu öffnen. Schauen Si
 
 ---
 
-![Meeting rooms reservation system in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
+![Meetingräume Reservierungssystem in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
-![Meeting room reservation calendar in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
+![Sitzungsraumreservierungskalender in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Card payment for meeting room reservation in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Kartenzahlung für Meetingraumreservierung in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Stripe payments in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Stripe Zahlungen in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![A tablet with andcards meeting room display in the coworking space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)
+![Ein Tablet mit andcards Besprechungsraum-Display im Coworking Space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

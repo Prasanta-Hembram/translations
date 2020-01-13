@@ -8,6 +8,6 @@ Descargar la presentación de la solución de gestión de impresión de oficina 
 
 ---
 
-![Sindoh integration in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
+![Integración de Sindoh en el software de espacio de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![Sindoh printer usage information in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)
+![Información sobre el uso de la impresora Sindoh en el software de espacio de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)
