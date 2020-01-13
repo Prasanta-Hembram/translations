@@ -3,7 +3,7 @@
     "suite-modal-organization-directory-user-plan-edit-title": "Editar Plan",
     "suite-modal-organization-directory-user-plan-edit-credits": "Créditos, {pointEmoji}",
     "suite-modal-organization-directory-user-plan-edit-credits-desc": "The change will apply on the next renewal date.",
-    "suite-modal-organization-directory-user-plan-edit-error-amount": "Type a valid credit amount.",
+    "suite-modal-organization-directory-user-plan-edit-error-amount": "Escriba un monto de crédito válido.",
     "suite-modal-organization-directory-user-plan-edit-period-from-title": "Inicio",
     "suite-modal-organization-directory-user-plan-edit-period-title": "Periodo",
     "suite-modal-organization-directory-user-plan-edit-period-until-title": "Final",
