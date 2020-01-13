@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-plans-details-description-credit-changed-desc": "{dateRenewal} станет {credits}.",
+    "utils-plans-details-description-credit-changed-desc": "Количество кредитов станет {credits} {dateRenewal}.",
     "utils-plans-details-description-repeat-forever": "{credits} начислено {dateStart}, повторяется каждый {period}.",
     "utils-plans-details-description-repeat-never": "{credits} начислено {dateStart} до {dateEnd}.",
     "utils-plans-details-description-repeat-times": "{credits} начислено {dateStart}, повторяется {repeat} раз(а) до {dateEnd}.",
