@@ -3,6 +3,7 @@
     "suite-page-organization-directory-team-credits-title": "Credits",
     "suite-page-organization-directory-team-credits-button-charge-title": "Belasten",
     "suite-page-organization-directory-team-credits-button-give-title": "Geben",
+    "suite-page-organization-directory-team-credits-error-credits-invalid": "Geben Sie einen gültigen Guthabenbetrag ein.",
     "suite-page-organization-directory-team-credits-error-credit-system-off": "Das Credit-System des Workspace ist deaktiviert.",
     "suite-page-organization-directory-team-credits-error-team-not-found": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} verfallen am {date}.",

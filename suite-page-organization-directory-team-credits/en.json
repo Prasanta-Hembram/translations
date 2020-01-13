@@ -3,6 +3,7 @@
     "suite-page-organization-directory-team-credits-title": "Credits",
     "suite-page-organization-directory-team-credits-button-charge-title": "Charge",
     "suite-page-organization-directory-team-credits-button-give-title": "Give",
+    "suite-page-organization-directory-team-credits-error-credits-invalid": "Type a valid credit amount.",
     "suite-page-organization-directory-team-credits-error-credit-system-off": "The workspace`s credit system is disabled.",
     "suite-page-organization-directory-team-credits-error-team-not-found": "This team may not exists or may have been removed.",
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} expire on {date}.",
