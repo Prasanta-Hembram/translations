@@ -7,4 +7,4 @@
 
 ---
 
-![KakaoPay для коворкінг центру](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)
+![Оплата KakaoPay за бронювання конференц-зали у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-kakaopay-light-en-1920-1200.png)

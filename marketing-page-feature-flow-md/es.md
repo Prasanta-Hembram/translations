@@ -14,6 +14,6 @@ Los pagos con Flow funcionan inapp sin necesidad de redirigir o instalar otra ap
 
 ---
 
-![Pagos en línea para el espacio de coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Pago con tarjeta para la reserva de salas de reuniones en el software de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Pago de la sala de reuniones con tarjeta de crédito](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)
+![Pagos Flow en el software de espacio de coworking andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)

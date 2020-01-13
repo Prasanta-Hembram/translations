@@ -14,6 +14,6 @@
 
 ---
 
-![Платежи Flow онлайн для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Оплата карточкой за бронирование конференц-залов в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Платежная система для бронирования переговорных](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-flow-en-1920-1200.png)
+![Оплата Flow в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)

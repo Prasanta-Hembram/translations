@@ -6,4 +6,4 @@
 
 ---
 
-![코워킹 스페이스 통계](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 수익 통계](https://d7ccq1i35b0cj.cloudfront.net/andcards-statistics-main-light-en-1920-1200.png)

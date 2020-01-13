@@ -15,12 +15,12 @@
 
 ---
 
-![Система бронирования переговорных в коворкинге](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
+![Система бронирования конференц-залов в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
-![Календарь бронирования переговорных](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
+![Календарь бронирования переговорных программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Кредитная система для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Оплата карточкой за бронирование конференц-залов в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Оплата бронирования кредиткой в коворкинге](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Оплата Stripe в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Дисплей в переговорной для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)
+![Режим andcards для дисплеев в переговорных для коворкинг-пространств](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

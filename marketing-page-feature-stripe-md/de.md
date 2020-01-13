@@ -7,6 +7,6 @@ Stripe Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzu
 
 ---
 
-![Stripe-Zahlungen für Coworking Space](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Kartenzahlung für Meetingraumreservierung in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Bezahlen Sie den Besprechungsraum mit Kreditkarte.](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Stripe Zahlungen in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)

@@ -11,4 +11,4 @@ Intercom fügt der Seite Meine Workspaces eine Schaltfläche 'Helpdesk' hinzu. M
 
 ---
 
-![Intercom für Coworking Space](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
+![Intercom Integration in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

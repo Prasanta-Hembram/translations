@@ -13,4 +13,4 @@
 
 ---
 
-![코워킹 스페이스를 위한 Mailchimp](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 메일침프 통합](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-mailchimp-light-en-1920-1200.png)

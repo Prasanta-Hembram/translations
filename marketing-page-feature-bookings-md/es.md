@@ -15,12 +15,12 @@ Encuentra la sala de reuniones disponible sin necesidad de abrir el sistema de r
 
 ---
 
-![Sistema de reservas Coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
+![Sistema de reserva de salas de reuniones en el software de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-main-light-en-1920-1200.png)
 
-![Calendario de Reservas de Coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
+![Calendario de reserva de salas de reuniones en el software de espacio de coworking andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-calendar-light-en-1920-1200.png)
 
-![Sistema de reservas de Coworking Métodos de pago](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
+![Pago con tarjeta para la reserva de salas de reuniones en el software de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
 
-![Sistema de reservas Coworking Pago con tarjeta de crédito](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
+![Pagos Stripe en el software de espacio de coworking andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
 
-![Sistema de exposición para salas de reuniones](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)
+![Una tableta con andcards visualización de la sala de reuniones en el espacio de coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-room-display-en-1920-1200.png)

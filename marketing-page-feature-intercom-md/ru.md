@@ -11,4 +11,4 @@ Intercom добавит кнопку “Помощь” на страницу М
 
 ---
 
-![Intercom для коворкинга](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)
+![Интеграция Intercom в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-intercom-light-en-1920-1200.png)

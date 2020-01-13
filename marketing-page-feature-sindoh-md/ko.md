@@ -8,6 +8,6 @@
 
 ---
 
-![코워킹 스페이스를 위한 신도리코 프린터](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 신도리코 통합](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-button-light-en-1920-1200.png)
 
-![코워킹 스페이스를 위한 인쇄 관리](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 신도리코 프린터 사용 정보](https://d7ccq1i35b0cj.cloudfront.net/andcards-integrations-sindoh-pages-light-en-1920-1200.png)

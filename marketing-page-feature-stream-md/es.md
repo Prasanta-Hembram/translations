@@ -7,4 +7,4 @@ Stream permite un espacio de coworking de alimentación comunitaria donde los mi
 
 La integración de Stream añade un nuevo botón "Stream" y funciona in-app sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano su clave de API y su secreto: https://getstream.io/dashboard
 
-![Stream para espacio de coworking](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)
+![Integración de Stream en el software de espacio de coworking de andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-stream-main-light-en-1920-1200.png)

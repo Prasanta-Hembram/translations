@@ -8,8 +8,8 @@
 
 ---
 
-![Каталог сервісів коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
+![Категорії сервісів у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
 
-![Список сервісів для коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
+![Сервіси у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
 
-![Заявка на сервіси в коворкінгу](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)
+![Форма заявки на сервіс у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)
