@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-modal-organization-directory-user-plan-edit-title": "Edit Plan",
-    "suite-modal-organization-directory-user-plan-edit-credits": "Credits",
+    "suite-modal-organization-directory-user-plan-edit-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-edit-credits-desc": "The change will apply on the next renewal date.",
+    "suite-modal-organization-directory-user-plan-edit-error-amount": "Type a valid credit amount.",
     "suite-modal-organization-directory-user-plan-edit-period-from-title": "Start",
     "suite-modal-organization-directory-user-plan-edit-period-title": "Period",
     "suite-modal-organization-directory-user-plan-edit-period-until-title": "End",

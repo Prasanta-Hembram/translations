@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-modal-organization-directory-user-plan-edit-title": "Abo bearbeiten",
-    "suite-modal-organization-directory-user-plan-edit-credits": "Credits",
+    "suite-modal-organization-directory-user-plan-edit-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-directory-user-plan-edit-credits-desc": "Die Änderung gilt ab dem nächsten Verlängerungsdatum.",
+    "suite-modal-organization-directory-user-plan-edit-error-amount": "Geben Sie einen gültigen Guthabenbetrag ein.",
     "suite-modal-organization-directory-user-plan-edit-period-from-title": "Start",
     "suite-modal-organization-directory-user-plan-edit-period-title": "Zeitraum",
     "suite-modal-organization-directory-user-plan-edit-period-until-title": "Ende",

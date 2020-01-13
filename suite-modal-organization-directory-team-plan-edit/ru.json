@@ -1,7 +1,9 @@
 {
   "data": {
     "suite-modal-organization-directory-team-plan-edit-title": "Редактировать план",
-    "suite-modal-organization-directory-team-plan-edit-credits": "Кредиты",
+    "suite-modal-organization-directory-team-plan-edit-credits": "Кредиты, {pointEmoji}",
+    "suite-modal-organization-directory-team-plan-edit-credits-desc": "Изменения вступят в силу со следующего обновления плана.",
+    "suite-modal-organization-directory-team-plan-edit-error-amount": "Введите количество кредитов.",
     "suite-modal-organization-directory-team-plan-edit-period-from-title": "Начало",
     "suite-modal-organization-directory-team-plan-edit-period-title": "Период",
     "suite-modal-organization-directory-team-plan-edit-period-until-title": "Конец",
