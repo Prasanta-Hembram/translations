@@ -3,6 +3,7 @@
     "suite-page-organization-directory-team-credits-title": "Créditos",
     "suite-page-organization-directory-team-credits-button-charge-title": "Cobrar",
     "suite-page-organization-directory-team-credits-button-give-title": "Dar",
+    "suite-page-organization-directory-team-credits-error-credits-invalid": "Escriba un monto de crédito válido.",
     "suite-page-organization-directory-team-credits-error-credit-system-off": "El sistema de crédito del área de trabajo está deshabilitado.",
     "suite-page-organization-directory-team-credits-error-team-not-found": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-directory-team-credits-expire": "{pointsExpiring} expira el {date}.",
