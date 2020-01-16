@@ -13,7 +13,9 @@
     "marketing-footer-nav-privacy": "Конфиденциальность",
     "marketing-footer-nav-product": "Продукт",
     "marketing-footer-nav-resources": "Ресурсы",
+    "marketing-footer-nav-review": "Review",
     "marketing-footer-nav-status": "Статус",
-    "marketing-footer-nav-terms": "Условия использования"
+    "marketing-footer-nav-terms": "Условия использования",
+    "marketing-footer-nav-trustpilot-description": "andcards rating {rating} on Trustpilot"
   }
 }
