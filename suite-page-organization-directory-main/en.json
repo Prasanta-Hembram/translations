@@ -4,6 +4,7 @@
     "suite-page-organization-directory-main-balance-credit": "Credit Balance",
     "suite-page-organization-directory-main-balance-unpaid-invoices": "Unpaid Invoices",
     "suite-page-organization-directory-main-end": "Ends",
+    "suite-page-organization-directory-main-error-team-name": "Failed to create a team. The name can't be empty.",
     "suite-page-organization-directory-main-member-create": "Create",
     "suite-page-organization-directory-main-member-new": "New",
     "suite-page-organization-directory-main-members-empty": "There are no members.",
