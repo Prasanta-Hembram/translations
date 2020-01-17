@@ -13,7 +13,9 @@
     "marketing-footer-nav-privacy": "개인정보 보호정책",
     "marketing-footer-nav-product": "제품",
     "marketing-footer-nav-resources": "자료",
+    "marketing-footer-nav-review": "리뷰",
     "marketing-footer-nav-status": "서비스 상태",
-    "marketing-footer-nav-terms": "이용약관"
+    "marketing-footer-nav-terms": "이용약관",
+    "marketing-footer-nav-trustpilot-description": "Trustpilot에서 andcards의 의 고객 만족도 등급 : {rating}"
   }
 }
