@@ -4,7 +4,7 @@
     "suite-page-organization-directory-main-balance-credit": "크레딧 잔액",
     "suite-page-organization-directory-main-balance-unpaid-invoices": "미지급 인보이스",
     "suite-page-organization-directory-main-end": "종료",
-    "suite-page-organization-directory-main-error-team-name": "Failed to create team. Name cannot be empty.",
+    "suite-page-organization-directory-main-error-team-name": "팀을 만들지 못했습니다. 팀 명은 비워 둘 수 없습니다.",
     "suite-page-organization-directory-main-member-create": "회원 추가하기",
     "suite-page-organization-directory-main-member-new": "New",
     "suite-page-organization-directory-main-members-empty": "회원이 없습니다.",
