@@ -4,7 +4,7 @@
     "suite-page-organization-directory-main-balance-credit": "Баланс кредитов",
     "suite-page-organization-directory-main-balance-unpaid-invoices": "Неоплаченные инвойсы",
     "suite-page-organization-directory-main-end": "Окончание",
-    "suite-page-organization-directory-main-error-team-name": "Failed to create team. Name cannot be empty.",
+    "suite-page-organization-directory-main-error-team-name": "Не удалось создать команду. Укажите название.",
     "suite-page-organization-directory-main-member-create": "Создать",
     "suite-page-organization-directory-main-member-new": "New",
     "suite-page-organization-directory-main-members-empty": "Участники отсутствуют.",
