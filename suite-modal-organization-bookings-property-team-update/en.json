@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-modal-organization-bookings-property-team-update-title": "Select Teams",
-    "suite-modal-organization-bookings-property-team-update-no-teams": "No one to add.",
+    "suite-modal-organization-bookings-property-team-update-no-teams": "Nothing to add.",
     "suite-modal-organization-bookings-property-team-update-nothing-found": "Nothing found.",
     "suite-modal-organization-bookings-property-team-update-search": "Search {numberOfTeams} teams"
   }
