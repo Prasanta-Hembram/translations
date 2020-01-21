@@ -18,7 +18,7 @@
     "bulk-invite-success-email-title": "환영합니다",
     "email-confirmation-display-mode-exit-subject": "회의실 디스플레이 닫기",
     "email-confirmation-subject": "{title}에 로그인하세요",
-    "email-confirmation-text": "인증번호를 5분 미만의 이용하세요.",
+    "email-confirmation-text": "인증번호를 5분 이내로 입력하세요.",
     "email-confirmation-title": "인증번호",
     "invoice-finalize-notification-body": "{teamTitle}의 {invoiceMonth} 청구 내역은 준비하였습니다! 상세 내용을 확인하시고 결제해주세요.",
     "invoice-finalize-notification-title": "{organizationTitle} 결제 요청",
