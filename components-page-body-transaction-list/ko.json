@@ -3,6 +3,6 @@
     "components-page-body-transaction-list-failure": "결제 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "components-page-body-transaction-list-list-empty": "결제 내역이 없습니다",
     "components-page-body-transaction-list-tab-credits": "크레딧, {pointEmoji}",
-    "components-page-body-transaction-list-tab-money": "Money, {currencyCode}"
+    "components-page-body-transaction-list-tab-money": "화폐, {currencyCode}"
   }
 }
