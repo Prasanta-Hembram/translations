@@ -3,6 +3,6 @@
     "components-page-body-transaction-list-failure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
     "components-page-body-transaction-list-list-empty": "Немає жодних транзакцій.",
     "components-page-body-transaction-list-tab-credits": "Кредити, {pointEmoji}",
-    "components-page-body-transaction-list-tab-money": "Money, {currencyCode}"
+    "components-page-body-transaction-list-tab-money": "Гроші, {currencyCode}"
   }
 }
