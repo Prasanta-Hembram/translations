@@ -1,7 +1,5 @@
 {
   "data": {
-    "suite-page-organization-membership-user-balance-history-title": "Balance History",
-    "suite-page-organization-membership-user-balance-history-fetch-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
-    "suite-page-organization-membership-user-balance-history-list-empty": "There are no transactions."
+    "suite-page-organization-membership-user-balance-history-title": "Balance History"
   }
 }

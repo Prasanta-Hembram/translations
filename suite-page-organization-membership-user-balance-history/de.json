@@ -1,7 +1,5 @@
 {
   "data": {
-    "suite-page-organization-membership-user-balance-history-title": "Saldenhistorie",
-    "suite-page-organization-membership-user-balance-history-fetch-failure": "Die Saldenhistorie konnte nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
-    "suite-page-organization-membership-user-balance-history-list-empty": "Es existieren keine Transaktionen."
+    "suite-page-organization-membership-user-balance-history-title": "Saldenhistorie"
   }
 }

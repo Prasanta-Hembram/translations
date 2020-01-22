@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-balance-history-title": "Balance History",
-    "suite-page-organization-membership-team-balance-history-error-no-team": "This team may not exist or may have been removed.",
-    "suite-page-organization-membership-team-balance-history-fetch-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
-    "suite-page-organization-membership-team-balance-history-list-empty": "There are no transactions."
+    "suite-page-organization-membership-team-balance-history-error-no-team": "This team may not exist or may have been removed."
   }
 }

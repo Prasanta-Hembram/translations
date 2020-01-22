@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-balance-history-title": "Historial de balance",
-    "suite-page-organization-membership-team-balance-history-error-no-team": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-membership-team-balance-history-fetch-failure": "No se pudo mostrar el historial de balance. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-organization-membership-team-balance-history-list-empty": "No hay transacciones."
+    "suite-page-organization-membership-team-balance-history-error-no-team": "Este grupo puede no existir o puede haber sido eliminado."
   }
 }

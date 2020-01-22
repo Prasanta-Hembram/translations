@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-balance-history-title": "Saldenhistorie",
-    "suite-page-organization-membership-team-balance-history-error-no-team": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-membership-team-balance-history-fetch-failure": "Die Saldenhistorie konnte nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
-    "suite-page-organization-membership-team-balance-history-list-empty": "Es gibt keine Transaktionen."
+    "suite-page-organization-membership-team-balance-history-error-no-team": "Dieses Team existiert möglicherweise nicht oder wurde entfernt."
   }
 }
