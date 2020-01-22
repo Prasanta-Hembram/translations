@@ -2,7 +2,7 @@
   "data": {
     "components-page-body-transaction-list-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
     "components-page-body-transaction-list-list-empty": "There are no transactions.",
-    "components-page-body-transaction-list-tab-credits": "Crédito, {pointEmoji}",
-    "components-page-body-transaction-list-tab-money": "Moneda, {currencyCode}"
+    "components-page-body-transaction-list-tab-credits": "Credits, {pointEmoji}",
+    "components-page-body-transaction-list-tab-money": "Money, {currencyCode}"
   }
 }
