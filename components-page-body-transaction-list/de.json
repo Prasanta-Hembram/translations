@@ -3,6 +3,6 @@
     "components-page-body-transaction-list-empty": "Es gibt keine Transaktionen.",
     "components-page-body-transaction-list-failure": "Die Saldenhistorie konnte nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
     "components-page-body-transaction-list-tab-credits": "Credits, {pointEmoji}",
-    "components-page-body-transaction-list-tab-money": "Money, {currencyCode}"
+    "components-page-body-transaction-list-tab-money": "Geld, {currencyCode}"
   }
 }
