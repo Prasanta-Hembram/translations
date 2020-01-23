@@ -1,0 +1,8 @@
+{
+  "data": {
+    "components-page-body-transactionfailure": "No se pudo mostrar el historial de balance. ¿Estás seguro de que hay una conexión a Internet?",
+    "components-page-body-transactionlist-empty": "No hay transacciones.",
+    "components-page-body-transactiontab-credits": "Crédito, {pointEmoji}",
+    "components-page-body-transactiontab-money": "Moneda, {currencyCode}"
+  }
+}

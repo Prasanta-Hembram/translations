@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-team-balance-history-title": "Історія транзакцій",
-    "suite-page-organization-membership-team-balance-history-error-no-team": "Ця команда не існує або ж була видалена.",
-    "suite-page-organization-membership-team-balance-history-fetch-failure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
-    "suite-page-organization-membership-team-balance-history-list-empty": "Немає жодних транзакцій."
+    "suite-page-organization-membership-team-balance-history-error-no-team": "Ця команда не існує або ж була видалена."
   }
 }

@@ -1,7 +1,5 @@
 {
   "data": {
-    "suite-page-organization-directory-user-balance-history-title": "Historial de balance",
-    "suite-page-organization-directory-user-balance-history-fetch-failure": "No se pudo mostrar el historial de balance. ¿Estás seguro de que hay una conexión a Internet?",
-    "suite-page-organization-directory-user-balance-history-list-empty": "No hay transacciones."
+    "suite-page-organization-directory-user-balance-history-title": "Historial de balance"
   }
 }
