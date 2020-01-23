@@ -1,8 +1,8 @@
 {
   "data": {
-    "components-page-body-transactionfailure": "Couldn't show balance history. Are you sure there is an internet connection?",
-    "components-page-body-transactionlist-empty": "There are no transactions.",
-    "components-page-body-transactiontab-credits": "Credits, {pointEmoji}",
-    "components-page-body-transactiontab-money": "Money, {currencyCode}"
+    "components-page-body-transaction-failure": "Couldn't show balance history. Are you sure there is an internet connection?",
+    "components-page-body-transaction-list-empty": "There are no transactions.",
+    "components-page-body-transaction-tab-credits": "Credits, {pointEmoji}",
+    "components-page-body-transaction-tab-money": "Money, {currencyCode}"
   }
 }
