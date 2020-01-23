@@ -1,0 +1,8 @@
+{
+  "data": {
+    "components-page-body-transactionfailure": "Неможливо відобразити історію транзакцій. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "components-page-body-transactionlist-empty": "Немає жодних транзакцій.",
+    "components-page-body-transactiontab-credits": "Кредити, {pointEmoji}",
+    "components-page-body-transactiontab-money": "Гроші, {currencyCode}"
+  }
+}
