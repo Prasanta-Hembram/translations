@@ -1,8 +1,8 @@
 {
   "data": {
-    "components-page-body-transactionempty": "Es gibt keine Transaktionen.",
-    "components-page-body-transactionfailure": "Die Saldenhistorie konnte nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
-    "components-page-body-transactiontab-credits": "Credits, {pointEmoji}",
-    "components-page-body-transactiontab-money": "Geld, {currencyCode}"
+    "components-page-body-transaction-empty": "Es gibt keine Transaktionen.",
+    "components-page-body-transaction-failure": "Die Saldenhistorie konnte nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "components-page-body-transaction-tab-credits": "Credits, {pointEmoji}",
+    "components-page-body-transaction-tab-money": "Geld, {currencyCode}"
   }
 }
