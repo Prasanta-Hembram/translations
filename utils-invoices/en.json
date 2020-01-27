@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-utils-invoice-book-by-invoice-permission-all-members": "All team members",
+    "suite-utils-invoice-book-by-invoice-permission-all-members": "All Team Members",
     "suite-utils-invoice-book-by-invoice-permission-info-all-members": "All team members can book rooms by team invoice.",
     "suite-utils-invoice-book-by-invoice-permission-info-team-managers": "Only team managers can book rooms by team invoice.",
-    "suite-utils-invoice-book-by-invoice-permission-team-managers": "Only team managers",
+    "suite-utils-invoice-book-by-invoice-permission-team-managers": "Only Team Managers",
     "suite-utils-invoice-item-type-booking-payment-type": "Booked room",
     "suite-utils-invoice-item-type-booking-payment-type-with-name": "Booked room by {name}",
     "suite-utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Booked room {roomName} by {name}",
