@@ -3,6 +3,7 @@
     "suite-alerts-errors-auth-code-invalid": "Введите правильный код подтверждения из текстового сообщения.",
     "suite-alerts-errors-benefit-already-applied": "Нельзя податься больше одного раза.",
     "suite-alerts-errors-booking-booker-invalid": "Владелец не может бронировать в этой комнате.",
+    "suite-alerts-errors-booking-already-started": "Бронирование уже началось.",
     "suite-alerts-errors-booking-conflict": "Другое бронирование уже существует в выбранное время.",
     "suite-alerts-errors-booking-day-unavailable": "Этот день не доступен.",
     "suite-alerts-errors-booking-invalid": "Не удалось забронировать. Проверьте все поля и попробуйте еще раз.",

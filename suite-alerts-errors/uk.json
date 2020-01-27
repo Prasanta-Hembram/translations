@@ -2,6 +2,7 @@
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Уведіть правильний код підтвердження з текстового повідомлення.",
     "suite-alerts-errors-benefit-already-applied": "Не можна подати заявку більше ніж одноразово.",
+    "suite-alerts-errors-booking-already-started": "Резервація вже розпочалась.",
     "suite-alerts-errors-booking-booker-invalid": "Власник не має дозволу бронювати в цій кімнаті.",
     "suite-alerts-errors-booking-conflict": "Інша резервація вже існує у вибраний час.",
     "suite-alerts-errors-booking-day-unavailable": "Цей день недоступний.",
