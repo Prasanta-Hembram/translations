@@ -2,7 +2,7 @@
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Geben Sie einen gültigen Code aus einer Textnachricht ein.",
     "suite-alerts-errors-benefit-already-applied": "Sie können sich nicht mehrfach bewerben.",
-    "suite-alerts-errors-booking-already-started": "Buchung bereits gestartet.",
+    "suite-alerts-errors-booking-already-started": "Bereits begonnene Buchung kann nicht neu terminiert werden.",
     "suite-alerts-errors-booking-booker-invalid": "Der Buchende hat keine Berechtigung, im Privatraum zu buchen.",
     "suite-alerts-errors-booking-conflict": "Eine weitere Buchung existiert bereits zur gleichen Zeit.",
     "suite-alerts-errors-booking-day-unavailable": "Dieser Tag ist nicht verfügbar.",

@@ -2,7 +2,7 @@
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Type a valid code from a text message.",
     "suite-alerts-errors-benefit-already-applied": "You can't apply more than once.",
-    "suite-alerts-errors-booking-already-started": "Booking already started.",
+    "suite-alerts-errors-booking-already-started": "Unable to reschedule already started booking.",
     "suite-alerts-errors-booking-booker-invalid": "Booker has no permission to book in private room.",
     "suite-alerts-errors-booking-conflict": "Another booking already exists at the same time.",
     "suite-alerts-errors-booking-day-unavailable": "This day is not available.",
