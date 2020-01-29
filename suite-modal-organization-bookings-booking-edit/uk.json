@@ -10,6 +10,8 @@
     "suite-modal-organization-bookings-booking-edit-empty": "Ця резервація не існує або була видалена.",
     "suite-modal-organization-bookings-booking-edit-end-time": "Кінець",
     "suite-modal-organization-bookings-booking-edit-error-date-invalid": "Уведіть правильну дату.",
+    "suite-modal-organization-bookings-booking-edit-error-date-invalid-past": "Уведіть правильну дату. У минулому резервувати не можна.",
+    "suite-modal-organization-bookings-booking-edit-error-date-invalid-future": "Уведіть правильну дату. Резервувати можна лише до {date}.",
     "suite-modal-organization-bookings-booking-edit-error-price-credits": "Уведіть суму в кредитах.",
     "suite-modal-organization-bookings-booking-edit-error-price-money": "Уведіть суму.",
     "suite-modal-organization-bookings-booking-edit-error-purpose-empty": "Уведіть назву резервації.",
