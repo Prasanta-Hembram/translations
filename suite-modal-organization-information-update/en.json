@@ -14,6 +14,11 @@
     "suite-modal-organization-information-update-link-rules": "Rules",
     "suite-modal-organization-information-update-name": "Name",
     "suite-modal-organization-information-update-name-placeholder": "Type a name",
+    "suite-modal-organization-information-update-policy-link": "Privacy Policy",
+    "suite-modal-organization-information-update-policy-link-placeholder": "Type a link",
+    "suite-modal-organization-information-update-refund-policy-desc": "Include information or links to privacy, refund, terms of use, or other policies. This will appear on payment page and invoice.",
+    "suite-modal-organization-information-update-refund-policy-placeholder": "Type an information",
+    "suite-modal-organization-information-update-refund-policy-title": "Refund Policy",
     "suite-modal-organization-information-update-timezone": "Timezone"
   }
 }
