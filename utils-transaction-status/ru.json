@@ -1,0 +1,12 @@
+{
+  "data": {
+    "utils-transaction-status-canceled": "Отменено",
+    "utils-transaction-status-failed": "Неудачно",
+    "utils-transaction-status-pending": "Обработка",
+    "utils-transaction-status-paid": "Оплачено",
+    "utils-transaction-status-unpaid": "Неоплачено",
+    "utils-transaction-status-unpaid-with-amount": "Неоплачено {amount}",
+    "utils-transaction-status-title": "Статус",
+    "utils-transaction-status-unsupported": "Обновите приложение. Статус невозможно отобразить в данной версии приложения."
+  }
+}

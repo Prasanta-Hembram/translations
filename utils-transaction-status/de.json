@@ -1,0 +1,12 @@
+{
+  "data": {
+    "utils-transaction-status-canceled": "Abgebrochen",
+    "utils-transaction-status-failed": "Fehlgeschlagen",
+    "utils-transaction-status-pending": "Ausstehend",
+    "utils-transaction-status-paid": "Bezahlt",
+    "utils-transaction-status-unpaid": "Zahlung ausstehend",
+    "utils-transaction-status-unpaid-with-amount": "Zahlung ausstehend {amount}",
+    "utils-transaction-status-title": "Status",
+    "utils-transaction-status-unsupported": "Bitte aktualisieren Sie die App. Ihre Version der App konnte den Status nicht anzeigen."
+  }
+}

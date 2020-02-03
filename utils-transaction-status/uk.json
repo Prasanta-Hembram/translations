@@ -1,0 +1,12 @@
+{
+  "data": {
+    "utils-transaction-status-canceled": "Скасовано",
+    "utils-transaction-status-failed": "Невдало",
+    "utils-transaction-status-pending": "Обробка",
+    "utils-transaction-status-paid": "Сплачено",
+    "utils-transaction-status-unpaid": "Несплачено",
+    "utils-transaction-status-unpaid-with-amount": "Несплачено {amount}",
+    "utils-transaction-status-title": "Статус",
+    "utils-transaction-status-unsupported": "Оновіть застосунок. Статус неможливо відобразити в даній версії застосунку."
+  }
+}
