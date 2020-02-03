@@ -1,10 +1,12 @@
 {
   "data": {
-    "utils-payment-cash-status-canceled": "Отменено",
-    "utils-payment-cash-status-paid": "Оплачено",
-    "utils-payment-cash-status-unpaid": "Неоплачено",
-    "utils-payment-cash-status-unpaid-with-amount": "Неоплачено {amount}",
-    "utils-payment-cash-status-title": "Статус",
-    "utils-payment-cash-status-unsupported": "Обновите приложение. Статус невозможно отобразить в данной версии приложения."
+    "utils-transaction-status-canceled": "Отменено",
+    "utils-transaction-status-failed": "Неудачно",
+    "utils-transaction-status-pending": "Обработка",
+    "utils-transaction-status-paid": "Оплачено",
+    "utils-transaction-status-unpaid": "Неоплачено",
+    "utils-transaction-status-unpaid-with-amount": "Неоплачено {amount}",
+    "utils-transaction-status-title": "Статус",
+    "utils-transaction-status-unsupported": "Обновите приложение. Статус невозможно отобразить в данной версии приложения."
   }
 }

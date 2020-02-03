@@ -1,10 +1,12 @@
 {
   "data": {
-    "utils-payment-cash-status-canceled": "승인 취소",
-    "utils-payment-cash-status-paid": "결제 완료",
-    "utils-payment-cash-status-unpaid": "결제 예정",
-    "utils-payment-cash-status-unpaid-with-amount": "결제 예정 {amount}",
-    "utils-payment-cash-status-title": "결제 사항",
-    "utils-payment-cash-status-unsupported": "앱을 업데이트하세요. 이용중인 앱 버전에서 상태를 표시할 수 없습니다."
+    "utils-transaction-status-canceled": "승인 취소",
+    "utils-transaction-status-failed": "거절",
+    "utils-transaction-status-pending": "승인 필요",
+    "utils-transaction-status-paid": "결제 완료",
+    "utils-transaction-status-unpaid": "결제 예정",
+    "utils-transaction-status-unpaid-with-amount": "결제 예정 {amount}",
+    "utils-transaction-status-title": "결제 사항",
+    "utils-transaction-status-unsupported": "앱을 업데이트하세요. 이용중인 앱 버전에서 상태를 표시할 수 없습니다."
   }
 }

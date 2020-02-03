@@ -1,10 +1,12 @@
 {
   "data": {
-    "utils-payment-cash-status-canceled": "Cancelado",
-    "utils-payment-cash-status-paid": "Pagado",
-    "utils-payment-cash-status-unpaid": "No pagado",
-    "utils-payment-cash-status-unpaid-with-amount": "No pagado {amount}",
-    "utils-payment-cash-status-title": "Estado",
-    "utils-payment-cash-status-unsupported": "Actualiza la aplicación. Tu versión de la aplicación no pudo mostrar el estado."
+    "utils-transaction-status-canceled": "Cancelado",
+    "utils-transaction-status-failed": "Fallido",
+    "utils-transaction-status-pending": "Pendiente",
+    "utils-transaction-status-paid": "Pagado",
+    "utils-transaction-status-unpaid": "No pagado",
+    "utils-transaction-status-unpaid-with-amount": "No pagado {amount}",
+    "utils-transaction-status-title": "Estado",
+    "utils-transaction-status-unsupported": "Actualiza la aplicación. Tu versión de la aplicación no pudo mostrar el estado."
   }
 }

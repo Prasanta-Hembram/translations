@@ -1,10 +1,12 @@
 {
   "data": {
-    "utils-payment-cash-status-canceled": "Скасовано",
-    "utils-payment-cash-status-paid": "Сплачено",
-    "utils-payment-cash-status-unpaid": "Несплачено",
-    "utils-payment-cash-status-unpaid-with-amount": "Несплачено {amount}",
-    "utils-payment-cash-status-title": "Статус",
-    "utils-payment-cash-status-unsupported": "Оновіть застосунок. Статус неможливо відобразити в даній версії застосунку."
+    "utils-transaction-status-canceled": "Скасовано",
+    "utils-transaction-status-failed": "Невдало",
+    "utils-transaction-status-pending": "Обробка",
+    "utils-transaction-status-paid": "Сплачено",
+    "utils-transaction-status-unpaid": "Несплачено",
+    "utils-transaction-status-unpaid-with-amount": "Несплачено {amount}",
+    "utils-transaction-status-title": "Статус",
+    "utils-transaction-status-unsupported": "Оновіть застосунок. Статус неможливо відобразити в даній версії застосунку."
   }
 }
