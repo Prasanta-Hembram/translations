@@ -14,6 +14,11 @@
     "suite-modal-organization-information-update-link-rules": "Reglas",
     "suite-modal-organization-information-update-name": "Nombre",
     "suite-modal-organization-information-update-name-placeholder": "Ingresa tu nombre",
+    "suite-modal-organization-information-update-policy-link": "Política de privacidad",
+    "suite-modal-organization-information-update-policy-link-placeholder": "Escribe un enlace",
+    "suite-modal-organization-information-update-refund-policy-desc": "Incluya información o enlaces a reembolso, términos de uso etc. Esto aparecerá en la página de pago y factura.",
+    "suite-modal-organization-information-update-refund-policy-placeholder": "Escribe una información",
+    "suite-modal-organization-information-update-refund-policy-title": "Política de reembolso",
     "suite-modal-organization-information-update-timezone": "Zona horaria"
   }
 }
