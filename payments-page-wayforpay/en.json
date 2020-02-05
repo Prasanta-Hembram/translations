@@ -1,0 +1,9 @@
+{
+  "data": {
+    "payments-page-wayforpay-meta-title": "Pay with WayForPay | andcards",
+    "payments-page-wayforpay-page-title-booking": "Pay for Booking",
+    "payments-page-wayforpay-page-title-invoice": "Pay for Invoice",
+    "payments-page-wayforpay-page-error": "The payment request has already completed or does not exist.",
+    "payments-page-wayforpay-page-success": "The payment has succeeded."
+  }
+}
