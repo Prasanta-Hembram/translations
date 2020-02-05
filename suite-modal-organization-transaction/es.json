@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-modal-organization-transaction-booking-delete-desc": "This booking was deleted by {userName} on {date}",
     "suite-modal-organization-transaction-booking-details-end-date": "Finalización",
     "suite-modal-organization-transaction-booking-details-start-date": "Inicio",
     "suite-modal-organization-transaction-booking-details-property-name": "Sala",

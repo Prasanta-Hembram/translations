@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-modal-organization-invoice-item-title": "Details der Rechnungsposition",
+    "suite-modal-organization-invoice-item-booking-delete-desc": "This booking was deleted by {userName} on {date}",
     "suite-modal-organization-invoice-item-booking-details-end-date": "Endet",
     "suite-modal-organization-invoice-item-booking-details-start-date": "Beginnt",
     "suite-modal-organization-invoice-item-booking-details-property-name": "Raum",
