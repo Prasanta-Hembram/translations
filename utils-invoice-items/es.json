@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-invoice-item-booking-deleted-without-user-desc": "This booking was deleted on {date}.",
-    "utils-invoice-item-booking-deleted-with-user-desc": "This booking was deleted by {userName} on {date}.",
+    "utils-invoice-item-booking-deleted-without-user-desc": "Esta reserva se eliminó el {date}.",
+    "utils-invoice-item-booking-deleted-with-user-desc": "{userName} eliminó esta reserva el {date}.",
     "utils-invoice-item-status-excluded": "Excluido",
     "utils-invoice-item-status-included": "Incluido"
   }
