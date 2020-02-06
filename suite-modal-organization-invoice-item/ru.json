@@ -1,6 +1,10 @@
 {
   "data": {
     "suite-modal-organization-invoice-item-title": "Детали позиции инвойса",
+    "suite-modal-organization-invoice-item-booking-details-end-date": "Конец",
+    "suite-modal-organization-invoice-item-booking-details-start-date": "Начало",
+    "suite-modal-organization-invoice-item-booking-details-property-name": "Переговорная",
+    "suite-modal-organization-invoice-item-booking-details-title": "Детали бронирования",
     "suite-modal-organization-invoice-item-date-label": "Дата",
     "suite-modal-organization-invoice-item-status-desc": "Выберите, будет ли эта позиция включена в инвойс."
   }

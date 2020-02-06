@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-invoice-item-booking-deleted-without-user-desc": "Ця резервація була видалена {date}.",
+    "utils-invoice-item-booking-deleted-with-user-desc": "{userName} видалив(ла) цю резервацію {date}.",
     "utils-invoice-item-status-excluded": "Вилучено",
     "utils-invoice-item-status-included": "Включено"
   }

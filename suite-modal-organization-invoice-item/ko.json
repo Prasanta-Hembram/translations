@@ -1,6 +1,10 @@
 {
   "data": {
     "suite-modal-organization-invoice-item-title": "항목 내용",
+    "suite-modal-organization-invoice-item-booking-details-end-date": "종료",
+    "suite-modal-organization-invoice-item-booking-details-start-date": "시작",
+    "suite-modal-organization-invoice-item-booking-details-property-name": "회의실",
+    "suite-modal-organization-invoice-item-booking-details-title": "예약 내역",
     "suite-modal-organization-invoice-item-date-label": "일자",
     "suite-modal-organization-invoice-item-status-desc": "청구 내역 항목을 청구 내역에 포함할지 여부를 선택하세요."
   }
