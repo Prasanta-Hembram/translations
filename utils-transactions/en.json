@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-utils-transactions-booking-deleted-without-user-desc": "This booking was deleted on {date}.",
+    "suite-utils-transactions-booking-deleted-with-user-desc": "This booking was deleted by {userName} on {date}.",
     "suite-utils-transactions-default-transaction": "Transaction",
     "suite-utils-transactions-money-transaction-book-by-card": "Booking ∙ Card",
     "suite-utils-transactions-money-transaction-book-by-card-with-name": "Booking {propertyName} ∙ Card",

@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-modal-organization-invoice-item-title": "Detalles de la posición de factura",
-    "suite-modal-organization-invoice-item-booking-delete-desc": "This booking was deleted by {userName} on {date}",
     "suite-modal-organization-invoice-item-booking-details-end-date": "Finalización",
     "suite-modal-organization-invoice-item-booking-details-start-date": "Inicio",
     "suite-modal-organization-invoice-item-booking-details-property-name": "Sala",

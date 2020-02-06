@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-invoice-item-booking-deleted-without-user-desc": "This booking was deleted on {date}.",
+    "utils-invoice-item-booking-deleted-with-user-desc": "This booking was deleted by {userName} on {date}.",
     "utils-invoice-item-status-excluded": "미포함",
     "utils-invoice-item-status-included": "포함"
   }
