@@ -4,6 +4,7 @@
     "payments-page-kakaopay-page-title-booking": "Pay for Booking",
     "payments-page-kakaopay-page-title-invoice": "Pay for Invoice",
     "payments-page-kakaopay-page-error": "The payment request has already completed or does not exist.",
+    "payments-page-kakaopay-page-pay-by-card-button": "Pay {price}",
     "payments-page-kakaopay-page-success": "The payment has succeeded."
   }
 }

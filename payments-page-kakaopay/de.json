@@ -4,6 +4,7 @@
     "payments-page-kakaopay-page-title-booking": "Buchung bezahlen",
     "payments-page-kakaopay-page-title-invoice": "Rechnung bezahlen",
     "payments-page-kakaopay-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
+    "payments-page-kakaopay-page-pay-by-card-button": "Bezahlen Sie {price}",
     "payments-page-kakaopay-page-success": "Zahlung erfolgt."
   }
 }
