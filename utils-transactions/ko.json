@@ -1,5 +1,7 @@
 {
   "data": {
+    "suite-utils-transactions-booking-deleted-without-user-desc": "본 예약은 {date}에 삭제되었습니다.",
+    "suite-utils-transactions-booking-deleted-with-user-desc": "{userName}님 {date}에 본 예약을 삭제하였습니다.",
     "suite-utils-transactions-default-transaction": "거래",
     "suite-utils-transactions-money-transaction-book-by-card": "회의실 예약 ∙ 카드",
     "suite-utils-transactions-money-transaction-book-by-card-with-name": "{propertyName} 예약 ∙ 카드",

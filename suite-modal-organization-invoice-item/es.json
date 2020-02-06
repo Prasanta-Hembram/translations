@@ -1,6 +1,10 @@
 {
   "data": {
     "suite-modal-organization-invoice-item-title": "Detalles de la posición de factura",
+    "suite-modal-organization-invoice-item-booking-details-end-date": "Finalización",
+    "suite-modal-organization-invoice-item-booking-details-start-date": "Inicio",
+    "suite-modal-organization-invoice-item-booking-details-property-name": "Sala",
+    "suite-modal-organization-invoice-item-booking-details-title": "Detalles de la reserva",
     "suite-modal-organization-invoice-item-date-label": "Fecha",
     "suite-modal-organization-invoice-item-status-desc": "Elija si la posición de factura se incluirá en la factura."
   }

@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-invoice-item-booking-deleted-without-user-desc": "Diese Buchung wurde am {date} gelöscht.",
+    "utils-invoice-item-booking-deleted-with-user-desc": "Diese Buchung wurde von {userName} am {date} gelöscht.",
     "utils-invoice-item-status-excluded": "Ausgeschlossen",
     "utils-invoice-item-status-included": "Eingeschlossen"
   }
