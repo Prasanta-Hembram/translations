@@ -14,7 +14,7 @@
     "suite-page-organization-bookings-booking-details-delete-repeat": "Спробуй ще раз",
     "suite-page-organization-bookings-booking-details-empty": "Ця резервація не існує або була видалена.",
     "suite-page-organization-bookings-booking-details-payed-with": "Засіб",
-    "suite-page-organization-bookings-booking-details-payment-status-pending": "Резервація в статусі очікування і буде видалена через 10 хвилин, якщо оплата не буде підтверджена.",
+    "suite-page-organization-bookings-booking-details-payment-status-pending": "Резервація в статусі очікування і буде видалена через 15 хвилин, якщо оплата не буде підтверджена.",
     "suite-page-organization-bookings-booking-details-title": "Резервація",
     "suite-page-organization-bookings-booking-details-section-payment": "Оплата",
     "suite-page-organization-bookings-booking-details-section-people": "Люди",
