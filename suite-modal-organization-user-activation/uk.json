@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-modal-organization-user-activation-title": "Обов'язкова інформація",
+    "suite-modal-organization-user-activation-button-activate": "Активувати",
+    "suite-modal-organization-user-activation-button-reject": "Відмінити",
+    "suite-modal-organization-user-activation-error-about": "Розкажіть щось про себе.",
+    "suite-modal-organization-user-activation-error-email": "Уведіть email.",
+    "suite-modal-organization-user-activation-error-first-name": "Уведіть ім'я.",
+    "suite-modal-organization-user-activation-error-last-name": "Уведіть прізвище.",
+    "suite-modal-organization-user-activation-error-phone-number": "Уведіть номер телефону."
+  }
+}

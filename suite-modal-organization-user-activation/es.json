@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-modal-organization-user-activation-title": "Los datos requeridos",
+    "suite-modal-organization-user-activation-button-activate": "Completar",
+    "suite-modal-organization-user-activation-button-reject": "Rechazar",
+    "suite-modal-organization-user-activation-error-about": "Cuéntanos sobre tus experiencias e intereses",
+    "suite-modal-organization-user-activation-error-email": "Ingrese un correo electrónico.",
+    "suite-modal-organization-user-activation-error-first-name": "Ingrese un nombre",
+    "suite-modal-organization-user-activation-error-last-name": "Ingrese un apellido",
+    "suite-modal-organization-user-activation-error-phone-number": "Ingrese un número de teléfono."
+  }
+}

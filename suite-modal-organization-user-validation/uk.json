@@ -1,14 +1,10 @@
 {
   "data": {
     "suite-modal-organization-user-validation-title": "Обов'язкова інформація",
-    "suite-modal-organization-user-validation-button-activate": "Активувати",
-    "suite-modal-organization-user-validation-button-reject": "Відмінити",
     "suite-modal-organization-user-validation-error-about": "Розкажіть щось про себе.",
     "suite-modal-organization-user-validation-error-email": "Уведіть email.",
     "suite-modal-organization-user-validation-error-first-name": "Уведіть ім'я.",
     "suite-modal-organization-user-validation-error-last-name": "Уведіть прізвище.",
-    "suite-modal-organization-user-validation-error-organization": "Уведіть організацію.",
-    "suite-modal-organization-user-validation-error-phone-number": "Уведіть номер телефону.",
-    "suite-modal-organization-user-validation-error-title": "Уведіть посаду."
+    "suite-modal-organization-user-validation-error-phone-number": "Уведіть номер телефону."
   }
 }
