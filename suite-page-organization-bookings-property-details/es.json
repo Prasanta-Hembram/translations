@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "Acerca de {propertyName}",
+    "suite-page-organization-bookings-property-details-delete-button": "Borrar",
+    "suite-page-organization-bookings-property-details-delete-property-failure": "No se ha podido borrar esta sala.",
+    "suite-page-organization-bookings-property-details-delete-property-repeat": "Inténtalo de nuevo",
     "suite-page-organization-bookings-property-details-main-title": "Sala",
     "suite-page-organization-bookings-property-details-no-property": "Esta sala puede no existir o puede haber sido eliminada.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- El tiempo máximo de reserva es {duration}.",

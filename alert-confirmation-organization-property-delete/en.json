@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-property-delete-title": "Delete room",
+    "alert-confirmation-organization-property-delete-no": "Cancel",
+    "alert-confirmation-organization-property-delete-text": "Are you sure you want to delete this room? This action is irreversible.",
+    "alert-confirmation-organization-property-delete-yes": "Delete"
+  }
+}
