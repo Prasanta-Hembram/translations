@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-bookings-property-details-title": "{propertyName} 정보",
     "suite-page-organization-bookings-property-details-delete-button": "팀 삭제",
-    "suite-page-organization-bookings-property-details-delete-property-failure": "팀 삭제 불가.",
+    "suite-page-organization-bookings-property-details-delete-property-failure": "회의실 삭제 불가.",
     "suite-page-organization-bookings-property-details-delete-property-repeat": "다시 시도",
     "suite-page-organization-bookings-property-details-main-title": "회의실",
     "suite-page-organization-bookings-property-details-no-property": "이 회의실은 존재하지 않거나 삭제되었을 수 있습니다.",
