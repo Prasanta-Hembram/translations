@@ -3,7 +3,7 @@ Enable WayForPay to instantly acquire debit or credit cards right inside the app
 - Meeting room booking page.
 - Invoice payment page.
 
-WayForPay payments work in-app without redirecting or requiring to install another app. To enable the integration, have your API keys ready.
+To enable WayForPay, have your merchant account, secret key, and domain name ready.
 
 ---
 
