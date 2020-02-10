@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-property-delete-title": "Eliminar sala",
     "alert-confirmation-organization-property-delete-no": "Cancelar",
-    "alert-confirmation-organization-property-delete-text": "¿Está seguro de que quiere eliminar este sala? Esta acción es irreversible.",
+    "alert-confirmation-organization-property-delete-text": "¿Está seguro de que quiere eliminar este sala? Todas las reservas serán eliminadas sin reembolso. Esta acción es irreversible.",
     "alert-confirmation-organization-property-delete-yes": "Eliminar"
   }
 }
