@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-property-delete-title": "Удалить переговорную",
     "alert-confirmation-organization-property-delete-no": "Отменить",
-    "alert-confirmation-organization-property-delete-text": "Вы действительно хотите удалить эту переговорную? Это действие необратимо.",
+    "alert-confirmation-organization-property-delete-text": "Вы действительно хотите удалить эту переговорную? Все бронирования будут удалены без возмещения стоимости. Это действие необратимо.",
     "alert-confirmation-organization-property-delete-yes": "Удалить"
   }
 }
