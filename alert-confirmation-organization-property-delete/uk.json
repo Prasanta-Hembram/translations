@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-property-delete-title": "Видалити кімнату",
     "alert-confirmation-organization-property-delete-no": "Скасувати",
-    "alert-confirmation-organization-property-delete-text": "Ви впевнені, що хочете видалити цю кімнату? Ця дія незворотна.",
+    "alert-confirmation-organization-property-delete-text": "Ви впевнені, що хочете видалити цю кімнату? Усі резервації буде видалено без повернення вартості. Ця дія незворотна.",
     "alert-confirmation-organization-property-delete-yes": "Видалити"
   }
 }
