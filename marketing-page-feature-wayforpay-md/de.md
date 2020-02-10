@@ -8,5 +8,3 @@ WayForPay Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung u
 ---
 
 ![Kartenzahlung für Meetingraumreservierung in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-payment-methods-card-light-en-1920-1200.png)
-
-![WayForPay Zahlungen in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-bookings-create-pay-with-stripe-light-en-1920-1200.png)
