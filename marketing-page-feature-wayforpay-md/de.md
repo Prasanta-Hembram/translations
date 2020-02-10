@@ -3,7 +3,7 @@ Aktivieren Sie WayForPay, um sofort Debit- oder Kreditkarten direkt in der App z
 - Buchungsseite des Besprechungsraums.
 - Zahlungsseite der Rechnung.
 
-WayForPay Zahlungen funktionieren in der Anwendung, ohne eine andere Anwendung umzuleiten oder zu installieren. Um die Integration zu ermöglichen, halten Sie Ihre API-Schlüssel bereit.
+Um WayForPay zu aktivieren, halten Sie Ihr Händlerkonto, Ihren geheimen Schlüssel und Ihren Domainnamen bereit.
 
 ---
 
