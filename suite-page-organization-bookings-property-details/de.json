@@ -3,7 +3,7 @@
     "suite-page-organization-bookings-property-details-title": "Über {propertyName}",
     "suite-page-organization-bookings-property-details-delete-button": "Löschen",
     "suite-page-organization-bookings-property-details-delete-property-failure": "Raum konnte nicht gelöscht werden.",
-    "suite-page-organization-bookings-property-details-delete-property-repeat": "Löschung erneut versuchen",
+    "suite-page-organization-bookings-property-details-delete-property-repeat": "Erneut versuchen",
     "suite-page-organization-bookings-property-details-main-title": "Raum",
     "suite-page-organization-bookings-property-details-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Die maximale Buchungsdauer beträgt {duration}.",
