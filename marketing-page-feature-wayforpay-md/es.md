@@ -3,7 +3,7 @@ Permita que WayForPay integre instantáneamente tarjetas de débito o crédito d
 - Página de reserva de salas de reuniones.
 - Página de pago de facturas.
 
-Los pagos con franjas funcionan inapp sin necesidad de redirigir o instalar otra aplicación. Para habilitar la integración, tenga a mano las claves de la API.
+Para habilitar WayForPay, ten lista tu cuenta de comerciante, tu clave secreta y tu nombre de dominio.
 
 ---
 
