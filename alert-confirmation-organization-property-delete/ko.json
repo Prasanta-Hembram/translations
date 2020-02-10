@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-property-delete-title": "팀 삭제",
+    "alert-confirmation-organization-property-delete-title": "회의실 삭제",
     "alert-confirmation-organization-property-delete-no": "돌아가기",
-    "alert-confirmation-organization-property-delete-text": "이 팀을 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
+    "alert-confirmation-organization-property-delete-text": "이 회의실을 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
     "alert-confirmation-organization-property-delete-yes": "삭제하기"
   }
 }
