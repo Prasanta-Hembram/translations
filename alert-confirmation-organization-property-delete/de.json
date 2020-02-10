@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-property-delete-title": "Raum löschen",
     "alert-confirmation-organization-property-delete-no": "Abbrechen",
-    "alert-confirmation-organization-property-delete-text": "Sind Sie sicher, dass Sie dieses raum löschen wollen? Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-property-delete-text": "Sind Sie sicher, dass Sie dieses raum löschen wollen? Alle Buchungen werden ohne Rückerstattung gelöscht. Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-property-delete-yes": "Löschen"
   }
 }
