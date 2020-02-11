@@ -1,6 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "Подробно о {propertyName}",
+    "suite-page-organization-bookings-property-details-delete-button": "Удалить",
+    "suite-page-organization-bookings-property-details-delete-property-failure": "Не удалось удалить переговорную.",
+    "suite-page-organization-bookings-property-details-delete-property-repeat": "Попробовать снова",
     "suite-page-organization-bookings-property-details-main-title": "Переговорная",
     "suite-page-organization-bookings-property-details-no-property": "Переговорная не существует или же была удалена.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
