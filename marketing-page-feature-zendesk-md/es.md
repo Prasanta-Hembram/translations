@@ -1,11 +1,11 @@
-Enable Zendesk to organize customer support at your coworking space. Connect Zendesk to:
+Permita que Zendesk organice la atención al cliente en su espacio de coworking. Conectar Zendesk a:
 
-- Add "Help" button to your web and mobile apps.
-- Allow members to find support articles and coworking community guidelines.
-- Let customers report issues and create support tickets.
-- Enable real-time chat to your web and mobile app members.
+- Añade el botón de "Ayuda" a tus aplicaciones web y móviles.
+- Permitir a los miembros encontrar artículos de soporte y directrices de la comunidad.
+- Permitir que los clientes informen de sus problemas y creen tickets de soporte.
+- Habilitar el chat en tiempo real a los miembros de su web y aplicaciones móviles.
 
-If you already have Zendesk account, contact andcards support to enable Zendesk integration for your coworking software.
+Si ya tiene una cuenta en Zendesk, póngase en contacto con el servicio de asistencia de andcards para activar la integración de Zendesk para tu software de coworking.
 
 ---
 
