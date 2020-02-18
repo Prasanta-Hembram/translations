@@ -14,7 +14,7 @@
     "suite-alerts-errors-booking-property-min-time-invalid": "El período de tiempo seleccionado es menor que el mínimo permitido.",
     "suite-alerts-errors-booking-title-not-valid": "El titulo es inválido.",
     "suite-alerts-errors-booking-unallowed-time-period": "El período de reserva no es válido.",
-    "suite-alerts-errors-camera-invalid-image": "Failed to upload the image.",
+    "suite-alerts-errors-camera-invalid-image": "No subió la imagen.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "No se puede cobrar más de lo que el equipo tiene.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "No se puede cobrar más de lo que el usuario tiene",
     "suite-alerts-errors-email-not-valid": "El correo electrónico no es válido.",
