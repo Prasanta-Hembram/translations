@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-modal-organization-stream-activity-likes-no-likes": "There are no likes for this post yet.",
-    "suite-modal-organization-stream-activity-likes-title": "Likes"
+    "suite-modal-organization-stream-activity-likes-no-likes": "Этот пост еще никому не понравился.",
+    "suite-modal-organization-stream-activity-likes-title": "Нравится"
   }
 }
