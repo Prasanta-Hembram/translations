@@ -14,6 +14,7 @@
     "suite-alerts-errors-booking-property-min-time-invalid": "Обраний проміжок часу менший, ніж мінімально допустимий.",
     "suite-alerts-errors-booking-title-not-valid": "Назва не правильна.",
     "suite-alerts-errors-booking-unallowed-time-period": "Вибраний період бронювання недійсний.",
+    "suite-alerts-errors-camera-invalid-image": "Не вдалося завантажити зображення.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Неможливо стягнути більше ніж є в команди.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Неможливо стягнути більше ніж є в користувача.",
     "suite-alerts-errors-email-not-valid": "Email не правильний.",

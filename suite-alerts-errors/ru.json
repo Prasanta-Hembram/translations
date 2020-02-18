@@ -14,6 +14,7 @@
     "suite-alerts-errors-booking-property-min-time-invalid": "Выбранный период времени меньше минимально допустимого.",
     "suite-alerts-errors-booking-title-not-valid": "Название неверное.",
     "suite-alerts-errors-booking-unallowed-time-period": "Период бронирования недействителен.",
+    "suite-alerts-errors-camera-invalid-image": "Не удалось загрузить изображение.",
     "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Невозможно списать больше, чем есть у команды.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Невозможно списать больше, чем есть у пользователя.",
     "suite-alerts-errors-email-not-valid": "Email не правильный.",
