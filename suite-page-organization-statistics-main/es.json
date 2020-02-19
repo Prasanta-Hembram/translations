@@ -9,7 +9,6 @@
     "suite-page-organization-statistics-main-revenue-by-payment-section": "{month} Ingresos por tipo de pago",
     "suite-page-organization-statistics-main-revenue-by-payment-section-card": "Tarjeta",
     "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "Pago externo",
-    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Facturas",
-    "suite-page-organization-statistics-main-revenue-section": "Ingresos"
+    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Facturas"
   }
 }

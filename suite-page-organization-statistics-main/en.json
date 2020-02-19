@@ -9,7 +9,6 @@
     "suite-page-organization-statistics-main-revenue-by-payment-section": "{month} Revenue by Payment",
     "suite-page-organization-statistics-main-revenue-by-payment-section-card": "Card",
     "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "External Payment",
-    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Invoices",
-    "suite-page-organization-statistics-main-revenue-section": "Revenue"
+    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Invoices"
   }
 }

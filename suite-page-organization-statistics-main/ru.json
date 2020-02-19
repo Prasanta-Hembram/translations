@@ -9,7 +9,6 @@
     "suite-page-organization-statistics-main-revenue-by-payment-section": "Доход с выплат за {month}",
     "suite-page-organization-statistics-main-revenue-by-payment-section-card": "Банковская карта",
     "suite-page-organization-statistics-main-revenue-by-payment-section-cash": "Внешний платеж",
-    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Инвойсы",
-    "suite-page-organization-statistics-main-revenue-section": "Продажи"
+    "suite-page-organization-statistics-main-revenue-by-payment-section-invoices": "Инвойсы"
   }
 }
