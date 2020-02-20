@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-modal-organization-stream-activity-edit-text": "Text",
-    "suite-modal-organization-stream-activity-edit-text-placeholder": "Type a text",
-    "suite-modal-organization-stream-activity-edit-title": "Edit Stream Post"
+    "suite-modal-organization-stream-activity-edit-text": "내용",
+    "suite-modal-organization-stream-activity-edit-text-placeholder": "내용을 입력하기",
+    "suite-modal-organization-stream-activity-edit-title": "Stream 게시물 편집"
   }
 }
