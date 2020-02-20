@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-modal-organization-stream-activity-edit-text": "Text",
-    "suite-modal-organization-stream-activity-edit-text-placeholder": "Type a text",
-    "suite-modal-organization-stream-activity-edit-title": "Edit Stream Post"
+    "suite-modal-organization-stream-activity-edit-text": "Текст",
+    "suite-modal-organization-stream-activity-edit-text-placeholder": "Ввести текст",
+    "suite-modal-organization-stream-activity-edit-title": "Редактировать пост Stream"
   }
 }
