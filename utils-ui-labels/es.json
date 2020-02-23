@@ -3,7 +3,7 @@
     "utils-labels-seats-plural": "{number} asientos",
     "utils-labels-seats-single": "{number} asiento",
     "utils-labels-select-item-label-default": "Desconocido",
-    "utils-labels-stream-likes-plural": "{number} likes",
-    "utils-labels-stream-likes-single": "{number} like"
+    "utils-labels-stream-likes-plural": "{number} Me gusta",
+    "utils-labels-stream-likes-single": "{number} Me gusta"
   }
 }
