@@ -2,6 +2,8 @@
   "data": {
     "utils-labels-seats-plural": "{number} Plätze",
     "utils-labels-seats-single": "{number} Platz",
-    "utils-labels-select-item-label-default": "Unbekannt"
+    "utils-labels-select-item-label-default": "Unbekannt",
+    "utils-labels-stream-likes-plural": "{number} likes",
+    "utils-labels-stream-likes-single": "{number} like"
   }
 }
