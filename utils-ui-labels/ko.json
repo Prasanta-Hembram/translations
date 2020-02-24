@@ -2,6 +2,8 @@
   "data": {
     "utils-labels-seats-plural": "{number} 자리",
     "utils-labels-seats-single": "{number} 자리",
-    "utils-labels-select-item-label-default": "정보 없음"
+    "utils-labels-select-item-label-default": "정보 없음",
+    "utils-labels-stream-likes-plural": "좋아요 {number}개",
+    "utils-labels-stream-likes-single": "좋아요 {number}개"
   }
 }

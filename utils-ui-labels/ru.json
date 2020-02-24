@@ -2,6 +2,8 @@
   "data": {
     "utils-labels-seats-plural": "{number} мест(-а)",
     "utils-labels-seats-single": "{number} место",
-    "utils-labels-select-item-label-default": "Неизвестно"
+    "utils-labels-select-item-label-default": "Неизвестно",
+    "utils-labels-stream-likes-plural": "Нравится: {number}",
+    "utils-labels-stream-likes-single": "Нравится: {number}"
   }
 }
