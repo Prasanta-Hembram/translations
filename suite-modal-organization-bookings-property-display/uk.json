@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-modal-organization-bookings-property-display-availability-available": "Доступно наступних {time}",
-    "suite-modal-organization-bookings-property-display-availability-in-minutes": "Доступно {time}",
-    "suite-modal-organization-bookings-property-display-availability-unavailable": "Недоступно",
+    "suite-modal-organization-bookings-property-display-availability-available": "Вільно {time}",
+    "suite-modal-organization-bookings-property-display-availability-in-minutes": "Вільно {time}",
+    "suite-modal-organization-bookings-property-display-availability-unavailable": "Зайнято",
     "suite-modal-organization-bookings-property-display-next-bookings-label": "Наступні резервації"
   }
 }
