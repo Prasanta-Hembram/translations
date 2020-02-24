@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-main-title": "Резервації",
-    "suite-page-organization-bookings-main-availability-available": "Доступно",
-    "suite-page-organization-bookings-main-availability-in-minutes": "Доступно {time}",
-    "suite-page-organization-bookings-main-availability-in-use": "Використовується",
+    "suite-page-organization-bookings-main-availability-available": "Вільно",
+    "suite-page-organization-bookings-main-availability-in-minutes": "Вільно {time}",
+    "suite-page-organization-bookings-main-availability-in-use": "Зайнято",
     "suite-page-organization-bookings-main-availability-unavailable": "Недоступно",
     "suite-page-organization-bookings-main-default-booking-purpose": "Без назви",
     "suite-page-organization-bookings-main-button-add-room": "Додати кімнату",
