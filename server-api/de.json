@@ -59,6 +59,7 @@
     "payment-intent-default-description": "Zahlung {paymentDate}",
     "payment-intent-invoice-description": "Rechnung ({invoiceDate})",
     "powered-by-andcards": "Powered by {andcardsUrl}",
+    "stream-comment-notification-title": "{userName} commented on post",
     "stream-notification-title": "{userName} hat in {organizationTitle} geschrieben"
   }
 }

@@ -59,6 +59,7 @@
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Інвойс ({invoiceDate})",
     "powered-by-andcards": "Сервіс від {andcardsUrl}",
+    "stream-comment-notification-title": "{userName} commented on post",
     "stream-notification-title": "{userName} дописує до {organizationTitle}"
   }
 }

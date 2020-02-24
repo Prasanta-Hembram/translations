@@ -59,6 +59,7 @@
     "payment-intent-default-description": "Pago {paymentDate}",
     "payment-intent-invoice-description": "Factura ({invoiceDate})",
     "powered-by-andcards": "Desarrollado por {andcardsUrl}",
+    "stream-comment-notification-title": "{userName} commented on post",
     "stream-notification-title": "{userName} publicado en {organizationTitle}"
   }
 }
