@@ -3,6 +3,9 @@
     "utils-labels-seats-plural": "{number} Plätze",
     "utils-labels-seats-single": "{number} Platz",
     "utils-labels-select-item-label-default": "Unbekannt",
+    "utils-labels-stream-comments-plural": "{number} comments",
+    "utils-labels-stream-comments-single": "{number} comment",
+    "utils-labels-stream-comments-zero": "Comment",
     "utils-labels-stream-likes-plural": "Gefällt {number} Mal",
     "utils-labels-stream-likes-single": "Gefällt {number} Mal"
   }
