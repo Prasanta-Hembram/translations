@@ -3,6 +3,7 @@
     "suite-page-organization-stream-activity-main-title": "Stream Post",
     "suite-page-organization-stream-activity-main-button-repeat": "Try again",
     "suite-page-organization-stream-activity-main-comment-placeholder": "Write a comment...",
+    "suite-page-organization-stream-activity-main-comment-post": "Post",
     "suite-page-organization-stream-activity-main-delete-failure": "Failed to delete post.",
     "suite-page-organization-stream-activity-main-no-post": "The post is missing or has been deleted."
   }

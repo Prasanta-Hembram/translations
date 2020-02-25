@@ -3,6 +3,7 @@
     "suite-page-organization-stream-activity-main-title": "Stream 게시물",
     "suite-page-organization-stream-activity-main-button-repeat": "다시시도",
     "suite-page-organization-stream-activity-main-comment-placeholder": "Write a comment...",
+    "suite-page-organization-stream-activity-main-comment-post": "Post",
     "suite-page-organization-stream-activity-main-delete-failure": "게시물을 삭제하지 못했습니다.",
     "suite-page-organization-stream-activity-main-no-post": "게시물이 없거나 삭제되었습니다."
   }
