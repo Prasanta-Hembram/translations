@@ -5,7 +5,6 @@
     "utils-labels-select-item-label-default": "정보 없음",
     "utils-labels-stream-comments-plural": "{number} comments",
     "utils-labels-stream-comments-single": "{number} comment",
-    "utils-labels-stream-comments-zero": "Comment",
     "utils-labels-stream-likes-plural": "좋아요 {number}개",
     "utils-labels-stream-likes-single": "좋아요 {number}개"
   }
