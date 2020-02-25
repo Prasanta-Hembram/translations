@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-main-title": "Бронирования",
-    "suite-page-organization-bookings-main-availability-available": "Доступно",
-    "suite-page-organization-bookings-main-availability-in-minutes": "Доступно {time}",
-    "suite-page-organization-bookings-main-availability-in-use": "Используется",
+    "suite-page-organization-bookings-main-availability-available": "Свободно",
+    "suite-page-organization-bookings-main-availability-in-minutes": "Свободно {time}",
+    "suite-page-organization-bookings-main-availability-in-use": "Занято",
     "suite-page-organization-bookings-main-availability-unavailable": "Недоступно",
     "suite-page-organization-bookings-main-default-booking-purpose": "Без названия",
     "suite-page-organization-bookings-main-button-add-room": "Доб. переговорную",
