@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-stream-main-title": "Stream",
+    "suite-page-organization-stream-main-button-activity-create": "Post",
     "suite-page-organization-stream-main-posts-load-more": "Загрузить больше"
   }
 }
