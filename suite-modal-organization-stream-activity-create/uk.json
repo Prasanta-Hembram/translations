@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-modal-organization-stream-activity-create-title": "Новий пост",
+    "suite-modal-organization-stream-activity-create-title": "Новий допис",
     "suite-modal-organization-stream-activity-create-button-create": "Поділитися",
     "suite-modal-organization-stream-activity-create-text": "Текст",
-    "suite-modal-organization-stream-activity-create-text-placeholder": "Поділитися новинами..."
+    "suite-modal-organization-stream-activity-create-text-placeholder": "Що у вас нового?"
   }
 }

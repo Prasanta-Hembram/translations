@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-modal-organization-stream-activity-create-title": "Nuevo puesto",
-    "suite-modal-organization-stream-activity-create-button-create": "Compartir",
-    "suite-modal-organization-stream-activity-create-text": "Text",
-    "suite-modal-organization-stream-activity-create-text-placeholder": "Compartir algo..."
+    "suite-modal-organization-stream-activity-create-title": "Crear publicación",
+    "suite-modal-organization-stream-activity-create-button-create": "Publicar",
+    "suite-modal-organization-stream-activity-create-text": "Texto",
+    "suite-modal-organization-stream-activity-create-text-placeholder": "¿Qué estás pensando?"
   }
 }

@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-modal-organization-stream-activity-create-title": "New Post",
-    "suite-modal-organization-stream-activity-create-button-create": "공유",
-    "suite-modal-organization-stream-activity-create-text": "Text",
-    "suite-modal-organization-stream-activity-create-text-placeholder": "게시물 공유하기..."
+    "suite-modal-organization-stream-activity-create-title": "게시물 민들기",
+    "suite-modal-organization-stream-activity-create-button-create": "게시",
+    "suite-modal-organization-stream-activity-create-text": "내용",
+    "suite-modal-organization-stream-activity-create-text-placeholder": "무슨 생각을 하고 계신가요?"
   }
 }
