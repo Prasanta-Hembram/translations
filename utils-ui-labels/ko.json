@@ -1,10 +1,10 @@
 {
   "data": {
-    "utils-labels-seats-plural": "{number} 자리",
-    "utils-labels-seats-single": "{number} 자리",
+    "utils-labels-seats-plural": "자리 {number}개",
+    "utils-labels-seats-single": "자리 {number}개",
     "utils-labels-select-item-label-default": "정보 없음",
-    "utils-labels-stream-comments-plural": "{number} comments",
-    "utils-labels-stream-comments-single": "{number} comment",
+    "utils-labels-stream-comments-plural": "댓글 {number}개",
+    "utils-labels-stream-comments-single": "댓글 {number}개",
     "utils-labels-stream-likes-plural": "좋아요 {number}개",
     "utils-labels-stream-likes-single": "좋아요 {number}개"
   }
