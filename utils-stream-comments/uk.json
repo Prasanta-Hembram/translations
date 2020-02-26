@@ -1,6 +1,7 @@
 {
   "data": {
     "utils-stream-comments-comment": "Коментувати",
-    "utils-stream-comments-delete": "Видалити"
+    "utils-stream-comments-delete": "Видалити",
+    "utils-stream-comments-like": "Вподобати"
   }
 }
