@@ -1,6 +1,7 @@
 {
   "data": {
     "utils-stream-comments-comment": "Comentar",
-    "utils-stream-comments-delete": "Eliminar"
+    "utils-stream-comments-delete": "Eliminar",
+    "utils-stream-comments-like": "Me gusta"
   }
 }
