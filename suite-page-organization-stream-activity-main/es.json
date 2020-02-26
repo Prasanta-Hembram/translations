@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-stream-activity-main-title": "Post de Stream",
     "suite-page-organization-stream-activity-main-button-repeat": "Inténtalo de nuevo.",
+    "suite-page-organization-stream-activity-main-comment-placeholder": "Agrega un commentario...",
+    "suite-page-organization-stream-activity-main-comment-post": "Publicar",
     "suite-page-organization-stream-activity-main-delete-failure": "No se ha podido borrar el post.",
     "suite-page-organization-stream-activity-main-no-post": "El post ha desaparecido o ha sido borrado."
   }

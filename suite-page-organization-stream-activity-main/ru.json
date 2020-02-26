@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-stream-activity-main-title": "Пост Stream",
     "suite-page-organization-stream-activity-main-button-repeat": "Попробовать снова",
+    "suite-page-organization-stream-activity-main-comment-placeholder": "Комментировать...",
+    "suite-page-organization-stream-activity-main-comment-post": "Опубликовать",
     "suite-page-organization-stream-activity-main-delete-failure": "Не удалось удалить пост.",
     "suite-page-organization-stream-activity-main-no-post": "Пост не существует или был удалён."
   }

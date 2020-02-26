@@ -2,6 +2,8 @@
   "data": {
     "suite-page-organization-stream-activity-main-title": "Допис Stream",
     "suite-page-organization-stream-activity-main-button-repeat": "Спробувати знов",
+    "suite-page-organization-stream-activity-main-comment-placeholder": "Додайте коментар...",
+    "suite-page-organization-stream-activity-main-comment-post": "Опублікувати",
     "suite-page-organization-stream-activity-main-delete-failure": "Не вдалося видалити допис.",
     "suite-page-organization-stream-activity-main-no-post": "Допису немає, або він був видалений."
   }

@@ -3,7 +3,9 @@
     "utils-labels-seats-plural": "{number} місць(-я)",
     "utils-labels-seats-single": "{number} місце",
     "utils-labels-select-item-label-default": "Невідомо",
-    "utils-labels-stream-likes-plural": "{number} вподобань",
-    "utils-labels-stream-likes-single": "{number} вподобання"
+    "utils-labels-stream-comments-plural": "Коментарі: {number}",
+    "utils-labels-stream-comments-single": "Коментарі: {number}",
+    "utils-labels-stream-likes-plural": "Вподобання: {number}",
+    "utils-labels-stream-likes-single": "Вподобання: {number}"
   }
 }

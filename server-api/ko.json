@@ -59,6 +59,7 @@
     "payment-intent-default-description": "결제 {paymentDate}",
     "payment-intent-invoice-description": "청구 내역 ({invoiceDate})",
     "powered-by-andcards": "{andcardsUrl} 제공",
+    "stream-comment-notification-title": "{userName} 님은 게시물에 댓글을 달았습니다.",
     "stream-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다"
   }
 }
