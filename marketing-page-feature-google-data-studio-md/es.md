@@ -1,10 +1,10 @@
-Easily access all of your andcards data through Google Data Studio. The integration allows you to:
+Accede fácilmente a todos los datos de tus andcards a través de Google Data Studio. La integración le permite:
 
-- Synchronize all your data from andcards into Data Studio in real-time.
-- Quickly build interactive reports and dashboards with Data Studio’s web-based reporting tools to inspire better coworking space business decisions.
-- Share your reports and dashboards with anyone in the world.
-- Collaborate in real-time with multiple team members.
-- Schedule regular email reports.
-- Download all your data in CSV file format.
+- Sincronizar todos sus datos de andcards en Data Studio en tiempo real.
+- Crear rápidamente informes y cuadros de mando interactivos con las herramientas de informe basadas en la web de Data Studio para inspirar mejores decisiones de negocios en el espacio de coworking.
+- Comparta tus informes y cuadros de mando con cualquier persona del mundo.
+- Colabore en tiempo real con varios miembros del equipo.
+- Programe informes periódicos por correo electrónico.
+- Descargue todos sus datos en formato de archivo CSV.
 
-Request andcards support to build a custom Google Data Studio dashboard with just the right data you need.
+Solicita asistencia de andcards para crear un cuadro de mando personalizado de Google Data Studio con los datos que necesites.
