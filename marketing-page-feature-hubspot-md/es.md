@@ -1,7 +1,7 @@
 HubSpot es un software integral de ventas, marketing y atención al cliente. Conecte HubSpot a:
 
 - Cree contactos de HubSpot para mantener el CRM actualizado.
-- Abra el contacto asociado de HubSpot desde el perfil del miembro en el Directorio.
+- Abra el contacto asociado de HubSpot desde el perfil del miembro en el Community.
 - Previsualice la información de la operación en el perfil del miembro.
 - Sincronice las actividades de los miembros en HubSpot.
 

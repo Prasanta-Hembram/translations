@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-community-main-title": "Community",
+    "suite-page-organization-community-main-balance-credit": "Баланс кредитів",
+    "suite-page-organization-community-main-balance-unpaid-invoices": "Несплачені інвойси",
+    "suite-page-organization-community-main-error-team-name": "Не вдалося створити команду. Вкажіть назву.",
+    "suite-page-organization-community-main-end": "Завершення",
+    "suite-page-organization-community-main-member-create": "Створити",
+    "suite-page-organization-community-main-member-new": "New",
+    "suite-page-organization-community-main-members-empty": "Учасники відсутні.",
+    "suite-page-organization-community-main-members-invite-individual": "Особисте запрошення",
+    "suite-page-organization-community-main-members-invite-mass": "Групове запрошення",
+    "suite-page-organization-community-main-members-title": "Учасники",
+    "suite-page-organization-community-main-name": "Ім'я",
+    "suite-page-organization-community-main-nothing-found": "Нічого не знайдено.",
+    "suite-page-organization-community-main-plan": "План",
+    "suite-page-organization-community-main-plan-not-started": "Не розпочато",
+    "suite-page-organization-community-main-price": "Ціна",
+    "suite-page-organization-community-main-requests-title": "Заявки",
+    "suite-page-organization-community-main-renews": "Поновлення",
+    "suite-page-organization-community-main-search-placeholder": "Пошук",
+    "suite-page-organization-community-main-team-balances": "{balanceCredits} ∙ Несплачені інвойси {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-team-create": "Створити",
+    "suite-page-organization-community-main-team-unpaid-invoices-balance": "Несплачені інвойси {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-teams-empty": "Немає команд.",
+    "suite-page-organization-community-main-teams-title": "Команди"
+  }
+}

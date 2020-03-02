@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-community-main-title": "Community",
+    "suite-page-organization-community-main-balance-credit": "크레딧 잔액",
+    "suite-page-organization-community-main-balance-unpaid-invoices": "미지급 인보이스",
+    "suite-page-organization-community-main-end": "종료",
+    "suite-page-organization-community-main-error-team-name": "팀을 만들지 못했습니다. 팀 명은 비워 둘 수 없습니다.",
+    "suite-page-organization-community-main-member-create": "회원 추가하기",
+    "suite-page-organization-community-main-member-new": "New",
+    "suite-page-organization-community-main-members-empty": "회원이 없습니다.",
+    "suite-page-organization-community-main-members-invite-individual": "건별초대",
+    "suite-page-organization-community-main-members-invite-mass": "일괄초대",
+    "suite-page-organization-community-main-members-title": "개인",
+    "suite-page-organization-community-main-name": "성함",
+    "suite-page-organization-community-main-nothing-found": "아무것도 없습니다.",
+    "suite-page-organization-community-main-plan": "플랜",
+    "suite-page-organization-community-main-plan-not-started": "시작 예정",
+    "suite-page-organization-community-main-price": "가격",
+    "suite-page-organization-community-main-requests-title": "가입 요청",
+    "suite-page-organization-community-main-renews": "갱신",
+    "suite-page-organization-community-main-search-placeholder": "검색하기",
+    "suite-page-organization-community-main-team-balances": "{balanceCredits} ∙ 미지급 인보이스 {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-team-create": "팀 추가하기",
+    "suite-page-organization-community-main-team-unpaid-invoices-balance": "미지급 인보이스 {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-teams-empty": "팀이 없습니다.",
+    "suite-page-organization-community-main-teams-title": "팀"
+  }
+}

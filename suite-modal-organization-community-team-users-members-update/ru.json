@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-users-members-update-title": "Выбрать участников команды",
+    "suite-modal-organization-community-team-users-members-update-no-users": "Никого добавлять.",
+    "suite-modal-organization-community-team-users-members-update-nothing-found": "Ничего не найдено.",
+    "suite-modal-organization-community-team-users-members-update-search": "Поиск среди {numberOfMembers} участников"
+  }
+}

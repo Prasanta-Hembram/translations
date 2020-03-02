@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-settings-community-title": "Community",
+    "suite-page-organization-settings-community-permission-admin-moderator": "Менеджеры отделения",
+    "suite-page-organization-settings-community-permission-all-members": "Все участники",
+    "suite-page-organization-settings-community-permission-label": "Доступ",
+    "suite-page-organization-settings-community-section-required-personal-information-title": "Обязательная личная инормация",
+    "suite-page-organization-settings-community-section-required-personal-information-description": "Все участники обязаны предоставить персональную информацию."
+  }
+}

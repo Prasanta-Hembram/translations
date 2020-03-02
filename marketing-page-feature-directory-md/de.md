@@ -1,3 +1,5 @@
+rename to community
+
 Upgrade von einer manuellen Mitgliederverwaltung in Tabellenkalkulationen oder komplizierten Anwendungen zu einem einfachen und einfach zu bedienenden Coworking Mitgliederverzeichnis. Sammeln, automatisieren und synchronisieren Sie Mitgliederdaten in allen Ihren Anwendungen. Organisieren Sie Mitglieder in Teams, weisen Sie Mitgliedschaften zu, stellen Sie Rechnungen aus, verstehen Sie, wie ihre Mitglieder den Coworking Space mit Buchungs- und Saldenhistorie nutzen.
 
 - Laden Sie Mitglieder mit nur einer E-Mail ein.

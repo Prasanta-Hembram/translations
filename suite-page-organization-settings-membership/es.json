@@ -6,7 +6,7 @@
     "suite-page-organization-settings-membership-permission-label": "Visibilidad",
     "suite-page-organization-settings-membership-team-information-permission-admin": "Sólo Admin",
     "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Gerentes de sucursal y gerentes de equipo",
-    "suite-page-organization-settings-membership-team-information-permission-desc": "Cada equipo en el Directorio tiene un campo de información comercial para indicar su nombre legal, dirección y número de registro comercial. Aparece en las facturas.",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "Cada equipo en el Community tiene un campo de información comercial para indicar su nombre legal, dirección y número de registro comercial. Aparece en las facturas.",
     "suite-page-organization-settings-membership-team-information-permission-label": "Editar info del equipo"
   }
 }

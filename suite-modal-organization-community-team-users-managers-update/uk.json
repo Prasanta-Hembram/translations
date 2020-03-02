@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-users-managers-update-title": "Обрати менеджерів команди",
+    "suite-modal-organization-community-team-users-managers-update-no-users": "Нікого додавати.",
+    "suite-modal-organization-community-team-users-managers-update-nothing-found": "Нічого не знайдено.",
+    "suite-modal-organization-community-team-users-managers-update-search": "Пошук серед {numberOfMembers} учасників"
+  }
+}

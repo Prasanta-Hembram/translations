@@ -1,4 +1,4 @@
-Synchronize member information from Directory to an audience on Mailchimp. Use the full power of Mailchimp platform to:
+Synchronize member information from Community to an audience on Mailchimp. Use the full power of Mailchimp platform to:
 
 - Send automated welcome email to new members.
 - Email monthly newsletters to all members at once.

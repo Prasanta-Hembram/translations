@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-page-organization-community-team-main-action-delete": "Delete",
+    "suite-page-organization-community-team-main-action-delete-with-members": "Delete with members",
+    "suite-page-organization-community-team-main-button-balance-history": "Balance History",
+    "suite-page-organization-community-team-main-button-credits": "Credits",
+    "suite-page-organization-community-team-main-button-invoices": "Invoices",
+    "suite-page-organization-community-team-main-button-settings": "Settings",
+    "suite-page-organization-community-team-main-delete-failure": "Failed to delete team.",
+    "suite-page-organization-community-team-main-delete-repeat": "Retry deleting",
+    "suite-page-organization-community-team-main-no-managers-in-team": "This team doesn't have team managers yet.",
+    "suite-page-organization-community-team-main-no-members-in-team": "This team doesn't have members yet.",
+    "suite-page-organization-community-team-main-not-found-error": "This team may not exist or may have been removed.",
+    "suite-page-organization-community-team-main-section-team-managers": "Team Managers",
+    "suite-page-organization-community-team-main-section-team-members": "Team Members",
+    "suite-page-organization-community-team-main-section-membership-title": "Membership",
+    "suite-page-organization-community-team-main-select-team-managers-title": "Select Team Managers",
+    "suite-page-organization-community-team-main-select-team-members-title": "Select Team Members"
+  }
+}

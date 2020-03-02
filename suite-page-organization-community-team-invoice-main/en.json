@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-community-team-invoice-main-title": "Invoice",
+    "suite-page-organization-community-team-invoice-main-download-pdf": "Download PDF",
+    "suite-page-organization-community-team-invoice-main-excluded-items": "Excluded Items",
+    "suite-page-organization-community-team-invoice-main-finalize": "Finalize",
+    "suite-page-organization-community-team-invoice-main-money-transaction-payment-type": "Payment Method",
+    "suite-page-organization-community-team-invoice-main-money-transaction-status": "Status",
+    "suite-page-organization-community-team-invoice-main-no-transactions": "There are no items.",
+    "suite-page-organization-community-team-invoice-main-not-found": "The invoice is missing or has been deleted."
+  }
+}

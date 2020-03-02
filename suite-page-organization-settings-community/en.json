@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-settings-community-title": "Community",
+    "suite-page-organization-settings-community-permission-admin-moderator": "Branch Managers",
+    "suite-page-organization-settings-community-permission-all-members": "All Members",
+    "suite-page-organization-settings-community-permission-label": "Visibility",
+    "suite-page-organization-settings-community-section-required-personal-information-title": "Required Personal Information",
+    "suite-page-organization-settings-community-section-required-personal-information-description": "Require all members to share the personal information."
+  }
+}
