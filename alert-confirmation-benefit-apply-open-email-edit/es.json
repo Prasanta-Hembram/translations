@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-benefit-apply-open-email-edit-title": "Email is not connected",
+    "alert-confirmation-benefit-apply-open-email-edit-no": "Cancel",
+    "alert-confirmation-benefit-apply-open-email-edit-text": "Email is not connected to your account. Please open email settings and connect email to the account to apply for benefit.",
+    "alert-confirmation-benefit-apply-open-email-edit-yes": "Open Email Settings"
+  }
+}
