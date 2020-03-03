@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-benefit-category-details-title": "Benefit Category",
-    "suite-page-organization-benefit-category-details-empty": "This benefit category may not exist or may have been removed.",
-    "suite-page-organization-benefit-category-details-delete-button": "Delete",
-    "suite-page-organization-benefit-category-details-delete-repeat": "Try again",
-    "suite-page-organization-benefit-category-details-delete-fetch-failure": "Couldn't show benefit category. Are you sure there is an internet connection?",
+    "suite-page-organization-benefit-category-details-title": "Категория сервисов",
+    "suite-page-organization-benefit-category-details-empty": "Эта категория сервисов не существует или была удалена.",
+    "suite-page-organization-benefit-category-details-delete-button": "Удалить",
+    "suite-page-organization-benefit-category-details-delete-repeat": "Попробовать снова",
+    "suite-page-organization-benefit-category-details-delete-fetch-failure": "Невозможно отобразить категорию сервисов. Проверьте интернет-соединение.",
     "suite-page-organization-benefit-category-details-name": "Название"
   }
 }
