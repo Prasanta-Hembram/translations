@@ -5,6 +5,6 @@
     "suite-page-organization-benefit-category-details-delete-button": "삭제하기",
     "suite-page-organization-benefit-category-details-delete-repeat": "다시시도",
     "suite-page-organization-benefit-category-details-delete-fetch-failure": "베네핏 카테고리을 볼 수 없습니다. 인터넷 연결을 확인 후 다시 시도해주세요.",
-    "suite-page-organization-benefit-category-details-name": "카테고리 명"
+    "suite-page-organization-benefit-category-details-name": "제목"
   }
 }
