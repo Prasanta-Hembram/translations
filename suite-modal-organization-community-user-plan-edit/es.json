@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-user-plan-edit-title": "Editar Plan",
+    "suite-modal-organization-community-user-plan-edit-credits": "Créditos, {pointEmoji}",
+    "suite-modal-organization-community-user-plan-edit-credits-desc": "El cambio se aplicará en la próxima fecha de renovación.",
+    "suite-modal-organization-community-user-plan-edit-error-amount": "Escriba un monto de crédito válido.",
+    "suite-modal-organization-community-user-plan-edit-period-from-title": "Inicio",
+    "suite-modal-organization-community-user-plan-edit-period-title": "Periodo",
+    "suite-modal-organization-community-user-plan-edit-period-until-title": "Final",
+    "suite-modal-organization-community-user-plan-edit-plan-title": "Nombre",
+    "suite-modal-organization-community-user-plan-edit-repeat": "Repetir"
+  }
+}

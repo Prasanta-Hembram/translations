@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-community-user-printer-account-link-title": "프린터 계정 연결",
+    "suite-modal-organization-community-user-printer-account-link-no-none": "선택 않음",
+    "suite-modal-organization-community-user-printer-account-link-no-users": "아무것도 없습니다.",
+    "suite-modal-organization-community-user-printer-account-link-nothing-found": "아무것도 없습니다.",
+    "suite-modal-organization-community-user-printer-account-link-search": "{numberOfUsers}개 계정 중 검색하기"
+  }
+}

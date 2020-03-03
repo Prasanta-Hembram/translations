@@ -1,8 +1,0 @@
-{
-  "data": {
-    "suite-modal-organization-directory-team-users-managers-update-title": "Выбрать менеджеров команды",
-    "suite-modal-organization-directory-team-users-managers-update-no-users": "Никого добавлять.",
-    "suite-modal-organization-directory-team-users-managers-update-nothing-found": "Ничего не найдено.",
-    "suite-modal-organization-directory-team-users-managers-update-search": "Поиск среди {numberOfMembers} участников"
-  }
-}

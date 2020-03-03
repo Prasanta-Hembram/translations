@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-community-user-settings-title": "Профиль",
+    "suite-page-organization-community-user-settings-error-user-not-found": "Участника не существует или же он был удален.",
+    "suite-page-organization-community-user-settings-role": "Роль",
+    "suite-page-organization-community-user-settings-role-admin": "Менеджер отделения",
+    "suite-page-organization-community-user-settings-role-guest": "Гость",
+    "suite-page-organization-community-user-settings-role-info-admin": "Менеджер отделения может настраивать и управлять всем в коворкинге.",
+    "suite-page-organization-community-user-settings-role-info-guest": "Гость может просматривать контент в коворкинге.",
+    "suite-page-organization-community-user-settings-role-info-member": "Участник может просматривать контент в коворкинге.",
+    "suite-page-organization-community-user-settings-role-member": "Участник"
+  }
+}

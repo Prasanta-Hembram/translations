@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-plan-assign-title": "Призначити план",
+    "suite-modal-organization-community-team-plan-assign-amount": "Кредити, {pointEmoji}",
+    "suite-modal-organization-community-team-plan-assign-button-assign": "Призначити",
+    "suite-modal-organization-community-team-plan-assign-error-amount": "Уведіть суму в кредитах.",
+    "suite-modal-organization-community-team-plan-assign-name": "Назва",
+    "suite-modal-organization-community-team-plan-assign-name-placeholder": "Увести назву",
+    "suite-modal-organization-community-team-plan-assign-period-from": "Початок",
+    "suite-modal-organization-community-team-plan-assign-period-title": "Період",
+    "suite-modal-organization-community-team-plan-assign-plan-repeat": "Поновлення"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-community-main-title": "Comunidad",
+    "suite-page-organization-community-main-balance-credit": "Balance de crédito",
+    "suite-page-organization-community-main-balance-unpaid-invoices": "Facturas impagadas",
+    "suite-page-organization-community-main-end": "Finalización",
+    "suite-page-organization-community-main-error-team-name": "Falló en crear un equipo. El nombre no puede estar vacío.",
+    "suite-page-organization-community-main-member-create": "Crear",
+    "suite-page-organization-community-main-member-new": "Nuevo",
+    "suite-page-organization-community-main-members-empty": "No hay miembros.",
+    "suite-page-organization-community-main-members-invite-individual": "Invitación individual",
+    "suite-page-organization-community-main-members-invite-mass": "Invitación en masa",
+    "suite-page-organization-community-main-members-title": "Miembros",
+    "suite-page-organization-community-main-name": "Nombre",
+    "suite-page-organization-community-main-nothing-found": "Nada Encontrado.",
+    "suite-page-organization-community-main-plan": "Plan",
+    "suite-page-organization-community-main-plan-not-started": "No empezado",
+    "suite-page-organization-community-main-price": "Precio",
+    "suite-page-organization-community-main-requests-title": "Solicitudes",
+    "suite-page-organization-community-main-renews": "Renuevas",
+    "suite-page-organization-community-main-search-placeholder": "Buscar",
+    "suite-page-organization-community-main-team-balances": "{balanceCredits} ∙ Facturas impagadas {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-team-create": "Crear",
+    "suite-page-organization-community-main-team-unpaid-invoices-balance": "Facturas impagadas {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-teams-empty": "No hay equipos.",
+    "suite-page-organization-community-main-teams-title": "Equipos"
+  }
+}

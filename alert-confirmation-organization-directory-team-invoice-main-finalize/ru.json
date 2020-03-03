@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-no": "Отменить",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-yes": "Завершить",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-text": "Вы уверены, что хотите завершить инвойс? Это действие необратимо.",
-    "alert-confirmation-organization-directory-team-invoice-main-finalize-title": "Завершить инвойс"
-  }
-}

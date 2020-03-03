@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-user-credits-title": "Credits",
+    "suite-page-organization-community-user-credits-button-charge-title": "Belasten",
+    "suite-page-organization-community-user-credits-button-give-title": "Geben",
+    "suite-page-organization-community-user-credits-error-credits-invalid": "Geben Sie einen gültigen Guthabenbetrag ein.",
+    "suite-page-organization-community-user-credits-error-credit-system-off": "Das Credit-System des Workspace ist deaktiviert.",
+    "suite-page-organization-community-user-credits-error-user-not-found": "Dieser Benutzer ist möglicherweise nicht vorhanden oder wurde entfernt.",
+    "suite-page-organization-community-user-credits-expire": "{pointsExpiring} verfallen am {date}.",
+    "suite-page-organization-community-user-credits-expiring-desc": "Auslaufende Credits sind temporär und erlöschen gemeinsam mit dem Creditabo.",
+    "suite-page-organization-community-user-credits-expiring-title": "Auslaufende Credits",
+    "suite-page-organization-community-user-credits-permanent-desc": "Dauerhafte Credits verfallen nie und bleiben verfügbar, bis sie ausgegeben werden.",
+    "suite-page-organization-community-user-credits-permanent-title": "Dauerhafte Credits",
+    "suite-page-organization-community-user-credits-plan-active-button-assign": "Abo zuweisen",
+    "suite-page-organization-community-user-credits-plan-details-deactivate": "Deaktivieren",
+    "suite-page-organization-community-user-credits-plan-title": "Credit Abo",
+    "suite-page-organization-community-user-credits-policy-details": "Rückerstattungsrichtlinie"
+  }
+}

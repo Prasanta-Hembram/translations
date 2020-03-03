@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-community-team-create-no": "Cancel",
+    "alert-confirmation-organization-community-team-create-yes": "Create",
+    "alert-confirmation-organization-community-team-create-message": "Enter a name for new team",
+    "alert-confirmation-organization-community-team-create-title": "New Team"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-organization-community-team-settings-title": "Editar equipo",
+    "suite-page-organization-community-team-settings-billing-address-title": "Información de negocio",
+    "suite-page-organization-community-team-settings-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
+    "suite-page-organization-community-team-settings-billing-address-placeholder": "Escribe una información",
+    "suite-page-organization-community-team-settings-book-by-invoice-permission": "Acceso a la factura del equipo.",
+    "suite-page-organization-community-team-settings-error-title": "Añade el título del equipo.",
+    "suite-page-organization-community-team-settings-invoice-locale": "Idioma de la factura",
+    "suite-page-organization-community-team-settings-name": "Nombre",
+    "suite-page-organization-community-team-settings-name-placeholder": "Ingresa tu nombre",
+    "suite-page-organization-community-team-settings-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-community-team-settings-section-team-actions": "Acciones de equipo",
+    "suite-page-organization-community-team-settings-team-invoice": "Factura de equipo",
+    "suite-page-organization-community-team-settings-team-invoice-description": "Cuando está activado, el método de pago de las facturas de equipo está disponible para el equipo."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-team-credits-title": "Créditos",
+    "suite-page-organization-community-team-credits-button-charge-title": "Cobrar",
+    "suite-page-organization-community-team-credits-button-give-title": "Dar",
+    "suite-page-organization-community-team-credits-error-credits-invalid": "Escriba un monto de crédito válido.",
+    "suite-page-organization-community-team-credits-error-credit-system-off": "El sistema de crédito del área de trabajo está deshabilitado.",
+    "suite-page-organization-community-team-credits-error-team-not-found": "Este grupo puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-community-team-credits-expire": "{pointsExpiring} expira el {date}.",
+    "suite-page-organization-community-team-credits-expiring-desc": "Los créditos que expiran son temporales y expiran junto con el plan de crédito.",
+    "suite-page-organization-community-team-credits-expiring-title": "Créditos que expiran",
+    "suite-page-organization-community-team-credits-permanent-desc": "Los créditos permanentes nunca expiran y permanecen disponibles hasta que se agotan.",
+    "suite-page-organization-community-team-credits-permanent-title": "Créditos permanentes",
+    "suite-page-organization-community-team-credits-plan-active-button-assign": "Asignar plan",
+    "suite-page-organization-community-team-credits-plan-details-deactivate": "Desactivar",
+    "suite-page-organization-community-team-credits-plan-title": "Plan de créditos",
+    "suite-page-organization-community-team-credits-policy-details": "Política de reembolso"
+  }
+}

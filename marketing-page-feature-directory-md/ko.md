@@ -3,7 +3,7 @@
 - 이메일로 회원 초대.
 - 간단한 테이블로 모든 회원 계정 한눈에 열람.
 - 모든 회원의 정보를 한 곳에 통합 및 추적: 플랜, 결제, 인보이스, 예약 내역.
-- 수동으로 복사할 필요 없이 Mailchimp, Intercom, CRMs, 출입 관리 시스템에 회원 데이터를 자동으로 동기화.
+- 수동으로 복사할 필요 없이 Mailchimp, Intercom, CRM, 출입 관리 시스템에 회원 데이터를 자동으로 동기화.
 - 그 어느 때보다 빠르고 쉽게 코워킹 회원 및 팀 구성.
 - 액세스 권한 관리: 손님, 회원, 지점 매니저 지정.
 - 대량 초대 기능으로 모든 회원을 단 몇 분 안에 초대.
@@ -11,6 +11,6 @@
 
 ---
 
-![andcards 코워킹 소프트웨어의 회원 디렉토리](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 회원 커뮤니티](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
 
 ![andcards 코워킹 소프트웨어의 회원 프로파일](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
