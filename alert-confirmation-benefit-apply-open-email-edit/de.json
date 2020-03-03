@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-benefit-apply-open-email-edit-title": "E-Mail ist nicht verbunden",
+    "alert-confirmation-benefit-apply-open-email-edit-title": "Keine Email",
     "alert-confirmation-benefit-apply-open-email-edit-no": "Abbrechen",
-    "alert-confirmation-benefit-apply-open-email-edit-text": "E-Mail ist nicht mit Ihrem Konto verbunden. Bitte öffnen Sie die E-Mail-Einstellungen und verbinden Sie die E-Mail mit dem Konto, um die Vorteile zu beantragen.",
-    "alert-confirmation-benefit-apply-open-email-edit-yes": "E-Mail-Einstellungen"
+    "alert-confirmation-benefit-apply-open-email-edit-text": "Ihre E-Mail ist nicht mit dem Konto verbunden. Verbinden Sie die E-Mail in den Profileinstellungen, um die Vorteile zu beantragen.",
+    "alert-confirmation-benefit-apply-open-email-edit-yes": "Email hinzufügen"
   }
 }
