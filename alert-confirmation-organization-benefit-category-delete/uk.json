@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-benefit-category-delete-title": "Delete Benefit Category",
+    "alert-confirmation-organization-benefit-category-delete-title": "Видалити категорію сервісів",
     "alert-confirmation-organization-benefit-category-delete-no": "Скасувати",
-    "alert-confirmation-organization-benefit-category-delete-text": "Are you sure you want to delete category with its benefits? This action is irreversible.",
+    "alert-confirmation-organization-benefit-category-delete-text": "Ви впевнені, що хочете видалити категорію разом з усіма сервісами, що вона містить? Ця дія є невідворотньою.",
     "alert-confirmation-organization-benefit-category-delete-yes": "Видалити"
   }
 }
