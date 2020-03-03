@@ -3,6 +3,6 @@
     "alert-confirmation-benefit-apply-open-email-edit-title": "No hay email",
     "alert-confirmation-benefit-apply-open-email-edit-no": "Cancelar",
     "alert-confirmation-benefit-apply-open-email-edit-text": "Su correo electrónico no está conectado a la cuenta. Conecta el correo electrónico en la configuración del perfil para solicitar el beneficio.",
-    "alert-confirmation-benefit-apply-open-email-edit-yes": "Añadir Email"
+    "alert-confirmation-benefit-apply-open-email-edit-yes": "Conectar Email"
   }
 }
