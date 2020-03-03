@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-benefit-category-edit-title": "New Benefit Category",
+    "suite-page-organization-benefit-category-edit-error-no-benefit-category": "Couldn't show the benefit category. Are you sure there is an internet connection?",
+    "suite-page-organization-benefit-category-edit-error-title": "Geben Sie einen Titel ein.",
+    "suite-page-organization-benefit-category-edit-image-delete": "Bild löschen",
+    "suite-page-organization-benefit-category-edit-title-label": "Titel",
+    "suite-page-organization-benefit-category-edit-title-placeholder": "Titel eingeben"
+  }
+}

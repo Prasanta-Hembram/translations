@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-benefit-category-edit-title": "New Benefit Category",
+    "suite-page-organization-benefit-category-edit-error-no-benefit-category": "Couldn't show the benefit category. Are you sure there is an internet connection?",
+    "suite-page-organization-benefit-category-edit-error-title": "Уведіть назву.",
+    "suite-page-organization-benefit-category-edit-image-delete": "Видалити зображення",
+    "suite-page-organization-benefit-category-edit-title-label": "Назва",
+    "suite-page-organization-benefit-category-edit-title-placeholder": "Увести назву"
+  }
+}
