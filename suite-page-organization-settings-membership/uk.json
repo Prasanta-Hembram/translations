@@ -6,7 +6,7 @@
     "suite-page-organization-settings-membership-permission-label": "Доступ",
     "suite-page-organization-settings-membership-team-information-permission-admin": "Лише менеджер відділення",
     "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Менеджери відділення та менеджери команди",
-    "suite-page-organization-settings-membership-team-information-permission-desc": "У кожної команди в Community є поле, в якому необхідно вказати офіційну назву, адресу та номер реєстрації. Ці дані будуть вказані в інвойсах.",
+    "suite-page-organization-settings-membership-team-information-permission-desc": "У кожної команди спільноти є поле, в якому необхідно вказати офіційну назву, адресу та номер реєстрації. Ці дані будуть вказані в інвойсах.",
     "suite-page-organization-settings-membership-team-information-permission-label": "Редагування інформації про команду"
   }
 }
