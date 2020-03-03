@@ -3,6 +3,7 @@
     "suite-page-organization-benefit-category-details-empty": "This benefit category may not exist or may have been removed.",
     "suite-page-organization-benefit-category-details-delete-button": "Delete",
     "suite-page-organization-benefit-category-details-delete-repeat": "Try again",
-    "suite-page-organization-benefit-category-details-delete-fetch-failure": "Couldn't show benefit category. Are you sure there is an internet connection?"
+    "suite-page-organization-benefit-category-details-delete-fetch-failure": "Couldn't show benefit category. Are you sure there is an internet connection?",
+    "suite-page-organization-benefit-category-details-name": "Nombre"
   }
 }
