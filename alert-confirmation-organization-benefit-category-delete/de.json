@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-benefit-category-delete-title": "Delete Benefit Category",
+    "alert-confirmation-organization-benefit-category-delete-title": "Vorteilskategorie löschen",
     "alert-confirmation-organization-benefit-category-delete-no": "Abbrechen",
-    "alert-confirmation-organization-benefit-category-delete-text": "Are you sure you want to delete category with its benefits? This action is irreversible.",
+    "alert-confirmation-organization-benefit-category-delete-text": "Sind Sie sicher, dass Sie die Kategorie mit ihren Vorteilen löschen wollen? Diese Aktion ist irreversibel.",
     "alert-confirmation-organization-benefit-category-delete-yes": "Entfernen"
   }
 }
