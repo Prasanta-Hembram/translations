@@ -1,5 +1,3 @@
-rename to community
-
 Actualiza de una gestión manual de miembros en hojas de cálculo o aplicaciones complicadas a un comunidad de coworking simple y fácil de usar. Recopila, automatiza y sincroniza los datos de los miembros en todas tus aplicaciones. Organiza a los miembros en equipos, asigna planes de crédito, emita facturas, entienda lo bien que los miembros utilizan el espacio de coworking con el historial de reservas y saldos.
 
 - Invita a los miembros con sólo un correo electrónico.
