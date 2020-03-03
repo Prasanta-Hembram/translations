@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-benefit-apply-open-email-edit-title": "Email is not connected",
+    "alert-confirmation-benefit-apply-open-email-edit-title": "Email не під'єднано",
     "alert-confirmation-benefit-apply-open-email-edit-no": "Скасувати",
-    "alert-confirmation-benefit-apply-open-email-edit-text": "Email is not connected to your account. Please open email settings and connect email to the account to apply for benefit.",
-    "alert-confirmation-benefit-apply-open-email-edit-yes": "Open Email Settings"
+    "alert-confirmation-benefit-apply-open-email-edit-text": "Вашу адресу електронної пошти не під'єднано до облікового запису. Під'єднайте електронну пошту в налаштуваннях профілю, щоб подати заявку на сервіс.",
+    "alert-confirmation-benefit-apply-open-email-edit-yes": "Під'єднати email"
   }
 }
