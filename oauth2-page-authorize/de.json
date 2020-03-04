@@ -8,6 +8,6 @@
     "oauth2-page-authorize-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
     "oauth2-page-authorize-client-redirect-not-valid-title": "Redirect uri not valid",
     "oauth2-page-authorize-not-user-button": "Not {userEmail}?",
-    "oauth2-page-authorize-text": "Hi {userName} {clientName} is requesting to do the following: Access your basic information"
+    "oauth2-page-authorize-text": "Hi {userName}, {clientName} is requesting to do the following:\nAccess your basic information"
   }
 }
