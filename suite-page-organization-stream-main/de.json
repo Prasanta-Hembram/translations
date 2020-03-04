@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-stream-main-title": "Stream",
     "suite-page-organization-stream-main-button-activity-create": "Erstellen",
-    "suite-page-organization-stream-main-empty": "The workspace has no any stream post to display.",
+    "suite-page-organization-stream-main-empty": "Es gibt keine Stream-Posts, die angezeigt werden müssen.",
     "suite-page-organization-stream-main-posts-load-more": "Mehr laden"
   }
 }
