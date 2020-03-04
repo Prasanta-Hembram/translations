@@ -1,7 +1,7 @@
 {
   "data": {
     "oauth2-page-authorize-meta-title": "Sign in | andcards",
-    "oauth2-page-authorize-authorize-button": "Authorize",
+    "oauth2-page-authorize-allow-button": "Allow",
     "oauth2-page-authorize-cancel-button": "Cancel",
     "oauth2-page-authorize-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
     "oauth2-page-authorize-client-not-found-title": "OAuth client not found",
