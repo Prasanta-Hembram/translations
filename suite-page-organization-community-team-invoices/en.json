@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-community-team-invoices-title": "Invoices",
+    "suite-page-organization-community-team-invoices-no-invoices": "Turn on invoicing in Settings/Bookings.",
+    "suite-page-organization-community-team-invoices-get-failure": "Couldn't show team invoices. Are you sure there is an internet connection?"
+  }
+}

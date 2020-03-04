@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-team-credits-title": "크레딧",
+    "suite-page-organization-community-team-credits-button-charge-title": "회수",
+    "suite-page-organization-community-team-credits-button-give-title": "추가",
+    "suite-page-organization-community-team-credits-error-credits-invalid": "크레딧 금액을 입력하세요.",
+    "suite-page-organization-community-team-credits-error-credit-system-off": "이 공간은 크레딧 시스템을 사용하지 않습니다.",
+    "suite-page-organization-community-team-credits-error-team-not-found": "팀이 존재하지 않거나 삭제되었을 수 있습니다.",
+    "suite-page-organization-community-team-credits-expire": "{pointsExpiring}은 {date}에 만료됩니다.",
+    "suite-page-organization-community-team-credits-expiring-desc": "만료 크레딧은 일시적이며 크레딧 플랜과 함께 만료됩니다.",
+    "suite-page-organization-community-team-credits-expiring-title": "만료 크레딧",
+    "suite-page-organization-community-team-credits-permanent-desc": "영구 크레딧은 만료되지 않으며 사용 가능한 상태로 유지됩니다.",
+    "suite-page-organization-community-team-credits-permanent-title": "영구 크레딧",
+    "suite-page-organization-community-team-credits-plan-active-button-assign": "플랜 부여하기",
+    "suite-page-organization-community-team-credits-plan-details-deactivate": "해지하기",
+    "suite-page-organization-community-team-credits-plan-title": "크레딧 플랜",
+    "suite-page-organization-community-team-credits-policy-details": "환불 정책"
+  }
+}

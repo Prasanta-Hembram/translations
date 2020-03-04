@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-user-main-button-booking": "Історія резервацій",
+    "suite-page-organization-community-user-main-button-credits": "Кредити",
+    "suite-page-organization-community-user-main-button-delete-user": "Видалити учасника",
+    "suite-page-organization-community-user-main-button-history": "Історія транзакцій",
+    "suite-page-organization-community-user-main-button-plan": "План",
+    "suite-page-organization-community-user-main-button-printed-pages": "Друк",
+    "suite-page-organization-community-user-main-button-profile": "Профіль",
+    "suite-page-organization-community-user-main-button-settings": "Налаштування",
+    "suite-page-organization-community-user-main-error-user-not-found": "Учасник не існує або ж був видалений.",
+    "suite-page-organization-community-user-main-invited-email": "Запрошення надіслано {userEmail}.",
+    "suite-page-organization-community-user-main-leave-repeat": "Спробувати знову",
+    "suite-page-organization-community-user-main-leave-user-failure": "Не вдалося видалити учасника.",
+    "suite-page-organization-community-user-main-remove-invitation": "Видалити учасника",
+    "suite-page-organization-community-user-main-resend-invite": "Відправити запрошення ще раз",
+    "suite-page-organization-community-user-main-section-membership-title": "Участь"
+  }
+}

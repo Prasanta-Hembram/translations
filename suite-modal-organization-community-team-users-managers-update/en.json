@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-users-managers-update-title": "Select Team Managers",
+    "suite-modal-organization-community-team-users-managers-update-no-users": "No one to select.",
+    "suite-modal-organization-community-team-users-managers-update-nothing-found": "Nothing found.",
+    "suite-modal-organization-community-team-users-managers-update-search": "Search {numberOfMembers} members"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-community-user-printer-account-link-title": "Link printer account",
+    "suite-modal-organization-community-user-printer-account-link-no-none": "None",
+    "suite-modal-organization-community-user-printer-account-link-no-users": "No one to add.",
+    "suite-modal-organization-community-user-printer-account-link-nothing-found": "Nothing found.",
+    "suite-modal-organization-community-user-printer-account-link-search": "Search {numberOfUsers} accounts"
+  }
+}

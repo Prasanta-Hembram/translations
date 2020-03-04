@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-user-plan-assign-title": "Abo zuweisen",
+    "suite-modal-organization-community-user-plan-assign-button-assign": "Zuweisen",
+    "suite-modal-organization-community-user-plan-assign-error-amount": "Geben Sie einen gültigen Betrag in Credits ein.",
+    "suite-modal-organization-community-user-plan-assign-name": "Name",
+    "suite-modal-organization-community-user-plan-assign-name-placeholder": "Namen eingeben",
+    "suite-modal-organization-community-user-plan-assign-period-from": "Start",
+    "suite-modal-organization-community-user-plan-assign-period": "Zeitraum",
+    "suite-modal-organization-community-user-plan-assign-amount": "Credits, {pointEmoji}",
+    "suite-modal-organization-community-user-plan-assign-repeat": "Wiederholend"
+  }
+}

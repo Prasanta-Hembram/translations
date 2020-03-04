@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-user-credits-title": "Кредиты",
+    "suite-page-organization-community-user-credits-button-charge-title": "Списать",
+    "suite-page-organization-community-user-credits-button-give-title": "Начислить",
+    "suite-page-organization-community-user-credits-error-credits-invalid": "Введите количество кредитов.",
+    "suite-page-organization-community-user-credits-error-credit-system-off": "Кредитная система в коворкинге отключена.",
+    "suite-page-organization-community-user-credits-error-user-not-found": "Участника не существует или же он был удален.",
+    "suite-page-organization-community-user-credits-expire": "{pointsExpiring} истекают {date}.",
+    "suite-page-organization-community-user-credits-expiring-desc": "Срок действия кредитов является временным и истекает вместе с кредитным планом.",
+    "suite-page-organization-community-user-credits-expiring-title": "Временные кредиты",
+    "suite-page-organization-community-user-credits-permanent-desc": "Постоянные кредиты не имеют срока истечения и действительны до момента их полного использования.",
+    "suite-page-organization-community-user-credits-permanent-title": "Постоянные кредиты",
+    "suite-page-organization-community-user-credits-plan-active-button-assign": "Присвоить план",
+    "suite-page-organization-community-user-credits-plan-details-deactivate": "Отменить",
+    "suite-page-organization-community-user-credits-plan-title": "План кредитов",
+    "suite-page-organization-community-user-credits-policy-details": "Политика возврата"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "suite-page-organization-community-team-main-action-delete": "Видалити",
+    "suite-page-organization-community-team-main-action-delete-with-members": "Видалити з учасниками",
+    "suite-page-organization-community-team-main-button-balance-history": "Історія транзакцій",
+    "suite-page-organization-community-team-main-button-credits": "Кредити",
+    "suite-page-organization-community-team-main-button-invoices": "Інвойси",
+    "suite-page-organization-community-team-main-button-settings": "Налаштування",
+    "suite-page-organization-community-team-main-delete-failure": "Не вдалося видалити команду.",
+    "suite-page-organization-community-team-main-delete-repeat": "Спробувати знову",
+    "suite-page-organization-community-team-main-no-managers-in-team": "У цієї команди ще немає менеджерів.",
+    "suite-page-organization-community-team-main-no-members-in-team": "У цієї команди ще немає учасників.",
+    "suite-page-organization-community-team-main-not-found-error": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-community-team-main-section-team-managers": "Менеджери команди",
+    "suite-page-organization-community-team-main-section-team-members": "Члени команди",
+    "suite-page-organization-community-team-main-section-membership-title": "Участь",
+    "suite-page-organization-community-team-main-select-team-managers-title": "Обрати менеджерів команди",
+    "suite-page-organization-community-team-main-select-team-members-title": "Обрати учасників команди"
+  }
+}

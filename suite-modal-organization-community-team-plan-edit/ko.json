@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-plan-edit-title": "플랜 편집",
+    "suite-modal-organization-community-team-plan-edit-credits": "크레딧, {pointEmoji}",
+    "suite-modal-organization-community-team-plan-edit-credits-desc": "변경 사항은 다음 갱신 날짜에 적용됩니다.",
+    "suite-modal-organization-community-team-plan-edit-error-amount": "크레딧 금액을 입력하세요.",
+    "suite-modal-organization-community-team-plan-edit-period-from-title": "시작",
+    "suite-modal-organization-community-team-plan-edit-period-title": "기간",
+    "suite-modal-organization-community-team-plan-edit-period-until-title": "종료시간",
+    "suite-modal-organization-community-team-plan-edit-plan-title": "제목",
+    "suite-modal-organization-community-team-plan-edit-repeat-label": "정기구독"
+  }
+}

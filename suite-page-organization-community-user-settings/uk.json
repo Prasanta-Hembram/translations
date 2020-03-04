@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-community-user-settings-title": "Профіль",
+    "suite-page-organization-community-user-settings-error-user-not-found": "Учасник не існує або ж був видалений.",
+    "suite-page-organization-community-user-settings-role": "Роль",
+    "suite-page-organization-community-user-settings-role-admin": "Менeджер відділення",
+    "suite-page-organization-community-user-settings-role-guest": "Гість",
+    "suite-page-organization-community-user-settings-role-info-admin": "Менeджер відділення може налаштовувати та керувати всім в коворкінгу.",
+    "suite-page-organization-community-user-settings-role-info-guest": "Гість може переглядати контент в коворкінгу.",
+    "suite-page-organization-community-user-settings-role-info-member": "Учасник може переглядати контент в коворкінгу.",
+    "suite-page-organization-community-user-settings-role-member": "Учасник"
+  }
+}

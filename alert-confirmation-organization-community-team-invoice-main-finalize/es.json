@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-community-team-invoice-main-finalize-no": "Cancelar",
+    "alert-confirmation-organization-community-team-invoice-main-finalize-yes": "Finalizar",
+    "alert-confirmation-organization-community-team-invoice-main-finalize-text": "¿Estás seguro de que quieres finalizar la factura? Esta acción es irreversible.",
+    "alert-confirmation-organization-community-team-invoice-main-finalize-title": "Finalizar factura"
+  }
+}

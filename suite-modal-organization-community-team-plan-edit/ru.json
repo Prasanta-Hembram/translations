@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-plan-edit-title": "Редактировать план",
+    "suite-modal-organization-community-team-plan-edit-credits": "Кредиты, {pointEmoji}",
+    "suite-modal-organization-community-team-plan-edit-credits-desc": "Изменения вступят в силу со следующего обновления плана.",
+    "suite-modal-organization-community-team-plan-edit-error-amount": "Введите количество кредитов.",
+    "suite-modal-organization-community-team-plan-edit-period-from-title": "Начало",
+    "suite-modal-organization-community-team-plan-edit-period-title": "Период",
+    "suite-modal-organization-community-team-plan-edit-period-until-title": "Конец",
+    "suite-modal-organization-community-team-plan-edit-plan-title": "Название",
+    "suite-modal-organization-community-team-plan-edit-repeat-label": "Продление"
+  }
+}
