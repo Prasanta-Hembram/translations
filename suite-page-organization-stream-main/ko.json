@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-stream-main-title": "Stream",
     "suite-page-organization-stream-main-button-activity-create": "게시물 민들기",
-    "suite-page-organization-stream-main-empty": "The workspace has no any stream post to display.",
+    "suite-page-organization-stream-main-empty": "Stream 게시물이 없습니다.",
     "suite-page-organization-stream-main-posts-load-more": "더 로드하기"
   }
 }
