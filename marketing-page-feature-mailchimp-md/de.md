@@ -1,4 +1,4 @@
-Synchronisieren Sie Mitgliederinformationen aus dem Verzeichnis mit Mailchimp. Nutzen Sie die volle Leistungsfähigkeit der Mailchimp-Plattform, um:
+Synchronisieren Sie Mitgliederinformationen aus dem Community mit Mailchimp. Nutzen Sie die volle Leistungsfähigkeit der Mailchimp-Plattform, um:
 
 - Automatisierte Begrüßungs-E-Mails an neue Mitglieder zu senden.
 - Monatliche Newsletter an alle Mitglieder auf einmal zu senden.

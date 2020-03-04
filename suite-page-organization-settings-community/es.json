@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-settings-community-title": "Comunidad",
+    "suite-page-organization-settings-community-permission-admin-moderator": "Gerentes de sucursal",
+    "suite-page-organization-settings-community-permission-all-members": "Todos los miembros",
+    "suite-page-organization-settings-community-permission-label": "Visibilidad",
+    "suite-page-organization-settings-community-section-required-personal-information-title": "Información personal requerida",
+    "suite-page-organization-settings-community-section-required-personal-information-description": "Requiera que todos los miembros compartan la información personal."
+  }
+}

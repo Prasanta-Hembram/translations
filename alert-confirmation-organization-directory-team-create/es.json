@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-directory-team-create-no": "Cancelar",
-    "alert-confirmation-organization-directory-team-create-yes": "Crear",
-    "alert-confirmation-organization-directory-team-create-message": "Ingrese un nombre para el nuevo equipo",
-    "alert-confirmation-organization-directory-team-create-title": "Nuevo equipo"
-  }
-}

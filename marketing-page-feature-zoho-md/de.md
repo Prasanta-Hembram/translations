@@ -1,7 +1,7 @@
 Zoho CRM ist eine Online-Kundenbeziehungsmanagement-Software für die Verwaltung von Vertrieb, Marketing und Support in einem einzigen System. Verbinden Sie Zoho CRM mit:
 
 - Erstellen Sie Zoho CRM-Kontakte, um das CRM auf dem neuesten Stand zu halten.
-- Öffnen Sie den zugehörigen Zoho CRM-Kontakt aus dem Mitgliederprofil im Verzeichnis.
+- Öffnen Sie den zugehörigen Zoho CRM-Kontakt aus dem Mitgliederprofil im Community.
 - Vorschau der Geschäftsinformationen im Mitgliederprofil.
 - Synchronisieren Sie die Aktivitäten der Mitglieder mit Zoho CRM.
 

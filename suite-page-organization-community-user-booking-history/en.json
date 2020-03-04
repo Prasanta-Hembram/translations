@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-community-user-booking-history-default-booking-purpose": "No Title",
+    "suite-page-organization-community-user-booking-history-fetch-failure": "Couldn't show bookings. Are you sure there is an internet connection?",
+    "suite-page-organization-community-user-booking-history-history-title": "Booking History",
+    "suite-page-organization-community-user-booking-history-list-empty": "There are no bookings."
+  }
+}

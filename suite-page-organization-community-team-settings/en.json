@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-organization-community-team-settings-title": "Edit Team",
+    "suite-page-organization-community-team-settings-billing-address-title": "Business Information",
+    "suite-page-organization-community-team-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
+    "suite-page-organization-community-team-settings-billing-address-placeholder": "Type information",
+    "suite-page-organization-community-team-settings-book-by-invoice-permission": "Booking by Team Invoice",
+    "suite-page-organization-community-team-settings-error-title": "Type a team name.",
+    "suite-page-organization-community-team-settings-invoice-locale": "Invoice Language",
+    "suite-page-organization-community-team-settings-name": "Name",
+    "suite-page-organization-community-team-settings-name-placeholder": "Type a name",
+    "suite-page-organization-community-team-settings-not-found-error": "This team may not exist or may have been removed.",
+    "suite-page-organization-community-team-settings-section-team-actions": "Team Actions",
+    "suite-page-organization-community-team-settings-team-invoice": "Team Invoice",
+    "suite-page-organization-community-team-settings-team-invoice-description": "When turned on, team invoice payment method becomes available for the team."
+  }
+}

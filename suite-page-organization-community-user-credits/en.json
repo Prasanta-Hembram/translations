@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-user-credits-title": "Credits",
+    "suite-page-organization-community-user-credits-button-charge-title": "Charge",
+    "suite-page-organization-community-user-credits-button-give-title": "Give",
+    "suite-page-organization-community-user-credits-error-credits-invalid": "Type a valid credit amount.",
+    "suite-page-organization-community-user-credits-error-credit-system-off": "The workspace`s credit system is disabled.",
+    "suite-page-organization-community-user-credits-error-user-not-found": "This user may not exists or may have been removed.",
+    "suite-page-organization-community-user-credits-expire": "{pointsExpiring} expire on {date}.",
+    "suite-page-organization-community-user-credits-expiring-desc": "Expiring credits are temporary and expire together with the credit plan.",
+    "suite-page-organization-community-user-credits-expiring-title": "Expiring credits",
+    "suite-page-organization-community-user-credits-permanent-desc": "Permanent credits never expire and stay available until they're spent.",
+    "suite-page-organization-community-user-credits-permanent-title": "Permanent Credits",
+    "suite-page-organization-community-user-credits-plan-active-button-assign": "Assign Plan",
+    "suite-page-organization-community-user-credits-plan-details-deactivate": "Deactivate",
+    "suite-page-organization-community-user-credits-plan-title": "Credit Plan",
+    "suite-page-organization-community-user-credits-policy-details": "Refund Policy"
+  }
+}

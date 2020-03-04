@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-community-team-invoice-main-title": "Инвойс",
+    "suite-page-organization-community-team-invoice-main-download-pdf": "Скачать PDF",
+    "suite-page-organization-community-team-invoice-main-excluded-items": "Исключенные позиции",
+    "suite-page-organization-community-team-invoice-main-finalize": "Завершить",
+    "suite-page-organization-community-team-invoice-main-money-transaction-payment-type": "Метод оплаты",
+    "suite-page-organization-community-team-invoice-main-money-transaction-status": "Статус",
+    "suite-page-organization-community-team-invoice-main-no-transactions": "Позиции отсутствуют.",
+    "suite-page-organization-community-team-invoice-main-not-found": "Инвойс недоступен или был удален."
+  }
+}
