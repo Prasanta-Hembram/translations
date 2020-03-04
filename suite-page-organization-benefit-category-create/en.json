@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-benefit-category-create-title": "New Benefit Category",
+    "suite-page-organization-benefit-category-create-error-title": "Type a title.",
+    "suite-page-organization-benefit-category-create-image-delete": "Delete Image",
+    "suite-page-organization-benefit-category-create-title-label": "Title",
+    "suite-page-organization-benefit-category-create-title-placeholder": "Type a title"
+  }
+}

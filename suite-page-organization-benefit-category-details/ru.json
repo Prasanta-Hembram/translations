@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-benefit-category-details-title": "Категория сервисов",
+    "suite-page-organization-benefit-category-details-empty": "Эта категория сервисов не существует или была удалена.",
+    "suite-page-organization-benefit-category-details-delete-button": "Удалить",
+    "suite-page-organization-benefit-category-details-delete-repeat": "Попробовать снова",
+    "suite-page-organization-benefit-category-details-delete-fetch-failure": "Невозможно отобразить категорию сервисов. Проверьте интернет-соединение.",
+    "suite-page-organization-benefit-category-details-name": "Название"
+  }
+}

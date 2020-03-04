@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-stream-main-title": "Stream",
     "suite-page-organization-stream-main-button-activity-create": "Створити",
+    "suite-page-organization-stream-main-empty": "У коворкінгу поки що відсутні дописи Stream.",
     "suite-page-organization-stream-main-posts-load-more": "Завантажити більше"
   }
 }
