@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-organization-community-user-settings-title": "Perfil",
+    "suite-page-organization-community-user-settings-error-user-not-found": "Este usuario puede no existir o puede haber sido eliminado.",
+    "suite-page-organization-community-user-settings-role": "Función",
+    "suite-page-organization-community-user-settings-role-admin": "Gerente de sucursal",
+    "suite-page-organization-community-user-settings-role-guest": "Invitado",
+    "suite-page-organization-community-user-settings-role-info-admin": "El gerente de sucursal puede administrar todo el contenido y cambiar la configuración del espacio de trabajo.",
+    "suite-page-organization-community-user-settings-role-info-guest": "El invitado puede ver el contenido y los equipos relevantes en el espacio de trabajo.",
+    "suite-page-organization-community-user-settings-role-info-member": "El miembro puede ver el contenido y los equipos relevantes en el espacio de trabajo.",
+    "suite-page-organization-community-user-settings-role-member": "Miembro"
+  }
+}

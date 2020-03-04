@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-plan-assign-title": "Assign plan",
+    "suite-modal-organization-community-team-plan-assign-amount": "Credits, {pointEmoji}",
+    "suite-modal-organization-community-team-plan-assign-button-assign": "Assign",
+    "suite-modal-organization-community-team-plan-assign-error-amount": "Type a valid amount of credits.",
+    "suite-modal-organization-community-team-plan-assign-name": "Plan Name",
+    "suite-modal-organization-community-team-plan-assign-name-placeholder": "Type a name",
+    "suite-modal-organization-community-team-plan-assign-period-from": "Start",
+    "suite-modal-organization-community-team-plan-assign-period-title": "Period",
+    "suite-modal-organization-community-team-plan-assign-plan-repeat": "Repeat"
+  }
+}

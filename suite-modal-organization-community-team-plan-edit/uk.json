@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-team-plan-edit-title": "Редагувати план",
+    "suite-modal-organization-community-team-plan-edit-credits": "Кредити, {pointEmoji}",
+    "suite-modal-organization-community-team-plan-edit-credits-desc": "Зміна набере чинності з наступного оновлення плану.",
+    "suite-modal-organization-community-team-plan-edit-error-amount": "Уведіть кількість кредитів.",
+    "suite-modal-organization-community-team-plan-edit-period-from-title": "Початок",
+    "suite-modal-organization-community-team-plan-edit-period-title": "Період",
+    "suite-modal-organization-community-team-plan-edit-period-until-title": "Кінець",
+    "suite-modal-organization-community-team-plan-edit-plan-title": "Назва",
+    "suite-modal-organization-community-team-plan-edit-repeat-label": "Поновлення"
+  }
+}

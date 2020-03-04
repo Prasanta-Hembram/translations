@@ -1,0 +1,28 @@
+{
+  "data": {
+    "suite-page-organization-community-main-title": "Сообщество",
+    "suite-page-organization-community-main-balance-credit": "Баланс кредитов",
+    "suite-page-organization-community-main-balance-unpaid-invoices": "Неоплаченные инвойсы",
+    "suite-page-organization-community-main-end": "Окончание",
+    "suite-page-organization-community-main-error-team-name": "Не удалось создать команду. Укажите название.",
+    "suite-page-organization-community-main-member-create": "Создать",
+    "suite-page-organization-community-main-member-new": "New",
+    "suite-page-organization-community-main-members-empty": "Участники отсутствуют.",
+    "suite-page-organization-community-main-members-invite-individual": "Личное приглашение",
+    "suite-page-organization-community-main-members-invite-mass": "Групповое приглашение",
+    "suite-page-organization-community-main-members-title": "Учасники",
+    "suite-page-organization-community-main-name": "Имя",
+    "suite-page-organization-community-main-nothing-found": "Ничего не найдено.",
+    "suite-page-organization-community-main-plan": "План",
+    "suite-page-organization-community-main-plan-not-started": "Не начался",
+    "suite-page-organization-community-main-price": "Цена",
+    "suite-page-organization-community-main-requests-title": "Заявки",
+    "suite-page-organization-community-main-renews": "Продление",
+    "suite-page-organization-community-main-search-placeholder": "Поиск",
+    "suite-page-organization-community-main-team-balances": "{balanceCredits} ∙ Неоплаченные инвойсы {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-team-create": "Создать",
+    "suite-page-organization-community-main-team-unpaid-invoices-balance": "Неоплаченные инвойсы {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-teams-empty": "Команды отсутствуют.",
+    "suite-page-organization-community-main-teams-title": "Команды"
+  }
+}

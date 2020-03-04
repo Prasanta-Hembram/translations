@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-page-organization-community-user-booking-history-default-booking-purpose": "Reservierung",
+    "suite-page-organization-community-user-booking-history-fetch-failure": "Buchungen konnten nicht angezeigt werden. Sind Sie sicher, dass eine Internetverbindung besteht?",
+    "suite-page-organization-community-user-booking-history-history-title": "Buchungshistorie",
+    "suite-page-organization-community-user-booking-history-list-empty": "Es gibt keine Buchungen."
+  }
+}
