@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-benefit-category-edit-title": "Редактировать категорию сервисов",
+    "suite-page-organization-benefit-category-edit-error-no-benefit-category": "Невозможно отобразить категорию сервисов. Проверьте интернет-соединение.",
+    "suite-page-organization-benefit-category-edit-error-title": "Введите название.",
+    "suite-page-organization-benefit-category-edit-image-delete": "Удалить изображение",
+    "suite-page-organization-benefit-category-edit-title-label": "Название",
+    "suite-page-organization-benefit-category-edit-title-placeholder": "Ввести название"
+  }
+}
