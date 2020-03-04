@@ -1,6 +1,6 @@
 {
   "data": {
-    "oauth2-page-login-title": "Login with andcards",
+    "oauth2-page-login-meta-title": "Sign in | andcards",
     "oauth2-page-login-continue-as-button": "Continue as {userName}",
     "oauth2-page-login-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
     "oauth2-page-login-client-not-found-title": "OAuth client not found",
