@@ -7,6 +7,8 @@
     "oauth2-page-authorize-client-not-found-title": "OAuth client not found",
     "oauth2-page-authorize-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
     "oauth2-page-authorize-client-redirect-not-valid-title": "Redirect uri not valid",
-    "oauth2-page-authorize-text": "This will allow {clientName} to:\n- Access your basic information"
+    "oauth2-page-authorize-permissions-title": "This will allow {clientName} to:",
+    "oauth2-page-authorize-permission-read-basic-information": "Access your basic information",
+    "oauth2-page-authorize-title": "{clientName} wants to access your andcards account"
   }
 }
