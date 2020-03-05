@@ -1,8 +1,8 @@
-Kisi is a modern cloud access control system. Kisi integration allows to:
+Kisi is a cloud-based access control system that allows you to:
 
-- Sync members and their membership information with Kisi solution.
-- Serve meeting room availability, allowing to unlock the meeting room door only by the booker.
-- Manage access to all locks within Kisi platform.
+- Sync members and their information with Kisi access levels.
+- Serve meeting room availability, allowing unlocks only by the booker.
+- Manage access to all locks within the Kisi platform.
 - Have 24/7 activity data to understand usage patterns.
 - Remote door unlock with a smartphone.
 
