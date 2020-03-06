@@ -1,14 +1,14 @@
 {
   "data": {
-    "oauth2-page-authorize-meta-title": "Sign in | andcards",
-    "oauth2-page-authorize-allow-button": "Allow",
-    "oauth2-page-authorize-cancel-button": "Cancel",
-    "oauth2-page-authorize-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
-    "oauth2-page-authorize-client-not-found-title": "OAuth client not found",
-    "oauth2-page-authorize-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
-    "oauth2-page-authorize-client-redirect-not-valid-title": "Redirect uri not valid",
-    "oauth2-page-authorize-permissions-title": "This will allow {clientName} to:",
-    "oauth2-page-authorize-permission-read-basic-information": "Access your basic information",
-    "oauth2-page-authorize-title": "{clientName} wants to access your andcards account"
+    "oauth2-page-authorize-meta-title": "로그인 | andcards",
+    "oauth2-page-authorize-allow-button": "허락",
+    "oauth2-page-authorize-cancel-button": "취소",
+    "oauth2-page-authorize-client-not-found-text": "유효한 OAuth2 클라이언트 자격 증명을 통과했는지 확인하세요.",
+    "oauth2-page-authorize-client-not-found-title": "OAuth 클라이언트를 찾을 수 없음",
+    "oauth2-page-authorize-client-redirect-not-valid-text": "올바른 리디렉션 uri를 통과하는지 확인하세요.",
+    "oauth2-page-authorize-client-redirect-not-valid-title": "잘못된 리디렉션 uri",
+    "oauth2-page-authorize-permissions-title": "{clientName}은/는 다음 작업을 수행할 수 있겠습니다 :",
+    "oauth2-page-authorize-permission-read-basic-information": "프로필 정보에 액세스",
+    "oauth2-page-authorize-title": "{clientName}이 andcards 계정에 액세스를 요청합니다."
   }
 }
