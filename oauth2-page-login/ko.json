@@ -1,13 +1,13 @@
 {
   "data": {
-    "oauth2-page-login-meta-title": "Sign in | andcards",
-    "oauth2-page-login-continue-as-button": "Continue as {userName}",
-    "oauth2-page-login-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
-    "oauth2-page-login-client-not-found-title": "OAuth client not found",
-    "oauth2-page-login-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
-    "oauth2-page-login-client-redirect-not-valid-title": "Redirect uri not valid",
-    "oauth2-page-login-sign-in-title": "Sign in",
-    "oauth2-page-login-title": "Choose an account",
-    "oauth2-page-login-use-another-account-button": "Use another account"
+    "oauth2-page-login-meta-title": "로그인 | andcards",
+    "oauth2-page-login-continue-as-button": "{userName}로 계속하기",
+    "oauth2-page-login-client-not-found-text": "유효한 OAuth2 클라이언트 자격 증명을 통과했는지 확인하세요.",
+    "oauth2-page-login-client-not-found-title": "OAuth 클라이언트를 찾을 수 없음",
+    "oauth2-page-login-client-redirect-not-valid-text": "올바른 리디렉션 uri를 통과하는지 확인하세요.",
+    "oauth2-page-login-client-redirect-not-valid-title": "잘못된 리디렉션 uri",
+    "oauth2-page-login-sign-in-title": "로그인",
+    "oauth2-page-login-title": "계정을 선택하세요",
+    "oauth2-page-login-use-another-account-button": "다른 계정을 선택하기"
   }
 }
