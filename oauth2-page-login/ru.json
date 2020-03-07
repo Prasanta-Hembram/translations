@@ -1,13 +1,13 @@
 {
   "data": {
-    "oauth2-page-login-meta-title": "Sign in | andcards",
-    "oauth2-page-login-continue-as-button": "Continue as {userName}",
-    "oauth2-page-login-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
-    "oauth2-page-login-client-not-found-title": "OAuth client not found",
-    "oauth2-page-login-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
-    "oauth2-page-login-client-redirect-not-valid-title": "Redirect uri not valid",
-    "oauth2-page-login-sign-in-title": "Sign in",
-    "oauth2-page-login-title": "Choose an account",
-    "oauth2-page-login-use-another-account-button": "Use another account"
+    "oauth2-page-login-meta-title": "Вход | andcards",
+    "oauth2-page-login-continue-as-button": "Продолжить как {userName}",
+    "oauth2-page-login-client-not-found-text": "Пожалуйста проверьте, передаёте ли вы действительные ключи доступа к клиенту OAuth2.",
+    "oauth2-page-login-client-not-found-title": "OAuth клиент не найден",
+    "oauth2-page-login-client-redirect-not-valid-text": "Пожалуйста проверьте, передаёте ли вы действительный редирект uri.",
+    "oauth2-page-login-client-redirect-not-valid-title": "Редирект uri недействительный",
+    "oauth2-page-login-sign-in-title": "Вход",
+    "oauth2-page-login-title": "Выбор учетной записи",
+    "oauth2-page-login-use-another-account-button": "Другая учетная запись"
   }
 }
