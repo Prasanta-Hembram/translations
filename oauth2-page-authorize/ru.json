@@ -3,7 +3,7 @@
     "oauth2-page-authorize-meta-title": "Вход | andcards",
     "oauth2-page-authorize-allow-button": "Разрешить",
     "oauth2-page-authorize-cancel-button": "Отменить",
-    "oauth2-page-authorize-client-not-found-text": "Пожалуйста проверьте, передаёте ли вы действительные ключи доступа к клиенту OAuth2.",
+    "oauth2-page-authorize-client-not-found-text": "Пожалуйста проверьте, передаёте ли вы действительные параметры доступа к клиенту OAuth2.",
     "oauth2-page-authorize-client-not-found-title": "OAuth клиент не найден",
     "oauth2-page-authorize-client-redirect-not-valid-text": "Пожалуйста проверьте, передаёте ли вы действительный редирект uri.",
     "oauth2-page-authorize-client-redirect-not-valid-title": "Редирект uri недействительный",
