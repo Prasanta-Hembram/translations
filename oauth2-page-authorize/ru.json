@@ -1,14 +1,14 @@
 {
   "data": {
-    "oauth2-page-authorize-meta-title": "Sign in | andcards",
-    "oauth2-page-authorize-allow-button": "Allow",
-    "oauth2-page-authorize-cancel-button": "Cancel",
-    "oauth2-page-authorize-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
-    "oauth2-page-authorize-client-not-found-title": "OAuth client not found",
-    "oauth2-page-authorize-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
-    "oauth2-page-authorize-client-redirect-not-valid-title": "Redirect uri not valid",
-    "oauth2-page-authorize-permissions-title": "This will allow {clientName} to:",
-    "oauth2-page-authorize-permission-read-basic-information": "Access your basic information",
-    "oauth2-page-authorize-title": "{clientName} wants to access your andcards account"
+    "oauth2-page-authorize-meta-title": "Вход | andcards",
+    "oauth2-page-authorize-allow-button": "Разрешить",
+    "oauth2-page-authorize-cancel-button": "Отменить",
+    "oauth2-page-authorize-client-not-found-text": "Пожалуйста проверьте, передаёте ли вы действительные ключи доступа к клиенту OAuth2.",
+    "oauth2-page-authorize-client-not-found-title": "OAuth клиент не найден",
+    "oauth2-page-authorize-client-redirect-not-valid-text": "Пожалуйста проверьте, передаёте ли вы действительный редирект uri.",
+    "oauth2-page-authorize-client-redirect-not-valid-title": "Редирект uri недействительный",
+    "oauth2-page-authorize-permissions-title": "Это позволит {clientName} следующее:",
+    "oauth2-page-authorize-permission-read-basic-information": "Получать информацию вашего профиля",
+    "oauth2-page-authorize-title": "{clientName} хочет получить доступ к вашей учетной записи andcards"
   }
 }
