@@ -1,7 +1,7 @@
 {
   "data": {
-    "marketing-utils-feature-description-benefits": "Organize services to accept member applications",
     "marketing-utils-feature-description-bookings": "Automate meeting room booking, free hour credits and payments",
-    "marketing-utils-feature-description-community": "Consolidate all coworking space customer data"
+    "marketing-utils-feature-description-community": "Consolidate all coworking space customer data",
+    "marketing-utils-feature-description-services": "Organize services to accept member applications"
   }
 }
