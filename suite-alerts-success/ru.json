@@ -5,7 +5,6 @@
     "suite-alerts-refund-booking-credits-for-owner": "{points} успешно возмещено.",
     "suite-alerts-refund-booking-money-for-admin": "Владелец брони получил 100% возврат средств.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успешно возмещено.",
-    "suite-alerts-success-benefit-apply": "Заявка успешно отправлена.",
     "suite-alerts-success-booking-create": "Бронирование успешно совершено.",
     "suite-alerts-success-booking-edit": "Бронирование изменено.",
     "suite-alerts-success-booking-edit-charge": "Бронирование изменено. {priceDifferenceToPay} оплачено.",
@@ -16,6 +15,7 @@
     "suite-alerts-success-organization-invites-send": "Приглашения отправлены.",
     "suite-alerts-success-organization-plan-deactivated": "План успешно деактивирован.",
     "suite-alerts-success-organization-plan-purchased": "Тарифный план успешно куплен.",
+    "suite-alerts-success-service-apply": "Заявка успешно отправлена.",
     "suite-alerts-success-sessions-other-signed-out": "Вы вышли из всех других сессий."
   }
 }

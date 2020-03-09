@@ -1,14 +1,5 @@
 {
   "data": {
-    "benefit-apply-email-application-comment": "Комментарий:\n{comment}",
-    "benefit-apply-email-application-email": "Email: {email}",
-    "benefit-apply-email-application-full-name": "Полное имя: {userFullName}",
-    "benefit-apply-email-application-membership-full": "Участие: {membershipInformation}",
-    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} (команда {teamTitle})",
-    "benefit-apply-email-application-phone-number": "Телефон: {phoneNumber}",
-    "benefit-apply-email-application-title": "Детали заявки",
-    "benefit-apply-email-subject": "Подтверждение заявки на {benefitTitle}",
-    "benefit-apply-email-title": "Ваша заявка на {benefitTitle} принята!",
     "booking-ends-in-five-minutes-notification-body": "Ваше бронирование закончится через 5 минут. Оставьте комнату в чистоте.",
     "booking-start-notification-body": "Ваше бронирование начнется через 5 минут. Проверьте детали.",
     "bulk-invite-failure-email-duplicated": "Email для приглашения в {row} ряду дублируется.",
@@ -59,6 +50,15 @@
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Инвойс ({invoiceDate})",
     "powered-by-andcards": "Сервис от {andcardsUrl}",
+    "service-apply-email-application-comment": "Комментарий:\n{comment}",
+    "service-apply-email-application-email": "Email: {email}",
+    "service-apply-email-application-full-name": "Полное имя: {userFullName}",
+    "service-apply-email-application-membership-full": "Участие: {membershipInformation}",
+    "service-apply-email-application-membership-single-with-team": "{organizationTitle} (команда {teamTitle})",
+    "service-apply-email-application-phone-number": "Телефон: {phoneNumber}",
+    "service-apply-email-application-title": "Детали заявки",
+    "service-apply-email-subject": "Подтверждение заявки на {serviceTitle}",
+    "service-apply-email-title": "Ваша заявка на {serviceTitle} принята!",
     "stream-comment-notification-title": "{userName} комментирует пост",
     "stream-notification-title": "{userName} пишет в {organizationTitle}"
   }

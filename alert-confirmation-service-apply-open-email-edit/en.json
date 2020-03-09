@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-service-apply-open-email-edit-title": "No Email Connected",
+    "alert-confirmation-service-apply-open-email-edit-no": "Cancel",
+    "alert-confirmation-service-apply-open-email-edit-text": "Your email is not connected to the account. Connect email in Profile settings to apply for the service.",
+    "alert-confirmation-service-apply-open-email-edit-yes": "Connect Email"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "data": {
+    "utils-service-allowance-type-once": "Once",
+    "utils-service-allowance-type-unlimited": "Unlimited",
+    "utils-service-application-type-by-email": "Email",
+    "utils-service-application-type-by-link": "Link",
+    "utils-service-application-type-no-application": "No application necessary",
+    "utils-service-permission-type-admin": "Branch Managers",
+    "utils-service-permission-type-all": "All Members and Guests",
+    "utils-service-permission-type-member": "All Members"
+  }
+}

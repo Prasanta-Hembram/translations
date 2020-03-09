@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-service-apply-open-email-edit-title": "No hay email",
+    "alert-confirmation-service-apply-open-email-edit-no": "Cancelar",
+    "alert-confirmation-service-apply-open-email-edit-text": "Su correo electrónico no está conectado a la cuenta. Conecta el correo electrónico en la configuración del perfil para solicitar el beneficio.",
+    "alert-confirmation-service-apply-open-email-edit-yes": "Conectar Email"
+  }
+}

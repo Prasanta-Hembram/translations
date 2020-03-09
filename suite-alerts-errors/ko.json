@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-alerts-errors-auth-code-invalid": "문자로 받으신 인증번호를 입력해주세요.",
-    "suite-alerts-errors-benefit-already-applied": "한 번 이상 신청할 수 없습니다.",
     "suite-alerts-errors-booking-already-started": "이미 시작된 예약을 수정할 수 없습니다.",
     "suite-alerts-errors-booking-booker-invalid": "개인 회의실을 예약할 수 있는 권한이 없습니다.",
     "suite-alerts-errors-booking-conflict": "선택된 시간에 다른 예약이 이미 있습니다.",
@@ -37,6 +36,7 @@
     "suite-alerts-errors-plan-periods-empty": "한 가지 이상의 가격정책 옵션을 선택해주세요.",
     "suite-alerts-errors-price-invalid": "가격이 잘못되었습니다. 모든 필드를 확인하고 다시 시도하세요.",
     "suite-alerts-errors-property-is-missing": "해당 회의실 예약에 실패하였습니다.",
+    "suite-alerts-errors-service-already-applied": "한 번 이상 신청할 수 없습니다.",
     "suite-alerts-errors-sign-in-facebook-error": "기존 계정과 연결되어 있지 않으므로 Facebook으로 로그인할 수 없습니다.",
     "suite-alerts-errors-sign-in-google-error": "기존 계정과 연결되어 있지 않으므로 Google로 로그인할 수 없습니다.",
     "suite-alerts-errors-sns-user-exists": "다른 계정에 의해 로그인 되었습니다.",

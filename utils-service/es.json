@@ -1,0 +1,12 @@
+{
+  "data": {
+    "utils-service-allowance-type-once": "Una vez",
+    "utils-service-allowance-type-unlimited": "Ilimitado",
+    "utils-service-application-type-by-email": "Correo electrónico",
+    "utils-service-application-type-by-link": "Enlace",
+    "utils-service-application-type-no-application": "No se requiere solicitud",
+    "utils-service-permission-type-admin": "Gerentes de sucursal",
+    "utils-service-permission-type-all": "Todos los miembros e invitados",
+    "utils-service-permission-type-member": "Todos los miembros"
+  }
+}

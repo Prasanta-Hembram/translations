@@ -1,14 +1,5 @@
 {
   "data": {
-    "benefit-apply-email-application-comment": "내용:\n{comment}",
-    "benefit-apply-email-application-email": "이메일: {email}",
-    "benefit-apply-email-application-full-name": "성함: {userFullName}",
-    "benefit-apply-email-application-membership-full": "멤버십: {membershipInformation}",
-    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} 팀)",
-    "benefit-apply-email-application-phone-number": "전화번호: {phoneNumber}",
-    "benefit-apply-email-application-title": "베네핏 신청 정보",
-    "benefit-apply-email-subject": "{benefitTitle} 베네핏 신청 완료되었습니다",
-    "benefit-apply-email-title": "{benefitTitle} 베네핏을 신청해주셔서 감사합니다.",
     "booking-ends-in-five-minutes-notification-body": "회의실 예약이 5분 후 종료됩니다. 회의실을 정리하세요.",
     "booking-start-notification-body": "회의실 예약이 5분 후 시작됩니다. 상세 정보를 확인하세요.",
     "bulk-invite-failure-email-duplicated": "{row} 행의 초대 받을 이메일 주소는 중복되었습니다.",
@@ -59,6 +50,15 @@
     "payment-intent-default-description": "결제 {paymentDate}",
     "payment-intent-invoice-description": "청구 내역 ({invoiceDate})",
     "powered-by-andcards": "{andcardsUrl} 제공",
+    "service-apply-email-application-comment": "내용:\n{comment}",
+    "service-apply-email-application-email": "이메일: {email}",
+    "service-apply-email-application-full-name": "성함: {userFullName}",
+    "service-apply-email-application-membership-full": "멤버십: {membershipInformation}",
+    "service-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} 팀)",
+    "service-apply-email-application-phone-number": "전화번호: {phoneNumber}",
+    "service-apply-email-application-title": "베네핏 신청 정보",
+    "service-apply-email-subject": "{serviceTitle} 베네핏 신청 완료되었습니다",
+    "service-apply-email-title": "{serviceTitle} 베네핏을 신청해주셔서 감사합니다.",
     "stream-comment-notification-title": "{userName} 님은 게시물에 댓글을 달았습니다.",
     "stream-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다"
   }

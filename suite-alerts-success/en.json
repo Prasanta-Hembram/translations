@@ -5,7 +5,6 @@
     "suite-alerts-refund-booking-credits-for-owner": "{points} successfully refunded.",
     "suite-alerts-refund-booking-money-for-admin": "Booking owner got 100% refund of money.",
     "suite-alerts-refund-booking-money-for-owner": "{price} successfully refunded.",
-    "suite-alerts-success-benefit-apply": "Application successfully sent.",
     "suite-alerts-success-booking-create": "Booking is made successfully.",
     "suite-alerts-success-booking-edit": "Booking changed.",
     "suite-alerts-success-booking-edit-charge": "Booking changed. {priceDifferenceToPay} charged.",
@@ -16,6 +15,7 @@
     "suite-alerts-success-organization-invites-send": "Invites sent.",
     "suite-alerts-success-organization-plan-deactivated": "Plan is successfully deactivated.",
     "suite-alerts-success-organization-plan-purchased": "Plan is purchased.",
+    "suite-alerts-success-service-apply": "Application successfully sent.",
     "suite-alerts-success-sessions-other-signed-out": "You have been signed out of all other sessions."
   }
 }

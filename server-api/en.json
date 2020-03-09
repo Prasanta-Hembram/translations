@@ -1,14 +1,5 @@
 {
   "data": {
-    "benefit-apply-email-application-comment": "Comment:\n{comment}",
-    "benefit-apply-email-application-email": "Email: {email}",
-    "benefit-apply-email-application-full-name": "Full name: {userFullName}",
-    "benefit-apply-email-application-membership-full": "Membership information: {membershipInformation}",
-    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} team)",
-    "benefit-apply-email-application-phone-number": "Phone number: {phoneNumber}",
-    "benefit-apply-email-application-title": "Service Application Information",
-    "benefit-apply-email-subject": "You've applied for {benefitTitle} service",
-    "benefit-apply-email-title": "Thank you for applying for {benefitTitle} service!",
     "booking-ends-in-five-minutes-notification-body": "Your booking ends in 5 minutes. Please keep the room clean.",
     "booking-start-notification-body": "Your booking starts in 5 minutes. Tap for details.",
     "bulk-invite-failure-email-duplicated": "Email for Invite at row {row} is duplicated.",
@@ -59,6 +50,15 @@
     "payment-intent-default-description": "Payment {paymentDate}",
     "payment-intent-invoice-description": "Invoice ({invoiceDate})",
     "powered-by-andcards": "Powered by {andcardsUrl}",
+    "service-apply-email-application-comment": "Comment:\n{comment}",
+    "service-apply-email-application-email": "Email: {email}",
+    "service-apply-email-application-full-name": "Full name: {userFullName}",
+    "service-apply-email-application-membership-full": "Membership information: {membershipInformation}",
+    "service-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} team)",
+    "service-apply-email-application-phone-number": "Phone number: {phoneNumber}",
+    "service-apply-email-application-title": "Service Application Information",
+    "service-apply-email-subject": "You've applied for {serviceTitle} service",
+    "service-apply-email-title": "Thank you for applying for {serviceTitle} service!",
     "stream-comment-notification-title": "{userName} commented on post",
     "stream-notification-title": "{userName} posted to {organizationTitle}"
   }

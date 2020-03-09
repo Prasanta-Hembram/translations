@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Введите правильный код подтверждения из текстового сообщения.",
-    "suite-alerts-errors-benefit-already-applied": "Нельзя податься больше одного раза.",
     "suite-alerts-errors-booking-booker-invalid": "Владелец не может бронировать в этой комнате.",
     "suite-alerts-errors-booking-already-started": "Невозможно изменить начавшееся бронирование.",
     "suite-alerts-errors-booking-conflict": "Другое бронирование уже существует в выбранное время.",
@@ -37,6 +36,7 @@
     "suite-alerts-errors-plan-periods-empty": "Нужно выбрать хотя бы один период.",
     "suite-alerts-errors-price-invalid": "Цена недействительна. Проверьте все поля и попробуйте еще раз.",
     "suite-alerts-errors-property-is-missing": "Не удалось забронировать эту комнату.",
+    "suite-alerts-errors-service-already-applied": "Нельзя податься больше одного раза.",
     "suite-alerts-errors-sign-in-facebook-error": "Невозможно войти с Facebook, этот профиль не привязан ни к одному аккаунту.",
     "suite-alerts-errors-sign-in-google-error": "Невозможно войти с Google, этот профиль не привязан ни к одному аккаунту.",
     "suite-alerts-errors-sns-user-exists": "Этот метод входа уже используется в другой учетной записи.",

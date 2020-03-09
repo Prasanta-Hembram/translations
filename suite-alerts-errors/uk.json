@@ -1,7 +1,6 @@
 {
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Уведіть правильний код підтвердження з текстового повідомлення.",
-    "suite-alerts-errors-benefit-already-applied": "Не можна подати заявку більше ніж одноразово.",
     "suite-alerts-errors-booking-already-started": "Неможливо змінити резервацію, що вже розпочалася.",
     "suite-alerts-errors-booking-booker-invalid": "Власник не має дозволу бронювати в цій кімнаті.",
     "suite-alerts-errors-booking-conflict": "Інша резервація вже існує у вибраний час.",
@@ -37,6 +36,7 @@
     "suite-alerts-errors-plan-periods-empty": "Потрібно вибрати хоча б один період.",
     "suite-alerts-errors-price-invalid": "Ціну вказано невірно. Перевірте всі поля та спробуйте знов.",
     "suite-alerts-errors-property-is-missing": "Не вдалося забронювати цю кімнату.",
+    "suite-alerts-errors-service-already-applied": "Не можна подати заявку більше ніж одноразово.",
     "suite-alerts-errors-sign-in-facebook-error": "Неможливо ввійти з Facebook, цей профіль не прив'язаний до жодного акаунту.",
     "suite-alerts-errors-sign-in-google-error": "Неможливо ввійти з Google, цей профіль не прив'язаний до жодного акаунту",
     "suite-alerts-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі.",

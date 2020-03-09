@@ -1,0 +1,12 @@
+{
+  "data": {
+    "utils-service-allowance-type-once": "Одноразово",
+    "utils-service-allowance-type-unlimited": "Необмежено",
+    "utils-service-application-type-by-email": "Email",
+    "utils-service-application-type-by-link": "Посилання",
+    "utils-service-application-type-no-application": "Заявка не є необхідною",
+    "utils-service-permission-type-admin": "Менеджери відділення",
+    "utils-service-permission-type-all": "Усі учасники та гості",
+    "utils-service-permission-type-member": "Усі учасники"
+  }
+}
