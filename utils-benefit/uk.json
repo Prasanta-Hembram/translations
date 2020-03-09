@@ -2,7 +2,8 @@
   "data": {
     "utils-benefit-allowance-type-once": "Одноразово",
     "utils-benefit-allowance-type-unlimited": "Необмежено",
-    "utils-benefit-application-type-by-email": "Запит електронною поштою",
+    "utils-benefit-application-type-by-email": "Email",
+    "utils-benefit-application-type-by-link": "Посилання",
     "utils-benefit-application-type-no-application": "Заявка не є необхідною",
     "utils-benefit-permission-type-admin": "Менеджери відділення",
     "utils-benefit-permission-type-all": "Усі учасники та гості",

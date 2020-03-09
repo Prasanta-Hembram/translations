@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Редактировать сервис",
+    "suite-page-organization-benefit-edit-application-link-label": "Ссылка",
+    "suite-page-organization-benefit-edit-application-link-placeholder": "Ввести ссылку",
     "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Кол-во заявок",
     "suite-page-organization-benefit-edit-benefit-application-title": "Заявка",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Тип заявки",
@@ -15,6 +17,7 @@
     "suite-page-organization-benefit-edit-email-manager-placeholder": "Ввести email",
     "suite-page-organization-benefit-edit-email-provider-label": "Email провайдера",
     "suite-page-organization-benefit-edit-email-provider-placeholder": "Ввести email",
+    "suite-page-organization-benefit-edit-error-application-link": "Введите ссылку",
     "suite-page-organization-benefit-edit-error-email-manager": "Введите email менеджера.",
     "suite-page-organization-benefit-edit-error-email-provider": "Введите email провайдера.",
     "suite-page-organization-benefit-edit-get-failure": "Невозможно отобразить сервисы. Проверьте интернет-соединение.",

@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "New Benefit",
+    "suite-page-organization-benefit-create-application-link-label": "Link",
+    "suite-page-organization-benefit-create-application-link-placeholder": "Type a link",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Application Allowance",
     "suite-page-organization-benefit-create-benefit-application-title": "Application",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Application Type",
@@ -15,6 +17,7 @@
     "suite-page-organization-benefit-create-email-manager-placeholder": "Type an email",
     "suite-page-organization-benefit-create-email-provider-label": "Provider email",
     "suite-page-organization-benefit-create-email-provider-placeholder": "Type an email",
+    "suite-page-organization-benefit-create-error-application-link": "Type a link.",
     "suite-page-organization-benefit-create-error-email-manager": "Type a manager email.",
     "suite-page-organization-benefit-create-error-email-provider": "Type a provider email.",
     "suite-page-organization-benefit-create-error-title": "Type a title.",
