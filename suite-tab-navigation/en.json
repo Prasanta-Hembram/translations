@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-tab-navigation-organization-benefits": "Benefits",
     "suite-tab-navigation-organization-booking": "Bookings",
     "suite-tab-navigation-organization-community": "Community",
     "suite-tab-navigation-organization-information": "Information",
     "suite-tab-navigation-organization-membership": "Membership",
+    "suite-tab-navigation-organization-services": "Services",
     "suite-tab-navigation-organization-settings": "Settings",
     "suite-tab-navigation-organization-stream": "Stream"
   }
