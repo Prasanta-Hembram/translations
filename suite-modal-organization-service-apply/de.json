@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-modal-organization-service-apply-title": "Neuer Antrag",
+    "suite-modal-organization-service-apply-button-apply": "Absenden",
+    "suite-modal-organization-service-apply-button-done": "Fertig",
+    "suite-modal-organization-service-apply-description": "Geben Sie zusätzliche Informationen für den Vorteilsantrag an oder stellen Sie Fragen.",
+    "suite-modal-organization-service-apply-error-email": "Geben Sie eine korrekte E-Mail ein.",
+    "suite-modal-organization-service-apply-error-phone-number": "Geben Sie eine Rufnummer ein.",
+    "suite-modal-organization-service-apply-name": "Name",
+    "suite-modal-organization-service-apply-note": "Kommentar",
+    "suite-modal-organization-service-apply-note-placeholder": "Kommentar eingeben",
+    "suite-modal-organization-service-apply-policy-description": "Ihre personenbezogenen Daten werden zur Bearbeitung des Antrags an den Leistungserbringer übermittelt.",
+    "suite-modal-organization-service-apply-success-text": "Der Vorteilsantrag wurde erfolgreich eingereicht. Die Bestätigungs-E-Mail befindet sich auf dem Weg.",
+    "suite-modal-organization-service-apply-success-title": "Hervorragend!"
+  }
+}

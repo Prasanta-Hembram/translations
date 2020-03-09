@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-service-category-create-title": "Нова категорія сервісів",
+    "suite-page-organization-service-category-create-error-title": "Уведіть назву.",
+    "suite-page-organization-service-category-create-image-delete": "Видалити зображення",
+    "suite-page-organization-service-category-create-title-label": "Назва",
+    "suite-page-organization-service-category-create-title-placeholder": "Увести назву"
+  }
+}

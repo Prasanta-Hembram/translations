@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-modal-organization-service-organization-update-title": "Standort auswählen",
+    "suite-modal-organization-service-organization-update-nothing-found": "Nichts gefunden.",
+    "suite-modal-organization-service-organization-update-search": "Suche {numberOfOrganizations} Standorte"
+  }
+}

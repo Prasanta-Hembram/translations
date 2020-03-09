@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-service-category-edit-title": "Редагувати категорію сервісів",
+    "suite-page-organization-service-category-edit-error-no-service-category": "Неможливо відобразити категорію сервісів. Перевірте інтернет-з'єднання.",
+    "suite-page-organization-service-category-edit-error-title": "Уведіть назву.",
+    "suite-page-organization-service-category-edit-image-delete": "Видалити зображення",
+    "suite-page-organization-service-category-edit-title-label": "Назва",
+    "suite-page-organization-service-category-edit-title-placeholder": "Увести назву"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "data": {
+    "suite-page-organization-service-category-details-title": "Service Category",
+    "suite-page-organization-service-category-details-empty": "This service category may not exist or may have been removed.",
+    "suite-page-organization-service-category-details-delete-button": "Delete",
+    "suite-page-organization-service-category-details-delete-repeat": "Try again",
+    "suite-page-organization-service-category-details-delete-fetch-failure": "Couldn't show service category. Check the internet and try again.",
+    "suite-page-organization-service-category-details-name": "Name"
+  }
+}

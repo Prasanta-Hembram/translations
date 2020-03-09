@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-service-category-create-title": "New Service Category",
+    "suite-page-organization-service-category-create-error-title": "Type a title.",
+    "suite-page-organization-service-category-create-image-delete": "Delete Image",
+    "suite-page-organization-service-category-create-title-label": "Title",
+    "suite-page-organization-service-category-create-title-placeholder": "Type a title"
+  }
+}
