@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "Editar beneficio",
+    "suite-page-organization-benefit-edit-application-link-label": "Enlace",
+    "suite-page-organization-benefit-edit-application-link-placeholder": "Ingresar enlace",
     "suite-page-organization-benefit-edit-benefit-allowance-type-label": "Permiso de solicitud",
     "suite-page-organization-benefit-edit-benefit-application-title": "Solicitud",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "Tipo de solicitud",

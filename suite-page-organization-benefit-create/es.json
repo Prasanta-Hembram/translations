@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "Nuevo beneficio",
+    "suite-page-organization-benefit-create-application-link-label": "Enlace",
+    "suite-page-organization-benefit-create-application-link-placeholder": "Ingresar enlace",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Permiso de solicitud",
     "suite-page-organization-benefit-create-benefit-application-title": "Solicitud",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Tipo de solicitud",
@@ -15,6 +17,7 @@
     "suite-page-organization-benefit-create-email-manager-placeholder": "Escribe un correo electrónico de administrador",
     "suite-page-organization-benefit-create-email-provider-label": "Correo electrónico del proveedor",
     "suite-page-organization-benefit-create-email-provider-placeholder": "Escribe un correo electrónico del proveedor",
+    "suite-page-organization-benefit-create-error-application-link": "Type a link.",
     "suite-page-organization-benefit-create-error-email-manager": "Escribe un correo electrónico del administrador.",
     "suite-page-organization-benefit-create-error-email-provider": "Escribe un correo electrónico del proveedor.",
     "suite-page-organization-benefit-create-error-title": "Por favor, introduce un título.",

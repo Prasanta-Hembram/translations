@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-edit-title": "베네핏 편집",
+    "suite-page-organization-benefit-edit-application-link-label": "링크",
+    "suite-page-organization-benefit-edit-application-link-placeholder": "링크를 입력하기",
     "suite-page-organization-benefit-edit-benefit-allowance-type-label": "신청 한도",
     "suite-page-organization-benefit-edit-benefit-application-title": "신청",
     "suite-page-organization-benefit-edit-benefit-application-type-label": "신청 방법",
@@ -15,6 +17,7 @@
     "suite-page-organization-benefit-edit-email-manager-placeholder": "담당자 이메일을 입력하기",
     "suite-page-organization-benefit-edit-email-provider-label": "제공자 이메일",
     "suite-page-organization-benefit-edit-email-provider-placeholder": "제공자 이메일을 입력하기",
+    "suite-page-organization-benefit-edit-error-application-link": "Type a link.",
     "suite-page-organization-benefit-edit-error-email-manager": "담당자 이메일을 입력하세요.",
     "suite-page-organization-benefit-edit-error-email-provider": "제공자 이메일을 입력하세요.",
     "suite-page-organization-benefit-edit-get-failure": "베네핏을 볼 수 없습니다. 인터넷 연결을 확인 후 다시 시도해주세요.",
