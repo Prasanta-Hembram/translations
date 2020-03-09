@@ -1,6 +1,8 @@
 {
   "data": {
-    "suite-page-organization-benefit-create-title": "New Benefit",
+    "suite-page-organization-benefit-create-title": "New Service",
+    "suite-page-organization-benefit-create-application-link-label": "Link",
+    "suite-page-organization-benefit-create-application-link-placeholder": "Type a link",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Application Allowance",
     "suite-page-organization-benefit-create-benefit-application-title": "Application",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Application Type",
@@ -15,11 +17,12 @@
     "suite-page-organization-benefit-create-email-manager-placeholder": "Type an email",
     "suite-page-organization-benefit-create-email-provider-label": "Provider email",
     "suite-page-organization-benefit-create-email-provider-placeholder": "Type an email",
+    "suite-page-organization-benefit-create-error-application-link": "Type a link.",
     "suite-page-organization-benefit-create-error-email-manager": "Type a manager email.",
     "suite-page-organization-benefit-create-error-email-provider": "Type a provider email.",
     "suite-page-organization-benefit-create-error-title": "Type a title.",
     "suite-page-organization-benefit-create-image-delete": "Delete Image",
-    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the benefit.",
+    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the service.",
     "suite-page-organization-benefit-create-is-private-label": "Limited Branches",
     "suite-page-organization-benefit-create-link-provider-label": "Link",
     "suite-page-organization-benefit-create-link-provider-placeholder": "Type a link",

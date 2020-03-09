@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-benefit-create-title": "Создать сервис",
+    "suite-page-organization-benefit-create-application-link-label": "Ссылка",
+    "suite-page-organization-benefit-create-application-link-placeholder": "Ввести ссылку",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Разрешение на подачу заявок",
     "suite-page-organization-benefit-create-benefit-application-title": "Заявка",
     "suite-page-organization-benefit-create-benefit-application-type-label": "Тип заявки",
@@ -15,6 +17,7 @@
     "suite-page-organization-benefit-create-email-manager-placeholder": "Ввести email",
     "suite-page-organization-benefit-create-email-provider-label": "Email провайдера",
     "suite-page-organization-benefit-create-email-provider-placeholder": "Ввести email",
+    "suite-page-organization-benefit-create-error-application-link": "Введите ссылку.",
     "suite-page-organization-benefit-create-error-email-manager": "Введите email менеджера.",
     "suite-page-organization-benefit-create-error-email-provider": "Введите email провайдера.",
     "suite-page-organization-benefit-create-error-title": "Введите название.",

@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-benefit-category-edit-title": "Edit Benefit Category",
-    "suite-page-organization-benefit-category-edit-error-no-benefit-category": "Couldn't show benefit category. Check the internet and try again.",
+    "suite-page-organization-benefit-category-edit-title": "Edit Service Category",
+    "suite-page-organization-benefit-category-edit-error-no-benefit-category": "Couldn't show service category. Check the internet and try again.",
     "suite-page-organization-benefit-category-edit-error-title": "Type a title.",
     "suite-page-organization-benefit-category-edit-image-delete": "Delete Image",
     "suite-page-organization-benefit-category-edit-title-label": "Title",
