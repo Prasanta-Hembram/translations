@@ -1,0 +1,14 @@
+{
+  "data": {
+    "oauth2-page-authorize-meta-title": "Iniciar sesión | andcards",
+    "oauth2-page-authorize-allow-button": "Permitir",
+    "oauth2-page-authorize-cancel-button": "Cancelar",
+    "oauth2-page-authorize-client-not-found-text": "Por favor, comprueba si pasas las credenciales válidas de cliente de OAuth2.",
+    "oauth2-page-authorize-client-not-found-title": "No se ha encontrado al cliente de OAuth",
+    "oauth2-page-authorize-client-redirect-not-valid-text": "Por favor, comprueba si pasas una uri de redireccionamiento válida.",
+    "oauth2-page-authorize-client-redirect-not-valid-title": "Redireccionar uri no es válido",
+    "oauth2-page-authorize-permissions-title": "Esto permitirá a {clientName}:",
+    "oauth2-page-authorize-permission-read-basic-information": "Acceder a la información del perfil",
+    "oauth2-page-authorize-title": "{clientName} quiere acceder a tu cuenta de andcards"
+  }
+}

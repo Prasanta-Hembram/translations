@@ -1,0 +1,14 @@
+{
+  "data": {
+    "oauth2-page-authorize-meta-title": "Anmelden | andcards",
+    "oauth2-page-authorize-allow-button": "Erlauben",
+    "oauth2-page-authorize-cancel-button": "Abbrechen",
+    "oauth2-page-authorize-client-not-found-text": "Bitte prüfen Sie, ob Sie gültige OAuth2-Client-Zugangsdaten besitzen.",
+    "oauth2-page-authorize-client-not-found-title": "OAuth-Client nicht gefunden",
+    "oauth2-page-authorize-client-redirect-not-valid-text": "Bitte prüfen Sie, ob Sie eine gültige Umleitungsuri bestehen.",
+    "oauth2-page-authorize-client-redirect-not-valid-title": "Umleitunguri nicht gültig",
+    "oauth2-page-authorize-permissions-title": "Dies wird {clientName} ermöglichen:",
+    "oauth2-page-authorize-permission-read-basic-information": "Zugang zu Ihren Profilinformationen",
+    "oauth2-page-authorize-title": "{clientName} möchte auf Ihr andcards-Konto zugreifen"
+  }
+}

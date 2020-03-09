@@ -1,0 +1,14 @@
+{
+  "data": {
+    "oauth2-page-authorize-meta-title": "Вхід | andcards",
+    "oauth2-page-authorize-allow-button": "Дозволити",
+    "oauth2-page-authorize-cancel-button": "Скасувати",
+    "oauth2-page-authorize-client-not-found-text": "Будь ласка перевірте, чи передаються дійсні параметри доступу до клієнту OAuth2.",
+    "oauth2-page-authorize-client-not-found-title": "Клієнта OAuth не знайдено",
+    "oauth2-page-authorize-client-redirect-not-valid-text": "Будь ласка перевірте, чи передається дійсний редирект uri.",
+    "oauth2-page-authorize-client-redirect-not-valid-title": "Редирект uri недійсний",
+    "oauth2-page-authorize-permissions-title": "Це дозволить {clientName} наступне:",
+    "oauth2-page-authorize-permission-read-basic-information": "Отримувати інформацію вашого профілю",
+    "oauth2-page-authorize-title": "{clientName} хоче отримати доступ до вашого облікового запису andcards"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "oauth2-page-login-meta-title": "Anmelden | andcards",
+    "oauth2-page-login-continue-as-button": "Weiter als {userName}",
+    "oauth2-page-login-client-not-found-text": "Bitte prüfen Sie, ob Sie gültige OAuth2-Client-Zugangsdaten besitzen",
+    "oauth2-page-login-client-not-found-title": "OAuth-Client nicht gefunden",
+    "oauth2-page-login-client-redirect-not-valid-text": "Bitte prüfen Sie, ob Sie eine gültige Nachsendeuri angeben.",
+    "oauth2-page-login-client-redirect-not-valid-title": "Umleitung von uri nicht gültig",
+    "oauth2-page-login-sign-in-title": "Anmeldung",
+    "oauth2-page-login-title": "Konto auswählen",
+    "oauth2-page-login-use-another-account-button": "Ein weiteres Konto"
+  }
+}

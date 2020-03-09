@@ -1,0 +1,14 @@
+{
+  "data": {
+    "oauth2-page-authorize-meta-title": "Sign in | andcards",
+    "oauth2-page-authorize-allow-button": "Allow",
+    "oauth2-page-authorize-cancel-button": "Cancel",
+    "oauth2-page-authorize-client-not-found-text": "Please check if you pass valid OAuth2 client credentials.",
+    "oauth2-page-authorize-client-not-found-title": "OAuth client not found",
+    "oauth2-page-authorize-client-redirect-not-valid-text": "Please check if you pass valid redirect uri.",
+    "oauth2-page-authorize-client-redirect-not-valid-title": "Redirect uri not valid",
+    "oauth2-page-authorize-permissions-title": "This will allow {clientName} to:",
+    "oauth2-page-authorize-permission-read-basic-information": "Access your profile information",
+    "oauth2-page-authorize-title": "{clientName} wants to access your andcards account"
+  }
+}
