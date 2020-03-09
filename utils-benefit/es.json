@@ -2,8 +2,8 @@
   "data": {
     "utils-benefit-allowance-type-once": "Una vez",
     "utils-benefit-allowance-type-unlimited": "Ilimitado",
-    "utils-benefit-application-type-by-email": "Aplicar por correo electrónico",
-    "utils-benefit-application-type-by-link": "Apply by link",
+    "utils-benefit-application-type-by-email": "Correo electrónico",
+    "utils-benefit-application-type-by-link": "Enlace",
     "utils-benefit-application-type-no-application": "No se requiere solicitud",
     "utils-benefit-permission-type-admin": "Gerentes de sucursal",
     "utils-benefit-permission-type-all": "Todos los miembros e invitados",
