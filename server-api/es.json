@@ -56,9 +56,9 @@
     "service-apply-email-application-membership-full": "Información de membresía: {membershipInformation}",
     "service-apply-email-application-membership-single-with-team": "{organizationTitle} (equipo {teamTitle})",
     "service-apply-email-application-phone-number": "Número de teléfono: {phoneNumber}",
-    "service-apply-email-application-title": "Información sobre la solicitud de services",
-    "service-apply-email-subject": "Has solicitado para el service {serviceTitle}",
-    "service-apply-email-title": "¡Gracias por solicitar el service {serviceTitle}!",
+    "service-apply-email-application-title": "Información sobre la solicitud de servicios",
+    "service-apply-email-subject": "Has solicitado para el servicio {serviceTitle}",
+    "service-apply-email-title": "¡Gracias por solicitar el servicio {serviceTitle}!",
     "stream-comment-notification-title": "{userName} comentó en un post",
     "stream-notification-title": "{userName} publicado en {organizationTitle}"
   }
