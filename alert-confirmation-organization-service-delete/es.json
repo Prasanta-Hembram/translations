@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-service-delete-title": "Eliminar service",
+    "alert-confirmation-organization-service-delete-title": "Eliminar servicio",
     "alert-confirmation-organization-service-delete-no": "Cancelar",
-    "alert-confirmation-organization-service-delete-text": "¿Está seguro de que desea eliminar este service? Esta acción es irreversible.",
+    "alert-confirmation-organization-service-delete-text": "¿Está seguro de que desea eliminar este servicio? Esta acción es irreversible.",
     "alert-confirmation-organization-service-delete-yes": "Eliminar"
   }
 }
