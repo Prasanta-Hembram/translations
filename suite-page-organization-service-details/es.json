@@ -1,12 +1,12 @@
 {
   "data": {
-    "suite-page-organization-service-details-title": "Beneficio",
+    "suite-page-organization-service-details-title": "Servicio",
     "suite-page-organization-service-details-button-apply": "Solicitar",
     "suite-page-organization-service-details-button-applied": "Solicitado",
     "suite-page-organization-service-details-button-delete": "Borrar",
     "suite-page-organization-service-details-button-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-service-details-delete-failure": "Error al eliminar el beneficio.",
-    "suite-page-organization-service-details-get-failure": "No se pudo mostrar beneficio. Revisa tu conexión de internet y vuelve a intentarlo.",
-    "suite-page-organization-service-details-no-service": "No hay beneficios para mostrar."
+    "suite-page-organization-service-details-delete-failure": "Error al eliminar el servicio.",
+    "suite-page-organization-service-details-get-failure": "No se pudo mostrar servicio. Revisa tu conexión de internet y vuelve a intentarlo.",
+    "suite-page-organization-service-details-no-service": "No hay servicios para mostrar."
   }
 }

@@ -3,14 +3,14 @@
     "suite-modal-organization-service-apply-title": "Nuevo solicitud",
     "suite-modal-organization-service-apply-button-apply": "Enviar",
     "suite-modal-organization-service-apply-button-done": "Hecho",
-    "suite-modal-organization-service-apply-description": "Ingrese información adicional para la solicitud de beneficios, o haga cualquier pregunta.",
+    "suite-modal-organization-service-apply-description": "Ingrese información adicional para la solicitud de servicio, o haga cualquier pregunta.",
     "suite-modal-organization-service-apply-error-email": "Por favor, introduzca un correo electrónico correcto.",
     "suite-modal-organization-service-apply-error-phone-number": "Por favor, ingrese un número de teléfono.",
     "suite-modal-organization-service-apply-name": "Nombre",
     "suite-modal-organization-service-apply-note": "Comentario",
     "suite-modal-organization-service-apply-note-placeholder": "Escribe un comentario",
-    "suite-modal-organization-service-apply-policy-description": "Su información personal será enviada al proveedor del beneficio para procesar la solicitud.",
-    "suite-modal-organization-service-apply-success-text": "La solicitud de beneficio se envía con éxito. El correo electrónico de confirmación está en camino.",
+    "suite-modal-organization-service-apply-policy-description": "Su información personal será enviada al proveedor del servicio para procesar la solicitud.",
+    "suite-modal-organization-service-apply-success-text": "La solicitud de servicio se envía con éxito. El correo electrónico de confirmación está en camino.",
     "suite-modal-organization-service-apply-success-title": "¡Buen trabajo!"
   }
 }

@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-service-category-edit-title": "Editar categoría de beneficios",
-    "suite-page-organization-service-category-edit-error-no-service-category": "No se pudo mostrar categoría de beneficios. Revisa tu conexión de internet y vuelve a intentarlo.",
+    "suite-page-organization-service-category-edit-title": "Editar categoría de servicios",
+    "suite-page-organization-service-category-edit-error-no-service-category": "No se pudo mostrar categoría de servicios. Revisa tu conexión de internet y vuelve a intentarlo.",
     "suite-page-organization-service-category-edit-error-title": "Por favor, introduce un título.",
     "suite-page-organization-service-category-edit-image-delete": "Borrar imagen",
     "suite-page-organization-service-category-edit-title-label": "Título",

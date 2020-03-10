@@ -1,12 +1,12 @@
 {
   "data": {
-    "suite-page-organization-service-details-title": "Vorteil",
+    "suite-page-organization-service-details-title": "Dienst",
     "suite-page-organization-service-details-button-apply": "Beantragen",
     "suite-page-organization-service-details-button-applied": "Beantragt",
     "suite-page-organization-service-details-button-delete": "Löschen",
     "suite-page-organization-service-details-button-repeat": "Erneut versuchen",
-    "suite-page-organization-service-details-delete-failure": "Ein Vorteil konnte nicht gelöscht werden.",
-    "suite-page-organization-service-details-get-failure": "Konnte Vorteil nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
-    "suite-page-organization-service-details-no-service": "Es gibt keinen Vorteil zur Darstellung."
+    "suite-page-organization-service-details-delete-failure": "Ein Dienst konnte nicht gelöscht werden.",
+    "suite-page-organization-service-details-get-failure": "Konnte Dienst nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
+    "suite-page-organization-service-details-no-service": "Es gibt keinen Dienst zur Darstellung."
   }
 }
