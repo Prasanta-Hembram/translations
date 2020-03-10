@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-service-category-details-title": "Categoría de services",
-    "suite-page-organization-service-category-details-empty": "Es posible que esta categoría de services no exista o haya sido eliminada.",
+    "suite-page-organization-service-category-details-title": "Categoría de servicios",
+    "suite-page-organization-service-category-details-empty": "Es posible que esta categoría de servicios no exista o haya sido eliminada.",
     "suite-page-organization-service-category-details-delete-button": "Borrar",
     "suite-page-organization-service-category-details-delete-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-service-category-details-delete-fetch-failure": "No se pudo mostrar categoría de services. Revisa tu conexión de internet y vuelve a intentarlo.",
+    "suite-page-organization-service-category-details-delete-fetch-failure": "No se pudo mostrar categoría de servicios. Revisa tu conexión de internet y vuelve a intentarlo.",
     "suite-page-organization-service-category-details-name": "Nombre"
   }
 }
