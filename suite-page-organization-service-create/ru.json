@@ -20,8 +20,6 @@
     "suite-page-organization-service-create-image-delete": "Удалить изображение",
     "suite-page-organization-service-create-is-private-desc": "Доступ к сервису только для некоторых отделений.",
     "suite-page-organization-service-create-is-private-label": "Ограниченные отделения",
-    "suite-page-organization-service-create-link-provider-label": "Ссылка",
-    "suite-page-organization-service-create-link-provider-placeholder": "Ввести ссылку",
     "suite-page-organization-service-create-no-organization": "Отделения не выбраны.",
     "suite-page-organization-service-create-permission-label": "Доступ",
     "suite-page-organization-service-create-permission-title": "Доступ",

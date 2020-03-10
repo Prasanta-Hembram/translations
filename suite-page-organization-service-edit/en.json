@@ -21,8 +21,6 @@
     "suite-page-organization-service-edit-image-delete": "Delete Image",
     "suite-page-organization-service-edit-is-private-desc": "Allow only certain workspaces to access the service.",
     "suite-page-organization-service-edit-is-private-label": "Limited Branches",
-    "suite-page-organization-service-edit-link-provider-label": "Link",
-    "suite-page-organization-service-edit-link-provider-placeholder": "Type a link",
     "suite-page-organization-service-edit-no-organization": "Branches are not selected.",
     "suite-page-organization-service-edit-no-service": "There is no service to display.",
     "suite-page-organization-service-edit-permission-label": "Visibility",
