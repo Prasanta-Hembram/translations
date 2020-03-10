@@ -21,8 +21,6 @@
     "suite-page-organization-service-edit-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Services zugreifen.",
     "suite-page-organization-service-edit-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-service-edit-image-delete": "Bild löschen",
-    "suite-page-organization-service-edit-link-provider-label": "Link",
-    "suite-page-organization-service-edit-link-provider-placeholder": "Link eingeben",
     "suite-page-organization-service-edit-no-organization": "Standorte sind nicht ausgewählt.",
     "suite-page-organization-service-edit-no-service": "Es gibt keinen Service zur Darstellung.",
     "suite-page-organization-service-edit-permission-label": "Sichtbarkeit",

@@ -20,8 +20,6 @@
     "suite-page-organization-service-create-image-delete": "Borrar imagen",
     "suite-page-organization-service-create-is-private-desc": "Permitir que sólo determinados espacios de trabajo accedan a los services",
     "suite-page-organization-service-create-is-private-label": "Sucursales limitadas",
-    "suite-page-organization-service-create-link-provider-label": "Enlace",
-    "suite-page-organization-service-create-link-provider-placeholder": "Ingresar enlace",
     "suite-page-organization-service-create-no-organization": "No se han seleccionado las sucursales.",
     "suite-page-organization-service-create-permission-label": "Visibilidad",
     "suite-page-organization-service-create-permission-title": "Acceso",

@@ -7,7 +7,6 @@
     "suite-page-organization-service-details-button-repeat": "Erneut versuchen",
     "suite-page-organization-service-details-delete-failure": "Ein Service konnte nicht gelöscht werden.",
     "suite-page-organization-service-details-get-failure": "Konnte Service nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
-    "suite-page-organization-service-details-link-provider": "Link",
     "suite-page-organization-service-details-no-service": "Es gibt keinen Service zur Darstellung."
   }
 }

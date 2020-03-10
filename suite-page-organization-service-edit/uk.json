@@ -21,8 +21,6 @@
     "suite-page-organization-service-edit-is-private-desc": "Доступ до сервісу лише для вибраних відділень.",
     "suite-page-organization-service-edit-is-private-label": "Обмежені відділення",
     "suite-page-organization-service-edit-image-delete": "Видалити зображення",
-    "suite-page-organization-service-edit-link-provider-label": "Посилання",
-    "suite-page-organization-service-edit-link-provider-placeholder": "Увести посилання",
     "suite-page-organization-service-edit-no-organization": "Відділення не вибрані.",
     "suite-page-organization-service-edit-no-service": "Немає сервісів для відображення.",
     "suite-page-organization-service-edit-permission-label": "Доступ",

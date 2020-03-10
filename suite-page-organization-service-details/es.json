@@ -7,7 +7,6 @@
     "suite-page-organization-service-details-button-repeat": "Inténtalo de nuevo",
     "suite-page-organization-service-details-delete-failure": "Error al eliminar el service.",
     "suite-page-organization-service-details-get-failure": "No se pudo mostrar service. Revisa tu conexión de internet y vuelve a intentarlo.",
-    "suite-page-organization-service-details-link-provider": "Enlace",
     "suite-page-organization-service-details-no-service": "No hay services para mostrar."
   }
 }

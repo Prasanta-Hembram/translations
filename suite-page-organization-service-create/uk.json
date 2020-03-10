@@ -20,8 +20,6 @@
     "suite-page-organization-service-create-image-delete": "Видалити зображення",
     "suite-page-organization-service-create-is-private-desc": "Доступ до сервісу лише для вибраних відділень.",
     "suite-page-organization-service-create-is-private-label": "Обмежені відділення",
-    "suite-page-organization-service-create-link-provider-label": "Посилання",
-    "suite-page-organization-service-create-link-provider-placeholder": "Увести посилання",
     "suite-page-organization-service-create-no-organization": "Відділення не вибрані.",
     "suite-page-organization-service-create-permission-label": "Доступ",
     "suite-page-organization-service-create-permission-title": "Доступ",
