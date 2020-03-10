@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-service-category-delete-title": "Eliminar la categoría de beneficios",
+    "alert-confirmation-organization-service-category-delete-title": "Eliminar la categoría de services",
     "alert-confirmation-organization-service-category-delete-no": "Cancelar",
-    "alert-confirmation-organization-service-category-delete-text": "¿Está seguro de que quiere eliminar la categoría con todos los beneficios que contiene? Esta acción es irreversible.",
+    "alert-confirmation-organization-service-category-delete-text": "¿Está seguro de que quiere eliminar la categoría con todos los services que contiene? Esta acción es irreversible.",
     "alert-confirmation-organization-service-category-delete-yes": "Eliminar"
   }
 }

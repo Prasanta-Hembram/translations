@@ -56,9 +56,9 @@
     "service-apply-email-application-membership-full": "Mitgliedschaftsinformationen: {membershipInformation}",
     "service-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} Team)",
     "service-apply-email-application-phone-number": "Rufnummer: {phoneNumber}",
-    "service-apply-email-application-title": "Informationen zur Vorteilsbeantragung",
-    "service-apply-email-subject": "Sie haben den Vorteil {serviceTitle} beantragt",
-    "service-apply-email-title": "Vielen Dank für die Beantragung des Vorteils {serviceTitle}!",
+    "service-apply-email-application-title": "Informationen zur Services",
+    "service-apply-email-subject": "Sie haben den Service {serviceTitle} beantragt",
+    "service-apply-email-title": "Vielen Dank für die Beantragung des Services {serviceTitle}!",
     "stream-comment-notification-title": "{userName} kommentierte den Post",
     "stream-notification-title": "{userName} hat in {organizationTitle} geschrieben"
   }

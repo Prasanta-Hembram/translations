@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-service-create-title": "Nuevo beneficio",
+    "suite-page-organization-service-create-title": "Nuevo service",
     "suite-page-organization-service-create-application-link-label": "Enlace",
     "suite-page-organization-service-create-application-link-placeholder": "Ingresar enlace",
     "suite-page-organization-service-create-confirmation-language-title": "Idioma",
@@ -18,7 +18,7 @@
     "suite-page-organization-service-create-error-email-provider": "Escribe un correo electrónico del proveedor.",
     "suite-page-organization-service-create-error-title": "Por favor, introduce un título.",
     "suite-page-organization-service-create-image-delete": "Borrar imagen",
-    "suite-page-organization-service-create-is-private-desc": "Permitir que sólo determinados espacios de trabajo accedan a los beneficios",
+    "suite-page-organization-service-create-is-private-desc": "Permitir que sólo determinados espacios de trabajo accedan a los services",
     "suite-page-organization-service-create-is-private-label": "Sucursales limitadas",
     "suite-page-organization-service-create-link-provider-label": "Enlace",
     "suite-page-organization-service-create-link-provider-placeholder": "Ingresar enlace",

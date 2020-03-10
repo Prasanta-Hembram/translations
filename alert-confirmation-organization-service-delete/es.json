@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-service-delete-title": "Eliminar beneficio",
+    "alert-confirmation-organization-service-delete-title": "Eliminar service",
     "alert-confirmation-organization-service-delete-no": "Cancelar",
-    "alert-confirmation-organization-service-delete-text": "¿Está seguro de que desea eliminar este beneficio? Esta acción es irreversible.",
+    "alert-confirmation-organization-service-delete-text": "¿Está seguro de que desea eliminar este service? Esta acción es irreversible.",
     "alert-confirmation-organization-service-delete-yes": "Eliminar"
   }
 }

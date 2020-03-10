@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-service-category-main-get-failure": "No se pudo mostrar los beneficios. Revisa internet y vuelve a intentarlo.",
-    "suite-page-organization-service-category-main-no-services": "El espacio de trabajo no tiene beneficios para mostrar.",
-    "suite-page-organization-service-category-main-no-services-in-category": "No hay beneficios."
+    "suite-page-organization-service-category-main-get-failure": "No se pudo mostrar los services. Revisa internet y vuelve a intentarlo.",
+    "suite-page-organization-service-category-main-no-services": "El espacio de trabajo no tiene services para mostrar.",
+    "suite-page-organization-service-category-main-no-services-in-category": "No hay services."
   }
 }

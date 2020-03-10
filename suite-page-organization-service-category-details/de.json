@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-page-organization-service-category-details-title": "Vorteilskategorie",
-    "suite-page-organization-service-category-details-empty": "Diese Vorteilskategorie existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-service-category-details-title": "Services",
+    "suite-page-organization-service-category-details-empty": "Diese Services existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-service-category-details-delete-button": "Löschen",
     "suite-page-organization-service-category-details-delete-repeat": "Erneut versuchen",
-    "suite-page-organization-service-category-details-delete-fetch-failure": "Konnte Vorteilskategorie nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
+    "suite-page-organization-service-category-details-delete-fetch-failure": "Konnte Services nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-service-category-details-name": "Name"
   }
 }

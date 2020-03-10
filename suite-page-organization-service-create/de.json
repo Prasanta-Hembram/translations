@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-service-create-title": "Neuer Vorteil",
+    "suite-page-organization-service-create-title": "Neuer Service",
     "suite-page-organization-service-create-application-link-label": "Link",
     "suite-page-organization-service-create-application-link-placeholder": "Link eingeben",
     "suite-page-organization-service-create-confirmation-language-title": "Sprache",
@@ -18,7 +18,7 @@
     "suite-page-organization-service-create-error-email-provider": "Geben Sie eine Anbieter-E-Mail ein.",
     "suite-page-organization-service-create-error-title": "Geben Sie einen Titel ein.",
     "suite-page-organization-service-create-image-delete": "Bild löschen",
-    "suite-page-organization-service-create-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Vorteile zugreifen.",
+    "suite-page-organization-service-create-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Services zugreifen.",
     "suite-page-organization-service-create-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-service-create-link-provider-label": "Link",
     "suite-page-organization-service-create-link-provider-placeholder": "Link eingeben",
