@@ -1,7 +1,6 @@
 {
   "data": {
     "components-subscription-status-bar-over-button": "Подписаться",
-    "components-subscription-status-bar-over-desc-admin": "Тестовый период закончился. Оформите подписку, чтобы возобновить доступ до коворкинга.",
-    "components-subscription-status-bar-over-desc-member": "Тестовый период закончился."
+    "components-subscription-status-bar-over-desc": "You do not have no access to the workspace."
   }
 }
