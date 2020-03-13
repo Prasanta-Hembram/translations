@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "Invite members to your branches",
-    "utils-oauth2-scope-memberships-read": "Read members in your branches",
-    "utils-oauth2-scope-organizations-read": "Read your branches"
+    "utils-oauth2-scope-memberships-invite": "Запрошувати учасників до всіх відділень",
+    "utils-oauth2-scope-memberships-read": "Отримувати інформацію про учасників усіх відділень",
+    "utils-oauth2-scope-organizations-read": "Отримувати інформацію про всі відділення"
   }
 }
