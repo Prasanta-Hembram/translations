@@ -1,6 +1,6 @@
 {
   "data": {
     "components-subscription-status-bar-over-button": "Подписаться",
-    "components-subscription-status-bar-over-desc": "You do not have access to the workspace."
+    "components-subscription-status-bar-over-desc": "Доступ к коворкингу отсутствует."
   }
 }
