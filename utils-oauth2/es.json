@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "Invite members to your branches",
-    "utils-oauth2-scope-memberships-read": "Read members in your branches",
-    "utils-oauth2-scope-organizations-read": "Read your branches"
+    "utils-oauth2-scope-memberships-invite": "Invitar a los miembros a todos los sedes",
+    "utils-oauth2-scope-memberships-read": "Leer los miembros de todos los sedes",
+    "utils-oauth2-scope-organizations-read": "Leer todos los sedes"
   }
 }
