@@ -1,0 +1,7 @@
+{
+  "data": {
+    "utils-oauth2-scope-memberships-invite": "Invite members to all your branches",
+    "utils-oauth2-scope-memberships-read": "Read members in all your branches",
+    "utils-oauth2-scope-organizations-read": "Read information of all your branches"
+  }
+}

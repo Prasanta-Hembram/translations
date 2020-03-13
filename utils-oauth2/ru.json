@@ -1,0 +1,7 @@
+{
+  "data": {
+    "utils-oauth2-scope-memberships-invite": "Приглашать участников во все отделения",
+    "utils-oauth2-scope-memberships-read": "Получать информацию об участниках всех отделений",
+    "utils-oauth2-scope-organizations-read": "Получать информацию об отделениях"
+  }
+}
