@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-details-title": "{propertyName} 정보",
-    "suite-page-organization-bookings-property-details-delete-button": "팀 삭제",
+    "suite-page-organization-bookings-property-details-delete-button": "회의실 삭제",
     "suite-page-organization-bookings-property-details-delete-property-failure": "회의실 삭제 불가.",
     "suite-page-organization-bookings-property-details-delete-property-repeat": "다시 시도",
     "suite-page-organization-bookings-property-details-main-title": "회의실",

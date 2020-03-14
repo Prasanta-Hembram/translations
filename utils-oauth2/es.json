@@ -1,0 +1,7 @@
+{
+  "data": {
+    "utils-oauth2-scope-memberships-invite": "Invitar a los miembros a todas tus sedes",
+    "utils-oauth2-scope-memberships-read": "Ver a los miembros de todas tus sedes",
+    "utils-oauth2-scope-organizations-read": "Ver todas las sedes"
+  }
+}
