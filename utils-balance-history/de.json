@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-utils-balance-history-permission-all-members": "Alle Teammitglieder",
-    "suite-utils-balance-history-permission-info-all-members": "Alle Teammitglieder können die Saldenhistorie einsehen.",
-    "suite-utils-balance-history-permission-info-team-managers": "Nur Teammanager können die Saldenhistorie einsehen.",
-    "suite-utils-balance-history-permission-team-managers": "Nur Teammanager"
+    "utils-balance-history-permission-all-members": "Alle Teammitglieder",
+    "utils-balance-history-permission-info-all-members": "Alle Teammitglieder können die Saldenhistorie einsehen.",
+    "utils-balance-history-permission-info-team-managers": "Nur Teammanager können die Saldenhistorie einsehen.",
+    "utils-balance-history-permission-team-managers": "Nur Teammanager"
   }
 }

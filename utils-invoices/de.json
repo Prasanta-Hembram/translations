@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-utils-invoice-book-by-invoice-permission-all-members": "Alle Teammitglieder",
-    "suite-utils-invoice-book-by-invoice-permission-info-all-members": "Alle Teammitglieder können Räume per Teamrechnung buchen.",
-    "suite-utils-invoice-book-by-invoice-permission-info-team-managers": "Nur Teammanager können Räume per Teamrechnung buchen.",
-    "suite-utils-invoice-book-by-invoice-permission-team-managers": "Nur Teammanager",
-    "suite-utils-invoice-item-type-booking-payment-type": "Gebuchter Raum",
-    "suite-utils-invoice-item-type-booking-payment-type-with-name": "Raum gebucht von {name}",
-    "suite-utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Raum {roomName} gebucht von {name}",
-    "suite-utils-invoice-is-unfinished": "Nicht abgeschlossen {amount}",
-    "suite-utils-invoice-item-type-default": "Sonstiges"
+    "utils-invoice-book-by-invoice-permission-all-members": "Alle Teammitglieder",
+    "utils-invoice-book-by-invoice-permission-info-all-members": "Alle Teammitglieder können Räume per Teamrechnung buchen.",
+    "utils-invoice-book-by-invoice-permission-info-team-managers": "Nur Teammanager können Räume per Teamrechnung buchen.",
+    "utils-invoice-book-by-invoice-permission-team-managers": "Nur Teammanager",
+    "utils-invoice-item-type-booking-payment-type": "Gebuchter Raum",
+    "utils-invoice-item-type-booking-payment-type-with-name": "Raum gebucht von {name}",
+    "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Raum {roomName} gebucht von {name}",
+    "utils-invoice-is-unfinished": "Nicht abgeschlossen {amount}",
+    "utils-invoice-item-type-default": "Sonstiges"
   }
 }

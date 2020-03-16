@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-utils-invoice-book-by-invoice-permission-all-members": "Todos los miembros del equipo",
-    "suite-utils-invoice-book-by-invoice-permission-info-all-members": "Todos los miembros del equipo pueden reservar salas por factura del equipo.",
-    "suite-utils-invoice-book-by-invoice-permission-info-team-managers": "Solo los gerentes del equipo pueden reservar salas por factura del equipo.",
-    "suite-utils-invoice-book-by-invoice-permission-team-managers": "Solo gerentes del equipo",
-    "suite-utils-invoice-item-type-booking-payment-type": "Reserva de sala de reuniones",
-    "suite-utils-invoice-item-type-booking-payment-type-with-name": "Reserva de sala de reuniones a través de {name}",
-    "suite-utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Reserva de sala {roomName} de reuniones a través de {name}",
-    "suite-utils-invoice-is-unfinished": "No finalizado {amount}",
-    "suite-utils-invoice-item-type-default": "Otro"
+    "utils-invoice-book-by-invoice-permission-all-members": "Todos los miembros del equipo",
+    "utils-invoice-book-by-invoice-permission-info-all-members": "Todos los miembros del equipo pueden reservar salas por factura del equipo.",
+    "utils-invoice-book-by-invoice-permission-info-team-managers": "Solo los gerentes del equipo pueden reservar salas por factura del equipo.",
+    "utils-invoice-book-by-invoice-permission-team-managers": "Solo gerentes del equipo",
+    "utils-invoice-item-type-booking-payment-type": "Reserva de sala de reuniones",
+    "utils-invoice-item-type-booking-payment-type-with-name": "Reserva de sala de reuniones a través de {name}",
+    "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Reserva de sala {roomName} de reuniones a través de {name}",
+    "utils-invoice-is-unfinished": "No finalizado {amount}",
+    "utils-invoice-item-type-default": "Otro"
   }
 }
