@@ -1,7 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "Приглашать участников во все отделения",
-    "utils-oauth2-scope-memberships-read": "Получать информацию об участниках всех отделений",
-    "utils-oauth2-scope-organizations-read": "Получать информацию об отделениях"
+    "utils-oauth2-scope-bookings-readonly": "Read bookings in your branches",
+    "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
+    "utils-oauth2-scope-memberships-readonly": "Read members in your branches",
+    "utils-oauth2-scope-memberships": "Read/Write members in your branches",
+    "utils-oauth2-scope-organizations-readonly": "Read your branches",
+    "utils-oauth2-scope-organizations": "Read/Write your branches",
+    "utils-oauth2-scope-properties-readonly": "Read properties in your branches",
+    "utils-oauth2-scope-properties": "Read/Write properties in your branches",
+    "utils-oauth2-scope-teams-readonly": "Read teams in your branches",
+    "utils-oauth2-scope-teams": "Read/Write teams in your branches",
+    "utils-oauth2-scope-team-invoices-readonly": "Read team invoices in your branches",
+    "utils-oauth2-scope-team-invoices": "Read/Write team invoices in your branches"
   }
 }
