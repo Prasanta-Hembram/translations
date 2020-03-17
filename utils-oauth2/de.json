@@ -4,7 +4,7 @@
     "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
     "utils-oauth2-scope-memberships-readonly": "Read members in your branches",
     "utils-oauth2-scope-memberships": "Read/Write members in your branches",
-    "utils-oauth2-scope-organizations-readonly": "Read your branches",
+    "utils-oauth2-scope-organizations-readonly": "Lesen Sie Informationen über alle Ihre Standorte",
     "utils-oauth2-scope-organizations": "Read/Write your branches",
     "utils-oauth2-scope-properties-readonly": "Read properties in your branches",
     "utils-oauth2-scope-properties": "Read/Write properties in your branches",
