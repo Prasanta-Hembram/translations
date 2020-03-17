@@ -2,7 +2,7 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "Read bookings in your branches",
     "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
-    "utils-oauth2-scope-memberships-readonly": "Read members in your branches",
+    "utils-oauth2-scope-memberships-readonly": "Gewinnen Sie Mitglieder an allen Ihren Standorten",
     "utils-oauth2-scope-memberships": "Read/Write members in your branches",
     "utils-oauth2-scope-organizations-readonly": "Lesen Sie Informationen über alle Ihre Standorte",
     "utils-oauth2-scope-organizations": "Read/Write your branches",
