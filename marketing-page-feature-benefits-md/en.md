@@ -8,8 +8,8 @@ Give members more for their money—build and organize partnerships with local b
 
 ---
 
-![Service categories in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
+![Service categories in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-services-main-light-en-1920-1200.png)
 
-![Services in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
+![Services in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-services-list-light-en-1920-1200.png)
 
-![Service application form in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)
+![Service application form in andcards coworking space software](https://d7ccq1i35b0cj.cloudfront.net/andcards-services-apply-light-en-1920-1200.png)

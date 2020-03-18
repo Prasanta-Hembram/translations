@@ -8,8 +8,8 @@ Gib den Mitgliedern mehr für ihr Geld und organisiere Partnerschaften mit lokal
 
 ---
 
-![Ein Tablet mit andcards Besprechungsraum-Display im Coworking Space](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-main-light-en-1920-1200.png)
+![Ein Tablet mit andcards Besprechungsraum-Display im Coworking Space](https://d7ccq1i35b0cj.cloudfront.net/andcards-services-main-light-en-1920-1200.png)
 
-![Dienstleistungen in der andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-list-light-en-1920-1200.png)
+![Dienstleistungen in der andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-services-list-light-en-1920-1200.png)
 
-![Nutzen des Anmeldeformulars in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-benefits-apply-light-en-1920-1200.png)
+![Nutzen des Anmeldeformulars in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-services-apply-light-en-1920-1200.png)
