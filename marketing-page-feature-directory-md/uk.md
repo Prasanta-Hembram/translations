@@ -11,6 +11,6 @@
 
 ---
 
-![Каталог спільноти коворкінгу у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![Каталог спільноти коворкінгу у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-members-light-en-1920-1200.png)
 
-![Профіль учасника спільноти у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
+![Профіль учасника спільноти у програмному забезпеченні для коворкінгу andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-user-main-light-en-1920-1200.png)

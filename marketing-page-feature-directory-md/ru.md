@@ -11,6 +11,6 @@
 
 ---
 
-![Сообщество клиентов коворкинга в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![Сообщество клиентов коворкинга в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-members-light-en-1920-1200.png)
 
-![Профиль резидента коворкинга в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
+![Профиль резидента коворкинга в программном обеспечении для коворкинга andcards](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-user-main-light-en-1920-1200.png)

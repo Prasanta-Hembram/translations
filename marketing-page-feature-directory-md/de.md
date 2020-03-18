@@ -11,6 +11,6 @@ Upgrade von einer manuellen Mitgliederverwaltung in Tabellenkalkulationen oder k
 
 ---
 
-![Mitgliederverzeichnis in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![Mitgliederverzeichnis in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-members-light-en-1920-1200.png)
 
-![Mitgliederprofil in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
+![Mitgliederprofil in andcards Coworking Space Software](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-user-main-light-en-1920-1200.png)

@@ -11,6 +11,6 @@
 
 ---
 
-![andcards 코워킹 소프트웨어의 회원 커뮤니티](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-members-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 회원 커뮤니티](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-members-light-en-1920-1200.png)
 
-![andcards 코워킹 소프트웨어의 회원 프로파일](https://d7ccq1i35b0cj.cloudfront.net/andcards-directory-user-main-light-en-1920-1200.png)
+![andcards 코워킹 소프트웨어의 회원 프로파일](https://d7ccq1i35b0cj.cloudfront.net/andcards-community-user-main-light-en-1920-1200.png)
