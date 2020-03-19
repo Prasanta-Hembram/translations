@@ -3,7 +3,7 @@
     "components-page-body-bookings-history-default-booking-purpose": "Sin título",
     "components-page-body-bookings-history-fetch-failure": "No se pudieron mostrar todas las reservas. ¿Estás seguro de que hay una conexión a Internet?",
     "components-page-body-bookings-history-list-empty": "No hay reservas.",
-    "components-page-body-bookings-history-tab-active": "Active",
-    "components-page-body-bookings-history-tab-past": "Past"
+    "components-page-body-bookings-history-tab-active": "Activa",
+    "components-page-body-bookings-history-tab-past": "Anterior"
   }
 }
