@@ -1,0 +1,9 @@
+{
+  "data": {
+    "components-page-body-bookings-history-default-booking-purpose": "예약",
+    "components-page-body-bookings-history-fetch-failure": "나의 전체 예약을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "components-page-body-bookings-history-list-empty": "아무것도 없습니다",
+    "components-page-body-bookings-history-tab-active": "Active",
+    "components-page-body-bookings-history-tab-past": "Past"
+  }
+}
