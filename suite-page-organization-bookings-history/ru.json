@@ -1,8 +1,5 @@
 {
   "data": {
-    "suite-page-organization-bookings-history-title": "Все мои бронирования",
-    "suite-page-organization-bookings-history-default-booking-purpose": "Без названия",
-    "suite-page-organization-bookings-history-fetch-failure": "Не удалось отобразить все бронирования. Проверьте интернет-соединение.",
-    "suite-page-organization-bookings-history-list-empty": "Ничего не найдено."
+    "suite-page-organization-bookings-history-title": "Все мои бронирования"
   }
 }

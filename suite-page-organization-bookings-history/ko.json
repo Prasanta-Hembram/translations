@@ -1,8 +1,5 @@
 {
   "data": {
-    "suite-page-organization-bookings-history-title": "나의 전체 예약 내역",
-    "suite-page-organization-bookings-history-default-booking-purpose": "예약",
-    "suite-page-organization-bookings-history-fetch-failure": "나의 전체 예약을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
-    "suite-page-organization-bookings-history-list-empty": "아무것도 없습니다"
+    "suite-page-organization-bookings-history-title": "나의 전체 예약 내역"
   }
 }

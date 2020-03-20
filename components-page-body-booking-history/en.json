@@ -1,0 +1,9 @@
+{
+  "data": {
+    "components-page-body-bookings-history-default-booking-purpose": "Booking",
+    "components-page-body-bookings-history-fetch-failure": "Couldn't show bookings. Are you sure there is an internet connection?",
+    "components-page-body-bookings-history-list-empty": "There are no bookings yet.",
+    "components-page-body-bookings-history-tab-active": "Active",
+    "components-page-body-bookings-history-tab-past": "Past"
+  }
+}
