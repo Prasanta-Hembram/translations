@@ -1,16 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-bookings-readonly": "Read bookings in your branches",
-    "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
-    "utils-oauth2-scope-memberships-readonly": "Gewinnen Sie Mitglieder an allen Ihren Standorten",
-    "utils-oauth2-scope-memberships": "Read/Write members in your branches",
+    "utils-oauth2-scope-bookings-readonly": "Lesen Sie die Buchungen an Ihren Standorten",
+    "utils-oauth2-scope-bookings": "Lesen und schreiben Sie die Buchungen an Ihren Standorten",
+    "utils-oauth2-scope-memberships-readonly": "Lesen Sie Mitglieder an Ihren Standorten",
+    "utils-oauth2-scope-memberships": "Lesen und schreiben Sie Mitglieder an Ihren Standorten",
     "utils-oauth2-scope-organizations-readonly": "Lesen Sie Informationen über alle Ihre Standorte",
-    "utils-oauth2-scope-organizations": "Read/Write your branches",
-    "utils-oauth2-scope-properties-readonly": "Read properties in your branches",
-    "utils-oauth2-scope-properties": "Read/Write properties in your branches",
-    "utils-oauth2-scope-teams-readonly": "Read teams in your branches",
-    "utils-oauth2-scope-teams": "Read/Write teams in your branches",
-    "utils-oauth2-scope-team-invoices-readonly": "Read team invoices in your branches",
-    "utils-oauth2-scope-team-invoices": "Read/Write team invoices in your branches"
+    "utils-oauth2-scope-organizations": "Lesen und schreiben Sie Informationen über alle Ihre Standorte",
+    "utils-oauth2-scope-properties-readonly": "Lesen Sie die Räume an Ihren Standorten",
+    "utils-oauth2-scope-properties": "Lesen und schreiben Sie die Räume an Ihren Standorten",
+    "utils-oauth2-scope-teams-readonly": "Lesen Sie die Teams an Ihren Standorten",
+    "utils-oauth2-scope-teams": "Lesen und schreiben Sie die Teams an Ihren Standorten",
+    "utils-oauth2-scope-team-invoices-readonly": "Lesen Sie Teamrechnungen an Ihren Standorten",
+    "utils-oauth2-scope-team-invoices": "Lesen und schreiben Sie Teamrechnungen an Ihren Standorten"
   }
 }
