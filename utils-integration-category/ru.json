@@ -1,8 +1,9 @@
 {
   "data": {
-    "utils-integration-category-acs-title": "Контроль доступа",
+    "utils-integration-category-acs-title": "СКУД",
     "utils-integration-category-analytics-title": "Аналитика",
-    "utils-integration-category-bookings-title": "Бронирования",
+    "utils-integration-category-automation-title": "Автоматизация",
+    "utils-integration-category-bookings-title": "Бронирование",
     "utils-integration-category-communication-title": "Коммуникация",
     "utils-integration-category-crm-title": "CRM",
     "utils-integration-category-payments-title": "Платежи",
