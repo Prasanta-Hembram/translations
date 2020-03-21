@@ -1,16 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-bookings-readonly": "Read bookings in your branches",
-    "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
+    "utils-oauth2-scope-bookings-readonly": "모든 지점에 회의실 예약 읽기",
+    "utils-oauth2-scope-bookings": "모든 지점에 회의실 예약 읽기/편집",
     "utils-oauth2-scope-memberships-readonly": "모든 지점에 회원 읽기",
-    "utils-oauth2-scope-memberships": "Read/Write members in your branches",
-    "utils-oauth2-scope-organizations-readonly": "Read your branches",
-    "utils-oauth2-scope-organizations": "Read/Write your branches",
-    "utils-oauth2-scope-properties-readonly": "모든 지점 정보 읽기",
-    "utils-oauth2-scope-properties": "Read/Write properties in your branches",
-    "utils-oauth2-scope-teams-readonly": "Read teams in your branches",
-    "utils-oauth2-scope-teams": "Read/Write teams in your branches",
-    "utils-oauth2-scope-team-invoices-readonly": "Read team invoices in your branches",
-    "utils-oauth2-scope-team-invoices": "Read/Write team invoices in your branches"
+    "utils-oauth2-scope-memberships": "모든 지점에 회원 읽기/편집",
+    "utils-oauth2-scope-organizations-readonly": "모든 지점 정보 읽기",
+    "utils-oauth2-scope-organizations": "모든 지점 정보 읽기/편집",
+    "utils-oauth2-scope-properties-readonly": "모든 지점에 회의실 정보 읽기",
+    "utils-oauth2-scope-properties": "모든 지점에 회의실 정보 읽기/편집",
+    "utils-oauth2-scope-teams-readonly": "모든 지점에 팀 정보 읽기",
+    "utils-oauth2-scope-teams": "모든 지점에 팀 정보 읽기/편집",
+    "utils-oauth2-scope-team-invoices-readonly": "모든 지점에 팀인보이스 읽기",
+    "utils-oauth2-scope-team-invoices": "모든 지점에 팀인보이스 읽기/편집"
   }
 }
