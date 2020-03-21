@@ -1,16 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-bookings-readonly": "Read bookings in your branches",
-    "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
-    "utils-oauth2-scope-memberships-readonly": "Получать информацию об участниках всех отделений",
-    "utils-oauth2-scope-memberships": "Read/Write members in your branches",
+    "utils-oauth2-scope-bookings-readonly": "Получать информацию о бронированиях",
+    "utils-oauth2-scope-bookings": "Получать и изменять информацию о бронированиях",
+    "utils-oauth2-scope-memberships-readonly": "Получать информацию об участниках",
+    "utils-oauth2-scope-memberships": "Получать и изменять информацию об участниках",
     "utils-oauth2-scope-organizations-readonly": "Получать информацию об отделениях",
-    "utils-oauth2-scope-organizations": "Read/Write your branches",
-    "utils-oauth2-scope-properties-readonly": "Read properties in your branches",
-    "utils-oauth2-scope-properties": "Read/Write properties in your branches",
-    "utils-oauth2-scope-teams-readonly": "Read teams in your branches",
-    "utils-oauth2-scope-teams": "Read/Write teams in your branches",
-    "utils-oauth2-scope-team-invoices-readonly": "Read team invoices in your branches",
-    "utils-oauth2-scope-team-invoices": "Read/Write team invoices in your branches"
+    "utils-oauth2-scope-organizations": "Получать и изменять информацию об отделениях",
+    "utils-oauth2-scope-properties-readonly": "Получать информацию о переговорных",
+    "utils-oauth2-scope-properties": "Получать и изменять информацию о переговорных",
+    "utils-oauth2-scope-teams-readonly": "Получать информацию о командах",
+    "utils-oauth2-scope-teams": "Получать и изменять информацию о командах",
+    "utils-oauth2-scope-team-invoices-readonly": "Получать информацию об инвойсах команд",
+    "utils-oauth2-scope-team-invoices": "Получать и изменять информацию об инвойсах команд"
   }
 }
