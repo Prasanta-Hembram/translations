@@ -1,16 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-bookings-readonly": "Read bookings in your branches",
-    "utils-oauth2-scope-bookings": "Read/Write bookings in your branches",
-    "utils-oauth2-scope-memberships-readonly": "Ver a los miembros de todas tus sedes",
-    "utils-oauth2-scope-memberships": "Read/Write members in your branches",
-    "utils-oauth2-scope-organizations-readonly": "Ver todas las sedes",
-    "utils-oauth2-scope-organizations": "Read/Write your branches",
-    "utils-oauth2-scope-properties-readonly": "Read properties in your branches",
-    "utils-oauth2-scope-properties": "Read/Write properties in your branches",
-    "utils-oauth2-scope-teams-readonly": "Read teams in your branches",
-    "utils-oauth2-scope-teams": "Read/Write teams in your branches",
-    "utils-oauth2-scope-team-invoices-readonly": "Read team invoices in your branches",
-    "utils-oauth2-scope-team-invoices": "Read/Write team invoices in your branches"
+    "utils-oauth2-scope-bookings-readonly": "Ver las reservas en tus sedes",
+    "utils-oauth2-scope-bookings": "Ver y editar las reservas en tus sedes",
+    "utils-oauth2-scope-memberships-readonly": "Ver los miembros en tus sedes",
+    "utils-oauth2-scope-memberships": "Ver y editar los miembros en tus sedes",
+    "utils-oauth2-scope-organizations-readonly": "Ver tus sedes",
+    "utils-oauth2-scope-organizations": "Ver y editar tus sedes",
+    "utils-oauth2-scope-properties-readonly": "Ver salas de reuniones en tus sedes",
+    "utils-oauth2-scope-properties": "Ver y editar salas de reuniones en tus sedes",
+    "utils-oauth2-scope-teams-readonly": "Ver equipos en tus sedes",
+    "utils-oauth2-scope-teams": "Ver y editar equipos en tus sedes",
+    "utils-oauth2-scope-team-invoices-readonly": "Ver las facturas del equipo en tus sedes",
+    "utils-oauth2-scope-team-invoices": "Ver y editar las facturas del equipo en tus sedes"
   }
 }
