@@ -1,7 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "Invitar a los miembros a todas tus sedes",
-    "utils-oauth2-scope-memberships-read": "Ver a los miembros de todas tus sedes",
-    "utils-oauth2-scope-organizations-read": "Ver todas las sedes"
+    "utils-oauth2-scope-bookings-readonly": "Ver las reservas",
+    "utils-oauth2-scope-bookings": "Ver y editar las reservas",
+    "utils-oauth2-scope-memberships-readonly": "Ver los miembros",
+    "utils-oauth2-scope-memberships": "Ver y editar los miembros",
+    "utils-oauth2-scope-organizations-readonly": "Ver tus sedes",
+    "utils-oauth2-scope-organizations": "Ver y editar tus sedes",
+    "utils-oauth2-scope-properties-readonly": "Ver salas de reuniones",
+    "utils-oauth2-scope-properties": "Ver y editar salas de reuniones",
+    "utils-oauth2-scope-teams-readonly": "Ver equipos",
+    "utils-oauth2-scope-teams": "Ver y editar equipos",
+    "utils-oauth2-scope-team-invoices-readonly": "Ver las facturas del equipo",
+    "utils-oauth2-scope-team-invoices": "Ver y editar las facturas del equipo"
   }
 }

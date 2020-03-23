@@ -1,7 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "Laden Sie Mitglieder an alle Ihre Standorte ein",
-    "utils-oauth2-scope-memberships-read": "Gewinnen Sie Mitglieder an allen Ihren Standorten",
-    "utils-oauth2-scope-organizations-read": "Lesen Sie Informationen über alle Ihre Standorte"
+    "utils-oauth2-scope-bookings-readonly": "Lesen Sie die Buchungen",
+    "utils-oauth2-scope-bookings": "Lesen und schreiben Sie die Buchungen",
+    "utils-oauth2-scope-memberships-readonly": "Lesen Sie Mitglieder",
+    "utils-oauth2-scope-memberships": "Lesen und schreiben Sie Mitglieder",
+    "utils-oauth2-scope-organizations-readonly": "Lesen Sie Informationen über alle Ihre Standorte",
+    "utils-oauth2-scope-organizations": "Lesen und schreiben Sie Informationen über alle Ihre Standorte",
+    "utils-oauth2-scope-properties-readonly": "Lesen Sie die Räume",
+    "utils-oauth2-scope-properties": "Lesen und schreiben Sie die Räume",
+    "utils-oauth2-scope-teams-readonly": "Lesen Sie die Teams",
+    "utils-oauth2-scope-teams": "Lesen und schreiben Sie die Teams",
+    "utils-oauth2-scope-team-invoices-readonly": "Lesen Sie Teamrechnungen",
+    "utils-oauth2-scope-team-invoices": "Lesen und schreiben Sie Teamrechnungen"
   }
 }

@@ -1,7 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "Invite members to all your branches",
-    "utils-oauth2-scope-memberships-read": "Read members in all your branches",
-    "utils-oauth2-scope-organizations-read": "Read information of all your branches"
+    "utils-oauth2-scope-bookings-readonly": "Read bookings",
+    "utils-oauth2-scope-bookings": "Read and write bookings",
+    "utils-oauth2-scope-memberships-readonly": "Read members",
+    "utils-oauth2-scope-memberships": "Read and write members",
+    "utils-oauth2-scope-organizations-readonly": "Read your branches",
+    "utils-oauth2-scope-organizations": "Read and write your branches",
+    "utils-oauth2-scope-properties-readonly": "Read rooms",
+    "utils-oauth2-scope-properties": "Read and write rooms",
+    "utils-oauth2-scope-teams-readonly": "Read teams",
+    "utils-oauth2-scope-teams": "Read and write teams",
+    "utils-oauth2-scope-team-invoices-readonly": "Read team invoices",
+    "utils-oauth2-scope-team-invoices": "Read and write team invoices"
   }
 }

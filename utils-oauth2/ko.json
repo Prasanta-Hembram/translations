@@ -1,7 +1,16 @@
 {
   "data": {
-    "utils-oauth2-scope-memberships-invite": "모든 지점에 회원 초대",
-    "utils-oauth2-scope-memberships-read": "모든 지점에 회원 읽기",
-    "utils-oauth2-scope-organizations-read": "모든 지점 정보 읽기"
+    "utils-oauth2-scope-bookings-readonly": "회의실 예약 읽기",
+    "utils-oauth2-scope-bookings": "회의실 예약 읽기/편집",
+    "utils-oauth2-scope-memberships-readonly": "회원 정보 읽기",
+    "utils-oauth2-scope-memberships": "회원 정보 읽기/편집",
+    "utils-oauth2-scope-organizations-readonly": "지점 정보 읽기",
+    "utils-oauth2-scope-organizations": "지점 정보 읽기/편집",
+    "utils-oauth2-scope-properties-readonly": "회의실 정보 읽기",
+    "utils-oauth2-scope-properties": "회의실 정보 읽기/편집",
+    "utils-oauth2-scope-teams-readonly": "팀 정보 읽기",
+    "utils-oauth2-scope-teams": "팀 정보 읽기/편집",
+    "utils-oauth2-scope-team-invoices-readonly": "팀인보이스 읽기",
+    "utils-oauth2-scope-team-invoices": "팀인보이스 읽기/편집"
   }
 }
