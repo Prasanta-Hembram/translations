@@ -4,6 +4,7 @@
     "utils-transaction-status-failed": "Fehlgeschlagen",
     "utils-transaction-status-pending": "Ausstehend",
     "utils-transaction-status-paid": "Bezahlt",
+    "utils-transaction-status-paid-with-amount": "Bezahlt {amount}",
     "utils-transaction-status-unpaid": "Zahlung ausstehend",
     "utils-transaction-status-unpaid-with-amount": "Zahlung ausstehend {amount}",
     "utils-transaction-status-title": "Status",

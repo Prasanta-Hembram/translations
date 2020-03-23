@@ -4,6 +4,7 @@
     "utils-transaction-status-failed": "Fallido",
     "utils-transaction-status-pending": "Pendiente",
     "utils-transaction-status-paid": "Pagado",
+    "utils-transaction-status-paid-with-amount": "Pagado {amount}",
     "utils-transaction-status-unpaid": "No pagado",
     "utils-transaction-status-unpaid-with-amount": "No pagado {amount}",
     "utils-transaction-status-title": "Estado",

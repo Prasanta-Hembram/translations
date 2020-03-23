@@ -4,6 +4,7 @@
     "utils-transaction-status-failed": "Неудачно",
     "utils-transaction-status-pending": "Обработка",
     "utils-transaction-status-paid": "Оплачено",
+    "utils-transaction-status-paid-with-amount": "Оплачено {amount}",
     "utils-transaction-status-unpaid": "Неоплачено",
     "utils-transaction-status-unpaid-with-amount": "Неоплачено {amount}",
     "utils-transaction-status-title": "Статус",

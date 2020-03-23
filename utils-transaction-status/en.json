@@ -4,6 +4,7 @@
     "utils-transaction-status-failed": "Failed",
     "utils-transaction-status-pending": "Pending",
     "utils-transaction-status-paid": "Paid",
+    "utils-transaction-status-paid-with-amount": "Paid {amount}",
     "utils-transaction-status-unpaid": "Unpaid",
     "utils-transaction-status-unpaid-with-amount": "Unpaid {amount}",
     "utils-transaction-status-title": "Status",
