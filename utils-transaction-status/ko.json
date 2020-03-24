@@ -4,6 +4,7 @@
     "utils-transaction-status-failed": "거절",
     "utils-transaction-status-pending": "승인 필요",
     "utils-transaction-status-paid": "결제 완료",
+    "utils-transaction-status-paid-with-amount": "결제 완료 {amount}",
     "utils-transaction-status-unpaid": "결제 예정",
     "utils-transaction-status-unpaid-with-amount": "결제 예정 {amount}",
     "utils-transaction-status-title": "결제 사항",
