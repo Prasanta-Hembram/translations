@@ -9,4 +9,4 @@ Zapier는 사용하는 다른 앱과 andcards 간에 데이터를 자동으로 �
 
 Zapier 이용 방법
 - 자피어 계정 등록
-- 당사의 [Zapier 통합 도움말](http://help.andcards.com/en/articles/3818330-set-up-zapier-on-andcards) 문서를 확인 (영)
+- 당사의 [Zapier 통합 도움말](https://help.andcards.com/en/articles/3818330-set-up-zapier-on-andcards) 문서를 확인 (영)
