@@ -3,6 +3,6 @@
     "suite-modal-organization-bookings-property-team-update-title": "Teams auswählen",
     "suite-modal-organization-bookings-property-team-update-no-teams": "Niemand, der hinzugefügt werden kann.",
     "suite-modal-organization-bookings-property-team-update-nothing-found": "Nichts gefunden.",
-    "suite-modal-organization-bookings-property-team-update-search": "Suche {numberOfTeams} Teams"
+    "suite-modal-organization-bookings-property-team-update-search": "Suche"
   }
 }
