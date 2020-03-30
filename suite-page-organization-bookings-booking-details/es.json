@@ -17,7 +17,6 @@
     "suite-page-organization-bookings-booking-details-payment-status-pending": "El estado del pago es PENDIENTE y se borrará en 15 minutos, si el pago no se finalizará.",
     "suite-page-organization-bookings-booking-details-title": "Reserva",
     "suite-page-organization-bookings-booking-details-section-payment": "Pago",
-    "suite-page-organization-bookings-booking-details-section-people": "Gente",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Enlace"
+    "suite-page-organization-bookings-booking-details-section-people": "Gente"
   }
 }

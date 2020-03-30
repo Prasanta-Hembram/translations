@@ -17,7 +17,6 @@
     "suite-page-organization-bookings-booking-details-payment-status-pending": "Бронирование в статусе ожидания и будет удалено через 15 минут, если оплата не будет подтвержденна.",
     "suite-page-organization-bookings-booking-details-title": "Бронирование",
     "suite-page-organization-bookings-booking-details-section-payment": "Оплата",
-    "suite-page-organization-bookings-booking-details-section-people": "Люди",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Ссылка"
+    "suite-page-organization-bookings-booking-details-section-people": "Люди"
   }
 }

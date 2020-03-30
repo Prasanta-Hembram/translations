@@ -17,7 +17,6 @@
     "suite-page-organization-bookings-booking-details-payment-status-pending": "결제가 완료되지 않은 경우 예약은 15분 후에 자동으로 삭제됩니다.",
     "suite-page-organization-bookings-booking-details-title": "예약",
     "suite-page-organization-bookings-booking-details-section-payment": "결제",
-    "suite-page-organization-bookings-booking-details-section-people": "예약자",
-    "suite-page-organization-bookings-booking-details-share-link-title": "예약 링크"
+    "suite-page-organization-bookings-booking-details-section-people": "예약자"
   }
 }

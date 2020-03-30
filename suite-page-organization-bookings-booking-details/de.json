@@ -17,7 +17,6 @@
     "suite-page-organization-bookings-booking-details-payment-status-pending": "Der Zahlungsvorgang ist noch nicht abgeschlossen und wird nach 15 Minuten gelöscht, wenn die Zahlung nicht ausgeführt wird.",
     "suite-page-organization-bookings-booking-details-title": "Buchung",
     "suite-page-organization-bookings-booking-details-section-payment": "Zahlung",
-    "suite-page-organization-bookings-booking-details-section-people": "Personen",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Buchungslink"
+    "suite-page-organization-bookings-booking-details-section-people": "Personen"
   }
 }

@@ -17,7 +17,6 @@
     "suite-page-organization-bookings-booking-details-payment-status-pending": "The booking is pending and will be deleted in 15 minutes if the payment is not completed.",
     "suite-page-organization-bookings-booking-details-title": "Booking",
     "suite-page-organization-bookings-booking-details-section-payment": "Payment",
-    "suite-page-organization-bookings-booking-details-section-people": "People",
-    "suite-page-organization-bookings-booking-details-share-link-title": "Link"
+    "suite-page-organization-bookings-booking-details-section-people": "People"
   }
 }
