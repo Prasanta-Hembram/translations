@@ -2,6 +2,6 @@
   "data": {
     "suite-modal-organization-service-organization-update-title": "Seleccionar sucursal",
     "suite-modal-organization-service-organization-update-nothing-found": "No se ha encontrado nada.",
-    "suite-modal-organization-service-organization-update-search": "Buscar {numberOfOrganizations} sucursal"
+    "suite-modal-organization-service-organization-update-search": "Buscar"
   }
 }

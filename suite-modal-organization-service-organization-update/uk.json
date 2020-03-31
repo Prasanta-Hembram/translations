@@ -2,6 +2,6 @@
   "data": {
     "suite-modal-organization-service-organization-update-title": "Виберіть відділення",
     "suite-modal-organization-service-organization-update-nothing-found": "Нічого не знайдено.",
-    "suite-modal-organization-service-organization-update-search": "Шукати серед {numberOfOrganizations} відділень"
+    "suite-modal-organization-service-organization-update-search": "Пошук"
   }
 }
