@@ -9,8 +9,6 @@
     "utils-transactions-money-transaction-book-by-cash-with-name": "Reserva {propertyName} ∙ Pago externo ∙ {name}",
     "utils-transactions-money-transaction-book-by-cash-with-room-name": "Reserva {propertyName} ∙ Pago externo",
     "utils-transactions-money-transaction-book-refund-cash": "Reserva cancelada ∙ Pago externo",
-    "utils-transactions-money-transaction-payment-invoice-bank-transfer": "Factura de {transactionDate} ∙ Transferencia",
-    "utils-transactions-money-transaction-payment-invoice-card": "Factura de {transactionDate} ∙ Tarjeta",
     "utils-transactions-money-transaction-payment-invoice-default": "Factura de {transactionDate}",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Transferencia",
     "utils-transactions-money-transaction-payment-type-card": "Tarjeta",

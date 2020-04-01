@@ -9,8 +9,6 @@
     "utils-transactions-money-transaction-book-by-cash-with-name": "Gebucht {propertyName} ∙ Externe Zahlung ∙ {name}",
     "utils-transactions-money-transaction-book-by-cash-with-room-name": "Gebucht {propertyName} ∙ Externe Zahlung",
     "utils-transactions-money-transaction-book-refund-cash": "Stornierte Raumbuchung ∙ Externe Zahlung",
-    "utils-transactions-money-transaction-payment-invoice-bank-transfer": "{transactionDate} Rechnung ∙ Banküberweisung",
-    "utils-transactions-money-transaction-payment-invoice-card": "{transactionDate} Rechnung ∙ Karte",
     "utils-transactions-money-transaction-payment-invoice-default": "{transactionDate} Rechnung",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Banküberweisung",
     "utils-transactions-money-transaction-payment-type-card": "Karte",

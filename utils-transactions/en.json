@@ -9,8 +9,6 @@
     "utils-transactions-money-transaction-book-by-cash-with-name": "Booking {propertyName} ∙ External Payment ∙ {name}",
     "utils-transactions-money-transaction-book-by-cash-with-room-name": "Booking {propertyName} ∙ External Payment",
     "utils-transactions-money-transaction-book-refund-cash": "Cancelled Booking ∙ External Payment",
-    "utils-transactions-money-transaction-payment-invoice-bank-transfer": "{transactionDate} Invoice ∙ Bank Transfer",
-    "utils-transactions-money-transaction-payment-invoice-card": "{transactionDate} Invoice ∙ Card",
     "utils-transactions-money-transaction-payment-invoice-default": "{transactionDate} Invoice",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Bank Transfer",
     "utils-transactions-money-transaction-payment-type-card": "Card",
