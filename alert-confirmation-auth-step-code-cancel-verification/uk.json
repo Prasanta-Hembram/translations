@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-auth-step-code-cancel-verification-text": "Are you sure you want to stop the verification process?",
-    "alert-confirmation-auth-step-code-cancel-verification-no": "Stop",
-    "alert-confirmation-auth-step-code-cancel-verification-title": "Stop verification process",
-    "alert-confirmation-auth-step-code-cancel-verification-yes": "Continue"
+    "alert-confirmation-auth-step-code-cancel-verification-text": "Переконані, що хочете зупинити процес підтвердження?",
+    "alert-confirmation-auth-step-code-cancel-verification-no": "Зупинити",
+    "alert-confirmation-auth-step-code-cancel-verification-title": "Зупинити процес підтвердження",
+    "alert-confirmation-auth-step-code-cancel-verification-yes": "Продовжити"
   }
 }
