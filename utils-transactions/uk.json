@@ -15,10 +15,10 @@
     "utils-transactions-point-transaction-book-by-points": "Кредити",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Резервація {propertyName}",
     "utils-transactions-point-transaction-charge-by-admin": "Списання ∙ Менеджер відділення",
-    "utils-transactions-point-transaction-charge-by-admin-with-name": "Списання ∙ {name}",
+    "utils-transactions-point-transaction-credits-charge-default": "Списання",
     "utils-transactions-point-transaction-monthly-subscription-expiration": "Списання ∙ Тарифний план",
     "utils-transactions-point-transaction-monthly-subscription-renewal": "Нарахування ∙ Тарифний план",
     "utils-transactions-point-transaction-transfer-by-admin": "Нарахування ∙ Менеджер відділення",
-    "utils-transactions-point-transaction-transfer-by-admin-with-name": "Нарахування ∙ {name}"
+    "utils-transactions-point-transaction-added-default": "Нарахування"
   }
 }

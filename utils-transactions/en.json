@@ -15,10 +15,10 @@
     "utils-transactions-point-transaction-book-by-points": "Credits",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Booking {propertyName}",
     "utils-transactions-point-transaction-charge-by-admin": "Charged ∙ Branch Manager",
-    "utils-transactions-point-transaction-charge-by-admin-with-name": "Charged ∙ {name}",
+    "utils-transactions-point-transaction-credits-charge-default": "Charged",
     "utils-transactions-point-transaction-monthly-subscription-expiration": "Charged ∙ Membership Plan",
     "utils-transactions-point-transaction-monthly-subscription-renewal": "Added ∙ Membership Plan",
     "utils-transactions-point-transaction-transfer-by-admin": "Added ∙ Branch Manager",
-    "utils-transactions-point-transaction-transfer-by-admin-with-name": "Added ∙ {name}"
+    "utils-transactions-point-transaction-added-default": "Added"
   }
 }

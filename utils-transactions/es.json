@@ -15,10 +15,10 @@
     "utils-transactions-point-transaction-book-by-points": "Créditos",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Reserva {propertyName}",
     "utils-transactions-point-transaction-charge-by-admin": "Créditos cargardos ∙ Gerente de sucursal",
-    "utils-transactions-point-transaction-charge-by-admin-with-name": "Créditos cargardos ∙ {name}",
+    "utils-transactions-point-transaction-credits-charge-default": "Créditos cargardos",
     "utils-transactions-point-transaction-monthly-subscription-expiration": "Créditos cargardos ∙ Plan de membresía",
     "utils-transactions-point-transaction-monthly-subscription-renewal": "Créditos agregados ∙ Plan de membresía",
     "utils-transactions-point-transaction-transfer-by-admin": "Créditos agregados ∙ Gerente de sucursal",
-    "utils-transactions-point-transaction-transfer-by-admin-with-name": "Créditos agregados ∙ {name}"
+    "utils-transactions-point-transaction-added-default": "Créditos agregados"
   }
 }
