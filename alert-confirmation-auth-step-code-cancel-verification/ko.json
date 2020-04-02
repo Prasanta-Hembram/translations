@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-auth-step-code-cancel-verification-text": "Are you sure you want to stop the verification process?",
-    "alert-confirmation-auth-step-code-cancel-verification-no": "Stop",
-    "alert-confirmation-auth-step-code-cancel-verification-title": "Stop verification process",
-    "alert-confirmation-auth-step-code-cancel-verification-yes": "Continue"
+    "alert-confirmation-auth-step-code-cancel-verification-text": "인중 프로세스를 중지하시겠습니까?",
+    "alert-confirmation-auth-step-code-cancel-verification-no": "중지",
+    "alert-confirmation-auth-step-code-cancel-verification-title": "인중 프로세스를 중지",
+    "alert-confirmation-auth-step-code-cancel-verification-yes": "계속"
   }
 }
