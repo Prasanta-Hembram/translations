@@ -7,8 +7,6 @@
     "suite-modal-organization-transaction-date-label": "Дата",
     "suite-modal-organization-transaction-not-found": "Эта транзакция не существует или была удалена.",
     "suite-modal-organization-transaction-paid-with-label": "Оплачено",
-    "suite-modal-organization-transaction-paid-with-card": "Карточкой",
-    "suite-modal-organization-transaction-paid-with-cash": "Внешний платеж",
     "suite-modal-organization-transaction-paid-with-invoice": "Инвойс",
     "suite-modal-organization-transaction-title": "Детали транзакции"
   }
