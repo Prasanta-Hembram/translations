@@ -14,11 +14,10 @@
     "utils-transactions-money-transaction-payment-type-unsupported": "Тип оплаты не поддержывается",
     "utils-transactions-point-transaction-book-by-points": "Кредиты",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Бронь {propertyName}",
-    "utils-transactions-point-transaction-charge-by-admin": "Списание ∙ Менеджер отделения",
+    "utils-transactions-point-transaction-made-by-branch-manager": "Менеджер отделения",
+    "utils-transactions-point-transaction-made-by-membership-plan": "Тарифный план",
     "utils-transactions-point-transaction-credits-charge-default": "Списание",
-    "utils-transactions-point-transaction-monthly-subscription-expiration": "Списание ∙ Тарифный план",
-    "utils-transactions-point-transaction-monthly-subscription-renewal": "Начисление ∙ Тарифный план",
-    "utils-transactions-point-transaction-transfer-by-admin": "Начисление ∙ Менеджер отделения",
-    "utils-transactions-point-transaction-added-default": "Начисление"
+    "utils-transactions-point-transaction-credits-expired": "Истёк срок действия",
+    "utils-transactions-point-transaction-credits-added-default": "Начисление"
   }
 }

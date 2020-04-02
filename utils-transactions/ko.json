@@ -14,11 +14,10 @@
     "utils-transactions-money-transaction-payment-type-unsupported": "미지원 결제 수단",
     "utils-transactions-point-transaction-book-by-points": "취소",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "{propertyName} 예약",
-    "utils-transactions-point-transaction-charge-by-admin": "수동 회수 ∙ 지점 관리자",
+    "utils-transactions-point-transaction-made-by-branch-manager": "지점 관리자",
+    "utils-transactions-point-transaction-made-by-membership-plan": "멤버십 플랜",
     "utils-transactions-point-transaction-credits-charge-default": "수동 회수",
-    "utils-transactions-point-transaction-monthly-subscription-expiration": "자동 회수 ∙ 멤버십 플랜",
-    "utils-transactions-point-transaction-monthly-subscription-renewal": "자동 추가 ∙ 멤버십 플랜",
-    "utils-transactions-point-transaction-transfer-by-admin": "수동 추가 ∙ 지점 관리자",
-    "utils-transactions-point-transaction-added-default": "수동 추가"
+    "utils-transactions-point-transaction-credits-expired": "만료",
+    "utils-transactions-point-transaction-credits-added-default": "수동 추가"
   }
 }

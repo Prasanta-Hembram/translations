@@ -14,11 +14,10 @@
     "utils-transactions-money-transaction-payment-type-unsupported": "Тип оплати не підтримується",
     "utils-transactions-point-transaction-book-by-points": "Кредити",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Резервація {propertyName}",
-    "utils-transactions-point-transaction-charge-by-admin": "Списання ∙ Менеджер відділення",
+    "utils-transactions-point-transaction-made-by-branch-manager": "Менеджер відділення",
+    "utils-transactions-point-transaction-made-by-membership-plan": "Тарифний план",
     "utils-transactions-point-transaction-credits-charge-default": "Списання",
-    "utils-transactions-point-transaction-monthly-subscription-expiration": "Списання ∙ Тарифний план",
-    "utils-transactions-point-transaction-monthly-subscription-renewal": "Нарахування ∙ Тарифний план",
-    "utils-transactions-point-transaction-transfer-by-admin": "Нарахування ∙ Менеджер відділення",
-    "utils-transactions-point-transaction-added-default": "Нарахування"
+    "utils-transactions-point-transaction-credits-expired": "Стік термін дії",
+    "utils-transactions-point-transaction-credits-added-default": "Нарахування"
   }
 }

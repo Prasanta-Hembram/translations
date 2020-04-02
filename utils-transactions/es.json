@@ -14,11 +14,10 @@
     "utils-transactions-money-transaction-payment-type-unsupported": "Unsupported Payment Type",
     "utils-transactions-point-transaction-book-by-points": "Créditos",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Reserva {propertyName}",
-    "utils-transactions-point-transaction-charge-by-admin": "Créditos cargardos ∙ Gerente de sucursal",
+    "utils-transactions-point-transaction-made-by-branch-manager": "Gerente de sucursal",
+    "utils-transactions-point-transaction-made-by-membership-plan": "Plan de membresía",
     "utils-transactions-point-transaction-credits-charge-default": "Créditos cargardos",
-    "utils-transactions-point-transaction-monthly-subscription-expiration": "Créditos cargardos ∙ Plan de membresía",
-    "utils-transactions-point-transaction-monthly-subscription-renewal": "Créditos agregados ∙ Plan de membresía",
-    "utils-transactions-point-transaction-transfer-by-admin": "Créditos agregados ∙ Gerente de sucursal",
-    "utils-transactions-point-transaction-added-default": "Créditos agregados"
+    "utils-transactions-point-transaction-credits-expired": "Vencido",
+    "utils-transactions-point-transaction-credits-added-default": "Créditos agregados"
   }
 }

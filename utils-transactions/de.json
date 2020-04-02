@@ -14,11 +14,10 @@
     "utils-transactions-money-transaction-payment-type-unsupported": "Nicht unterstützte Zahlungsart",
     "utils-transactions-point-transaction-book-by-points": "Credits",
     "utils-transactions-point-transaction-book-by-points-with-room-name": "Gebucht {propertyName}",
-    "utils-transactions-point-transaction-charge-by-admin": "Credits abgebucht ∙ Standort Manager",
+    "utils-transactions-point-transaction-made-by-branch-manager": "Standort Manager",
+    "utils-transactions-point-transaction-made-by-membership-plan": "Mitgliedschafts-Abo",
     "utils-transactions-point-transaction-credits-charge-default": "Credits abgebucht",
-    "utils-transactions-point-transaction-monthly-subscription-expiration": "Credits abgebucht ∙ Mitgliedschafts-Abo",
-    "utils-transactions-point-transaction-monthly-subscription-renewal": "Credits hinzugefügt ∙ Mitgliedschafts-Abo",
-    "utils-transactions-point-transaction-transfer-by-admin": "Credits hinzugefügt ∙ Standort Manager",
-    "utils-transactions-point-transaction-added-default": "Credits hinzugefügt"
+    "utils-transactions-point-transaction-credits-expired": "Abgelaufen",
+    "utils-transactions-point-transaction-credits-added-default": "Credits hinzugefügt"
   }
 }
