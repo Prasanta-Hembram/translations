@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-auth-step-code-cancel-verification-text": "¿Está seguro de que quiere detener el proceso de verificación?",
+    "alert-confirmation-auth-step-code-cancel-verification-no": "Detener",
+    "alert-confirmation-auth-step-code-cancel-verification-title": "Detener el proceso de verificación",
+    "alert-confirmation-auth-step-code-cancel-verification-yes": "Continuar"
+  }
+}
