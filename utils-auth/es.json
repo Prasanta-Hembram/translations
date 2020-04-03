@@ -2,7 +2,7 @@
   "data": {
     "utils-auth-agree-to-privacy": "He leído y estoy de acuerdo con la {privacyPolicy}",
     "utils-auth-agree-to-terms": "He leído y estoy de acuerdo con los {termsOfUse}",
-    "utils-auth-button-resend": "Haven't received the code?",
+    "utils-auth-button-resend": "¿No has recibido el código?",
     "utils-auth-code": "Código",
     "utils-auth-code-description": "Hemos enviado el código al {emailAddress}. {cta}",
     "utils-auth-code-description-cta": "Email incorrecto?",
