@@ -2,7 +2,7 @@
   "data": {
     "utils-auth-agree-to-privacy": "Я прочитал(а) и соглашаюсь с {privacyPolicy}",
     "utils-auth-agree-to-terms": "Я прочитал(а) и соглашаюсь с {termsOfUse}",
-    "utils-auth-button-resend": "Не получили код??",
+    "utils-auth-button-resend": "Не получили код?",
     "utils-auth-code": "Код подтверждения",
     "utils-auth-code-description": "Отправили код на {emailAddress}. {cta}",
     "utils-auth-code-description-cta": "Неправильный email?",
