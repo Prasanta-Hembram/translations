@@ -6,6 +6,8 @@
     "suite-page-profile-info-log-out": "Выйти из системы",
     "suite-page-profile-info-photo-delete": "Удалить фото",
     "suite-page-profile-info-section-about": "О себе",
-    "suite-page-profile-info-section-about-placeholder": "Рассказать о себе"
+    "suite-page-profile-info-section-about-placeholder": "Рассказать о себе",
+    "suite-page-profile-info-user-email-visibility": "Email Visibility",
+    "suite-page-profile-info-user-email-visibility-description": "Select who can see your email address."
   }
 }
