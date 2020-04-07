@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-credit-plan-update-message": "Möchten Sie den Kreditplan wirklich aktualisieren? Die Änderung gilt ab dem nächsten Verlängerungsdatum.",
+    "alert-confirmation-credit-plan-update-no": "Abbrechen",
+    "alert-confirmation-credit-plan-update-title": "Kreditplan aktualisieren",
+    "alert-confirmation-credit-plan-update-yes": "Ja"
+  }
+}

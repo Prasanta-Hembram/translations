@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-credit-plan-update-message":"크레딧 플랜을 업데이트하시겠습니까? 변경 사항은 다음 갱신 날짜에 적용됩니다.",
+    "alert-confirmation-credit-plan-update-no": "취소",
+    "alert-confirmation-credit-plan-update-title": "크레딧 플랜 업데이트",
+    "alert-confirmation-credit-plan-update-yes": "네"
+  }
+}

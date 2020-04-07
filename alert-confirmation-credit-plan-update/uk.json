@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-credit-plan-update-message": "Переконані, що хочете оновити кредитний план? Зміна набере чинності з наступного оновлення плану.",
+    "alert-confirmation-credit-plan-update-no": "Скасувати",
+    "alert-confirmation-credit-plan-update-title": "Оновити кредитний план",
+    "alert-confirmation-credit-plan-update-yes": "Так"
+  }
+}
