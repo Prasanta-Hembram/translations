@@ -1,7 +1,7 @@
 {
   "data": {
     "utils-transaction-status-canceled": "Скасовано",
-    "utils-transaction-status-failed": "Невдало",
+    "utils-transaction-status-failed": "Невдалося завершити",
     "utils-transaction-status-pending": "Обробка",
     "utils-transaction-status-paid": "Сплачено",
     "utils-transaction-status-paid-with-amount": "Сплачено {amount}",
