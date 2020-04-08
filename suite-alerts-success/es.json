@@ -15,6 +15,7 @@
     "suite-alerts-success-organization-invites-send": "Invitaciones enviadas.",
     "suite-alerts-success-organization-plan-deactivated": "El plan se desactiva con éxito.",
     "suite-alerts-success-organization-plan-purchased": "Plan es comprado.",
+    "suite-alerts-success-organization-request-to-join": "Request successfully sent.",
     "suite-alerts-success-service-apply": "La aplicación ha sido enviada con éxito.",
     "suite-alerts-success-sessions-other-signed-out": "Has salido de todas las demás sesiones."
   }

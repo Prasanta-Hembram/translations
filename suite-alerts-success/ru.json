@@ -15,6 +15,7 @@
     "suite-alerts-success-organization-invites-send": "Приглашения отправлены.",
     "suite-alerts-success-organization-plan-deactivated": "План успешно деактивирован.",
     "suite-alerts-success-organization-plan-purchased": "Тарифный план успешно куплен.",
+    "suite-alerts-success-organization-request-to-join": "Request successfully sent.",
     "suite-alerts-success-service-apply": "Заявка успешно отправлена.",
     "suite-alerts-success-sessions-other-signed-out": "Вы вышли из всех других сессий."
   }
