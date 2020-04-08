@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-profile-email-visibility-admins": "Only Admins",
-    "utils-profile-email-visibility-all": "Everyone",
+    "utils-profile-email-visibility-admins": "지점 관리자",
+    "utils-profile-email-visibility-all": "전체 회원",
     "utils-profile-name-default": "명이 없음",
     "utils-profile-name-unidentified": "불명 회원"
   }
