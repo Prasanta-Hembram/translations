@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-profile-email-visibility-admins": "Только менеджеры отделения",
+    "utils-profile-email-visibility-admins": "Менеджеры отделения",
     "utils-profile-email-visibility-all": "Все участники",
     "utils-profile-name-default": "Без имени",
     "utils-profile-name-unidentified": "Неизвестный участник"
