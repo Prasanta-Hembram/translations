@@ -43,7 +43,7 @@
     "invoice-issue-date": "Fecha de emisión: {invoiceDate}",
     "invoice-item-booking": "Rerserva de salas ({roomName})\n{bookingDate} {bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Pago {paymentDate}",
-    "invoice-title": "Factura #{invoiceId}",
+    "invoice-title": "Factura n.º {invoiceId}",
     "membership-plan-ends-in-five-days-notification-body": "Tu plan de membresía termina en 5 días. Compra un nuevo plan para quedarte.",
     "membership-plan-ends-tomorrow-notification-body": "Tu plan de membresía termina mañana. Compra un nuevo plan para quedarte.",
     "membership-plan-renew-in-five-days-notification-body": "Tu plan de membresía se extenderá automáticamente en 5 días.",
