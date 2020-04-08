@@ -4,7 +4,7 @@
     "suite-modal-organization-user-request-to-join-button": "Request",
     "suite-modal-organization-user-request-to-join-comment-label": "Comment",
     "suite-modal-organization-user-request-to-join-comment-placeholder": "Add comment",
-    "suite-modal-organization-user-request-to-join-workspace": "There is no workspace to join.",
+    "suite-modal-organization-user-request-to-join-no-workspace": "There is no workspace to join.",
     "suite-modal-organization-user-request-to-join-workspace-label": "Workspace"
   }
 }
