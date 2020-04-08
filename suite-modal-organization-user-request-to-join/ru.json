@@ -1,10 +1,10 @@
 {
   "data": {
-    "suite-modal-organization-user-request-to-join-title": "Request",
-    "suite-modal-organization-user-request-to-join-button": "Request",
-    "suite-modal-organization-user-request-to-join-comment-label": "Comment",
-    "suite-modal-organization-user-request-to-join-comment-placeholder": "Add comment",
-    "suite-modal-organization-user-request-to-join-no-workspace": "There is no workspace to join.",
-    "suite-modal-organization-user-request-to-join-workspace-label": "Workspace"
+    "suite-modal-organization-user-request-to-join-title": "Запрос на присоединение",
+    "suite-modal-organization-user-request-to-join-button": "Отправить",
+    "suite-modal-organization-user-request-to-join-comment-label": "Комментарий",
+    "suite-modal-organization-user-request-to-join-comment-placeholder": "Ввести комментарий",
+    "suite-modal-organization-user-request-to-join-no-workspace": "Коворкинги отсутствуют.",
+    "suite-modal-organization-user-request-to-join-workspace-label": "Коворкинг"
   }
 }
