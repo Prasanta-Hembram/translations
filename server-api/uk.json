@@ -23,7 +23,7 @@
     "email-confirmation-text": "Скористайтесь ним протягом 5 хвилин.",
     "email-confirmation-title": "Код підтвердження",
     "email-request-to-join-subject": "Request to Join {organizationTitle}",
-    "email-request-to-join-subject-with-name": "{userName} Request to Join {organizationTitle}",
+    "email-request-to-join-subject-with-name": "{userName} requested to join {organizationTitle}",
     "invoice-finalize-notification-body": "Інвойс команди {teamTitle} за {invoiceMonth} готовий. Переглянути та оплатити.",
     "invoice-finalize-notification-title": "Платежі {organizationTitle}",
     "invoice-button-pay": "Оплатити",

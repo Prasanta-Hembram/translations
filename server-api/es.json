@@ -23,7 +23,7 @@
     "email-confirmation-text": "Úsalo para acceder a tu cuenta en 5 minutos.",
     "email-confirmation-title": "Código de confirmación",
     "email-request-to-join-subject": "Request to Join {organizationTitle}",
-    "email-request-to-join-subject-with-name": "{userName} Request to Join {organizationTitle}",
+    "email-request-to-join-subject-with-name": "{userName} requested to join {organizationTitle}",
     "invoice-finalize-notification-body": "¡La factura de {teamTitle} para {invoiceMonth} está lista! Ver y pagar de inmediato.",
     "invoice-finalize-notification-title": "{organizationTitle} Pagos",
     "invoice-button-pay": "Pagar",
