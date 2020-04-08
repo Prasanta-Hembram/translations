@@ -43,7 +43,7 @@
     "invoice-issue-date": "Ausstellungsdatum: {invoiceDate}",
     "invoice-item-booking": "Raumbuchung {bookingDate}\n{bookingStartTime}-{bookingEndTime}",
     "invoice-item-default": "Zahlung {paymentDate}",
-    "invoice-title": "Rechnung #{invoiceId}",
+    "invoice-title": "Rechnungsnummer {invoiceId}",
     "membership-plan-ends-in-five-days-notification-body": "Ihr Mitgliedschafts-Abo endet in 5 Tagen. Erwerben Sie ein neues Abo, um weiter zu bleiben.",
     "membership-plan-ends-tomorrow-notification-body": "Ihr Mitgliedschafts-Abo endet morgen. Erwerben Sie ein neues Abo, um weiter zu bleiben.",
     "membership-plan-renew-in-five-days-notification-body": "Ihr Mitgliedschafts-Abo wird automatisch in 5 Tagen verlängert.",
