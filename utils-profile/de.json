@@ -1,7 +1,7 @@
 {
   "data": {
-    "utils-profile-email-visibility-admins": "Only Admins",
-    "utils-profile-email-visibility-all": "Everyone",
+    "utils-profile-email-visibility-admins": "Standort Manager",
+    "utils-profile-email-visibility-all": "Alle Mitglieder",
     "utils-profile-name-default": "Kein Name",
     "utils-profile-name-unidentified": "Nicht identifiziertes Mitglied"
   }
