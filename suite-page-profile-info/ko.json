@@ -6,6 +6,8 @@
     "suite-page-profile-info-log-out": "로그아웃",
     "suite-page-profile-info-photo-delete": "사진 삭제",
     "suite-page-profile-info-section-about": "자기소개",
-    "suite-page-profile-info-section-about-placeholder": "자기소개를 입력하기"
+    "suite-page-profile-info-section-about-placeholder": "자기소개를 입력하기",
+    "suite-page-profile-info-user-email-visibility": "이메일 보기 권한",
+    "suite-page-profile-info-user-email-visibility-description": "이메일 보기 권한을 설정하세요."
   }
 }

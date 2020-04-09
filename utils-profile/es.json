@@ -1,5 +1,7 @@
 {
   "data": {
+    "utils-profile-email-visibility-admins": "Gerentes de sucursal",
+    "utils-profile-email-visibility-all": "Todos los miembros",
     "utils-profile-name-default": "Sin nombre",
     "utils-profile-name-unidentified": "Miembro no identificado"
   }

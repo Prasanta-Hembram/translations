@@ -6,6 +6,8 @@
     "suite-page-profile-info-log-out": "Log out",
     "suite-page-profile-info-photo-delete": "Delete Photo",
     "suite-page-profile-info-section-about": "About",
-    "suite-page-profile-info-section-about-placeholder": "Type something"
+    "suite-page-profile-info-section-about-placeholder": "Type something",
+    "suite-page-profile-info-user-email-visibility": "Email Visibility",
+    "suite-page-profile-info-user-email-visibility-description": "Select who can see your email address."
   }
 }

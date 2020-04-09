@@ -6,6 +6,8 @@
     "suite-page-profile-info-log-out": "Abmelden",
     "suite-page-profile-info-photo-delete": "Foto löschen",
     "suite-page-profile-info-section-about": "Info",
-    "suite-page-profile-info-section-about-placeholder": "Hier ist Platz für ihre Vita."
+    "suite-page-profile-info-section-about-placeholder": "Hier ist Platz für ihre Vita.",
+    "suite-page-profile-info-user-email-visibility": "E-Mail-Sichtbarkeit",
+    "suite-page-profile-info-user-email-visibility-description": "Wählen Sie aus, wer Ihre E-Mail-Adresse sehen kann."
   }
 }
