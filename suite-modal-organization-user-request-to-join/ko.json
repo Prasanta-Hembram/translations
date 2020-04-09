@@ -4,6 +4,7 @@
     "suite-modal-organization-user-request-to-join-button": "요청하기",
     "suite-modal-organization-user-request-to-join-comment-label": "댓글",
     "suite-modal-organization-user-request-to-join-comment-placeholder": "댓글을 달기",
+    "suite-modal-organization-user-request-to-join-error-first-name": "이름을 입력하세요.",
     "suite-modal-organization-user-request-to-join-no-workspace": "가입할 공간이 없습니다.",
     "suite-modal-organization-user-request-to-join-workspace-label": "공간"
   }

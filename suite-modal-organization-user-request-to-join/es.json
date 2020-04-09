@@ -4,6 +4,7 @@
     "suite-modal-organization-user-request-to-join-button": "Solicitar",
     "suite-modal-organization-user-request-to-join-comment-label": "Comentario",
     "suite-modal-organization-user-request-to-join-comment-placeholder": "Ingrese el comentario",
+    "suite-modal-organization-user-request-to-join-error-first-name": "Por favor ingrese un nombre",
     "suite-modal-organization-user-request-to-join-no-workspace": "No hay espacio al que unirse.",
     "suite-modal-organization-user-request-to-join-workspace-label": "Workspace"
   }

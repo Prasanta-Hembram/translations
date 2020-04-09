@@ -4,6 +4,7 @@
     "suite-modal-organization-user-request-to-join-button": "Надіслати",
     "suite-modal-organization-user-request-to-join-comment-label": "Коментарій",
     "suite-modal-organization-user-request-to-join-comment-placeholder": "Увести коментарій",
+    "suite-modal-organization-user-request-to-join-error-first-name": "Уведіть ім'я.",
     "suite-modal-organization-user-request-to-join-no-workspace": "Коворкінги відсутні.",
     "suite-modal-organization-user-request-to-join-workspace-label": "Коворкінг"
   }
