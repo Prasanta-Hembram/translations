@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-modal-organization-user-request-to-join-title": "Request to Join",
+    "suite-modal-organization-user-request-to-join-button": "Request",
+    "suite-modal-organization-user-request-to-join-comment-label": "Comment",
+    "suite-modal-organization-user-request-to-join-comment-placeholder": "Type comment",
+    "suite-modal-organization-user-request-to-join-error-first-name": "Type a first name.",
+    "suite-modal-organization-user-request-to-join-no-workspace": "There is no workspace to join.",
+    "suite-modal-organization-user-request-to-join-workspace-label": "Workspace"
+  }
+}
