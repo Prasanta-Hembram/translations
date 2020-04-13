@@ -4,7 +4,6 @@
     "suite-page-organization-service-category-details-empty": "Эта категория сервисов не существует или была удалена.",
     "suite-page-organization-service-category-details-delete-button": "Удалить",
     "suite-page-organization-service-category-details-delete-repeat": "Попробовать снова",
-    "suite-page-organization-service-category-details-delete-fetch-failure": "Невозможно отобразить категорию сервисов. Проверьте интернет-соединение.",
-    "suite-page-organization-service-category-details-title-label": "Название"
+    "suite-page-organization-service-category-details-delete-fetch-failure": "Невозможно отобразить категорию сервисов. Проверьте интернет-соединение."
   }
 }
