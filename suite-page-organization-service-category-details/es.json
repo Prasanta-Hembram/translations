@@ -5,6 +5,6 @@
     "suite-page-organization-service-category-details-delete-button": "Borrar",
     "suite-page-organization-service-category-details-delete-repeat": "Inténtalo de nuevo",
     "suite-page-organization-service-category-details-delete-fetch-failure": "No se pudo mostrar categoría de servicios. Revisa tu conexión de internet y vuelve a intentarlo.",
-    "suite-page-organization-service-category-details-name": "Nombre"
+    "suite-page-organization-service-category-details-title-label": "Título"
   }
 }

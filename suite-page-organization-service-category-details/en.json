@@ -5,6 +5,6 @@
     "suite-page-organization-service-category-details-delete-button": "Delete",
     "suite-page-organization-service-category-details-delete-repeat": "Try again",
     "suite-page-organization-service-category-details-delete-fetch-failure": "Couldn't show service category. Check the internet and try again.",
-    "suite-page-organization-service-category-details-name": "Name"
+    "suite-page-organization-service-category-details-title-label": "Title"
   }
 }
