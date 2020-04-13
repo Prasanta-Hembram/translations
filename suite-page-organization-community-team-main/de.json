@@ -5,6 +5,7 @@
     "suite-page-organization-community-team-main-button-balance-history": "Saldenhistorie",
     "suite-page-organization-community-team-main-button-credits": "Credits",
     "suite-page-organization-community-team-main-button-invoices": "Rechnungen",
+    "suite-page-organization-community-team-main-button-select": "Auswählen",
     "suite-page-organization-community-team-main-button-settings": "Einstellungen",
     "suite-page-organization-community-team-main-delete-failure": "Team konnte nicht gelöscht werden.",
     "suite-page-organization-community-team-main-delete-repeat": "Löschung erneut versuchen",
@@ -13,8 +14,6 @@
     "suite-page-organization-community-team-main-not-found-error": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-community-team-main-section-team-managers": "Teammanager",
     "suite-page-organization-community-team-main-section-team-members": "Teammitglieder",
-    "suite-page-organization-community-team-main-section-membership-title": "Mitgliedschaft",
-    "suite-page-organization-community-team-main-select-team-managers-title": "Teammanager auswählen",
-    "suite-page-organization-community-team-main-select-team-members-title": "Teammitglieder auswählen"
+    "suite-page-organization-community-team-main-section-membership-title": "Mitgliedschaft"
   }
 }
