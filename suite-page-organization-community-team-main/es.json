@@ -5,6 +5,7 @@
     "suite-page-organization-community-team-main-button-balance-history": "Balance de historia",
     "suite-page-organization-community-team-main-button-credits": "Créditos",
     "suite-page-organization-community-team-main-button-invoices": "Facturas",
+    "suite-page-organization-community-team-main-button-select": "Elegir",
     "suite-page-organization-community-team-main-button-settings": "Configuraciones",
     "suite-page-organization-community-team-main-delete-failure": "No se ha podido borrar el equipo.",
     "suite-page-organization-community-team-main-delete-repeat": "Inténtalo de nuevo",
@@ -13,8 +14,6 @@
     "suite-page-organization-community-team-main-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
     "suite-page-organization-community-team-main-section-team-managers": "Administradores del equipo",
     "suite-page-organization-community-team-main-section-team-members": "Miembros del equipo",
-    "suite-page-organization-community-team-main-section-membership-title": "Membresía",
-    "suite-page-organization-community-team-main-select-team-managers-title": "Elegir gerentes de equipo",
-    "suite-page-organization-community-team-main-select-team-members-title": "Elegir miembros de equipo"
+    "suite-page-organization-community-team-main-section-membership-title": "Membresía"
   }
 }
