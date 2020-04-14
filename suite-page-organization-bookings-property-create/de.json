@@ -21,7 +21,7 @@
     "suite-page-organization-bookings-property-create-number-of-seats": "Plätze",
     "suite-page-organization-bookings-property-create-price-money": "Preis, {currencySymbol}/Std.",
     "suite-page-organization-bookings-property-create-price-points": "Credits, {pointEmoji}/Std.",
-    "suite-page-organization-bookings-property-create-team-add-team": "Team auswählen",
+    "suite-page-organization-bookings-property-create-team-add-team": "Auswählen",
     "suite-page-organization-bookings-property-create-team-none": "Kein",
     "suite-page-organization-bookings-property-create-title-create": "Neuen Raum"
   }

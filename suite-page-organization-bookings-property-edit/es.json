@@ -22,7 +22,7 @@
     "suite-page-organization-bookings-property-edit-number-of-seats": "Asientos",
     "suite-page-organization-bookings-property-edit-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-bookings-property-edit-price-points": "Precio, {pointEmoji}/hora",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Elegir equipo",
+    "suite-page-organization-bookings-property-edit-team-add-team": "Elegir",
     "suite-page-organization-bookings-property-edit-team-none": "Ninguna",
     "suite-page-organization-bookings-property-edit-title-edit": "Editar Habitación"
   }

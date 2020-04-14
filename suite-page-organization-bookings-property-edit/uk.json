@@ -22,7 +22,7 @@
     "suite-page-organization-bookings-property-edit-number-of-seats": "Місць",
     "suite-page-organization-bookings-property-edit-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-bookings-property-edit-price-points": "Ціна, {pointEmoji}/год",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Обрати команди",
+    "suite-page-organization-bookings-property-edit-team-add-team": "Обрати",
     "suite-page-organization-bookings-property-edit-team-none": "Не обрано",
     "suite-page-organization-bookings-property-edit-title-edit": "Редагувати кімнату"
   }

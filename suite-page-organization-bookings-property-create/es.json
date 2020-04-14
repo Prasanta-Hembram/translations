@@ -21,7 +21,7 @@
     "suite-page-organization-bookings-property-create-number-of-seats": "Asientos",
     "suite-page-organization-bookings-property-create-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-bookings-property-create-price-points": "Precio, {pointEmoji}/hora",
-    "suite-page-organization-bookings-property-create-team-add-team": "Elegir equipo",
+    "suite-page-organization-bookings-property-create-team-add-team": "Elegir",
     "suite-page-organization-bookings-property-create-team-none": "Ninguna",
     "suite-page-organization-bookings-property-create-title-create": "Nueva Sala"
   }

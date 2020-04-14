@@ -22,7 +22,7 @@
     "suite-page-organization-bookings-property-edit-number-of-seats": "Мест",
     "suite-page-organization-bookings-property-edit-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-bookings-property-edit-price-points": "Цена, {pointEmoji}/час",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Выбрать команды",
+    "suite-page-organization-bookings-property-edit-team-add-team": "Выбрать",
     "suite-page-organization-bookings-property-edit-team-none": "Не выбрано",
     "suite-page-organization-bookings-property-edit-title-edit": "Редактировать комнату"
   }

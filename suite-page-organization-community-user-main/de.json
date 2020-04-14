@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-community-user-main-button-booking": "Buchungshistorie",
     "suite-page-organization-community-user-main-button-credits": "Credits",
-    "suite-page-organization-community-user-main-button-delete-user": "Benutzer aus dem Workspace entfernen",
+    "suite-page-organization-community-user-main-button-delete": "Entfernen",
     "suite-page-organization-community-user-main-button-history": "Saldenhistorie",
     "suite-page-organization-community-user-main-button-plan": "Abo",
     "suite-page-organization-community-user-main-button-printed-pages": "Drucker",
@@ -12,7 +12,6 @@
     "suite-page-organization-community-user-main-invited-email": "Einladung gesendet an {userEmail}.",
     "suite-page-organization-community-user-main-leave-repeat": "Erneut versuchen",
     "suite-page-organization-community-user-main-leave-user-failure": "Benutzer konnte nicht aus dem Workspace entfernt werden.",
-    "suite-page-organization-community-user-main-remove-invitation": "Benutzer entfernen",
     "suite-page-organization-community-user-main-resend-invite": "Einladung erneut versenden",
     "suite-page-organization-community-user-main-section-membership-title": "Mitgliedschaft"
   }

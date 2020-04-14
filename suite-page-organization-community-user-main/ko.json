@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-community-user-main-button-booking": "예약 현황",
     "suite-page-organization-community-user-main-button-credits": "크레딧",
-    "suite-page-organization-community-user-main-button-delete-user": "회원 삭제",
+    "suite-page-organization-community-user-main-button-delete": "회원 삭제.",
     "suite-page-organization-community-user-main-button-history": "결제 내역",
     "suite-page-organization-community-user-main-button-plan": "플랜",
     "suite-page-organization-community-user-main-button-printed-pages": "프린터",
@@ -12,7 +12,6 @@
     "suite-page-organization-community-user-main-invited-email": "초대장을 {userEmail}로 발송되었습니다.",
     "suite-page-organization-community-user-main-leave-repeat": "다시시도",
     "suite-page-organization-community-user-main-leave-user-failure": "사용자 삭제 실패.",
-    "suite-page-organization-community-user-main-remove-invitation": "회원 삭제",
     "suite-page-organization-community-user-main-resend-invite": "초대 재발송",
     "suite-page-organization-community-user-main-section-membership-title": "멤버십"
   }
