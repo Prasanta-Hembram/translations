@@ -6,7 +6,6 @@
     "utils-service-application-type-by-link": "Link",
     "utils-service-application-type-no-application": "Keine Beantragung erforderlich",
     "utils-service-permission-type-admin": "Standort Managers",
-    "utils-service-permission-type-all": "Alle Mitglieder und Gäste",
-    "utils-service-permission-type-member": "Alle Mitglieder"
+    "utils-service-permission-type-all": "Alle Mitglieder"
   }
 }

@@ -6,7 +6,6 @@
     "utils-service-application-type-by-link": "Ссылка",
     "utils-service-application-type-no-application": "Заявка не нужна",
     "utils-service-permission-type-admin": "Менеджеры отделения",
-    "utils-service-permission-type-all": "Все участники и гости",
-    "utils-service-permission-type-member": "Все участники"
+    "utils-service-permission-type-all": "Все участники"
   }
 }

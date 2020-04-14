@@ -6,7 +6,6 @@
     "utils-service-application-type-by-link": "링크",
     "utils-service-application-type-no-application": "신청 불필요",
     "utils-service-permission-type-admin": "지점 관리자",
-    "utils-service-permission-type-all": "전체 회원 및 게스트",
-    "utils-service-permission-type-member": "전체 회원"
+    "utils-service-permission-type-all": "전체 회원"
   }
 }
