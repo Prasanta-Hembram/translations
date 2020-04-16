@@ -22,7 +22,7 @@
     "suite-page-organization-bookings-property-edit-number-of-seats": "좌석 수",
     "suite-page-organization-bookings-property-edit-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-bookings-property-edit-price-points": "시간당 {pointEmoji}",
-    "suite-page-organization-bookings-property-edit-team-add-team": "선택",
+    "suite-page-organization-bookings-property-edit-team-add-team": "선택하기",
     "suite-page-organization-bookings-property-edit-team-none": "선택 안 함",
     "suite-page-organization-bookings-property-edit-title-edit": "회의실설정"
   }
