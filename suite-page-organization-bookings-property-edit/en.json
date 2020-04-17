@@ -22,7 +22,7 @@
     "suite-page-organization-bookings-property-edit-number-of-seats": "Seats",
     "suite-page-organization-bookings-property-edit-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-bookings-property-edit-price-points": "Credits, {pointEmoji}/hr",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Select Team",
+    "suite-page-organization-bookings-property-edit-team-add-team": "Select",
     "suite-page-organization-bookings-property-edit-team-none": "None",
     "suite-page-organization-bookings-property-edit-title-edit": "Edit Room"
   }
