@@ -8,11 +8,7 @@
     "utils-fields-first-name-placeholder": "Vornamen eingeben",
     "utils-fields-last-name": "Nachname",
     "utils-fields-last-name-placeholder": "Nachnamen eingeben",
-    "utils-fields-organization": "Organisation",
-    "utils-fields-organization-placeholder": "Organisationsnamen eingeben",
     "utils-fields-phone-number": "Rufnummer",
-    "utils-fields-phone-number-placeholder": "Rufnummer eingeben",
-    "utils-fields-title-placeholder": "Funktion eingeben",
-    "utils-fields-title": "Berufstitel"
+    "utils-fields-phone-number-placeholder": "Rufnummer eingeben"
   }
 }

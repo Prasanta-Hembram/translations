@@ -8,11 +8,7 @@
     "utils-fields-first-name-placeholder": "이름 입력하기",
     "utils-fields-last-name": "성",
     "utils-fields-last-name-placeholder": "성 입력하기",
-    "utils-fields-organization": "직장",
-    "utils-fields-organization-placeholder": "직장 입력하기",
     "utils-fields-phone-number": "휴대전화",
-    "utils-fields-phone-number-placeholder": "휴대전화 입력하기",
-    "utils-fields-title": "호칭",
-    "utils-fields-title-placeholder": "호칭 입력하기"
+    "utils-fields-phone-number-placeholder": "휴대전화 입력하기"
   }
 }

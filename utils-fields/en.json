@@ -8,11 +8,7 @@
     "utils-fields-first-name-placeholder": "Type a name",
     "utils-fields-last-name": "Surname",
     "utils-fields-last-name-placeholder": "Type a surname",
-    "utils-fields-organization": "Organization",
-    "utils-fields-organization-placeholder": "Type an organization name",
     "utils-fields-phone-number": "Phone Number",
-    "utils-fields-phone-number-placeholder": "Type a phone number",
-    "utils-fields-title-placeholder": "Type a position",
-    "utils-fields-title": "Title"
+    "utils-fields-phone-number-placeholder": "Type a phone number"
   }
 }

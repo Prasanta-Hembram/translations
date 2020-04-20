@@ -8,11 +8,7 @@
     "utils-fields-first-name-placeholder": "Ввести имя",
     "utils-fields-last-name": "Фамилия",
     "utils-fields-last-name-placeholder": "Ввести фамилию",
-    "utils-fields-organization": "Организация",
-    "utils-fields-organization-placeholder": "Ввести организацию",
     "utils-fields-phone-number": "Телефон",
-    "utils-fields-phone-number-placeholder": "Ввести телефон",
-    "utils-fields-title": "Должность",
-    "utils-fields-title-placeholder": "Ввести должность"
+    "utils-fields-phone-number-placeholder": "Ввести телефон"
   }
 }
