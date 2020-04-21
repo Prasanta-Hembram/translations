@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-modal-organization-benefit-apply-title": "New Application",
+    "suite-modal-organization-benefit-apply-button-apply": "Submit",
+    "suite-modal-organization-benefit-apply-button-done": "Done",
+    "suite-modal-organization-benefit-apply-description": "Provide additional information for the service application, or ask any questions.",
+    "suite-modal-organization-benefit-apply-error-email": "Type a correct email.",
+    "suite-modal-organization-benefit-apply-error-phone-number": "Type a phone number.",
+    "suite-modal-organization-benefit-apply-name": "Name",
+    "suite-modal-organization-benefit-apply-note": "Comment",
+    "suite-modal-organization-benefit-apply-note-placeholder": "Type a comment",
+    "suite-modal-organization-benefit-apply-policy-description": "Your personal information will be sent to the service provider for processing the application.",
+    "suite-modal-organization-benefit-apply-success-text": "The service application is successfully submitted. The confirmation email is on its way.",
+    "suite-modal-organization-benefit-apply-success-title": "Good job!"
+  }
+}
