@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Type a valid code from a text message.",
+    "suite-alerts-errors-benefit-already-applied": "You can't apply more than once.",
     "suite-alerts-errors-booking-already-started": "Unable to reschedule the booking that has already started.",
     "suite-alerts-errors-booking-booker-invalid": "Booker has no permission to book in private room.",
     "suite-alerts-errors-booking-conflict": "Another booking already exists at the same time.",
@@ -36,7 +37,6 @@
     "suite-alerts-errors-plan-periods-empty": "Plan must have at least 1 period.",
     "suite-alerts-errors-price-invalid": "The price is invalid. Check all fields and try again.",
     "suite-alerts-errors-property-is-missing": "Failed to book for this room.",
-    "suite-alerts-errors-service-already-applied": "You can't apply more than once.",
     "suite-alerts-errors-sign-in-facebook-error": "Unable to login with Facebook, because it is not associated with any existing account.",
     "suite-alerts-errors-sign-in-google-error": "Unable to login with Google, because it is not associated with any existing account.",
     "suite-alerts-errors-sns-user-exists": "The login method is used by another account.",

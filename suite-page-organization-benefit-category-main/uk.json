@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefit-category-main-get-failure": "Не вдалося показати cписок сервісів. Перевірте інтернет-з'єднання.",
-    "suite-page-organization-benefit-category-main-no-services": "В коворкінгу немає сервісів для відображення.",
-    "suite-page-organization-benefit-category-main-no-services-in-category": "Немає сервісів."
+    "suite-page-organization-benefit-category-main-no-benefits": "В коворкінгу немає сервісів для відображення.",
+    "suite-page-organization-benefit-category-main-no-benefits-in-category": "Немає сервісів."
   }
 }

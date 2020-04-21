@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Ingresa un código válido de un mensaje de texto.",
+    "suite-alerts-errors-benefit-already-applied": "No se puede solicitar más de una vez.",
     "suite-alerts-errors-booking-already-started": "No se puede reprogramar la reserva que ya ha comenzado.",
     "suite-alerts-errors-booking-booker-invalid": "El usuario no tiene permiso para reservar una sala privada.",
     "suite-alerts-errors-booking-conflict": "Otra reserva ya existe al mismo tiempo.",
@@ -36,7 +37,6 @@
     "suite-alerts-errors-plan-periods-empty": "El plan debe tener al menos 1 período.",
     "suite-alerts-errors-price-invalid": "El precio no es válido. Revisa todos los campos e intenta nuevamente.",
     "suite-alerts-errors-property-is-missing": "No se pudo reservar esta sala.",
-    "suite-alerts-errors-service-already-applied": "No se puede solicitar más de una vez.",
     "suite-alerts-errors-sign-in-facebook-error": "No se puede iniciar sesión con Facebook, porque no está asociado con ninguna cuenta existente.",
     "suite-alerts-errors-sign-in-google-error": "No se puede iniciar sesión con Google, porque no está asociado con ninguna cuenta existente.",
     "suite-alerts-errors-sns-user-exists": "El método de inicio de sesión es utilizado por otra cuenta.",

@@ -1,0 +1,11 @@
+{
+  "data": {
+    "utils-benefits-allowance-type-once": "Einmalig",
+    "utils-benefits-allowance-type-unlimited": "Unbegrenzt",
+    "utils-benefits-application-type-by-email": "E-Mail",
+    "utils-benefits-application-type-by-link": "Link",
+    "utils-benefits-application-type-no-application": "Keine Beantragung erforderlich",
+    "utils-benefits-permission-type-admin": "Standort Managers",
+    "utils-benefits-permission-type-all": "Alle Mitglieder"
+  }
+}
