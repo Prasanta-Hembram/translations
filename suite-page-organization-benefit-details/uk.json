@@ -7,6 +7,6 @@
     "suite-page-organization-benefit-details-button-repeat": "Спробувати знову",
     "suite-page-organization-benefit-details-delete-failure": "Не вдалося видалити сервіс.",
     "suite-page-organization-benefit-details-get-failure": "Неможливо відобразити сервіси. Перевірте інтернет-з'єднання.",
-    "suite-page-organization-benefit-details-no-service": "Немає сервісів для відображення."
+    "suite-page-organization-benefit-details-no-benefit": "Немає сервісів для відображення."
   }
 }

@@ -7,6 +7,6 @@
     "suite-page-organization-benefit-details-button-repeat": "Inténtalo de nuevo",
     "suite-page-organization-benefit-details-delete-failure": "Error al eliminar el servicio.",
     "suite-page-organization-benefit-details-get-failure": "No se pudo mostrar servicio. Revisa tu conexión de internet y vuelve a intentarlo.",
-    "suite-page-organization-benefit-details-no-service": "No hay servicios para mostrar."
+    "suite-page-organization-benefit-details-no-benefit": "No hay servicios para mostrar."
   }
 }
