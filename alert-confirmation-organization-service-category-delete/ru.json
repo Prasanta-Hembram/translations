@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-service-category-delete-title": "Удалить категорию сервисов",
-    "alert-confirmation-organization-service-category-delete-no": "Отменить",
-    "alert-confirmation-organization-service-category-delete-text": "Вы уверены, что хотите удалить категорию вместе со всеми содержащимися сервисами? Это действие необратимо.",
-    "alert-confirmation-organization-service-category-delete-yes": "Удалить"
-  }
-}

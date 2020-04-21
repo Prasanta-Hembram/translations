@@ -1,5 +1,14 @@
 {
   "data": {
+    "benefit-apply-email-application-comment": "Kommentar:\n{comment}",
+    "benefit-apply-email-application-email": "E-Mail: {email}",
+    "benefit-apply-email-application-full-name": "Vollständiger Name: {userFullName}",
+    "benefit-apply-email-application-membership-full": "Mitgliedschaftsinformationen: {membershipInformation}",
+    "benefit-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} Team)",
+    "benefit-apply-email-application-phone-number": "Rufnummer: {phoneNumber}",
+    "benefit-apply-email-application-title": "Informationen zur Dienstleistungen",
+    "benefit-apply-email-subject": "Sie haben den Dienst {serviceTitle} beantragt",
+    "benefit-apply-email-title": "Vielen Dank für die Beantragung des Dienstleistungen {serviceTitle}!",
     "booking-ends-in-five-minutes-notification-body": "Ihre Buchung endet in 5 Minuten. Bitte achten Sie auf die Sauberkeit des Raumes.",
     "booking-start-notification-body": "Ihre Buchung beginnt in 5 Minuten. Tippen Sie hier für Details.",
     "bulk-invite-failure-email-duplicated": "Email für Einladungsmail in Zeile {row} wird dupliziert.",
@@ -52,15 +61,6 @@
     "payment-intent-default-description": "Zahlung {paymentDate}",
     "payment-intent-invoice-description": "Rechnung ({invoiceDate})",
     "powered-by-andcards": "Powered by {andcardsUrl}",
-    "service-apply-email-application-comment": "Kommentar:\n{comment}",
-    "service-apply-email-application-email": "E-Mail: {email}",
-    "service-apply-email-application-full-name": "Vollständiger Name: {userFullName}",
-    "service-apply-email-application-membership-full": "Mitgliedschaftsinformationen: {membershipInformation}",
-    "service-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} Team)",
-    "service-apply-email-application-phone-number": "Rufnummer: {phoneNumber}",
-    "service-apply-email-application-title": "Informationen zur Dienstleistungen",
-    "service-apply-email-subject": "Sie haben den Dienst {serviceTitle} beantragt",
-    "service-apply-email-title": "Vielen Dank für die Beantragung des Dienstleistungen {serviceTitle}!",
     "stream-comment-notification-title": "{userName} kommentierte den Post",
     "stream-notification-title": "{userName} hat in {organizationTitle} geschrieben"
   }

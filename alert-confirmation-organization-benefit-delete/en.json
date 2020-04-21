@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-benefit-delete-title": "Delete service",
+    "alert-confirmation-organization-benefit-delete-no": "Cancel",
+    "alert-confirmation-organization-benefit-delete-text": "Are you sure you want to delete this service? This action is irreversible.",
+    "alert-confirmation-organization-benefit-delete-yes": "Delete"
+  }
+}
