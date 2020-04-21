@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-stream-activity-main-title": "Post de Stream",
+    "suite-page-organization-stream-activity-main-button-delete": "Borrar",
     "suite-page-organization-stream-activity-main-button-repeat": "Inténtalo de nuevo.",
     "suite-page-organization-stream-activity-main-comment-placeholder": "Agrega un commentario...",
     "suite-page-organization-stream-activity-main-comment-post": "Publicar",

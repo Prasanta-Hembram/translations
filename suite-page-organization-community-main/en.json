@@ -3,6 +3,8 @@
     "suite-page-organization-community-main-title": "Community",
     "suite-page-organization-community-main-balance-credit": "Credit Balance",
     "suite-page-organization-community-main-balance-unpaid-invoices": "Unpaid Invoices",
+    "suite-page-organization-community-main-button-invite-member": "Invite Member",
+    "suite-page-organization-community-main-button-team-create": "Create Team",
     "suite-page-organization-community-main-end": "Ends",
     "suite-page-organization-community-main-error-team-name": "Failed to create a team. The name can't be empty.",
     "suite-page-organization-community-main-member-create": "Create",
