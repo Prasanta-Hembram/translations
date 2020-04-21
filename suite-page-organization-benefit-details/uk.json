@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-benefit-details-title": "Сервіс",
+    "suite-page-organization-benefit-details-button-apply": "Подати заявку",
+    "suite-page-organization-benefit-details-button-applied": "Заявку подано",
+    "suite-page-organization-benefit-details-button-delete": "Видалити",
+    "suite-page-organization-benefit-details-button-repeat": "Спробувати знову",
+    "suite-page-organization-benefit-details-delete-failure": "Не вдалося видалити сервіс.",
+    "suite-page-organization-benefit-details-get-failure": "Неможливо відобразити сервіси. Перевірте інтернет-з'єднання.",
+    "suite-page-organization-benefit-details-no-service": "Немає сервісів для відображення."
+  }
+}
