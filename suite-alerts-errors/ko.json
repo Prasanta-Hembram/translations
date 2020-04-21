@@ -41,6 +41,7 @@
     "suite-alerts-errors-sign-in-google-error": "기존 계정과 연결되어 있지 않으므로 Google로 로그인할 수 없습니다.",
     "suite-alerts-errors-sns-user-exists": "다른 계정에 의해 로그인 되었습니다.",
     "suite-alerts-errors-trial-already-started": "예약 가능한 시간대에 맞추어 시간 범위를 선택해주세요.",
+    "suite-alerts-errors-unauthorized": "Authorization failed.",
     "suite-alerts-errors-user-already-activated": "회원이 이미 활성화되었습니다.",
     "suite-alerts-errors-user-have-no-permission": "필요한 권한이 없습니다."
   }

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-ezeep-disconnect-title": "Desconectar Ezeep",
+    "alert-confirmation-integration-ezeep-disconnect-text": "¿Estás seguro de que quieres desconectar Ezeep?",
+    "alert-confirmation-integration-ezeep-disconnect-no": "Cancelar",
+    "alert-confirmation-integration-ezeep-disconnect-yes": "Desconectar"
+  }
+}

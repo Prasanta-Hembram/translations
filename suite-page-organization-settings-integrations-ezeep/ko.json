@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-ezeep-account-title": "계정",
+    "suite-page-organization-settings-integrations-ezeep-account-name": "계정 명",
+    "suite-page-organization-settings-integrations-ezeep-account-password": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-password-placeholder": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-username": "Username",
+    "suite-page-organization-settings-integrations-ezeep-account-username-placeholder": "Username",
+    "suite-page-organization-settings-integrations-ezeep-button-connect": "연결하기",
+    "suite-page-organization-settings-integrations-ezeep-button-disconnect": "연결 끊기",
+    "suite-page-organization-settings-integrations-ezeep-description": "커뮤니티의 회원 정보를 Ezeep에 동기화시키세요.",
+    "suite-page-organization-settings-integrations-ezeep-marketing-link-description": "더 알아보기",
+    "suite-page-organization-settings-integrations-ezeep-title": "연동"
+  }
+}

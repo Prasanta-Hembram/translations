@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-ezeep-account-title": "Account",
+    "suite-page-organization-settings-integrations-ezeep-account-name": "Account Name",
+    "suite-page-organization-settings-integrations-ezeep-account-password": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-password-placeholder": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-username": "Username",
+    "suite-page-organization-settings-integrations-ezeep-account-username-placeholder": "Username",
+    "suite-page-organization-settings-integrations-ezeep-button-connect": "Connect",
+    "suite-page-organization-settings-integrations-ezeep-button-disconnect": "Disconnect",
+    "suite-page-organization-settings-integrations-ezeep-description": "Synchronize member information from Community to Ezeep.",
+    "suite-page-organization-settings-integrations-ezeep-marketing-link-description": "Learn more",
+    "suite-page-organization-settings-integrations-ezeep-title": "Integration"
+  }
+}

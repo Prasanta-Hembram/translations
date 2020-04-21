@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-ezeep-account-title": "Обліковий запис",
+    "suite-page-organization-settings-integrations-ezeep-account-name": "Назва облікового запису",
+    "suite-page-organization-settings-integrations-ezeep-account-password": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-password-placeholder": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-username": "Username",
+    "suite-page-organization-settings-integrations-ezeep-account-username-placeholder": "Username",
+    "suite-page-organization-settings-integrations-ezeep-button-connect": "Під'єднати",
+    "suite-page-organization-settings-integrations-ezeep-button-disconnect": "Від'єднати",
+    "suite-page-organization-settings-integrations-ezeep-description": "Синхронізуйте інформацію про резидентів спільноти в Ezeep.",
+    "suite-page-organization-settings-integrations-ezeep-marketing-link-description": "Дізнатись більше",
+    "suite-page-organization-settings-integrations-ezeep-title": "Інтеграція"
+  }
+}

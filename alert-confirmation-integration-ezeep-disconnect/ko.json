@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-ezeep-disconnect-title": "Ezeep 연결 끊기",
+    "alert-confirmation-integration-ezeep-disconnect-text": "Ezeep의 연결을 끊으시겠습니까?",
+    "alert-confirmation-integration-ezeep-disconnect-no": "취소",
+    "alert-confirmation-integration-ezeep-disconnect-yes": "연결 끊기"
+  }
+}

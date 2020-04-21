@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-ezeep-account-title": "Учетная запись",
+    "suite-page-organization-settings-integrations-ezeep-account-name": "Название учетной записи",
+    "suite-page-organization-settings-integrations-ezeep-account-password": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-password-placeholder": "Password",
+    "suite-page-organization-settings-integrations-ezeep-account-username": "Username",
+    "suite-page-organization-settings-integrations-ezeep-account-username-placeholder": "Username",
+    "suite-page-organization-settings-integrations-ezeep-button-connect": "Присоединить",
+    "suite-page-organization-settings-integrations-ezeep-button-disconnect": "Отсоединить",
+    "suite-page-organization-settings-integrations-ezeep-description": "Синхронизируйте информацию о резидентах сообщества в Ezeep.",
+    "suite-page-organization-settings-integrations-ezeep-marketing-link-description": "Подробнее",
+    "suite-page-organization-settings-integrations-ezeep-title": "Интеграция"
+  }
+}
