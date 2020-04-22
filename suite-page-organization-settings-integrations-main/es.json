@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-integrations-main-title": "Integraciones",
-    "suite-page-organization-settings-integrations-main-ezeep-subtitle": "Printing",
-    "suite-page-organization-settings-integrations-main-mailchimp-subtitle": "Automatice el marketing por correo electrónico",
-    "suite-page-organization-settings-integrations-main-stripe-subtitle": "Aceptar pagos con tarjeta para reservas"
+    "suite-page-organization-settings-integrations-main-ezeep-subtitle": "Impresión en la nube",
+    "suite-page-organization-settings-integrations-main-mailchimp-subtitle": "Marketing por email",
+    "suite-page-organization-settings-integrations-main-stripe-subtitle": "Pagos con tarjeta para reservas"
   }
 }
