@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-balance-history-permission-all-members": "전체 팀원",
+    "utils-balance-history-permission-all-members": "팀 매니저  팀원",
     "utils-balance-history-permission-info-all-members": "전체 팀원 결제 내역을 볼 수 있습니다.",
     "utils-balance-history-permission-info-team-managers": "팀 매니저 만 결제 내역을 볼 수 있습니다.",
-    "utils-balance-history-permission-team-managers": "팀 매니저 만"
+    "utils-balance-history-permission-team-managers": "팀 매니저"
   }
 }

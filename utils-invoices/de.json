@@ -1,9 +1,9 @@
 {
   "data": {
-    "utils-invoice-book-by-invoice-permission-all-members": "Alle Teammitglieder",
+    "utils-invoice-book-by-invoice-permission-all-members": "Teammanager und Teammitglieder",
     "utils-invoice-book-by-invoice-permission-info-all-members": "Alle Teammitglieder können Räume per Teamrechnung buchen.",
     "utils-invoice-book-by-invoice-permission-info-team-managers": "Nur Teammanager können Räume per Teamrechnung buchen.",
-    "utils-invoice-book-by-invoice-permission-team-managers": "Nur Teammanager",
+    "utils-invoice-book-by-invoice-permission-team-managers": "Teammanager",
     "utils-invoice-item-type-booking-payment-type": "Gebuchter Raum",
     "utils-invoice-item-type-booking-payment-type-with-name": "Raum gebucht von {name}",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Raum {roomName} gebucht von {name}",

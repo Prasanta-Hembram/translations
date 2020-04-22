@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-balance-history-permission-all-members": "All Team Members",
+    "utils-balance-history-permission-all-members": "Team Managers and Team Members",
     "utils-balance-history-permission-info-all-members": "All team members can see balance history.",
     "utils-balance-history-permission-info-team-managers": "Only team managers can see balance history.",
-    "utils-balance-history-permission-team-managers": "Only Team Managers"
+    "utils-balance-history-permission-team-managers": "Team Managers"
   }
 }
