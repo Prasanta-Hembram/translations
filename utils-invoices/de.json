@@ -1,6 +1,6 @@
 {
   "data": {
-    "utils-invoice-book-by-invoice-permission-all-members": "Team Managers and Team Members",
+    "utils-invoice-book-by-invoice-permission-all-members": "Teammanager und Teammitglieder",
     "utils-invoice-book-by-invoice-permission-info-all-members": "Alle Teammitglieder können Räume per Teamrechnung buchen.",
     "utils-invoice-book-by-invoice-permission-info-team-managers": "Nur Teammanager können Räume per Teamrechnung buchen.",
     "utils-invoice-book-by-invoice-permission-team-managers": "Teammanager",
