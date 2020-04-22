@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-alerts-errors-auth-code-invalid": "Geben Sie einen gültigen Code aus einer Textnachricht ein.",
+    "suite-alerts-errors-benefit-already-applied": "Sie können sich nicht mehrfach bewerben.",
     "suite-alerts-errors-booking-already-started": "Es ist nicht möglich, die bereits begonnene Buchung zu verschieben.",
     "suite-alerts-errors-booking-booker-invalid": "Der Buchende hat keine Berechtigung, im Privatraum zu buchen.",
     "suite-alerts-errors-booking-conflict": "Eine weitere Buchung existiert bereits zur gleichen Zeit.",
@@ -35,7 +36,6 @@
     "suite-alerts-errors-plan-delete-reject": "Löschen nicht möglich. Abo in Gebrauch.",
     "suite-alerts-errors-plan-periods-empty": "Das Abo muss mindestens 1 Zeitraum haben.",
     "suite-alerts-errors-property-is-missing": "Die Buchung für diesen Raum ist fehlgeschlagen.",
-    "suite-alerts-errors-service-already-applied": "Sie können sich nicht mehrfach bewerben.",
     "suite-alerts-errors-sign-in-facebook-error": "Die Anmeldung bei Facebook ist nicht möglich, da sie nicht mit einem bestehenden Konto verknüpft ist.",
     "suite-alerts-errors-sign-in-google-error": "Die Anmeldung bei Google ist nicht möglich, da sie nicht mit einem bestehenden Konto verknüpft ist.",
     "suite-alerts-errors-sns-user-exists": "Die Login-Methode wird von einem anderen Konto verwendet.",

@@ -1,9 +1,9 @@
 {
   "data": {
-    "utils-invoice-book-by-invoice-permission-all-members": "전체 팀원",
+    "utils-invoice-book-by-invoice-permission-all-members": "팀 매니저 및 팀원",
     "utils-invoice-book-by-invoice-permission-info-all-members": "전체 팀원들이 '팀인보이스' 결제 수단을 이용 가능합니다.",
     "utils-invoice-book-by-invoice-permission-info-team-managers": "팀 매니저들 만 '팀인보이스' 결제 수단을 이용 가능합니다.",
-    "utils-invoice-book-by-invoice-permission-team-managers": "팀 매니저 만",
+    "utils-invoice-book-by-invoice-permission-team-managers": "팀 매니저",
     "utils-invoice-item-type-booking-payment-type": "회의실 예약",
     "utils-invoice-item-type-booking-payment-type-with-name": "{name} 회의실 예약",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "{name} {roomName} 회의실 예약",

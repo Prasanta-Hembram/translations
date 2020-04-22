@@ -5,6 +5,7 @@
     "suite-alerts-refund-booking-credits-for-owner": "{points} успішно відшкодовано.",
     "suite-alerts-refund-booking-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успішно відшкодовано.",
+    "suite-alerts-success-benefit-apply": "Заявку успішно надіслано.",
     "suite-alerts-success-booking-create": "Резервацію здійснено успішно.",
     "suite-alerts-success-booking-edit": "Резервацію змінено.",
     "suite-alerts-success-booking-edit-charge": "Резервацію змінено. {priceDifferenceToPay} сплачено.",
@@ -16,7 +17,6 @@
     "suite-alerts-success-organization-plan-deactivated": "План успішно деактивовано.",
     "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна.",
     "suite-alerts-success-organization-request-to-join": "Заявку успішно надіслано",
-    "suite-alerts-success-service-apply": "Заявку успішно надіслано.",
     "suite-alerts-success-sessions-other-signed-out": "Ви вийшли з усіх інших сесій."
   }
 }

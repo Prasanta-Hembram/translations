@@ -1,9 +1,0 @@
-{
-  "data": {
-    "marketing-page-error-title": "Ошибка - {errorCode}",
-    "marketing-page-error-description": "andcards — сервис для развития коворкингов и организаций",
-    "marketing-page-error-help-page": "справку",
-    "marketing-page-error-home": "домой",
-    "marketing-page-error-text-description": "Что-то пошло не так. Перейдите {supportPage} для помощи, либо вернитесь на {homePage}."
-  }
-}

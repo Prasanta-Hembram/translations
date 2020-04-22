@@ -1,1 +1,0 @@
-Conecta un calendario personal o de trabajo de Apple Calendar para sincronizar todas las reservas realizadas en andcards. Si haces una reserva de sala de reuniones con andcards, ésta aparecerá automáticamente en tu calendario.

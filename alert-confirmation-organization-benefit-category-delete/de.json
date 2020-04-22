@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-benefit-category-delete-title": "Dienstkategorie löschen",
+    "alert-confirmation-organization-benefit-category-delete-no": "Abbrechen",
+    "alert-confirmation-organization-benefit-category-delete-text": "Sind Sie sicher, dass Sie die Kategorie mit ihren Dienstleistungen löschen wollen? Diese Aktion ist irreversibel.",
+    "alert-confirmation-organization-benefit-category-delete-yes": "Entfernen"
+  }
+}

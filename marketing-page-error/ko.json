@@ -1,9 +1,0 @@
-{
-  "data": {
-    "marketing-page-error-title": "에러 - {errorCode}",
-    "marketing-page-error-description": "andcards — 조직과 코워킹 스페이스를 위한 커뮤니티 소프트웨어",
-    "marketing-page-error-help-page": "고객센터",
-    "marketing-page-error-home": "메인으로 돌아가기",
-    "marketing-page-error-text-description": "아무것도 없어요 😥. {supportPage}를 방문하십시오. {homePage}"
-  }
-}

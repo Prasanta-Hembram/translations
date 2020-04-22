@@ -1,9 +1,0 @@
-{
-  "data": {
-    "marketing-page-error-title": "Error - {errorCode}",
-    "marketing-page-error-description": "andcards — community software for organizations and coworkings",
-    "marketing-page-error-help-page": "help page",
-    "marketing-page-error-home": "home",
-    "marketing-page-error-text-description": "Something is missing. Visit our {supportPage} for help or return {homePage}."
-  }
-}

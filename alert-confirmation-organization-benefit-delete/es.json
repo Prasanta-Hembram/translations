@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-benefit-delete-title": "Eliminar servicio",
+    "alert-confirmation-organization-benefit-delete-no": "Cancelar",
+    "alert-confirmation-organization-benefit-delete-text": "¿Está seguro de que desea eliminar este servicio? Esta acción es irreversible.",
+    "alert-confirmation-organization-benefit-delete-yes": "Eliminar"
+  }
+}

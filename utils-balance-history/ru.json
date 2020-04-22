@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-balance-history-permission-all-members": "Все участники команды",
+    "utils-balance-history-permission-all-members": "Менеджеры и участники команды",
     "utils-balance-history-permission-info-all-members": "Все участники команды могут видеть историю транзакций.",
     "utils-balance-history-permission-info-team-managers": "Только менеджеры команды могут видеть историю транзакций.",
-    "utils-balance-history-permission-team-managers": "Только менеджеры команды"
+    "utils-balance-history-permission-team-managers": "Менеджеры команды"
   }
 }

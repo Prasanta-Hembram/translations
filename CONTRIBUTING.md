@@ -20,8 +20,8 @@ Example:
 
 ```
 "data": {
-  "marketing-page-about-meta-title": "About andcards - who we are and what we do | andcards",
-  "marketing-page-about-meta-description": "Who is the developer of andcards? Learn about the coworking space marketplace and software.",
+  "suite-page-about-meta-title": "About andcards - who we are and what we do | andcards",
+  "suite-page-about-meta-description": "Who is the developer of andcards? Learn about the coworking space marketplace and software.",
   ...
 `}`
 ```

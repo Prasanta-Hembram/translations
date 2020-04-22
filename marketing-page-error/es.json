@@ -1,9 +1,0 @@
-{
-  "data": {
-    "marketing-page-error-title": "Error - {errorCode}",
-    "marketing-page-error-description": "andcards — software comunitario para organizaciones y compañeros de trabajos",
-    "marketing-page-error-help-page": "Página de suporte técnico",
-    "marketing-page-error-home": "Inicio",
-    "marketing-page-error-text-description": "Algo falta. Visite nuestra {supportPage} para conseguir ayuda o regrese a {homePage}."
-  }
-}
