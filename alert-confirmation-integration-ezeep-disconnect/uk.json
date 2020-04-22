@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-integration-ezeep-disconnect-title": "Відключити ezeep",
     "alert-confirmation-integration-ezeep-disconnect-text": "Ви впевнені, що хочете відключити ezeep?",
-    "alert-confirmation-integration-ezeep-disconnect-no": "Відмінити",
+    "alert-confirmation-integration-ezeep-disconnect-no": "Скасувати",
     "alert-confirmation-integration-ezeep-disconnect-yes": "Відключити"
   }
 }
