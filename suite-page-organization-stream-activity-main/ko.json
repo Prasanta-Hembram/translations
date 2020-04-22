@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-stream-activity-main-title": "Stream 게시물",
+    "suite-page-organization-stream-activity-main-button-delete": "삭제",
     "suite-page-organization-stream-activity-main-button-repeat": "다시시도",
     "suite-page-organization-stream-activity-main-comment-placeholder": "댓글 달기...",
     "suite-page-organization-stream-activity-main-comment-post": "게시",

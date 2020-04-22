@@ -3,6 +3,8 @@
     "suite-page-organization-community-main-title": "커뮤니티",
     "suite-page-organization-community-main-balance-credit": "크레딧 잔액",
     "suite-page-organization-community-main-balance-unpaid-invoices": "미지급 인보이스",
+    "suite-page-organization-community-main-button-invite-member": "회원 초대",
+    "suite-page-organization-community-main-button-team-create": "팀 추가",
     "suite-page-organization-community-main-end": "종료",
     "suite-page-organization-community-main-error-team-name": "팀을 만들지 못했습니다. 팀 명은 비워 둘 수 없습니다.",
     "suite-page-organization-community-main-member-create": "회원 추가하기",

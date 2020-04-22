@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-stream-activity-main-title": "Stream Post",
+    "suite-page-organization-stream-activity-main-button-delete": "Delete",
     "suite-page-organization-stream-activity-main-button-repeat": "Try again",
     "suite-page-organization-stream-activity-main-comment-placeholder": "Add a comment...",
     "suite-page-organization-stream-activity-main-comment-post": "Post",
