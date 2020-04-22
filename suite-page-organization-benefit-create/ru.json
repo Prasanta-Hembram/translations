@@ -22,6 +22,8 @@
     "suite-page-organization-benefit-create-error-email-provider": "Введите email провайдера.",
     "suite-page-organization-benefit-create-error-title": "Введите название.",
     "suite-page-organization-benefit-create-image-delete": "Удалить изображение",
+    "suite-page-organization-benefit-create-is-featured-desc": "Избранный сервис появится в верхней части страницы Сервисы.",
+    "suite-page-organization-benefit-create-is-featured-label": "Избранное",
     "suite-page-organization-benefit-create-is-private-desc": "Доступ к сервису только для некоторых отделений.",
     "suite-page-organization-benefit-create-is-private-label": "Ограниченные отделения",
     "suite-page-organization-benefit-create-no-organization": "Отделения не выбраны.",
