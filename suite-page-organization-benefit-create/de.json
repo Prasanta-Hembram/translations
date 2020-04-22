@@ -22,6 +22,8 @@
     "suite-page-organization-benefit-create-error-email-provider": "Geben Sie eine Anbieter-E-Mail ein.",
     "suite-page-organization-benefit-create-error-title": "Geben Sie einen Titel ein.",
     "suite-page-organization-benefit-create-image-delete": "Bild löschen",
+    "suite-page-organization-benefit-create-is-featured-desc": "The featured service will appear at the top of the Services page.",
+    "suite-page-organization-benefit-create-is-featured-label": "Featured",
     "suite-page-organization-benefit-create-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Dienst zugreifen.",
     "suite-page-organization-benefit-create-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-benefit-create-no-organization": "Standorte sind nicht ausgewählt.",
