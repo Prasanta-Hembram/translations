@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-integrations-main-title": "Integrations",
-    "suite-page-organization-settings-integrations-main-ezeep-subtitle": "Printing",
-    "suite-page-organization-settings-integrations-main-mailchimp-subtitle": "Automate email marketing",
-    "suite-page-organization-settings-integrations-main-stripe-subtitle": "Accept card payments for bookings"
+    "suite-page-organization-settings-integrations-main-ezeep-subtitle": "Cloud printing",
+    "suite-page-organization-settings-integrations-main-mailchimp-subtitle": "Email marketing",
+    "suite-page-organization-settings-integrations-main-stripe-subtitle": "Card payments for bookings"
   }
 }
