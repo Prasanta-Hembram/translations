@@ -41,7 +41,7 @@
     "suite-alerts-errors-sign-in-google-error": "Неможливо ввійти з Google, цей профіль не прив'язаний до жодного акаунту",
     "suite-alerts-errors-sns-user-exists": "Цей метод входу вже використовується в іншому обліковому записі.",
     "suite-alerts-errors-trial-already-started": "У вашому коворкінгу вже включена система бронювання.",
-    "suite-alerts-errors-unauthorized": "Authorization failed.",
+    "suite-alerts-errors-unauthorized": "Помилка авторизації.",
     "suite-alerts-errors-user-already-activated": "Участь вже активована.",
     "suite-alerts-errors-user-have-no-permission": "Відсутні права доступу для завершення дії."
   }
