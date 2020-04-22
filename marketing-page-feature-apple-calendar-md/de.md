@@ -1,1 +1,0 @@
-Verbinden Sie einen persönlichen oder geschäftlichen Apple-Kalender, um alle Buchungen auf andcards zu synchronisieren. Wenn Sie eine Meetingraumreservierung auf andcards vornehmen, erscheint sie automatisch in Ihrem Kalender.
