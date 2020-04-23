@@ -3,10 +3,6 @@
     "suite-modal-organization-user-activation-title": "Erforderliche Daten eingeben",
     "suite-modal-organization-user-activation-button-activate": "Aktivierung",
     "suite-modal-organization-user-activation-button-reject": "Ablehnen",
-    "suite-modal-organization-user-activation-error-about": "Schreib etwas über dich",
-    "suite-modal-organization-user-activation-error-email": "Geben Sie eine korrekte E-Mail ein.",
-    "suite-modal-organization-user-activation-error-first-name": "Geben Sie einen Vornamen ein.",
-    "suite-modal-organization-user-activation-error-last-name": "Geben Sie einen Nachnamen ein.",
-    "suite-modal-organization-user-activation-error-phone-number": "Geben Sie eine Rufnummer ein."
+    "suite-modal-organization-user-activation-error-first-name": "Geben Sie einen Vornamen ein."
   }
 }

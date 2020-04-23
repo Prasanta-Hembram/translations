@@ -3,10 +3,6 @@
     "suite-modal-organization-user-activation-title": "Обязательная информация",
     "suite-modal-organization-user-activation-button-activate": "Активировать",
     "suite-modal-organization-user-activation-button-reject": "Отменить",
-    "suite-modal-organization-user-activation-error-about": "Расскажите что-то о себе.",
-    "suite-modal-organization-user-activation-error-email": "Введите email.",
-    "suite-modal-organization-user-activation-error-first-name": "Введите имя.",
-    "suite-modal-organization-user-activation-error-last-name": "Введите фамилию.",
-    "suite-modal-organization-user-activation-error-phone-number": "Введите номер телефона."
+    "suite-modal-organization-user-activation-error-first-name": "Введите имя."
   }
 }
