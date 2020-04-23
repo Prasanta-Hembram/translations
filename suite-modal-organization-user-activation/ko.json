@@ -3,10 +3,6 @@
     "suite-modal-organization-user-activation-title": "필수 정보",
     "suite-modal-organization-user-activation-button-activate": "활성화하기",
     "suite-modal-organization-user-activation-button-reject": "거부",
-    "suite-modal-organization-user-activation-error-about": "자기소개를 입력하세요.",
-    "suite-modal-organization-user-activation-error-email": "이메일을 입력하세요.",
-    "suite-modal-organization-user-activation-error-first-name": "이름을 입력하세요.",
-    "suite-modal-organization-user-activation-error-last-name": "성을 입력하세요.",
-    "suite-modal-organization-user-activation-error-phone-number": "휴대전화번호를 입력하세요."
+    "suite-modal-organization-user-activation-error-first-name": "이름을 입력하세요."
   }
 }
