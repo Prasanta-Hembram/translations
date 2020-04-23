@@ -1,9 +1,0 @@
-{
-  "data": {
-    "components-page-body-bookings-history-default-booking-purpose": "Без назви",
-    "components-page-body-bookings-history-fetch-failure": "Неможливо відобразити резервації. Перевірте, чи все добре з інтернет-з'єднанням",
-    "components-page-body-bookings-history-list-empty": "Нічого не знайдено.",
-    "components-page-body-bookings-history-tab-active": "Активні",
-    "components-page-body-bookings-history-tab-past": "Минулі"
-  }
-}

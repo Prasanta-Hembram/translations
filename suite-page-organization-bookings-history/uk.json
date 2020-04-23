@@ -1,5 +1,10 @@
 {
   "data": {
-    "suite-page-organization-bookings-history-title": "Усі мої резервації"
+    "suite-page-organization-bookings-history-title": "Усі мої резервації",
+    "suite-page-organization-bookings-history-default-booking-purpose": "Без назви",
+    "suite-page-organization-bookings-history-fetch-failure": "Неможливо відобразити резервації. Перевірте, чи все добре з інтернет-з'єднанням",
+    "suite-page-organization-bookings-history-list-empty": "Нічого не знайдено.",
+    "suite-page-organization-bookings-history-tab-active": "Активні",
+    "suite-page-organization-bookings-history-tab-past": "Минулі"
   }
 }

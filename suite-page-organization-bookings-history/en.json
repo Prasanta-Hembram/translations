@@ -1,5 +1,10 @@
 {
   "data": {
-    "suite-page-organization-bookings-history-title": "All My Bookings"
+    "suite-page-organization-bookings-history-title": "All My Bookings",
+    "suite-page-organization-bookings-history-default-booking-purpose": "Booking",
+    "suite-page-organization-bookings-history-fetch-failure": "Couldn't show bookings. Are you sure there is an internet connection?",
+    "suite-page-organization-bookings-history-list-empty": "There are no bookings yet.",
+    "suite-page-organization-bookings-history-tab-active": "Active",
+    "suite-page-organization-bookings-history-tab-past": "Past"
   }
 }
