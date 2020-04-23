@@ -22,6 +22,8 @@
     "suite-page-organization-benefit-edit-error-email-provider": "Введите email провайдера.",
     "suite-page-organization-benefit-edit-get-failure": "Невозможно отобразить сервисы. Проверьте интернет-соединение.",
     "suite-page-organization-benefit-edit-error-title": "Введите название.",
+    "suite-page-organization-benefit-edit-is-featured-desc": "Избранный сервис появится в верхней части страницы Сервисы.",
+    "suite-page-organization-benefit-edit-is-featured-label": "Избранное",
     "suite-page-organization-benefit-edit-is-private-desc": "Доступ к сервису только для некоторых отделений.",
     "suite-page-organization-benefit-edit-is-private-label": "Ограниченные отделения",
     "suite-page-organization-benefit-edit-image-delete": "Удалить изображение",
