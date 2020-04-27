@@ -1,7 +1,8 @@
 {
   "data": {
-
     "suite-page-organization-settings-integrations-ezeep-account-title": "Cuenta",
+    "suite-page-organization-settings-integrations-ezeep-account-error-password": "Ingrese la contraseña",
+    "suite-page-organization-settings-integrations-ezeep-account-error-username": "Ingrese el nombre de usuario",
     "suite-page-organization-settings-integrations-ezeep-account-name": "Nombre de cuenta",
     "suite-page-organization-settings-integrations-ezeep-account-password": "Contraseña",
     "suite-page-organization-settings-integrations-ezeep-account-password-placeholder": "Ingrese la contraseña",
