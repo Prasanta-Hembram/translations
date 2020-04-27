@@ -1,6 +1,8 @@
 {
   "data": {
     "suite-page-organization-settings-integrations-ezeep-account-title": "Учетная запись",
+    "suite-page-organization-settings-integrations-ezeep-account-error-password": "Введите пароль",
+    "suite-page-organization-settings-integrations-ezeep-account-error-username": "Введите имя пользователя",
     "suite-page-organization-settings-integrations-ezeep-account-name": "Название учетной записи",
     "suite-page-organization-settings-integrations-ezeep-account-password": "Пароль",
     "suite-page-organization-settings-integrations-ezeep-account-password-placeholder": "Ввести пароль",
