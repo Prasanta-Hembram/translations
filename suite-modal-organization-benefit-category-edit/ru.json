@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-benefit-category-edit-title": "Редактировать категорию сервисов",
+    "suite-modal-organization-benefit-category-edit-error-no-benefit-category": "Невозможно отобразить категорию сервисов. Проверьте интернет-соединение.",
+    "suite-modal-organization-benefit-category-edit-error-title": "Введите название.",
+    "suite-modal-organization-benefit-category-edit-title-label": "Название",
+    "suite-modal-organization-benefit-category-edit-title-placeholder": "Ввести название"
+  }
+}

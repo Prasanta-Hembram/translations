@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-modal-organization-benefit-category-edit-title": "Edit Service Category",
+    "suite-modal-organization-benefit-category-edit-error-no-benefit-category": "Couldn't show service category. Check the internet and try again.",
+    "suite-modal-organization-benefit-category-edit-error-title": "Type a title.",
+    "suite-modal-organization-benefit-category-edit-title-label": "Title",
+    "suite-modal-organization-benefit-category-edit-title-placeholder": "Type a title"
+  }
+}

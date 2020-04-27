@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-benefit-category-create-title": "New Service Category",
+    "suite-modal-organization-benefit-category-create-error-title": "Type a title.",
+    "suite-modal-organization-benefit-category-create-title-label": "Title",
+    "suite-modal-organization-benefit-category-create-title-placeholder": "Type a title"
+  }
+}
