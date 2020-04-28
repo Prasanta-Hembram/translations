@@ -1,16 +1,16 @@
 {
   "data": {
-    "suite-modal-organization-service-apply-title": "베네핏 신청",
+    "suite-modal-organization-service-apply-title": "서비스 신청",
     "suite-modal-organization-service-apply-button-apply": "제출하기",
     "suite-modal-organization-service-apply-button-done": "확인",
-    "suite-modal-organization-service-apply-description": "선택사항이 있는 베네핏은 혜택번호 입력해주시고, 문의사항이 있다면 하단에 입력해주세요.",
+    "suite-modal-organization-service-apply-description": "문의사항이 있다면 하단에 입력해주세요.",
     "suite-modal-organization-service-apply-error-email": "이메일을 입력하세요.",
     "suite-modal-organization-service-apply-error-phone-number": "전화번호를 입력하세요.",
     "suite-modal-organization-service-apply-name": "성함",
     "suite-modal-organization-service-apply-note": "내용",
     "suite-modal-organization-service-apply-note-placeholder": "내용을 입력하기",
-    "suite-modal-organization-service-apply-policy-description": "요청을 처리하기 위해 개인정보는 혜택 제공자에게 전송됩니다.",
-    "suite-modal-organization-service-apply-success-text": "베네핏 신청 이메일을 통해 베네핏 이용 안내를 확인하세요.",
-    "suite-modal-organization-service-apply-success-title": "베네핏이 신청되었습니다!"
+    "suite-modal-organization-service-apply-policy-description": "요청을 처리하기 위해 개인정보는 서비스 제공자에게 전송됩니다.",
+    "suite-modal-organization-service-apply-success-text": "서비스 신청 이메일을 통해 서비스 이용 안내를 확인하세요.",
+    "suite-modal-organization-service-apply-success-title": "서비스가 신청되었습니다!"
   }
 }
