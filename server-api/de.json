@@ -68,8 +68,8 @@
     "service-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} Team)",
     "service-apply-email-application-phone-number": "Rufnummer: {phoneNumber}",
     "service-apply-email-application-title": "Informationen zur Dienstleistungen",
-    "service-apply-email-subject": "Sie haben den Dienst {benefitTitle} beantragt",
-    "service-apply-email-title": "Vielen Dank für die Beantragung des Dienstleistungen {benefitTitle}!",
+    "service-apply-email-subject": "Sie haben den Dienst {serviceTitle} beantragt",
+    "service-apply-email-title": "Vielen Dank für die Beantragung des Dienstleistungen {serviceTitle}!",
     "stream-comment-notification-title": "{userName} kommentierte den Post",
     "stream-notification-title": "{userName} hat in {organizationTitle} geschrieben"
   }

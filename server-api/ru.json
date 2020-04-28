@@ -68,8 +68,8 @@
     "service-apply-email-application-membership-single-with-team": "{organizationTitle} (команда {teamTitle})",
     "service-apply-email-application-phone-number": "Телефон: {phoneNumber}",
     "service-apply-email-application-title": "Детали заявки",
-    "service-apply-email-subject": "Подтверждение заявки на {benefitTitle}",
-    "service-apply-email-title": "Ваша заявка на {benefitTitle} принята!",
+    "service-apply-email-subject": "Подтверждение заявки на {serviceTitle}",
+    "service-apply-email-title": "Ваша заявка на {serviceTitle} принята!",
     "stream-comment-notification-title": "{userName} комментирует пост",
     "stream-notification-title": "{userName} пишет в {organizationTitle}"
   }

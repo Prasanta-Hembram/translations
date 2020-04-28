@@ -68,8 +68,8 @@
     "service-apply-email-application-membership-single-with-team": "{organizationTitle} ({teamTitle} 팀)",
     "service-apply-email-application-phone-number": "전화번호: {phoneNumber}",
     "service-apply-email-application-title": "베네핏 신청 정보",
-    "service-apply-email-subject": "{benefitTitle} 베네핏 신청 완료되었습니다",
-    "service-apply-email-title": "{benefitTitle} 베네핏을 신청해주셔서 감사합니다.",
+    "service-apply-email-subject": "{serviceTitle} 베네핏 신청 완료되었습니다",
+    "service-apply-email-title": "{serviceTitle} 베네핏을 신청해주셔서 감사합니다.",
     "stream-comment-notification-title": "{userName} 님은 게시물에 댓글을 달았습니다.",
     "stream-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다"
   }
