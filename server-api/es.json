@@ -61,6 +61,15 @@
     "payment-intent-default-description": "Pago {paymentDate}",
     "payment-intent-invoice-description": "Factura ({invoiceDate})",
     "powered-by-andcards": "Desarrollado por {andcardsUrl}",
+    "service-apply-email-application-comment": "Comentario:\n{comment}",
+    "service-apply-email-application-email": "Email: {email}",
+    "service-apply-email-application-full-name": "Nombre completo: {userFullName}",
+    "service-apply-email-application-membership-full": "Información de membresía: {membershipInformation}",
+    "service-apply-email-application-membership-single-with-team": "{organizationTitle} (equipo {teamTitle})",
+    "service-apply-email-application-phone-number": "Número de teléfono: {phoneNumber}",
+    "service-apply-email-application-title": "Información sobre la solicitud de servicios",
+    "service-apply-email-subject": "Has solicitado para el servicio {benefitTitle}",
+    "service-apply-email-title": "¡Gracias por solicitar el servicio {benefitTitle}!",
     "stream-comment-notification-title": "{userName} comentó en un post",
     "stream-notification-title": "{userName} publicado en {organizationTitle}"
   }
