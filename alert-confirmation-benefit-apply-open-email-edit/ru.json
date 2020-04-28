@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-benefit-apply-open-email-edit-title": "Email не подключен",
     "alert-confirmation-benefit-apply-open-email-edit-no": "Отменить",
-    "alert-confirmation-benefit-apply-open-email-edit-text": "Ваша электронная почта не подключена к аккаунту. Подключите электронную почту в настройках профиля, чтобы подать заявку на сервис..",
+    "alert-confirmation-benefit-apply-open-email-edit-text": "Ваша электронная почта не подключена к аккаунту. Подключите электронную почту в настройках профиля, чтобы подать заявку на преимущество.",
     "alert-confirmation-benefit-apply-open-email-edit-yes": "Подключить email"
   }
 }

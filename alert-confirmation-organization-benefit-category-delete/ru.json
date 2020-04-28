@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-benefit-category-delete-title": "Удалить категорию сервисов.",
+    "alert-confirmation-organization-benefit-category-delete-title": "Удалить категорию преимуществ",
     "alert-confirmation-organization-benefit-category-delete-no": "Отменить",
-    "alert-confirmation-organization-benefit-category-delete-text": "Вы уверены, что хотите удалить категорию вместе со всеми содержащимися сервисами? Это действие необратимо..",
+    "alert-confirmation-organization-benefit-category-delete-text": "Вы уверены, что хотите удалить категорию вместе со всеми содержащимися преимуществами? Это действие необратимо.",
     "alert-confirmation-organization-benefit-category-delete-yes": "Удалить"
   }
 }
