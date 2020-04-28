@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-service-category-delete-title": "혜택 카테고리 삭제",
+    "alert-confirmation-organization-service-category-delete-title": "서비스 카테고리 삭제",
     "alert-confirmation-organization-service-category-delete-no": "취소",
-    "alert-confirmation-organization-service-category-delete-text": "모든 혜택을 포함하여 카테고리를 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
+    "alert-confirmation-organization-service-category-delete-text": "모든 서비스를 포함하여 카테고리를 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
     "alert-confirmation-organization-service-category-delete-yes": "삭제하기"
   }
 }
