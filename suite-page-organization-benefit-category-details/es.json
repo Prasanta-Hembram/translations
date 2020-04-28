@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-benefit-category-details-title": "Categoría de servicios.",
-    "suite-page-organization-benefit-category-details-empty": "Es posible que esta categoría de servicios no exista o haya sido eliminada..",
+    "suite-page-organization-benefit-category-details-title": "Categoría de beneficios",
+    "suite-page-organization-benefit-category-details-empty": "Es posible que esta categoría de beneficis no exista o haya sido eliminada.",
     "suite-page-organization-benefit-category-details-delete-button": "Borrar",
     "suite-page-organization-benefit-category-details-delete-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-benefit-category-details-delete-fetch-failure": "No se pudo mostrar categoría de servicios. Revisa tu conexión de internet y vuelve a intentarlo.."
+    "suite-page-organization-benefit-category-details-delete-fetch-failure": "No se pudo mostrar categoría de beneficios. Revisa tu conexión de internet y vuelve a intentarlo."
   }
 }
