@@ -13,6 +13,6 @@
     "suite-page-organizations-my-main-subscription-trial-days-left": "Завершується {days}.",
     "suite-page-organizations-my-main-validation-email-failed-button-connect": "Під'єднати email",
     "suite-page-organizations-my-main-validation-email-failed-title": "Email не під'єднано",
-    "suite-page-organizations-my-main-validation-email-failed-text": "Вашу адресу електронної пошти не під'єднано до облікового запису. Під'єднайте електронну пошту в налаштуваннях профілю, щоб подати заявку на сервіс."
+    "suite-page-organizations-my-main-validation-email-failed-text": "Вашу адресу електронної пошти не під'єднано до облікового запису. Connect email in Profile settings to continue using the app."
   }
 }

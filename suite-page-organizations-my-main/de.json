@@ -13,6 +13,6 @@
     "suite-page-organizations-my-main-subscription-trial-days-left": "Testphase endet {days}.",
     "suite-page-organizations-my-main-validation-email-failed-button-connect": "E-Mail verbinden",
     "suite-page-organizations-my-main-validation-email-failed-title": "Keine E-Mail",
-    "suite-page-organizations-my-main-validation-email-failed-text": "Ihre E-Mail ist nicht mit dem Konto verbunden. Verbinden Sie die E-Mail in den Profileinstellungen, um die Dienstleistungen zu beantragen."
+    "suite-page-organizations-my-main-validation-email-failed-text": "Ihre E-Mail ist nicht mit dem Konto verbunden. Connect email in Profile settings to continue using the app."
   }
 }
