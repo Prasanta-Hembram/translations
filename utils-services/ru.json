@@ -1,0 +1,11 @@
+{
+  "data": {
+    "utils-services-allowance-type-once": "Одна",
+    "utils-services-allowance-type-unlimited": "Неограничено",
+    "utils-services-application-type-by-email": "Email",
+    "utils-services-application-type-by-link": "Ссылка",
+    "utils-services-application-type-no-application": "Заявка не нужна",
+    "utils-services-permission-type-admin": "Менеджеры отделения",
+    "utils-services-permission-type-all": "Все участники"
+  }
+}
