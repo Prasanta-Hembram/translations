@@ -43,7 +43,6 @@
     "invoice-footer-payable-amount": "Разом до сплати",
     "invoice-footer-tax": "Податок ({taxPercent}%)",
     "invoice-footer-total-amount": "Разом",
-    "invoice-footer-total-amount-in-words": "Разом словами: ",
     "invoice-header-description": "Опис",
     "invoice-header-net-amount": "Вартість",
     "invoice-header-quantity": "Кількість",

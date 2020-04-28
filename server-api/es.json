@@ -43,7 +43,6 @@
     "invoice-footer-payable-amount": "Monto a pagar",
     "invoice-footer-tax": "Impuestos ({taxPercent}%)",
     "invoice-footer-total-amount": "Monto total",
-    "invoice-footer-total-amount-in-words": "Monto total en palabras: ",
     "invoice-header-description": "Descripción",
     "invoice-header-net-amount": "Monto neto",
     "invoice-header-quantity": "Cantidad",
