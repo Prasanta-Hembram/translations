@@ -1,10 +1,11 @@
 {
   "data": {
-    "suite-tab-navigation-organization-benefits": "Сервіси",
+    "suite-tab-navigation-organization-benefits": "Переваги",
     "suite-tab-navigation-organization-booking": "Резервації",
     "suite-tab-navigation-organization-community": "Спільнота",
     "suite-tab-navigation-organization-information": "Інформація",
     "suite-tab-navigation-organization-membership": "Участь",
+    "suite-tab-navigation-organization-services": "Сервіси",
     "suite-tab-navigation-organization-settings": "Налаштування",
     "suite-tab-navigation-organization-stream": "Stream"
   }

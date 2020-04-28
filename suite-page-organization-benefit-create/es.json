@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-benefit-create-title": "Nuevo servicio",
+    "suite-page-organization-benefit-create-title": "Nuevo servicio.",
     "suite-page-organization-benefit-create-application-link-label": "Enlace",
     "suite-page-organization-benefit-create-application-link-placeholder": "Ingresar enlace",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Permiso de solicitud",
@@ -22,9 +22,9 @@
     "suite-page-organization-benefit-create-error-email-provider": "Escribe un correo electrónico del proveedor.",
     "suite-page-organization-benefit-create-error-title": "Por favor, introduce un título.",
     "suite-page-organization-benefit-create-image-delete": "Borrar imagen",
-    "suite-page-organization-benefit-create-is-featured-desc": "El servicio destacado aparecerá en la parte superior de la página de Servicios.",
+    "suite-page-organization-benefit-create-is-featured-desc": "El servicio destacado aparecerá en la parte superior de la página de Servicios..",
     "suite-page-organization-benefit-create-is-featured-label": "Destacado",
-    "suite-page-organization-benefit-create-is-private-desc": "Permitir que sólo determinados espacios de coworking accedan a los servicios",
+    "suite-page-organization-benefit-create-is-private-desc": "Permitir que sólo determinados espacios de coworking accedan a los servicios.",
     "suite-page-organization-benefit-create-is-private-label": "Sucursales limitadas",
     "suite-page-organization-benefit-create-no-organization": "No se han seleccionado las sucursales.",
     "suite-page-organization-benefit-create-permission-label": "Visibilidad",

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-service-category-create-title": "Nueva categoría de servicios",
+    "suite-modal-organization-service-category-create-error-title": "Por favor, introduce un título.",
+    "suite-modal-organization-service-category-create-title-label": "Título",
+    "suite-modal-organization-service-category-create-title-placeholder": "Escribe un título"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-service-delete-title": "Удалить сервис",
+    "alert-confirmation-organization-service-delete-no": "Отменить",
+    "alert-confirmation-organization-service-delete-text": "Вы действительно хотите удалить этот сервис? Это действие необратимо.",
+    "alert-confirmation-organization-service-delete-yes": "Удалить"
+  }
+}

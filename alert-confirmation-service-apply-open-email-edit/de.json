@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-service-apply-open-email-edit-title": "Keine E-Mail",
+    "alert-confirmation-service-apply-open-email-edit-no": "Abbrechen",
+    "alert-confirmation-service-apply-open-email-edit-text": "Ihre E-Mail ist nicht mit dem Konto verbunden. Verbinden Sie die E-Mail in den Profileinstellungen, um die Dienstleistungen zu beantragen.",
+    "alert-confirmation-service-apply-open-email-edit-yes": "E-Mail verbinden"
+  }
+}

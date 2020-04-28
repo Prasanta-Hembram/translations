@@ -3,14 +3,14 @@
     "suite-modal-organization-benefit-apply-title": "Neuer Antrag",
     "suite-modal-organization-benefit-apply-button-apply": "Absenden",
     "suite-modal-organization-benefit-apply-button-done": "Fertig",
-    "suite-modal-organization-benefit-apply-description": "Geben Sie zusätzliche Informationen für den Dienst an oder stellen Sie Fragen.",
+    "suite-modal-organization-benefit-apply-description": "Geben Sie zusätzliche Informationen für den Dienst an oder stellen Sie Fragen..",
     "suite-modal-organization-benefit-apply-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-modal-organization-benefit-apply-error-phone-number": "Geben Sie eine Rufnummer ein.",
     "suite-modal-organization-benefit-apply-name": "Name",
     "suite-modal-organization-benefit-apply-note": "Kommentar",
     "suite-modal-organization-benefit-apply-note-placeholder": "Kommentar eingeben",
-    "suite-modal-organization-benefit-apply-policy-description": "Ihre personenbezogenen Daten werden zur Bearbeitung des Antrags an den Leistungserbringer übermittelt.",
-    "suite-modal-organization-benefit-apply-success-text": "Der Dienst wurde erfolgreich eingereicht. Die Bestätigungs-E-Mail befindet sich auf dem Weg.",
+    "suite-modal-organization-benefit-apply-policy-description": "Ihre personenbezogenen Daten werden zur Bearbeitung des Antrags an den Leistungserbringer übermittelt..",
+    "suite-modal-organization-benefit-apply-success-text": "Der Dienst wurde erfolgreich eingereicht. Die Bestätigungs-E-Mail befindet sich auf dem Weg..",
     "suite-modal-organization-benefit-apply-success-title": "Hervorragend!"
   }
 }

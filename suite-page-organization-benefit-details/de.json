@@ -5,8 +5,8 @@
     "suite-page-organization-benefit-details-button-applied": "Beantragt",
     "suite-page-organization-benefit-details-button-delete": "Löschen",
     "suite-page-organization-benefit-details-button-repeat": "Erneut versuchen",
-    "suite-page-organization-benefit-details-delete-failure": "Ein Dienst konnte nicht gelöscht werden.",
-    "suite-page-organization-benefit-details-get-failure": "Konnte Dienst nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
-    "suite-page-organization-benefit-details-no-benefit": "Es gibt keinen Dienst zur Darstellung."
+    "suite-page-organization-benefit-details-delete-failure": "Ein Dienst konnte nicht gelöscht werden..",
+    "suite-page-organization-benefit-details-get-failure": "Konnte Dienst nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut..",
+    "suite-page-organization-benefit-details-no-benefit": "Es gibt keinen Dienst zur Darstellung.."
   }
 }

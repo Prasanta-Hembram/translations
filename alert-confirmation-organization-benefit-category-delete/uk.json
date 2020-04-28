@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-benefit-category-delete-title": "Видалити категорію сервісів",
+    "alert-confirmation-organization-benefit-category-delete-title": "Видалити категорію переваг",
     "alert-confirmation-organization-benefit-category-delete-no": "Скасувати",
-    "alert-confirmation-organization-benefit-category-delete-text": "Ви впевнені, що хочете видалити категорію разом з усіма сервісами, що вона містить? Ця дія є невідворотньою.",
+    "alert-confirmation-organization-benefit-category-delete-text": "Ви впевнені, що хочете видалити категорію разом з усіма перевагами, що вона містить? Ця дія є невідворотньою..",
     "alert-confirmation-organization-benefit-category-delete-yes": "Видалити"
   }
 }
