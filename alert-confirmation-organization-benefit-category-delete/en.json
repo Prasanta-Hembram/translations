@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-benefit-category-delete-title": "Delete Benefit Category",
     "alert-confirmation-organization-benefit-category-delete-no": "Cancel",
-    "alert-confirmation-organization-benefit-category-delete-text": "Are you sure you want to delete the benefit with all of its services? This action is irreversible.",
+    "alert-confirmation-organization-benefit-category-delete-text": "Are you sure you want to delete the category with all of its benefits? This action is irreversible.",
     "alert-confirmation-organization-benefit-category-delete-yes": "Delete"
   }
 }
