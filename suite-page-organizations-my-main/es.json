@@ -10,6 +10,9 @@
     "suite-page-organizations-my-main-no-coworkings": "Para unirte a un espacio de trabajo, necesitas una invitación. Pídale a un gerente que lo invite.",
     "suite-page-organizations-my-main-no-coworkings-title": "Empecemos!",
     "suite-page-organizations-my-main-subscription-trial-button": "Suscríbete",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Fin de la prueba {days}.",
+    "suite-page-organizations-my-main-validation-email-failed-button-connect": "Conectar Email",
+    "suite-page-organizations-my-main-validation-email-failed-title": "No hay email",
+    "suite-page-organizations-my-main-validation-email-failed-text": "Su correo electrónico no está conectado a la cuenta. Conecta el correo electrónico en la configuración del perfil para solicitar el servicio."
   }
 }

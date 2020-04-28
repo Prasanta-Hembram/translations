@@ -10,6 +10,9 @@
     "suite-page-organizations-my-main-no-coworkings": "To join a workspace, you need an invitation. Ask a manager to invite you.",
     "suite-page-organizations-my-main-no-coworkings-title": "Let's get started",
     "suite-page-organizations-my-main-subscription-trial-button": "Subscribe",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Trial ends {days}."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Trial ends {days}.",
+    "suite-page-organizations-my-main-validation-email-failed-button-connect": "Connect Email",
+    "suite-page-organizations-my-main-validation-email-failed-title": "No Email Connected",
+    "suite-page-organizations-my-main-validation-email-failed-text": "Your email is not connected to the account. Connect email in Profile settings to apply for the service."
   }
 }

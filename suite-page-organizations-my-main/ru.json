@@ -10,6 +10,9 @@
     "suite-page-organizations-my-main-no-coworkings": "Чтобы присоединиться к коворкингу, необходимо приглашение. Обратитесь к менеджеру коворкинга за приглашением.",
     "suite-page-organizations-my-main-no-coworkings-title": "Поехали!",
     "suite-page-organizations-my-main-subscription-trial-button": "Подписаться",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}.",
+    "suite-page-organizations-my-main-validation-email-failed-button-connect": "Подключить email",
+    "suite-page-organizations-my-main-validation-email-failed-title": "Email не подключен",
+    "suite-page-organizations-my-main-validation-email-failed-text": "Ваша электронная почта не подключена к аккаунту. Подключите электронную почту в настройках профиля, чтобы подать заявку на сервис."
   }
 }
