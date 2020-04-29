@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-service-apply-open-email-edit-title": "Email не подключен",
-    "alert-confirmation-service-apply-open-email-edit-no": "Отменить",
-    "alert-confirmation-service-apply-open-email-edit-text": "Ваша электронная почта не подключена к аккаунту. Подключите электронную почту в настройках профиля, чтобы подать заявку на сервис.",
-    "alert-confirmation-service-apply-open-email-edit-yes": "Подключить email"
-  }
-}
