@@ -3,14 +3,14 @@
     "suite-modal-organization-benefit-apply-title": "Новая заявка",
     "suite-modal-organization-benefit-apply-button-apply": "Отправить",
     "suite-modal-organization-benefit-apply-button-done": "Готово",
-    "suite-modal-organization-benefit-apply-description": "Введите дополнительную информацию для заявки на сервис или задайте любые вопросы.",
+    "suite-modal-organization-benefit-apply-description": "Введите дополнительную информацию для заявки на преимущество или задайте любые вопросы.",
     "suite-modal-organization-benefit-apply-error-email": "Введите правильный email.",
     "suite-modal-organization-benefit-apply-error-phone-number": "Введите номер телефона.",
     "suite-modal-organization-benefit-apply-name": "Имя",
     "suite-modal-organization-benefit-apply-note": "Комментарий",
     "suite-modal-organization-benefit-apply-note-placeholder": "Введите комментарий",
-    "suite-modal-organization-benefit-apply-policy-description": "Ваша персональная информация будет отправлена поставщику сервиса, чтобы подтвердить заявку.",
-    "suite-modal-organization-benefit-apply-success-text": "Заявка на сервис успешно отправлена. Подтверждение отправлено по почте.",
+    "suite-modal-organization-benefit-apply-policy-description": "Ваша персональная информация будет отправлена поставщику преимущества, чтобы подтвердить заявку.",
+    "suite-modal-organization-benefit-apply-success-text": "Заявка на преимущество успешно отправлена. Подтверждение отправлено по почте.",
     "suite-modal-organization-benefit-apply-success-title": "Хорошая работа!"
   }
 }

@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-benefit-create-title": "Neuer Dienst",
+    "suite-page-organization-benefit-create-title": "Neuer Vorteil",
     "suite-page-organization-benefit-create-application-link-label": "Link",
     "suite-page-organization-benefit-create-application-link-placeholder": "Link eingeben",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Antragsgenehmigung",
@@ -22,9 +22,9 @@
     "suite-page-organization-benefit-create-error-email-provider": "Geben Sie eine Anbieter-E-Mail ein.",
     "suite-page-organization-benefit-create-error-title": "Geben Sie einen Titel ein.",
     "suite-page-organization-benefit-create-image-delete": "Bild löschen",
-    "suite-page-organization-benefit-create-is-featured-desc": "Der vorgestellte Dienst erscheint oben auf der Seite Dienstleistungen.",
+    "suite-page-organization-benefit-create-is-featured-desc": "Der vorgestellte Dienst erscheint oben auf der Seite Vorteile.",
     "suite-page-organization-benefit-create-is-featured-label": "Vorgestellt",
-    "suite-page-organization-benefit-create-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Dienst zugreifen.",
+    "suite-page-organization-benefit-create-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Vorteil zugreifen.",
     "suite-page-organization-benefit-create-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-benefit-create-no-organization": "Standorte sind nicht ausgewählt.",
     "suite-page-organization-benefit-create-permission-label": "Sichtbarkeit",

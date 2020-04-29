@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-benefit-delete-title": "Видалити сервіс",
+    "alert-confirmation-organization-benefit-delete-title": "Видалити перевагу",
     "alert-confirmation-organization-benefit-delete-no": "Скасувати",
     "alert-confirmation-organization-benefit-delete-yes": "Видалити",
-    "alert-confirmation-organization-benefit-delete-text": "Ви впевнені, що хочете видалити цей сервіс? Ця дія незворотна."
+    "alert-confirmation-organization-benefit-delete-text": "Ви впевнені, що хочете видалити цю перевагу? Ця дія незворотна."
   }
 }

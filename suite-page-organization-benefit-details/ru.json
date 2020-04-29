@@ -1,12 +1,12 @@
 {
   "data": {
-    "suite-page-organization-benefit-details-title": "Сервис",
+    "suite-page-organization-benefit-details-title": "Преимущество",
     "suite-page-organization-benefit-details-button-apply": "Подать заявку",
     "suite-page-organization-benefit-details-button-applied": "Заявка подана",
     "suite-page-organization-benefit-details-button-delete": "Удалить",
     "suite-page-organization-benefit-details-button-repeat": "Попробовать снова",
-    "suite-page-organization-benefit-details-delete-failure": "Не удалось удалить сервис.",
-    "suite-page-organization-benefit-details-get-failure": "Невозможно отобразить сервисы. Проверьте интернет-соединение.",
-    "suite-page-organization-benefit-details-no-benefit": "Нет сервисов для отображения."
+    "suite-page-organization-benefit-details-delete-failure": "Не удалось удалить преимущество.",
+    "suite-page-organization-benefit-details-get-failure": "Невозможно отобразить преимущества. Проверьте интернет-соединение.",
+    "suite-page-organization-benefit-details-no-benefit": "Нет преимуществ для отображения."
   }
 }

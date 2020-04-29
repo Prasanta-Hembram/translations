@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-service-category-edit-title": "Edit Service Category",
+    "suite-modal-organization-service-category-edit-error-title": "Type a title.",
+    "suite-modal-organization-service-category-edit-title-label": "Title",
+    "suite-modal-organization-service-category-edit-title-placeholder": "Type a title"
+  }
+}
