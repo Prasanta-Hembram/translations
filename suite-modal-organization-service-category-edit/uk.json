@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-modal-organization-benefit-category-edit-title": "Редагувати категорію сервісів",
-    "suite-modal-organization-benefit-category-edit-error-title": "Уведіть назву.",
-    "suite-modal-organization-benefit-category-edit-title-label": "Назва",
-    "suite-modal-organization-benefit-category-edit-title-placeholder": "Увести назву"
+    "suite-modal-organization-service-category-edit-title": "Редагувати категорію сервісів",
+    "suite-modal-organization-service-category-edit-error-title": "Уведіть назву.",
+    "suite-modal-organization-service-category-edit-title-label": "Назва",
+    "suite-modal-organization-service-category-edit-title-placeholder": "Увести назву"
   }
 }
