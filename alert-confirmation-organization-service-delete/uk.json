@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-service-delete-title": "Видалити сервіс",
+    "alert-confirmation-organization-service-delete-no": "Скасувати",
+    "alert-confirmation-organization-service-delete-yes": "Видалити",
+    "alert-confirmation-organization-service-delete-text": "Ви впевнені, що хочете видалити цей сервіс? Ця дія незворотна."
+  }
+}

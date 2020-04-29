@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-benefit-create-title": "New Service",
+    "suite-page-organization-benefit-create-title": "New Benefit",
     "suite-page-organization-benefit-create-application-link-label": "Link",
     "suite-page-organization-benefit-create-application-link-placeholder": "Type a link",
     "suite-page-organization-benefit-create-benefit-allowance-type-label": "Application Allowance",
@@ -22,9 +22,9 @@
     "suite-page-organization-benefit-create-error-email-provider": "Type a provider email.",
     "suite-page-organization-benefit-create-error-title": "Type a title.",
     "suite-page-organization-benefit-create-image-delete": "Delete Image",
-    "suite-page-organization-benefit-create-is-featured-desc": "The featured service will appear at the top of the Services page.",
+    "suite-page-organization-benefit-create-is-featured-desc": "The featured benefit will appear at the top of the Benefits page.",
     "suite-page-organization-benefit-create-is-featured-label": "Featured",
-    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the service.",
+    "suite-page-organization-benefit-create-is-private-desc": "Allow only certain workspaces to access the benefit.",
     "suite-page-organization-benefit-create-is-private-label": "Limited Branches",
     "suite-page-organization-benefit-create-no-organization": "Branches are not selected.",
     "suite-page-organization-benefit-create-permission-label": "Visibility",

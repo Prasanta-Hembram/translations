@@ -1,0 +1,16 @@
+{
+  "data": {
+    "suite-modal-organization-service-apply-title": "Новая заявка",
+    "suite-modal-organization-service-apply-button-apply": "Отправить",
+    "suite-modal-organization-service-apply-button-done": "Готово",
+    "suite-modal-organization-service-apply-description": "Введите дополнительную информацию для заявки на сервис или задайте любые вопросы.",
+    "suite-modal-organization-service-apply-error-email": "Введите правильный email.",
+    "suite-modal-organization-service-apply-error-phone-number": "Введите номер телефона.",
+    "suite-modal-organization-service-apply-name": "Имя",
+    "suite-modal-organization-service-apply-note": "Комментарий",
+    "suite-modal-organization-service-apply-note-placeholder": "Введите комментарий",
+    "suite-modal-organization-service-apply-policy-description": "Ваша персональная информация будет отправлена поставщику сервиса, чтобы подтвердить заявку.",
+    "suite-modal-organization-service-apply-success-text": "Заявка на сервис успешно отправлена. Подтверждение отправлено по почте.",
+    "suite-modal-organization-service-apply-success-title": "Хорошая работа!"
+  }
+}

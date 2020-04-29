@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-service-category-main-get-failure": "서비스를 볼 수 없습니다. 인터넷 연결을 확인 후 다시 시도해주세요.",
+    "suite-page-organization-service-category-main-no-services": "표시할 수 있는 서비스가 없습니다.",
+    "suite-page-organization-service-category-main-no-services-in-category": "서비스가 없습니다."
+  }
+}

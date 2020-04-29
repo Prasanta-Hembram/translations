@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-service-details-title": "Service",
+    "suite-page-organization-service-details-button-apply": "Apply",
+    "suite-page-organization-service-details-button-applied": "Applied",
+    "suite-page-organization-service-details-button-delete": "Delete",
+    "suite-page-organization-service-details-button-repeat": "Try again",
+    "suite-page-organization-service-details-delete-failure": "Failed to delete a service.",
+    "suite-page-organization-service-details-get-failure": "Couldn't show service. Check the internet and try again.",
+    "suite-page-organization-service-details-no-service": "There is no service to display."
+  }
+}

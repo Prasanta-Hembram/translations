@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-service-category-main-get-failure": "Konnte keine Dienstleistungen zeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
+    "suite-page-organization-service-category-main-no-services": "Der Workspace hat keine Dienstleistungen zum Anzeigen.",
+    "suite-page-organization-service-category-main-no-services-in-category": "Es gibt keine Dienstleistungen."
+  }
+}

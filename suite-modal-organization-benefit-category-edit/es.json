@@ -1,7 +1,6 @@
 {
   "data": {
-    "suite-modal-organization-benefit-category-edit-title": "Editar categoría de servicios",
-    "suite-modal-organization-benefit-category-edit-error-no-benefit-category": "No se pudo mostrar categoría de servicios. Revisa tu conexión de internet y vuelve a intentarlo.",
+    "suite-modal-organization-benefit-category-edit-title": "Editar categoría de beneficios",
     "suite-modal-organization-benefit-category-edit-error-title": "Por favor, introduce un título.",
     "suite-modal-organization-benefit-category-edit-title-label": "Título",
     "suite-modal-organization-benefit-category-edit-title-placeholder": "Escribe un título"

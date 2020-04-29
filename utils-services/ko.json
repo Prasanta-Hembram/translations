@@ -1,0 +1,11 @@
+{
+  "data": {
+    "utils-services-allowance-type-once": "한 번",
+    "utils-services-allowance-type-unlimited": "무제한",
+    "utils-services-application-type-by-email": "이메일",
+    "utils-services-application-type-by-link": "링크",
+    "utils-services-application-type-no-application": "신청 불필요",
+    "utils-services-permission-type-admin": "지점 관리자",
+    "utils-services-permission-type-all": "전체 회원"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-service-category-create-title": "Новая категория сервисов",
+    "suite-modal-organization-service-category-create-error-title": "Введите название.",
+    "suite-modal-organization-service-category-create-title-label": "Название",
+    "suite-modal-organization-service-category-create-title-placeholder": "Ввести название"
+  }
+}

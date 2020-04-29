@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-benefit-delete-title": "베네핏 삭제",
     "alert-confirmation-organization-benefit-delete-no": "취소",
-    "alert-confirmation-organization-benefit-delete-yes": "삭제하기",
-    "alert-confirmation-organization-benefit-delete-text": "베네핏을 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다."
+    "alert-confirmation-organization-benefit-delete-text": "베네핏을 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.",
+    "alert-confirmation-organization-benefit-delete-yes": "삭제"
   }
 }

@@ -5,8 +5,8 @@
     "suite-page-organization-benefit-details-button-applied": "Applied",
     "suite-page-organization-benefit-details-button-delete": "Delete",
     "suite-page-organization-benefit-details-button-repeat": "Try again",
-    "suite-page-organization-benefit-details-delete-failure": "Failed to delete a service.",
-    "suite-page-organization-benefit-details-get-failure": "Couldn't show service. Check the internet and try again.",
-    "suite-page-organization-benefit-details-no-benefit": "There is no service to display."
+    "suite-page-organization-benefit-details-delete-failure": "Failed to delete a benefit.",
+    "suite-page-organization-benefit-details-get-failure": "Couldn't show benefit. Check the internet and try again.",
+    "suite-page-organization-benefit-details-no-benefit": "There is no benefit to display."
   }
 }

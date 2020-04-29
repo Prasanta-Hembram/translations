@@ -1,0 +1,8 @@
+{
+  "data": {
+    "suite-modal-organization-service-category-create-title": "새 서비스 카테고리",
+    "suite-modal-organization-service-category-create-error-title": "제목을 입력하기",
+    "suite-modal-organization-service-category-create-title-label": "제목",
+    "suite-modal-organization-service-category-create-title-placeholder": "제목을 입력하기"
+  }
+}
