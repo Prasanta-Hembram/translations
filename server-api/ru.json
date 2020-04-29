@@ -43,7 +43,6 @@
     "invoice-footer-payable-amount": "Всего к оплате",
     "invoice-footer-tax": "Налог ({taxPercent}%)",
     "invoice-footer-total-amount": "Общая стоимость",
-    "invoice-footer-total-amount-in-words": "Общая стоимость словами: ",
     "invoice-header-description": "Описание",
     "invoice-header-net-amount": "Стоимость",
     "invoice-header-quantity": "Кол-во",

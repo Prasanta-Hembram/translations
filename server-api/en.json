@@ -43,7 +43,6 @@
     "invoice-footer-payable-amount": "Payable Amount",
     "invoice-footer-tax": "Tax ({taxPercent}%)",
     "invoice-footer-total-amount": "Total Amount",
-    "invoice-footer-total-amount-in-words": "Total Amount in Words: ",
     "invoice-header-description": "Description",
     "invoice-header-net-amount": "Net Amount",
     "invoice-header-quantity": "Quantity",

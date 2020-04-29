@@ -43,7 +43,6 @@
     "invoice-footer-payable-amount": "결제예정금액",
     "invoice-footer-tax": "세액 ({taxPercent}%)",
     "invoice-footer-total-amount": "합계",
-    "invoice-footer-total-amount-in-words": "합계금액 : ",
     "invoice-header-description": "품목",
     "invoice-header-net-amount": "공급가액",
     "invoice-header-quantity": "수량",
