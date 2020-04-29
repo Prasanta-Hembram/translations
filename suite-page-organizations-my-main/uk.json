@@ -10,6 +10,9 @@
     "suite-page-organizations-my-main-no-coworkings": "Щоб долучитися до коворкінгу, необхідне запрошення. Зверніться до менеджера коворкінгу по запрошення.",
     "suite-page-organizations-my-main-no-coworkings-title": "Розпочнімо!",
     "suite-page-organizations-my-main-subscription-trial-button": "Підписатись",
-    "suite-page-organizations-my-main-subscription-trial-days-left": "Завершується {days}."
+    "suite-page-organizations-my-main-subscription-trial-days-left": "Завершується {days}.",
+    "suite-page-organizations-my-main-validation-email-failed-button-connect": "Під'єднати email",
+    "suite-page-organizations-my-main-validation-email-failed-title": "Email не під'єднано",
+    "suite-page-organizations-my-main-validation-email-failed-text": "Ваш email не під'єднано до облікового запису. Додайте адресу email у профіль користувача щоб продовжити користуватись застосунком."
   }
 }
