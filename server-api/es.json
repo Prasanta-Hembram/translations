@@ -59,7 +59,6 @@
     "payment-intent-booking-description": "Rerserva de salas ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Pago {paymentDate}",
     "payment-intent-invoice-description": "Factura ({invoiceDate})",
-    "powered-by-andcards": "Desarrollado por {andcardsUrl}",
     "service-apply-email-application-comment": "Comentario:\n{comment}",
     "service-apply-email-application-email": "Email: {email}",
     "service-apply-email-application-full-name": "Nombre completo: {userFullName}",

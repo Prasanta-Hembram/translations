@@ -59,7 +59,6 @@
     "payment-intent-booking-description": "Raumbuchung ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Zahlung {paymentDate}",
     "payment-intent-invoice-description": "Rechnung ({invoiceDate})",
-    "powered-by-andcards": "Powered by {andcardsUrl}",
     "service-apply-email-application-comment": "Kommentar:\n{comment}",
     "service-apply-email-application-email": "E-Mail: {email}",
     "service-apply-email-application-full-name": "Vollständiger Name: {userFullName}",

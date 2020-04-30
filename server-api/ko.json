@@ -59,7 +59,6 @@
     "payment-intent-booking-description": "회의실 예약 ({roomName}) {bookingDate}",
     "payment-intent-default-description": "결제 {paymentDate}",
     "payment-intent-invoice-description": "청구 내역 ({invoiceDate})",
-    "powered-by-andcards": "{andcardsUrl} 제공",
     "service-apply-email-application-comment": "내용:\n{comment}",
     "service-apply-email-application-email": "이메일: {email}",
     "service-apply-email-application-full-name": "성함: {userFullName}",
