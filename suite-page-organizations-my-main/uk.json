@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-page-organizations-my-main-main-title": "Мої коворкінги",
+    "suite-page-organizations-my-main-main-title": "Робочі простори",
     "suite-page-organizations-my-main-button-activate-membership": "Завершити активацію",
     "suite-page-organizations-my-main-button-branches": "Відділення",
     "suite-page-organizations-my-main-button-search": "Пошук",
-    "suite-page-organizations-my-main-desc-activate-membership": "Ви запрошені приєднатись до коворкінгу. Активуйте обліковий запис.",
-    "suite-page-organizations-my-main-get-failure": "Коворкінги не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
+    "suite-page-organizations-my-main-desc-activate-membership": "Ви запрошені приєднатись до робочого простору. Активуйте обліковий запис.",
+    "suite-page-organizations-my-main-get-failure": "Робочі простори не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organizations-my-main-no-coworkings-button-request-to-join": "Надіслати запит",
-    "suite-page-organizations-my-main-no-coworkings": "Щоб долучитися до коворкінгу, необхідне запрошення. Зверніться до менеджера коворкінгу по запрошення.",
+    "suite-page-organizations-my-main-no-coworkings": "Щоб долучитися до робочого простору, необхідне запрошення. Зверніться до менеджера робочого простору по запрошення.",
     "suite-page-organizations-my-main-no-coworkings-title": "Розпочнімо!",
     "suite-page-organizations-my-main-subscription-trial-button": "Підписатись",
     "suite-page-organizations-my-main-subscription-trial-days-left": "Завершується {days}.",
