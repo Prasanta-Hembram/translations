@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-leave-title": "Покинути коворкінг",
+    "alert-confirmation-organization-leave-title": "Покинути робочий простір",
     "alert-confirmation-organization-leave-no": "Скасувати",
-    "alert-confirmation-organization-leave-text": "Ви впевнені, що хочете покинути цей коворкінг? Якщо ви продовжите, ви втратите усі дані, пов'язані з цим коворкінгом. Ця дія незворотна.",
+    "alert-confirmation-organization-leave-text": "Ви впевнені, що хочете покинути цей робочий простір? Якщо ви продовжите, ви втратите усі дані, пов'язані з цим робочим простором. Ця дія незворотна.",
     "alert-confirmation-organization-leave-yes": "Покинути"
   }
 }
