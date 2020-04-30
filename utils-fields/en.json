@@ -4,10 +4,10 @@
     "utils-fields-about-placeholder": "Type something",
     "utils-fields-email": "Email",
     "utils-fields-email-placeholder": "Type an email",
-    "utils-fields-first-name": "Name",
-    "utils-fields-first-name-placeholder": "Type a name",
-    "utils-fields-last-name": "Surname",
-    "utils-fields-last-name-placeholder": "Type a surname",
+    "utils-fields-first-name": "First Name",
+    "utils-fields-first-name-placeholder": "Type a first name",
+    "utils-fields-last-name": "Last Name",
+    "utils-fields-last-name-placeholder": "Type a last name",
     "utils-fields-phone-number": "Phone Number",
     "utils-fields-phone-number-placeholder": "Type a phone number"
   }
