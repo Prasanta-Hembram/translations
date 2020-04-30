@@ -4,7 +4,7 @@
     "suite-page-organization-community-team-credits-button-charge-title": "Списати",
     "suite-page-organization-community-team-credits-button-give-title": "Нарахувати",
     "suite-page-organization-community-team-credits-error-credits-invalid": "Уведіть кількість кредитів.",
-    "suite-page-organization-community-team-credits-error-credit-system-off": "Кредитна система в коворкінгу відключена.",
+    "suite-page-organization-community-team-credits-error-credit-system-off": "Кредитна система в робочому просторі відключена.",
     "suite-page-organization-community-team-credits-error-team-not-found": "Ця команда не існує або ж була видалена.",
     "suite-page-organization-community-team-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-community-team-credits-expiring-desc": "Термін дії кредитів тимчасовий і він закінчується разом з кредитним планом.",

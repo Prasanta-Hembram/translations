@@ -4,7 +4,7 @@
     "suite-page-organization-community-user-credits-button-charge-title": "Списати",
     "suite-page-organization-community-user-credits-button-give-title": "Нарахувати",
     "suite-page-organization-community-user-credits-error-credits-invalid": "Уведіть кількість кредитів.",
-    "suite-page-organization-community-user-credits-error-credit-system-off": "Кредитна система в коворкінгу відключена.",
+    "suite-page-organization-community-user-credits-error-credit-system-off": "Кредитна система в робочому просторі відключена.",
     "suite-page-organization-community-user-credits-error-user-not-found": "Учасник не існує або ж був видалений.",
     "suite-page-organization-community-user-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-community-user-credits-expiring-desc": "Термін дії кредитів тимчасовий і він закінчується разом з кредитним планом.",
