@@ -57,6 +57,7 @@
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифный план истекает завтра. Купите новый план, чтобы остаться.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифный план будет автоматически продлен через 5 дней.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифный план будет автоматически продлен завтра.",
+    "organization-request-to-join-notice": "This is an automated message. Please do not reply.",
     "payment-intent-booking-description": "Бронирование переговорной ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Инвойс ({invoiceDate})",

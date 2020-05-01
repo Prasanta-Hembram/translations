@@ -57,6 +57,7 @@
     "membership-plan-ends-tomorrow-notification-body": "Ваш тарифний план стікає вже завтра. Купіть новий план, щоб залишитися.",
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифний план буде автоматично подовжено за 5 днів.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифний план буде автоматично подовжено завтра.",
+    "organization-request-to-join-notice": "This is an automated message. Please do not reply.",
     "payment-intent-booking-description": "Резервація кімнати ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Інвойс ({invoiceDate})",

@@ -57,6 +57,7 @@
     "membership-plan-ends-tomorrow-notification-body": "Your membership plan ends tomorrow. Buy a new plan to stay.",
     "membership-plan-renew-in-five-days-notification-body": "Your membership plan will be automatically extended in 5 days.",
     "membership-plan-renew-tomorrow-notification-body": "Your membership plan will be automatically extended tomorrow.",
+    "organization-request-to-join-notice": "This is an automated message. Please do not reply.",
     "payment-intent-booking-description": "Room Booking ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Payment {paymentDate}",
     "payment-intent-invoice-description": "Invoice ({invoiceDate})",
