@@ -23,7 +23,7 @@
     "bulk-invite-failure-plan-start-date-not-valid": "Columna de 'Inicio' de la fila {row} está vacío.",
     "bulk-invite-failure-team-id-not-found": "ID de equipo en la fila {row} no se encuentra.",
     "bulk-invite-success-email-activate-link": "Розпочати користуватись",
-    "bulk-invite-success-email-activation-note-default": "¡Hola {userFullName}! Te invitamos a unirte a {organizationTitle}. Цей додаток робить наш коворкінг ще зручнішим. Тут можна бронювати мітинг-руми, друкувати файли та реєструвати гостей. Тепер ви самостійно контролюєте важливі робочі процеси.\n\nДля того щоб активувати свій доступ, залогуйтесь за допомгою вашого email-у {userEmail}.",
+    "bulk-invite-success-email-activation-note-default": "¡Hola {userFullName}! Te invitamos a unirte a {organizationTitle}. Цей додаток робить наш коворкінг ще зручнішим. Тут можна бронювати мітинг-руми, друкувати файли та реєструвати гостей. Тепер ви самостійно контролюєте важливі робочі процеси.\n\nДля того щоб розпочати користуватися, залогуйтесь за допомогою вашої електронної пошти {userEmail}.",
     "bulk-invite-success-email-activation-note-footer": "У випадку виникнення питань, сміливо звертайтесь до менеджера. Приємного користування!",
     "bulk-invite-success-email-subject": "Te invitamos a registrarte para la aplicación {organizationTitle}",
     "bulk-invite-success-email-title": "Welcome to {organizationTitle}",
