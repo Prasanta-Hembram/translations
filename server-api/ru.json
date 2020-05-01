@@ -30,7 +30,7 @@
     "email-confirmation-display-mode-exit-subject": "Выйти с режима дисплея переговорной",
     "email-confirmation-subject": "Войти в {title}",
     "email-confirmation-text": "Воспользуйтесь им на протяжении 5 минут.",
-    "email-confirmation-title": "Код подтверждения",
+    "email-confirmation-title": "Confirm your email address",
     "email-request-to-join-subject": "Запрос на присоединение {organizationTitle}",
     "email-request-to-join-subject-with-name": "{userName} запрашивает доступ к {organizationTitle}",
     "invoice-finalize-notification-body": "Инвойс команды {teamTitle} за {invoiceMonth} готов. Просмотреть и оплатить.",

@@ -30,7 +30,7 @@
     "email-confirmation-display-mode-exit-subject": "Verlassen des Raumanzeigemodus",
     "email-confirmation-subject": "Bei {title} anmelden",
     "email-confirmation-text": "Benutzen Sie es, um innerhalb von 5 Minuten auf Ihr Konto zuzugreifen.",
-    "email-confirmation-title": "Bestätigungscode",
+    "email-confirmation-title": "Confirm your email address",
     "email-request-to-join-subject": "Antrag auf Teilnahme an {organizationTitle}",
     "email-request-to-join-subject-with-name": "{userName} gebeten, {organizationTitle} beizutreten",
     "invoice-finalize-notification-body": "{teamTitle} Rechnung für {invoiceMonth} ist bereit! Einsehen und ganz einfach bezahlen.",

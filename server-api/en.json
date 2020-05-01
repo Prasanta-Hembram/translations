@@ -30,7 +30,7 @@
     "email-confirmation-display-mode-exit-subject": "Exit from display mode",
     "email-confirmation-subject": "Sign in to {title}",
     "email-confirmation-text": "Use it to access your account within 5 minutes.",
-    "email-confirmation-title": "Confirmation Code",
+    "email-confirmation-title": "Confirm your email address",
     "email-request-to-join-subject": "Request to Join {organizationTitle}",
     "email-request-to-join-subject-with-name": "{userName} requested to join {organizationTitle}",
     "invoice-finalize-notification-body": "{teamTitle} invoice for {invoiceMonth} is ready! View and pay right away.",
