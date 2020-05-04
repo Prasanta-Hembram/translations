@@ -57,7 +57,7 @@
     "membership-plan-ends-tomorrow-notification-body": "Tu plan de membresía termina mañana. Compra un nuevo plan para quedarte.",
     "membership-plan-renew-in-five-days-notification-body": "Tu plan de membresía se extenderá automáticamente en 5 días.",
     "membership-plan-renew-tomorrow-notification-body": "Tu plan de membresía se extenderá automáticamente mañana.",
-    "organization-request-to-join-notice": "This is an automated message. Please do not reply.",
+    "organization-request-to-join-notice": "Este es un mensaje automático. Por favor, no responda.",
     "payment-intent-booking-description": "Rerserva de salas ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Pago {paymentDate}",
     "payment-intent-invoice-description": "Factura ({invoiceDate})",
