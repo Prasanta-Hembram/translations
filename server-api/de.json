@@ -23,7 +23,7 @@
     "bulk-invite-failure-plan-start-date-not-valid": " Startdatum in Zeile {row} ist nicht gültig.",
     "bulk-invite-failure-team-id-not-found": "Team ID in Zeile {row} ist nicht gültig.",
     "bulk-invite-success-email-activate-link": "Loslegen",
-    "bulk-invite-success-email-activation-note-default": "Hallo, {userFullName},\n\nDiese App macht unseren Workspace noch komfortabler. Hier können Sie Besprechungsräume buchen, Dienste und Leistungen beantragen, den Support kontaktieren und mit der Community kommunizieren. Jetzt haben Sie die volle Kontrolle über wichtige Arbeitsabläufe.\n\nUm zu beginnen, aktivieren Sie Ihr Konto mit Ihrer E-Mail {userEmail}.\n\n",
+    "bulk-invite-success-email-activation-note-default": "Hallo, {userFullName},\n\nDiese App macht unseren Workspace noch komfortabler. Hier können Sie Besprechungsräume buchen, Dienste und Leistungen beantragen, den Support kontaktieren und mit der Community kommunizieren. Jetzt haben Sie die volle Kontrolle über wichtige Arbeitsabläufe.\n\nUm zu beginnen, aktivieren Sie Ihr Konto mit Ihrer E-Mail {userEmail}.",
     "bulk-invite-success-email-activation-note-footer": "Wenn Sie Fragen haben, können Sie sich gerne an den Standort Manager wenden. Viel Vergnügen!",
     "bulk-invite-success-email-subject": "Sie sind eingeladen, der {organizationTitle} App beizutreten",
     "bulk-invite-success-email-title": "Willkommen in {organizationTitle}",
