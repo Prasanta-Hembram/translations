@@ -4,6 +4,7 @@
     "suite-modal-organization-community-user-invite-button-invite": "Send Invitation",
     "suite-modal-organization-community-user-invite-error-email": "Type a correct email.",
     "suite-modal-organization-community-user-invite-error-first-name": "Type a first name.",
+    "suite-modal-organization-community-user-invite-none": "None",
     "suite-modal-organization-community-user-invite-team": "Team",
     "suite-modal-organization-community-user-invite-team-role": "Role"
   }

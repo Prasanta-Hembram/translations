@@ -4,6 +4,7 @@
     "suite-modal-organization-community-user-invite-button-invite": "Einladen",
     "suite-modal-organization-community-user-invite-error-email": "Geben Sie eine korrekte E-Mail ein.",
     "suite-modal-organization-community-user-invite-error-first-name": "Vornamen eingeben.",
+    "suite-modal-organization-community-user-invite-none": "Kein",
     "suite-modal-organization-community-user-invite-team": "Team",
     "suite-modal-organization-community-user-invite-team-role": "Rolle"
   }
