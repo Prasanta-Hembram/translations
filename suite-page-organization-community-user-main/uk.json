@@ -9,7 +9,7 @@
     "suite-page-organization-community-user-main-button-profile": "Профіль",
     "suite-page-organization-community-user-main-button-settings": "Налаштування",
     "suite-page-organization-community-user-main-error-user-not-found": "Учасник не існує або ж був видалений.",
-    "suite-page-organization-community-user-main-invited-email": "Запрошення надіслано {userEmail}.",
+    "suite-page-organization-community-user-main-invited-email": "Запрошення надіслано на {userEmail}.",
     "suite-page-organization-community-user-main-leave-repeat": "Спробувати знову",
     "suite-page-organization-community-user-main-leave-user-failure": "Не вдалося видалити учасника.",
     "suite-page-organization-community-user-main-resend-invite": "Відправити ще раз",
