@@ -23,7 +23,7 @@
     "bulk-invite-failure-plan-start-date-not-valid": "{row} 행의 '시작일'이 잘못되었습니다.",
     "bulk-invite-failure-team-id-not-found": "{row} 행의 '팀 ID'이 잘못되었습니다.",
     "bulk-invite-success-email-activate-link": "사용을 시작하기",
-    "bulk-invite-success-email-activation-note-default": "안녕하세요 {userFullName}님,\n\n{organizationTitle}에 오신 것을 환영합니다! 이 앱은 우리의 공유공간을 더욱 편안하게 해줍니다. 여기서 회의실을 예약하고, 서비스 및 베네핏을 신청하고, 고객지원에 연락하고, 커뮤니티와 통신할 수 있습니다. 이제 중요한 오피스 생활 업무를 완전히 제어할 수 있습니다.\n\n시작하려면 {userEmail} 이메일을 사용하여 계정을 활성화시키세요.",
+    "bulk-invite-success-email-activation-note-default": "안녕하세요 {userFullName}님!\n\n이 앱은 우리의 공유공간을 더욱 편안하게 해줍니다. 여기서 회의실을 예약하고, 서비스 및 베네핏을 신청하고, 고객지원에 연락하고, 커뮤니티와 통신할 수 있습니다. 이제 중요한 오피스 생활 업무를 완전히 제어할 수 있습니다.\n\n시작하려면 {userEmail} 이메일을 사용하여 계정을 활성화시키세요.",
     "bulk-invite-success-email-activation-note-footer": "질문이 있으시면 지점관리자에게 연락하세요. 좋은 하루 되세요!",
     "bulk-invite-success-email-subject": "{organizationTitle} 계정을 활성화시키세요",
     "bulk-invite-success-email-title": "{organizationTitle}에 오신 것을 환영합니다!",
