@@ -49,6 +49,8 @@
     "membership-plan-ends-tomorrow-notification-body": "Your membership plan ends tomorrow. Buy a new plan to stay.",
     "membership-plan-renew-in-five-days-notification-body": "Your membership plan will be automatically extended in 5 days.",
     "membership-plan-renew-tomorrow-notification-body": "Your membership plan will be automatically extended tomorrow.",
+    "organization-email-request-to-join-application-notice": "The branch manager will contact you soon.",
+    "organization-email-request-to-join-application-title": "The following text is attached to the request:",
     "organization-email-request-to-join-notice": "This is an automated message. Please do not reply.",
     "organization-email-request-to-join-subject": "Request to Join {organizationTitle}",
     "organization-email-request-to-join-subject-with-name": "{userName} requested to join {organizationTitle}",
