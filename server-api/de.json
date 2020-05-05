@@ -50,7 +50,7 @@
     "membership-plan-renew-in-five-days-notification-body": "Ihr Mitgliedschafts-Abo wird automatisch in 5 Tagen verlängert.",
     "membership-plan-renew-tomorrow-notification-body": "Ihr Mitgliedschafts-Abo wird morgen automatisch verlängert.",
     "organization-email-request-to-join-application-notice": "The branch manager will contact you soon.",
-    "organization-email-request-to-join-application-title": "The following information is attached to the request:",
+    "organization-email-request-to-join-application-title": "The following comment is attached to the request:",
     "organization-email-request-to-join-notice": "Dies ist eine automatische Nachricht. Bitte antworten Sie nicht.",
     "organization-email-request-to-join-subject": "Antrag auf Teilnahme an {organizationTitle}",
     "organization-email-request-to-join-subject-with-name": "{userName} gebeten, {organizationTitle} beizutreten",

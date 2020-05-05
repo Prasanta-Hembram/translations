@@ -50,7 +50,7 @@
     "membership-plan-renew-in-five-days-notification-body": "Ваш тарифный план будет автоматически продлен через 5 дней.",
     "membership-plan-renew-tomorrow-notification-body": "Ваш тарифный план будет автоматически продлен завтра.",
     "organization-email-request-to-join-application-notice": "The branch manager will contact you soon.",
-    "organization-email-request-to-join-application-title": "The following information is attached to the request:",
+    "organization-email-request-to-join-application-title": "The following comment is attached to the request:",
     "organization-email-request-to-join-notice": "Это письмо отправлено автоматически. Пожалуйста, не отвечайте на него.",
     "organization-email-request-to-join-subject": "Запрос на присоединение {organizationTitle}",
     "organization-email-request-to-join-subject-with-name": "{userName} запрашивает доступ к {organizationTitle}",

@@ -50,7 +50,7 @@
     "membership-plan-renew-in-five-days-notification-body": "5일 후에 멤버십 플랜이 자동으로 연장됩니다.",
     "membership-plan-renew-tomorrow-notification-body": "내일 멤버십 플랜이 자동으로 연장됩니다.",
     "organization-email-request-to-join-application-notice": "The branch manager will contact you soon.",
-    "organization-email-request-to-join-application-title": "The following information is attached to the request:",
+    "organization-email-request-to-join-application-title": "The following comment is attached to the request:",
     "organization-email-request-to-join-notice": "이 이메일은 자동으로 전송되었습니다. 답장하지 말아주세요.",
     "organization-email-request-to-join-subject": "{organizationTitle} 가입 요청",
     "organization-email-request-to-join-subject-with-name": "{organizationTitle} 가입 요청 : {userName}",
