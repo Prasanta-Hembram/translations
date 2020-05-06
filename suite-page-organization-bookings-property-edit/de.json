@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-edit-title-edit": "Raum bearbeiten",
-    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Time increment for creating a booking by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-label": "Buchungsschritt",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Dauerbegrenzungen für von Mitgliedern erstellte Buchungen.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "Die Häufigkeit der verfügbaren Zeit für die Erstellung einer Buchung durch die Mitglieder.",
+    "suite-page-organization-bookings-property-edit-booking-step-label": "Verfügbarkeit Inkremente",
     "suite-page-organization-bookings-property-edit-description": "Beschreibung",
     "suite-page-organization-bookings-property-edit-error-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Beschreibung eingeben (optional)",
