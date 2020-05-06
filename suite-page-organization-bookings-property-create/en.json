@@ -2,8 +2,8 @@
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "New Room",
     "suite-page-organization-bookings-property-create-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Time increment for creating a booking by members.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Booking Step",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "The frequency of available time for creating a booking by members.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Availability Increments",
     "suite-page-organization-bookings-property-create-description": "Description",
     "suite-page-organization-bookings-property-create-description-placeholder": "Type a description (optional)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Type a number of seats.",
