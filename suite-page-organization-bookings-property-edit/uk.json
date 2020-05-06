@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-edit-title-edit": "Редагувати кімнату",
-    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Time increment for creating a booking by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-label": "Крок бронювання",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Обмеження тривалості резервацій, що створені учаниками.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "Частота доступного часу для резервацій, що створені учасниками.",
+    "suite-page-organization-bookings-property-edit-booking-step-label": "Інкремент доступності",
     "suite-page-organization-bookings-property-edit-description": "Опис",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-bookings-property-edit-error-no-property": "Кімната не існує або ж була видалена.",
