@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Nueva Sala",
-    "suite-page-organization-bookings-property-create-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Time increment for creating a booking by members.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Paso de reserva",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Límites de duración para las reservas creadas por los miembros.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "La frecuencia de tiempo disponible para crear una reserva por los miembros.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Incrementos de disponibilidad",
     "suite-page-organization-bookings-property-create-description": "Descripción",
     "suite-page-organization-bookings-property-create-description-placeholder": "Descripción del tipo de tu sala de reuniones (opcional)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Por favor, indica cuántas personas pueden caber en la sala de reuniones.",
