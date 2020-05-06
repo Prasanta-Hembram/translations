@@ -1,6 +1,8 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Los miembros podrán reservar con el incremento de tiempo seleccionado arriba.",
+    "suite-page-organization-bookings-property-create-title-create": "Nueva Sala",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Duration limits for bookings created by members.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Time increment for creating a booking by members.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Paso de reserva",
     "suite-page-organization-bookings-property-create-description": "Descripción",
     "suite-page-organization-bookings-property-create-description-placeholder": "Descripción del tipo de tu sala de reuniones (opcional)",
@@ -22,7 +24,6 @@
     "suite-page-organization-bookings-property-create-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-bookings-property-create-price-points": "Precio, {pointEmoji}/hora",
     "suite-page-organization-bookings-property-create-team-add-team": "Elegir",
-    "suite-page-organization-bookings-property-create-team-none": "Ninguna",
-    "suite-page-organization-bookings-property-create-title-create": "Nueva Sala"
+    "suite-page-organization-bookings-property-create-team-none": "Ninguna"
   }
 }

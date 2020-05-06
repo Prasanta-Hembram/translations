@@ -1,6 +1,8 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Los miembros podrán reservar con el incremento de tiempo seleccionado arriba.",
+    "suite-page-organization-bookings-property-edit-title-edit": "Editar Habitación",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "Time increment for creating a booking by members.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "Paso de reserva",
     "suite-page-organization-bookings-property-edit-description": "Descripción",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
@@ -23,7 +25,6 @@
     "suite-page-organization-bookings-property-edit-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-bookings-property-edit-price-points": "Precio, {pointEmoji}/hora",
     "suite-page-organization-bookings-property-edit-team-add-team": "Elegir",
-    "suite-page-organization-bookings-property-edit-team-none": "Ninguna",
-    "suite-page-organization-bookings-property-edit-title-edit": "Editar Habitación"
+    "suite-page-organization-bookings-property-edit-team-none": "Ninguna"
   }
 }

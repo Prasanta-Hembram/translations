@@ -1,6 +1,8 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Members will be able to book with the time increment selected above.",
+    "suite-page-organization-bookings-property-create-title-create": "New Room",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Duration limits for bookings created by members.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Time increment for creating a booking by members.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Booking Step",
     "suite-page-organization-bookings-property-create-description": "Description",
     "suite-page-organization-bookings-property-create-description-placeholder": "Type a description (optional)",
@@ -22,7 +24,6 @@
     "suite-page-organization-bookings-property-create-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-bookings-property-create-price-points": "Credits, {pointEmoji}/hr",
     "suite-page-organization-bookings-property-create-team-add-team": "Select",
-    "suite-page-organization-bookings-property-create-team-none": "None",
-    "suite-page-organization-bookings-property-create-title-create": "New Room"
+    "suite-page-organization-bookings-property-create-team-none": "None"
   }
 }

@@ -1,6 +1,8 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Учасники зможуть бронювати з вказаним вище кроком по часу.",
+    "suite-page-organization-bookings-property-edit-title-edit": "Редагувати кімнату",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "Time increment for creating a booking by members.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "Крок бронювання",
     "suite-page-organization-bookings-property-edit-description": "Опис",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
@@ -23,7 +25,6 @@
     "suite-page-organization-bookings-property-edit-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-bookings-property-edit-price-points": "Ціна, {pointEmoji}/год",
     "suite-page-organization-bookings-property-edit-team-add-team": "Обрати",
-    "suite-page-organization-bookings-property-edit-team-none": "Не обрано",
-    "suite-page-organization-bookings-property-edit-title-edit": "Редагувати кімнату"
+    "suite-page-organization-bookings-property-edit-team-none": "Не обрано"
   }
 }
