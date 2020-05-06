@@ -1,8 +1,8 @@
 {
   "data": {
     "suite-page-organization-bookings-property-edit-title-edit": "회의실설정",
-    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Time increment for creating a booking by members.",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "회원이 예약을 작성할 수 있는 기간 제한입니다.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "회원이 예약을 작성할 수 있는 빈도입니다.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "예약시간 단위",
     "suite-page-organization-bookings-property-edit-description": "설명",
     "suite-page-organization-bookings-property-edit-description-placeholder": "설명입력(선택사항)",
