@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-edit-title-edit": "Редактировать комнату",
-    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Time increment for creating a booking by members.",
-    "suite-page-organization-bookings-property-edit-booking-step-label": "Шаг бронирования",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Ограничение длительности бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "Частота доступного времени для бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-edit-booking-step-label": "Инкремент доступности",
     "suite-page-organization-bookings-property-edit-description": "Описание",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-bookings-property-edit-error-no-property": "Переговорная не существует или же была удалена.",
