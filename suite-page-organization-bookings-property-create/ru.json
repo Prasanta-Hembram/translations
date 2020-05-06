@@ -1,9 +1,9 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Новая комната",
-    "suite-page-organization-bookings-property-create-booking-limits-desc": "Duration limits for bookings created by members.",
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Time increment for creating a booking by members.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Шаг бронирования",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Ограничение длительности бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Частота доступного времени для бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Инкремент доступности",
     "suite-page-organization-bookings-property-create-description": "Описание",
     "suite-page-organization-bookings-property-create-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
