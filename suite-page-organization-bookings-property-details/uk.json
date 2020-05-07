@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-details-delete-property-repeat": "Спробувати знову",
     "suite-page-organization-bookings-property-details-main-title": "Кімната",
     "suite-page-organization-bookings-property-details-no-property": "Кімната не існує або ж була видалена.",
+    "suite-page-organization-bookings-property-details-overview-booking-auto-release-interval": "- Booking without check in will be removed in {interval}.",
+    "suite-page-organization-bookings-property-details-overview-booking-check-in-interval": "- Booking can be checked in {interval} before booking start.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
     "suite-page-organization-bookings-property-details-overview-seats": "- Кімната може вмістити до {numberOfSeats} гостей.",

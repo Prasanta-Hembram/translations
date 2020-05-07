@@ -30,6 +30,7 @@
     "suite-modal-organization-bookings-booking-create-payment-success-button-done": "Готово",
     "suite-modal-organization-bookings-booking-create-payment-success-text": "Нагадаємо за 5 хвилин до початку резервації.",
     "suite-modal-organization-bookings-booking-create-payment-success-title": "Резервація успішна",
+    "suite-modal-organization-bookings-booking-create-payment-success-with-check-in-text": "We'll notify you 5 minutes before it starts. This booking needs check in.",
     "suite-modal-organization-bookings-booking-create-price": "Ціна, {currency}",
     "suite-modal-organization-bookings-booking-create-price-money": "Резервація коштує {priceMoney} за годину.",
     "suite-modal-organization-bookings-booking-create-price-points": "Резервація коштує {priceCredits} за годину.",

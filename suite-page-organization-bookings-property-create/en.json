@@ -1,5 +1,12 @@
 {
   "data": {
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Turn off/on removing bookings which were not checked in (works only for free bookings). If turned on, check in button will be displayed in display mode on tablet, near the room.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Minutes after booking start when it will be removed if no check in.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Release non checked bookings interval",
+    "suite-page-organization-bookings-property-create-booking-auto-release-label": "Release non checked bookings",
+    "suite-page-organization-bookings-property-create-booking-auto-release-title": "Booking Auto Release",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Minutes before booking when check in is available.",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Check-In Interval",
     "suite-page-organization-bookings-property-create-booking-step-desc": "Members will be able to book with the time increment selected above.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Booking Step",
     "suite-page-organization-bookings-property-create-description": "Description",

@@ -30,6 +30,7 @@
     "suite-modal-organization-bookings-booking-create-payment-success-button-done": "Done",
     "suite-modal-organization-bookings-booking-create-payment-success-text": "We'll notify you 5 minutes before it starts.",
     "suite-modal-organization-bookings-booking-create-payment-success-title": "Booking Success",
+    "suite-modal-organization-bookings-booking-create-payment-success-with-check-in-text": "We'll notify you 5 minutes before it starts. This booking needs check in.",
     "suite-modal-organization-bookings-booking-create-price": "Price, {currency}",
     "suite-modal-organization-bookings-booking-create-price-money": "The price is {priceMoney} per hour.",
     "suite-modal-organization-bookings-booking-create-price-points": "The price is {priceCredits} per hour.",

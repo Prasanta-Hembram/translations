@@ -30,6 +30,7 @@
     "suite-modal-organization-bookings-booking-create-payment-success-button-done": "확인",
     "suite-modal-organization-bookings-booking-create-payment-success-text": "예약이 시작되기 5분 전에 알림 보내드리겠습니다.",
     "suite-modal-organization-bookings-booking-create-payment-success-title": "예약 완료",
+    "suite-modal-organization-bookings-booking-create-payment-success-with-check-in-text": "We'll notify you 5 minutes before it starts. This booking needs check in.",
     "suite-modal-organization-bookings-booking-create-price": "가격, {currency}",
     "suite-modal-organization-bookings-booking-create-price-money": "이용료는 시간 당 {priceMoney}입니다.",
     "suite-modal-organization-bookings-booking-create-price-points": "이용료는 시간 당 {priceCredits}입니다.",

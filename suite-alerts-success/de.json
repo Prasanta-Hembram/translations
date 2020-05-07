@@ -6,6 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Der Buchungsbesitzer erhielt 100% des Geldes zurückerstattet.",
     "suite-alerts-refund-booking-money-for-owner": "{price} erfolgreich zurückerstattet.",
     "suite-alerts-success-benefit-apply": "Antrag erfolgreich versandt.",
+    "suite-alerts-success-booking-check-in": "Booking Checked In.",
     "suite-alerts-success-booking-create": "Die Buchung wurde erfolgreich durchgeführt.",
     "suite-alerts-success-booking-edit": "Die Buchung wurde geändert.",
     "suite-alerts-success-booking-edit-charge": "Die Buchung wurde geändert. {priceDifferenceToPay} belastet.",

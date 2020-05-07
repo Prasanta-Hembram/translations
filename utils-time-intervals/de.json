@@ -1,0 +1,8 @@
+{
+  "data": {
+    "utils-time-interval-zero-minutes": "0 minutes",
+    "utils-time-interval-five-minutes": "5 minutes",
+    "utils-time-interval-ten-minutes": "10 minutes",
+    "utils-time-interval-fifteen-minutes": "15 minutes"
+  }
+}
