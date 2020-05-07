@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-property-create-error-room-name": "회의실 명 입력하세요.",
     "suite-page-organization-bookings-property-create-image-delete": "사진 삭제하기",
     "suite-page-organization-bookings-property-create-is-private": "출입 제한",
-    "suite-page-organization-bookings-property-create-limited-access-title": "출입 제한.",
+    "suite-page-organization-bookings-property-create-limited-access-title": "출입",
     "suite-page-organization-bookings-property-create-limited-access-desc": "특정 팀만 회의실에 접근합니다.",
     "suite-page-organization-bookings-property-create-max-time": "최대예약시간",
     "suite-page-organization-bookings-property-create-min-time": "최소예약시간",
