@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-property-edit-error-price-credits": "Type a valid amount in credits.",
     "suite-page-organization-bookings-property-edit-error-room-name": "Type a name.",
     "suite-page-organization-bookings-property-edit-is-private": "Limited Access",
-    "suite-page-organization-bookings-property-edit-limited-access-title": "Limited Access",
+    "suite-page-organization-bookings-property-edit-limited-access-title": "Access",
     "suite-page-organization-bookings-property-edit-limited-access-desc": "Allow only certain teams to access the meeting room.",
     "suite-page-organization-bookings-property-edit-image-delete": "Delete Image",
     "suite-page-organization-bookings-property-edit-max-time": "Max time",

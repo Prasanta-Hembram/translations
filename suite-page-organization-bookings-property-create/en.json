@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-property-create-error-room-name": "Type a name.",
     "suite-page-organization-bookings-property-create-image-delete": "Delete Photo",
     "suite-page-organization-bookings-property-create-is-private": "Limited Access",
-    "suite-page-organization-bookings-property-create-limited-access-title": "Limited Access",
+    "suite-page-organization-bookings-property-create-limited-access-title": "Access",
     "suite-page-organization-bookings-property-create-limited-access-desc": "Allow only certain teams to access the meeting room.",
     "suite-page-organization-bookings-property-create-max-time": "Max time",
     "suite-page-organization-bookings-property-create-min-time": "Min time",

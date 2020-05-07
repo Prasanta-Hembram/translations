@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-property-create-error-room-name": "Namen eingeben.",
     "suite-page-organization-bookings-property-create-image-delete": "Bild löschen",
     "suite-page-organization-bookings-property-create-is-private": "Eingeschränkter Zugriff",
-    "suite-page-organization-bookings-property-create-limited-access-title": "Eingeschränkter Zugriff",
+    "suite-page-organization-bookings-property-create-limited-access-title": "Zugriff",
     "suite-page-organization-bookings-property-create-limited-access-desc": "Erlauben Sie nur bestimmten Teams den Zugang zum Konferenzraum.",
     "suite-page-organization-bookings-property-create-max-time": "Maximale Dauer",
     "suite-page-organization-bookings-property-create-min-time": "Mindestdauer",
