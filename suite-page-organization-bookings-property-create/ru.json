@@ -1,7 +1,9 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Участники смогут бронировать с указанным выше шагом по времени.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Шаг бронирования",
+    "suite-page-organization-bookings-property-create-title-create": "Новая комната",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Ограничение длительности бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Частота доступного времени для бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Инкремент доступности",
     "suite-page-organization-bookings-property-create-description": "Описание",
     "suite-page-organization-bookings-property-create-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
@@ -22,7 +24,6 @@
     "suite-page-organization-bookings-property-create-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-bookings-property-create-price-points": "Цена, {pointEmoji}/час",
     "suite-page-organization-bookings-property-create-team-add-team": "Выбрать",
-    "suite-page-organization-bookings-property-create-team-none": "Не выбрано",
-    "suite-page-organization-bookings-property-create-title-create": "Новая комната"
+    "suite-page-organization-bookings-property-create-team-none": "Не выбрано"
   }
 }

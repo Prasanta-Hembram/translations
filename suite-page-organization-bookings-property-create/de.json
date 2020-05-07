@@ -1,7 +1,9 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Die Mitglieder können mit dem oben gewählten Zeitabstand buchen.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Buchungsschritt",
+    "suite-page-organization-bookings-property-create-title-create": "Neuen Raum",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Dauerbegrenzungen für von Mitgliedern erstellte Buchungen.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Die Häufigkeit der verfügbaren Zeit für die Erstellung einer Buchung durch die Mitglieder.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Verfügbarkeit Inkremente",
     "suite-page-organization-bookings-property-create-description": "Beschreibung",
     "suite-page-organization-bookings-property-create-description-placeholder": "Beschreibung eingeben (optional)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Geben Sie eine Anzahl von Plätzen ein.",
@@ -22,7 +24,6 @@
     "suite-page-organization-bookings-property-create-price-money": "Preis, {currencySymbol}/Std.",
     "suite-page-organization-bookings-property-create-price-points": "Credits, {pointEmoji}/Std.",
     "suite-page-organization-bookings-property-create-team-add-team": "Auswählen",
-    "suite-page-organization-bookings-property-create-team-none": "Kein",
-    "suite-page-organization-bookings-property-create-title-create": "Neuen Raum"
+    "suite-page-organization-bookings-property-create-team-none": "Kein"
   }
 }

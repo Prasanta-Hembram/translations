@@ -1,6 +1,8 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-create-booking-step-desc": "회원들은 위에 선택된 시간 단위에 맞추어 예약을 할 수 있습니다.",
+    "suite-page-organization-bookings-property-create-title-create": "회의실 추가",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "회원이 예약을 작성할 수 있는 기간 제한입니다.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "회원이 예약을 작성할 수 있는 빈도입니다.",
     "suite-page-organization-bookings-property-create-booking-step-label": "예약시간 단위",
     "suite-page-organization-bookings-property-create-description": "설명",
     "suite-page-organization-bookings-property-create-description-placeholder": "설명입력(선택사항)",
@@ -22,7 +24,6 @@
     "suite-page-organization-bookings-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-bookings-property-create-price-points": "시간당 {pointEmoji}",
     "suite-page-organization-bookings-property-create-team-add-team": "선택",
-    "suite-page-organization-bookings-property-create-team-none": "선택 안 함",
-    "suite-page-organization-bookings-property-create-title-create": "회의실 추가"
+    "suite-page-organization-bookings-property-create-team-none": "선택 안 함"
   }
 }

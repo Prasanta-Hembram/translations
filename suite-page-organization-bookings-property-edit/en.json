@@ -1,7 +1,9 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Members will be able to book with the time increment selected above.",
-    "suite-page-organization-bookings-property-edit-booking-step-label": "Booking Step",
+    "suite-page-organization-bookings-property-edit-title-edit": "Edit Room",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Duration limits for bookings created by members.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "The frequency of available time for creating a booking by members.",
+    "suite-page-organization-bookings-property-edit-booking-step-label": "Availability Increments",
     "suite-page-organization-bookings-property-edit-description": "Description",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Type a description (optional)",
     "suite-page-organization-bookings-property-edit-error-no-property": "This room may not exist or may have been removed.",
@@ -23,7 +25,6 @@
     "suite-page-organization-bookings-property-edit-price-money": "Price, {currencySymbol}/hr",
     "suite-page-organization-bookings-property-edit-price-points": "Credits, {pointEmoji}/hr",
     "suite-page-organization-bookings-property-edit-team-add-team": "Select",
-    "suite-page-organization-bookings-property-edit-team-none": "None",
-    "suite-page-organization-bookings-property-edit-title-edit": "Edit Room"
+    "suite-page-organization-bookings-property-edit-team-none": "None"
   }
 }
