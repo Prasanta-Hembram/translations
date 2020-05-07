@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-property-create-error-room-name": "Por favor, ingresa un nombre de sala de reuniones.",
     "suite-page-organization-bookings-property-create-image-delete": "Borrar imagen",
     "suite-page-organization-bookings-property-create-is-private": "Acceso limitado",
-    "suite-page-organization-bookings-property-create-limited-access-title": "Acceso limitado",
+    "suite-page-organization-bookings-property-create-limited-access-title": "Acceso",
     "suite-page-organization-bookings-property-create-limited-access-desc": "Permite que sólo ciertos equipos accedan a la sala de reuniones.",
     "suite-page-organization-bookings-property-create-max-time": "Tiempo máximo",
     "suite-page-organization-bookings-property-create-min-time": "Tiempo mínimo",

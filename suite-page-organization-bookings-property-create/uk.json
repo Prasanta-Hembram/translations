@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-property-create-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-bookings-property-create-image-delete": "Видалити зображення",
     "suite-page-organization-bookings-property-create-is-private": "Обмежений доступ",
-    "suite-page-organization-bookings-property-create-limited-access-title": "Обмежений доступ",
+    "suite-page-organization-bookings-property-create-limited-access-title": "Доступ",
     "suite-page-organization-bookings-property-create-limited-access-desc": "Дозвольте доступ до кімнати лише певним командам.",
     "suite-page-organization-bookings-property-create-max-time": "Макс. час",
     "suite-page-organization-bookings-property-create-min-time": "Мін. час",
