@@ -4,7 +4,7 @@
     "suite-page-organization-community-user-settings-error-user-not-found": "Участника не существует или же он был удален.",
     "suite-page-organization-community-user-settings-role": "Роль",
     "suite-page-organization-community-user-settings-role-admin": "Менеджер отделения",
-    "suite-page-organization-community-user-settings-role-info-admin": "Менеджер отделения может настраивать и управлять всем в рабочем пространстве.",
+    "suite-page-organization-community-user-settings-role-info-admin": "Менеджер отделения может настраивать и управлять рабочим пространством.",
     "suite-page-organization-community-user-settings-role-info-member": "Участник может просматривать контент в рабочем пространстве.",
     "suite-page-organization-community-user-settings-role-member": "Участник"
   }
