@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-stream-main-title": "Stream",
     "suite-page-organization-stream-main-button-activity-create": "Создать",
-    "suite-page-organization-stream-main-empty": "В коворкинге пока нет постов Stream.",
+    "suite-page-organization-stream-main-empty": "В рабочем пространстве пока нет постов Stream.",
     "suite-page-organization-stream-main-posts-load-more": "Загрузить больше"
   }
 }

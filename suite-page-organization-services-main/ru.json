@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-services-main-get-failure": "Не удалось показать cписок категорий сервисов. Проверьте интернет-соединение.",
-    "suite-page-organization-services-main-no-service-categories": "В коворкинге нет категорий сервисов для отображения.",
+    "suite-page-organization-services-main-no-service-categories": "В рабочем пространстве нет категорий сервисов для отображения.",
     "suite-page-organization-services-main-title": "Сервисы"
   }
 }

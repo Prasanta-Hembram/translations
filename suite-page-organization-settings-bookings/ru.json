@@ -22,7 +22,7 @@
     "suite-page-organization-settings-bookings-invoicing-title": "Инвойсинг",
     "suite-page-organization-settings-bookings-point-desc": "Участники могут использовать кредиты для бронирования переговорных. Кредиты могут быть получены путем покупки тарифного плана или добавлены вручную менеджером отделения.",
     "suite-page-organization-settings-bookings-point-label": "Кредитная система",
-    "suite-page-organization-settings-bookings-point-network-quote-desc": "Количество кредитов, которое участники одного коворкинга могут использовать в сети коворкингов. Чтобы изменить лимит, свяжитесь с support@andcards.com.",
+    "suite-page-organization-settings-bookings-point-network-quote-desc": "Количество кредитов, которое участники одного рабочего пространства могут использовать в сети рабочих пространств. Чтобы изменить лимит, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-bookings-point-network-quote-label": "Использование в сети"
   }
 }

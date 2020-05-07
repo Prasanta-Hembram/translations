@@ -5,7 +5,7 @@
     "suite-modal-organization-user-request-to-join-comment-label": "Комментарий",
     "suite-modal-organization-user-request-to-join-comment-placeholder": "Ввести комментарий",
     "suite-modal-organization-user-request-to-join-error-first-name": "Введите имя.",
-    "suite-modal-organization-user-request-to-join-no-workspace": "Коворкинги отсутствуют.",
-    "suite-modal-organization-user-request-to-join-workspace-label": "Коворкинг"
+    "suite-modal-organization-user-request-to-join-no-workspace": "Рабочее пространства отсутствуют.",
+    "suite-modal-organization-user-request-to-join-workspace-label": "Рабочее пространство"
   }
 }
