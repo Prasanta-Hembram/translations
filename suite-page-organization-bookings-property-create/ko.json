@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-bookings-property-create-title-create": "회의실 추가",
     "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Turn off/on removing bookings which were not checked in (works only for free bookings). If turned on, check in button will be displayed in display mode on tablet, near the room.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Minutes after booking start when it will be removed if no check in.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Release non checked bookings interval",
@@ -7,7 +8,8 @@
     "suite-page-organization-bookings-property-create-booking-auto-release-title": "Booking Auto Release",
     "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Minutes before booking when check in is available.",
     "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Check-In Interval",
-    "suite-page-organization-bookings-property-create-booking-step-desc": "회원들은 위에 선택된 시간 단위에 맞추어 예약을 할 수 있습니다.",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "회원이 예약을 작성할 수 있는 기간 제한입니다.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "회원이 예약을 작성할 수 있는 빈도입니다.",
     "suite-page-organization-bookings-property-create-booking-step-label": "예약시간 단위",
     "suite-page-organization-bookings-property-create-description": "설명",
     "suite-page-organization-bookings-property-create-description-placeholder": "설명입력(선택사항)",
@@ -29,7 +31,6 @@
     "suite-page-organization-bookings-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-bookings-property-create-price-points": "시간당 {pointEmoji}",
     "suite-page-organization-bookings-property-create-team-add-team": "선택",
-    "suite-page-organization-bookings-property-create-team-none": "선택 안 함",
-    "suite-page-organization-bookings-property-create-title-create": "회의실 추가"
+    "suite-page-organization-bookings-property-create-team-none": "선택 안 함"
   }
 }

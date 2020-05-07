@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-bookings-property-create-title-create": "Новая комната",
     "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Turn off/on removing bookings which were not checked in (works only for free bookings). If turned on, check in button will be displayed in display mode on tablet, near the room.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Minutes after booking start when it will be removed if no check in.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Release non checked bookings interval",
@@ -7,8 +8,9 @@
     "suite-page-organization-bookings-property-create-booking-auto-release-title": "Booking Auto Release",
     "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Minutes before booking when check in is available.",
     "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Check-In Interval",
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Участники смогут бронировать с указанным выше шагом по времени.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Шаг бронирования",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Ограничение длительности бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Частота доступного времени для бронирований, создаваемых участниками.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Инкремент доступности",
     "suite-page-organization-bookings-property-create-description": "Описание",
     "suite-page-organization-bookings-property-create-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Пожалуйста, укажите сколько человек может поместиться в переговорной.",
@@ -29,7 +31,6 @@
     "suite-page-organization-bookings-property-create-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-bookings-property-create-price-points": "Цена, {pointEmoji}/час",
     "suite-page-organization-bookings-property-create-team-add-team": "Выбрать",
-    "suite-page-organization-bookings-property-create-team-none": "Не выбрано",
-    "suite-page-organization-bookings-property-create-title-create": "Новая комната"
+    "suite-page-organization-bookings-property-create-team-none": "Не выбрано"
   }
 }

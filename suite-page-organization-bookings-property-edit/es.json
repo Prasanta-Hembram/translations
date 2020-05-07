@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-bookings-property-edit-title-edit": "Editar Habitación",
     "suite-page-organization-bookings-property-edit-booking-auto-release-desc": "Turn off/on removing bookings which were not checked in (works only for free bookings). If turned on, check in button will be displayed in display mode on tablet, near the room.",
     "suite-page-organization-bookings-property-edit-booking-auto-release-interval-desc": "Minutes after booking start when it will be removed if no check in.",
     "suite-page-organization-bookings-property-edit-booking-auto-release-interval-label": "Release non checked bookings interval",
@@ -7,8 +8,9 @@
     "suite-page-organization-bookings-property-edit-booking-auto-release-title": "Booking Auto Release",
     "suite-page-organization-bookings-property-edit-booking-check-in-interval-desc": "Minutes before booking when check in is available.",
     "suite-page-organization-bookings-property-edit-booking-check-in-interval-label": "Check-In Interval",
-    "suite-page-organization-bookings-property-edit-booking-step-desc": "Los miembros podrán reservar con el incremento de tiempo seleccionado arriba.",
-    "suite-page-organization-bookings-property-edit-booking-step-label": "Paso de reserva",
+    "suite-page-organization-bookings-property-edit-booking-limits-desc": "Límites de duración para las reservas creadas por los miembros.",
+    "suite-page-organization-bookings-property-edit-booking-step-desc": "La frecuencia de tiempo disponible para crear una reserva por los miembros.",
+    "suite-page-organization-bookings-property-edit-booking-step-label": "Incrementos de disponibilidad",
     "suite-page-organization-bookings-property-edit-description": "Descripción",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
     "suite-page-organization-bookings-property-edit-error-no-property": "Esta sala puede no existir o puede haber sido eliminada.",
@@ -30,7 +32,6 @@
     "suite-page-organization-bookings-property-edit-price-money": "Precio, {currencySymbol}/hora",
     "suite-page-organization-bookings-property-edit-price-points": "Precio, {pointEmoji}/hora",
     "suite-page-organization-bookings-property-edit-team-add-team": "Elegir",
-    "suite-page-organization-bookings-property-edit-team-none": "Ninguna",
-    "suite-page-organization-bookings-property-edit-title-edit": "Editar Habitación"
+    "suite-page-organization-bookings-property-edit-team-none": "Ninguna"
   }
 }

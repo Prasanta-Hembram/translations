@@ -1,5 +1,6 @@
 {
   "data": {
+    "suite-page-organization-bookings-property-create-title-create": "Нова кімната",
     "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Turn off/on removing bookings which were not checked in (works only for free bookings). If turned on, check in button will be displayed in display mode on tablet, near the room.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Minutes after booking start when it will be removed if no check in.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Release non checked bookings interval",
@@ -7,8 +8,9 @@
     "suite-page-organization-bookings-property-create-booking-auto-release-title": "Booking Auto Release",
     "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Minutes before booking when check in is available.",
     "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Check-In Interval",
-    "suite-page-organization-bookings-property-create-booking-step-desc": "Учасники зможуть бронювати з вказаним вище кроком по часу.",
-    "suite-page-organization-bookings-property-create-booking-step-label": "Крок бронювання",
+    "suite-page-organization-bookings-property-create-booking-limits-desc": "Обмеження тривалості резервацій, що створені учаниками.",
+    "suite-page-organization-bookings-property-create-booking-step-desc": "Частота доступного часу для резервацій, що створені учасниками.",
+    "suite-page-organization-bookings-property-create-booking-step-label": "Інкремент доступності",
     "suite-page-organization-bookings-property-create-description": "Опис",
     "suite-page-organization-bookings-property-create-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-bookings-property-create-error-number-of-people": "Укажіть, скільки людей може містити кімната.",
@@ -29,7 +31,6 @@
     "suite-page-organization-bookings-property-create-price-money": "Ціна, {currencySymbol}/год",
     "suite-page-organization-bookings-property-create-price-points": "Ціна, {pointEmoji}/год",
     "suite-page-organization-bookings-property-create-team-add-team": "Обрати",
-    "suite-page-organization-bookings-property-create-team-none": "Не обрано",
-    "suite-page-organization-bookings-property-create-title-create": "Нова кімната"
+    "suite-page-organization-bookings-property-create-team-none": "Не обрано"
   }
 }
