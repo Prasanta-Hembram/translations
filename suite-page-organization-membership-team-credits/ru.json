@@ -2,7 +2,7 @@
   "data": {
     "suite-page-organization-membership-team-credits-title": "Кредиты",
     "suite-page-organization-membership-team-credits-description": "Используйте {pointEmoji} чтобы бронировать переговорные. Чтобы получить больше {pointEmoji}, обратитесь к менеджеру отделения.",
-    "suite-page-organization-membership-team-credits-error-credit-system-off": "Коворкинг не использует кредитную систему.",
+    "suite-page-organization-membership-team-credits-error-credit-system-off": "Рабочее пространство не использует кредитную систему.",
     "suite-page-organization-membership-team-credits-error-no-team": "Эта команда не существует или была удалена.",
     "suite-page-organization-membership-team-credits-expire": "{pointsExpiring} истекают {date}.",
     "suite-page-organization-membership-team-credits-plan-title": "План кредитов",

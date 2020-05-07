@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-landing-description": "Простой способ бронировать переговорные, быть на связи с сообществом и использовать все сервисы в одном месте. Воспользуйтесь ПО для коворкинга {networkTitle} и скачайте бесплатные мобильные приложения.",
+    "suite-landing-description": "Простой способ бронировать переговорные, быть на связи с сообществом и использовать все сервисы в одном месте. Воспользуйтесь ПО для рабочего пространства {networkTitle} и скачайте бесплатные мобильные приложения.",
     "suite-landing-footer": "{coworkingSoftwareLink} {networkTitle} предоставляется в партнёрстве с andcards. © {copyrightYear} andcards",
-    "suite-landing-footer-coworking-software": "Программное обеспечение для коворкинга",
+    "suite-landing-footer-coworking-software": "Программное обеспечение для рабочего пространства",
     "suite-landing-headline": "Добро пожаловать в {networkTitle}",
     "suite-landing-member-login-button": "Вход для участников"
   }

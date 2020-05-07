@@ -3,7 +3,7 @@
     "suite-modal-organization-community-users-invite-title": "Пригласить",
     "suite-modal-organization-community-users-invite-mass-button-download-template": "Скачать шаблон",
     "suite-modal-organization-community-users-invite-mass-button-upload": "Загрузить файл",
-    "suite-modal-organization-community-users-invite-mass-desc": "Загрузите специально отформатированный файл со списком ваших участников, чтобы пригласить их присоединиться к коворкингу.",
+    "suite-modal-organization-community-users-invite-mass-desc": "Загрузите специально отформатированный файл со списком ваших участников, чтобы пригласить их присоединиться к рабочему пространству.",
     "suite-modal-organization-community-users-invite-mass-error-description": "Не удалось пригласить участников. В файле, который вы загрузили, найдены такие ошибки:",
     "suite-modal-organization-community-users-invite-mass-error-list-item-label": "В колонке {fieldColumnName} рядке {fieldRowNumber} найдена такая проблема: {fieldValue}.",
     "suite-modal-organization-community-users-invite-mass-error-note": "Устраните ошибки и попробуйте снова.",
