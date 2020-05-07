@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefits-main-get-failure": "Не удалось показать cписок категорий преимуществ. Проверьте интернет-соединение.",
-    "suite-page-organization-benefits-main-no-benefit-categories": "В рабочем пространстве нет категорий преимуществ для отображения.",
+    "suite-page-organization-benefits-main-no-benefit-categories": "Категории преимуществ отсутствуют.",
     "suite-page-organization-benefits-main-title": "Преимущества"
   }
 }
