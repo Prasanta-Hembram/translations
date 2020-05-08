@@ -5,13 +5,13 @@
     "suite-page-organization-community-company-settings-billing-address-desc": "Вкажіть назву компанії, адресу та будь-яку іншу юридичну інформацію, яка буде відображатися в інвойсах.",
     "suite-page-organization-community-company-settings-billing-address-placeholder": "Увести інформацію",
     "suite-page-organization-community-company-settings-book-by-invoice-permission": "Резервації по інвойсах",
+    "suite-page-organization-community-company-settings-company-invoice": "Інвойс команди",
+    "suite-page-organization-community-company-settings-company-invoice-description": "Включити оплату по інвойсу для цієї команди.",
     "suite-page-organization-community-company-settings-error-title": "Уведіть назву команди.",
     "suite-page-organization-community-company-settings-invoice-locale": "Мова інвойсів",
     "suite-page-organization-community-company-settings-name": "Назва",
     "suite-page-organization-community-company-settings-name-placeholder": "Увести назву",
     "suite-page-organization-community-company-settings-not-found-error": "Ця команда не існує або ж була видалена.",
-    "suite-page-organization-community-company-settings-section-team-actions": "Додаткові дії",
-    "suite-page-organization-community-company-settings-team-invoice": "Інвойс команди",
-    "suite-page-organization-community-company-settings-team-invoice-description": "Включити оплату по інвойсу для цієї команди."
+    "suite-page-organization-community-company-settings-section-company-actions": "Додаткові дії"
   }
 }

@@ -2,15 +2,15 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "회의실 예약 읽기",
     "utils-oauth2-scope-bookings": "회의실 예약 읽기/편집",
+    "utils-oauth2-scope-company-invoices-readonly": "팀인보이스 읽기",
+    "utils-oauth2-scope-company-invoices": "팀인보이스 읽기/편집",
+    "utils-oauth2-scope-companies-readonly": "팀 정보 읽기",
+    "utils-oauth2-scope-companies": "팀 정보 읽기/편집",
     "utils-oauth2-scope-memberships-readonly": "회원 정보 읽기",
     "utils-oauth2-scope-memberships": "회원 정보 읽기/편집",
     "utils-oauth2-scope-organizations-readonly": "지점 정보 읽기",
     "utils-oauth2-scope-organizations": "지점 정보 읽기/편집",
     "utils-oauth2-scope-properties-readonly": "회의실 정보 읽기",
-    "utils-oauth2-scope-properties": "회의실 정보 읽기/편집",
-    "utils-oauth2-scope-teams-readonly": "팀 정보 읽기",
-    "utils-oauth2-scope-teams": "팀 정보 읽기/편집",
-    "utils-oauth2-scope-team-invoices-readonly": "팀인보이스 읽기",
-    "utils-oauth2-scope-team-invoices": "팀인보이스 읽기/편집"
+    "utils-oauth2-scope-properties": "회의실 정보 읽기/편집"
   }
 }

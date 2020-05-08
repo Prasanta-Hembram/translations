@@ -1,9 +1,9 @@
 {
   "data": {
     "utils-invoice-book-by-invoice-permission-all-members": "Менеджери та учасники команди",
+    "utils-invoice-book-by-invoice-permission-company-managers": "Менеджери команди",
     "utils-invoice-book-by-invoice-permission-info-all-members": "Усі учасники команди можуть резервувати кімнати по інвойсах.",
-    "utils-invoice-book-by-invoice-permission-info-team-managers": "Лише менеджери команди можуть резервувати кімнати по інвойсах.",
-    "utils-invoice-book-by-invoice-permission-team-managers": "Менеджери команди",
+    "utils-invoice-book-by-invoice-permission-info-company-managers": "Лише менеджери команди можуть резервувати кімнати по інвойсах.",
     "utils-invoice-item-type-booking-payment-type": "Резервація кімнати",
     "utils-invoice-item-type-booking-payment-type-with-name": "Резервація кімнати через {name}",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Резервація кімнати {roomName} через {name}",
