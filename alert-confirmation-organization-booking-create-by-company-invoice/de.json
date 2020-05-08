@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
+    "alert-confirmation-organization-booking-create-by-company-invoice-no": "Abbrechen",
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Zusätzlich anfallende Kosten",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Die Kosten werden der Teamrechnung hinzugefügt. Zum Monatsende schickt der Standort Manager die Rechnung an Ihren Teammanager zur Zahlung."
+  }
+}

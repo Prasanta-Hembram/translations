@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
+    "alert-confirmation-organization-booking-create-by-company-invoice-no": "Отмена",
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Дополнительные затраты",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Расход будет добавлен в командный инвойс. В конце месяца менеджер отделения отправит счет менеджеру вашей команды для оплаты."
+  }
+}

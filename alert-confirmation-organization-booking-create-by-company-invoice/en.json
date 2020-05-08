@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
+    "alert-confirmation-organization-booking-create-by-company-invoice-no": "Cancel",
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Additional charge incurred",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the team invoice. At the end of the month, Branch Manager will send the invoice to your Team Manager to pay."
+  }
+}

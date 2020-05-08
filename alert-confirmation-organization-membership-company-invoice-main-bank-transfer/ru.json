@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-membership-company-invoice-main-bank-transfer-message": "Вы уверены, что хотите перевести сумму самостоятельно? Этот выбор необратим.",
+    "alert-confirmation-organization-membership-company-invoice-main-bank-transfer-no": "Отменить",
+    "alert-confirmation-organization-membership-company-invoice-main-bank-transfer-title": "Подтверждение самостоятельного перевода",
+    "alert-confirmation-organization-membership-company-invoice-main-bank-transfer-yes": "Да"
+  }
+}
