@@ -6,7 +6,7 @@
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Внешний платеж ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Кредиты личные ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-company": "Кредиты команды ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "Кредиты {teamName} ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "Кредиты {companyTitle} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Удалить",
     "suite-page-organization-bookings-booking-details-button-go-back": "Назад",
     "suite-page-organization-bookings-booking-details-default-purpose": "Без названия",

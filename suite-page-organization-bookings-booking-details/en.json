@@ -6,7 +6,7 @@
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "External Payment ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Personal Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-company": "Team Credits ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "{teamName} Credits ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "{companyTitle} Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Delete",
     "suite-page-organization-bookings-booking-details-button-go-back": "Go Back",
     "suite-page-organization-bookings-booking-details-default-purpose": "No Title",
