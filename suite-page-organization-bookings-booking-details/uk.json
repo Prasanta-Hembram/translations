@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Безкоштовно",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Інвойс команди ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Інвойс команди ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Картка ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Зовнішній платіж ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Кредити особисті ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team": "Кредити команди ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Кредити {teamName} ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company": "Кредити команди ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "Кредити {teamName} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
     "suite-page-organization-bookings-booking-details-button-go-back": "Повернутися",
     "suite-page-organization-bookings-booking-details-default-purpose": "Без назви",

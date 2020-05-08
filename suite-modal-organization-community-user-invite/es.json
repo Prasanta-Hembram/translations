@@ -2,10 +2,10 @@
   "data": {
     "suite-modal-organization-community-user-invite-title": "Invitación individual",
     "suite-modal-organization-community-user-invite-button-invite": "Enviar invitación",
+    "suite-modal-organization-community-user-invite-company": "Equipo",
     "suite-modal-organization-community-user-invite-error-email": "Introduzca un correo electrónico correcto.",
     "suite-modal-organization-community-user-invite-error-first-name": "Ingrese un nombre",
     "suite-modal-organization-community-user-invite-none": "Ninguna",
-    "suite-modal-organization-community-user-invite-team": "Equipo",
-    "suite-modal-organization-community-user-invite-team-role": "Función"
+    "suite-modal-organization-community-user-invite-role": "Función"
   }
 }

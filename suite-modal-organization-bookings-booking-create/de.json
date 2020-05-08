@@ -1,10 +1,10 @@
 {
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "Neue Buchung",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-team": "Teamrechnung",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "Teamrechnung",
     "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Externe Zahlung",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Persönliche Credits",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-point-team": "Team-Credits",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Team-Credits",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "Wenn Sie diese Buchung vor Beginn stornieren, werden 100% der Credits zurückerstattet.",
     "suite-modal-organization-bookings-booking-create-book": "Buchen",
     "suite-modal-organization-bookings-booking-create-book-by": "Buchender",
