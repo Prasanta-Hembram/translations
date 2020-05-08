@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-page-organization-membership-company-invoice-main-title": "Invoice",
+    "suite-page-organization-membership-company-invoice-main-excluded-items": "Excluded Items",
+    "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Payment Method",
+    "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Status",
+    "suite-page-organization-membership-company-invoice-main-no-transactions": "There are no items.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "The invoice is missing or has been deleted.",
+    "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Go Back",
+    "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Check internet connection and try again.",
+    "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Payment Failed",
+    "suite-page-organization-membership-company-invoice-main-payment-success-button-done": "Done",
+    "suite-page-organization-membership-company-invoice-main-payment-success-text": "The invoice has been paid successfully.",
+    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Invoice Payment Success",
+    "suite-page-organization-membership-company-invoice-main-section-payment": "Payment",
+    "suite-page-organization-membership-company-invoice-main-section-payment-button": "Continue"
+  }
+}

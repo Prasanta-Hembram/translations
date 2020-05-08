@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Kostenlos",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Teamrechnung ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Teamrechnung ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Karte ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Externe Zahlung ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Persönliche Credits ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team": "Team-Credits ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "{teamName} Credits ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company": "Team-Credits ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "{companyTitle} Credits ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Löschen",
     "suite-page-organization-bookings-booking-details-button-go-back": "Zurückgehen",
     "suite-page-organization-bookings-booking-details-default-purpose": "Kein Titel",

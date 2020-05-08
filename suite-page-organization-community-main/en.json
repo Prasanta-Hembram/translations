@@ -3,10 +3,15 @@
     "suite-page-organization-community-main-title": "Community",
     "suite-page-organization-community-main-balance-credit": "Credit Balance",
     "suite-page-organization-community-main-balance-unpaid-invoices": "Unpaid Invoices",
+    "suite-page-organization-community-main-button-company-create": "Create Team",
     "suite-page-organization-community-main-button-invite-member": "Invite Member",
-    "suite-page-organization-community-main-button-team-create": "Create Team",
+    "suite-page-organization-community-main-company-balances": "{balanceCredits} ∙ Unpaid Invoices {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-company-create": "Create",
+    "suite-page-organization-community-main-company-unpaid-invoices-balance": "Unpaid Invoices {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-companies-empty": "There are no teams.",
+    "suite-page-organization-community-main-companies-title": "Teams",
     "suite-page-organization-community-main-end": "Ends",
-    "suite-page-organization-community-main-error-team-name": "Failed to create a team. The name can't be empty.",
+    "suite-page-organization-community-main-error-company-name": "Failed to create a team. The name can't be empty.",
     "suite-page-organization-community-main-member-create": "Create",
     "suite-page-organization-community-main-member-new": "New",
     "suite-page-organization-community-main-members-empty": "There are no members.",
@@ -20,11 +25,6 @@
     "suite-page-organization-community-main-price": "Price",
     "suite-page-organization-community-main-requests-title": "Requests",
     "suite-page-organization-community-main-renews": "Renews",
-    "suite-page-organization-community-main-search-placeholder": "Search",
-    "suite-page-organization-community-main-team-balances": "{balanceCredits} ∙ Unpaid Invoices {balanceUnpaidInvoices}",
-    "suite-page-organization-community-main-team-create": "Create",
-    "suite-page-organization-community-main-team-unpaid-invoices-balance": "Unpaid Invoices {balanceUnpaidInvoices}",
-    "suite-page-organization-community-main-teams-empty": "There are no teams.",
-    "suite-page-organization-community-main-teams-title": "Teams"
+    "suite-page-organization-community-main-search-placeholder": "Search"
   }
 }

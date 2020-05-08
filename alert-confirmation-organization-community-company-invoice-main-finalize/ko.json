@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-community-company-invoice-main-finalize-no": "취소",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "확정하기",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "이 청구 내역을 확정하시겠습니까? 확정하면 되돌릴 수 없습니다.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "청구 내역 확정"
+  }
+}

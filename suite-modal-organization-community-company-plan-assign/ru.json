@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-company-plan-assign-title": "Присвоить план",
+    "suite-modal-organization-community-company-plan-assign-amount": "Кредиты, {pointEmoji}",
+    "suite-modal-organization-community-company-plan-assign-button-assign": "Присвоить",
+    "suite-modal-organization-community-company-plan-assign-error-amount": "Введите сумму в кредитах.",
+    "suite-modal-organization-community-company-plan-assign-name": "Название",
+    "suite-modal-organization-community-company-plan-assign-name-placeholder": "Ввести название",
+    "suite-modal-organization-community-company-plan-assign-period-from": "Начало",
+    "suite-modal-organization-community-company-plan-assign-period-title": "Период",
+    "suite-modal-organization-community-company-plan-assign-plan-repeat": "Продление"
+  }
+}

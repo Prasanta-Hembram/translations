@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-message": "Ви впевнені, що хочете переказати суму самостійно? Цей вибір є незворотнім.",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-no": "Скасувати",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-title": "Підтвердження самостійного переказу",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-yes": "Так"
-  }
-}

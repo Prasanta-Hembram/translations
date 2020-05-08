@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-team-plan-deactivate-title": "Desactivar",
-    "alert-confirmation-organization-team-plan-deactivate-no": "Cancelar",
-    "alert-confirmation-organization-team-plan-deactivate-text": "¿Estás seguro de que quieres desactivar el team-plan activo? Se perderán todos los privilegios de membresía, incluidos los créditos. Esta acción es irreversible y NO REEMBOLSABLE",
-    "alert-confirmation-organization-team-plan-deactivate-yes": "Desactivar"
-  }
-}

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-stream-delete-activity-title": "Delete post",
+    "alert-confirmation-stream-delete-activity-no": "Cancel",
+    "alert-confirmation-stream-delete-activity-text": "Are you sure you want to delete post?",
+    "alert-confirmation-stream-delete-activity-yes": "Delete"
+  }
+}

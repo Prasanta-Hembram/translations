@@ -11,6 +11,7 @@
     "suite-page-organization-bookings-property-edit-booking-limits-desc": "Обмеження тривалості резервацій, що створені учаниками.",
     "suite-page-organization-bookings-property-edit-booking-step-desc": "Частота доступного часу для резервацій, що створені учасниками.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "Інкремент доступності",
+    "suite-page-organization-bookings-property-edit-company-add-company": "Обрати",
     "suite-page-organization-bookings-property-edit-description": "Опис",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Уведіть опис кімнати (не обов'язково)",
     "suite-page-organization-bookings-property-edit-error-no-property": "Кімната не існує або ж була видалена.",
@@ -20,18 +21,16 @@
     "suite-page-organization-bookings-property-edit-error-price-credits": "Уведіть суму в кредитах.",
     "suite-page-organization-bookings-property-edit-error-room-name": "Введіть назву кімнати.",
     "suite-page-organization-bookings-property-edit-is-private": "Обмежений доступ",
-    "suite-page-organization-bookings-property-edit-limited-access-title": "Обмежений доступ",
+    "suite-page-organization-bookings-property-edit-limited-access-title": "Доступ",
     "suite-page-organization-bookings-property-edit-limited-access-desc": "Дозвольте доступ до кімнати лише певним командам.",
     "suite-page-organization-bookings-property-edit-image-delete": "Видалити зображення",
     "suite-page-organization-bookings-property-edit-max-time": "Макс. час",
     "suite-page-organization-bookings-property-edit-min-time": "Мін. час",
     "suite-page-organization-bookings-property-edit-name": "Назва",
     "suite-page-organization-bookings-property-edit-name-placeholder": "Додайте назву",
-    "suite-page-organization-bookings-property-edit-no-teams": "Команди не вибрані. ",
+    "suite-page-organization-bookings-property-edit-no-companies": "Команди не вибрані. ",
     "suite-page-organization-bookings-property-edit-number-of-seats": "Місць",
     "suite-page-organization-bookings-property-edit-price-money": "Ціна, {currencySymbol}/год",
-    "suite-page-organization-bookings-property-edit-price-points": "Ціна, {pointEmoji}/год",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Обрати",
-    "suite-page-organization-bookings-property-edit-team-none": "Не обрано"
+    "suite-page-organization-bookings-property-edit-price-points": "Ціна, {pointEmoji}/год"
   }
 }

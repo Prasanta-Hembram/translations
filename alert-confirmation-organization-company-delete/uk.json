@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-delete-title": "Видалити команду",
+    "alert-confirmation-organization-company-delete-no": "Скасувати",
+    "alert-confirmation-organization-company-delete-text": "Ви впевнені, що хочете видалити цю команду? Ця дія незворотна.",
+    "alert-confirmation-organization-company-delete-yes": "Видалити"
+  }
+}

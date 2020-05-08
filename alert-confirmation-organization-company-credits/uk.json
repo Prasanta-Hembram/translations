@@ -1,0 +1,12 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-credits-charge-message": "Уведіть кількість кредитів для списання з рахунку команди.",
+    "alert-confirmation-organization-company-credits-charge-no": "Скасувати",
+    "alert-confirmation-organization-company-credits-charge-title": "Кількість кредитів",
+    "alert-confirmation-organization-company-credits-charge-yes": "Списати",
+    "alert-confirmation-organization-company-credits-give-message": "Уведіть кількість кредитів для нарахування на рахунок команди.",
+    "alert-confirmation-organization-company-credits-give-no": "Скасувати",
+    "alert-confirmation-organization-company-credits-give-title": "Кількість кредитів",
+    "alert-confirmation-organization-company-credits-give-yes": "Нарахувати"
+  }
+}

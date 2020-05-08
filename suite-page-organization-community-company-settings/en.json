@@ -1,0 +1,17 @@
+{
+  "data": {
+    "suite-page-organization-community-company-settings-title": "Settings",
+    "suite-page-organization-community-company-settings-billing-address-title": "Business Information",
+    "suite-page-organization-community-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
+    "suite-page-organization-community-company-settings-billing-address-placeholder": "Type information",
+    "suite-page-organization-community-company-settings-book-by-invoice-permission": "Booking by Team Invoice",
+    "suite-page-organization-community-company-settings-company-invoice": "Team Invoice",
+    "suite-page-organization-community-company-settings-company-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
+    "suite-page-organization-community-company-settings-error-title": "Type a team name.",
+    "suite-page-organization-community-company-settings-invoice-locale": "Invoice Language",
+    "suite-page-organization-community-company-settings-name": "Name",
+    "suite-page-organization-community-company-settings-name-placeholder": "Type a name",
+    "suite-page-organization-community-company-settings-not-found-error": "This team may not exist or may have been removed.",
+    "suite-page-organization-community-company-settings-section-company-actions": "Team Actions"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-message": "수동으로 계좌 이체 하시겠습니까? 진행하면 되돌릴 수 없습니다.",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-no": "취소",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-title": "계좌 이체 확인",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-yes": "네"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-message": "¿Estás seguro de que deseas transferir la cantidad manualmente? Esta selección es irreversible.",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-no": "Cancelar",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-title": "Confirmar transferencia manual",
-    "alert-confirmation-organization-membership-team-invoice-main-bank-transfer-yes": "Si"
-  }
-}

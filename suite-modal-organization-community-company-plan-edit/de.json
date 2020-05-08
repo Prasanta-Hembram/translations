@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-company-plan-edit-title": "Bearbeite Abo",
+    "suite-modal-organization-community-company-plan-edit-credits": "Credits, {pointEmoji}",
+    "suite-modal-organization-community-company-plan-edit-credits-desc": "Die Änderung gilt ab dem nächsten Verlängerungsdatum.",
+    "suite-modal-organization-community-company-plan-edit-error-amount": "Geben Sie einen gültigen Guthabenbetrag ein.",
+    "suite-modal-organization-community-company-plan-edit-period-from-title": "Start",
+    "suite-modal-organization-community-company-plan-edit-period-title": "Zeitraum",
+    "suite-modal-organization-community-company-plan-edit-period-until-title": "Ende",
+    "suite-modal-organization-community-company-plan-edit-plan-title": "Name",
+    "suite-modal-organization-community-company-plan-edit-repeat-label": "Wiederholend"
+  }
+}

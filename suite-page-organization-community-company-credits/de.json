@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-company-credits-title": "Credits",
+    "suite-page-organization-community-company-credits-button-charge-title": "Belasten",
+    "suite-page-organization-community-company-credits-button-give-title": "Geben",
+    "suite-page-organization-community-company-credits-error-company-not-found": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-community-company-credits-error-credits-invalid": "Geben Sie einen gültigen Guthabenbetrag ein.",
+    "suite-page-organization-community-company-credits-error-credit-system-off": "Das Credit-System ist deaktiviert.",
+    "suite-page-organization-community-company-credits-expire": "{pointsExpiring} verfallen am {date}.",
+    "suite-page-organization-community-company-credits-expiring-desc": "Erlöschen gemeinsam mit dem Creditabo.",
+    "suite-page-organization-community-company-credits-expiring-title": "Auslaufende Credits",
+    "suite-page-organization-community-company-credits-permanent-desc": "Bleiben verfügbar, bis sie ausgegeben werden.",
+    "suite-page-organization-community-company-credits-permanent-title": "Dauerhafte Credits",
+    "suite-page-organization-community-company-credits-plan-active-button-assign": "Zuordnen",
+    "suite-page-organization-community-company-credits-plan-details-deactivate": "Deaktivieren",
+    "suite-page-organization-community-company-credits-plan-title": "Credit Abo",
+    "suite-page-organization-community-company-credits-policy-details": "Rückerstattungsrichtlinie"
+  }
+}

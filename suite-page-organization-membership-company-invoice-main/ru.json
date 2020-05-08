@@ -1,0 +1,18 @@
+{
+  "data": {
+    "suite-page-organization-membership-company-invoice-main-title": "Инвойс",
+    "suite-page-organization-membership-company-invoice-main-excluded-items": "Исключенные позиции",
+    "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Метод оплаты",
+    "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Статус",
+    "suite-page-organization-membership-company-invoice-main-no-transactions": "Позиции отсутствуют.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "Инвойс недоступен или был удален.",
+    "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Назад",
+    "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Проверьте интернет-соединение и повторите попытку.",
+    "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Оплата не прошла",
+    "suite-page-organization-membership-company-invoice-main-payment-success-button-done": "Готово",
+    "suite-page-organization-membership-company-invoice-main-payment-success-text": "Инвойс был успешно оплачен.",
+    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Инвойс оплачен",
+    "suite-page-organization-membership-company-invoice-main-section-payment": "Оплата",
+    "suite-page-organization-membership-company-invoice-main-section-payment-button": "Продолжить"
+  }
+}

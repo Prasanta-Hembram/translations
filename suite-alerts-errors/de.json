@@ -15,7 +15,7 @@
     "suite-alerts-errors-booking-title-not-valid": "Der Titel ist ungültig.",
     "suite-alerts-errors-booking-unallowed-time-period": "Der Buchungszeitraum ist ungültig.",
     "suite-alerts-errors-camera-invalid-image": "Das Hochladen des Bildes ist fehlgeschlagen.",
-    "suite-alerts-errors-charge-transaction-team-amount-is-invalid": "Sie können nicht mehr verlangen, als das Team zur Verfügung hat.",
+    "suite-alerts-errors-charge-transaction-company-amount-is-invalid": "Sie können nicht mehr verlangen, als das Team zur Verfügung hat.",
     "suite-alerts-errors-charge-transaction-user-amount-is-invalid": "Sie können nicht mehr verlangen, als der Benutzer zur Verfügung hat.",
     "suite-alerts-errors-email-not-valid": "Die E-Mail ist falsch.",
     "suite-alerts-errors-file-not-found": "Die Datei wurde nicht hochgeladen.",

@@ -20,17 +20,16 @@
     "suite-page-organization-bookings-property-create-error-room-name": "회의실 명 입력하세요.",
     "suite-page-organization-bookings-property-create-image-delete": "사진 삭제하기",
     "suite-page-organization-bookings-property-create-is-private": "출입 제한",
-    "suite-page-organization-bookings-property-create-limited-access-title": "출입 제한",
+    "suite-page-organization-bookings-property-create-limited-access-title": "출입",
     "suite-page-organization-bookings-property-create-limited-access-desc": "특정 팀만 회의실에 접근합니다.",
     "suite-page-organization-bookings-property-create-max-time": "최대예약시간",
     "suite-page-organization-bookings-property-create-min-time": "최소예약시간",
     "suite-page-organization-bookings-property-create-name": "회의실 명",
     "suite-page-organization-bookings-property-create-name-placeholder": "회의실 명 입력하기",
-    "suite-page-organization-bookings-property-create-no-teams": "팀이 선택되지 않습니다.",
+    "suite-page-organization-bookings-property-create-no-companies": "팀이 선택되지 않습니다.",
     "suite-page-organization-bookings-property-create-number-of-seats": "좌석 수",
     "suite-page-organization-bookings-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-bookings-property-create-price-points": "시간당 {pointEmoji}",
-    "suite-page-organization-bookings-property-create-team-add-team": "선택",
-    "suite-page-organization-bookings-property-create-team-none": "선택 안 함"
+    "suite-page-organization-bookings-property-create-company-add-company": "선택"
   }
 }

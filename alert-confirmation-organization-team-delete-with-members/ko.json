@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-team-delete-with-members-title": "팀 삭제",
-    "alert-confirmation-organization-team-delete-with-members-no": "돌아가기",
-    "alert-confirmation-organization-team-delete-with-members-text": "팀은 팀원들과 함께 삭제 하시겠습니까? 진행하시면 되돌릴 수 없습니다.",
-    "alert-confirmation-organization-team-delete-with-members-yes": "삭제하기"
-  }
-}

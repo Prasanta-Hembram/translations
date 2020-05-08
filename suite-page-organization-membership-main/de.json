@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Mitgliedschaft",
+    "suite-page-organization-membership-main-section-company-title": "Team",
+    "suite-page-organization-membership-main-section-company-balance-history-button": "Saldenhistorie",
+    "suite-page-organization-membership-main-section-company-credits-button": "Credits",
+    "suite-page-organization-membership-main-section-company-invoices-button": "Rechnungen",
+    "suite-page-organization-membership-main-section-company-plan-button": "Abo",
+    "suite-page-organization-membership-main-section-company-profile-button": "Profil",
+    "suite-page-organization-membership-main-section-company-settings-button": "Einstellungen",
     "suite-page-organization-membership-main-section-personal-title": "Persönlich",
     "suite-page-organization-membership-main-section-personal-balance-history-button": "Saldenhistorie",
     "suite-page-organization-membership-main-section-personal-credits-button": "Credits",
     "suite-page-organization-membership-main-section-personal-plan-button": "Abo",
-    "suite-page-organization-membership-main-section-personal-printing-button": "Drucken",
-    "suite-page-organization-membership-main-section-team-title": "Team",
-    "suite-page-organization-membership-main-section-team-balance-history-button": "Saldenhistorie",
-    "suite-page-organization-membership-main-section-team-credits-button": "Credits",
-    "suite-page-organization-membership-main-section-team-invoices-button": "Rechnungen",
-    "suite-page-organization-membership-main-section-team-plan-button": "Abo",
-    "suite-page-organization-membership-main-section-team-profile-button": "Profil",
-    "suite-page-organization-membership-main-section-team-settings-button": "Einstellungen"
+    "suite-page-organization-membership-main-section-personal-printing-button": "Drucken"
   }
 }

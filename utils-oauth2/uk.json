@@ -2,15 +2,15 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "Отримувати резервації",
     "utils-oauth2-scope-bookings": "Отримувати та редагувати резервації",
+    "utils-oauth2-scope-company-invoices-readonly": "Отримувати інформацію про інвойси",
+    "utils-oauth2-scope-company-invoices": "Отримувати та редагувати інформацію про інвойси",
+    "utils-oauth2-scope-companies-readonly": "Отримувати інформацію про команди",
+    "utils-oauth2-scope-companies": "Отримувати та редагувати інформацію про кімнати",
     "utils-oauth2-scope-memberships-readonly": "Отримувати інформацію про учасників",
     "utils-oauth2-scope-memberships": "Отримувати та редагувати інформацію про учасників",
     "utils-oauth2-scope-organizations-readonly": "Отримувати інформацію про відділення",
     "utils-oauth2-scope-organizations": "Отримувати та редагувати інформацію про відділення",
     "utils-oauth2-scope-properties-readonly": "Отримувати інформацію про кімнати",
-    "utils-oauth2-scope-properties": "Отримувати та редагувати інформацію про кімнати",
-    "utils-oauth2-scope-teams-readonly": "Отримувати інформацію про команди",
-    "utils-oauth2-scope-teams": "Отримувати та редагувати інформацію про кімнати",
-    "utils-oauth2-scope-team-invoices-readonly": "Отримувати інформацію про інвойси",
-    "utils-oauth2-scope-team-invoices": "Отримувати та редагувати інформацію про інвойси"
+    "utils-oauth2-scope-properties": "Отримувати та редагувати інформацію про кімнати"
   }
 }

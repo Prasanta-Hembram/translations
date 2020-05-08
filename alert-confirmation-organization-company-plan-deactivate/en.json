@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-plan-deactivate-title": "Deactivate",
+    "alert-confirmation-organization-company-plan-deactivate-no": "Cancel",
+    "alert-confirmation-organization-company-plan-deactivate-text": "Are you sure you want to deactivate the active team plan? All membership privileges, including credits, will be lost. This action is irreversible and NON-REFUNDABLE",
+    "alert-confirmation-organization-company-plan-deactivate-yes": "Deactivate"
+  }
+}

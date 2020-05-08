@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-settings-membership-title": "Membresía",
+    "suite-page-organization-settings-membership-company-information-permission-admin": "Sólo Admin",
+    "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Gerentes de sucursal y gerentes de equipo",
+    "suite-page-organization-settings-membership-company-information-permission-desc": "Cada equipo en el Comunidad tiene un campo de información comercial para indicar su nombre legal, dirección y número de registro comercial. Aparece en las facturas.",
+    "suite-page-organization-settings-membership-company-information-permission-label": "Editar info del equipo",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Gerentes de sucursal",
     "suite-page-organization-settings-membership-permission-all-members": "Todos los miembros",
-    "suite-page-organization-settings-membership-permission-label": "Visibilidad",
-    "suite-page-organization-settings-membership-team-information-permission-admin": "Sólo Admin",
-    "suite-page-organization-settings-membership-team-information-permission-admin-manager": "Gerentes de sucursal y gerentes de equipo",
-    "suite-page-organization-settings-membership-team-information-permission-desc": "Cada equipo en el Comunidad tiene un campo de información comercial para indicar su nombre legal, dirección y número de registro comercial. Aparece en las facturas.",
-    "suite-page-organization-settings-membership-team-information-permission-label": "Editar info del equipo"
+    "suite-page-organization-settings-membership-permission-label": "Visibilidad"
   }
 }

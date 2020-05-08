@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-edit-title": "Buchung bearbeiten",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Kostenlos",
-    "suite-modal-organization-bookings-booking-edit-action-button-invoice-team": "Teamrechnung ({price})",
+    "suite-modal-organization-bookings-booking-edit-action-button-invoice-company": "Teamrechnung ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Karte ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Externe Zahlung ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Credits ({balance})",

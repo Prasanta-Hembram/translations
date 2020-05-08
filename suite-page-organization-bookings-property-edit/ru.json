@@ -11,6 +11,7 @@
     "suite-page-organization-bookings-property-edit-booking-limits-desc": "Ограничение длительности бронирований, создаваемых участниками.",
     "suite-page-organization-bookings-property-edit-booking-step-desc": "Частота доступного времени для бронирований, создаваемых участниками.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "Инкремент доступности",
+    "suite-page-organization-bookings-property-edit-company-add-company": "Выбрать",
     "suite-page-organization-bookings-property-edit-description": "Описание",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Введите описание комнаты (не обязательно)",
     "suite-page-organization-bookings-property-edit-error-no-property": "Переговорная не существует или же была удалена.",
@@ -20,18 +21,16 @@
     "suite-page-organization-bookings-property-edit-error-price-credits": "Введите сумму в кредитах.",
     "suite-page-organization-bookings-property-edit-error-room-name": "Пожалуйста, введите название переговорной.",
     "suite-page-organization-bookings-property-edit-is-private": "Ограниченный доступ",
-    "suite-page-organization-bookings-property-edit-limited-access-title": "Ограниченный доступ",
+    "suite-page-organization-bookings-property-edit-limited-access-title": "Доступ",
     "suite-page-organization-bookings-property-edit-limited-access-desc": "Разрешить доступ к переговорным только определенным командам.",
     "suite-page-organization-bookings-property-edit-image-delete": "Удалить изображение",
     "suite-page-organization-bookings-property-edit-max-time": "Макс. время",
     "suite-page-organization-bookings-property-edit-min-time": "Мин. время",
     "suite-page-organization-bookings-property-edit-name": "Название",
     "suite-page-organization-bookings-property-edit-name-placeholder": "Добавьте название",
-    "suite-page-organization-bookings-property-edit-no-teams": "Команды не выбраны.",
+    "suite-page-organization-bookings-property-edit-no-companies": "Команды не выбраны.",
     "suite-page-organization-bookings-property-edit-number-of-seats": "Мест",
     "suite-page-organization-bookings-property-edit-price-money": "Цена, {currencySymbol}/час",
-    "suite-page-organization-bookings-property-edit-price-points": "Цена, {pointEmoji}/час",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Выбрать",
-    "suite-page-organization-bookings-property-edit-team-none": "Не выбрано"
+    "suite-page-organization-bookings-property-edit-price-points": "Цена, {pointEmoji}/час"
   }
 }

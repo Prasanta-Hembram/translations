@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-membership-team-profile-no-managers-in-team": "This team doesn't have team managers yet.",
-    "suite-page-organization-membership-team-profile-no-members-in-team": "This team doesn't have members yet.",
-    "suite-page-organization-membership-team-profile-not-found-error": "This team may not exist or may have been removed.",
-    "suite-page-organization-membership-team-profile-section-team-managers": "Team Managers",
-    "suite-page-organization-membership-team-profile-section-team-members": "Team Members"
-  }
-}

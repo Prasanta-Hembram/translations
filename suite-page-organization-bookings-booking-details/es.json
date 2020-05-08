@@ -1,12 +1,12 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Gratis",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-team": "Factura de equipo ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Factura de equipo ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Tarjeta ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Pago externo ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Créditos personales ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team": "Créditos del equipo ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-team-with-name": "Créditos del {teamName} ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company": "Créditos del equipo ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "Créditos del {companyTitle} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Borrar",
     "suite-page-organization-bookings-booking-details-button-go-back": "Regresa",
     "suite-page-organization-bookings-booking-details-default-purpose": "Sin título",

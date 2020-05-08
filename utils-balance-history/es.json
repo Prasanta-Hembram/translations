@@ -1,8 +1,8 @@
 {
   "data": {
     "utils-balance-history-permission-all-members": "Los gerentes y miembros del equipo",
+    "utils-balance-history-permission-company-managers": "Gerentes del equipo",
     "utils-balance-history-permission-info-all-members": "Todos los miembros del equipo pueden ver el historial del balance.",
-    "utils-balance-history-permission-info-team-managers": "Sólo los gerentes del equipo pueden ver el historial de balance.",
-    "utils-balance-history-permission-team-managers": "Gerentes del equipo"
+    "utils-balance-history-permission-info-company-managers": "Sólo los gerentes del equipo pueden ver el historial de balance."
   }
 }

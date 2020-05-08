@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-company-main-action-delete": "Видалити",
+    "suite-page-organization-community-company-main-action-delete-with-members": "Видалити з учасниками",
+    "suite-page-organization-community-company-main-button-balance-history": "Історія транзакцій",
+    "suite-page-organization-community-company-main-button-credits": "Кредити",
+    "suite-page-organization-community-company-main-button-invoices": "Інвойси",
+    "suite-page-organization-community-company-main-button-settings": "Налаштування",
+    "suite-page-organization-community-company-main-delete-failure": "Не вдалося видалити команду.",
+    "suite-page-organization-community-company-main-delete-repeat": "Спробувати знову",
+    "suite-page-organization-community-company-main-no-managers-in-company": "У цієї команди ще немає менеджерів.",
+    "suite-page-organization-community-company-main-no-members-in-company": "У цієї команди ще немає учасників.",
+    "suite-page-organization-community-company-main-not-found-error": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-community-company-main-section-company-managers": "Менеджери команди",
+    "suite-page-organization-community-company-main-section-company-members": "Члени команди",
+    "suite-page-organization-community-company-main-section-membership-title": "Участь",
+    "suite-page-organization-community-company-main-button-select": "Обрати"
+  }
+}

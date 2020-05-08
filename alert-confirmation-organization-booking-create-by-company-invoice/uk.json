@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
+    "alert-confirmation-organization-booking-create-by-company-invoice-no": "Скасувати",
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Додаткові витрати",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Витрати будуть додані до інвойсу команди. Наприкінці місяця менеджер відділення надішле рахунок менеджеру команди для оплати."
+  }
+}

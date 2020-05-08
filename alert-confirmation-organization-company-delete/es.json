@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-delete-title": "Eliminar grupo",
+    "alert-confirmation-organization-company-delete-no": "Cancelar",
+    "alert-confirmation-organization-company-delete-text": "¿Está seguro de que quiere eliminar este grupo? Esta acción es irreversible.",
+    "alert-confirmation-organization-company-delete-yes": "Eliminar"
+  }
+}

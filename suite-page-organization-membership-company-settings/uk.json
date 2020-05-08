@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-organization-membership-company-settings-title": "Налаштування",
+    "suite-page-organization-membership-company-settings-balance-history-permission": "Історія транзакцій",
+    "suite-page-organization-membership-company-settings-billing-address-title": "Інформація про компанію",
+    "suite-page-organization-membership-company-settings-billing-address-desc": "Вкажіть назву компанії, адресу та будь-яку іншу юридичну інформацію, яка буде відображатися в інвойсах.",
+    "suite-page-organization-membership-company-settings-billing-address-placeholder": "Увести інформацію",
+    "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Резервації по інвойсах",
+    "suite-page-organization-membership-company-settings-company-invoice": "Інвойс команди",
+    "suite-page-organization-membership-company-settings-company-invoice-description": "Включити оплату по інвойсу для цієї команди.",
+    "suite-page-organization-membership-company-settings-invoice-locale": "Мова інвойсів",
+    "suite-page-organization-membership-company-settings-not-found-error": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-membership-company-settings-update-failure": "Не вдалося оновити"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-company-credits-title": "Кредити",
+    "suite-page-organization-community-company-credits-button-charge-title": "Списати",
+    "suite-page-organization-community-company-credits-button-give-title": "Нарахувати",
+    "suite-page-organization-community-company-credits-error-company-not-found": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-community-company-credits-error-credits-invalid": "Уведіть кількість кредитів.",
+    "suite-page-organization-community-company-credits-error-credit-system-off": "Кредитна система відключена.",
+    "suite-page-organization-community-company-credits-expire": "{pointsExpiring} стікають {date}.",
+    "suite-page-organization-community-company-credits-expiring-desc": "Спливають разом з кредитним планом.",
+    "suite-page-organization-community-company-credits-expiring-title": "Тимчасові кредити",
+    "suite-page-organization-community-company-credits-permanent-desc": "Дійсні до моменту їх повного використання.",
+    "suite-page-organization-community-company-credits-permanent-title": "Постійні кредити",
+    "suite-page-organization-community-company-credits-plan-active-button-assign": "Призначити",
+    "suite-page-organization-community-company-credits-plan-details-deactivate": "Деактивувати",
+    "suite-page-organization-community-company-credits-plan-title": "План кредитів",
+    "suite-page-organization-community-company-credits-policy-details": "Політика повернення"
+  }
+}

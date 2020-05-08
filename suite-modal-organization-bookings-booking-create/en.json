@@ -1,10 +1,10 @@
 {
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "New booking",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-team": "Team Invoice",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "Team Invoice",
     "suite-modal-organization-bookings-booking-create-balance-action-button-money": "External Payment",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Personal Credits",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-point-team": "Team Credits",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Team Credits",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "If you cancel this booking before it starts, 100% of credits will be refunded.",
     "suite-modal-organization-bookings-booking-create-book": "Book",
     "suite-modal-organization-bookings-booking-create-book-by": "Booker",

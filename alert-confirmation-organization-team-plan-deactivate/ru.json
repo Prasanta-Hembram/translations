@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-team-plan-deactivate-title": "Деактивировать",
-    "alert-confirmation-organization-team-plan-deactivate-no": "Отменить",
-    "alert-confirmation-organization-team-plan-deactivate-text": "Вы уверены, что хотите деактивировать план команды? Все привилегии членства, в том числе кредиты, будут утеряны. Это действие необратимо и не предусматривает возврата средств.",
-    "alert-confirmation-organization-team-plan-deactivate-yes": "Деактивировать"
-  }
-}
