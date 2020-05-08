@@ -19,11 +19,10 @@
     "suite-page-organization-bookings-property-create-min-time": "Мин. время",
     "suite-page-organization-bookings-property-create-name": "Название",
     "suite-page-organization-bookings-property-create-name-placeholder": "Добавьте название",
-    "suite-page-organization-bookings-property-create-no-teams": "Команды не выбраны.",
+    "suite-page-organization-bookings-property-create-no-companies": "Команды не выбраны.",
     "suite-page-organization-bookings-property-create-number-of-seats": "Мест",
     "suite-page-organization-bookings-property-create-price-money": "Цена, {currencySymbol}/час",
     "suite-page-organization-bookings-property-create-price-points": "Цена, {pointEmoji}/час",
-    "suite-page-organization-bookings-property-create-team-add-team": "Выбрать",
-    "suite-page-organization-bookings-property-create-team-none": "Не выбрано"
+    "suite-page-organization-bookings-property-create-company-add-company": "Выбрать"
   }
 }

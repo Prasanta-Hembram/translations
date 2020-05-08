@@ -9,11 +9,11 @@
     "suite-page-organization-community-company-main-button-settings": "Configuraciones",
     "suite-page-organization-community-company-main-delete-failure": "No se ha podido borrar el equipo.",
     "suite-page-organization-community-company-main-delete-repeat": "Inténtalo de nuevo",
-    "suite-page-organization-community-company-main-no-managers-in-team": "Este equipo aún no tiene administradores de equipo.",
-    "suite-page-organization-community-company-main-no-members-in-team": "Este equipo aún no tiene miembros.",
+    "suite-page-organization-community-company-main-no-managers-in-company": "Este equipo aún no tiene administradores de equipo.",
+    "suite-page-organization-community-company-main-no-members-in-company": "Este equipo aún no tiene miembros.",
     "suite-page-organization-community-company-main-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-community-company-main-section-team-managers": "Administradores del equipo",
-    "suite-page-organization-community-company-main-section-team-members": "Miembros del equipo",
+    "suite-page-organization-community-company-main-section-company-managers": "Administradores del equipo",
+    "suite-page-organization-community-company-main-section-company-members": "Miembros del equipo",
     "suite-page-organization-community-company-main-section-membership-title": "Membresía"
   }
 }

@@ -4,6 +4,7 @@
     "suite-page-organization-bookings-property-edit-booking-limits-desc": "Dauerbegrenzungen für von Mitgliedern erstellte Buchungen.",
     "suite-page-organization-bookings-property-edit-booking-step-desc": "Die Häufigkeit der verfügbaren Zeit für die Erstellung einer Buchung durch die Mitglieder.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "Verfügbarkeit Inkremente",
+    "suite-page-organization-bookings-property-edit-company-add-company": "Auswählen",
     "suite-page-organization-bookings-property-edit-description": "Beschreibung",
     "suite-page-organization-bookings-property-edit-error-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Beschreibung eingeben (optional)",
@@ -20,10 +21,9 @@
     "suite-page-organization-bookings-property-edit-min-time": "Mindestdauer",
     "suite-page-organization-bookings-property-edit-name": "Name",
     "suite-page-organization-bookings-property-edit-name-placeholder": "Namen eingeben",
+    "suite-page-organization-bookings-property-edit-no-companies": "Teams sind nicht ausgewählt.",
     "suite-page-organization-bookings-property-edit-number-of-seats": "Plätze",
     "suite-page-organization-bookings-property-edit-price-money": "Preis, {currencySymbol}/Std.",
-    "suite-page-organization-bookings-property-edit-price-points": "Credits, {pointEmoji}/Std.",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Auswählen",
-    "suite-page-organization-bookings-property-edit-team-none": "Kein"
+    "suite-page-organization-bookings-property-edit-price-points": "Credits, {pointEmoji}/Std."
   }
 }

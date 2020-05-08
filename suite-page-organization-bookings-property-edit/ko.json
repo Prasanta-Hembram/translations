@@ -4,6 +4,7 @@
     "suite-page-organization-bookings-property-edit-booking-limits-desc": "회원이 예약을 작성할 수 있는 기간 제한입니다.",
     "suite-page-organization-bookings-property-edit-booking-step-desc": "회원이 예약을 작성할 수 있는 빈도입니다.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "예약시간 단위",
+    "suite-page-organization-bookings-property-edit-company-add-company": "선택하기",
     "suite-page-organization-bookings-property-edit-description": "설명",
     "suite-page-organization-bookings-property-edit-description-placeholder": "설명입력(선택사항)",
     "suite-page-organization-bookings-property-edit-error-no-property": "이 회의실은 존재하지 않거나 삭제되었을 수 있습니다.",
@@ -20,11 +21,9 @@
     "suite-page-organization-bookings-property-edit-min-time": "최소예약시간",
     "suite-page-organization-bookings-property-edit-name": "회의실 명",
     "suite-page-organization-bookings-property-edit-name-placeholder": "회의실 명 입력하기",
-    "suite-page-organization-bookings-property-edit-no-teams": "팀이 선택되지 않습니다.",
+    "suite-page-organization-bookings-property-edit-no-companies": "팀이 선택되지 않습니다.",
     "suite-page-organization-bookings-property-edit-number-of-seats": "좌석 수",
     "suite-page-organization-bookings-property-edit-price-money": "시간당 {currencySymbol}",
-    "suite-page-organization-bookings-property-edit-price-points": "시간당 {pointEmoji}",
-    "suite-page-organization-bookings-property-edit-team-add-team": "선택하기",
-    "suite-page-organization-bookings-property-edit-team-none": "선택 안 함"
+    "suite-page-organization-bookings-property-edit-price-points": "시간당 {pointEmoji}"
   }
 }

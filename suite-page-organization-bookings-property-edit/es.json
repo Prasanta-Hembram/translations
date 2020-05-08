@@ -4,6 +4,7 @@
     "suite-page-organization-bookings-property-edit-booking-limits-desc": "Límites de duración para las reservas creadas por los miembros.",
     "suite-page-organization-bookings-property-edit-booking-step-desc": "La frecuencia de tiempo disponible para crear una reserva por los miembros.",
     "suite-page-organization-bookings-property-edit-booking-step-label": "Incrementos de disponibilidad",
+    "suite-page-organization-bookings-property-edit-company-add-company": "Elegir",
     "suite-page-organization-bookings-property-edit-description": "Descripción",
     "suite-page-organization-bookings-property-edit-description-placeholder": "Descripción del tipo de su habitación (opcional)",
     "suite-page-organization-bookings-property-edit-error-no-property": "Esta sala puede no existir o puede haber sido eliminada.",
@@ -20,11 +21,9 @@
     "suite-page-organization-bookings-property-edit-min-time": "Tiempo mínimo",
     "suite-page-organization-bookings-property-edit-name": "Nombre",
     "suite-page-organization-bookings-property-edit-name-placeholder": "Ingrese su nombre",
-    "suite-page-organization-bookings-property-edit-no-teams": "Los equipos no son seleccionados.",
+    "suite-page-organization-bookings-property-edit-no-companies": "Los equipos no son seleccionados.",
     "suite-page-organization-bookings-property-edit-number-of-seats": "Asientos",
     "suite-page-organization-bookings-property-edit-price-money": "Precio, {currencySymbol}/hora",
-    "suite-page-organization-bookings-property-edit-price-points": "Precio, {pointEmoji}/hora",
-    "suite-page-organization-bookings-property-edit-team-add-team": "Elegir",
-    "suite-page-organization-bookings-property-edit-team-none": "Ninguna"
+    "suite-page-organization-bookings-property-edit-price-points": "Precio, {pointEmoji}/hora"
   }
 }

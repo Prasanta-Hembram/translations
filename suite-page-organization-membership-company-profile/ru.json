@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-membership-company-profile-no-managers-in-team": "В этой команды еще нет менеджеров.",
-    "suite-page-organization-membership-company-profile-no-members-in-team": "В этой команде еще нет участников.",
+    "suite-page-organization-membership-company-profile-no-managers-in-company": "В этой команды еще нет менеджеров.",
+    "suite-page-organization-membership-company-profile-no-members-in-company": "В этой команде еще нет участников.",
     "suite-page-organization-membership-company-profile-not-found-error": "Эта команда не существует или была удалена.",
     "suite-page-organization-membership-company-profile-section-team-managers": "Менеджеры команды",
     "suite-page-organization-membership-company-profile-section-team-members": "Участники команды"
