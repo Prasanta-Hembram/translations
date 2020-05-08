@@ -6,7 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Власник резервації отримав 100% відшкодування коштів.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успішно відшкодовано.",
     "suite-alerts-success-benefit-apply": "Заявку успішно надіслано.",
-    "suite-alerts-success-booking-check-in": "Booking Checked In.",
+    "suite-alerts-success-booking-check-in": "Резервацію підтверджено.",
     "suite-alerts-success-booking-create": "Резервацію здійснено успішно.",
     "suite-alerts-success-booking-edit": "Резервацію змінено.",
     "suite-alerts-success-booking-edit-charge": "Резервацію змінено. {priceDifferenceToPay} сплачено.",
