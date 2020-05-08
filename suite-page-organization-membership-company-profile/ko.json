@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-organization-membership-company-profile-no-managers-in-team": "이 팀에 아직 팀매니저가 없습니다.",
+    "suite-page-organization-membership-company-profile-no-members-in-team": "이 팀에 아직 팀원이 없습니다.",
+    "suite-page-organization-membership-company-profile-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.",
+    "suite-page-organization-membership-company-profile-section-team-managers": "팀매니저",
+    "suite-page-organization-membership-company-profile-section-team-members": "팀원"
+  }
+}

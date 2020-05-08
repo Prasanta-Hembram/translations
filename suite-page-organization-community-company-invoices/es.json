@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-community-company-invoices-title": "Facturas",
+    "suite-page-organization-community-company-invoices-no-invoices": "Activar la facturación en Configuración/Reservas.",
+    "suite-page-organization-community-company-invoices-get-failure": "No se pudieron mostrar las facturas del equipo. ¿Seguro que hay conexión a internet?"
+  }
+}

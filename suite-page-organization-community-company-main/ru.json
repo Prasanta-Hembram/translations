@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-company-main-action-delete": "Удалить",
+    "suite-page-organization-community-company-main-action-delete-with-members": "Удалить с участниками",
+    "suite-page-organization-community-company-main-button-balance-history": "История транзакций",
+    "suite-page-organization-community-company-main-button-credits": "Кредиты",
+    "suite-page-organization-community-company-main-button-invoices": "Инвойсы",
+    "suite-page-organization-community-company-main-button-select": "Выбрать",
+    "suite-page-organization-community-company-main-button-settings": "Настройки",
+    "suite-page-organization-community-company-main-delete-failure": "Не удалось удалить команду.",
+    "suite-page-organization-community-company-main-delete-repeat": "Попробовать снова",
+    "suite-page-organization-community-company-main-no-managers-in-team": "В этой команды еще нет менеджеров.",
+    "suite-page-organization-community-company-main-no-members-in-team": "В этой команде еще нет участников.",
+    "suite-page-organization-community-company-main-not-found-error": "Эта команда не существует или была удалена.",
+    "suite-page-organization-community-company-main-section-team-managers": "Менеджеры команды",
+    "suite-page-organization-community-company-main-section-team-members": "Участники команды",
+    "suite-page-organization-community-company-main-section-membership-title": "Участие"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-modal-organization-community-company-plan-assign-title": "Asignar plan",
+    "suite-modal-organization-community-company-plan-assign-amount": "Precio, {pointEmoji}",
+    "suite-modal-organization-community-company-plan-assign-button-assign": "Asignar",
+    "suite-modal-organization-community-company-plan-assign-error-amount": "Indique un monto válido en créditos.",
+    "suite-modal-organization-community-company-plan-assign-name": "Nombre",
+    "suite-modal-organization-community-company-plan-assign-name-placeholder": "Ingrese un nombre",
+    "suite-modal-organization-community-company-plan-assign-period-from": "Comienzo",
+    "suite-modal-organization-community-company-plan-assign-period-title": "Período",
+    "suite-modal-organization-community-company-plan-assign-plan-repeat": "Repetir"
+  }
+}

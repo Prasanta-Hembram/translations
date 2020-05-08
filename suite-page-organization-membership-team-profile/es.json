@@ -1,9 +1,0 @@
-{
-  "data": {
-    "suite-page-organization-membership-team-profile-no-managers-in-team": "Este equipo aún no tiene administradores de equipo.",
-    "suite-page-organization-membership-team-profile-no-members-in-team": "Este equipo aún no tiene miembros.",
-    "suite-page-organization-membership-team-profile-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-membership-team-profile-section-team-managers": "Administradores del equipo",
-    "suite-page-organization-membership-team-profile-section-team-members": "Miembros del equipo"
-  }
-}

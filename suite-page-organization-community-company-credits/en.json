@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-company-credits-title": "Credits",
+    "suite-page-organization-community-company-credits-button-charge-title": "Charge",
+    "suite-page-organization-community-company-credits-button-give-title": "Give",
+    "suite-page-organization-community-company-credits-error-credits-invalid": "Type a valid credit amount.",
+    "suite-page-organization-community-company-credits-error-credit-system-off": "The credit system is disabled.",
+    "suite-page-organization-community-company-credits-error-team-not-found": "This team may not exists or may have been removed.",
+    "suite-page-organization-community-company-credits-expire": "{pointsExpiring} expire on {date}.",
+    "suite-page-organization-community-company-credits-expiring-desc": "Expire together with the credit plan.",
+    "suite-page-organization-community-company-credits-expiring-title": "Expiring Credits",
+    "suite-page-organization-community-company-credits-permanent-desc": "Available until they're spent.",
+    "suite-page-organization-community-company-credits-permanent-title": "Permanent Credits",
+    "suite-page-organization-community-company-credits-plan-active-button-assign": "Assign",
+    "suite-page-organization-community-company-credits-plan-details-deactivate": "Deactivate",
+    "suite-page-organization-community-company-credits-plan-title": "Credit Plan",
+    "suite-page-organization-community-company-credits-policy-details": "Refund Policy"
+  }
+}

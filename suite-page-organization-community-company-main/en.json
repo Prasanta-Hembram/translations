@@ -1,0 +1,19 @@
+{
+  "data": {
+    "suite-page-organization-community-company-main-action-delete": "Delete",
+    "suite-page-organization-community-company-main-action-delete-with-members": "Delete with members",
+    "suite-page-organization-community-company-main-button-balance-history": "Balance History",
+    "suite-page-organization-community-company-main-button-credits": "Credits",
+    "suite-page-organization-community-company-main-button-invoices": "Invoices",
+    "suite-page-organization-community-company-main-button-select": "Select",
+    "suite-page-organization-community-company-main-button-settings": "Settings",
+    "suite-page-organization-community-company-main-delete-failure": "Failed to delete team.",
+    "suite-page-organization-community-company-main-delete-repeat": "Retry deleting",
+    "suite-page-organization-community-company-main-no-managers-in-team": "This team doesn't have team managers yet.",
+    "suite-page-organization-community-company-main-no-members-in-team": "This team doesn't have members yet.",
+    "suite-page-organization-community-company-main-not-found-error": "This team may not exist or may have been removed.",
+    "suite-page-organization-community-company-main-section-team-managers": "Team Managers",
+    "suite-page-organization-community-company-main-section-team-members": "Team Members",
+    "suite-page-organization-community-company-main-section-membership-title": "Membership"
+  }
+}

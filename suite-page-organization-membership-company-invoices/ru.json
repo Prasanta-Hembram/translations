@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-membership-company-invoices-title": "Инвойсы",
+    "suite-page-organization-membership-company-invoices-no-invoices": "У команды нет инвойсов.",
+    "suite-page-organization-membership-company-invoices-get-failure": "Не удалось показать инвойсы команды. Проверьте интернет-соединение."
+  }
+}
