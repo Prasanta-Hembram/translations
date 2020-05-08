@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-plan-deactivate-title": "Деактивувати",
+    "alert-confirmation-organization-company-plan-deactivate-no": "Скасувати",
+    "alert-confirmation-organization-company-plan-deactivate-text": "Ви впевнені, що хочете деактивувати план команди? Усі привілеї, які надає план, включаючи кредити, будуть втрачені. Ця дія незворотна і НЕ ВІДШКОДОВУЄТЬСЯ",
+    "alert-confirmation-organization-company-plan-deactivate-yes": "Деактивувати"
+  }
+}

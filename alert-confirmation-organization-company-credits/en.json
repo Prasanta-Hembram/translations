@@ -1,0 +1,12 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-credits-charge-message": "Enter the amount of credits to charge the team.",
+    "alert-confirmation-organization-company-credits-charge-no": "Cancel",
+    "alert-confirmation-organization-company-credits-charge-title": "Amount of credits",
+    "alert-confirmation-organization-company-credits-charge-yes": "Charge",
+    "alert-confirmation-organization-company-credits-give-message": "Enter the amount of credits to give the team.",
+    "alert-confirmation-organization-company-credits-give-no": "Cancel",
+    "alert-confirmation-organization-company-credits-give-title": "Amount of credits",
+    "alert-confirmation-organization-company-credits-give-yes": "Give"
+  }
+}

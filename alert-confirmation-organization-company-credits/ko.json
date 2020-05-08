@@ -1,0 +1,12 @@
+{
+  "data": {
+    "alert-confirmation-organization-company-credits-charge-message": "회수할 팀 크레딧 수를 입력하세요.",
+    "alert-confirmation-organization-company-credits-charge-no": "취소",
+    "alert-confirmation-organization-company-credits-charge-title": "크레딧 수량",
+    "alert-confirmation-organization-company-credits-charge-yes": "회수",
+    "alert-confirmation-organization-company-credits-give-message": "추가할 팀 크레딧 수를 입력하세요.",
+    "alert-confirmation-organization-company-credits-give-no": "취소",
+    "alert-confirmation-organization-company-credits-give-title": "크레딧 수량",
+    "alert-confirmation-organization-company-credits-give-yes": "추가"
+  }
+}

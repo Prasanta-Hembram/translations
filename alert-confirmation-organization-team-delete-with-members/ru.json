@@ -1,8 +1,0 @@
-{
-  "data": {
-    "alert-confirmation-organization-team-delete-with-members-title": "Удалить команду",
-    "alert-confirmation-organization-team-delete-with-members-no": "Отменить",
-    "alert-confirmation-organization-team-delete-with-members-text": "Вы уверены, что хотите удалить команду со всеми участниками? Данное действие необротимо.",
-    "alert-confirmation-organization-team-delete-with-members-yes": "Удалить"
-  }
-}
