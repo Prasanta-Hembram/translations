@@ -6,7 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Владелец брони получил 100% возврат средств.",
     "suite-alerts-refund-booking-money-for-owner": "{price} успешно возмещено.",
     "suite-alerts-success-benefit-apply": "Заявка успешно отправлена.",
-    "suite-alerts-success-booking-check-in": "Booking Checked In.",
+    "suite-alerts-success-booking-check-in": "Бронирование подтверждено.",
     "suite-alerts-success-booking-create": "Бронирование успешно совершено.",
     "suite-alerts-success-booking-edit": "Бронирование изменено.",
     "suite-alerts-success-booking-edit-charge": "Бронирование изменено. {priceDifferenceToPay} оплачено.",
