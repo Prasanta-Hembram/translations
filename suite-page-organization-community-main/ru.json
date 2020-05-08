@@ -3,10 +3,15 @@
     "suite-page-organization-community-main-title": "Сообщество",
     "suite-page-organization-community-main-balance-credit": "Баланс кредитов",
     "suite-page-organization-community-main-balance-unpaid-invoices": "Неоплаченные инвойсы",
+    "suite-page-organization-community-main-button-company-create": "Создать команду",
     "suite-page-organization-community-main-button-invite-member": "Пригласить участника",
-    "suite-page-organization-community-main-button-team-create": "Создать команду",
+    "suite-page-organization-community-main-company-balances": "{balanceCredits} ∙ Неоплаченные инвойсы {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-company-create": "Создать",
+    "suite-page-organization-community-main-company-unpaid-invoices-balance": "Неоплаченные инвойсы {balanceUnpaidInvoices}",
+    "suite-page-organization-community-main-companies-empty": "Команды отсутствуют.",
+    "suite-page-organization-community-main-companies-title": "Команды",
     "suite-page-organization-community-main-end": "Окончание",
-    "suite-page-organization-community-main-error-team-name": "Не удалось создать команду. Укажите название.",
+    "suite-page-organization-community-main-error-company-name": "Не удалось создать команду. Укажите название.",
     "suite-page-organization-community-main-member-create": "Создать",
     "suite-page-organization-community-main-member-new": "New",
     "suite-page-organization-community-main-members-empty": "Участники отсутствуют.",
@@ -20,11 +25,6 @@
     "suite-page-organization-community-main-price": "Цена",
     "suite-page-organization-community-main-requests-title": "Заявки",
     "suite-page-organization-community-main-renews": "Продление",
-    "suite-page-organization-community-main-search-placeholder": "Поиск",
-    "suite-page-organization-community-main-team-balances": "{balanceCredits} ∙ Неоплаченные инвойсы {balanceUnpaidInvoices}",
-    "suite-page-organization-community-main-team-create": "Создать",
-    "suite-page-organization-community-main-team-unpaid-invoices-balance": "Неоплаченные инвойсы {balanceUnpaidInvoices}",
-    "suite-page-organization-community-main-teams-empty": "Команды отсутствуют.",
-    "suite-page-organization-community-main-teams-title": "Команды"
+    "suite-page-organization-community-main-search-placeholder": "Поиск"
   }
 }

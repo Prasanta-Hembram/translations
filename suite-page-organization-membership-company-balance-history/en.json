@@ -1,6 +1,6 @@
 {
   "data": {
     "suite-page-organization-membership-company-balance-history-title": "Balance History",
-    "suite-page-organization-membership-company-balance-history-error-no-team": "This team may not exist or may have been removed."
+    "suite-page-organization-membership-company-balance-history-error-no-company": "This team may not exist or may have been removed."
   }
 }

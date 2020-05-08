@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-settings-integrations-stripe-account-room-booking": "회의실 예약",
+    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "팀인보이스",
     "suite-page-organization-settings-integrations-stripe-account-email": "이메일",
     "suite-page-organization-settings-integrations-stripe-account-name": "계정 명",
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "회의실 예약",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "끔",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "켬",
-    "suite-page-organization-settings-integrations-stripe-account-team-invoice": "팀인보이스",
     "suite-page-organization-settings-integrations-stripe-account-title": "계정",
     "suite-page-organization-settings-integrations-stripe-button-connect": "연결하기",
     "suite-page-organization-settings-integrations-stripe-button-disconnect": "연결 끊기",

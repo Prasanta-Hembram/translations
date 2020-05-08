@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "Участие",
+    "suite-page-organization-membership-main-section-company-title": "Команда",
+    "suite-page-organization-membership-main-section-company-balance-history-button": "История транзакций",
+    "suite-page-organization-membership-main-section-company-credits-button": "Кредиты",
+    "suite-page-organization-membership-main-section-company-invoices-button": "Инвойсы",
+    "suite-page-organization-membership-main-section-company-plan-button": "План",
+    "suite-page-organization-membership-main-section-company-profile-button": "Профиль",
+    "suite-page-organization-membership-main-section-company-settings-button": "Настройки",
     "suite-page-organization-membership-main-section-personal-title": "Личное",
     "suite-page-organization-membership-main-section-personal-balance-history-button": "История транзакций",
     "suite-page-organization-membership-main-section-personal-credits-button": "Кредиты",
     "suite-page-organization-membership-main-section-personal-plan-button": "План",
-    "suite-page-organization-membership-main-section-personal-printing-button": "Печать",
-    "suite-page-organization-membership-main-section-team-title": "Команда",
-    "suite-page-organization-membership-main-section-team-balance-history-button": "История транзакций",
-    "suite-page-organization-membership-main-section-team-credits-button": "Кредиты",
-    "suite-page-organization-membership-main-section-team-invoices-button": "Инвойсы",
-    "suite-page-organization-membership-main-section-team-plan-button": "План",
-    "suite-page-organization-membership-main-section-team-profile-button": "Профиль",
-    "suite-page-organization-membership-main-section-team-settings-button": "Настройки"
+    "suite-page-organization-membership-main-section-personal-printing-button": "Печать"
   }
 }

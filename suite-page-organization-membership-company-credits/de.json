@@ -3,7 +3,7 @@
     "suite-page-organization-membership-company-credits-title": "Credits",
     "suite-page-organization-membership-company-credits-description": "Verwenden Sie {pointEmoji}, um Meetingräume zu buchen. Um mehr {pointEmoji} zu erhalten fragen Sie den Standort Manager.",
     "suite-page-organization-membership-company-credits-error-credit-system-off": "Der Workspace verwendet kein Credit-System.",
-    "suite-page-organization-membership-company-credits-error-no-team": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-membership-company-credits-error-no-company": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-membership-company-credits-expire": "{pointsExpiring} verfallen am {date}.",
     "suite-page-organization-membership-company-credits-plan-title": "Credit Abo",
     "suite-page-organization-membership-company-credits-policy-details": "Rückerstattungsrichtlinie"

@@ -6,10 +6,10 @@
     "suite-page-organization-membership-company-settings-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Escribe una información",
     "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Acceso a la factura del equipo.",
+    "suite-page-organization-membership-company-settings-company-invoice": "Factura de equipo",
+    "suite-page-organization-membership-company-settings-company-invoice-description": "Habilitar el método de pago de facturas del equipo queda disponible para el equipo.",
     "suite-page-organization-membership-company-settings-invoice-locale": "Idioma de la factura",
     "suite-page-organization-membership-company-settings-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-membership-company-settings-team-invoice": "Factura de equipo",
-    "suite-page-organization-membership-company-settings-team-invoice-description": "Habilitar el método de pago de facturas del equipo queda disponible para el equipo.",
     "suite-page-organization-membership-company-settings-update-failure": "Error al actualizar"
   }
 }

@@ -1,17 +1,17 @@
 {
   "data": {
     "suite-page-organization-membership-main-title": "멤버십",
+    "suite-page-organization-membership-main-section-company-title": "팀",
+    "suite-page-organization-membership-main-section-company-balance-history-button": "결제 내역",
+    "suite-page-organization-membership-main-section-company-credits-button": "크레딧",
+    "suite-page-organization-membership-main-section-company-invoices-button": "청구 내역",
+    "suite-page-organization-membership-main-section-company-plan-button": "플랜",
+    "suite-page-organization-membership-main-section-company-profile-button": "프로필",
+    "suite-page-organization-membership-main-section-company-settings-button": "설정",
     "suite-page-organization-membership-main-section-personal-title": "개인",
     "suite-page-organization-membership-main-section-personal-balance-history-button": "결제 내역",
     "suite-page-organization-membership-main-section-personal-credits-button": "크레딧",
     "suite-page-organization-membership-main-section-personal-plan-button": "플랜",
-    "suite-page-organization-membership-main-section-personal-printing-button": "프린터",
-    "suite-page-organization-membership-main-section-team-title": "팀",
-    "suite-page-organization-membership-main-section-team-balance-history-button": "결제 내역",
-    "suite-page-organization-membership-main-section-team-credits-button": "크레딧",
-    "suite-page-organization-membership-main-section-team-invoices-button": "청구 내역",
-    "suite-page-organization-membership-main-section-team-plan-button": "플랜",
-    "suite-page-organization-membership-main-section-team-profile-button": "프로필",
-    "suite-page-organization-membership-main-section-team-settings-button": "설정"
+    "suite-page-organization-membership-main-section-personal-printing-button": "프린터"
   }
 }
