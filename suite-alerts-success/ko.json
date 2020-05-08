@@ -6,7 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "예약자의 100% 환불되었습니다",
     "suite-alerts-refund-booking-money-for-owner": "{price} 환불되었습니다",
     "suite-alerts-success-benefit-apply": "신청이 완료되었습니다",
-    "suite-alerts-success-booking-check-in": "Booking Checked In.",
+    "suite-alerts-success-booking-check-in": "체크인이 완료되었습니다.",
     "suite-alerts-success-booking-create": "예약이 완료되었습니다",
     "suite-alerts-success-booking-edit": "예약을 수정되었습니다.",
     "suite-alerts-success-booking-edit-charge": "예약을 수정되었습니다. {priceDifferenceToPay} 회수되었습니다.",
