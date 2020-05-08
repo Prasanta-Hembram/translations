@@ -6,7 +6,7 @@
     "suite-page-organization-bookings-property-details-delete-property-repeat": "Retry",
     "suite-page-organization-bookings-property-details-main-title": "Room",
     "suite-page-organization-bookings-property-details-no-property": "This room may not exist or may have been removed.",
-    "suite-page-organization-bookings-property-details-overview-company-access": "- The room is private and visible to selected team only. The following team are selected: {teamTitles}.",
+    "suite-page-organization-bookings-property-details-overview-company-access": "- The room is private and visible to selected team only. The following team are selected: {companyTitles}.",
     "suite-page-organization-bookings-property-details-overview-company-access-no-companies": "- The room is private and visible to selected teams only. You didn't select any teams yet.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Maximum booking time is {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Minimum booking time is {duration}.",

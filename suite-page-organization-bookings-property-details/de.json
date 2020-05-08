@@ -6,7 +6,7 @@
     "suite-page-organization-bookings-property-details-delete-property-repeat": "Erneut versuchen",
     "suite-page-organization-bookings-property-details-main-title": "Raum",
     "suite-page-organization-bookings-property-details-no-property": "Dieser Raum existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-bookings-property-details-overview-company-access": "- Der Raum ist privat und nur für das ausgewählte Team sichtbar. Die folgenden Teams werden ausgewählt: {teamTitles}.",
+    "suite-page-organization-bookings-property-details-overview-company-access": "- Der Raum ist privat und nur für das ausgewählte Team sichtbar. Die folgenden Teams werden ausgewählt: {companyTitles}.",
     "suite-page-organization-bookings-property-details-overview-company-access-no-companies": "- Der Raum ist privat und nur für ausgewählte Teams sichtbar. Sie haben noch keine Teams ausgewählt.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Die maximale Buchungsdauer beträgt {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Die Mindestbuchungsdauer beträgt {duration}.",

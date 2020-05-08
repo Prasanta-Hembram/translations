@@ -6,7 +6,7 @@
     "suite-page-organization-bookings-property-details-delete-property-repeat": "Спробувати знову",
     "suite-page-organization-bookings-property-details-main-title": "Кімната",
     "suite-page-organization-bookings-property-details-no-property": "Кімната не існує або ж була видалена.",
-    "suite-page-organization-bookings-property-details-overview-company-access": "- Це приватна кімната, вона доступна лише для вибраних команд. Вибрані наступні команди: {teamTitles}.",
+    "suite-page-organization-bookings-property-details-overview-company-access": "- Це приватна кімната, вона доступна лише для вибраних команд. Вибрані наступні команди: {companyTitles}.",
     "suite-page-organization-bookings-property-details-overview-company-access-no-companies": "- Це приватна кімната, вона доступна лише для вибраних команд. Ви ще не вибрали жодну команду.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
