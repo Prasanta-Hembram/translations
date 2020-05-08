@@ -6,7 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "El dueño de la reserva recibió un 100% de reembolso.",
     "suite-alerts-refund-booking-money-for-owner": "{price} reembolsado exitosamente.",
     "suite-alerts-success-benefit-apply": "La aplicación ha sido enviada con éxito.",
-    "suite-alerts-success-booking-check-in": "Booking Checked In.",
+    "suite-alerts-success-booking-check-in": "Reserva confirmada.",
     "suite-alerts-success-booking-create": "La reserva se realiza con éxito.",
     "suite-alerts-success-booking-edit": "Cambio de reserva.",
     "suite-alerts-success-booking-edit-charge": "Cambio de reserva. {priceDifferenceToPay} cobrado.",
