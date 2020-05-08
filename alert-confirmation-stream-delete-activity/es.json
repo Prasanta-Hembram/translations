@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-stream-delete-activity-title": "Eliminar la publicación",
+    "alert-confirmation-stream-delete-activity-no": "Cancelar",
+    "alert-confirmation-stream-delete-activity-text": "¿Estás seguro de que quieres eliminar la publicación?",
+    "alert-confirmation-stream-delete-activity-yes": "Eliminar"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-stream-delete-activity-title": "Удалить пост",
+    "alert-confirmation-stream-delete-activity-no": "Отменить",
+    "alert-confirmation-stream-delete-activity-text": "Вы уверены, что хотите удалить пост?",
+    "alert-confirmation-stream-delete-activity-yes": "Удалить"
+  }
+}
