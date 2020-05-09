@@ -13,7 +13,7 @@
     "suite-page-organization-bookings-booking-details-delete-failure": "Failed to delete booking.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "Try again",
     "suite-page-organization-bookings-booking-details-empty": "This booking may not exist or may have been removed.",
-    "suite-page-organization-bookings-booking-details-needs-check-in": "This booking requires a confirmation via a room display at the door.",
+    "suite-page-organization-bookings-booking-details-needs-check-in": "This booking requires a confirmation via the room display at the door. Unconfirmed reservations autocancel after a few minutes to free up space.",
     "suite-page-organization-bookings-booking-details-payed-with": "Method",
     "suite-page-organization-bookings-booking-details-payment-status-pending": "The booking is pending and will be deleted in 15 minutes if the payment is not completed.",
     "suite-page-organization-bookings-booking-details-title": "Booking",
