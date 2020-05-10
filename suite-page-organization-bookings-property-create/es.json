@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Nueva Sala",
-    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Elimina automáticamente las reservas del calendario de la sala si nadie se registra.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Elimina automáticamente las reservas del calendario de la sala si nadie se registra. Se aplica sólo a las reservas gratuitas. Requiere una pantalla de la sala en la puerta.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Tiempo de espera antes de que una reserva no registrada sea cancelada.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Tiempo para cancelar",
     "suite-page-organization-bookings-property-create-booking-auto-release-label": "Eliminar las reservas no registradas",
