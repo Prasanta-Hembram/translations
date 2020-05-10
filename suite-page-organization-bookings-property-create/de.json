@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Neuen Raum",
-    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Buchungen automatisch aus dem Kalender des Raums entfernen, wenn niemand eincheckt. Frühes Check-In",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Buchungen automatisch aus dem Kalender des Raums entfernen, wenn niemand eincheckt. Gilt nur für kostenlose Buchungen. Erfordert eine Raumauslage an der Tür.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Wartezeit bis zur Stornierung einer unbestätigten Buchung.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Zeit bis zur Stornierung",
     "suite-page-organization-bookings-property-create-booking-auto-release-label": "Unbestätigte Buchungen entfernen",
