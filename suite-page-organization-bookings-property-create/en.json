@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "New Room",
-    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Automatically remove ghost bookings from the room's calendar if nobody checks in.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Automatically remove ghost bookings from the room's calendar if nobody checks in. Applies to free bookings only. Requires a room display at the door.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Time to wait before an unconfirmed booking is canceled.",
     "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Abandoned Threshold",
     "suite-page-organization-bookings-property-create-booking-auto-release-label": "Release Unconfirmed Bookings",
