@@ -1,6 +1,13 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Neuen Raum",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Buchungen automatisch aus dem Kalender des Raums entfernen, wenn niemand eincheckt. Gilt nur für kostenlose Buchungen. Erfordert eine Raumauslage an der Tür.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Wartezeit bis zur Stornierung einer unbestätigten Buchung.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Zeit bis zur Stornierung",
+    "suite-page-organization-bookings-property-create-booking-auto-release-label": "Unbestätigte Buchungen entfernen",
+    "suite-page-organization-bookings-property-create-booking-auto-release-title": "Schutz für vergessene Buchungen",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Erlauben Sie den Mitgliedern, frühzeitig bei ihren Buchungen einzuchecken.",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Frühes Check-In",
     "suite-page-organization-bookings-property-create-booking-limits-desc": "Dauerbegrenzungen für von Mitgliedern erstellte Buchungen.",
     "suite-page-organization-bookings-property-create-booking-step-desc": "Die Häufigkeit der verfügbaren Zeit für die Erstellung einer Buchung durch die Mitglieder.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Verfügbarkeit Inkremente",

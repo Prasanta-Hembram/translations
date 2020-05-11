@@ -3,6 +3,8 @@
     "suite-modal-organization-bookings-property-display-availability-available": "Available for {time}",
     "suite-modal-organization-bookings-property-display-availability-in-minutes": "Available {time}",
     "suite-modal-organization-bookings-property-display-availability-unavailable": "Unavailable",
+    "suite-modal-organization-bookings-property-display-check-in": "Check In",
+    "suite-modal-organization-bookings-property-display-next-booking-label": "Next Booking",
     "suite-modal-organization-bookings-property-display-next-bookings-label": "Next Bookings"
   }
 }

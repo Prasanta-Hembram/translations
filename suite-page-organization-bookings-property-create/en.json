@@ -1,6 +1,13 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "New Room",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Automatically remove ghost bookings from the room's calendar if nobody checks in. Applies to free bookings only. Requires a room display at the door.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Time to wait before an unconfirmed booking is canceled.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Abandoned Threshold",
+    "suite-page-organization-bookings-property-create-booking-auto-release-label": "Release Unconfirmed Bookings",
+    "suite-page-organization-bookings-property-create-booking-auto-release-title": "Abandoned Booking Protection",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Allow members to check in to their bookings early.",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Early Check In",
     "suite-page-organization-bookings-property-create-booking-limits-desc": "Duration limits for bookings created by members.",
     "suite-page-organization-bookings-property-create-booking-step-desc": "The frequency of available time for creating a booking by members.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Availability Increments",

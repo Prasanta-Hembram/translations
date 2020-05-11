@@ -1,6 +1,13 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Новая комната",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Автоматическая отмена заброшенного бронирования с календаря, если его никто не подтвердил на дисплее возле двери. Действует только для бесплатных бронирований. Требует наличия дисплея возле двери переговорной.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Время, отведенное для подтверждения бронирования, по истечении которого оно автоматически отменяется.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Порог автоотмены",
+    "suite-page-organization-bookings-property-create-booking-auto-release-label": "Отмена неподтвержденных бронирований",
+    "suite-page-organization-bookings-property-create-booking-auto-release-title": "Предотвращение заброшенных бронирований",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Разрешите участникам заблаговременно подтверждать бронирование.",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Предварительное подтверждение",
     "suite-page-organization-bookings-property-create-booking-limits-desc": "Ограничение длительности бронирований, создаваемых участниками.",
     "suite-page-organization-bookings-property-create-booking-step-desc": "Частота доступного времени для бронирований, создаваемых участниками.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Инкремент доступности",

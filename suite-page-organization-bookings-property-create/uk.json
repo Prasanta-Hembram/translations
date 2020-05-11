@@ -1,6 +1,13 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Нова кімната",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Автоматичне скасування покинутої резервації з календаря, якщо її ніхто не підтвердив на дисплеї біля дверей. Діє лише для безкоштовних бронювань. Вимагає наявності дисплея біля дверей кімнати.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Час, що відведено для підтвердження резервації, після закінчення якого вона автоматично скасовується.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Поріг автоскасування",
+    "suite-page-organization-bookings-property-create-booking-auto-release-label": "Скасування непідтверджених бронювань",
+    "suite-page-organization-bookings-property-create-booking-auto-release-title": "Запобігання покинутим бронюванням",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Дозвольте учасникам завчасно підтверджувати бронювання.",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Попереднє підтвердження",
     "suite-page-organization-bookings-property-create-booking-limits-desc": "Обмеження тривалості резервацій, що створені учаниками.",
     "suite-page-organization-bookings-property-create-booking-step-desc": "Частота доступного часу для резервацій, що створені учасниками.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Інкремент доступності",

@@ -30,6 +30,7 @@
     "suite-modal-organization-bookings-booking-create-payment-success-button-done": "Hecho",
     "suite-modal-organization-bookings-booking-create-payment-success-text": "Te avisaremos 5 minutos antes de que empiece.",
     "suite-modal-organization-bookings-booking-create-payment-success-title": "Reserva exitosa",
+    "suite-modal-organization-bookings-booking-create-payment-success-with-check-in-text": "Antes de entrar en la sala, no olvide confirmar la reserva a través de la pantalla en la puerta. Las reservas no confirmadas se cancelan automáticamente después de unos minutos para liberar espacio.",
     "suite-modal-organization-bookings-booking-create-price": "Precio, {currency}",
     "suite-modal-organization-bookings-booking-create-price-money": "El precio es {priceMoney} por hora.",
     "suite-modal-organization-bookings-booking-create-price-points": "El precio es {priceCredits} por hora.",

@@ -1,6 +1,13 @@
 {
   "data": {
     "suite-page-organization-bookings-property-create-title-create": "Nueva Sala",
+    "suite-page-organization-bookings-property-create-booking-auto-release-desc": "Elimina automáticamente las reservas del calendario de la sala si nadie se registra. Se aplica sólo a las reservas gratuitas. Requiere una pantalla de la sala en la puerta.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-desc": "Tiempo de espera antes de que una reserva no registrada sea cancelada.",
+    "suite-page-organization-bookings-property-create-booking-auto-release-interval-label": "Tiempo para cancelar",
+    "suite-page-organization-bookings-property-create-booking-auto-release-label": "Eliminar las reservas no registradas",
+    "suite-page-organization-bookings-property-create-booking-auto-release-title": "Protección de reserva abandonada",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-desc": "Permita que los miembros se registren en sus reservas con anticipación.",
+    "suite-page-organization-bookings-property-create-booking-check-in-interval-label": "Registro anticipado",
     "suite-page-organization-bookings-property-create-booking-limits-desc": "Límites de duración para las reservas creadas por los miembros.",
     "suite-page-organization-bookings-property-create-booking-step-desc": "La frecuencia de tiempo disponible para crear una reserva por los miembros.",
     "suite-page-organization-bookings-property-create-booking-step-label": "Incrementos de disponibilidad",

@@ -6,6 +6,7 @@
     "suite-alerts-refund-booking-money-for-admin": "Booking owner got 100% refund of money.",
     "suite-alerts-refund-booking-money-for-owner": "{price} successfully refunded.",
     "suite-alerts-success-benefit-apply": "Application successfully sent.",
+    "suite-alerts-success-booking-check-in": "Booking confirmed.",
     "suite-alerts-success-booking-create": "Booking is made successfully.",
     "suite-alerts-success-booking-edit": "Booking changed.",
     "suite-alerts-success-booking-edit-charge": "Booking changed. {priceDifferenceToPay} charged.",

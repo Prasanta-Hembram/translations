@@ -13,6 +13,7 @@
     "suite-page-organization-bookings-booking-details-delete-failure": "예약 삭제 실패.",
     "suite-page-organization-bookings-booking-details-delete-repeat": "다시 시도해 주세요",
     "suite-page-organization-bookings-booking-details-empty": "이 예약은 존재하지 않거나 삭제되었을 수 있습니다.",
+    "suite-page-organization-bookings-booking-details-needs-check-in": "회의실 디스플레이를 통해 예약 체크인이 필요합니다. 체크인되지 않은 예약은 공간을 확보하기 위해 몇 분 후에 자동으로 취소됩니다.",
     "suite-page-organization-bookings-booking-details-payed-with": "결제 수단",
     "suite-page-organization-bookings-booking-details-payment-status-pending": "결제가 완료되지 않은 경우 예약은 15분 후에 자동으로 삭제됩니다.",
     "suite-page-organization-bookings-booking-details-title": "예약",

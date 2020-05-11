@@ -6,6 +6,8 @@
     "suite-page-organization-bookings-property-details-delete-property-repeat": "Попробовать снова",
     "suite-page-organization-bookings-property-details-main-title": "Переговорная",
     "suite-page-organization-bookings-property-details-no-property": "Переговорная не существует или же была удалена.",
+    "suite-page-organization-bookings-property-details-overview-booking-auto-release-interval": "- Неподтвержденные бронирования автоотменяются через {interval}.",
+    "suite-page-organization-bookings-property-details-overview-booking-check-in-interval": "- Подтверждение возможно за {interval} до начала бронирования.",
     "suite-page-organization-bookings-property-details-overview-company-access": "- Эта комната приватная и доступна только для выбраных команд. Выбранные такие команды: {companyTitles}.",
     "suite-page-organization-bookings-property-details-overview-company-access-no-companies": "- Эта комната приватная и доступна только для выбраных команд. Вы еще не выбрали команды.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальная продолжительность бронирования {duration}.",
