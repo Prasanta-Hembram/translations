@@ -2,9 +2,11 @@
   "data": {
     "suite-page-organization-settings-main-title": "Настройки",
     "suite-page-organization-settings-main-general": "Общие",
+    "suite-page-organization-settings-main-suite-benefits": "Преимущества",
     "suite-page-organization-settings-main-suite-bookings": "Бронирования",
     "suite-page-organization-settings-main-suite-community": "Сообщество",
     "suite-page-organization-settings-main-suite-integrations": "Интеграции",
-    "suite-page-organization-settings-main-suite-membership": "Участие"
+    "suite-page-organization-settings-main-suite-membership": "Участие",
+    "suite-page-organization-settings-main-suite-services": "Сервисы"
   }
 }

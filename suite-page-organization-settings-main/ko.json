@@ -2,9 +2,11 @@
   "data": {
     "suite-page-organization-settings-main-title": "설정",
     "suite-page-organization-settings-main-general": "일반",
+    "suite-page-organization-settings-main-suite-benefits": "베네핏",
     "suite-page-organization-settings-main-suite-bookings": "예약",
     "suite-page-organization-settings-main-suite-community": "커뮤니티",
     "suite-page-organization-settings-main-suite-integrations": "연동",
-    "suite-page-organization-settings-main-suite-membership": "멤버십"
+    "suite-page-organization-settings-main-suite-membership": "멤버십",
+    "suite-page-organization-settings-main-suite-services": "서비스"
   }
 }

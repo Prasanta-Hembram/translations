@@ -2,9 +2,11 @@
   "data": {
     "suite-page-organization-settings-main-title": "Configuración",
     "suite-page-organization-settings-main-general": "General",
+    "suite-page-organization-settings-main-suite-benefits": "Beneficios",
     "suite-page-organization-settings-main-suite-bookings": "Reservas",
     "suite-page-organization-settings-main-suite-community": "Comunidad",
     "suite-page-organization-settings-main-suite-integrations": "Integraciones",
-    "suite-page-organization-settings-main-suite-membership": "Membresía"
+    "suite-page-organization-settings-main-suite-membership": "Membresía",
+    "suite-page-organization-settings-main-suite-services": "Servicios"
   }
 }
