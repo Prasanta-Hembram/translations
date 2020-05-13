@@ -71,6 +71,7 @@
     "service-apply-email-title": "{serviceTitle} 서비스를 신청해주셔서 감사합니다.",
     "stream-comment-notification-title": "{userName} 님은 게시물에 댓글을 달았습니다.",
     "stream-notification-title": "{userName} 님이 {organizationTitle}에 게시했습니다",
+    "user-invite-repeat-success-email-activation-note-benefits-and-services-option": "- A catalog of our benefits and services.",
     "user-invite-repeat-success-email-activation-note-benefits-option": "- A catalog of our benefits.",
     "user-invite-repeat-success-email-activation-note-default": "Hey {userFullName},\n\nJust a quick reminder to join us on us on {appName} app.\n\nHere's what you get with the app:\n{noteOptions}\nAnd a lot more!\n\nTo get started, just sign in with your email {userEmail}.",
     "user-invite-repeat-success-email-activation-note-room-booking-option": "- Room reservations right through the app.",
