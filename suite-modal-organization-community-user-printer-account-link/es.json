@@ -2,8 +2,6 @@
   "data": {
     "suite-modal-organization-community-user-printer-account-link-title": "Vincular cuenta de impresora",
     "suite-modal-organization-community-user-printer-account-link-no-none": "Ninguna",
-    "suite-modal-organization-community-user-printer-account-link-no-users": "Nadie para agregar.",
-    "suite-modal-organization-community-user-printer-account-link-nothing-found": "Nada Encontrado.",
-    "suite-modal-organization-community-user-printer-account-link-search": "Buscar"
+    "suite-modal-organization-community-user-printer-account-link-no-users": "Nadie para agregar."
   }
 }

@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-modal-organization-community-company-users-managers-update-title": "Elegir gerentes de equipo",
-    "suite-modal-organization-community-company-users-managers-update-no-members": "Nadie para agregar. Primero agregue miembros al equipo.",
-    "suite-modal-organization-community-company-users-managers-update-nothing-found": "Nada Encontrado.",
-    "suite-modal-organization-community-company-users-managers-update-search": "Buscar"
+    "suite-modal-organization-community-company-users-managers-update-no-members": "Nadie para agregar. Primero agregue miembros al equipo."
   }
 }

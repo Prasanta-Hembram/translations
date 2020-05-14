@@ -2,8 +2,6 @@
   "data": {
     "suite-modal-organization-community-user-printer-account-link-title": "Druckerkonto verlinken",
     "suite-modal-organization-community-user-printer-account-link-no-none": "Kein",
-    "suite-modal-organization-community-user-printer-account-link-no-users": "Niemanden zum Hinzufügen.",
-    "suite-modal-organization-community-user-printer-account-link-nothing-found": "Nichts gefunden.",
-    "suite-modal-organization-community-user-printer-account-link-search": "Suche"
+    "suite-modal-organization-community-user-printer-account-link-no-users": "Niemanden zum Hinzufügen."
   }
 }

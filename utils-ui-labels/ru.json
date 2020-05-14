@@ -6,6 +6,8 @@
     "utils-labels-stream-comments-plural": "Комментарии: {number}",
     "utils-labels-stream-comments-single": "Комментарии: {number}",
     "utils-labels-stream-likes-plural": "Нравится: {number}",
-    "utils-labels-stream-likes-single": "Нравится: {number}"
+    "utils-labels-stream-likes-single": "Нравится: {number}",
+    "utils-search-nothing-found": "Ничего не найдено.",
+    "utils-search-placeholder": "Поиск"
   }
 }

@@ -6,6 +6,8 @@
     "utils-labels-stream-comments-plural": "Коментарі: {number}",
     "utils-labels-stream-comments-single": "Коментарі: {number}",
     "utils-labels-stream-likes-plural": "Вподобання: {number}",
-    "utils-labels-stream-likes-single": "Вподобання: {number}"
+    "utils-labels-stream-likes-single": "Вподобання: {number}",
+    "utils-search-nothing-found": "Нічого не знайдено.",
+    "utils-search-placeholder": "Пошук"
   }
 }

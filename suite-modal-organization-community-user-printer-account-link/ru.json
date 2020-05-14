@@ -2,8 +2,6 @@
   "data": {
     "suite-modal-organization-community-user-printer-account-link-title": "Связать с",
     "suite-modal-organization-community-user-printer-account-link-no-none": "Не выбрано",
-    "suite-modal-organization-community-user-printer-account-link-no-users": "Никого добавлять.",
-    "suite-modal-organization-community-user-printer-account-link-nothing-found": "Ничего не найдено.",
-    "suite-modal-organization-community-user-printer-account-link-search": "Поиск"
+    "suite-modal-organization-community-user-printer-account-link-no-users": "Никого добавлять."
   }
 }

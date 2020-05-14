@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-modal-organization-bookings-property-company-update-title": "Teams auswählen",
-    "suite-modal-organization-bookings-property-company-update-no-companies": "Niemand, der hinzugefügt werden kann.",
-    "suite-modal-organization-bookings-property-company-update-nothing-found": "Nichts gefunden.",
-    "suite-modal-organization-bookings-property-company-update-search": "Suche"
+    "suite-modal-organization-bookings-property-company-update-no-companies": "Niemand, der hinzugefügt werden kann."
   }
 }
