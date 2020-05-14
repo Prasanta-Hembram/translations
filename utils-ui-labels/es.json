@@ -6,6 +6,8 @@
     "utils-labels-stream-comments-plural": "{number} commentarios",
     "utils-labels-stream-comments-single": "{number} commentario",
     "utils-labels-stream-likes-plural": "{number} Me gusta",
-    "utils-labels-stream-likes-single": "{number} Me gusta"
+    "utils-labels-stream-likes-single": "{number} Me gusta",
+    "utils-search-nothing-found": "No se ha encontrado nada.",
+    "utils-search-placeholder": "Buscar"
   }
 }

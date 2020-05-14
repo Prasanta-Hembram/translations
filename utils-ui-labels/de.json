@@ -6,6 +6,8 @@
     "utils-labels-stream-comments-plural": "{number} Kommentare",
     "utils-labels-stream-comments-single": "{number} Kommentare",
     "utils-labels-stream-likes-plural": "Gefällt {number} Mal",
-    "utils-labels-stream-likes-single": "Gefällt {number} Mal"
+    "utils-labels-stream-likes-single": "Gefällt {number} Mal",
+    "utils-search-nothing-found": "Nichts gefunden.",
+    "utils-search-placeholder": "Suche"
   }
 }

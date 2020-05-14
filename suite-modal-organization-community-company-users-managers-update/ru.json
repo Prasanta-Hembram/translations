@@ -1,8 +1,6 @@
 {
   "data": {
     "suite-modal-organization-community-company-users-managers-update-title": "Выбрать менеджеров команды",
-    "suite-modal-organization-community-company-users-managers-update-no-members": "Некого добавлять. Сначала добавьте участников в команду.",
-    "suite-modal-organization-community-company-users-managers-update-nothing-found": "Ничего не найдено.",
-    "suite-modal-organization-community-company-users-managers-update-search": "Поиск"
+    "suite-modal-organization-community-company-users-managers-update-no-members": "Некого добавлять. Сначала добавьте участников в команду."
   }
 }

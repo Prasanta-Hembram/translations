@@ -3,7 +3,5 @@
     "suite-page-organization-services-main-title": "Services",
     "suite-page-organization-services-main-get-failure": "Couldn't show service categories. Check the internet and try again.",
     "suite-page-organization-services-main-no-service-categories": "The workspace has no service categories to display.",
-    "suite-page-organization-services-main-nothing-found": "Nothing found.",
-    "suite-page-organization-services-main-search-placeholder": "Search"
   }
 }

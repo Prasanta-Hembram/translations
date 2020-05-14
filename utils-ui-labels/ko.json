@@ -6,6 +6,8 @@
     "utils-labels-stream-comments-plural": "댓글 {number}개",
     "utils-labels-stream-comments-single": "댓글 {number}개",
     "utils-labels-stream-likes-plural": "좋아요 {number}개",
-    "utils-labels-stream-likes-single": "좋아요 {number}개"
+    "utils-labels-stream-likes-single": "좋아요 {number}개",
+    "utils-search-nothing-found": "아무것도 없습니다.",
+    "utils-search-placeholder": "검색하기"
   }
 }
