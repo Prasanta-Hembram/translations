@@ -1,7 +1,9 @@
 {
   "data": {
+    "suite-page-organization-benefits-main-title": "Vorteile",
     "suite-page-organization-benefits-main-get-failure": "Konnte keine Vorteilskategorie zeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-benefits-main-no-benefit-categories": "Der Workspace hat keine Vorteilskategorie zum Anzeigen.",
-    "suite-page-organization-benefits-main-title": "Vorteile"
+    "suite-page-organization-benefits-main-nothing-found": "Nichts gefunden.",
+    "suite-page-organization-benefits-main-search-placeholder": "Suche"
   }
 }
