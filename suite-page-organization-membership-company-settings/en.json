@@ -8,7 +8,6 @@
     "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Team invoice permission",
     "suite-page-organization-membership-company-settings-company-invoice": "Team Invoice",
     "suite-page-organization-membership-company-settings-company-invoice-description": "When turned on, team invoice payment method becomes available for the team.",
-    "suite-page-organization-membership-company-settings-invoice-locale": "Invoice Language",
     "suite-page-organization-membership-company-settings-not-found-error": "This team may not exist or may have been removed.",
     "suite-page-organization-membership-company-settings-update-failure": "Failed to update"
   }

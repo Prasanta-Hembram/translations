@@ -2,9 +2,11 @@
   "data": {
     "suite-page-organization-settings-main-title": "Налаштування",
     "suite-page-organization-settings-main-general": "Загальні",
+    "suite-page-organization-settings-main-suite-benefits": "Переваги",
     "suite-page-organization-settings-main-suite-bookings": "Резервації",
     "suite-page-organization-settings-main-suite-community": "Спільнота",
     "suite-page-organization-settings-main-suite-integrations": "Інтеграції",
-    "suite-page-organization-settings-main-suite-membership": "Участь"
+    "suite-page-organization-settings-main-suite-membership": "Участь",
+    "suite-page-organization-settings-main-suite-services": "Сервіси"
   }
 }
