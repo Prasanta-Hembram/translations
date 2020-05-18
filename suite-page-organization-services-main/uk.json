@@ -1,7 +1,8 @@
 {
   "data": {
     "suite-page-organization-services-main-title": "Сервіси",
+    "suite-page-organization-services-main-create-category": "Створити категорію",
     "suite-page-organization-services-main-get-failure": "Не вдалося показати cписок категорій сервісів. Перевірте інтернет-з'єднання.",
-    "suite-page-organization-services-main-no-service-categories": "У робочому просторі немає категорій сервісів для відображення."
+    "suite-page-organization-services-main-no-service-categories": "У робочому просторі відсутні категорії сервісів."
   }
 }
