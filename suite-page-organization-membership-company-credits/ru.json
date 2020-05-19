@@ -3,7 +3,7 @@
     "suite-page-organization-membership-company-credits-title": "Кредиты",
     "suite-page-organization-membership-company-credits-description": "Используйте {pointEmoji} чтобы бронировать переговорные. Чтобы получить больше {pointEmoji}, обратитесь к менеджеру отделения.",
     "suite-page-organization-membership-company-credits-error-credit-system-off": "Рабочее пространство не использует кредитную систему.",
-    "suite-page-organization-membership-company-credits-error-no-company": "Эта команда не существует или была удалена.",
+    "suite-page-organization-membership-company-credits-error-no-company": "Эта компания не существует или была удалена.",
     "suite-page-organization-membership-company-credits-expire": "{pointsExpiring} истекают {date}.",
     "suite-page-organization-membership-company-credits-plan-title": "План кредитов",
     "suite-page-organization-membership-company-credits-policy-details": "Политика возврата"

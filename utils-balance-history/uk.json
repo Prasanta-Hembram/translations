@@ -1,8 +1,8 @@
 {
   "data": {
-    "utils-balance-history-permission-all-members": "Менеджери та учасники команди",
-    "utils-balance-history-permission-company-managers": "Менеджери команди",
-    "utils-balance-history-permission-info-all-members": "Усі учасники команди можуть бачити історію транзакцій.",
-    "utils-balance-history-permission-info-company-managers": "Лише менеджери команди можуть бачити історію транзакцій."
+    "utils-balance-history-permission-all-members": "Менеджери та учасники компанії",
+    "utils-balance-history-permission-company-managers": "Менеджери компанії",
+    "utils-balance-history-permission-info-all-members": "Усі учасники компанії можуть бачити історію транзакцій.",
+    "utils-balance-history-permission-info-company-managers": "Лише менеджери компанії можуть бачити історію транзакцій."
   }
 }

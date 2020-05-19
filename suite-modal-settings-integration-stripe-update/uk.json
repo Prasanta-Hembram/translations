@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-settings-integration-stripe-update-account-email": "Email",
     "suite-modal-settings-integration-stripe-update-account-name": "Ім'я",
-    "suite-modal-settings-integration-stripe-update-company-invoice": "Інвойс команди",
+    "suite-modal-settings-integration-stripe-update-company-invoice": "Інвойс компанії",
     "suite-modal-settings-integration-stripe-update-description": "Учасники зможуть сплачувати обрані сервіси за допомогою Stripe.",
     "suite-modal-settings-integration-stripe-update-room-booking": "Резервація кімнат",
     "suite-modal-settings-integration-stripe-update-section-payments": "Платежі",

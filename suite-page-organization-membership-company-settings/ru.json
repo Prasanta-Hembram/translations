@@ -6,9 +6,9 @@
     "suite-page-organization-membership-company-settings-billing-address-desc": "Укажите название компании, адрес и любую другую юридическую информацию, указанную в инвойсах.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Введите информацию",
     "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Бронирование по инвойсу",
-    "suite-page-organization-membership-company-settings-company-invoice": "Инвойс команды",
-    "suite-page-organization-membership-company-settings-company-invoice-description": "Включить оплату по инвойсу для этой команды.",
-    "suite-page-organization-membership-company-settings-not-found-error": "Эта команда не существует или была удалена.",
+    "suite-page-organization-membership-company-settings-company-invoice": "Инвойс компании",
+    "suite-page-organization-membership-company-settings-company-invoice-description": "Включить оплату по инвойсу для этой компании.",
+    "suite-page-organization-membership-company-settings-not-found-error": "Эта компания не существует или была удалена.",
     "suite-page-organization-membership-company-settings-update-failure": "Невозможно обновить"
   }
 }

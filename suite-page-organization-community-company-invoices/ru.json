@@ -2,6 +2,6 @@
   "data": {
     "suite-page-organization-community-company-invoices-title": "Инвойсы",
     "suite-page-organization-community-company-invoices-no-invoices": "Включите инвойсы в Настройки/Бронирования.",
-    "suite-page-organization-community-company-invoices-get-failure": "Не удалось показать инвойсы команды. Проверьте интернет-соединение."
+    "suite-page-organization-community-company-invoices-get-failure": "Не удалось показать инвойсы компании. Проверьте интернет-соединение."
   }
 }

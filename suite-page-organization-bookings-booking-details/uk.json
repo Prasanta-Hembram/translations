@@ -1,11 +1,11 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Безкоштовно",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Інвойс команди ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Інвойс компанії ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Картка ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Зовнішній платіж ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Кредити особисті ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-company": "Кредити команди ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company": "Кредити компанії ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "Кредити {companyTitle} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Видалити",
     "suite-page-organization-bookings-booking-details-button-go-back": "Повернутися",

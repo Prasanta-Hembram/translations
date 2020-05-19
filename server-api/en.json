@@ -13,7 +13,7 @@
     "booking-ends-in-five-minutes-notification-body": "Your booking ends in 5 minutes. Please keep the room clean.",
     "booking-start-notification-body": "Your booking starts in 5 minutes. Tap for details.",
     "booking-start-notification-with-auto-release-notice-body": "Your booking starts in 5 minutes. The booking will be autocanceled if nobody checks in via the room display at the door.",
-    "bulk-invite-failure-company-id-not-found": "Team ID at row {row} is not found.",
+    "bulk-invite-failure-company-id-not-found": "Company ID at row {row} is not found.",
     "bulk-invite-failure-email-duplicated": "Email for Invite at row {row} is duplicated.",
     "bulk-invite-failure-email-empty": "Email for Invite at row {row} is empty.",
     "bulk-invite-failure-email-not-valid": "Email for Invite at row {row} is not valid.",

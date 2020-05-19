@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-company-delete-with-members-title": "Видалити команду",
+    "alert-confirmation-organization-company-delete-with-members-title": "Видалити компанію",
     "alert-confirmation-organization-company-delete-with-members-no": "Скасувати",
-    "alert-confirmation-organization-company-delete-with-members-text": "Ви впевнені, що хочете видалити команду зі всіма учасниками? Ця дія невідворотна.",
+    "alert-confirmation-organization-company-delete-with-members-text": "Ви впевнені, що хочете видалити компанію зі всіма учасниками? Ця дія невідворотна.",
     "alert-confirmation-organization-company-delete-with-members-yes": "Видалити"
   }
 }

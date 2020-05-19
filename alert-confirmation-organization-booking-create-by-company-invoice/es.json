@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Cancelar",
     "alert-confirmation-organization-booking-create-by-company-invoice-title": "Cargo adicional incurrido",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "El gasto se añadirá a la factura del equipo. Al final del mes, el gerente de sucursal enviará la factura al administrador de su equipo para que la pague."
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "El gasto se añadirá a la factura del empresa. Al final del mes, el gerente de sucursal enviará la factura al administrador de su empresa para que la pague."
   }
 }

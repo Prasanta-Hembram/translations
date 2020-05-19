@@ -1,10 +1,10 @@
 {
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "예약하기",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "팀인보이스(유료)",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "회사인보이스(유료)",
     "suite-modal-organization-bookings-booking-create-balance-action-button-money": "외부 지불",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "개인 크레딧",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "팀 크레딧",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "회사 크레딧",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "예약 시간 전에 취소시 100% 환불.",
     "suite-modal-organization-bookings-booking-create-book": "예약하기",
     "suite-modal-organization-bookings-booking-create-book-by": "예약자",

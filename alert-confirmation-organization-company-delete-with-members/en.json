@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-company-delete-with-members-title": "Delete team",
+    "alert-confirmation-organization-company-delete-with-members-title": "Delete company",
     "alert-confirmation-organization-company-delete-with-members-no": "Cancel",
-    "alert-confirmation-organization-company-delete-with-members-text": "Are you sure you want to delete the team together with its members? This action is irreversible.",
+    "alert-confirmation-organization-company-delete-with-members-text": "Are you sure you want to delete the company together with its members? This action is irreversible.",
     "alert-confirmation-organization-company-delete-with-members-yes": "Delete"
   }
 }

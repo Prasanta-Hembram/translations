@@ -5,10 +5,10 @@
     "suite-page-organization-membership-company-settings-billing-address-title": "Unternehmensinformationen",
     "suite-page-organization-membership-company-settings-billing-address-desc": "Geben Sie Firmenname, Adresse und alle anderen rechtlichen Informationen an, die auf Rechnungen erscheinen sollen.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Informationen eingeben",
-    "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Berechtigung für Teamrechnungen",
-    "suite-page-organization-membership-company-settings-company-invoice": "Teamrechnung",
-    "suite-page-organization-membership-company-settings-company-invoice-description": "Wenn diese Option aktiviert ist, wird die Zahlungsmethode der Teamrechnung für das Team verfügbar.",
-    "suite-page-organization-membership-company-settings-not-found-error": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Berechtigung für Unternehmenrechnungen",
+    "suite-page-organization-membership-company-settings-company-invoice": "Unternehmenrechnung",
+    "suite-page-organization-membership-company-settings-company-invoice-description": "Wenn diese Option aktiviert ist, wird die Zahlungsmethode der Unternehmenrechnung für das Unternehmen verfügbar.",
+    "suite-page-organization-membership-company-settings-not-found-error": "Dieses Unternehmen existiert möglicherweise nicht oder wurde entfernt.",
     "suite-page-organization-membership-company-settings-update-failure": "Aktualisierung fehlgeschlagen"
   }
 }

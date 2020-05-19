@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-membership-company-profile-no-managers-in-company": "이 팀에 아직 팀매니저가 없습니다.",
-    "suite-page-organization-membership-company-profile-no-members-in-company": "이 팀에 아직 팀원이 없습니다.",
-    "suite-page-organization-membership-company-profile-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.",
-    "suite-page-organization-membership-company-profile-section-company-managers": "팀매니저",
-    "suite-page-organization-membership-company-profile-section-company-members": "팀원"
+    "suite-page-organization-membership-company-profile-no-managers-in-company": "이 회사에 아직 회사매니저가 없습니다.",
+    "suite-page-organization-membership-company-profile-no-members-in-company": "이 회사에 아직 회사원이 없습니다.",
+    "suite-page-organization-membership-company-profile-not-found-error": "회사이 존재하지 않거나 삭제되었을 수 있습니다.",
+    "suite-page-organization-membership-company-profile-section-company-managers": "회사매니저",
+    "suite-page-organization-membership-company-profile-section-company-members": "회사원"
   }
 }

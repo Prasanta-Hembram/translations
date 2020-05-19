@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-edit-title": "Редагувати резервацію",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Безкоштовно",
-    "suite-modal-organization-bookings-booking-edit-action-button-invoice-company": "Інвойс команди ({price})",
+    "suite-modal-organization-bookings-booking-edit-action-button-invoice-company": "Інвойс компанії ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Карткою ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Зовнішній платіж ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",

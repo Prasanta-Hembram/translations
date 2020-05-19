@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-create-no": "Отменить",
     "alert-confirmation-organization-community-company-create-yes": "Добавить",
-    "alert-confirmation-organization-community-company-create-message": "Введите название новой команды",
-    "alert-confirmation-organization-community-company-create-title": "Новая команда"
+    "alert-confirmation-organization-community-company-create-message": "Введите название новой компании",
+    "alert-confirmation-organization-community-company-create-title": "Новая компания"
   }
 }

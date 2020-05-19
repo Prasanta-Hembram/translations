@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-membership-company-profile-no-managers-in-company": "У цієї команди ще немає менеджерів.",
-    "suite-page-organization-membership-company-profile-no-members-in-company": "У цієї команди ще немає учасників.",
-    "suite-page-organization-membership-company-profile-section-company-managers": "Менеджери команди",
-    "suite-page-organization-membership-company-profile-section-company-members": "Учасники команди"
+    "suite-page-organization-membership-company-profile-no-managers-in-company": "У цієї компанії ще немає менеджерів.",
+    "suite-page-organization-membership-company-profile-no-members-in-company": "У цієї компанії ще немає учасників.",
+    "suite-page-organization-membership-company-profile-section-company-managers": "Менеджери компанії",
+    "suite-page-organization-membership-company-profile-section-company-members": "Учасники компанії"
   }
 }

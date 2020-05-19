@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-company-delete-with-members-title": "Team löschen",
+    "alert-confirmation-organization-company-delete-with-members-title": "Unternehmen löschen",
     "alert-confirmation-organization-company-delete-with-members-no": "Abbrechen",
-    "alert-confirmation-organization-company-delete-with-members-text": "Sind Sie sicher, dass Sie das Team zusammen mit seinen Mitgliedern löschen wollen? Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-company-delete-with-members-text": "Sind Sie sicher, dass Sie das Unternehmen zusammen mit seinen Mitgliedern löschen wollen? Diese Aktion ist unwiderruflich.",
     "alert-confirmation-organization-company-delete-with-members-yes": "Löschen"
   }
 }

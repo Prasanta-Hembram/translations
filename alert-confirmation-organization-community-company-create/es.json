@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-create-no": "Cancelar",
     "alert-confirmation-organization-community-company-create-yes": "Crear",
-    "alert-confirmation-organization-community-company-create-message": "Ingrese un nombre para el nuevo equipo",
-    "alert-confirmation-organization-community-company-create-title": "Nuevo equipo"
+    "alert-confirmation-organization-community-company-create-message": "Ingrese un nombre para el nuevo empresa",
+    "alert-confirmation-organization-community-company-create-title": "Nuevo empresa"
   }
 }

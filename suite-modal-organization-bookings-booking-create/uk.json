@@ -1,10 +1,10 @@
 {
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "Нова резервація",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "Інвойс команди",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "Інвойс компанії",
     "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Зовнішній платіж",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Кредити особисті",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Кредити команди",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Кредити компанії",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "У випадку відміни резервації до її початку 100% коштів буде повернено на рахунок.",
     "suite-modal-organization-bookings-booking-create-book": "Зарезервувати",
     "suite-modal-organization-bookings-booking-create-book-by": "Власник",

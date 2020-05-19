@@ -3,7 +3,7 @@
     "suite-page-organization-membership-company-credits-title": "Кредити",
     "suite-page-organization-membership-company-credits-description": "Використовуйте {pointEmoji} щоб резервувати кімнати. Щоб отримати більше {pointEmoji}, зверніться до менеджера відділення.",
     "suite-page-organization-membership-company-credits-error-credit-system-off": "Робочий простір не використовує кредитну систему.",
-    "suite-page-organization-membership-company-credits-error-no-company": "Ця команда не існує або ж була видалена.",
+    "suite-page-organization-membership-company-credits-error-no-company": "Ця компанія не існує або ж була видалена.",
     "suite-page-organization-membership-company-credits-expire": "{pointsExpiring} стікають {date}.",
     "suite-page-organization-membership-company-credits-plan-title": "План кредитів",
     "suite-page-organization-membership-company-credits-policy-details": "Політика повернення"

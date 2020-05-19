@@ -13,7 +13,7 @@
     "booking-ends-in-five-minutes-notification-body": "Tu reserva termina en 5 minutos. Por favor, mantenga la sala limpia.",
     "booking-start-notification-body": "Tu reserva comienza en 5 minutos. Ver detalles.",
     "booking-start-notification-with-auto-release-notice-body": "Tu reservación comienza en 5 minutos. La reserva se cancelará automáticamente si nadie se registra a través de la pantalla de la puerta.",
-    "bulk-invite-failure-company-id-not-found": "ID de equipo en la fila {row} no se encuentra.",
+    "bulk-invite-failure-company-id-not-found": "ID de empresa en la fila {row} no se encuentra.",
     "bulk-invite-failure-email-duplicated": "Email for Invite at row {row} is duplicated.",
     "bulk-invite-failure-email-empty": "Email para la invitación en la fila {row} está vacío.",
     "bulk-invite-failure-email-not-valid": "Email para la invitación en la fila {row} no es válido.",

@@ -3,7 +3,7 @@
     "suite-page-organization-community-company-credits-title": "Credits",
     "suite-page-organization-community-company-credits-button-charge-title": "Charge",
     "suite-page-organization-community-company-credits-button-give-title": "Give",
-    "suite-page-organization-community-company-credits-error-company-not-found": "This team may not exists or may have been removed.",
+    "suite-page-organization-community-company-credits-error-company-not-found": "This company may not exists or may have been removed.",
     "suite-page-organization-community-company-credits-error-credits-invalid": "Type a valid credit amount.",
     "suite-page-organization-community-company-credits-error-credit-system-off": "The credit system is disabled.",
     "suite-page-organization-community-company-credits-expire": "{pointsExpiring} expire on {date}.",

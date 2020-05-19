@@ -2,9 +2,9 @@
   "data": {
     "suite-page-organization-settings-membership-title": "Mitgliedschaft",
     "suite-page-organization-settings-membership-company-information-permission-admin": "Nur Standort Manager",
-    "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Standort Managers und Team Managers",
-    "suite-page-organization-settings-membership-company-information-permission-desc": "Jedes Team im Community hat ein Feld für Geschäftsinformationen, in dem der rechtliche Name, die Adresse und die Handelsregisternummer angegeben werden. Sie erscheint auf Rechnungen.",
-    "suite-page-organization-settings-membership-company-information-permission-label": "Teaminfo bearbeiten",
+    "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Standort Managers und Unternehmen Managers",
+    "suite-page-organization-settings-membership-company-information-permission-desc": "Jedes Unternehmen im Community hat ein Feld für Geschäftsinformationen, in dem der rechtliche Name, die Adresse und die Handelsregisternummer angegeben werden. Sie erscheint auf Rechnungen.",
+    "suite-page-organization-settings-membership-company-information-permission-label": "Unternehmeninfo bearbeiten",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Standort Manager",
     "suite-page-organization-settings-membership-permission-all-members": "Alle Mitglieder",
     "suite-page-organization-settings-membership-permission-label": "Sichtbarkeit"

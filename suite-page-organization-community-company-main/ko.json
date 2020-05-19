@@ -1,19 +1,19 @@
 {
   "data": {
-    "suite-page-organization-community-company-main-action-delete": "팀 삭제",
-    "suite-page-organization-community-company-main-action-delete-with-members": "팀원과 함께 삭제",
+    "suite-page-organization-community-company-main-action-delete": "회사 삭제",
+    "suite-page-organization-community-company-main-action-delete-with-members": "회사원과 함께 삭제",
     "suite-page-organization-community-company-main-button-balance-history": "결제 내역",
     "suite-page-organization-community-company-main-button-credits": "크레딧",
     "suite-page-organization-community-company-main-button-invoices": "청구 내역",
     "suite-page-organization-community-company-main-button-settings": "설정",
     "suite-page-organization-community-company-main-button-select": "선택",
-    "suite-page-organization-community-company-main-delete-failure": "팀 삭제 불가.",
+    "suite-page-organization-community-company-main-delete-failure": "회사 삭제 불가.",
     "suite-page-organization-community-company-main-delete-repeat": "다시 시도",
-    "suite-page-organization-community-company-main-no-managers-in-company": "이 팀에 아직 팀매니저가 없습니다.",
-    "suite-page-organization-community-company-main-no-members-in-company": "이 팀에 아직 팀원이 없습니다.",
-    "suite-page-organization-community-company-main-not-found-error": "팀이 존재하지 않거나 삭제되었을 수 있습니다.",
-    "suite-page-organization-community-company-main-section-company-managers": "팀매니저",
-    "suite-page-organization-community-company-main-section-company-members": "팀원",
+    "suite-page-organization-community-company-main-no-managers-in-company": "이 회사에 아직 회사매니저가 없습니다.",
+    "suite-page-organization-community-company-main-no-members-in-company": "이 회사에 아직 회사원이 없습니다.",
+    "suite-page-organization-community-company-main-not-found-error": "회사이 존재하지 않거나 삭제되었을 수 있습니다.",
+    "suite-page-organization-community-company-main-section-company-managers": "회사매니저",
+    "suite-page-organization-community-company-main-section-company-members": "회사원",
     "suite-page-organization-community-company-main-section-membership-title": "멤버십"
   }
 }

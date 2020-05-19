@@ -4,13 +4,13 @@
     "suite-page-organization-community-company-settings-billing-address-title": "Información de negocio",
     "suite-page-organization-community-company-settings-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
     "suite-page-organization-community-company-settings-billing-address-placeholder": "Escribe una información",
-    "suite-page-organization-community-company-settings-book-by-invoice-permission": "Acceso a la factura del equipo.",
-    "suite-page-organization-community-company-settings-company-invoice": "Factura de equipo",
-    "suite-page-organization-community-company-settings-company-invoice-description": "Cuando está activado, el método de pago de las facturas de equipo está disponible para el equipo.",
-    "suite-page-organization-community-company-settings-error-title": "Añade el título del equipo.",
+    "suite-page-organization-community-company-settings-book-by-invoice-permission": "Acceso a la factura del empresa.",
+    "suite-page-organization-community-company-settings-company-invoice": "Factura de empresa",
+    "suite-page-organization-community-company-settings-company-invoice-description": "Cuando está activado, el método de pago de las facturas de empresa está disponible para el empresa.",
+    "suite-page-organization-community-company-settings-error-title": "Añade el título del empresa.",
     "suite-page-organization-community-company-settings-name": "Nombre",
     "suite-page-organization-community-company-settings-name-placeholder": "Ingresa tu nombre",
     "suite-page-organization-community-company-settings-not-found-error": "Este grupo puede no existir o puede haber sido eliminado.",
-    "suite-page-organization-community-company-settings-section-company-actions": "Acciones de equipo"
+    "suite-page-organization-community-company-settings-section-company-actions": "Acciones de empresa"
   }
 }

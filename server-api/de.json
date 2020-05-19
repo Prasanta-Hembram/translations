@@ -13,7 +13,7 @@
     "booking-ends-in-five-minutes-notification-body": "Ihre Buchung endet in 5 Minuten. Bitte achten Sie auf die Sauberkeit des Raumes.",
     "booking-start-notification-body": "Ihre Buchung beginnt in 5 Minuten. Tippen Sie hier für Details.",
     "booking-start-notification-with-auto-release-notice-body": "Ihre Buchung beginnt in 5 Minuten. Die Buchung wird automatisch storniert, wenn niemand über die Zimmeranzeige an der Tür eincheckt.",
-    "bulk-invite-failure-company-id-not-found": "Team ID in Zeile {row} ist nicht gültig.",
+    "bulk-invite-failure-company-id-not-found": "Unternehmen ID in Zeile {row} ist nicht gültig.",
     "bulk-invite-failure-email-duplicated": "Email für Einladungsmail in Zeile {row} wird dupliziert.",
     "bulk-invite-failure-email-empty": "Email für Einladungsmail in Zeile {row} ist leer.",
     "bulk-invite-failure-email-not-valid": "Email für Einladungsmail in Zeile {row} ist nicht gültig.",

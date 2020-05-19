@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-create-no": "Скасувати",
     "alert-confirmation-organization-community-company-create-yes": "Додати",
-    "alert-confirmation-organization-community-company-create-message": "Введіть назву нової команди",
-    "alert-confirmation-organization-community-company-create-title": "Нова команда"
+    "alert-confirmation-organization-community-company-create-message": "Введіть назву нової компанії",
+    "alert-confirmation-organization-community-company-create-title": "Нова компанія"
   }
 }

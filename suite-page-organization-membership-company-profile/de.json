@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-membership-company-profile-no-managers-in-company": "Dieses Team hat noch keine Teammanager.",
-    "suite-page-organization-membership-company-profile-no-members-in-company": "Dieses Team hat noch keine Mitglieder.",
-    "suite-page-organization-membership-company-profile-not-found-error": "Dieses Team existiert möglicherweise nicht oder wurde entfernt.",
-    "suite-page-organization-membership-company-profile-section-company-managers": "Teammanager",
-    "suite-page-organization-membership-company-profile-section-company-members": "Teammitglieder"
+    "suite-page-organization-membership-company-profile-no-managers-in-company": "Dieses Unternehmen hat noch keine Unternehmenmanager.",
+    "suite-page-organization-membership-company-profile-no-members-in-company": "Dieses Unternehmen hat noch keine Mitglieder.",
+    "suite-page-organization-membership-company-profile-not-found-error": "Dieses Unternehmen existiert möglicherweise nicht oder wurde entfernt.",
+    "suite-page-organization-membership-company-profile-section-company-managers": "Unternehmenmanager",
+    "suite-page-organization-membership-company-profile-section-company-members": "Unternehmenmitglieder"
   }
 }

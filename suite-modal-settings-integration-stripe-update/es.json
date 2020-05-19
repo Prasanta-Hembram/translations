@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-settings-integration-stripe-update-account-email": "Email",
     "suite-modal-settings-integration-stripe-update-account-name": "Nombre",
-    "suite-modal-settings-integration-stripe-update-company-invoice": "Factura de equipo",
+    "suite-modal-settings-integration-stripe-update-company-invoice": "Factura de empresa",
     "suite-modal-settings-integration-stripe-update-description": "Los miembros podrán pagar a través de Stripe por los servicios seleccionados.",
     "suite-modal-settings-integration-stripe-update-room-booking": "Reservas de salas",
     "suite-modal-settings-integration-stripe-update-section-payments": "Pagos",

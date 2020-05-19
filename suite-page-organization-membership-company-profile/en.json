@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-membership-company-profile-no-managers-in-company": "This team doesn't have team managers yet.",
-    "suite-page-organization-membership-company-profile-no-members-in-company": "This team doesn't have members yet.",
-    "suite-page-organization-membership-company-profile-not-found-error": "This team may not exist or may have been removed.",
-    "suite-page-organization-membership-company-profile-section-company-managers": "Team Managers",
-    "suite-page-organization-membership-company-profile-section-company-members": "Team Members"
+    "suite-page-organization-membership-company-profile-no-managers-in-company": "This company doesn't have company managers yet.",
+    "suite-page-organization-membership-company-profile-no-members-in-company": "This company doesn't have members yet.",
+    "suite-page-organization-membership-company-profile-not-found-error": "This company may not exist or may have been removed.",
+    "suite-page-organization-membership-company-profile-section-company-managers": "Company Managers",
+    "suite-page-organization-membership-company-profile-section-company-members": "Company Members"
   }
 }

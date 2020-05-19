@@ -2,9 +2,9 @@
   "data": {
     "suite-page-organization-settings-membership-title": "Участь",
     "suite-page-organization-settings-membership-company-information-permission-admin": "Менеджер відділення",
-    "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Менеджери відділення та менеджери команди",
-    "suite-page-organization-settings-membership-company-information-permission-desc": "У кожної команди спільноти є поле, в якому необхідно вказати офіційну назву, адресу та номер реєстрації. Ці дані будуть вказані в інвойсах.",
-    "suite-page-organization-settings-membership-company-information-permission-label": "Редагування інформації про команду",
+    "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Менеджери відділення та менеджери компанії",
+    "suite-page-organization-settings-membership-company-information-permission-desc": "У кожної компанії спільноти є поле, в якому необхідно вказати офіційну назву, адресу та номер реєстрації. Ці дані будуть вказані в інвойсах.",
+    "suite-page-organization-settings-membership-company-information-permission-label": "Редагування інформації про компанію",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Менеджери відділення",
     "suite-page-organization-settings-membership-permission-all-members": "Усі учасники",
     "suite-page-organization-settings-membership-permission-label": "Доступ"
