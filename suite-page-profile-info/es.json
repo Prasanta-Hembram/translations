@@ -8,6 +8,8 @@
     "suite-page-profile-info-section-about": "Acerca de ti",
     "suite-page-profile-info-section-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
     "suite-page-profile-info-user-email-visibility": "Visibilidad del correo electrónico",
-    "suite-page-profile-info-user-email-visibility-description": "Establece quién puede ver tu correo electrónico."
+    "suite-page-profile-info-user-email-visibility-description": "Establece quién puede ver tu correo electrónico.",
+    "suite-page-profile-info-user-phone-number-visibility": "Phone Number Visibility",
+    "suite-page-profile-info-user-phone-number-visibility-description": "Select who can see your phone number."
   }
 }
