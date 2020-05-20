@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoices-main-title": "Инвойсы",
-    "suite-page-organization-membership-company-invoices-main-no-invoices": "У компании нет инвойсов.",
-    "suite-page-organization-membership-company-invoices-main-get-failure": "Не удалось показать инвойсы компании. Проверьте интернет-соединение."
+    "suite-page-organization-membership-company-invoices-main-title": "Charge Card",
+    "suite-page-organization-membership-company-invoices-main-indicator-monthly-activity-title": "Monthly Activity",
+    "suite-page-organization-membership-company-invoices-main-indicator-previous-month-title": "Previous Month",
+    "suite-page-organization-membership-company-invoices-main-indicator-this-month-title": "This Month"
   }
 }
