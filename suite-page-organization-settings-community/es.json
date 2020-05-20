@@ -3,6 +3,7 @@
     "suite-page-organization-settings-community-title": "Comunidad",
     "suite-page-organization-settings-community-permission-admin-moderator": "Gerentes de sucursal",
     "suite-page-organization-settings-community-permission-all-members": "Todos los miembros",
+    "suite-page-organization-settings-community-permission-desc": "Selecciona quién puede ver la página de Comunidad.",
     "suite-page-organization-settings-community-permission-label": "Visibilidad"
   }
 }

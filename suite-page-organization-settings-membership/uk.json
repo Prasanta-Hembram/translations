@@ -7,6 +7,7 @@
     "suite-page-organization-settings-membership-company-information-permission-label": "Редагування інформації про компанію",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Менеджери відділення",
     "suite-page-organization-settings-membership-permission-all-members": "Усі учасники",
+    "suite-page-organization-settings-membership-permission-desc": "Оберіть, хто може переглядати сторінку „Участь“.",
     "suite-page-organization-settings-membership-permission-label": "Доступ"
   }
 }

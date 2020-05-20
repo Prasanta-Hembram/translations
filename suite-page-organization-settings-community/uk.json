@@ -3,6 +3,7 @@
     "suite-page-organization-settings-community-title": "Спільнота",
     "suite-page-organization-settings-community-permission-admin-moderator": "Менеджери відділення",
     "suite-page-organization-settings-community-permission-all-members": "Усі учасники",
+    "suite-page-organization-settings-community-permission-desc": "Оберіть, хто може переглядати сторінку „Спільнота“.",
     "suite-page-organization-settings-community-permission-label": "Доступ"
   }
 }
