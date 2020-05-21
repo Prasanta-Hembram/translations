@@ -3,6 +3,8 @@
     "utils-profile-email-visibility-admins": "Branch Managers",
     "utils-profile-email-visibility-all": "All Members",
     "utils-profile-name-default": "No name",
-    "utils-profile-name-unidentified": "Unidentified Member"
+    "utils-profile-name-unidentified": "Unidentified Member",
+    "utils-profile-phone-number-visibility-admins": "Branch Managers",
+    "utils-profile-phone-number-visibility-all": "All Members"
   }
 }
