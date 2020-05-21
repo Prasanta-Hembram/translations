@@ -9,7 +9,7 @@
     "suite-page-profile-info-section-about-placeholder": "자기소개를 입력하기",
     "suite-page-profile-info-user-email-visibility": "이메일 보기 권한",
     "suite-page-profile-info-user-email-visibility-description": "이메일 보기 권한을 설정하세요.",
-    "suite-page-profile-info-user-phone-number-visibility": "Phone Number Visibility",
-    "suite-page-profile-info-user-phone-number-visibility-description": "Select who can see your phone number."
+    "suite-page-profile-info-user-phone-number-visibility": "휴대전화 보기 권한",
+    "suite-page-profile-info-user-phone-number-visibility-description": "휴대전화 보기 권한을 설정하세요."
   }
 }
