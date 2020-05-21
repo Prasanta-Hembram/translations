@@ -3,6 +3,8 @@
     "utils-profile-email-visibility-admins": "Standort Manager",
     "utils-profile-email-visibility-all": "Alle Mitglieder",
     "utils-profile-name-default": "Kein Name",
-    "utils-profile-name-unidentified": "Nicht identifiziertes Mitglied"
+    "utils-profile-name-unidentified": "Nicht identifiziertes Mitglied",
+    "utils-profile-phone-number-visibility-admins": "Standort Manager",
+    "utils-profile-phone-number-visibility-all": "Alle Mitglieder"
   }
 }

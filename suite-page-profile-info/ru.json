@@ -7,7 +7,9 @@
     "suite-page-profile-info-photo-delete": "Удалить фото",
     "suite-page-profile-info-section-about": "О себе",
     "suite-page-profile-info-section-about-placeholder": "Рассказать о себе",
-    "suite-page-profile-info-user-email-visibility": "Видимость адреса email",
-    "suite-page-profile-info-user-email-visibility-description": "Настройте кто может видеть ваш адрес email."
+    "suite-page-profile-info-user-email-visibility": "Видимость email",
+    "suite-page-profile-info-user-email-visibility-description": "Настройте кто может видеть ваш адрес email.",
+    "suite-page-profile-info-user-phone-number-visibility": "Видимость телефона",
+    "suite-page-profile-info-user-phone-number-visibility-description": "Настройте кто может видеть ваш номер телефона."
   }
 }
