@@ -3,6 +3,7 @@
     "suite-page-organization-settings-community-title": "Сообщество",
     "suite-page-organization-settings-community-permission-admin-moderator": "Менеджеры отделения",
     "suite-page-organization-settings-community-permission-all-members": "Все участники",
+    "suite-page-organization-settings-community-permission-desc": "Выберите, кто может просматривать страницу «Сообщество».",
     "suite-page-organization-settings-community-permission-label": "Доступ"
   }
 }

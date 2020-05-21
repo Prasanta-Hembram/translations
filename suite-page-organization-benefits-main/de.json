@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-organization-benefits-main-title": "Vorteile",
+    "suite-page-organization-benefits-main-create-category": "Kategorie erstellen",
     "suite-page-organization-benefits-main-get-failure": "Konnte keine Vorteilskategorie zeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-benefits-main-no-benefit-categories": "Der Workspace hat keine Vorteilskategorie zum Anzeigen."
   }

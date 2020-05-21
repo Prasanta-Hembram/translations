@@ -3,6 +3,8 @@
     "utils-profile-email-visibility-admins": "Менеджери відділення",
     "utils-profile-email-visibility-all": "Усі учасники",
     "utils-profile-name-default": "Без імені",
-    "utils-profile-name-unidentified": "Невідомий учасник"
+    "utils-profile-name-unidentified": "Невідомий учасник",
+    "utils-profile-phone-number-visibility-admins": "Менеджери відділення",
+    "utils-profile-phone-number-visibility-all": "Усі учасники"
   }
 }

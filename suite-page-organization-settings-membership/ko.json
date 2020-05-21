@@ -7,6 +7,7 @@
     "suite-page-organization-settings-membership-company-information-permission-label": "팀 사업자정보 수정 권한",
     "suite-page-organization-settings-membership-permission-admin-moderator": "지점 관리자",
     "suite-page-organization-settings-membership-permission-all-members": "전체 회원",
+    "suite-page-organization-settings-membership-permission-desc": "멤버십 페이지를 보기 권한을 설정하세요.",
     "suite-page-organization-settings-membership-permission-label": "보기 권한"
   }
 }

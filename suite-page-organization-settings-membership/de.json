@@ -7,6 +7,7 @@
     "suite-page-organization-settings-membership-company-information-permission-label": "Teaminfo bearbeiten",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Standort Manager",
     "suite-page-organization-settings-membership-permission-all-members": "Alle Mitglieder",
+    "suite-page-organization-settings-membership-permission-desc": "Wählen Sie aus, wer die Mitgliedschaft-Seite sehen kann.",
     "suite-page-organization-settings-membership-permission-label": "Sichtbarkeit"
   }
 }
