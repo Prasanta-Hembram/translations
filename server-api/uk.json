@@ -74,7 +74,7 @@
     "user-invite-success-email-activation-note-benefits-and-services": "подавати заявки на переваги та сервіси",
     "user-invite-success-email-activation-note-bookings": "резервувати кімнати",
     "user-invite-success-email-activation-note-conjunction": "та",
-    "user-invite-success-email-activation-note-contact-support": "зв'язуватись зі службою підтримки",
+    "user-invite-success-email-activation-note-contact-support": "звертатись до служби підтримки",
     "user-invite-success-email-activation-note-default": "Привіт, {userFullName}!\n\nЦей застосунок робить наш робочий простір ще зручнішим. Тут можна {noteOptions}. Тепер ви самостійно контролюєте важливі робочі процеси.\n\nДля того щоб розпочати користуватися, увійдіть до облікового запису за допомоги вашої електронної пошти {userEmail}.",
     "user-invite-success-email-activation-note-services": "подавати заявки на сервіси",
     "user-invite-success-email-activation-note-stream": "комунікувати зі спільнотою",
