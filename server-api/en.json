@@ -77,7 +77,7 @@
     "user-invite-success-email-activation-note-contact-support": "contact support",
     "user-invite-success-email-activation-note-default": "Hey {userFullName},\n\nThis app makes our workspace even more comfortable. Here you can {noteOptions}. Now you have a full control of important workflows.\n\nTo get started, just sign in with your email {userEmail}.",
     "user-invite-success-email-activation-note-services": "apply for services",
-    "user-invite-success-email-activation-note-stream": "communicate with community",
+    "user-invite-success-email-activation-note-stream": "communicate with the community",
     "user-invite-success-email-activation-note-footer": "If you have any questions, feel free to contact the branch manager. Enjoy!",
     "user-invite-success-email-subject": "You are invited to join {organizationTitle} app",
     "user-invite-success-email-title": "Welcome to {organizationTitle}",
