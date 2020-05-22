@@ -1,8 +1,9 @@
 {
   "data": {
     "utils-gdpr-agree-to-privacy": "Я прочитав(ла) та погоджуюсь з {privacyPolicy}",
-    "utils-gdpr-link-andcards-privacy-policy": "політикою конфіденційності andcards",
-    "utils-gdpr-link-organization-privacy-policy": "політикою конфіденційності {branchName}",
+    "utils-gdpr-link-organization-privacy-policy-andcards": "політикою конфіденційності andcards",
+    "utils-gdpr-link-organization-privacy-policy-branch": "політикою конфіденційності {branchName}",
+    "utils-gdpr-link-organization-privacy-policy-default": "політикою конфіденційності",
     "utils-gdpr-link-terms-of-use": "умовами надання послуг andcards"
   }
 }

@@ -1,8 +1,9 @@
 {
   "data": {
     "utils-gdpr-agree-to-privacy": "He leído y estoy de acuerdo con la {privacyPolicy}",
-    "utils-gdpr-link-andcards-privacy-policy": "Política de privacidad de andcards",
-    "utils-gdpr-link-organization-privacy-policy": "Política de privacidad del {branchName}",
+    "utils-gdpr-link-organization-privacy-policy-andcards": "Política de privacidad de andcards",
+    "utils-gdpr-link-organization-privacy-policy-branch": "Política de privacidad del {branchName}",
+    "utils-gdpr-link-organization-privacy-policy-default": "Política de privacidad",
     "utils-gdpr-link-terms-of-use": "Términos de uso de andcards"
   }
 }

@@ -6,6 +6,7 @@
     "utils-transactions-money-transaction-book-default": "Booking",
     "utils-transactions-money-transaction-book-cancelled": "Cancelled Booking",
     "utils-transactions-money-transaction-payment-invoice-default": "{transactionDate} Invoice",
+    "utils-transactions-money-transaction-payment-invoice-no-date": "Invoice",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Bank Transfer",
     "utils-transactions-money-transaction-payment-type-card": "Card",
     "utils-transactions-money-transaction-payment-type-external": "External Payment",
