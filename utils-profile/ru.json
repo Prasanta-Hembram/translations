@@ -3,6 +3,8 @@
     "utils-profile-email-visibility-admins": "Менеджеры отделения",
     "utils-profile-email-visibility-all": "Все участники",
     "utils-profile-name-default": "Без имени",
-    "utils-profile-name-unidentified": "Неизвестный участник"
+    "utils-profile-name-unidentified": "Неизвестный участник",
+    "utils-profile-phone-number-visibility-admins": "Менеджеры отделения",
+    "utils-profile-phone-number-visibility-all": "Все участники"
   }
 }

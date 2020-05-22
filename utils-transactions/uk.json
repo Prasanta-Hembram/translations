@@ -6,6 +6,7 @@
     "utils-transactions-money-transaction-book-default": "Резервація кімнати",
     "utils-transactions-money-transaction-book-cancelled": "Скасування резервації",
     "utils-transactions-money-transaction-payment-invoice-default": "Інвойс за {transactionDate}",
+    "utils-transactions-money-transaction-payment-invoice-no-date": "Інвойс",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Банківський переказ",
     "utils-transactions-money-transaction-payment-type-card": "Картка",
     "utils-transactions-money-transaction-payment-type-external": "Зовнішній платіж",
