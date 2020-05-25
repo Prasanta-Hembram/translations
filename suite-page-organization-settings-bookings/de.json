@@ -21,6 +21,7 @@
     "suite-page-organization-settings-bookings-credits-label": "Credits",
     "suite-page-organization-settings-bookings-credits-desc": "Bonus-Credits werden für die Raumbuchung verwendet. Der Standort Manager kann den Mitgliedern freiwillig Credits geben.",
     "suite-page-organization-settings-bookings-credits-network-quote-desc": "Prozentsatz der Credits, die Mitglieder eines Standorts in anderen Standorten eines Netzwerks ausgeben können. Um es zu ändern, wenden Sie sich bitte an support@andcards.com.",
-    "suite-page-organization-settings-bookings-credits-network-quote-label": "Netzwerkzulage"
+    "suite-page-organization-settings-bookings-credits-network-quote-label": "Netzwerkzulage",
+    "suite-page-organization-settings-bookings-payment-methods": "Payment Methods"
   }
 }

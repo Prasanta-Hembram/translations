@@ -21,6 +21,7 @@
     "suite-page-organization-settings-bookings-credits-label": "Credits",
     "suite-page-organization-settings-bookings-credits-desc": "Bonus credits will be used for room booking. Branch Manager can freely give credits to members.",
     "suite-page-organization-settings-bookings-credits-network-quote-desc": "Percentage of credits that members of one branch can spend in other branches of a network. To change it contact support@andcards.com.",
-    "suite-page-organization-settings-bookings-credits-network-quote-label": "Network Allowance"
+    "suite-page-organization-settings-bookings-credits-network-quote-label": "Network Allowance",
+    "suite-page-organization-settings-bookings-payment-methods": "Payment Methods"
   }
 }

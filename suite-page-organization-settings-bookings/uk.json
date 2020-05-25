@@ -21,6 +21,7 @@
     "suite-page-organization-settings-bookings-credits-label": "Кредити",
     "suite-page-organization-settings-bookings-credits-desc": "Учасники можуть використовувати кредити для резервації кімнат. Кредити можна отримати автоматично з тарифним планом або вручну від менеджера відділення.",
     "suite-page-organization-settings-bookings-credits-network-quote-desc": "Кількість кредитів, яку учасники одного робочого простору можуть використовувати в мережі робочих просторів. Щоб змінити ліміт кредитів, зв'яжіться з support@andcards.com.",
-    "suite-page-organization-settings-bookings-credits-network-quote-label": "Використання в мережі"
+    "suite-page-organization-settings-bookings-credits-network-quote-label": "Використання в мережі",
+    "suite-page-organization-settings-bookings-payment-methods": "Payment Methods"
   }
 }

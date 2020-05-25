@@ -21,6 +21,7 @@
     "suite-page-organization-settings-bookings-credits-label": "Créditos",
     "suite-page-organization-settings-bookings-credits-desc": "Los miembros pueden usar créditos para reservar salas de reuniones. Los créditos se pueden recibir a través de la compra de un plan de membresía o se pueden agregar manualmente por el gerente de sucursal.",
     "suite-page-organization-settings-bookings-credits-network-quote-desc": "Porcentaje de créditos que los miembros de una sucursal pueden gastar en otras sucursales de una red. Póngase en contacto con support@andcards.com para cambiarlo.",
-    "suite-page-organization-settings-bookings-credits-network-quote-label": "Asignación de red"
+    "suite-page-organization-settings-bookings-credits-network-quote-label": "Asignación de red",
+    "suite-page-organization-settings-bookings-payment-methods": "Payment Methods"
   }
 }
