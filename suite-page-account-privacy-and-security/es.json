@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-privacy-and-security-title": "Privacy and Security",
+    "suite-page-account-privacy-and-security-email-label": "Email",
+    "suite-page-account-privacy-and-security-email-notice": "Conecte su correo electrónico para iniciar sesión en tu cuenta.",
+    "suite-page-account-privacy-and-security-email-value-not-connected": "No conectado",
+    "suite-page-account-privacy-and-security-sessions-button": "Cerrar sesión",
+    "suite-page-account-privacy-and-security-sessions-description": "Esto le permitirá salir de las sesiones en otros navegadores o en otros ordenadores.",
+    "suite-page-account-privacy-and-security-sessions-title": "Salir de todas las demás sesiones"
+  }
+}

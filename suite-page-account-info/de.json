@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-account-info-title": "Meine Daten",
+    "suite-page-account-info-error-email": "Geben Sie eine korrekte E-Mail ein.",
+    "suite-page-account-info-error-first-name": "Geben Sie einen Vornamen ein.",
+    "suite-page-account-info-log-out": "Abmelden",
+    "suite-page-account-info-photo-delete": "Foto löschen",
+    "suite-page-account-info-section-about": "Info",
+    "suite-page-account-info-section-about-placeholder": "Hier ist Platz für ihre Vita.",
+    "suite-page-account-info-user-email-visibility": "E-Mail-Sichtbarkeit",
+    "suite-page-account-info-user-email-visibility-description": "Wählen Sie aus, wer Ihre E-Mail-Adresse sehen kann.",
+    "suite-page-account-info-user-phone-number-visibility": "Rufnummer-Sichtbarkeit",
+    "suite-page-account-info-user-phone-number-visibility-description": "Wählen Sie aus, wer Ihre Rufnummer sehen kann."
+  }
+}

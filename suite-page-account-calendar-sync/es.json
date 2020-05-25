@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-account-calendar-sync-title": "Sincronización de calendario",
+    "suite-page-account-calendar-sync-description": "Usa este enlace para ver todas las reservas realizadas en andcards en su calendario personal. Aquí hay instrucciones para aplicaciones de calendario comunes:",
+    "suite-page-account-calendar-sync-generate-new-url-button": "Generar un nuevo enlace",
+    "suite-page-account-calendar-sync-google-calendar-sync-note": "Tus reservas pueden tardar hasta 12 horas en aparece en Google Calendario.",
+    "suite-page-account-calendar-sync-link-title": "Enlace",
+    "suite-page-account-calendar-sync-service-apple-calendar": "Apple Calendario",
+    "suite-page-account-calendar-sync-service-google-calendar": "Google Calendario",
+    "suite-page-account-calendar-sync-service-outlook": "Outlook Calendario",
+    "suite-page-account-calendar-sync-url-security-warning": "¡Importante! Mantenga este enlace privado. Cualquier persona con este enlace puede ver tu feed."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-account-info-title": "개인 정보",
+    "suite-page-account-info-error-email": "이메일을 입력하세요.",
+    "suite-page-account-info-error-first-name": "이름을 입력하세요.",
+    "suite-page-account-info-log-out": "로그아웃",
+    "suite-page-account-info-photo-delete": "사진 삭제",
+    "suite-page-account-info-section-about": "자기소개",
+    "suite-page-account-info-section-about-placeholder": "자기소개를 입력하기",
+    "suite-page-account-info-user-email-visibility": "이메일 보기 권한",
+    "suite-page-account-info-user-email-visibility-description": "이메일 보기 권한을 설정하세요.",
+    "suite-page-account-info-user-phone-number-visibility": "휴대전화 보기 권한",
+    "suite-page-account-info-user-phone-number-visibility-description": "휴대전화 보기 권한을 설정하세요."
+  }
+}

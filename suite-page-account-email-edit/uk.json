@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-email-edit-code-invalid": "Уведіть код підтвердження з повідомлення електронної пошти.",
+    "suite-page-account-email-edit-code-label": "Код підтвердження",
+    "suite-page-account-email-edit-code-type-here": "Увести код",
+    "suite-page-account-email-edit-email-continue": "Продовжити",
+    "suite-page-account-email-edit-email-invalid": "Email уведено невірно або вже долучено до іншого облікового запису.",
+    "suite-page-account-email-edit-email-title": "Email",
+    "suite-page-account-email-edit-email-type-here": "Увести email"
+  }
+}

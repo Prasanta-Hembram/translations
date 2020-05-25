@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-account-main-title": "Perfil",
+    "suite-page-account-main-account": "Cuenta",
+    "suite-page-account-main-calendar-sync": "Sincronización de calendario",
+    "suite-page-account-main-interface": "Idioma",
+    "suite-page-account-main-licenses-title": "Licencias",
+    "suite-page-account-main-my-info": "Mi info",
+    "suite-page-account-main-privacy-and-security-title": "Privacidad y seguridad",
+    "suite-page-account-main-privacy-policy-title": "Políticas de Privacidad",
+    "suite-page-account-main-support": "Asistencia",
+    "suite-page-account-main-terms-title": "Normas y Términos de Uso",
+    "suite-page-account-main-version": "Versión"
+  }
+}

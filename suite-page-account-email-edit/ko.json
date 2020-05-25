@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-email-edit-code-invalid": "이메일로 받으신 인증번호를 입력해주세요.",
+    "suite-page-account-email-edit-code-label": "인증번호",
+    "suite-page-account-email-edit-code-type-here": "인증번호를 입력하기",
+    "suite-page-account-email-edit-email-continue": "계속하기",
+    "suite-page-account-email-edit-email-invalid": "이메일이 올바르지 않거나 다른 계정이 로그인 되어있습니다.",
+    "suite-page-account-email-edit-email-title": "이메일",
+    "suite-page-account-email-edit-email-type-here": "이메일을 입력하기"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "suite-page-account-info-title": "Личные данные",
+    "suite-page-account-info-error-email": "Введите правильный email.",
+    "suite-page-account-info-error-first-name": "Введите имя.",
+    "suite-page-account-info-log-out": "Выйти из системы",
+    "suite-page-account-info-photo-delete": "Удалить фото",
+    "suite-page-account-info-section-about": "О себе",
+    "suite-page-account-info-section-about-placeholder": "Рассказать о себе",
+    "suite-page-account-info-user-email-visibility": "Видимость email",
+    "suite-page-account-info-user-email-visibility-description": "Настройте кто может видеть ваш адрес email.",
+    "suite-page-account-info-user-phone-number-visibility": "Видимость телефона",
+    "suite-page-account-info-user-phone-number-visibility-description": "Настройте кто может видеть ваш номер телефона."
+  }
+}

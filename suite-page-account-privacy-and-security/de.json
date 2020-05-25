@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-privacy-and-security-title": "Privacy and Security",
+    "suite-page-account-privacy-and-security-email-label": "E-Mail",
+    "suite-page-account-privacy-and-security-email-notice": "Verbinden Sie Ihre E-Mail, um sich in Ihr Konto einzuloggen.",
+    "suite-page-account-privacy-and-security-email-value-not-connected": "Nicht verbunden",
+    "suite-page-account-privacy-and-security-sessions-button": "Ausloggen",
+    "suite-page-account-privacy-and-security-sessions-description": "Dadurch werden Sie von Sitzungen in anderen Browsern oder auf anderen Computern abgemeldet.",
+    "suite-page-account-privacy-and-security-sessions-title": "Abmeldung von allen anderen Sitzungen"
+  }
+}

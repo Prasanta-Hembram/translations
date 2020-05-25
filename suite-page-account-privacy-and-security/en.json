@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-privacy-and-security-title": "Privacy and Security",
+    "suite-page-account-privacy-and-security-email-label": "Email",
+    "suite-page-account-privacy-and-security-email-notice": "Connect your email to login to your account.",
+    "suite-page-account-privacy-and-security-email-value-not-connected": "Not connected",
+    "suite-page-account-privacy-and-security-sessions-button": "Sign out",
+    "suite-page-account-privacy-and-security-sessions-description": "This will sign you out of sessions in other browsers or on other computers.",
+    "suite-page-account-privacy-and-security-sessions-title": "Sign out of all other sessions"
+  }
+}
