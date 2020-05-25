@@ -1,0 +1,7 @@
+{
+  "data": {
+    "suite-page-organization-membership-company-invoices-history-title": "Facturas",
+    "suite-page-organization-membership-company-invoices-history-no-invoices": "El empresa no tiene facturas.",
+    "suite-page-organization-membership-company-invoices-history-get-failure": "No se pudieron mostrar las facturas del empresa. ¿Seguro que hay conexión a internet?"
+  }
+}
