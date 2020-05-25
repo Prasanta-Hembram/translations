@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Cancel",
     "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Finalize",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Are you sure you want to finalize invoice? This action is irreversible.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Finalize Invoice"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Are you sure you want to finalize statement? This action is irreversible.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Finalize Statement"
   }
 }

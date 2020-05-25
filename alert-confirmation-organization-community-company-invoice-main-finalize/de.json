@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Abbrechen",
     "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Abschließen",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Sind Sie sicher, dass Sie die Rechnung abschließen möchten? Diese Aktion ist unwiderruflich.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Rechnung abschließen"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Are you sure you want to finalize statement? Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Finalize Statement"
   }
 }

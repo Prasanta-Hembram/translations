@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoices-title": "청구 내역",
+    "suite-page-organization-community-company-invoices-title": "Statements",
     "suite-page-organization-community-company-invoices-no-invoices": "회사인보이스 결제 수단을 '설정'/'예약'에서 켜세요.",
-    "suite-page-organization-community-company-invoices-get-failure": "청구 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요."
+    "suite-page-organization-community-company-invoices-get-failure": "Couldn't show company statements. 인터넷 연결을 확인해 주세요."
   }
 }

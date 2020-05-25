@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoices-title": "Инвойсы",
+    "suite-page-organization-community-company-invoices-title": "Statements",
     "suite-page-organization-community-company-invoices-no-invoices": "Включите инвойсы в Настройки/Бронирования.",
-    "suite-page-organization-community-company-invoices-get-failure": "Не удалось показать инвойсы компании. Проверьте интернет-соединение."
+    "suite-page-organization-community-company-invoices-get-failure": "Couldn't show company statements. Проверьте интернет-соединение."
   }
 }

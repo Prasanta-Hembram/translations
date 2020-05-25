@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoice-main-title": "Factura",
+    "suite-page-organization-community-company-invoice-main-title": "Statement",
     "suite-page-organization-community-company-invoice-main-excluded-items": "Objetos excluidos",
     "suite-page-organization-community-company-invoice-main-finalize": "Finalizar",
     "suite-page-organization-community-company-invoice-main-money-transaction-payment-type": "Método de pago",
     "suite-page-organization-community-company-invoice-main-money-transaction-status": "Estado",
     "suite-page-organization-community-company-invoice-main-no-transactions": "No hay posiciones.",
-    "suite-page-organization-community-company-invoice-main-not-found": "Falta la factura o se ha eliminado."
+    "suite-page-organization-community-company-invoice-main-not-found": "The statement is missing or has been deleted."
   }
 }

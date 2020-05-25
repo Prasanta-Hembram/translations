@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoice-main-title": "Rechnung",
+    "suite-page-organization-community-company-invoice-main-title": "Statement",
     "suite-page-organization-community-company-invoice-main-excluded-items": "Ausgeschlossene Positionen",
     "suite-page-organization-community-company-invoice-main-finalize": "Finalisieren",
     "suite-page-organization-community-company-invoice-main-money-transaction-payment-type": "Zahlungsmethode",
     "suite-page-organization-community-company-invoice-main-money-transaction-status": "Status",
     "suite-page-organization-community-company-invoice-main-no-transactions": "Es gibt keine Artikel.",
-    "suite-page-organization-community-company-invoice-main-not-found": "Die Rechnung fehlt oder wurde gelöscht."
+    "suite-page-organization-community-company-invoice-main-not-found": "Die Statement fehlt oder wurde gelöscht."
   }
 }

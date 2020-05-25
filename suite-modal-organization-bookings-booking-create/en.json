@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "New booking",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-invoice-company": "Company Invoice",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-charge-card": "Charge Card",
     "suite-modal-organization-bookings-booking-create-balance-action-button-money": "External Payment",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Personal Credits",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Company Credits",

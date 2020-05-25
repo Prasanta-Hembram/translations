@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoices-title": "Інвойси",
+    "suite-page-organization-community-company-invoices-title": "Statements",
     "suite-page-organization-community-company-invoices-no-invoices": "Увімкніть інвойси в Налаштування/Резервації.",
-    "suite-page-organization-community-company-invoices-get-failure": "Не вдалося показати інвойси компанії. Перевірте інтернет-з'єднання."
+    "suite-page-organization-community-company-invoices-get-failure": "Couldn't show company statements. Перевірте інтернет-з'єднання."
   }
 }

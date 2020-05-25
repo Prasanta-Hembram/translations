@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoice-main-title": "인보이스",
+    "suite-page-organization-community-company-invoice-main-title": "Statement",
     "suite-page-organization-community-company-invoice-main-excluded-items": "미포함 항목",
     "suite-page-organization-community-company-invoice-main-finalize": "확정하기",
     "suite-page-organization-community-company-invoice-main-money-transaction-payment-type": "결제 수단",
     "suite-page-organization-community-company-invoice-main-money-transaction-status": "결제 사항",
     "suite-page-organization-community-company-invoice-main-no-transactions": "항목이 없습니다.",
-    "suite-page-organization-community-company-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다."
+    "suite-page-organization-community-company-invoice-main-not-found": "The statement is missing or has been deleted."
   }
 }

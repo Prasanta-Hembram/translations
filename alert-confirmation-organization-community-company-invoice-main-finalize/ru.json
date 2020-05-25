@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Отменить",
     "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Завершить",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Вы уверены, что хотите завершить инвойс? Это действие необратимо.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Завершить инвойс"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Are you sure you want to finalize statement? Это действие необратимо.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Завершить statement"
   }
 }
