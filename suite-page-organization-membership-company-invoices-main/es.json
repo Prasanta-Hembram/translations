@@ -1,7 +1,8 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoices-main-title": "Facturas",
-    "suite-page-organization-membership-company-invoices-main-no-invoices": "El empresa no tiene facturas.",
-    "suite-page-organization-membership-company-invoices-main-get-failure": "No se pudieron mostrar las facturas del empresa. ¿Seguro que hay conexión a internet?"
+    "suite-page-organization-membership-company-invoices-main-title": "Charge Card",
+    "suite-page-organization-membership-company-invoices-main-indicator-monthly-activity-title": "Monthly Activity",
+    "suite-page-organization-membership-company-invoices-main-indicator-previous-month-title": "Previous Month",
+    "suite-page-organization-membership-company-invoices-main-indicator-this-month-title": "This Month"
   }
 }
