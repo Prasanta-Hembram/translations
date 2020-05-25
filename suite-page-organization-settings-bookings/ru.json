@@ -16,13 +16,11 @@
     "suite-page-organization-settings-bookings-booking-purpose-required": "Название бронирования обязательно",
     "suite-page-organization-settings-bookings-booking-purpose-required-desc": "Если эта опция включена, то участники обязательно должны указать название бронирования.",
     "suite-page-organization-settings-bookings-booking-until": "Конец",
-    "suite-page-organization-settings-bookings-credit-system": "Кредиты",
-    "suite-page-organization-settings-bookings-invoicing-company-enabled": "Инвойс компании",
-    "suite-page-organization-settings-bookings-invoicing-company-enabled-desc": "Участники компаний могут резервировать комнаты и оплачивать позже к мощью инвойса.",
-    "suite-page-organization-settings-bookings-invoicing-title": "Инвойсинг",
-    "suite-page-organization-settings-bookings-point-desc": "Участники могут использовать кредиты для бронирования переговорных. Кредиты могут быть получены путем покупки тарифного плана или добавлены вручную менеджером отделения.",
-    "suite-page-organization-settings-bookings-point-label": "Кредитная система",
-    "suite-page-organization-settings-bookings-point-network-quote-desc": "Количество кредитов, которое участники одного рабочего пространства могут использовать в сети рабочих пространств. Чтобы изменить лимит, свяжитесь с support@andcards.com.",
-    "suite-page-organization-settings-bookings-point-network-quote-label": "Использование в сети"
+    "suite-page-organization-settings-bookings-charge-card": "Charge Card",
+    "suite-page-organization-settings-bookings-charge-card-desc": "Company members will be able to book meeting rooms and pay later.",
+    "suite-page-organization-settings-bookings-credits-label": "Кредиты",
+    "suite-page-organization-settings-bookings-credits-desc": "Участники могут использовать кредиты для бронирования переговорных. Кредиты могут быть получены путем покупки тарифного плана или добавлены вручную менеджером отделения.",
+    "suite-page-organization-settings-bookings-credits-network-quote-desc": "Количество кредитов, которое участники одного рабочего пространства могут использовать в сети рабочих пространств. Чтобы изменить лимит, свяжитесь с support@andcards.com.",
+    "suite-page-organization-settings-bookings-credits-network-quote-label": "Использование в сети"
   }
 }
