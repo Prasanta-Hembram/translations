@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-page-account-main-title": "Profile",
-    "suite-page-account-main-account": "Account",
+    "suite-page-account-main-title": "Account",
     "suite-page-account-main-calendar-sync": "Calendar Sync",
     "suite-page-account-main-interface": "Language",
     "suite-page-account-main-licenses-title": "Licenses",
     "suite-page-account-main-my-info": "My Info",
     "suite-page-account-main-privacy-and-security-title": "Privacy and Security",
     "suite-page-account-main-privacy-policy-title": "Privacy Policy",
+    "suite-page-account-main-profile": "Profile",
     "suite-page-account-main-support": "Support",
     "suite-page-account-main-terms-title": "Terms of Use",
     "suite-page-account-main-version": "Version"

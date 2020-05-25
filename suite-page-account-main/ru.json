@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-page-account-main-title": "Профиль",
-    "suite-page-account-main-account": "Учетная запись",
+    "suite-page-account-main-title": "Учетная запись",
     "suite-page-account-main-calendar-sync": "Синхронизация с календарем",
     "suite-page-account-main-interface": "Язык",
     "suite-page-account-main-licenses-title": "Лицензии",
     "suite-page-account-main-my-info": "Личные данные",
     "suite-page-account-main-privacy-and-security-title": "Конфиденциальность и безопасность",
     "suite-page-account-main-privacy-policy-title": "Политика конфиденциальности",
+    "suite-page-account-main-profile": "Профиль",
     "suite-page-account-main-support": "Поддержка",
     "suite-page-account-main-terms-title": "Условия использования",
     "suite-page-account-main-version": "Версия"

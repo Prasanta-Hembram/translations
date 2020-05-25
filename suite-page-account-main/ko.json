@@ -1,13 +1,13 @@
 {
   "data": {
-    "suite-page-account-main-title": "프로필",
-    "suite-page-account-main-account": "계정",
+    "suite-page-account-main-title": "계정",
     "suite-page-account-main-calendar-sync": "캘린더 동기화",
     "suite-page-account-main-interface": "언어",
     "suite-page-account-main-licenses-title": "라이센스",
     "suite-page-account-main-my-info": "개인 정보",
     "suite-page-account-main-privacy-and-security-title": "개인정보보호 및 보안",
     "suite-page-account-main-privacy-policy-title": "개인정보 보호정책",
+    "suite-page-account-main-profile": "프로필",
     "suite-page-account-main-support": "지원",
     "suite-page-account-main-terms-title": "이용약관",
     "suite-page-account-main-version": "앱 버전"
