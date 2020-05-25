@@ -1,8 +1,9 @@
 {
   "data": {
     "utils-gdpr-agree-to-privacy": "{privacyPolicy}을 읽고 동의합니다 (필수)",
-    "utils-gdpr-link-andcards-privacy-policy": "andcards 개인정보 보호정책",
-    "utils-gdpr-link-organization-privacy-policy": "{branchName} 개인정보 보호정책",
+    "utils-gdpr-link-organization-privacy-policy-andcards": "andcards 개인정보 보호정책",
+    "utils-gdpr-link-organization-privacy-policy-branch": "{branchName} 개인정보 보호정책",
+    "utils-gdpr-link-organization-privacy-policy-default": "개인정보 보호정책",
     "utils-gdpr-link-terms-of-use": "andcards 이용약관"
   }
 }

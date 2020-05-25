@@ -6,6 +6,7 @@
     "utils-transactions-money-transaction-book-default": "Gebuchter Raum",
     "utils-transactions-money-transaction-book-cancelled": "Stornierte Raumbuchung",
     "utils-transactions-money-transaction-payment-invoice-default": "{transactionDate} Rechnung",
+    "utils-transactions-money-transaction-payment-invoice-no-date": "Rechnung",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Banküberweisung",
     "utils-transactions-money-transaction-payment-type-card": "Karte",
     "utils-transactions-money-transaction-payment-type-external": "Externe Zahlung",

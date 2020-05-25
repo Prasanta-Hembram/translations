@@ -3,6 +3,7 @@
     "suite-page-organization-settings-community-title": "Community",
     "suite-page-organization-settings-community-permission-admin-moderator": "Standort Managers",
     "suite-page-organization-settings-community-permission-all-members": "Alle Mitglieder",
+    "suite-page-organization-settings-community-permission-desc": "Wählen Sie aus, wer die Community-Seite sehen kann.",
     "suite-page-organization-settings-community-permission-label": "Sichtbarkeit"
   }
 }

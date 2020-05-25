@@ -6,6 +6,7 @@
     "utils-transactions-money-transaction-book-default": "Reserva",
     "utils-transactions-money-transaction-book-cancelled": "Reserva cancelada",
     "utils-transactions-money-transaction-payment-invoice-default": "Factura de {transactionDate}",
+    "utils-transactions-money-transaction-payment-invoice-no-date": "Factura",
     "utils-transactions-money-transaction-payment-type-bank-transfer": "Transferencia",
     "utils-transactions-money-transaction-payment-type-card": "Tarjeta",
     "utils-transactions-money-transaction-payment-type-external": "Pago externo",

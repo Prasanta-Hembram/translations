@@ -7,6 +7,7 @@
     "suite-page-organization-settings-membership-company-information-permission-label": "Editar info del empresa",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Gerentes de sucursal",
     "suite-page-organization-settings-membership-permission-all-members": "Todos los miembros",
+    "suite-page-organization-settings-membership-permission-desc": "Selecciona quién puede ver la página de Membresía.",
     "suite-page-organization-settings-membership-permission-label": "Visibilidad"
   }
 }
