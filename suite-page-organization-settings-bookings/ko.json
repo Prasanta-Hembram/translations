@@ -16,9 +16,9 @@
     "suite-page-organization-settings-bookings-booking-purpose-required": "예약 목적이 필요함",
     "suite-page-organization-settings-bookings-booking-purpose-required-desc": "회원이 예약할 때 제목을 입력해야하는지 선택하세요.",
     "suite-page-organization-settings-bookings-booking-until": "종료시간",
-    "suite-page-organization-settings-bookings-charge-card": "Charge Card",
-    "suite-page-organization-settings-bookings-charge-card-desc": "Company members will be able to book meeting rooms and pay later.",
-    "suite-page-organization-settings-bookings-credits-label": "크레딧 시스템",
+    "suite-page-organization-settings-bookings-charge-card": "후불카드",
+    "suite-page-organization-settings-bookings-charge-card-desc": "회사원들은 회의실을 예약하고 나중에 지불할 수 있습니다.",
+    "suite-page-organization-settings-bookings-credits-label": "크레딧",
     "suite-page-organization-settings-bookings-credits-desc": "회원은 크레딧을 사용하여 회의실을 예약 할 수 있습니다. 크레딧은 멤버십 플랜 구매를 통해 받거나 지점 관리자가 수동으로 추가 할 수 있습니다.",
     "suite-page-organization-settings-bookings-credits-network-quote-desc": "회원이 타지점의 회의실물을 예약할 때 사용할 수 있는 크레딧의 비율을 선택해 주세요. 비율을 바꾸려면 support@andcards.com으로 문의하십시오.",
     "suite-page-organization-settings-bookings-credits-network-quote-label": "외부 크레딧 비율"
