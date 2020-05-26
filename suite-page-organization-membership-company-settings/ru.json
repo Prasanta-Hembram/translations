@@ -3,11 +3,11 @@
     "suite-page-organization-membership-company-settings-title": "Настройки",
     "suite-page-organization-membership-company-settings-balance-history-permission": "История транзакций",
     "suite-page-organization-membership-company-settings-billing-address-title": "Информация о компании",
-    "suite-page-organization-membership-company-settings-billing-address-desc": "Укажите название компании, адрес и любую другую юридическую информацию, указанную в инвойсах.",
+    "suite-page-organization-membership-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on statements.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Введите информацию",
-    "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Бронирование по инвойсу",
-    "suite-page-organization-membership-company-settings-company-invoice": "Инвойс компании",
-    "suite-page-organization-membership-company-settings-company-invoice-description": "Включить оплату по инвойсу для этой компании.",
+    "suite-page-organization-membership-company-settings-book-by-charge-card-permission": "Booking by Charge Card",
+    "suite-page-organization-membership-company-settings-charge-card": "Расчётная карта",
+    "suite-page-organization-membership-company-settings-charge-card-description": "When turned on, charge card payment method becomes available for the company.",
     "suite-page-organization-membership-company-settings-not-found-error": "Эта компания не существует или была удалена.",
     "suite-page-organization-membership-company-settings-update-failure": "Невозможно обновить"
   }

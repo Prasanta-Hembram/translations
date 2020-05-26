@@ -3,11 +3,11 @@
     "suite-page-organization-membership-company-settings-title": "Settings",
     "suite-page-organization-membership-company-settings-balance-history-permission": "Balance History",
     "suite-page-organization-membership-company-settings-billing-address-title": "Business Information",
-    "suite-page-organization-membership-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on invoices.",
+    "suite-page-organization-membership-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on statements.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Type an information",
-    "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Company invoice permission",
-    "suite-page-organization-membership-company-settings-company-invoice": "Company Invoice",
-    "suite-page-organization-membership-company-settings-company-invoice-description": "When turned on, company invoice payment method becomes available for the company.",
+    "suite-page-organization-membership-company-settings-book-by-charge-card-permission": "Booking by Charge Card",
+    "suite-page-organization-membership-company-settings-charge-card": "Charge Card",
+    "suite-page-organization-membership-company-settings-charge-card-description": "When turned on, charge card payment method becomes available for the company.",
     "suite-page-organization-membership-company-settings-not-found-error": "This company may not exist or may have been removed.",
     "suite-page-organization-membership-company-settings-update-failure": "Failed to update"
   }

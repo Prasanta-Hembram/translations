@@ -3,11 +3,11 @@
     "suite-page-organization-membership-company-settings-title": "Configuraciones",
     "suite-page-organization-membership-company-settings-balance-history-permission": "Historial de balance",
     "suite-page-organization-membership-company-settings-billing-address-title": "Información de negocios",
-    "suite-page-organization-membership-company-settings-billing-address-desc": "Indica el nombre de la empresa, la dirección y cualquier otra información legal que aparezca en las facturas.",
+    "suite-page-organization-membership-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on statements.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Escribe una información",
-    "suite-page-organization-membership-company-settings-book-by-invoice-permission": "Acceso a la factura del empresa.",
-    "suite-page-organization-membership-company-settings-company-invoice": "Factura de empresa",
-    "suite-page-organization-membership-company-settings-company-invoice-description": "Habilitar el método de pago de facturas del empresa queda disponible para el empresa.",
+    "suite-page-organization-membership-company-settings-book-by-charge-card-permission": "Booking by Charge Card",
+    "suite-page-organization-membership-company-settings-charge-card": "Tarjeta de cargos",
+    "suite-page-organization-membership-company-settings-charge-card-description": "When turned on, charge card payment method becomes available for the company.",
     "suite-page-organization-membership-company-settings-not-found-error": "Este empresa puede no existir o puede haber sido eliminado.",
     "suite-page-organization-membership-company-settings-update-failure": "Error al actualizar"
   }
