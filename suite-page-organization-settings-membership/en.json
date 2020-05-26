@@ -3,7 +3,7 @@
     "suite-page-organization-settings-membership-title": "Membership",
     "suite-page-organization-settings-membership-company-information-permission-admin": "Branch Managers",
     "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Branch Managers and Company Managers",
-    "suite-page-organization-settings-membership-company-information-permission-desc": "Every company in Community has a business information field to indicate its legal name, address, and business registration number. It appears on invoices.",
+    "suite-page-organization-settings-membership-company-information-permission-desc": "Every company in Community has a business information field to indicate its legal name, address, and business registration number. It appears on statements.",
     "suite-page-organization-settings-membership-company-information-permission-label": "Edit Company Info",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Branch Managers",
     "suite-page-organization-settings-membership-permission-all-members": "All Members",

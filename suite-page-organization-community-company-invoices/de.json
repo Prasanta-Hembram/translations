@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-community-company-invoices-title": "Statements",
-    "suite-page-organization-community-company-invoices-no-invoices": "Aktivieren Sie die Rechnungsstellung unter Einstellungen/Buchungen.",
+    "suite-page-organization-community-company-invoices-no-invoices": "Aktivieren Sie die Charge Card unter Einstellungen/Buchungen.",
     "suite-page-organization-community-company-invoices-get-failure": "Couldn't show company statements. Sind Sie sicher, dass eine Internetverbindung besteht?"
   }
 }

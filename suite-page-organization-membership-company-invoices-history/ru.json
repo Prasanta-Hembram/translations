@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoices-history-title": "Инвойсы",
-    "suite-page-organization-membership-company-invoices-history-no-invoices": "У компании нет инвойсов.",
-    "suite-page-organization-membership-company-invoices-history-get-failure": "Не удалось показать инвойсы компании. Проверьте интернет-соединение."
+    "suite-page-organization-membership-company-invoices-history-title": "Statements",
+    "suite-page-organization-membership-company-invoices-history-no-invoices": "У компании нет statements.",
+    "suite-page-organization-membership-company-invoices-history-get-failure": "Не удалось показать statements компании. Проверьте интернет-соединение."
   }
 }

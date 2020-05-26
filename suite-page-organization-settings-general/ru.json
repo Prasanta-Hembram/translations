@@ -7,11 +7,11 @@
     "suite-page-organization-settings-general-currency-contact-to-support": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Язык",
     "suite-page-organization-settings-general-error-tax-percent": "Введите правильное значение процента налога.",
-    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публичная бизнес информация помогает клиентам узнавать ваш бизнес на инвойсах.",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публичная бизнес информация помогает клиентам узнавать ваш бизнес на statements.",
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Введите информацию",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Информация о компании",
     "suite-page-organization-settings-general-invoicing-information-title": "Инвойсинг",
-    "suite-page-organization-settings-general-tax-percent-desc": "Налоговая ставка используется для отображения суммы налога в инвойсах. Все цены должны включать налог.",
+    "suite-page-organization-settings-general-tax-percent-desc": "Налоговая ставка используется для отображения суммы налога в statements. Все цены должны включать налог.",
     "suite-page-organization-settings-general-tax-percent-label": "Ставка налога, %",
     "suite-page-organization-settings-general-timezone": "Часовой пояс",
     "suite-page-organization-settings-general-title": "Общие"

@@ -3,7 +3,7 @@
     "suite-page-organization-settings-membership-title": "Участие",
     "suite-page-organization-settings-membership-company-information-permission-admin": "Менеджер отделения",
     "suite-page-organization-settings-membership-company-information-permission-admin-manager": "Менеджеры отделения и менеджеры компаний",
-    "suite-page-organization-settings-membership-company-information-permission-desc": "У каждой компании в разделе Сообщество есть строка, в которой необходимо указать официальное название, адрес и номер регистрации. Эти данные будут указаны в инвойсах.",
+    "suite-page-organization-settings-membership-company-information-permission-desc": "У каждой компании в разделе Сообщество есть строка, в которой необходимо указать официальное название, адрес и номер регистрации. Эти данные будут указаны в statements.",
     "suite-page-organization-settings-membership-company-information-permission-label": "Редактирование информации о компании",
     "suite-page-organization-settings-membership-permission-admin-moderator": "Менеджеры отделения",
     "suite-page-organization-settings-membership-permission-all-members": "Все участники",

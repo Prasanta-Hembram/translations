@@ -7,11 +7,11 @@
     "suite-page-organization-settings-general-currency-contact-to-support": "To change currency, contact to support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Language",
     "suite-page-organization-settings-general-error-tax-percent": "Type a valid tax rate.",
-    "suite-page-organization-settings-general-invoicing-business-info-desc": "The workspace business information helps customers recognize your business on invoices.",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "The workspace business information helps customers recognize your business on statements.",
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Type an information",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Business Information",
     "suite-page-organization-settings-general-invoicing-information-title": "Invoicing",
-    "suite-page-organization-settings-general-tax-percent-desc": "The tax rate is used to display tax amount on invoices. All prices must include the tax.",
+    "suite-page-organization-settings-general-tax-percent-desc": "The tax rate is used to display tax amount on statements. All prices must include the tax.",
     "suite-page-organization-settings-general-tax-percent-label": "Tax Rate, %",
     "suite-page-organization-settings-general-timezone": "Timezone",
     "suite-page-organization-settings-general-title": "General"
