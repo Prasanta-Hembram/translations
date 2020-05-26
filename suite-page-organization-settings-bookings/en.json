@@ -16,13 +16,12 @@
     "suite-page-organization-settings-bookings-booking-purpose-required": "Title Required",
     "suite-page-organization-settings-bookings-booking-purpose-required-desc": "Require members to type a title.",
     "suite-page-organization-settings-bookings-booking-until": "Until",
-    "suite-page-organization-settings-bookings-credit-system": "Credits",
-    "suite-page-organization-settings-bookings-invoicing-company-enabled": "Company Invoice",
-    "suite-page-organization-settings-bookings-invoicing-company-enabled-desc": "Company members will be able to book meeting rooms and pay later with an invoice.",
-    "suite-page-organization-settings-bookings-invoicing-title": "Invoicing",
-    "suite-page-organization-settings-bookings-point-desc": "Bonus credits will be used for room booking. Branch Manager can freely give credits to members.",
-    "suite-page-organization-settings-bookings-point-label": "Credit System",
-    "suite-page-organization-settings-bookings-point-network-quote-desc": "Percentage of credits that members of one branch can spend in other branches of a network. To change it contact support@andcards.com.",
-    "suite-page-organization-settings-bookings-point-network-quote-label": "Network Allowance"
+    "suite-page-organization-settings-bookings-charge-card": "Charge Card",
+    "suite-page-organization-settings-bookings-charge-card-desc": "Company members will be able to book meeting rooms and pay later.",
+    "suite-page-organization-settings-bookings-credits-label": "Credits",
+    "suite-page-organization-settings-bookings-credits-desc": "Bonus credits will be used for room booking. Branch Manager can freely give credits to members.",
+    "suite-page-organization-settings-bookings-credits-network-quote-desc": "Percentage of credits that members of one branch can spend in other branches of a network. To change it contact support@andcards.com.",
+    "suite-page-organization-settings-bookings-credits-network-quote-label": "Network Allowance",
+    "suite-page-organization-settings-bookings-payment-methods": "Payment Methods"
   }
 }
