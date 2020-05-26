@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-settings-integration-stripe-update-account-email": "Email",
     "suite-modal-settings-integration-stripe-update-account-name": "Benutzername",
-    "suite-modal-settings-integration-stripe-update-company-invoice": "Unternehmenrechnung",
+    "suite-modal-settings-integration-stripe-update-company-invoice": "Company Charge Card",
     "suite-modal-settings-integration-stripe-update-description": "Mitglieder können für die ausgewählten Dienste per Stripe bezahlen.",
     "suite-modal-settings-integration-stripe-update-room-booking": "Raumbuchung",
     "suite-modal-settings-integration-stripe-update-section-payments": "Zahlungen",

@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "Це буде відображено в інвойсі.",
+    "suite-page-organization-settings-general-bank-info-desc": "Це буде відображено в statement.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Уведіть дані банківського рахунку",
     "suite-page-organization-settings-general-bank-info-title": "Банківський рахунок",
     "suite-page-organization-settings-general-currency": "Валюта",

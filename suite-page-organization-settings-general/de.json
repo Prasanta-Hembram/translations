@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "Diese werden auf einer Rechnung erscheinen.",
+    "suite-page-organization-settings-general-bank-info-desc": "Diese werden auf einer statement erscheinen.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Bankkontoinformationen eingeben",
     "suite-page-organization-settings-general-bank-info-title": "Bankkonto",
     "suite-page-organization-settings-general-currency": "Währung",

@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoice-main-title": "Інвойс",
+    "suite-page-organization-membership-company-invoice-main-title": "Statement",
     "suite-page-organization-membership-company-invoice-main-excluded-items": "Вилучені позиції",
     "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Спосіб оплати",
     "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Статус",
     "suite-page-organization-membership-company-invoice-main-no-transactions": "Немає позицій.",
-    "suite-page-organization-membership-company-invoice-main-not-found": "Інвойс відсутній або видалений.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "Statement відсутній або видалений.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Повернутися",
     "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Перевірте інтернет-з'єднання та спробуйте знов.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Платіж не вдався",
     "suite-page-organization-membership-company-invoice-main-payment-success-button-done": "Готово",
-    "suite-page-organization-membership-company-invoice-main-payment-success-text": "Інвойс успішно оплачено.",
-    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Інвойс оплачено",
+    "suite-page-organization-membership-company-invoice-main-payment-success-text": "Statement успішно оплачено.",
+    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Statement оплачено",
     "suite-page-organization-membership-company-invoice-main-section-payment": "Оплата",
     "suite-page-organization-membership-company-invoice-main-section-payment-button": "Продовжити"
   }

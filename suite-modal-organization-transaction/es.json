@@ -7,7 +7,7 @@
     "suite-modal-organization-transaction-date-label": "Fecha",
     "suite-modal-organization-transaction-not-found": "Esta transacción puede no existir o puede haber sido eliminada.",
     "suite-modal-organization-transaction-paid-with-label": "Pagado con",
-    "suite-modal-organization-transaction-paid-with-invoice": "Factura",
+    "suite-modal-organization-transaction-paid-with-invoice": "Statement",
     "suite-modal-organization-transaction-title": "Detalles de la transacción"
   }
 }

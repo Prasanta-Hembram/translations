@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "This will appear on an invoice.",
+    "suite-page-organization-settings-general-bank-info-desc": "This will appear on an statement.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Type a bank account information",
     "suite-page-organization-settings-general-bank-info-title": "Bank Account",
     "suite-page-organization-settings-general-currency": "Currency",

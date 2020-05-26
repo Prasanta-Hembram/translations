@@ -2,7 +2,7 @@
   "data": {
     "payments-page-kakaopay-meta-title": "Оплата по KakaoPay | andcards",
     "payments-page-kakaopay-page-title-booking": "Оплатить бронирование",
-    "payments-page-kakaopay-page-title-invoice": "Оплатить инвойс",
+    "payments-page-kakaopay-page-title-invoice": "Оплатить Statement",
     "payments-page-kakaopay-page-error": "Запрос на оплату уже обработан или не существует.",
     "payments-page-kakaopay-page-pay-by-card-button": "Оплатить {price}",
     "payments-page-kakaopay-page-success": "Оплата прошла успешно."

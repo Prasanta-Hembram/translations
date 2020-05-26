@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoice-main-title": "인보이스",
+    "suite-page-organization-membership-company-invoice-main-title": "Statement",
     "suite-page-organization-membership-company-invoice-main-excluded-items": "미포함 항목",
     "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "결제 수단",
     "suite-page-organization-membership-company-invoice-main-money-transaction-status": "결제 사항",
     "suite-page-organization-membership-company-invoice-main-no-transactions": "항목이 없습니다.",
-    "suite-page-organization-membership-company-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "해당 청구 내역은 찾을 수 없거나 삭제되었습니다 Statement.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "뒤로",
     "suite-page-organization-membership-company-invoice-main-payment-failure-text": "인터넷 연결을 확인하고 다시 시도하세요.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-title": "결제 실패",
     "suite-page-organization-membership-company-invoice-main-payment-success-button-done": "확인",
-    "suite-page-organization-membership-company-invoice-main-payment-success-text": "결제가 완료되었습니다. 감사합니다!",
-    "suite-page-organization-membership-company-invoice-main-payment-success-title": "결제 성공",
+    "suite-page-organization-membership-company-invoice-main-payment-success-text": "결제가 완료되었습니다. 감사합니다! Statement",
+    "suite-page-organization-membership-company-invoice-main-payment-success-title": "결제 성공 Statement",
     "suite-page-organization-membership-company-invoice-main-section-payment": "결제",
     "suite-page-organization-membership-company-invoice-main-section-payment-button": "계속하기"
   }
