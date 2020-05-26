@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Скасувати",
     "alert-confirmation-organization-booking-create-by-company-invoice-title": "Додаткові витрати",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Витрати будуть додані до інвойсу компанії. Наприкінці місяця менеджер відділення надішле рахунок менеджеру компанії для оплати."
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the charge card. At the end of the month, Branch Manager will send the invoice to your Company Manager to pay."
   }
 }

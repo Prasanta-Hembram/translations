@@ -11,13 +11,13 @@
     "suite-alerts-success-booking-edit": "Cambio de reserva.",
     "suite-alerts-success-booking-edit-charge": "Cambio de reserva. {priceDifferenceToPay} cobrado.",
     "suite-alerts-success-booking-edit-refund": "Cambio de reserva. {priceDifferenceToRefund} reembolsado.",
-    "suite-alerts-success-invoice-finalized": "Factura finalizada con éxito.",
-    "suite-alerts-success-invoice-money-transaction-saved": "Transacción de factura actualizada.",
     "suite-alerts-success-organization-invite-send": "Invitación enviada.",
     "suite-alerts-success-organization-invites-send": "Invitaciones enviadas.",
     "suite-alerts-success-organization-plan-deactivated": "El plan se desactiva con éxito.",
     "suite-alerts-success-organization-plan-purchased": "Plan es comprado.",
     "suite-alerts-success-organization-request-to-join": "Solicitud enviada con éxito.",
-    "suite-alerts-success-sessions-other-signed-out": "Has salido de todas las demás sesiones."
+    "suite-alerts-success-sessions-other-signed-out": "Has salido de todas las demás sesiones.",
+    "suite-alerts-success-statement-finalized": "Statement successfully finalized.",
+    "suite-alerts-success-statement-money-transaction-saved": "Statement transaction updated."
   }
 }

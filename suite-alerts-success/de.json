@@ -11,13 +11,13 @@
     "suite-alerts-success-booking-edit": "Die Buchung wurde geändert.",
     "suite-alerts-success-booking-edit-charge": "Die Buchung wurde geändert. {priceDifferenceToPay} belastet.",
     "suite-alerts-success-booking-edit-refund": "Die Buchung wurde geändert. {priceDifferenceToRefund} zurückerstattet.",
-    "suite-alerts-success-invoice-finalized": "Rechnung erfolgreich abgeschlossen.",
-    "suite-alerts-success-invoice-money-transaction-saved": "Rechnungstransaktion aktualisiert.",
     "suite-alerts-success-organization-invite-send": "Einladung versandt.",
     "suite-alerts-success-organization-invites-send": "Einladungen versandt.",
     "suite-alerts-success-organization-plan-deactivated": "Das Abo wurde erfolgreich deaktiviert.",
     "suite-alerts-success-organization-plan-purchased": "Das Abo wurde erworben.",
     "suite-alerts-success-organization-request-to-join": "Anfrage erfolgreich gesendet.",
-    "suite-alerts-success-sessions-other-signed-out": "Sie wurden von allen anderen Sitzungen abgemeldet."
+    "suite-alerts-success-sessions-other-signed-out": "Sie wurden von allen anderen Sitzungen abgemeldet.",
+    "suite-alerts-success-statement-finalized": "Statement successfully finalized.",
+    "suite-alerts-success-statement-money-transaction-saved": "Statement transaction updated."
   }
 }
