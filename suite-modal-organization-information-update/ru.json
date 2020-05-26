@@ -16,7 +16,7 @@
     "suite-modal-organization-information-update-name-placeholder": "Ввести имя",
     "suite-modal-organization-information-update-policy-link": "Политика конфиденциальности",
     "suite-modal-organization-information-update-policy-link-placeholder": "Введите ссылку",
-    "suite-modal-organization-information-update-refund-policy-desc": "Включите информацию или ссылки на конфиденциальность, возврат средств, условия использования или другие политики. Это появится на странице оплаты и в инвойсе.",
+    "suite-modal-organization-information-update-refund-policy-desc": "Включите информацию или ссылки на конфиденциальность, возврат средств, условия использования или другие политики. Это появится на странице оплаты и в statement.",
     "suite-modal-organization-information-update-refund-policy-placeholder": "Введите информацию",
     "suite-modal-organization-information-update-refund-policy-title": "Политика возврата",
     "suite-modal-organization-information-update-timezone": "Часовой пояс"

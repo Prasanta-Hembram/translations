@@ -5,7 +5,7 @@
     "payments-page-stripe-field-email-placeholder": "이메일 입력하기",
     "payments-page-stripe-page-privacy-description": "귀하의 개인정보는 결제 서비스 제공업체로 전송됩니다.",
     "payments-page-stripe-page-title-booking": "회의실 예약 결제",
-    "payments-page-stripe-page-title-invoice": "인보이스 결제",
+    "payments-page-stripe-page-title-invoice": "인보이스 결제 Statement",
     "payments-page-stripe-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",
     "payments-page-stripe-page-success": "결제 완료되었습니다.",
     "payments-page-stripe-pay-by-card-pay-button": "{price} 결제하기"

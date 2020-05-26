@@ -2,7 +2,7 @@
   "data": {
     "payments-page-wayforpay-meta-title": "Pago con WayForPay | andcards",
     "payments-page-wayforpay-page-title-booking": "Pagar por la reserva",
-    "payments-page-wayforpay-page-title-invoice": "Pagar la factura",
+    "payments-page-wayforpay-page-title-invoice": "Pagar la Statement",
     "payments-page-wayforpay-page-error": "La solicitud de pago ya se ha completado o no existe.",
     "payments-page-wayforpay-page-success": "El pago ha tenido éxito."
   }

@@ -16,7 +16,7 @@
     "suite-modal-organization-information-update-name-placeholder": "Увести назву",
     "suite-modal-organization-information-update-policy-link": "Політика конфіденційності",
     "suite-modal-organization-information-update-policy-link-placeholder": "Введіть посилання",
-    "suite-modal-organization-information-update-refund-policy-desc": "Вкажіть інформацію або посилання на конфіденційність, повернення коштів, умови використання чи інші правила. Це з'явиться на сторінці оплати та інвойсу.",
+    "suite-modal-organization-information-update-refund-policy-desc": "Вкажіть інформацію або посилання на конфіденційність, повернення коштів, умови використання чи інші правила. Це з'явиться на сторінці оплати та statement.",
     "suite-modal-organization-information-update-refund-policy-placeholder": "Уведіть інформацію",
     "suite-modal-organization-information-update-refund-policy-title": "Політика повернення",
     "suite-modal-organization-information-update-timezone": "Часовий пояс"

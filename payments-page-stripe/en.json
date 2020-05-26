@@ -5,7 +5,7 @@
     "payments-page-stripe-field-email-placeholder": "Type Email",
     "payments-page-stripe-page-privacy-description": "Your personal information will be sent to the payment provider for processing the payment.",
     "payments-page-stripe-page-title-booking": "Pay for Booking",
-    "payments-page-stripe-page-title-invoice": "Pay for Invoice",
+    "payments-page-stripe-page-title-invoice": "Pay for Statement",
     "payments-page-stripe-page-error": "The payment request has already completed or does not exist.",
     "payments-page-stripe-page-success": "The payment has succeeded.",
     "payments-page-stripe-pay-by-card-pay-button": "Pay {price}"
