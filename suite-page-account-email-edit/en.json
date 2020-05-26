@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-email-edit-code-invalid": "Type the confirmation code from an email message.",
+    "suite-page-account-email-edit-code-label": "Confirmation Code",
+    "suite-page-account-email-edit-code-type-here": "Type code",
+    "suite-page-account-email-edit-email-continue": "Continue",
+    "suite-page-account-email-edit-email-invalid": "The email is incorrect or connected to another account.",
+    "suite-page-account-email-edit-email-title": "Email",
+    "suite-page-account-email-edit-email-type-here": "Type email"
+  }
+}

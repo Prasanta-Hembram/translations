@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-account-calendar-sync-title": "Синхронизация с календарем",
+    "suite-page-account-calendar-sync-description": "Воспользуйтесь этой ссылкой чтобы видеть свои andcards бронирования в личном календаре. Инструкции по настройке популярных сервисов:",
+    "suite-page-account-calendar-sync-generate-new-url-button": "Сгенерировать новую ссылку",
+    "suite-page-account-calendar-sync-google-calendar-sync-note": "Синхронизация с календарем Google может занять до 12 часов.",
+    "suite-page-account-calendar-sync-link-title": "Ссылка",
+    "suite-page-account-calendar-sync-service-apple-calendar": "Календарь Apple",
+    "suite-page-account-calendar-sync-service-google-calendar": "Календарь Google",
+    "suite-page-account-calendar-sync-service-outlook": "Календарь Outlook",
+    "suite-page-account-calendar-sync-url-security-warning": "ВАЖНО! Держите ссылку в секрете. Любой с доступом к этой ссылке увидит все ваши бронирования."
+  }
+}

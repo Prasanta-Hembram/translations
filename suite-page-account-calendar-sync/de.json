@@ -1,0 +1,13 @@
+{
+  "data": {
+    "suite-page-account-calendar-sync-title": "Kalender-Synchronisation",
+    "suite-page-account-calendar-sync-description": "Über diesen Link können Sie sich alle Buchungen auf andcards in Ihrem persönlichen Kalender ansehen. Hier sind Anweisungen für gängige Kalender-Apps:",
+    "suite-page-account-calendar-sync-generate-new-url-button": "Neuen Link generieren",
+    "suite-page-account-calendar-sync-google-calendar-sync-note": "Es kann bis zu 12 Stunden dauern, bis Ihre Buchungen in Google Calendar erscheinen.",
+    "suite-page-account-calendar-sync-link-title": "Link",
+    "suite-page-account-calendar-sync-service-apple-calendar": "Apple Calendar",
+    "suite-page-account-calendar-sync-service-google-calendar": "Google Calendar",
+    "suite-page-account-calendar-sync-service-outlook": "Outlook Calendar",
+    "suite-page-account-calendar-sync-url-security-warning": "Wichtig! Bewahren Sie diesen Link vertraulich auf. Jeder mit diesem Link kann Ihren Feed einsehen."
+  }
+}

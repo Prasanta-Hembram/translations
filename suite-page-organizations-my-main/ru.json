@@ -13,6 +13,6 @@
     "suite-page-organizations-my-main-subscription-trial-days-left": "Заканчивается {days}.",
     "suite-page-organizations-my-main-validation-email-failed-button-connect": "Подключить email",
     "suite-page-organizations-my-main-validation-email-failed-title": "Email не подключен",
-    "suite-page-organizations-my-main-validation-email-failed-text": "Ваш email не подключен к учетной записи. Добавьте email в профиль пользователя, чтобы продолжить использование приложения."
+    "suite-page-organizations-my-main-validation-email-failed-text": "Ваш email не подключен к учетной записи. Добавьте email в настройках учетной записи, чтобы продолжить пользоваться приложением."
   }
 }

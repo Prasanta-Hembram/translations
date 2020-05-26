@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-privacy-and-security-title": "Приватність та безпека",
+    "suite-page-account-privacy-and-security-email-label": "Email",
+    "suite-page-account-privacy-and-security-email-notice": "Під'єднайте email для входу в обліковий запис.",
+    "suite-page-account-privacy-and-security-email-value-not-connected": "Не під'єднано",
+    "suite-page-account-privacy-and-security-sessions-button": "Вийти",
+    "suite-page-account-privacy-and-security-sessions-description": "Це закінчить всі сесії в інших браузерах та комп'ютерах.",
+    "suite-page-account-privacy-and-security-sessions-title": "Вийти з всіх інших сесій"
+  }
+}

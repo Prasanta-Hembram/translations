@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-email-edit-code-invalid": "Введите код подтверждения из сообщения электронной почты.",
+    "suite-page-account-email-edit-code-label": "Код подтверждения",
+    "suite-page-account-email-edit-code-type-here": "Ввести код",
+    "suite-page-account-email-edit-email-continue": "Продолжить",
+    "suite-page-account-email-edit-email-invalid": "Email неверен или подключен к другой учетной записи.",
+    "suite-page-account-email-edit-email-title": "Email",
+    "suite-page-account-email-edit-email-type-here": "Ввести email"
+  }
+}

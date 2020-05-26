@@ -1,0 +1,11 @@
+{
+  "data": {
+    "suite-page-account-email-edit-code-invalid": "Geben Sie einen Bestätigungscode aus der E-Mail-Nachricht ein.",
+    "suite-page-account-email-edit-code-label": "Bestätigungscode",
+    "suite-page-account-email-edit-code-type-here": "Code eingeben",
+    "suite-page-account-email-edit-email-continue": "Fortfahren",
+    "suite-page-account-email-edit-email-invalid": "Die E-Mail ist falsch oder mit einem anderen Konto verbunden.",
+    "suite-page-account-email-edit-email-title": "E-Mail",
+    "suite-page-account-email-edit-email-type-here": "E-Mail eingeben"
+  }
+}
