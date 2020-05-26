@@ -2,8 +2,8 @@
   "data": {
     "utils-invoice-book-by-invoice-permission-all-members": "Company Managers and Company Members",
     "utils-invoice-book-by-invoice-permission-company-managers": "Company Managers",
-    "utils-invoice-book-by-invoice-permission-info-all-members": "All company members can book rooms by company invoice.",
-    "utils-invoice-book-by-invoice-permission-info-company-managers": "Only company managers can book rooms by company invoice.",
+    "utils-invoice-book-by-invoice-permission-info-all-members": "All company members can book rooms by charge card.",
+    "utils-invoice-book-by-invoice-permission-info-company-managers": "Only company managers can book rooms by charge card.",
     "utils-invoice-item-type-booking-payment-type": "Booked room",
     "utils-invoice-item-type-booking-payment-type-with-name": "Booked room by {name}",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Booked room {roomName} by {name}",

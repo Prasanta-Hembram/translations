@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "무료",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "회사인보이스 ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-charge-card": "후불카드 ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "카드 ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "외부 지불 ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "개인 크레딧 ({balance})",

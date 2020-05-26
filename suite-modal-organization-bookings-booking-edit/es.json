@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-edit-title": "Edit booking",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Gratis",
-    "suite-modal-organization-bookings-booking-edit-action-button-invoice-company": "Factura de empresa ({price})",
+    "suite-modal-organization-bookings-booking-edit-action-button-charge-card": "Tarjeta de cargos ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Tarjeta ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Pago externo ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Créditos ({balance})",

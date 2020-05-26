@@ -2,8 +2,8 @@
   "data": {
     "utils-invoice-book-by-invoice-permission-all-members": "Менеджеры и участники компании",
     "utils-invoice-book-by-invoice-permission-company-managers": "Менеджеры компании",
-    "utils-invoice-book-by-invoice-permission-info-all-members": "Все участники компании могут бронировать переговорные с помощью инвойса.",
-    "utils-invoice-book-by-invoice-permission-info-company-managers": "Только менеджеры компании могут бронировать переговорные с помощью инвойса.",
+    "utils-invoice-book-by-invoice-permission-info-all-members": "Все участники компании могут бронировать переговорные с помощью charge card.",
+    "utils-invoice-book-by-invoice-permission-info-company-managers": "Только менеджеры компании могут бронировать переговорные с помощью charge card.",
     "utils-invoice-item-type-booking-payment-type": "Бронь переговорной",
     "utils-invoice-item-type-booking-payment-type-with-name": "Бронь переговорной через {name}",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Бронь переговорной {roomName} через {name}",

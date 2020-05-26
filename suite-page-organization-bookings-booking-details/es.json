@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Gratis",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Factura de empresa ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-charge-card": "Tarjeta de cargos ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Tarjeta ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Pago externo ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Créditos personales ({balance})",

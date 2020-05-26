@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-edit-title": "Редактировать бронь",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "Бесплатно",
-    "suite-modal-organization-bookings-booking-edit-action-button-invoice-company": "Инвойс компании ({price})",
+    "suite-modal-organization-bookings-booking-edit-action-button-charge-card": "Расчётная карта ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "Карточкой ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "Внешний платеж ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "Кредитами ({balance})",

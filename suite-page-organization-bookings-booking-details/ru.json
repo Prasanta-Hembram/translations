@@ -1,7 +1,7 @@
 {
   "data": {
     "suite-page-organization-bookings-booking-details-action-button-for-free": "Бесплатно",
-    "suite-page-organization-bookings-booking-details-action-button-invoice-company": "Инвойс компании ({price})",
+    "suite-page-organization-bookings-booking-details-action-button-charge-card": "Расчётная карта ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Карточка ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Внешний платеж ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Кредиты личные ({balance})",

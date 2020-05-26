@@ -2,7 +2,7 @@
   "data": {
     "suite-modal-organization-bookings-booking-edit-title": "예약 수정",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-for-free": "무료",
-    "suite-modal-organization-bookings-booking-edit-action-button-invoice-company": "회사 인보이스 ({price})",
+    "suite-modal-organization-bookings-booking-edit-action-button-charge-card": "후불카드 ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-card": "카드 ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-money-cash": "외부 지불 ({price})",
     "suite-modal-organization-bookings-booking-edit-balance-action-button-point": "크레딧 ({balance})",
