@@ -58,7 +58,7 @@
     "payment-intent-booking-description": "Бронирование переговорной ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Инвойс ({invoiceDate})",
-    "payment-intent-invoice-with-team-and-branch-description": "{organizationTitle}, {teamTitle} Инвойс ({invoiceDate})",
+    "payment-intent-invoice-with-team-and-branch-description": "{organizationTitle}, {teamTitle}, инвойс ({invoiceDate})",
     "service-apply-email-application-comment": "Комментарий:\n{comment}",
     "service-apply-email-application-email": "Email: {email}",
     "service-apply-email-application-full-name": "Полное имя: {userFullName}",
