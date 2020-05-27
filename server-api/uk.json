@@ -58,6 +58,7 @@
     "payment-intent-booking-description": "Резервація кімнати ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Оплата за {paymentDate}",
     "payment-intent-invoice-description": "Інвойс ({invoiceDate})",
+    "payment-intent-invoice-with-team-and-branch-description": "{organizationTitle}, {teamTitle}, інвойс ({invoiceDate})",
     "service-apply-email-application-comment": "Коментарій:\n{comment}",
     "service-apply-email-application-email": "Email: {email}",
     "service-apply-email-application-full-name": "Повне ім'я: {userFullName}",

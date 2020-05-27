@@ -58,6 +58,7 @@
     "payment-intent-booking-description": "예약 ({roomName}) {bookingDate}",
     "payment-intent-default-description": "결제 {paymentDate}",
     "payment-intent-invoice-description": "청구 내역 ({invoiceDate})",
+    "payment-intent-invoice-with-team-and-branch-description": "{organizationTitle}, {teamTitle}, 청구 내역 ({invoiceDate})",
     "service-apply-email-application-comment": "내용:\n{comment}",
     "service-apply-email-application-email": "이메일: {email}",
     "service-apply-email-application-full-name": "성함: {userFullName}",
