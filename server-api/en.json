@@ -58,7 +58,7 @@
     "payment-intent-booking-description": "Room Booking ({roomName}) {bookingDate}",
     "payment-intent-default-description": "Payment {paymentDate}",
     "payment-intent-invoice-description": "Invoice ({invoiceDate})",
-    "payment-intent-invoice-with-team-and-branch-description": "{organizationTitle}, {teamName} Invoice ({invoiceDate})",
+    "payment-intent-invoice-with-team-and-branch-description": "{organizationTitle}, {teamTitle} Invoice ({invoiceDate})",
     "service-apply-email-application-comment": "Comment:\n{comment}",
     "service-apply-email-application-email": "Email: {email}",
     "service-apply-email-application-full-name": "Full Name: {userFullName}",
