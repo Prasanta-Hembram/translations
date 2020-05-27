@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "확인",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "취소",
     "alert-confirmation-organization-booking-create-by-company-invoice-title": "추가 비용 발생",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the charge card. At the end of the month, Branch Manager will send the invoice to your Company Manager to pay."
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the charge card. At the end of the month, Branch Manager will send the statement to your Company Manager to pay."
   }
 }

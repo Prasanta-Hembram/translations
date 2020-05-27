@@ -2,8 +2,8 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "Ver las reservas",
     "utils-oauth2-scope-bookings": "Ver y editar las reservas",
-    "utils-oauth2-scope-company-invoices-readonly": "Ver las facturas del empresa",
-    "utils-oauth2-scope-company-invoices": "Ver y editar las facturas del empresa",
+    "utils-oauth2-scope-company-invoices-readonly": "Ver las statements del empresa",
+    "utils-oauth2-scope-company-invoices": "Ver y editar las statements del empresa",
     "utils-oauth2-scope-companies-readonly": "Ver empresas",
     "utils-oauth2-scope-companies": "Ver y editar empresas",
     "utils-oauth2-scope-memberships-readonly": "Ver los miembros",
