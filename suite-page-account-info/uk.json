@@ -6,10 +6,6 @@
     "suite-page-account-info-log-out": "Вийти з системи",
     "suite-page-account-info-photo-delete": "Видалити фото",
     "suite-page-account-info-section-about": "Про себе",
-    "suite-page-account-info-section-about-placeholder": "Розповісти про себе",
-    "suite-page-account-info-user-email-visibility": "Видимість email",
-    "suite-page-account-info-user-email-visibility-description": "Налаштуйте хто може бачити вашу email адресу.",
-    "suite-page-account-info-user-phone-number-visibility": "Видимість телефону",
-    "suite-page-account-info-user-phone-number-visibility-description": "Налаштуйте хто може бачити ваш номер телефону."
+    "suite-page-account-info-section-about-placeholder": "Розповісти про себе"
   }
 }

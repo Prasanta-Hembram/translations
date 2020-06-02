@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-account-privacy-and-security-title": "Приватність та безпека",
+    "suite-page-account-privacy-and-security-button-privacy": "Приватність",
     "suite-page-account-privacy-and-security-email-label": "Email",
     "suite-page-account-privacy-and-security-email-notice": "Під'єднайте email для входу в обліковий запис.",
     "suite-page-account-privacy-and-security-email-value-not-connected": "Не під'єднано",

@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-account-privacy-and-security-title": "개인정보보호 및 보안",
+    "suite-page-account-privacy-and-security-button-privacy": "개인정보보호",
     "suite-page-account-privacy-and-security-email-label": "이메일",
     "suite-page-account-privacy-and-security-email-notice": "이메일을 연결하여 계정에 로그인합니다.",
     "suite-page-account-privacy-and-security-email-value-not-connected": "연결 안됨",
