@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoice-main-title": "Statement",
+    "suite-page-organization-membership-company-invoice-main-title": "Kontoauszug",
     "suite-page-organization-membership-company-invoice-main-excluded-items": "Ausgeschlossene Positionen",
     "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Zahlungsmethode",
     "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Status",
     "suite-page-organization-membership-company-invoice-main-no-transactions": "Es gibt keine Artikel.",
-    "suite-page-organization-membership-company-invoice-main-not-found": "Die Statement fehlt oder wurde gelöscht.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "Die Kontoauszug fehlt oder wurde gelöscht.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Zurückgehen",
     "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Zahlung fehlgeschlagen",
     "suite-page-organization-membership-company-invoice-main-payment-success-button-done": "Fertig",
     "suite-page-organization-membership-company-invoice-main-payment-success-text": "Die Statement wurde erfolgreich bezahlt.",
-    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Zahlungserfolg der Statement",
+    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Zahlungserfolg der Kontoauszug",
     "suite-page-organization-membership-company-invoice-main-section-payment": "Zahlung",
     "suite-page-organization-membership-company-invoice-main-section-payment-button": "Fortfahren"
   }
