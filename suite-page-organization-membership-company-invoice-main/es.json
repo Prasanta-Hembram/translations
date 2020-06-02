@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoice-main-title": "Statement",
+    "suite-page-organization-membership-company-invoice-main-title": "Estado de cuenta",
     "suite-page-organization-membership-company-invoice-main-excluded-items": "Objetos excluidos",
     "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Método de pago",
     "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Estado",
     "suite-page-organization-membership-company-invoice-main-no-transactions": "No hay posiciones.",
-    "suite-page-organization-membership-company-invoice-main-not-found": "Falta la Statement o se ha eliminado.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "Falta el estado de cuenta o se ha eliminado.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Regresa",
     "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Compruebe la conexión a internet y vuelva a intentarlo.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Pago fallido",
     "suite-page-organization-membership-company-invoice-main-payment-success-button-done": "Hecho",
-    "suite-page-organization-membership-company-invoice-main-payment-success-text": "La Statement se ha pagado con éxito.",
-    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Exito de pago de Statement",
+    "suite-page-organization-membership-company-invoice-main-payment-success-text": "El estado de cuenta se ha pagado con éxito.",
+    "suite-page-organization-membership-company-invoice-main-payment-success-title": "Exito de pago de estado de cuenta",
     "suite-page-organization-membership-company-invoice-main-section-payment": "Pago",
     "suite-page-organization-membership-company-invoice-main-section-payment-button": "Continuar"
   }
