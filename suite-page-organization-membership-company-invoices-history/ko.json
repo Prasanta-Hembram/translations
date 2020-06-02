@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoices-history-title": "Statements",
-    "suite-page-organization-membership-company-invoices-history-no-invoices": "회사에 청구 내역이 없습니다 statements.",
-    "suite-page-organization-membership-company-invoices-history-get-failure": "청구 내역을 표시할 수 없습니다 statements. 인터넷 연결을 확인해 주세요."
+    "suite-page-organization-membership-company-invoices-history-title": "청구 내역",
+    "suite-page-organization-membership-company-invoices-history-no-invoices": "회사에 청구 내역이 없습니다.",
+    "suite-page-organization-membership-company-invoices-history-get-failure": "청구 내역을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요."
   }
 }
