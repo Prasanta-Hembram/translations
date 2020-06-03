@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoice-main-title": "Виписка по карті",
+    "suite-page-organization-membership-company-invoice-main-title": "Рахунок",
     "suite-page-organization-membership-company-invoice-main-excluded-items": "Вилучені позиції",
     "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Спосіб оплати",
     "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Статус",
     "suite-page-organization-membership-company-invoice-main-no-transactions": "Немає позицій.",
-    "suite-page-organization-membership-company-invoice-main-not-found": "Виписка по карті відсутня або видалена.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "Рахунок відсутній або видалений.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Повернутися",
     "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Перевірте інтернет-з'єднання та спробуйте знов.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Платіж не вдався",
