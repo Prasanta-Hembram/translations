@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Скасувати",
-    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Додаткові витрати",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the charge card. At the end of the month, Branch Manager will send the statement to your Company Manager to pay."
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Підтвердження платежу",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Розрахункова карта дозволяє резервувати зараз та платити потім. У кінці місяця менеджер вашої компанії отримає рахунок для сплати."
   }
 }
