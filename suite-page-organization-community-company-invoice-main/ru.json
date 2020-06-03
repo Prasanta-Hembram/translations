@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoice-main-title": "Statement",
+    "suite-page-organization-community-company-invoice-main-title": "Счёт",
     "suite-page-organization-community-company-invoice-main-excluded-items": "Исключенные позиции",
     "suite-page-organization-community-company-invoice-main-finalize": "Завершить",
     "suite-page-organization-community-company-invoice-main-money-transaction-payment-type": "Метод оплаты",
     "suite-page-organization-community-company-invoice-main-money-transaction-status": "Статус",
     "suite-page-organization-community-company-invoice-main-no-transactions": "Позиции отсутствуют.",
-    "suite-page-organization-community-company-invoice-main-not-found": "The statement is missing or has been deleted."
+    "suite-page-organization-community-company-invoice-main-not-found": "Счёт недоступен или был удалён."
   }
 }
