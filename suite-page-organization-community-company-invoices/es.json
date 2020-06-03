@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoices-title": "Statements",
-    "suite-page-organization-community-company-invoices-no-invoices": "Activar la Charge Card en Configuración/Reservas.",
-    "suite-page-organization-community-company-invoices-get-failure": "Couldn't show company statements. ¿Seguro que hay conexión a internet?"
+    "suite-page-organization-community-company-invoices-title": "Estados de cuenta",
+    "suite-page-organization-community-company-invoices-no-invoices": "Activar la tarjeta de cargos en Configuración/Reservas.",
+    "suite-page-organization-community-company-invoices-get-failure": "No podía mostrar los estados de cuenta. ¿Seguro que hay conexión a internet?"
   }
 }
