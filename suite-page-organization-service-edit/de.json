@@ -24,7 +24,7 @@
     "suite-page-organization-service-edit-get-failure": "Konnte Dienst nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-service-edit-is-featured-desc": "Der vorgestellte Dienst erscheint oben auf der Seite Dienstleistungen.",
     "suite-page-organization-service-edit-is-featured-label": "Vorgestellt",
-    "suite-page-organization-service-edit-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Dienst zugreifen. Use this option to make service available only for branch managers.",
+    "suite-page-organization-service-edit-is-private-desc": "Erlauben Sie nur Mitgliedern bestimmter Arbeitsbereiche den Zugriff auf den Dienst. Wenn nichts markiert ist, ist der Dienst nur für Standortmanager sichtbar.",
     "suite-page-organization-service-edit-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-service-edit-image-delete": "Bild löschen",
     "suite-page-organization-service-edit-no-organization": "Standorte sind nicht ausgewählt.",
