@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-organization-company-plan-deactivate-title": "Деактивировать",
+    "alert-confirmation-organization-company-plan-deactivate-title": "Деактивировать план",
     "alert-confirmation-organization-company-plan-deactivate-no": "Отменить",
-    "alert-confirmation-organization-company-plan-deactivate-text": "Вы уверены, что хотите деактивировать план компании? Все кредиты будут утеряны. Это действие необратимо и не предусматривает возврата средств.",
+    "alert-confirmation-organization-company-plan-deactivate-text": "Вы уверены, что хотите деактивировать кредитный план компании? Все кредиты будут утеряны. Это действие необратимо и не предусматривает возврата средств.",
     "alert-confirmation-organization-company-plan-deactivate-yes": "Деактивировать"
   }
 }
