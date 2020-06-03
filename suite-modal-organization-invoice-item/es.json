@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-modal-organization-invoice-item-title": "Item Details",
+    "suite-modal-organization-invoice-item-title": "Detalles de la posición",
     "suite-modal-organization-invoice-item-booking-details-end-date": "Finalización",
     "suite-modal-organization-invoice-item-booking-details-start-date": "Inicio",
     "suite-modal-organization-invoice-item-booking-details-property-name": "Sala",
     "suite-modal-organization-invoice-item-booking-details-title": "Detalles de la reserva",
     "suite-modal-organization-invoice-item-date-label": "Fecha",
-    "suite-modal-organization-invoice-item-status-desc": "Choose whether the item is included into the statement."
+    "suite-modal-organization-invoice-item-status-desc": "Elija si la posición se incluirá en el estado."
   }
 }
