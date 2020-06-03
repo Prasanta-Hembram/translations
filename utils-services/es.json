@@ -4,8 +4,6 @@
     "utils-services-allowance-type-unlimited": "Ilimitado",
     "utils-services-application-type-by-email": "Correo electrónico",
     "utils-services-application-type-by-link": "Enlace",
-    "utils-services-application-type-no-application": "No se requiere solicitud",
-    "utils-services-permission-type-admin": "Gerentes de sucursal",
-    "utils-services-permission-type-all": "Todos los miembros"
+    "utils-services-application-type-no-application": "No se requiere solicitud"
   }
 }

@@ -4,8 +4,6 @@
     "utils-benefits-allowance-type-unlimited": "Ilimitado",
     "utils-benefits-application-type-by-email": "Correo electrónico",
     "utils-benefits-application-type-by-link": "Enlace",
-    "utils-benefits-application-type-no-application": "No se requiere solicitud",
-    "utils-benefits-permission-type-admin": "Gerentes de sucursal",
-    "utils-benefits-permission-type-all": "Todos los miembros"
+    "utils-benefits-application-type-no-application": "No se requiere solicitud"
   }
 }

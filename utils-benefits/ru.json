@@ -4,8 +4,6 @@
     "utils-benefits-allowance-type-unlimited": "Неограничено",
     "utils-benefits-application-type-by-email": "Email",
     "utils-benefits-application-type-by-link": "Ссылка",
-    "utils-benefits-application-type-no-application": "Заявка не нужна",
-    "utils-benefits-permission-type-admin": "Менеджеры отделения",
-    "utils-benefits-permission-type-all": "Все участники"
+    "utils-benefits-application-type-no-application": "Заявка не нужна"
   }
 }
