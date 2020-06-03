@@ -2,7 +2,10 @@
   "data": {
     "suite-modal-organization-user-activation-title": "필수 정보",
     "suite-modal-organization-user-activation-button-activate": "활성화하기",
+    "suite-modal-organization-user-activation-button-done": "확인",
     "suite-modal-organization-user-activation-button-reject": "거부",
-    "suite-modal-organization-user-activation-error-first-name": "이름을 입력하세요."
+    "suite-modal-organization-user-activation-error-first-name": "이름을 입력하세요.",
+    "suite-modal-organization-user-activation-user-invite-success-text": "Activation succeeded.",
+    "suite-modal-organization-user-activation-user-invite-success-title": "베네핏이 신청되었습니다!"
   }
 }

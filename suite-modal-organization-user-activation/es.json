@@ -2,7 +2,10 @@
   "data": {
     "suite-modal-organization-user-activation-title": "Los datos requeridos",
     "suite-modal-organization-user-activation-button-activate": "Completar",
+    "suite-modal-organization-user-activation-button-done": "Hecho",
     "suite-modal-organization-user-activation-button-reject": "Rechazar",
-    "suite-modal-organization-user-activation-error-first-name": "Ingrese un nombre"
+    "suite-modal-organization-user-activation-error-first-name": "Ingrese un nombre",
+    "suite-modal-organization-user-activation-user-invite-success-text": "Activation succeeded.",
+    "suite-modal-organization-user-activation-user-invite-success-title": "¡Buen trabajo!"
   }
 }
