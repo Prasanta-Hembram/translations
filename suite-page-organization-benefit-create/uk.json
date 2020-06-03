@@ -24,7 +24,7 @@
     "suite-page-organization-benefit-create-image-delete": "Видалити зображення",
     "suite-page-organization-benefit-create-is-featured-desc": "Обрана перевага з'явиться у верхній частині сторінки Переваги.",
     "suite-page-organization-benefit-create-is-featured-label": "Обране",
-    "suite-page-organization-benefit-create-is-private-desc": "Доступ до переваги лише для вибраних відділень. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-create-is-private-desc": "Доступ до переваги лише для учасників вибраних відділень. Якщо нічого не вибрано, перевага доступна лише для менеджерів відділень.",
     "suite-page-organization-benefit-create-is-private-label": "Обмежені відділення",
     "suite-page-organization-benefit-create-no-organization": "Відділення не вибрані.",
     "suite-page-organization-benefit-create-permission-title": "Доступ",
