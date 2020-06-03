@@ -17,7 +17,7 @@
     "suite-alerts-success-organization-plan-purchased": "Тарифный план успешно куплен.",
     "suite-alerts-success-organization-request-to-join": "Запрос успешно отправлен.",
     "suite-alerts-success-sessions-other-signed-out": "Вы вышли из всех других сессий.",
-    "suite-alerts-success-statement-finalized": "Statement successfully finalized.",
-    "suite-alerts-success-statement-money-transaction-saved": "Statement transaction updated."
+    "suite-alerts-success-statement-finalized": "Счёт успешно отправлен.",
+    "suite-alerts-success-statement-money-transaction-saved": "Транзакция счёта обновлена."
   }
 }
