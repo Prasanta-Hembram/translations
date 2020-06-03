@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoice-main-title": "Выписка по карте",
+    "suite-page-organization-membership-company-invoice-main-title": "Счёт",
     "suite-page-organization-membership-company-invoice-main-excluded-items": "Исключенные позиции",
     "suite-page-organization-membership-company-invoice-main-money-transaction-payment-type": "Метод оплаты",
     "suite-page-organization-membership-company-invoice-main-money-transaction-status": "Статус",
     "suite-page-organization-membership-company-invoice-main-no-transactions": "Позиции отсутствуют.",
-    "suite-page-organization-membership-company-invoice-main-not-found": "Выписка по карте недоступна или была удалена.",
+    "suite-page-organization-membership-company-invoice-main-not-found": "Счёт недоступен или удалён.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-button-go-back": "Назад",
     "suite-page-organization-membership-company-invoice-main-payment-failure-text": "Проверьте интернет-соединение и повторите попытку.",
     "suite-page-organization-membership-company-invoice-main-payment-failure-title": "Оплата не прошла",
