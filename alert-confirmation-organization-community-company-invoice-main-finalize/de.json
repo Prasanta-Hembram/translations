@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Abbrechen",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Abschließen",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Sind Sie sicher, dass Sie die Kontoauszug abschließen möchten? Diese Aktion ist unwiderruflich.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Kontoauszug abschließen"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Senden",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Kontoauszug an Unternehmensmanager senden? Diese Aktion ist unwiderruflich.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Kontoauszug senden"
   }
 }
