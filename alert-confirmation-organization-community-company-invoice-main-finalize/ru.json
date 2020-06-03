@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Отменить",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Закрыть",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Вы уверены, что хотите закрыть счёт? Это действие необратимо.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Закрыть счёт"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Отправить",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Вы уверены, что хотите отправить счёт менеджеру компании? Это действие необратимо.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Отправить счёт"
   }
 }
