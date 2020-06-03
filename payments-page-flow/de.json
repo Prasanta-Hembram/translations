@@ -2,7 +2,7 @@
   "data": {
     "payments-page-flow-title": "Mit Flow bezahlen | andcards",
     "payments-page-flow-page-title-booking": "Buchung bezahlen",
-    "payments-page-flow-page-title-invoice": "Statement bezahlen",
+    "payments-page-flow-page-title-invoice": "Kontoauszug bezahlen",
     "payments-page-flow-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
     "payments-page-flow-page-success": "Zahlung erfolgt."
   }
