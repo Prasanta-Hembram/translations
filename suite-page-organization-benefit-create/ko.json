@@ -24,7 +24,7 @@
     "suite-page-organization-benefit-create-image-delete": "사진 삭제하기",
     "suite-page-organization-benefit-create-is-featured-desc": "베네핏 페이지의 맨 위에 해당 베네핏이 나타납니다.",
     "suite-page-organization-benefit-create-is-featured-label": "추천 베네핏",
-    "suite-page-organization-benefit-create-is-private-desc": "특정 공간에서만 베네핏을 볼 수 있도록 허용합니다. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-create-is-private-desc": "특정 공간의 회원만 베네핏을 볼 수 있도록 허용합니다. 아무것도 선택하지 않으면 베네핏은 지점관리자만 볼 수 있습니다.",
     "suite-page-organization-benefit-create-is-private-label": "지점 제한",
     "suite-page-organization-benefit-create-no-organization": "지점이 선택되지 않았습니다.",
     "suite-page-organization-benefit-create-permission-title": "권한",
