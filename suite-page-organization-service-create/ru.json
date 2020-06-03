@@ -24,7 +24,7 @@
     "suite-page-organization-service-create-image-delete": "Удалить изображение",
     "suite-page-organization-service-create-is-featured-desc": "Избранный сервис появится в верхней части страницы Сервисы.",
     "suite-page-organization-service-create-is-featured-label": "Избранное",
-    "suite-page-organization-service-create-is-private-desc": "Доступ к сервису только для некоторых отделений. Use this option to make service available only for branch managers.",
+    "suite-page-organization-service-create-is-private-desc": "Доступ к сервису только для участников выбранных отделений. Если ничего не выбрано, сервис доступен только для менеджеров отделений.",
     "suite-page-organization-service-create-is-private-label": "Ограниченные отделения",
     "suite-page-organization-service-create-no-organization": "Отделения не выбраны.",
     "suite-page-organization-service-create-permission-title": "Доступ",
