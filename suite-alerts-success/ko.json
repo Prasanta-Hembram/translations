@@ -17,7 +17,7 @@
     "suite-alerts-success-organization-plan-purchased": "플랜 구매 완료되었습니다",
     "suite-alerts-success-organization-request-to-join": "요청이 성공적으로 전송되었습니다.",
     "suite-alerts-success-sessions-other-signed-out": "모든 활성 세션을 제거 완료되었습니다.",
-    "suite-alerts-success-statement-finalized": "Statement successfully finalized.",
-    "suite-alerts-success-statement-money-transaction-saved": "Statement transaction updated."
+    "suite-alerts-success-statement-finalized": "청구 내역이 확정되었습니다.",
+    "suite-alerts-success-statement-money-transaction-saved": "청구 내역 거래가 업데이트되었습니다."
   }
 }
