@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Cancel",
-    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Additional charge incurred",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the charge card. At the end of the month, Branch manager will send the statement to your company manager to pay."
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Payment Confirmation",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The charge card allows to book now and pay later. At the end of the month the manager of your company will get a statement for payment."
   }
 }
