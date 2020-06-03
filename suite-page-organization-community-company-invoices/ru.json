@@ -1,7 +1,7 @@
 {
   "data": {
-    "suite-page-organization-community-company-invoices-title": "Statements",
+    "suite-page-organization-community-company-invoices-title": "Счета",
     "suite-page-organization-community-company-invoices-no-invoices": "Включите расчётную карту в Настройки/Бронирования.",
-    "suite-page-organization-community-company-invoices-get-failure": "Couldn't show company statements. Проверьте интернет-соединение."
+    "suite-page-organization-community-company-invoices-get-failure": "Не удалось отобразить счета компании. Проверьте интернет-соединение."
   }
 }
