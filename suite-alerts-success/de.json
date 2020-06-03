@@ -17,7 +17,7 @@
     "suite-alerts-success-organization-plan-purchased": "Das Abo wurde erworben.",
     "suite-alerts-success-organization-request-to-join": "Anfrage erfolgreich gesendet.",
     "suite-alerts-success-sessions-other-signed-out": "Sie wurden von allen anderen Sitzungen abgemeldet.",
-    "suite-alerts-success-statement-finalized": "Statement successfully finalized.",
-    "suite-alerts-success-statement-money-transaction-saved": "Statement transaction updated."
+    "suite-alerts-success-statement-finalized": "Kontoauszug erfolgreich abgeschlossen.",
+    "suite-alerts-success-statement-money-transaction-saved": "Kontoauszugstransaktion aktualisiert."
   }
 }
