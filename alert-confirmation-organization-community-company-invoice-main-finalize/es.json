@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Cancelar",
     "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Finalizar",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Are you sure you want to finalize statement? Esta acción es irreversible.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Finalize Statement"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "¿Estás seguro de que quieres finalizar el estado de cuenta? Esta acción es irreversible.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Finalizar el estado de cuenta"
   }
 }
