@@ -1,0 +1,9 @@
+{
+  "data": {
+    "suite-page-account-privacy-title": "Privacy",
+    "suite-page-account-privacy-user-email-visibility": "Visibilidad del email",
+    "suite-page-account-privacy-user-email-visibility-description": "Establece quién puede ver tu correo electrónico.",
+    "suite-page-account-privacy-user-phone-number-visibility": "Visibilidad del número",
+    "suite-page-account-privacy-user-phone-number-visibility-description": "Establece quién puede ver tu número teléfonico."
+  }
+}
