@@ -24,7 +24,7 @@
     "suite-page-organization-service-create-image-delete": "Видалити зображення",
     "suite-page-organization-service-create-is-featured-desc": "Обраний сервіс з'явиться у верхній частині сторінки Сервіси.",
     "suite-page-organization-service-create-is-featured-label": "Обране",
-    "suite-page-organization-service-create-is-private-desc": "Доступ до сервісу лише для вибраних відділень. Use this option to make service available only for branch managers. Use this option to make service available only for branch managers.",
+    "suite-page-organization-service-create-is-private-desc": "Доступ до сервісу лише для учасників вибраних відділень. Якщо нічого не вибрано, сервіс доступний лише для менеджерів відділень.",
     "suite-page-organization-service-create-is-private-label": "Обмежені відділення",
     "suite-page-organization-service-create-no-organization": "Відділення не вибрані.",
     "suite-page-organization-service-create-permission-title": "Доступ",
