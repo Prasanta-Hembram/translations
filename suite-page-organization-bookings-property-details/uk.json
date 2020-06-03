@@ -8,7 +8,7 @@
     "suite-page-organization-bookings-property-details-no-property": "Кімната не існує або ж була видалена.",
     "suite-page-organization-bookings-property-details-overview-booking-auto-release-interval": "- Непідтверджені резервації автоскасовуються через {interval}.",
     "suite-page-organization-bookings-property-details-overview-booking-check-in-interval": "- Підтвердження дозволено за {interval} до початку резервації.",
-    "suite-page-organization-bookings-property-details-overview-company-access": "- Це приватна кімната, вона доступна лише для вибраних компаній. Вибрані наступні компанії: {companyTitles}.",
+    "suite-page-organization-bookings-property-details-overview-company-access": "- Це кімната доступна лише для {companyTitles}.",
     "suite-page-organization-bookings-property-details-overview-company-access-no-companies": "- Це приватна кімната, вона доступна лише для вибраних компаній. Ви ще не вибрали жодну компанію.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- Максимальна тривалість резервації {duration}.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- Мінімальна тривалість резервації {duration}.",
