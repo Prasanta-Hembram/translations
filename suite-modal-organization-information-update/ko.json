@@ -16,7 +16,7 @@
     "suite-modal-organization-information-update-name-placeholder": "공간 명을 입력하기",
     "suite-modal-organization-information-update-policy-link": "개인정보 보호정책",
     "suite-modal-organization-information-update-policy-link-placeholder": "링크를 입력하기",
-    "suite-modal-organization-information-update-refund-policy-desc": "환불 규정, 개인정보 보호정책, 이용약관 등 링크를 포함하세요. 결제페이지 및 인보이스에 표시됩니다 statement.",
+    "suite-modal-organization-information-update-refund-policy-desc": "환불 규정, 개인정보 보호정책, 이용약관 등 링크를 포함하세요. 예약 결제 및 청구 내역 결제 페이지에 표시됩니다.",
     "suite-modal-organization-information-update-refund-policy-placeholder": "정보를 입력하기",
     "suite-modal-organization-information-update-refund-policy-title": "환불 정책",
     "suite-modal-organization-information-update-timezone": "시간대"
