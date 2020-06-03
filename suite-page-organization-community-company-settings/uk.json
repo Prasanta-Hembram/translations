@@ -2,11 +2,11 @@
   "data": {
     "suite-page-organization-community-company-settings-title": "Налаштування",
     "suite-page-organization-community-company-settings-billing-address-title": "Інформація про компанію",
-    "suite-page-organization-community-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on statements.",
+    "suite-page-organization-community-company-settings-billing-address-desc": "Укажіть назву компанії, адресу, та будь-яку іншу юридичну інформацію для включення в рахунок.",
     "suite-page-organization-community-company-settings-billing-address-placeholder": "Увести інформацію",
     "suite-page-organization-community-company-settings-book-by-charge-card-permission": "Резервації з розрахунковою картою",
     "suite-page-organization-community-company-settings-charge-card": "Розрахункова карта",
-    "suite-page-organization-community-company-settings-charge-card-description": "When turned on, charge card payment method becomes available for the company.",
+    "suite-page-organization-community-company-settings-charge-card-description": "Увімкнути оплати розрахунковою картою для компанії.",
     "suite-page-organization-community-company-settings-error-title": "Уведіть назву компанії.",
     "suite-page-organization-community-company-settings-name": "Назва",
     "suite-page-organization-community-company-settings-name-placeholder": "Увести назву",
