@@ -2,9 +2,9 @@
   "data": {
     "suite-modal-settings-integration-stripe-update-account-email": "이메일",
     "suite-modal-settings-integration-stripe-update-account-name": "계정 명",
-    "suite-modal-settings-integration-stripe-update-company-invoice": "Company Charge Card",
+    "suite-modal-settings-integration-stripe-update-company-invoice": "후불카드",
     "suite-modal-settings-integration-stripe-update-description": "선택한 서비스에 대해 회원들은 Stripe로 결제하겠습니다.",
-    "suite-modal-settings-integration-stripe-update-room-booking": "회의실 예약",
+    "suite-modal-settings-integration-stripe-update-room-booking": "예약",
     "suite-modal-settings-integration-stripe-update-section-payments": "결제",
     "suite-modal-settings-integration-stripe-update-title": "계정"
   }
