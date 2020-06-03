@@ -1,6 +1,6 @@
 {
   "data": {
-    "suite-page-organization-bookings-property-edit-title-edit": "회의실설정",
+    "suite-page-organization-bookings-property-edit-title-edit": "실 설정",
     "suite-page-organization-bookings-property-edit-booking-auto-release-desc": "체크인하지 않을 경우 자동으로 회의실 예약을 취소합니다. 무료 예약에만 적용됩니다. 룸 디스플레이가 필요합니다.",
     "suite-page-organization-bookings-property-edit-booking-auto-release-interval-desc": "체크인되지 않은 예약이 취소되기 전 대기할 시간입니다.",
     "suite-page-organization-bookings-property-edit-booking-auto-release-interval-label": "체크인 대기 시간",
@@ -14,12 +14,12 @@
     "suite-page-organization-bookings-property-edit-company-add-company": "선택하기",
     "suite-page-organization-bookings-property-edit-description": "설명",
     "suite-page-organization-bookings-property-edit-description-placeholder": "설명입력(선택사항)",
-    "suite-page-organization-bookings-property-edit-error-no-property": "이 회의실은 존재하지 않거나 삭제되었을 수 있습니다.",
-    "suite-page-organization-bookings-property-edit-error-number-of-people": "회의실의 수용가능인원 입력.",
+    "suite-page-organization-bookings-property-edit-error-no-property": "이 실은 존재하지 않거나 삭제되었을 수 있습니다.",
+    "suite-page-organization-bookings-property-edit-error-number-of-people": "실의 수용가능인원 입력.",
     "suite-page-organization-bookings-property-edit-error-minimum-time": "최소 예약 시간은 지정된 예약시간 단위를 적을 수 없습니다.",
     "suite-page-organization-bookings-property-edit-error-price-money": "금액을 입력해 주세요.",
     "suite-page-organization-bookings-property-edit-error-price-credits": "크레딧 금액을 입력해 주세요.",
-    "suite-page-organization-bookings-property-edit-error-room-name": "회의실 명 입력하기.",
+    "suite-page-organization-bookings-property-edit-error-room-name": "실 명 입력하기.",
     "suite-page-organization-bookings-property-edit-is-private": "출입 제한",
     "suite-page-organization-bookings-property-edit-limited-access-title": "출입",
     "suite-page-organization-bookings-property-edit-limited-access-desc": "특정 회사만 회의실에 접근합니다.",
@@ -28,7 +28,7 @@
     "suite-page-organization-bookings-property-edit-min-time": "최소예약시간",
     "suite-page-organization-bookings-property-edit-name": "회의실 명",
     "suite-page-organization-bookings-property-edit-name-placeholder": "회의실 명 입력하기",
-    "suite-page-organization-bookings-property-edit-no-companies": "회사이 선택되지 않습니다.",
+    "suite-page-organization-bookings-property-edit-no-companies": "회사가 선택되지 않습니다.",
     "suite-page-organization-bookings-property-edit-number-of-seats": "좌석 수",
     "suite-page-organization-bookings-property-edit-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-bookings-property-edit-price-points": "시간당 {pointEmoji}"
