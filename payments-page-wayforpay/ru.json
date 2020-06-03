@@ -2,7 +2,7 @@
   "data": {
     "payments-page-wayforpay-meta-title": "Оплата по WayForPay | andcards",
     "payments-page-wayforpay-page-title-booking": "Оплатить бронирование",
-    "payments-page-wayforpay-page-title-invoice": "Оплатить Statement",
+    "payments-page-wayforpay-page-title-invoice": "Оплатить счёт",
     "payments-page-wayforpay-page-error": "Запрос на оплату уже обработан или не существует.",
     "payments-page-wayforpay-page-success": "Оплата прошла успешно."
   }
