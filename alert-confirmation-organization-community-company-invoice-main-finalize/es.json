@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Cancelar",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Finalizar",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "¿Estás seguro de que quieres finalizar el estado de cuenta? Esta acción es irreversible.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Finalizar el estado de cuenta"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Enviar",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "¿Estás seguro de que quieres enviar el estado de cuenta al gerente de la empresa? Esta acción es irreversible.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Enviar el estado de cuenta"
   }
 }
