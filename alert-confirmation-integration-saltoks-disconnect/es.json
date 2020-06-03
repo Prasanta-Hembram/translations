@@ -1,8 +1,8 @@
 {
   "data": {
-    "alert-confirmation-integration-saltoks-disconnect-text": "Are you sure you want to disconnect SaltoKS?",
-    "alert-confirmation-integration-saltoks-disconnect-no": "Cancel",
-    "alert-confirmation-integration-saltoks-disconnect-title": "Disconnect SaltoKS",
-    "alert-confirmation-integration-saltoks-disconnect-yes": "Disconnect"
+    "alert-confirmation-integration-saltoks-disconnect-title": "Desconectar SaltoKS",
+    "alert-confirmation-integration-saltoks-disconnect-text": "¿Estás seguro de que quieres desconectar SaltoKS?",
+    "alert-confirmation-integration-saltoks-disconnect-no": "Cancelar",
+    "alert-confirmation-integration-saltoks-disconnect-yes": "Desconectar"
   }
 }
