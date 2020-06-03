@@ -24,7 +24,7 @@
     "suite-page-organization-benefit-edit-get-failure": "No se pudo mostrar beneficio. Revisa tu conexión de internet y vuelve a intentarlo.",
     "suite-page-organization-benefit-edit-is-featured-desc": "El beneficio destacado aparecerá en la parte superior de la página de Beneficios.",
     "suite-page-organization-benefit-edit-is-featured-label": "Destacado",
-    "suite-page-organization-benefit-edit-is-private-desc": "Permitir que sólo determinados espacios de coworking accedan a los beneficios. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-edit-is-private-desc": "Permitir que sólo los miembros de determinados espacios de coworking tengan acceso a este beneficio. Si no se selecciona nada, el beneficio sólo es visible para los gerentes de los sedes.",
     "suite-page-organization-benefit-edit-is-private-label": "Sucursales limitadas",
     "suite-page-organization-benefit-edit-image-delete": "Borrar imagen",
     "suite-page-organization-benefit-edit-no-organization": "No se han seleccionado las sucursales.",
