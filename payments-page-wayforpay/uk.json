@@ -1,8 +1,8 @@
 {
   "data": {
     "payments-page-wayforpay-meta-title": "Оплата по WayForPay | andcards",
-    "payments-page-wayforpay-page-title-booking": "Сплатити за резервацію",
-    "payments-page-wayforpay-page-title-invoice": "Оплатити Statement",
+    "payments-page-wayforpay-page-title-booking": "Оплатити резервацію",
+    "payments-page-wayforpay-page-title-invoice": "Оплатити рахунок",
     "payments-page-wayforpay-page-error": "Платіжний запит виконано або не існує.",
     "payments-page-wayforpay-page-success": "Платіж успешно завершений."
   }
