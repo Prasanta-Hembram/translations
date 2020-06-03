@@ -24,7 +24,7 @@
     "suite-page-organization-benefit-create-image-delete": "Удалить изображение",
     "suite-page-organization-benefit-create-is-featured-desc": "Избранное преимущество закрепится в верхней части страницы Преимущества.",
     "suite-page-organization-benefit-create-is-featured-label": "Избранное",
-    "suite-page-organization-benefit-create-is-private-desc": "Доступ к преимуществу только для некоторых отделений. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-create-is-private-desc": "Доступ к преимуществу только для участников выбранных отделений. Если ничего не выбрано, преимущество доступно только для менеджеров отделений.",
     "suite-page-organization-benefit-create-is-private-label": "Ограниченные отделения",
     "suite-page-organization-benefit-create-no-organization": "Отделения не выбраны.",
     "suite-page-organization-benefit-create-permission-title": "Доступ",
