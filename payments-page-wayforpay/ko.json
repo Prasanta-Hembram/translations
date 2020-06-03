@@ -2,7 +2,7 @@
   "data": {
     "payments-page-wayforpay-meta-title": "WayForPay 결제 | andcards",
     "payments-page-wayforpay-page-title-booking": "회의실 예약 결제",
-    "payments-page-wayforpay-page-title-invoice": "인보이스 결제 Statement",
+    "payments-page-wayforpay-page-title-invoice": "청구 내역 결제",
     "payments-page-wayforpay-page-error": "결제 요청이 이미 완료되었거나 존재하지 않습니다.",
     "payments-page-wayforpay-page-success": "결제 완료되었습니다."
   }
