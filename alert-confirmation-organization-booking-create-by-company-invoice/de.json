@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Abbrechen",
     "alert-confirmation-organization-booking-create-by-company-invoice-title": "Zusätzlich anfallende Kosten",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "The expense will be added to the charge card. At the end of the month, Branch Manager will send the statement to your Company Manager to pay."
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Die Kosten werden der Charge-Karte hinzugefügt. Am Ende des Monats schickt der Standort-Manager die Abrechnung zur Zahlung an Ihren Unternehmensleiter."
   }
 }
