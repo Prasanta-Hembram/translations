@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-company-plan-deactivate-title": "Desactivar",
     "alert-confirmation-organization-company-plan-deactivate-no": "Cancelar",
-    "alert-confirmation-organization-company-plan-deactivate-text": "¿Estás seguro de que quieres desactivar el empresa-plan activo? Se perderán todos los privilegios de membresía, incluidos los créditos. Esta acción es irreversible y NO REEMBOLSABLE",
+    "alert-confirmation-organization-company-plan-deactivate-text": "¿Estás seguro de que quieres desactivar el plan activo? Se perderán todos los privilegios de membresía, incluidos los créditos. Esta acción es irreversible y NO REEMBOLSABLE",
     "alert-confirmation-organization-company-plan-deactivate-yes": "Desactivar"
   }
 }
