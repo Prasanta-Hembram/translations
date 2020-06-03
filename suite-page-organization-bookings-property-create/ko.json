@@ -26,7 +26,7 @@
     "suite-page-organization-bookings-property-create-min-time": "최소예약시간",
     "suite-page-organization-bookings-property-create-name": "회의실 명",
     "suite-page-organization-bookings-property-create-name-placeholder": "회의실 명 입력하기",
-    "suite-page-organization-bookings-property-create-no-companies": "회사이 선택되지 않습니다.",
+    "suite-page-organization-bookings-property-create-no-companies": "회사가 선택되지 않습니다.",
     "suite-page-organization-bookings-property-create-number-of-seats": "좌석 수",
     "suite-page-organization-bookings-property-create-price-money": "시간당 {currencySymbol}",
     "suite-page-organization-bookings-property-create-price-points": "시간당 {pointEmoji}",
