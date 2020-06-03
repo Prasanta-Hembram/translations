@@ -24,7 +24,7 @@
     "suite-page-organization-service-create-image-delete": "사진 삭제하기",
     "suite-page-organization-service-create-is-featured-desc": "서비스 페이지의 맨 위에 해당 서비스가 나타납니다.",
     "suite-page-organization-service-create-is-featured-label": "추천 서비스",
-    "suite-page-organization-service-create-is-private-desc": "특정 공간에서만 서비스를 볼 수 있도록 허용합니다. Use this option to make service available only for branch managers.",
+    "suite-page-organization-service-create-is-private-desc": "특정 공간의 회원만 서비스를 볼 수 있도록 허용합니다. 아무것도 선택하지 않으면 서비스는 지점관리자만 볼 수 있습니다.",
     "suite-page-organization-service-create-is-private-label": "지점 제한",
     "suite-page-organization-service-create-no-organization": "지점이 선택되지 않았습니다.",
     "suite-page-organization-service-create-permission-title": "권한",
