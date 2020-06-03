@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-company-delete-with-members-title": "Eliminar empresa",
     "alert-confirmation-organization-company-delete-with-members-no": "Cancelar",
-    "alert-confirmation-organization-company-delete-with-members-text": "¿Estás seguro de que quieres eliminar el empresa junto con sus miembros? Esta acción es irreversible.",
+    "alert-confirmation-organization-company-delete-with-members-text": "¿Estás seguro de que quieres eliminar la empresa junto con todos miembros? Esta acción es irreversible.",
     "alert-confirmation-organization-company-delete-with-members-yes": "Eliminar"
   }
 }
