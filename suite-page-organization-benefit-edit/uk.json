@@ -24,7 +24,7 @@
     "suite-page-organization-benefit-edit-error-title": "Уведіть назву.",
     "suite-page-organization-benefit-edit-is-featured-desc": "Обрана перевага з'явиться у верхній частині сторінки Переваг.",
     "suite-page-organization-benefit-edit-is-featured-label": "Обране",
-    "suite-page-organization-benefit-edit-is-private-desc": "Доступ до переваги лише для вибраних відділень. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-edit-is-private-desc": "Доступ до переваги лише для учасників вибраних відділень. Якщо нічого не вибрано, перевага доступна лише для менеджерів відділень.",
     "suite-page-organization-benefit-edit-is-private-label": "Обмежені відділення",
     "suite-page-organization-benefit-edit-image-delete": "Видалити зображення",
     "suite-page-organization-benefit-edit-no-organization": "Відділення не вибрані.",
