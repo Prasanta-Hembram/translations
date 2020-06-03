@@ -1,12 +1,12 @@
 {
   "data": {
-    "alert-confirmation-organization-company-credits-charge-message": "Введите сумму кредитов для оплаты компании.",
+    "alert-confirmation-organization-company-credits-charge-message": "Введите сумму кредитов для списания с компании.",
     "alert-confirmation-organization-company-credits-charge-no": "Отменить",
-    "alert-confirmation-organization-company-credits-charge-title": "Количество кредитов",
+    "alert-confirmation-organization-company-credits-charge-title": "Списать кредиты",
     "alert-confirmation-organization-company-credits-charge-yes": "Списать",
-    "alert-confirmation-organization-company-credits-give-message": "Введите сумму кредитов для компании.",
+    "alert-confirmation-organization-company-credits-give-message": "Введите сумму кредитов для начисления на компанию.",
     "alert-confirmation-organization-company-credits-give-no": "Отменить",
-    "alert-confirmation-organization-company-credits-give-title": "Количество кредитов",
+    "alert-confirmation-organization-company-credits-give-title": "Начислить кредиты",
     "alert-confirmation-organization-company-credits-give-yes": "Начислить"
   }
 }
