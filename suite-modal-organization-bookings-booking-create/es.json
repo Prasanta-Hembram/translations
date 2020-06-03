@@ -1,10 +1,10 @@
 {
   "data": {
     "suite-modal-organization-bookings-booking-create-title": "Nueva reserva",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-charge-card": "Charge Card",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-charge-card": "Tarjeta de cargos",
     "suite-modal-organization-bookings-booking-create-balance-action-button-money": "Pago externo",
     "suite-modal-organization-bookings-booking-create-balance-action-button-point-personal": "Créditos personales",
-    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Créditos del empresa",
+    "suite-modal-organization-bookings-booking-create-balance-action-button-point-company": "Créditos empresarial",
     "suite-modal-organization-bookings-booking-create-balance-description-text": "Si cancelas esta reserva antes de su comienzo, el 100% de los créditos serán reembolsados.",
     "suite-modal-organization-bookings-booking-create-book": "Reservar",
     "suite-modal-organization-bookings-booking-create-book-by": "Reservado por",
