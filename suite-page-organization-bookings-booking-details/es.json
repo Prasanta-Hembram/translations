@@ -5,7 +5,7 @@
     "suite-page-organization-bookings-booking-details-action-button-money-card": "Tarjeta ({price})",
     "suite-page-organization-bookings-booking-details-action-button-money-cash": "Pago externo ({price})",
     "suite-page-organization-bookings-booking-details-action-button-point-personal": "Créditos personales ({balance})",
-    "suite-page-organization-bookings-booking-details-action-button-point-company": "Créditos del empresa ({balance})",
+    "suite-page-organization-bookings-booking-details-action-button-point-company": "Créditos empresarial ({balance})",
     "suite-page-organization-bookings-booking-details-action-button-point-company-with-name": "Créditos del {companyTitle} ({balance})",
     "suite-page-organization-bookings-booking-details-action-delete": "Borrar",
     "suite-page-organization-bookings-booking-details-button-go-back": "Regresa",
