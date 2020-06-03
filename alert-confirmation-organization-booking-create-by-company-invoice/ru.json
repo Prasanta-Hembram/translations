@@ -3,6 +3,6 @@
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Отмена",
     "alert-confirmation-organization-booking-create-by-company-invoice-title": "Подтверждение платежа",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Расчётная карта позволяет бронировать сейчас и платить позже. В конце месяца менеджер отделения выставит счёт менеджеру вашей компании."
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Расчётная карта позволяет бронировать сейчас и платить позже. В конце месяца менеджер вашей компании получит счёт для оплаты."
   }
 }
