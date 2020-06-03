@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-saltoks-disconnect-title": "SaltoKS 연결 끊기",
+    "alert-confirmation-integration-saltoks-disconnect-text": "SaltoKS의 연결을 끊으시겠습니까?",
+    "alert-confirmation-integration-saltoks-disconnect-no": "취소",
+    "alert-confirmation-integration-saltoks-disconnect-yes": "연결 끊기"
+  }
+}

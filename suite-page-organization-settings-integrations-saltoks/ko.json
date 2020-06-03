@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-saltoks-account-email": "Email",
+    "suite-page-organization-settings-integrations-saltoks-account-title": "계정",
+    "suite-page-organization-settings-integrations-saltoks-button-connect": "연결하기",
+    "suite-page-organization-settings-integrations-saltoks-button-disconnect": "연결 끊기",
+    "suite-page-organization-settings-integrations-saltoks-description": "커뮤니티의 회원 정보를 SaltoKS에 동기화시키세요.",
+    "suite-page-organization-settings-integrations-saltoks-marketing-link-description": "더 알아보기",
+    "suite-page-organization-settings-integrations-saltoks-login-title": "SaltoKS 로그인",
+    "suite-page-organization-settings-integrations-saltoks-title": "연동"
+  }
+}

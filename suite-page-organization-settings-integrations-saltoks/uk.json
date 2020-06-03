@@ -1,0 +1,12 @@
+{
+  "data": {
+    "suite-page-organization-settings-integrations-saltoks-account-email": "Email",
+    "suite-page-organization-settings-integrations-saltoks-account-title": "Обліковий запис",
+    "suite-page-organization-settings-integrations-saltoks-button-connect": "Під'єднати",
+    "suite-page-organization-settings-integrations-saltoks-button-disconnect": "Від'єднати",
+    "suite-page-organization-settings-integrations-saltoks-description": "Синхронізуйте інформацію про резидентів спільноти в SaltoKS.",
+    "suite-page-organization-settings-integrations-saltoks-marketing-link-description": "Дізнатись більше",
+    "suite-page-organization-settings-integrations-saltoks-login-title": "Вхід у SaltoKS",
+    "suite-page-organization-settings-integrations-saltoks-title": "Інтеграція"
+  }
+}

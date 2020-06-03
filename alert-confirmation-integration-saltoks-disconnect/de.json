@@ -1,0 +1,8 @@
+{
+  "data": {
+    "alert-confirmation-integration-saltoks-disconnect-title": "SaltoKS abmelden",
+    "alert-confirmation-integration-saltoks-disconnect-text": "Sind sie sicher, dass Sie SaltoKS abmelden wollen?",
+    "alert-confirmation-integration-saltoks-disconnect-no": "Abbrechen",
+    "alert-confirmation-integration-saltoks-disconnect-yes": "Abmelden"
+  }
+}
