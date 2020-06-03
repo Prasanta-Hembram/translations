@@ -1,8 +1,8 @@
 {
   "data": {
     "alert-confirmation-organization-community-company-invoice-main-finalize-no": "Скасувати",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Завершити",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Are you sure you want to finalize statement? Ця дія незворотна.",
-    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Завершити statement"
+    "alert-confirmation-organization-community-company-invoice-main-finalize-yes": "Надіслати",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-text": "Переконані, що хочете закрити й надіслати рахунок клієнту? Ця дія незворотна.",
+    "alert-confirmation-organization-community-company-invoice-main-finalize-title": "Надіслати рахунок"
   }
 }
