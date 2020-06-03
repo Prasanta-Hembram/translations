@@ -8,7 +8,7 @@
     "suite-page-organization-bookings-property-details-no-property": "이 회의실은 존재하지 않거나 삭제되었을 수 있습니다.",
     "suite-page-organization-bookings-property-details-overview-booking-auto-release-interval": "- 체크인되지 않은 예약은 {interval} 후에 자동으로 취소됩니다.",
     "suite-page-organization-bookings-property-details-overview-booking-check-in-interval": "- 체크인은 {interval} 전에 가능합니다.",
-    "suite-page-organization-bookings-property-details-overview-company-access": "- 이 회의실은 특별 회사 만 수용가능합니다. 다음과 같은 회사이 선택되었습니다 : {companyTitles}.",
+    "suite-page-organization-bookings-property-details-overview-company-access": "- 이 회의실은 {companyTitles} 만 수용가능합니다.",
     "suite-page-organization-bookings-property-details-overview-company-access-no-companies": "- 이 회의실은 특별 회사 만 수용가능합니다. 선택된 회사이 없습니다.",
     "suite-page-organization-bookings-property-details-overview-max-booking-time": "- 최대 예약 시간 {duration}입니다.",
     "suite-page-organization-bookings-property-details-overview-min-booking-time": "- 최저 예약 시간 {duration}입니다.",
