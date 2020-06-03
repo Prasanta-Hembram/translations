@@ -16,7 +16,7 @@
     "suite-modal-organization-information-update-name-placeholder": "Namen eingeben",
     "suite-modal-organization-information-update-policy-link": "Datenschutzerklärung",
     "suite-modal-organization-information-update-policy-link-placeholder": "Geben Sie einen Link ein",
-    "suite-modal-organization-information-update-refund-policy-desc": "Fügen Sie Informationen oder Links zu Rückerstattung, Nutzungsbedingungen oder anderen Richtlinien hinzu. Diese werden auf der Zahlungsseite und der Statement angezeigt.",
+    "suite-modal-organization-information-update-refund-policy-desc": "Fügen Sie Informationen oder Links zu Rückerstattung, Nutzungsbedingungen oder anderen Richtlinien hinzu. Diese werden auf der Zahlungsseite und der Kontoauszug angezeigt.",
     "suite-modal-organization-information-update-refund-policy-placeholder": "Informationen eingeben",
     "suite-modal-organization-information-update-refund-policy-title": "Rückerstattungsrichtlinie",
     "suite-modal-organization-information-update-timezone": "Zeitzone"
