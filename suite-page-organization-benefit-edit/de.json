@@ -24,7 +24,7 @@
     "suite-page-organization-benefit-edit-get-failure": "Konnte Dienst nicht anzeigen. Überprüfen Sie die Internetverbindung und versuchen Sie es erneut.",
     "suite-page-organization-benefit-edit-is-featured-desc": "Der vorgestellte Vorteil erscheint oben auf der Seite Vorteile.",
     "suite-page-organization-benefit-edit-is-featured-label": "Vorgestellt",
-    "suite-page-organization-benefit-edit-is-private-desc": "Nur bestimmte Workspaces dürfen auf die Vorteil zugreifen. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-edit-is-private-desc": "Erlauben Sie nur Mitgliedern bestimmter Arbeitsbereiche den Zugriff auf die Vorteile. Wenn nichts ausgewählt ist, ist der Vorteil nur für Standortmanager sichtbar.",
     "suite-page-organization-benefit-edit-is-private-label": "Begrenzte Standorte",
     "suite-page-organization-benefit-edit-image-delete": "Bild löschen",
     "suite-page-organization-benefit-edit-no-organization": "Standorte sind nicht ausgewählt..",
