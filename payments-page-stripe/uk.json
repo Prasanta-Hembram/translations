@@ -4,8 +4,8 @@
     "payments-page-stripe-field-email-label": "Email",
     "payments-page-stripe-field-email-placeholder": "Уведіть email",
     "payments-page-stripe-page-privacy-description": "Ваші персональні дані будуть відправлені в платіжну систему для того, щоб провести платіж.",
-    "payments-page-stripe-page-title-booking": "Сплатити за резервацію",
-    "payments-page-stripe-page-title-invoice": "Оплатити Statement",
+    "payments-page-stripe-page-title-booking": "Оплатити резервацію",
+    "payments-page-stripe-page-title-invoice": "Оплатити рахунок",
     "payments-page-stripe-page-error": "Платіжний запит виконано або не існує.",
     "payments-page-stripe-page-success": "Платіж успешно завершений.",
     "payments-page-stripe-pay-by-card-pay-button": "Оплата {price}"
