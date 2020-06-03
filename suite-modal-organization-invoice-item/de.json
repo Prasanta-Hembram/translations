@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-modal-organization-invoice-item-title": "Item Details",
+    "suite-modal-organization-invoice-item-title": "Details der Kontoauszugsposition",
     "suite-modal-organization-invoice-item-booking-details-end-date": "Endet",
     "suite-modal-organization-invoice-item-booking-details-start-date": "Beginnt",
     "suite-modal-organization-invoice-item-booking-details-property-name": "Raum",
     "suite-modal-organization-invoice-item-booking-details-title": "Buchungsdetails",
     "suite-modal-organization-invoice-item-date-label": "Datum",
-    "suite-modal-organization-invoice-item-status-desc": "Choose whether the item is included into the statement."
+    "suite-modal-organization-invoice-item-status-desc": "Wählen Sie, ob die Kontoauszugsposition in die Kontoauszug aufgenommen werden soll."
   }
 }
