@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Cancelar",
-    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Cargo adicional incurrido",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "El gasto se añadirá a la tarjeta de cargos. Al final del mes, el gerente de la sede enviará el estado de cuenta al gerente de la empresa para que lo pague."
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Confirmación del pago",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "La tarjeta de cargos permite reservar ahora y pagar más tarde. A fin de mes el gerente de tu empresa recibirá un estado de cuenta para el pago."
   }
 }
