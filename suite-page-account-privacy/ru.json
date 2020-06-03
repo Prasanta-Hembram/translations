@@ -4,6 +4,7 @@
     "suite-page-account-privacy-user-email-visibility": "Видимость email",
     "suite-page-account-privacy-user-email-visibility-description": "Настройте кто может видеть ваш адрес email.",
     "suite-page-account-privacy-user-phone-number-visibility": "Видимость телефона",
-    "suite-page-account-privacy-user-phone-number-visibility-description": "Настройте кто может видеть ваш номер телефона."
+    "suite-page-account-privacy-user-phone-number-visibility-description": "Настройте кто может видеть ваш номер телефона.",
+    "suite-page-account-privacy-user-profile-in-bookings-visibility": "Name Visibility in Bookings"
   }
 }

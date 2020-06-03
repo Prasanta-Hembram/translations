@@ -5,6 +5,14 @@
     "utils-profile-name-default": "Без імені",
     "utils-profile-name-unidentified": "Невідомий учасник",
     "utils-profile-phone-number-visibility-admins": "Менеджери відділення",
-    "utils-profile-phone-number-visibility-all": "Усі учасники"
+    "utils-profile-phone-number-visibility-all": "Усі учасники",
+    "utils-profile-profile-in-bookings-visibility-company": "Company",
+    "utils-profile-profile-in-bookings-visibility-company-desc": "Branch Managers and Company Members will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-branch": "Branch",
+    "utils-profile-profile-in-bookings-visibility-branch-desc": "All Members in workspace will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-branch-managers": "Branch Managers",
+    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Branch Managers will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-network": "Network",
+    "utils-profile-profile-in-bookings-visibility-network-desc": "All Members in network will see your name in Bookings."
   }
 }
