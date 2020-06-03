@@ -2,7 +2,7 @@
   "data": {
     "payments-page-wayforpay-meta-title": "Mit WayForPay bezahlen | andcards",
     "payments-page-wayforpay-page-title-booking": "Buchung bezahlen",
-    "payments-page-wayforpay-page-title-invoice": "Statement bezahlen",
+    "payments-page-wayforpay-page-title-invoice": "Kontoauszug bezahlen",
     "payments-page-wayforpay-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
     "payments-page-wayforpay-page-success": "Zahlung erfolgt."
   }
