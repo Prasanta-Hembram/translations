@@ -17,7 +17,7 @@
     "suite-alerts-success-organization-plan-purchased": "Купівля плану успішна.",
     "suite-alerts-success-organization-request-to-join": "Заявку успішно надіслано",
     "suite-alerts-success-sessions-other-signed-out": "Ви вийшли з усіх інших сесій.",
-    "suite-alerts-success-statement-finalized": "Statement successfully finalized.",
-    "suite-alerts-success-statement-money-transaction-saved": "Statement transaction updated."
+    "suite-alerts-success-statement-finalized": "Рахунок успішно надіслано.",
+    "suite-alerts-success-statement-money-transaction-saved": "Транзакцію рахунку оновлено."
   }
 }
