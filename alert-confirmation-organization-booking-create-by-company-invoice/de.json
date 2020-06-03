@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-organization-booking-create-by-company-invoice-yes": "OK",
     "alert-confirmation-organization-booking-create-by-company-invoice-no": "Abbrechen",
-    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Zusätzlich anfallende Kosten",
-    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Die Kosten werden der Charge-Karte hinzugefügt. Am Ende des Monats schickt der Standortmanager den Kontoauszug zur Zahlung an Ihren Unternehmensleiter."
+    "alert-confirmation-organization-booking-create-by-company-invoice-title": "Bestätigung der Zahlung",
+    "alert-confirmation-organization-booking-create-by-company-invoice-text": "Mit der Charge-Karte können Sie jetzt buchen und später bezahlen. Am Ende des Monats erhält der Unternehmensleiter einen Kontoauszug zur Zahlung."
   }
 }
