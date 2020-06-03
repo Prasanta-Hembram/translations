@@ -5,7 +5,7 @@
     "payments-page-stripe-field-email-placeholder": "E-Mail eingeben",
     "payments-page-stripe-page-privacy-description": "Ihre personenbezogenen Daten werden an den Zahlungsdienstleister zur Abwicklung der Zahlung übermittelt.",
     "payments-page-stripe-page-title-booking": "Buchung bezahlen",
-    "payments-page-stripe-page-title-invoice": "Statement bezahlen",
+    "payments-page-stripe-page-title-invoice": "Kontoauszug bezahlen",
     "payments-page-stripe-page-error": "Die Zahlungsanforderung ist bereits abgeschlossen oder existiert nicht.",
     "payments-page-stripe-page-success": "Zahlung erfolgt.",
     "payments-page-stripe-pay-by-card-pay-button": "Bezahlen Sie {price}"
