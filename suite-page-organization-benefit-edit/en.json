@@ -25,7 +25,7 @@
     "suite-page-organization-benefit-edit-image-delete": "Delete Image",
     "suite-page-organization-benefit-edit-is-featured-desc": "The featured benefit will appear at the top of the Benefits page.",
     "suite-page-organization-benefit-edit-is-featured-label": "Featured",
-    "suite-page-organization-benefit-edit-is-private-desc": "Allow only certain workspaces to access the benefit. Use this option to make service available only for branch managers.",
+    "suite-page-organization-benefit-edit-is-private-desc": "Allow only members of certain workspaces to access the benefit. If nothing is selected, the benefit is only visible to branch managers.",
     "suite-page-organization-benefit-edit-is-private-label": "Limited Branches",
     "suite-page-organization-benefit-edit-no-organization": "Branches are not selected.",
     "suite-page-organization-benefit-edit-no-benefit": "There is no benefit to display.",
