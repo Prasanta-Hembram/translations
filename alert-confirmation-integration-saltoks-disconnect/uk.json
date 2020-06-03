@@ -2,7 +2,7 @@
   "data": {
     "alert-confirmation-integration-saltoks-disconnect-title": "Відключити SaltoKS",
     "alert-confirmation-integration-saltoks-disconnect-text": "Ви впевнені, що хочете відключити SaltoKS?",
-    "alert-confirmation-integration-saltoks-disconnect-no": "Відмінити",
+    "alert-confirmation-integration-saltoks-disconnect-no": "Скасувати",
     "alert-confirmation-integration-saltoks-disconnect-yes": "Відключити"
   }
 }
