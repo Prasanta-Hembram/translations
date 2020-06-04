@@ -6,13 +6,13 @@
     "utils-profile-name-unidentified": "Неизвестный участник",
     "utils-profile-phone-number-visibility-admins": "Менеджеры отделения",
     "utils-profile-phone-number-visibility-all": "Все участники",
-    "utils-profile-profile-in-bookings-visibility-company": "Company",
-    "utils-profile-profile-in-bookings-visibility-company-desc": "Менеджеры отделения and Company Members will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch": "Branch",
-    "utils-profile-profile-in-bookings-visibility-branch-desc": "Все участники in workspace will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-company": "Компания",
+    "utils-profile-profile-in-bookings-visibility-company-desc": "Участники вашей компании и менеджеры отделения увидят ваше имя на бронировании.",
+    "utils-profile-profile-in-bookings-visibility-branch": "Отделение",
+    "utils-profile-profile-in-bookings-visibility-branch-desc": "Все участники отделения увидят ваше имя на бронировании.",
     "utils-profile-profile-in-bookings-visibility-branch-managers": "Менеджеры отделения",
-    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Менеджеры отделения will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-network": "Network",
-    "utils-profile-profile-in-bookings-visibility-network-desc": "Все участники in network will see your name in Bookings."
+    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Менеджеры отделения увидят ваше имя на бронировании.",
+    "utils-profile-profile-in-bookings-visibility-network": "Сеть",
+    "utils-profile-profile-in-bookings-visibility-network-desc": "Все участники во всех отделениях увидят ваше имя на бронировании."
   }
 }
