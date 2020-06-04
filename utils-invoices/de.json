@@ -2,11 +2,11 @@
   "data": {
     "utils-invoice-book-by-invoice-permission-all-members": "Unternehmenmanager und Unternehmenmitglieder",
     "utils-invoice-book-by-invoice-permission-company-managers": "Unternehmenmanager",
-    "utils-invoice-book-by-invoice-permission-info-all-members": "Alle Unternehmenmitglieder können Räume per charge card.",
-    "utils-invoice-book-by-invoice-permission-info-company-managers": "Nur Unternehmenmanager können Räume per charge card.",
-    "utils-invoice-item-type-booking-payment-type": "Gebuchter Raum",
-    "utils-invoice-item-type-booking-payment-type-with-name": "Raum gebucht von {name}",
-    "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Raum {roomName} gebucht von {name}",
+    "utils-invoice-book-by-invoice-permission-info-all-members": "Alle Unternehmenmitglieder können mit Charge-Karte buchen.",
+    "utils-invoice-book-by-invoice-permission-info-company-managers": "Nur Unternehmenmanager können mit Charge-Karte buchen.",
+    "utils-invoice-item-type-booking-payment-type": "Raum-Buchung",
+    "utils-invoice-item-type-booking-payment-type-with-name": "Raum-Buchung von {name}",
+    "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "{roomName}-Buchung von {name}",
     "utils-invoice-is-unfinished": "Nicht abgeschlossen {amount}",
     "utils-invoice-item-type-default": "Sonstiges"
   }
