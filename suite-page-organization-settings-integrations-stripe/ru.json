@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "Charge Card компании",
+    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "Расчётная карта",
     "suite-page-organization-settings-integrations-stripe-account-email": "Email",
     "suite-page-organization-settings-integrations-stripe-account-name": "Имя",
-    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Бронирования переговорной",
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Бронирования",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Выключено",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "Включено",
     "suite-page-organization-settings-integrations-stripe-account-title": "Учетная запись",
