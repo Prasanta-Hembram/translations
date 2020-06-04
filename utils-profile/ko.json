@@ -1,18 +1,19 @@
 {
   "data": {
-    "utils-profile-email-visibility-admins": "지점 관리자",
+    "utils-profile-email-visibility-admins": "지점관리자",
     "utils-profile-email-visibility-all": "전체 회원",
     "utils-profile-name-default": "명이 없음",
     "utils-profile-name-unidentified": "불명 회원",
-    "utils-profile-phone-number-visibility-admins": "지점 관리자",
+    "utils-profile-phone-number-visibility-admins": "지점관리자",
     "utils-profile-phone-number-visibility-all": "전체 회원",
-    "utils-profile-profile-in-bookings-visibility-company": "Company",
-    "utils-profile-profile-in-bookings-visibility-company-desc": "지점 관리자 and Company Members will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch": "Branch",
-    "utils-profile-profile-in-bookings-visibility-branch-desc": "전체 회원 in workspace will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch-managers": "지점 관리자",
-    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "지점 관리자 will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-network": "Network",
-    "utils-profile-profile-in-bookings-visibility-network-desc": "전체 회원 in network will see your name in Bookings."
+    "utils-profile-profile-in-bookings-visibility-company": "회사",
+    "utils-profile-profile-in-bookings-visibility-company-desc": "회사원들과 지점관리자는 예약에서 당신의 성함을 볼 수 있습니다.",
+    "utils-profile-profile-in-bookings-visibility-branch": "지점",
+    "utils-profile-profile-in-bookings-visibility-branch-desc": "지점 회원은 예약에서 당신의 성함을 볼 수 있습니다.",
+    "utils-profile-profile-in-bookings-visibility-branch-managers": "지점관리자",
+    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "지점관리자는 예약에서 당신의 성함을 볼 수 있습니다.",
+    "utils-profile-profile-in-bookings-visibility-network": "지점 네트워크",
+    "utils-profile-profile-in-bookings-visibility-network-desc": "지점 네트워크 회원은 예약에서 당신의 성함을 볼 수 있습니다.
+"
   }
 }
