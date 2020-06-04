@@ -1,13 +1,13 @@
 {
   "data": {
-    "utils-invoice-book-by-invoice-permission-all-members": "회사 매니저 및 회사원",
-    "utils-invoice-book-by-invoice-permission-company-managers": "회사 매니저",
-    "utils-invoice-book-by-invoice-permission-info-all-members": "전체 회사원들이 '회사인보이스' 결제 수단을 이용 가능합니다 charge card.",
-    "utils-invoice-book-by-invoice-permission-info-company-managers": "회사 매니저들 만 '회사인보이스' 결제 수단을 이용 가능합니다 charge card.",
+    "utils-invoice-book-by-invoice-permission-all-members": "회사매니저 및 회사원",
+    "utils-invoice-book-by-invoice-permission-company-managers": "회사매니저",
+    "utils-invoice-book-by-invoice-permission-info-all-members": "전체 회사원들이 '후불카드' 결제 수단을 이용 가능합니다.",
+    "utils-invoice-book-by-invoice-permission-info-company-managers": "회사 매니저들 만 '후불카드' 결제 수단을 이용 가능합니다.",
     "utils-invoice-item-type-booking-payment-type": "예약",
     "utils-invoice-item-type-booking-payment-type-with-name": "{name} 예약",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "{name} {roomName} 예약",
-    "utils-invoice-is-unfinished": "임시 {amount}",
+    "utils-invoice-is-unfinished": "사용금액 {amount}",
     "utils-invoice-item-type-default": "기타"
   }
 }
