@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "Це буде відображено в statement.",
-    "suite-page-organization-settings-general-bank-info-placeholder": "Уведіть дані банківського рахунку",
-    "suite-page-organization-settings-general-bank-info-title": "Банківський рахунок",
+    "suite-page-organization-settings-general-bank-info-desc": "Це буде відображено на рахунках.",
+    "suite-page-organization-settings-general-bank-info-placeholder": "Уведіть банківські реквізити",
+    "suite-page-organization-settings-general-bank-info-title": "Банківські реквізити",
     "suite-page-organization-settings-general-currency": "Валюта",
     "suite-page-organization-settings-general-currency-contact-to-support": "Щоб змінити валюту, зверніться до support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Мова",
     "suite-page-organization-settings-general-error-tax-percent": "Уведіть правильне значення ставки податку.",
-    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публічна бізнес-інформація допомагає клієнтам розпізнавати вашу компанію на statements. ",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публічна бізнес-інформація допомагає клієнтам упізнавати вашу компанію на рахунках. ",
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Уведіть інформацію",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Інформація про компанію",
-    "suite-page-organization-settings-general-invoicing-information-title": "Company Statements",
-    "suite-page-organization-settings-general-tax-percent-desc": "Ставка податку використовується для відображення суми податків в statements. Всі ціни повинні включати податок.",
+    "suite-page-organization-settings-general-invoicing-information-title": "Рахунки розрахункової картки",
+    "suite-page-organization-settings-general-tax-percent-desc": "Ставка податку використовується для відображення суми податків в рахунках. Всі ціни повинні включати податок.",
     "suite-page-organization-settings-general-tax-percent-label": "Ставка податку, %",
     "suite-page-organization-settings-general-timezone": "Часовий пояс",
     "suite-page-organization-settings-general-title": "Загальні"
