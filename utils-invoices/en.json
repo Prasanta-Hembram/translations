@@ -7,7 +7,7 @@
     "utils-invoice-item-type-booking-payment-type": "Booking",
     "utils-invoice-item-type-booking-payment-type-with-name": "Booking of {name}",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "{roomName} Booking of {name}",
-    "utils-invoice-is-unfinished": "Not finalized {amount}",
+    "utils-invoice-is-unfinished": "Outstanding Balance {amount}",
     "utils-invoice-item-type-default": "Other"
   }
 }
