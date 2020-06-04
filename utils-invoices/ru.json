@@ -7,7 +7,7 @@
     "utils-invoice-item-type-booking-payment-type": "Бронь",
     "utils-invoice-item-type-booking-payment-type-with-name": "Бронь, {name}",
     "utils-invoice-item-type-booking-payment-type-with-name-and-room-name": "Бронь {roomName}, {name}",
-    "utils-invoice-is-unfinished": "Неоплаченная сумма {amount}",
+    "utils-invoice-is-unfinished": "Насчитано {amount}",
     "utils-invoice-item-type-default": "Другой"
   }
 }
