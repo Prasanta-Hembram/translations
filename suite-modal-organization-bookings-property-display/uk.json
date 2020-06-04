@@ -4,7 +4,7 @@
     "suite-modal-organization-bookings-property-display-availability-in-minutes": "Вільно {time}",
     "suite-modal-organization-bookings-property-display-availability-unavailable": "Зайнято",
     "suite-modal-organization-bookings-property-display-check-in": "Підтвердити",
-    "suite-modal-organization-bookings-property-display-default-purpose": "Без назви",
+    "suite-modal-organization-bookings-property-display-default-purpose": "Резервація",
     "suite-modal-organization-bookings-property-display-next-booking-label": "Наступна резервація",
     "suite-modal-organization-bookings-property-display-next-bookings-label": "Наступні резервації"
   }
