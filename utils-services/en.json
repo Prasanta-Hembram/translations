@@ -4,8 +4,6 @@
     "utils-services-allowance-type-unlimited": "Unlimited",
     "utils-services-application-type-by-email": "Email",
     "utils-services-application-type-by-link": "Link",
-    "utils-services-application-type-no-application": "No application necessary",
-    "utils-services-permission-type-admin": "Branch Managers",
-    "utils-services-permission-type-all": "All Members"
+    "utils-services-application-type-no-application": "No application necessary"
   }
 }

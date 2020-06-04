@@ -4,8 +4,6 @@
     "utils-services-allowance-type-unlimited": "Unbegrenzt",
     "utils-services-application-type-by-email": "E-Mail",
     "utils-services-application-type-by-link": "Link",
-    "utils-services-application-type-no-application": "Keine Beantragung erforderlich",
-    "utils-services-permission-type-admin": "Standort Managers",
-    "utils-services-permission-type-all": "Alle Mitglieder"
+    "utils-services-application-type-no-application": "Keine Beantragung erforderlich"
   }
 }

@@ -4,8 +4,6 @@
     "utils-benefits-allowance-type-unlimited": "무제한",
     "utils-benefits-application-type-by-email": "이메일",
     "utils-benefits-application-type-by-link": "링크",
-    "utils-benefits-application-type-no-application": "신청 불필요",
-    "utils-benefits-permission-type-admin": "지점 관리자",
-    "utils-benefits-permission-type-all": "전체 회원"
+    "utils-benefits-application-type-no-application": "신청 불필요"
   }
 }

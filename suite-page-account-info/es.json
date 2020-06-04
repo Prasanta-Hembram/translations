@@ -6,10 +6,6 @@
     "suite-page-account-info-log-out": "Cerrar Sesión",
     "suite-page-account-info-photo-delete": "Eliminar foto",
     "suite-page-account-info-section-about": "Acerca de ti",
-    "suite-page-account-info-section-about-placeholder": "Cuéntanos sobre tus experiencias e intereses",
-    "suite-page-account-info-user-email-visibility": "Visibilidad del email",
-    "suite-page-account-info-user-email-visibility-description": "Establece quién puede ver tu correo electrónico.",
-    "suite-page-account-info-user-phone-number-visibility": "Visibilidad del número",
-    "suite-page-account-info-user-phone-number-visibility-description": "Establece quién puede ver tu número teléfonico."
+    "suite-page-account-info-section-about-placeholder": "Cuéntanos sobre tus experiencias e intereses"
   }
 }

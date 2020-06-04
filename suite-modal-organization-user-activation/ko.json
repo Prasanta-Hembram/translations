@@ -2,7 +2,10 @@
   "data": {
     "suite-modal-organization-user-activation-title": "필수 정보",
     "suite-modal-organization-user-activation-button-activate": "활성화하기",
+    "suite-modal-organization-user-activation-button-done": "확인",
     "suite-modal-organization-user-activation-button-reject": "거부",
-    "suite-modal-organization-user-activation-error-first-name": "이름을 입력하세요."
+    "suite-modal-organization-user-activation-error-first-name": "이름을 입력하세요.",
+    "suite-modal-organization-user-activation-user-invite-success-text": "계정이 성공적으로 활성화되었습니다. 디지털 작업 공간에 오신 것을 환영합니다!",
+    "suite-modal-organization-user-activation-user-invite-success-title": "환영합니다"
   }
 }

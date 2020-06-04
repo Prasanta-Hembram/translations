@@ -1,13 +1,12 @@
 {
   "data": {
-    "suite-modal-organization-community-users-invite-title": "Invitación",
+    "suite-modal-organization-community-users-invite-title": "Invitación en masa",
     "suite-modal-organization-community-users-invite-mass-button-download-template": "Descargar plantilla",
     "suite-modal-organization-community-users-invite-mass-button-upload": "Subir archivo",
     "suite-modal-organization-community-users-invite-mass-desc": "Carga un archivo con formato especial con una lista de tus miembros para invitarlos a unirse a este espacio de trabajo de andcards.",
     "suite-modal-organization-community-users-invite-mass-error-description": "La invitación del usuario salió mal. El archivo que subiste tiene varios problemas en los siguientes elementos:",
     "suite-modal-organization-community-users-invite-mass-error-list-item-label": "La columna {fieldColumnName} fila {fieldRowNumber} valor {fieldValue} es incorrecta.",
     "suite-modal-organization-community-users-invite-mass-error-note": "Arregla los errores y vuelve a intentarlo.",
-    "suite-modal-organization-community-users-invite-mass-label": "Invitar a los miembros en masa",
     "suite-modal-organization-community-users-invite-policy-desc": "Al subir el archivo, usted confirma que toda la información personal proporcionada en el archivo ha sido recopilada legalmente y con el permiso apropiado de los propietarios para utilizar sus datos personales."
   }
 }

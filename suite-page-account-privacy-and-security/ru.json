@@ -1,6 +1,7 @@
 {
   "data": {
     "suite-page-account-privacy-and-security-title": "Конфиденциальность и безопасность",
+    "suite-page-account-privacy-and-security-button-privacy": "Конфиденциальность",
     "suite-page-account-privacy-and-security-email-label": "Email",
     "suite-page-account-privacy-and-security-email-notice": "Подключите email для входа в учетную запись.",
     "suite-page-account-privacy-and-security-email-value-not-connected": "Не подключен",

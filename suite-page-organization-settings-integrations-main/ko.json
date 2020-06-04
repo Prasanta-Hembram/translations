@@ -3,6 +3,7 @@
     "suite-page-organization-settings-integrations-main-title": "연동",
     "suite-page-organization-settings-integrations-main-ezeep-subtitle": "클라우드 인쇄",
     "suite-page-organization-settings-integrations-main-mailchimp-subtitle": "이메일 마케팅 자동화",
+    "suite-page-organization-settings-integrations-main-saltoks-subtitle": "출입통제",
     "suite-page-organization-settings-integrations-main-stripe-subtitle": "회의실 예약에 카드 결제"
   }
 }

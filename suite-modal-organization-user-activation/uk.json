@@ -2,7 +2,10 @@
   "data": {
     "suite-modal-organization-user-activation-title": "Обов'язкова інформація",
     "suite-modal-organization-user-activation-button-activate": "Активувати",
+    "suite-modal-organization-user-activation-button-done": "Готово",
     "suite-modal-organization-user-activation-button-reject": "Відмінити",
-    "suite-modal-organization-user-activation-error-first-name": "Уведіть ім'я."
+    "suite-modal-organization-user-activation-error-first-name": "Уведіть ім'я.",
+    "suite-modal-organization-user-activation-user-invite-success-text": "Ваш обліковий запис успішно активовано. Ласкаво просимо до вашого цифрового робочого простору!",
+    "suite-modal-organization-user-activation-user-invite-success-title": "Ласкаво просимо!"
   }
 }

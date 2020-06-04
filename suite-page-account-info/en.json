@@ -6,10 +6,6 @@
     "suite-page-account-info-log-out": "Log out",
     "suite-page-account-info-photo-delete": "Delete Photo",
     "suite-page-account-info-section-about": "About",
-    "suite-page-account-info-section-about-placeholder": "Type something",
-    "suite-page-account-info-user-email-visibility": "Email Visibility",
-    "suite-page-account-info-user-email-visibility-description": "Select who can see your email address.",
-    "suite-page-account-info-user-phone-number-visibility": "Phone Number Visibility",
-    "suite-page-account-info-user-phone-number-visibility-description": "Select who can see your phone number."
+    "suite-page-account-info-section-about-placeholder": "Type something"
   }
 }

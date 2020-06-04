@@ -1,13 +1,12 @@
 {
   "data": {
-    "suite-modal-organization-community-users-invite-title": "Запросити",
+    "suite-modal-organization-community-users-invite-title": "Масове запрошення",
     "suite-modal-organization-community-users-invite-mass-button-download-template": "Завантажити шаблон",
     "suite-modal-organization-community-users-invite-mass-button-upload": "Завантажити файл",
     "suite-modal-organization-community-users-invite-mass-desc": "Завантажте спеціально відформатований файл зі списком ваших учасників, щоб запросити їх приєднатися до робочого простору.",
     "suite-modal-organization-community-users-invite-mass-error-description": "Не вдалося запросити учасників. У файлі, що ви завантажили, знайдено наступні проблеми:",
     "suite-modal-organization-community-users-invite-mass-error-list-item-label": "У колонці {fieldColumnName} рядку {fieldRowNumber} невірно вказано {fieldValue}.",
     "suite-modal-organization-community-users-invite-mass-error-note": "Усуньте помилки та спробуйте наново.",
-    "suite-modal-organization-community-users-invite-mass-label": "Запросити всіх учасників",
     "suite-modal-organization-community-users-invite-policy-desc": "Завантажуючи файл ви підтверджуєте, що всі персональні дані, надані у файлі були зібрані законно і за згоди власників на обробку персональноих даних."
   }
 }
