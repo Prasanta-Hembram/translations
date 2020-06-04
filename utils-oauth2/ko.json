@@ -2,8 +2,8 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "회의실 예약 읽기",
     "utils-oauth2-scope-bookings": "회의실 예약 읽기/편집",
-    "utils-oauth2-scope-company-invoices-readonly": "회사인보이스 읽기 statements",
-    "utils-oauth2-scope-company-invoices": "회사인보이스 읽기/편집",
+    "utils-oauth2-scope-company-invoices-readonly": "청구 내역 읽기",
+    "utils-oauth2-scope-company-invoices": "청구 내역 읽기/편집",
     "utils-oauth2-scope-companies-readonly": "회사 정보 읽기",
     "utils-oauth2-scope-companies": "회사 정보 읽기/편집",
     "utils-oauth2-scope-memberships-readonly": "회원 정보 읽기",
