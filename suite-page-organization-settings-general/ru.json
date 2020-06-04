@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "Это будет отражено в statement.",
-    "suite-page-organization-settings-general-bank-info-placeholder": "Введите информацию о банковском счете",
-    "suite-page-organization-settings-general-bank-info-title": "Банковский счет",
+    "suite-page-organization-settings-general-bank-info-desc": "Отображается в счёте.",
+    "suite-page-organization-settings-general-bank-info-placeholder": "Введите реквизиты",
+    "suite-page-organization-settings-general-bank-info-title": "Банковские реквизиты",
     "suite-page-organization-settings-general-currency": "Валюта",
     "suite-page-organization-settings-general-currency-contact-to-support": "Чтобы изменить валюту, свяжитесь с support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Язык",
     "suite-page-organization-settings-general-error-tax-percent": "Введите правильное значение процента налога.",
-    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публичная бизнес информация помогает клиентам узнавать ваш бизнес на statements.",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "Публичная бизнес информация помогает клиентам узнавать ваш бизнес на счетах.",
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Введите информацию",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Информация о компании",
-    "suite-page-organization-settings-general-invoicing-information-title": "Company Statements",
-    "suite-page-organization-settings-general-tax-percent-desc": "Налоговая ставка используется для отображения суммы налога в statements. Все цены должны включать налог.",
+    "suite-page-organization-settings-general-invoicing-information-title": "Счета расчётной карты",
+    "suite-page-organization-settings-general-tax-percent-desc": "Налоговая ставка используется для отображения суммы налога в счёте. Все цены должны включать налог.",
     "suite-page-organization-settings-general-tax-percent-label": "Ставка налога, %",
     "suite-page-organization-settings-general-timezone": "Часовой пояс",
     "suite-page-organization-settings-general-title": "Общие"
