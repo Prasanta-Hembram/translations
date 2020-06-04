@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "Esto aparecerá en una statement.",
-    "suite-page-organization-settings-general-bank-info-placeholder": "Escriba una información de cuenta bancaria",
+    "suite-page-organization-settings-general-bank-info-desc": "Incluido en los estados de cuenta.",
+    "suite-page-organization-settings-general-bank-info-placeholder": "Escriba tu cuenta bancaria",
     "suite-page-organization-settings-general-bank-info-title": "Cuenta bancaria",
     "suite-page-organization-settings-general-currency": "La moneda",
     "suite-page-organization-settings-general-currency-contact-to-support": "Para cambiar de moneda, contactar con support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Idioma predeterminado",
     "suite-page-organization-settings-general-error-tax-percent": "Escriba una tasa de impuestos válida.",
-    "suite-page-organization-settings-general-invoicing-business-info-desc": "La información comercial pública ayuda a los clientes a reconocer su negocio en las statements. ",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "La información comercial pública ayuda a los clientes a reconocer su negocio en los estados de cuenta. ",
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Escribe una información",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Información de negocios",
-    "suite-page-organization-settings-general-invoicing-information-title": "Company Statements",
-    "suite-page-organization-settings-general-tax-percent-desc": "La tasa de impuestos se utiliza para mostrar el importe del impuesto en las statements. Todos los precios deben incluir el impuesto.",
+    "suite-page-organization-settings-general-invoicing-information-title": "Estados de cuenta de la tarjeta de cargos",
+    "suite-page-organization-settings-general-tax-percent-desc": "La tasa de impuestos se utiliza para mostrar el importe del impuesto en los estados de cuenta. Todos los precios deben incluir el impuesto.",
     "suite-page-organization-settings-general-tax-percent-label": "Tasa de impuesto, %",
     "suite-page-organization-settings-general-timezone": "Zona horaria",
     "suite-page-organization-settings-general-title": "General"
