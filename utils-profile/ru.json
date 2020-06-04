@@ -7,12 +7,12 @@
     "utils-profile-phone-number-visibility-admins": "Менеджеры отделения",
     "utils-profile-phone-number-visibility-all": "Все участники",
     "utils-profile-profile-in-bookings-visibility-company": "Company",
-    "utils-profile-profile-in-bookings-visibility-company-desc": "Branch Managers and Company Members will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-company-desc": "Менеджеры отделения and Company Members will see your name in Bookings.",
     "utils-profile-profile-in-bookings-visibility-branch": "Branch",
-    "utils-profile-profile-in-bookings-visibility-branch-desc": "All Members in workspace will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch-managers": "Branch Managers",
-    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Branch Managers will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-branch-desc": "Все участники in workspace will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-branch-managers": "Менеджеры отделения",
+    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Менеджеры отделения will see your name in Bookings.",
     "utils-profile-profile-in-bookings-visibility-network": "Network",
-    "utils-profile-profile-in-bookings-visibility-network-desc": "All Members in network will see your name in Bookings."
+    "utils-profile-profile-in-bookings-visibility-network-desc": "Все участники in network will see your name in Bookings."
   }
 }

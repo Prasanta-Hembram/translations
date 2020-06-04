@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-bookings-calendar-title": "Усі кімнати",
     "suite-page-organization-bookings-calendar-date": "Дата",
+    "suite-page-organization-bookings-calendar-default-booking-purpose": "Без назви",
     "suite-page-organization-bookings-calendar-get-failure": "Кімнати не відображаються. Перевірте, чи все добре з інтернет-з'єднанням.",
     "suite-page-organization-bookings-calendar-my": "Моя резервація",
     "suite-page-organization-bookings-calendar-no-properties-description": "Бронюйте кімнати для переговорів миттєво та платіть карткою чи кредитами.",

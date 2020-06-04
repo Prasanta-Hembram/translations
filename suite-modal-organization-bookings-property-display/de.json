@@ -4,6 +4,7 @@
     "suite-modal-organization-bookings-property-display-availability-in-minutes": "In {time} verfügbar",
     "suite-modal-organization-bookings-property-display-availability-unavailable": "Nicht verfügbar",
     "suite-modal-organization-bookings-property-display-check-in": "Check-In",
+    "suite-modal-organization-bookings-property-display-default-purpose": "Reservierung",
     "suite-modal-organization-bookings-property-display-next-booking-label": "Nächste Buchung",
     "suite-modal-organization-bookings-property-display-next-bookings-label": "Nächste Buchungen"
   }

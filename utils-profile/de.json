@@ -7,12 +7,12 @@
     "utils-profile-phone-number-visibility-admins": "Standort Manager",
     "utils-profile-phone-number-visibility-all": "Alle Mitglieder",
     "utils-profile-profile-in-bookings-visibility-company": "Company",
-    "utils-profile-profile-in-bookings-visibility-company-desc": "Branch Managers and Company Members will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-company-desc": "Standort Managers and Company Members will see your name in Bookings.",
     "utils-profile-profile-in-bookings-visibility-branch": "Branch",
-    "utils-profile-profile-in-bookings-visibility-branch-desc": "All Members in workspace will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch-managers": "Branch Managers",
-    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Branch Managers will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-branch-desc": "Alle Mitglieder in workspace will see your name in Bookings.",
+    "utils-profile-profile-in-bookings-visibility-branch-managers": "Standort Managers",
+    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Standort Managers will see your name in Bookings.",
     "utils-profile-profile-in-bookings-visibility-network": "Network",
-    "utils-profile-profile-in-bookings-visibility-network-desc": "All Members in network will see your name in Bookings."
+    "utils-profile-profile-in-bookings-visibility-network-desc": "Alle Mitglieder in network will see your name in Bookings."
   }
 }

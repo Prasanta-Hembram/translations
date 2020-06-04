@@ -2,6 +2,7 @@
   "data": {
     "suite-page-organization-bookings-calendar-title": "Все переговорные",
     "suite-page-organization-bookings-calendar-date": "Дата",
+    "suite-page-organization-bookings-calendar-default-booking-purpose": "Без названия",
     "suite-page-organization-bookings-calendar-get-failure": "Переговорные не отображаются. Проверьте интернет-соединение.",
     "suite-page-organization-bookings-calendar-my": "Мое бронирование",
     "suite-page-organization-bookings-calendar-no-properties-description": "Бронируйте переговорные в пару нажатий, платите картой или кредитами.",
