@@ -2,8 +2,8 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "Получать информацию о бронированиях",
     "utils-oauth2-scope-bookings": "Получать и изменять информацию о бронированиях",
-    "utils-oauth2-scope-company-invoices-readonly": "Получать информацию об statements компаний",
-    "utils-oauth2-scope-company-invoices": "Получать и изменять информацию об statements компаний",
+    "utils-oauth2-scope-company-invoices-readonly": "Получать информацию о счетах",
+    "utils-oauth2-scope-company-invoices": "Получать и изменять информацию о счетах",
     "utils-oauth2-scope-companies-readonly": "Получать информацию о компаниях",
     "utils-oauth2-scope-companies": "Получать и изменять информацию о компаниях",
     "utils-oauth2-scope-memberships-readonly": "Получать информацию об участниках",
