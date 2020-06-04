@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "Compane Charge Card",
+    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "Charge-Karte",
     "suite-page-organization-settings-integrations-stripe-account-email": "Email",
     "suite-page-organization-settings-integrations-stripe-account-name": "Benutzername",
-    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Raumbuchung",
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Buchungen",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Aus",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "An",
     "suite-page-organization-settings-integrations-stripe-account-title": "Benutzerkonto",
