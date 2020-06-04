@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-bookings-calendar-title": "Todas las salas de reuniones",
+    "suite-page-organization-bookings-calendar-title": "Todas las salas",
     "suite-page-organization-bookings-calendar-date": "Fecha",
-    "suite-page-organization-bookings-calendar-default-booking-purpose": "Sin título",
-    "suite-page-organization-bookings-calendar-get-failure": "No se pudieron mostrar habitaciones. ¿Estás seguro de que hay una conexión a Internet?",
+    "suite-page-organization-bookings-calendar-default-booking-purpose": "Reserva",
+    "suite-page-organization-bookings-calendar-get-failure": "No se pudieron mostrar salas. ¿Estás seguro de que hay una conexión a Internet?",
     "suite-page-organization-bookings-calendar-my": "Mi reserva",
-    "suite-page-organization-bookings-calendar-no-properties-description": "Reserve habitaciones sobre la marcha y pague con millas o tarjetas adicionales.",
+    "suite-page-organization-bookings-calendar-no-properties-description": "Reserve salas sobre la marcha y pague con créditos y tarjetas.",
     "suite-page-organization-bookings-calendar-no-properties-title": "Reservas súper fáciles"
   }
 }
