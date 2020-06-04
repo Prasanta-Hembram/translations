@@ -3,7 +3,7 @@
     "suite-page-organization-settings-membership-title": "멤버십 설정",
     "suite-page-organization-settings-membership-company-information-permission-admin": "지점 관리자",
     "suite-page-organization-settings-membership-company-information-permission-admin-manager": "지점 관리자 및 회사 매니저",
-    "suite-page-organization-settings-membership-company-information-permission-desc": "커뮤니티의 모든 회사에는 사업자 명, 주소 및 사업자등록번호를 표시하는 '사업자정보' 필드가 있습니다. 청구내역에 표시됩니다 statements.",
+    "suite-page-organization-settings-membership-company-information-permission-desc": "모든 회사에 사업자 명, 주소 및 사업자등록번호를 표시하는 '사업자정보' 필드가 있습니다. 청구내역에 표시됩니다.",
     "suite-page-organization-settings-membership-company-information-permission-label": "회사 사업자정보 수정 권한",
     "suite-page-organization-settings-membership-permission-admin-moderator": "지점 관리자",
     "suite-page-organization-settings-membership-permission-all-members": "전체 회원",
