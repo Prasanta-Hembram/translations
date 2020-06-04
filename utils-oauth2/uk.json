@@ -2,8 +2,8 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "Отримувати резервації",
     "utils-oauth2-scope-bookings": "Отримувати та редагувати резервації",
-    "utils-oauth2-scope-company-invoices-readonly": "Отримувати інформацію про statements компаній",
-    "utils-oauth2-scope-company-invoices": "Отримувати та редагувати інформацію про statements компаній",
+    "utils-oauth2-scope-company-invoices-readonly": "Отримувати інформацію про рахунки",
+    "utils-oauth2-scope-company-invoices": "Отримувати та редагувати інформацію про рахунки",
     "utils-oauth2-scope-companies-readonly": "Отримувати інформацію про компанії",
     "utils-oauth2-scope-companies": "Отримувати та редагувати інформацію про компанії",
     "utils-oauth2-scope-memberships-readonly": "Отримувати інформацію про учасників",
