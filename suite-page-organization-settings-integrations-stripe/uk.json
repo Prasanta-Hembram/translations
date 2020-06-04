@@ -1,9 +1,9 @@
 {
   "data": {
-    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "Charge Card компанії",
+    "suite-page-organization-settings-integrations-stripe-account-company-invoice": "Розрахункова карта",
     "suite-page-organization-settings-integrations-stripe-account-email": "Email",
     "suite-page-organization-settings-integrations-stripe-account-name": "Ім'я",
-    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Резервація кімнат",
+    "suite-page-organization-settings-integrations-stripe-account-room-booking": "Резервація",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-off": "Вимкнено",
     "suite-page-organization-settings-integrations-stripe-account-switch-value-on": "Увімкнено",
     "suite-page-organization-settings-integrations-stripe-account-title": "Обліковий запис",
