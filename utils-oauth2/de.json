@@ -2,7 +2,7 @@
   "data": {
     "utils-oauth2-scope-bookings-readonly": "Lesen Sie die Buchungen",
     "utils-oauth2-scope-bookings": "Lesen und schreiben Sie die Buchungen",
-    "utils-oauth2-scope-company-invoices-readonly": "Lesen Sie Company Statemens",
+    "utils-oauth2-scope-company-invoices-readonly": "Lesen Sie Kontoauszüge",
     "utils-oauth2-scope-company-invoices": "Lesen und schreiben Sie Unternehmenrechnungen",
     "utils-oauth2-scope-companies-readonly": "Lesen Sie die Unternehmen",
     "utils-oauth2-scope-companies": "Lesen und schreiben Sie die Unternehmen",
