@@ -1,18 +1,18 @@
 {
   "data": {
-    "utils-profile-email-visibility-admins": "Standort Manager",
+    "utils-profile-email-visibility-admins": "Standortmanager",
     "utils-profile-email-visibility-all": "Alle Mitglieder",
     "utils-profile-name-default": "Kein Name",
     "utils-profile-name-unidentified": "Nicht identifiziertes Mitglied",
-    "utils-profile-phone-number-visibility-admins": "Standort Manager",
+    "utils-profile-phone-number-visibility-admins": "Standortmanager",
     "utils-profile-phone-number-visibility-all": "Alle Mitglieder",
-    "utils-profile-profile-in-bookings-visibility-company": "Company",
-    "utils-profile-profile-in-bookings-visibility-company-desc": "Standort Managers and Company Members will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch": "Branch",
-    "utils-profile-profile-in-bookings-visibility-branch-desc": "Alle Mitglieder in workspace will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-branch-managers": "Standort Managers",
-    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Standort Managers will see your name in Bookings.",
-    "utils-profile-profile-in-bookings-visibility-network": "Network",
-    "utils-profile-profile-in-bookings-visibility-network-desc": "Alle Mitglieder in network will see your name in Bookings."
+    "utils-profile-profile-in-bookings-visibility-company": "Unternehmen",
+    "utils-profile-profile-in-bookings-visibility-company-desc": "Unternehmensmitglieder und Standortmanager werden Ihren Namen auf den Buchungen sehen.",
+    "utils-profile-profile-in-bookings-visibility-branch": "Workspace",
+    "utils-profile-profile-in-bookings-visibility-branch-desc": "Alle Mitglieder des Workspace werden Ihren Namen auf den Buchungen sehen.",
+    "utils-profile-profile-in-bookings-visibility-branch-managers": "Standortmanager",
+    "utils-profile-profile-in-bookings-visibility-branch-managers-desc": "Nur Standortmanager können Ihren Namen auf den Buchungen sehen.",
+    "utils-profile-profile-in-bookings-visibility-network": "Netzwerk",
+    "utils-profile-profile-in-bookings-visibility-network-desc": "Mitglieder aller Workspaces im gesamten Netzwerk werden Ihren Namen auf den Buchungen sehen."
   }
 }
