@@ -1,11 +1,11 @@
 {
   "data": {
-    "suite-page-organization-bookings-calendar-title": "전체 회의실 예약 현황",
+    "suite-page-organization-bookings-calendar-title": "전체 실 예약 현황",
     "suite-page-organization-bookings-calendar-date": "날짜",
     "suite-page-organization-bookings-calendar-default-booking-purpose": "예약",
-    "suite-page-organization-bookings-calendar-get-failure": "회의실을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+    "suite-page-organization-bookings-calendar-get-failure": "실을 표시할 수 없습니다. 인터넷 연결을 확인해 주세요.",
     "suite-page-organization-bookings-calendar-my": "나의 예약",
-    "suite-page-organization-bookings-calendar-no-properties-description": "이동 중에 회의실을 예약하고, 개인 캘린더와 연결하며, 마일리지나 카드로 지불하고, 회의실 디스플레이를 연결해보세요.",
-    "suite-page-organization-bookings-calendar-no-properties-title": "매우 쉬운 회의실 예약"
+    "suite-page-organization-bookings-calendar-no-properties-description": "이동 중에 실을 예약하고 크레딧 및 카드로 결제하세요.",
+    "suite-page-organization-bookings-calendar-no-properties-title": "매우 쉬운 예약"
   }
 }
