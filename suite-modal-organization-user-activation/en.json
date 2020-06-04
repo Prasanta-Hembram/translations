@@ -2,7 +2,10 @@
   "data": {
     "suite-modal-organization-user-activation-title": "Required Information",
     "suite-modal-organization-user-activation-button-activate": "Activate",
+    "suite-modal-organization-user-activation-button-done": "Done",
     "suite-modal-organization-user-activation-button-reject": "Reject",
-    "suite-modal-organization-user-activation-error-first-name": "Type a first name."
+    "suite-modal-organization-user-activation-error-first-name": "Type a first name.",
+    "suite-modal-organization-user-activation-user-invite-success-text": "Your account is activated successfully. Welcome to your digital workspace!",
+    "suite-modal-organization-user-activation-user-invite-success-title": "Welcome!"
   }
 }
