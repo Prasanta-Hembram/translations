@@ -3,11 +3,11 @@
     "suite-page-organization-membership-company-settings-title": "Налаштування",
     "suite-page-organization-membership-company-settings-balance-history-permission": "Історія транзакцій",
     "suite-page-organization-membership-company-settings-billing-address-title": "Інформація про компанію",
-    "suite-page-organization-membership-company-settings-billing-address-desc": "Indicate company name, address, and any other legal information to appear on statements.",
+    "suite-page-organization-membership-company-settings-billing-address-desc": "Укажіть назву компанії, адресу, та будь-яку іншу юридичну інформацію для включення в рахунок.",
     "suite-page-organization-membership-company-settings-billing-address-placeholder": "Увести інформацію",
     "suite-page-organization-membership-company-settings-book-by-charge-card-permission": "Резервації з розрахунковою картою",
     "suite-page-organization-membership-company-settings-charge-card": "Розрахункова карта",
-    "suite-page-organization-membership-company-settings-charge-card-description": "When turned on, charge card payment method becomes available for the company.",
+    "suite-page-organization-membership-company-settings-charge-card-description": "Увімкнути оплати розрахунковою картою для компанії.",
     "suite-page-organization-membership-company-settings-not-found-error": "Ця компанія не існує або ж була видалена.",
     "suite-page-organization-membership-company-settings-update-failure": "Не вдалося оновити"
   }
