@@ -1,17 +1,17 @@
 {
   "data": {
-    "suite-page-organization-settings-general-bank-info-desc": "Diese werden auf einer statement erscheinen.",
+    "suite-page-organization-settings-general-bank-info-desc": "Diese werden auf einer Kontoauszug erscheinen.",
     "suite-page-organization-settings-general-bank-info-placeholder": "Bankkontoinformationen eingeben",
     "suite-page-organization-settings-general-bank-info-title": "Bankkonto",
     "suite-page-organization-settings-general-currency": "Währung",
     "suite-page-organization-settings-general-currency-contact-to-support": "Um die Währung zu ändern, wenden Sie sich bitte an support@andcards.com.",
     "suite-page-organization-settings-general-default-locale": "Standard-Sprache",
     "suite-page-organization-settings-general-error-tax-percent": "Geben Sie einen gültigen Steuersatz ein.",
-    "suite-page-organization-settings-general-invoicing-business-info-desc": "Öffentliche Geschäftsinformationen helfen Kunden, Ihr Unternehmen auf statements wieder zu erkennen.",
+    "suite-page-organization-settings-general-invoicing-business-info-desc": "Öffentliche Geschäftsinformationen helfen Kunden, Ihr Unternehmen auf Kontoauszüge wieder zu erkennen.",
     "suite-page-organization-settings-general-invoicing-business-info-placeholder": "Informationen eingeben",
     "suite-page-organization-settings-general-invoicing-business-info-title": "Unternehmensinformationen",
-    "suite-page-organization-settings-general-invoicing-information-title": "Company Statements",
-    "suite-page-organization-settings-general-tax-percent-desc": "Der Steuersatz wird verwendet, um den Steuerbetrag auf statements auszuweisen. Alle Preise müssen die Mehrwertsteuer enthalten.",
+    "suite-page-organization-settings-general-invoicing-information-title": "Kontoauszüge",
+    "suite-page-organization-settings-general-tax-percent-desc": "Der Steuersatz wird verwendet, um den Steuerbetrag auf Kontoauszüge auszuweisen. Alle Preise müssen die Mehrwertsteuer enthalten.",
     "suite-page-organization-settings-general-tax-percent-label": "Steuersatz, %",
     "suite-page-organization-settings-general-timezone": "Zeitzone",
     "suite-page-organization-settings-general-title": "Allgemein"
