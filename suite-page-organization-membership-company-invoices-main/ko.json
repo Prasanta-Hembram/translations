@@ -1,8 +1,8 @@
 {
   "data": {
-    "suite-page-organization-membership-company-invoices-main-title": "Charge Card",
-    "suite-page-organization-membership-company-invoices-main-indicator-monthly-activity-title": "Monthly Activity",
-    "suite-page-organization-membership-company-invoices-main-indicator-previous-month-title": "Previous Month",
-    "suite-page-organization-membership-company-invoices-main-indicator-this-month-title": "This Month"
+    "suite-page-organization-membership-company-invoices-main-title": "후불카드",
+    "suite-page-organization-membership-company-invoices-main-indicator-monthly-activity-title": "월별 이용내역",
+    "suite-page-organization-membership-company-invoices-main-indicator-previous-month-title": "이전 달",
+    "suite-page-organization-membership-company-invoices-main-indicator-this-month-title": "이번 달"
   }
 }
